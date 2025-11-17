@@ -8,10 +8,10 @@ from datetime import datetime
 import logging
 
 try:
-    from evdspy import evdspyAPI
+    from evds import evdsAPI
 except ImportError:
-    # evdspy kurulu değilse, kullanıcıya bilgi ver
-    evdspyAPI = None
+    # evds kurulu değilse, kullanıcıya bilgi ver
+    evdsAPI = None
 
 from quanttrade.config import (
     get_evds_api_key, 
@@ -49,20 +49,30 @@ class EVDSClient:
                                      Verilmezse .env'den okunur.
                                      
         Raises:
-            ImportError: evdspy paketi kurulu değilse
+            ImportError: evds paketi kurulu değilse
             ValueError: API anahtarı geçersizse
+        
+        Not:
+            5 Nisan 2024 tarihinde EVDS API güncellemesi yapılmıştır.
+            API anahtarı artık HTTP header içinde gönderilmektedir.
         """
-        if evdspyAPI is None:
+        if evdsAPI is None:
             raise ImportError(
-                "evdspy paketi kurulu değil. Lütfen 'pip install evdspy' komutunu çalıştırın."
+                "evds paketi kurulu değil. Lütfen 'pip install evds --upgrade' komutunu çalıştırın."
             )
         
         self.api_key = api_key or get_evds_api_key()
         
+        if not self.api_key:
+            raise ValueError(
+                "EVDS API anahtarı bulunamadı. Lütfen .env dosyasında EVDS_API_KEY tanımlayın."
+            )
+        
         try:
-            # evdspy API client'ını oluştur
-            # Not: evdspy v2.0+ için API imzası: evdspyAPI(api_key)
-            self.client = evdspyAPI(self.api_key)
+            # evds API client'ını oluştur
+            # Not: API anahtarı constructor'da parametre olarak verilir
+            # 5 Nisan 2024 güncellemesi: API anahtarı artık HTTP header'da gönderiliyor
+            self.client = evdsAPI(self.api_key)
             logger.info("EVDS Client başarıyla oluşturuldu")
         except Exception as e:
             logger.error(f"EVDS Client oluşturulurken hata: {e}")
@@ -73,23 +83,37 @@ class EVDSClient:
         series_codes: Union[str, List[str]], 
         start_date: str,
         end_date: str,
-        frequency: str = "daily"
+        aggregation_types: Optional[Union[str, List[str]]] = None,
+        formulas: Optional[Union[str, List[int]]] = None,
+        frequency: Optional[int] = None
     ) -> pd.DataFrame:
         """
         EVDS'ten belirtilen serileri çeker.
         
         Args:
             series_codes (str or List[str]): EVDS seri kodu veya kodları listesi
-            start_date (str): Başlangıç tarihi (YYYY-MM-DD formatında)
-            end_date (str): Bitiş tarihi (YYYY-MM-DD formatında)
-            frequency (str): Veri frekansı. Varsayılan: "daily"
-                           Seçenekler: "daily", "weekly", "monthly", "quarterly", "yearly"
+                Örnek: 'TP.DK.USD.A.YTL' veya ['TP.DK.USD.A.YTL', 'TP.DK.EUR.A.YTL']
+            start_date (str): Başlangıç tarihi (YYYY-MM-DD veya DD-MM-YYYY formatında)
+            end_date (str): Bitiş tarihi (YYYY-MM-DD veya DD-MM-YYYY formatında)
+            aggregation_types (str or List[str], optional): Toplululaştırma yöntemi
+                Seçenekler: 'avg', 'min', 'max', 'first', 'last', 'sum'
+            formulas (str or List[int], optional): Formül
+                1: Yüzde Değişim, 2: Fark, 3: Yıllık Yüzde Değişim
+                4: Yıllık Fark, 5: Bir Önceki Yılın Sonuna Göre Yüzde Değişim
+                6: Bir Önceki Yılın Sonuna Göre Fark, 7: Hareketli Ortalama, 8: Hareketli Toplam
+            frequency (int, optional): Veri frekansı
+                1: Günlük, 2: İşgünü, 3: Haftalık, 4: Ayda 2 Kez
+                5: Aylık, 6: 3 Aylık, 7: 6 Aylık, 8: Yıllık
         
         Returns:
             pd.DataFrame: Tarih index'li DataFrame. Kolonlar seri kodlarıdır.
         
         Raises:
             ValueError: Geçersiz tarih formatı veya seri kodu
+            
+        Not:
+            EVDS resmi paketi get_data() fonksiyonu DataFrame döndürür.
+            Ham JSON verisine erişmek için client.data kullanılabilir.
         """
         # Tek bir string ise liste haline getir
         if isinstance(series_codes, str):
@@ -105,32 +129,39 @@ class EVDSClient:
         
         # Tarih formatını EVDS API için dönüştür (DD-MM-YYYY)
         try:
-            start_dt = datetime.strptime(start_date, "%Y-%m-%d")
-            end_dt = datetime.strptime(end_date, "%Y-%m-%d")
-            
-            evds_start = start_dt.strftime("%d-%m-%Y")
-            evds_end = end_dt.strftime("%d-%m-%Y")
+            # İki formatı da destekle
+            if "-" in start_date and len(start_date.split("-")[0]) == 4:
+                # YYYY-MM-DD formatı
+                start_dt = datetime.strptime(start_date, "%Y-%m-%d")
+                end_dt = datetime.strptime(end_date, "%Y-%m-%d")
+                evds_start = start_dt.strftime("%d-%m-%Y")
+                evds_end = end_dt.strftime("%d-%m-%Y")
+            else:
+                # DD-MM-YYYY formatı (zaten EVDS formatında)
+                evds_start = start_date
+                evds_end = end_date
         except ValueError as e:
             raise ValueError(
-                f"Geçersiz tarih formatı. YYYY-MM-DD formatında olmalı. Hata: {e}"
+                f"Geçersiz tarih formatı. YYYY-MM-DD veya DD-MM-YYYY formatında olmalı. Hata: {e}"
             )
         
         logger.info(
             f"EVDS'ten {len(series_codes)} seri çekiliyor: "
-            f"{', '.join(series_codes)} ({start_date} - {end_date})"
+            f"{', '.join(series_codes)} ({evds_start} - {evds_end})"
         )
         
         try:
             # EVDS API'den veri çek
-            # evdspy API imzası: get_data(series, startdate, enddate, frequency)
-            # Series kodları virgülle ayrılmış string olarak gönderilir
-            series_string = ",".join(series_codes)
-            
+            # Resmi evds paketi kullanımı:
+            # get_data(series, startdate, enddate, aggregation_types, formulas, frequency)
+            # NOT: Opsiyonel parametreler None yerine boş string ('') almalı
             df = self.client.get_data(
-                series=series_string,
+                series_codes,
                 startdate=evds_start,
                 enddate=evds_end,
-                frequency=frequency
+                aggregation_types=aggregation_types if aggregation_types else '',
+                formulas=formulas if formulas else '',
+                frequency=frequency if frequency else ''
             )
             
             if df is None or df.empty:
@@ -138,19 +169,17 @@ class EVDSClient:
                 return pd.DataFrame()
             
             # Tarih sütununu düzenle
-            # evdspy genellikle 'Tarih' veya 'YEARWEEK' gibi bir sütun döndürür
-            date_col = None
-            for col in ['Tarih', 'DATE', 'YEARWEEK']:
-                if col in df.columns:
-                    date_col = col
-                    break
-            
-            if date_col:
-                # Tarih sütununu 'date' olarak yeniden adlandır ve index yap
-                df = df.rename(columns={date_col: 'date'})
-                df['date'] = pd.to_datetime(df['date'])
+            # evds paketi genellikle 'Tarih' sütunu döndürür
+            if 'Tarih' in df.columns:
+                df = df.rename(columns={'Tarih': 'date'})
+                df['date'] = pd.to_datetime(df['date'], format='%d-%m-%Y', errors='coerce')
                 df = df.set_index('date')
                 df = df.sort_index()
+            
+            # Numerik olmayan değerleri temizle
+            for col in df.columns:
+                if df[col].dtype == 'object':
+                    df[col] = pd.to_numeric(df[col], errors='coerce')
             
             logger.info(f"Başarıyla {len(df)} satır veri çekildi")
             return df
@@ -239,9 +268,8 @@ class EVDSClient:
         for col in df.columns:
             # EVDS kodu ile eşleşme ara
             for evds_code, friendly_name in reverse_mapping.items():
-                # Hem noktasız hem noktalı versiyonları kontrol et
-                code_underscore = evds_code.replace(".", "_")
-                if col == evds_code or col == code_underscore or evds_code in col:
+                # Kolon adı EVDS kodu ile eşleşiyorsa
+                if col == evds_code or evds_code in col:
                     rename_dict[col] = friendly_name
                     break
         

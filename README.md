@@ -86,6 +86,16 @@ EVDS_API_KEY=your_actual_api_key_here
 EVDS'ten makroekonomik verileri indirmek için:
 
 ```bash
+# Virtual environment'ı aktif edin
+source .venv/bin/activate  # Mac/Linux
+# veya
+.venv\Scripts\activate  # Windows
+
+# PYTHONPATH'i ayarlayın (sadece bir kez, kalıcı)
+echo 'export PYTHONPATH="$HOME/Desktop/QuantTrade/src:$PYTHONPATH"' >> ~/.zshrc
+source ~/.zshrc
+
+# Artık scripti doğrudan çalıştırabilirsiniz
 python src/quanttrade/data_sources/macro_downloader.py
 ```
 
@@ -141,10 +151,17 @@ print(df.head())
 ## 🛠️ Teknoloji Stack'i
 
 - **Python 3.11+**
-- **evdspy** - TCMB EVDS API client
+- **evds** - TCMB EVDS Resmi API client (5 Nisan 2024 güncellemesi ile uyumlu)
 - **pandas** - Veri manipülasyonu
 - **python-dotenv** - Ortam değişkenleri yönetimi
 - **toml** - Konfigürasyon dosyası parsing
+
+### Önemli: EVDS API Güncellemesi (5 Nisan 2024)
+
+TCMB EVDS API'sinde kritik güncelleme yapılmıştır. API anahtarı artık HTTP header'da gönderilmelidir. 
+Bu proje resmi `evds` paketinin en güncel versiyonunu (v0.3.2+) kullanmaktadır.
+
+Detaylı kullanım için: [EVDS Kullanım Kılavuzu](docs/EVDS_KULLANIM.md)
 
 ## 📋 Gelecek Adımlar
 
