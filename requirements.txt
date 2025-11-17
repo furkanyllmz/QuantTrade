@@ -11,6 +11,9 @@ numpy
 # Utilities
 requests
 
+# Financial data sources
+yfinance  # Yahoo Finance API
+
 # Development (optional)
 jupyter
 matplotlib

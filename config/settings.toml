@@ -9,26 +9,33 @@ description = "ML tabanlı kantitatif alım-satım sistemi - BIST100"
 [evds]
 # EVDS API veri çekme tarihleri (YYYY-MM-DD formatında)
 start_date = "2020-01-01"
-end_date = "2024-12-31"
+end_date = "2025-11-17"
 
 # EVDS Seri Kodları
-# Her anahtar değişken adı, değer ise EVDS seri kodudur
+# Resmi EVDS Web Servis Kılavuzu (Nisan 2024) standartlarına göre
 [evds.series]
-# Döviz kurları
-usd_try = "TP.DK.USD.A.YTL"  # USD/TRY
-eur_try = "TP.DK.EUR.A.YTL"  # EUR/TRY
+# Döviz Kurları (Günlük - frequency=1)
+usd_try = "TP.DK.USD.A.YTL"  # USD/TRY alış kuru
+eur_try = "TP.DK.EUR.A.YTL"  # EUR/TRY alış kuru
 
-# Borsa endeksi
-bist100 = "TP.XU100"  # BIST100 endeksi
-
-# Para arzı
-m2 = "TP.M2.YTL"  # M2 para arzı
-
-# Enflasyon
+# Enflasyon (Aylık - frequency=5)
 cpi = "TP.FG.J0"  # TÜFE (Tüketici Fiyat Endeksi)
 
-# Uluslararası endeks (EVDS'te yoksa boş bırakılabilir)
-sp500 = ""  # S&P500 (EVDS'te bulunmayabilir, alternatif kaynak gerekebilir)
+# BIST100 Endeksi (Günlük - frequency=1)
+bist100 = "TP.MK.F.BILESIK"  # BIST100 Fiyat Endeksi
+
+# Para Arzı (Aylık - frequency=5)
+m2 = "TP.PBD.H09"  # M2 Para Arzı
+
+# TCMB Faiz Oranları (Aylık - frequency=5)
+tcmb_repo = "TP.YSSK.A1"  # TCMB 1 Haftalık Repo Faizi (Politika Faizi)
+
+# ABD Verileri (Aylık - frequency=5)
+us_cpi = "TP.IMFCPIND.USA"  # ABD Tüketici Fiyat Endeksi (IMF verisi)
+us_cli = "TP.OECDONCU.USA"  # ABD Kompozit Öncü Göstergeler Endeksi (OECD)
+
+# Not: ABD 10-yıllık tahvil faizi ve S&P500 EVDS'de mevcut değil
+# Bu veriler gerekirse Federal Reserve FRED API veya Yahoo Finance'den çekilebilir
 
 [data]
 # Veri kaydetme ayarları

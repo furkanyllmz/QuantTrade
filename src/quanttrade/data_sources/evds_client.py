@@ -172,9 +172,13 @@ class EVDSClient:
             # evds paketi genellikle 'Tarih' sütunu döndürür
             if 'Tarih' in df.columns:
                 df = df.rename(columns={'Tarih': 'date'})
-                df['date'] = pd.to_datetime(df['date'], format='%d-%m-%Y', errors='coerce')
-                df = df.set_index('date')
-                df = df.sort_index()
+                # Farklı tarih formatlarını dene
+                df['date'] = pd.to_datetime(df['date'], errors='coerce')
+                # Geçerli tarihleri filtrele
+                df = df[df['date'].notna()]
+                if not df.empty:
+                    df = df.set_index('date')
+                    df = df.sort_index()
             
             # Numerik olmayan değerleri temizle
             for col in df.columns:
@@ -197,9 +201,10 @@ class EVDSClient:
         
         Bu metod:
         1. settings.toml'dan EVDS ayarlarını okur
-        2. Tanımlanan tüm serileri çeker
-        3. Tek bir DataFrame'de birleştirir
-        4. data/raw/macro/ dizinine CSV olarak kaydeder
+        2. Tanımlanan tüm serileri GÜNLÜK frekans ile çeker
+        3. Aylık/yıllık serileri günlük aralıklara forward-fill ile doldurur
+        4. Tek bir DataFrame'de birleştirir
+        5. data/raw/macro/ dizinine CSV olarak kaydeder
         
         Args:
             output_filename (str): Çıktı dosya adı. Varsayılan: "evds_macro_daily.csv"
@@ -247,45 +252,95 @@ class EVDSClient:
         
         logger.info(f"Toplam {len(series_mapping)} seri çekilecek")
         
-        # Tüm serileri çek
-        all_series_codes = list(series_mapping.values())
-        df = self.fetch_series(
-            series_codes=all_series_codes,
-            start_date=start_date,
-            end_date=end_date
-        )
+        # Günlük tarih aralığı oluştur (business days - işgünleri)
+        start_dt = pd.to_datetime(start_date)
+        end_dt = pd.to_datetime(end_date)
+        daily_index = pd.date_range(start=start_dt, end=end_dt, freq='D')
         
-        if df.empty:
+        # Boş DataFrame oluştur
+        df_combined = pd.DataFrame(index=daily_index)
+        df_combined.index.name = 'date'
+        
+        # Her seri için ayrı ayrı çek ve birleştir
+        # Bazı seriler sadece belirli frekanslarda mevcut
+        series_frequencies = {
+            # Döviz Kurları - Günlük (1)
+            "TP.DK.USD.A.YTL": 1,
+            "TP.DK.EUR.A.YTL": 1,
+            # Enflasyon - Aylık (5)
+            "TP.FG.J0": 5,
+            # BIST100 - Günlük (1)
+            "TP.MK.F.BILESIK": 1,
+            # Para Arzı - Aylık (5)
+            "TP.PBD.H09": 5,
+            # TCMB Faiz - Aylık (5)
+            "TP.YSSK.A1": 5,
+            # ABD Verileri - Aylık (5)
+            "TP.IMFCPIND.USA": 5,
+            "TP.OECDONCU.USA": 5,
+        }
+        
+        for friendly_name, evds_code in series_mapping.items():
+            logger.info(f"Çekiliyor: {friendly_name} ({evds_code})")
+            
+            try:
+                # Seri için uygun frekansı belirle
+                freq = series_frequencies.get(evds_code, 1)  # Varsayılan: Günlük
+                
+                # İlk önce varsayılan frekansla dene
+                df_series = self.fetch_series(
+                    series_codes=evds_code,
+                    start_date=start_date,
+                    end_date=end_date,
+                    frequency=freq
+                )
+                
+                if df_series.empty:
+                    logger.warning(f"{friendly_name} için veri çekilemedi, atlanıyor")
+                    continue
+                
+                # Kolon adını düzenle
+                if len(df_series.columns) == 1:
+                    df_series.columns = [friendly_name]
+                else:
+                    # Birden fazla kolon varsa ilkini al
+                    df_series = df_series.iloc[:, 0:1]
+                    df_series.columns = [friendly_name]
+                
+                # Ana DataFrame'e ekle (reindex ile tüm tarihlere uygula)
+                df_combined = df_combined.join(df_series, how='left')
+                
+                logger.info(f"✓ {friendly_name}: {len(df_series)} satır eklendi")
+                
+            except Exception as e:
+                logger.error(f"✗ {friendly_name} çekilirken hata: {e}")
+                continue
+        
+        if df_combined.empty or df_combined.shape[1] == 0:
             logger.warning("Hiç veri çekilemedi")
             return ""
         
-        # Kolon isimlerini düzenle (EVDS kod -> friendly name)
-        # evdspy genellikle seri kodlarını TP_DK_USD_A_YTL gibi underscore'lu döndürür
-        reverse_mapping = {code: name for name, code in series_mapping.items()}
+        # Aylık/yıllık verileri günlük aralıklara forward-fill ile doldur
+        logger.info("Eksik veriler forward-fill ile dolduruluyor...")
+        df_combined = df_combined.ffill()
         
-        # Mevcut kolonları kontrol et ve yeniden adlandır
-        rename_dict = {}
-        for col in df.columns:
-            # EVDS kodu ile eşleşme ara
-            for evds_code, friendly_name in reverse_mapping.items():
-                # Kolon adı EVDS kodu ile eşleşiyorsa
-                if col == evds_code or evds_code in col:
-                    rename_dict[col] = friendly_name
-                    break
+        # Başlangıçtaki NaN'ları backward-fill ile doldur
+        df_combined = df_combined.bfill()
         
-        if rename_dict:
-            df = df.rename(columns=rename_dict)
-            logger.info(f"Kolonlar yeniden adlandırıldı: {list(rename_dict.values())}")
+        # Hala NaN varsa 0 ile doldur
+        df_combined = df_combined.fillna(0)
         
         # Dosya yolunu oluştur
         output_path = MACRO_DATA_DIR / output_filename
         
         # CSV olarak kaydet
-        df.to_csv(output_path, encoding="utf-8")
+        df_combined.to_csv(output_path, encoding="utf-8")
         logger.info(f"Veri başarıyla kaydedildi: {output_path}")
-        logger.info(f"Toplam {len(df)} satır, {len(df.columns)} kolon")
+        logger.info(f"Toplam {len(df_combined)} satır, {len(df_combined.columns)} kolon")
         
-        # İlk birkaç satırı göster
-        logger.info(f"\nİlk 3 satır:\n{df.head(3)}")
+        # İlk ve son birkaç satırı göster
+        logger.info(f"\nİlk 5 satır:\n{df_combined.head()}")
+        logger.info(f"\nSon 5 satır:\n{df_combined.tail()}")
+        logger.info(f"\nVeri özeti:\n{df_combined.describe()}")
         
         return str(output_path)
