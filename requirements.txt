@@ -1,9 +1,9 @@
 # Core dependencies
-evdspy
+evds  # Resmi TCMB EVDS API paketi (5 Nisan 2024 güncellemesi ile uyumlu)
 pandas
 python-dotenv
 toml
-pykap
+pykap  # KAP (Kamuyu Aydınlatma Platformu) API paketi
 
 # Data processing
 numpy
