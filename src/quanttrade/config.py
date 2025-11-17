@@ -79,6 +79,32 @@ def get_evds_settings() -> Dict[str, Any]:
     return settings.get("evds", {})
 
 
+def get_stock_symbols() -> list:
+    """
+    BIST hisse sembolleri listesini config'den getirir.
+    
+    Returns:
+        list: Hisse sembolleri listesi
+    """
+    settings = load_settings()
+    stocks_config = settings.get("stocks", {})
+    return stocks_config.get("symbols", [])
+
+
+def get_stock_date_range() -> tuple:
+    """
+    Hisse verileri için tarih aralığını config'den getirir.
+    
+    Returns:
+        tuple: (start_date, end_date) tuple'ı
+    """
+    settings = load_settings()
+    stocks_config = settings.get("stocks", {})
+    start_date = stocks_config.get("start_date", "2020-01-01")
+    end_date = stocks_config.get("end_date", "2025-11-17")
+    return start_date, end_date
+
+
 def ensure_directories():
     """
     Gerekli dizinlerin var olduğundan emin olur, yoksa oluşturur.
