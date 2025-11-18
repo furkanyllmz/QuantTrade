@@ -1,0 +1,2057 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+TKFEN,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,1977445014.0
+TKFEN,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,365180493.0
+TKFEN,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,155609171.0
+TKFEN,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,365250854.0
+TKFEN,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TKFEN,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,9630152.0
+TKFEN,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,207190850.0
+TKFEN,2022/12,1AF,Stoklar,Inventories,713984091.0
+TKFEN,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TKFEN,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,137407271.0
+TKFEN,2022/12,1AI,(Ara Toplam),(Subtotal),1954252883.0
+TKFEN,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,23192131.0
+TKFEN,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1313752562.0
+TKFEN,2022/12,1B,Ticari Alacaklar,Trade Receivables,31062673.0
+TKFEN,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TKFEN,2022/12,1BB,Diğer Alacaklar,Other Receivables,5693572.0
+TKFEN,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TKFEN,2022/12,1BC,Finansal Yatırımlar,Financial Investments,183030269.0
+TKFEN,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,92727952.0
+TKFEN,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TKFEN,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,89442184.0
+TKFEN,2022/12,1BFA,Stoklar,Stoklar,0.0
+TKFEN,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,12923233.0
+TKFEN,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,833026319.0
+TKFEN,2022/12,1BGA,Şerefiye,Goodwill,16752616.0
+TKFEN,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,9328796.0
+TKFEN,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,27998932.0
+TKFEN,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,11766015.0
+TKFEN,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3291197576.0
+TKFEN,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TKFEN,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1608906150.0
+TKFEN,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,239637786.0
+TKFEN,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,929455157.0
+TKFEN,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,20804986.0
+TKFEN,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,93051142.0
+TKFEN,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TKFEN,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TKFEN,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,185835842.0
+TKFEN,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),33951794.0
+TKFEN,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,59694587.0
+TKFEN,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,46474856.0
+TKFEN,2022/12,2AAGG,(Ara Toplam),(Subtotal),1608906150.0
+TKFEN,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TKFEN,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,330014094.0
+TKFEN,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,175681614.0
+TKFEN,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,31586163.0
+TKFEN,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,17784220.0
+TKFEN,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TKFEN,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TKFEN,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TKFEN,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,49808.0
+TKFEN,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,43222454.0
+TKFEN,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TKFEN,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,61689836.0
+TKFEN,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TKFEN,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1352277333.0
+TKFEN,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1333542227.0
+TKFEN,2022/12,2OA,Ödenmiş Sermaye,Share Capital,19752296.0
+TKFEN,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TKFEN,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,205405029.0
+TKFEN,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TKFEN,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,89617072.0
+TKFEN,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,169976938.0
+TKFEN,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),663512972.0
+TKFEN,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),74148089.0
+TKFEN,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,111129831.0
+TKFEN,2022/12,2ODA,Azınlık Payları,Minority Interests,18735106.0
+TKFEN,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3291197576.0
+TKFEN,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TKFEN,2022/12,3C,Satış Gelirleri,Net Sales,3309797685.0
+TKFEN,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-3141573960.0
+TKFEN,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TKFEN,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,168223725.0
+TKFEN,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TKFEN,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TKFEN,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TKFEN,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),168223725.0
+TKFEN,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-92622209.0
+TKFEN,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-97019980.0
+TKFEN,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-2980197.0
+TKFEN,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,277729824.0
+TKFEN,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-328513661.0
+TKFEN,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TKFEN,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-75182497.0
+TKFEN,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-24398660.0
+TKFEN,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,108948711.0
+TKFEN,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-31437957.0
+TKFEN,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TKFEN,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,91531268.0
+TKFEN,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,93859524.0
+TKFEN,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),175033471.0
+TKFEN,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-167347771.0
+TKFEN,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,77510754.0
+TKFEN,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,101545225.0
+TKFEN,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-16803299.0
+TKFEN,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-31976386.0
+TKFEN,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,15173087.0
+TKFEN,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TKFEN,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,84741925.0
+TKFEN,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TKFEN,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TKFEN,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,84741925.0
+TKFEN,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TKFEN,2022/12,3LB,Azınlık Payları,Minority Interests,1146313.0
+TKFEN,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,83595613.0
+TKFEN,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TKFEN,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TKFEN,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TKFEN,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TKFEN,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,100260363.0
+TKFEN,2022/12,4BA,Kıdem Tazminatı,Severance Payments,7985008.0
+TKFEN,2022/12,4BB,Finansman Giderleri,Financial Expenses,-167347771.0
+TKFEN,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,2271714214.0
+TKFEN,2022/12,4BD,Yurtdışı Satışlar,Export Sales,1038083471.0
+TKFEN,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-304938895.0
+TKFEN,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-335850882.0
+TKFEN,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),142757175.0
+TKFEN,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,79395916.0
+TKFEN,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,84741925.0
+TKFEN,2022/12,4CAA,Düzeltmeler:,Adjustments:,227664433.0
+TKFEN,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,100260363.0
+TKFEN,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,-14627676.0
+TKFEN,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,142031747.0
+TKFEN,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),312406359.0
+TKFEN,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-148042035.0
+TKFEN,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),164364324.0
+TKFEN,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-84968407.0
+TKFEN,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-103405651.0
+TKFEN,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,10428161.0
+TKFEN,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-92977490.0
+TKFEN,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,-13581574.0
+TKFEN,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,10667342.0
+TKFEN,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-36367717.0
+TKFEN,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TKFEN,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-6635084.0
+TKFEN,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-32335459.0
+TKFEN,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-45917033.0
+TKFEN,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-367354142.0
+TKFEN,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TKFEN,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-413271175.0
+TKFEN,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TKFEN,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,824980870.0
+TKFEN,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,411709695.0
+TKFEN,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,1267092031.0
+TKFEN,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,221296348.0
+TKFEN,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,135881815.0
+TKFEN,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,309382480.0
+TKFEN,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TKFEN,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,8538616.0
+TKFEN,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,111337061.0
+TKFEN,2022/3,1AF,Stoklar,Inventories,355410441.0
+TKFEN,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TKFEN,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,121481638.0
+TKFEN,2022/3,1AI,(Ara Toplam),(Subtotal),1263328400.0
+TKFEN,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,3763631.0
+TKFEN,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,492151055.0
+TKFEN,2022/3,1B,Ticari Alacaklar,Trade Receivables,16155420.0
+TKFEN,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TKFEN,2022/3,1BB,Diğer Alacaklar,Other Receivables,1047158.0
+TKFEN,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TKFEN,2022/3,1BC,Finansal Yatırımlar,Financial Investments,152194701.0
+TKFEN,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,9748423.0
+TKFEN,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TKFEN,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,12255601.0
+TKFEN,2022/3,1BFA,Stoklar,Stoklar,0.0
+TKFEN,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,3933167.0
+TKFEN,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,251968016.0
+TKFEN,2022/3,1BGA,Şerefiye,Goodwill,6772735.0
+TKFEN,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3830873.0
+TKFEN,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,27614894.0
+TKFEN,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,6630068.0
+TKFEN,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1759243087.0
+TKFEN,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TKFEN,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1148393903.0
+TKFEN,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,298433594.0
+TKFEN,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,539398029.0
+TKFEN,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,32687694.0
+TKFEN,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,60722133.0
+TKFEN,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TKFEN,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TKFEN,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,98941112.0
+TKFEN,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),29770996.0
+TKFEN,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,58313840.0
+TKFEN,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,30126505.0
+TKFEN,2022/3,2AAGG,(Ara Toplam),(Subtotal),1148393903.0
+TKFEN,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TKFEN,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,83442834.0
+TKFEN,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,21446517.0
+TKFEN,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,18638047.0
+TKFEN,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,6231664.0
+TKFEN,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TKFEN,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TKFEN,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TKFEN,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,15753.0
+TKFEN,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,20380809.0
+TKFEN,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TKFEN,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,16730044.0
+TKFEN,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TKFEN,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,527406349.0
+TKFEN,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,517871586.0
+TKFEN,2022/3,2OA,Ödenmiş Sermaye,Share Capital,25232721.0
+TKFEN,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TKFEN,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,20526068.0
+TKFEN,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TKFEN,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,192249736.0
+TKFEN,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,38246940.0
+TKFEN,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),250363760.0
+TKFEN,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),7190302.0
+TKFEN,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-15937941.0
+TKFEN,2022/3,2ODA,Azınlık Payları,Minority Interests,9534763.0
+TKFEN,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1759243087.0
+TKFEN,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TKFEN,2022/3,3C,Satış Gelirleri,Net Sales,379012656.0
+TKFEN,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-357490314.0
+TKFEN,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TKFEN,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,21522343.0
+TKFEN,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TKFEN,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TKFEN,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TKFEN,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),21522343.0
+TKFEN,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-10035434.0
+TKFEN,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-13222652.0
+TKFEN,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-384965.0
+TKFEN,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,43095785.0
+TKFEN,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-56211013.0
+TKFEN,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TKFEN,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-15235936.0
+TKFEN,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-2120708.0
+TKFEN,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,13615418.0
+TKFEN,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3506340.0
+TKFEN,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TKFEN,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,2507821.0
+TKFEN,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-2619038.0
+TKFEN,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),52288289.0
+TKFEN,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-37776336.0
+TKFEN,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,10109078.0
+TKFEN,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,11892915.0
+TKFEN,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-4804014.0
+TKFEN,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),1361442.0
+TKFEN,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-6165456.0
+TKFEN,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TKFEN,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,7088900.0
+TKFEN,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TKFEN,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TKFEN,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,7088900.0
+TKFEN,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TKFEN,2022/3,3LB,Azınlık Payları,Minority Interests,-456891.0
+TKFEN,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,7545792.0
+TKFEN,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TKFEN,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TKFEN,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TKFEN,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TKFEN,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,8696608.0
+TKFEN,2022/3,4BA,Kıdem Tazminatı,Severance Payments,1065722.0
+TKFEN,2022/3,4BB,Finansman Giderleri,Financial Expenses,-37776336.0
+TKFEN,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,261483669.0
+TKFEN,2022/3,4BD,Yurtdışı Satışlar,Export Sales,117528988.0
+TKFEN,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-109483149.0
+TKFEN,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-124875963.0
+TKFEN,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),51825457.0
+TKFEN,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-192234150.0
+TKFEN,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,7088900.0
+TKFEN,2022/3,4CAA,Düzeltmeler:,Adjustments:,6441852.0
+TKFEN,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,8696608.0
+TKFEN,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,3076502.0
+TKFEN,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-5331257.0
+TKFEN,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),13530753.0
+TKFEN,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-192887496.0
+TKFEN,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-179356743.0
+TKFEN,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-12877407.0
+TKFEN,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-11900429.0
+TKFEN,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2800678.0
+TKFEN,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-14701107.0
+TKFEN,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,-206935257.0
+TKFEN,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,60475904.0
+TKFEN,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TKFEN,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TKFEN,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1114388.0
+TKFEN,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,59361516.0
+TKFEN,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-147573741.0
+TKFEN,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,17381980.0
+TKFEN,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TKFEN,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-130191761.0
+TKFEN,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TKFEN,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,362429020.0
+TKFEN,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,232237258.0
+TKFEN,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,1204327738.0
+TKFEN,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,207496495.0
+TKFEN,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,154864182.0
+TKFEN,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,260530812.0
+TKFEN,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TKFEN,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,6656362.0
+TKFEN,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,130671064.0
+TKFEN,2022/6,1AF,Stoklar,Inventories,337641121.0
+TKFEN,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TKFEN,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,102915274.0
+TKFEN,2022/6,1AI,(Ara Toplam),(Subtotal),1200775309.0
+TKFEN,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,3552428.0
+TKFEN,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,473067388.0
+TKFEN,2022/6,1B,Ticari Alacaklar,Trade Receivables,22948165.0
+TKFEN,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TKFEN,2022/6,1BB,Diğer Alacaklar,Other Receivables,1079178.0
+TKFEN,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TKFEN,2022/6,1BC,Finansal Yatırımlar,Financial Investments,146914639.0
+TKFEN,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,7474927.0
+TKFEN,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TKFEN,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,11738800.0
+TKFEN,2022/6,1BFA,Stoklar,Stoklar,0.0
+TKFEN,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,3000228.0
+TKFEN,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,240644524.0
+TKFEN,2022/6,1BGA,Şerefiye,Goodwill,6111950.0
+TKFEN,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3557461.0
+TKFEN,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,22066453.0
+TKFEN,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,7531064.0
+TKFEN,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1677395126.0
+TKFEN,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TKFEN,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1057502486.0
+TKFEN,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,284689002.0
+TKFEN,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,510822759.0
+TKFEN,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,12264100.0
+TKFEN,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,55335143.0
+TKFEN,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TKFEN,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TKFEN,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,104189822.0
+TKFEN,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),9812179.0
+TKFEN,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,48046359.0
+TKFEN,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,32343123.0
+TKFEN,2022/6,2AAGG,(Ara Toplam),(Subtotal),1057502486.0
+TKFEN,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TKFEN,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,83339564.0
+TKFEN,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,19921337.0
+TKFEN,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,17650946.0
+TKFEN,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,5643984.0
+TKFEN,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TKFEN,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TKFEN,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TKFEN,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,13839.0
+TKFEN,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,20580538.0
+TKFEN,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TKFEN,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,19528919.0
+TKFEN,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TKFEN,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,536553075.0
+TKFEN,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,527324191.0
+TKFEN,2022/6,2OA,Ödenmiş Sermaye,Share Capital,22167104.0
+TKFEN,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TKFEN,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,18032280.0
+TKFEN,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TKFEN,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,188101118.0
+TKFEN,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,33752411.0
+TKFEN,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),220044514.0
+TKFEN,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),64560672.0
+TKFEN,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-19333908.0
+TKFEN,2022/6,2ODA,Azınlık Payları,Minority Interests,9228884.0
+TKFEN,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1677395126.0
+TKFEN,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TKFEN,2022/6,3C,Satış Gelirleri,Net Sales,872943216.0
+TKFEN,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-755822019.0
+TKFEN,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TKFEN,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,117121197.0
+TKFEN,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TKFEN,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TKFEN,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TKFEN,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),117121197.0
+TKFEN,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-22537468.0
+TKFEN,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-28112352.0
+TKFEN,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-888518.0
+TKFEN,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,94193579.0
+TKFEN,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-121549881.0
+TKFEN,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TKFEN,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,38226557.0
+TKFEN,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,65582859.0
+TKFEN,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,32392177.0
+TKFEN,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-7688061.0
+TKFEN,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TKFEN,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1217740.0
+TKFEN,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,64148413.0
+TKFEN,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),75007517.0
+TKFEN,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-49355165.0
+TKFEN,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,24704116.0
+TKFEN,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,89800766.0
+TKFEN,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-18181802.0
+TKFEN,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-6033485.0
+TKFEN,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-12148318.0
+TKFEN,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TKFEN,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,71618963.0
+TKFEN,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TKFEN,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TKFEN,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,71618963.0
+TKFEN,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TKFEN,2022/6,3LB,Azınlık Payları,Minority Interests,-768880.0
+TKFEN,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,72387843.0
+TKFEN,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TKFEN,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TKFEN,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TKFEN,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TKFEN,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,18116710.0
+TKFEN,2022/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TKFEN,2022/6,4BB,Finansman Giderleri,Financial Expenses,-49355165.0
+TKFEN,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,563210388.0
+TKFEN,2022/6,4BD,Yurtdışı Satışlar,Export Sales,321477897.0
+TKFEN,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-74960226.0
+TKFEN,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-93544605.0
+TKFEN,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),119657171.0
+TKFEN,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-160802462.0
+TKFEN,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,71618963.0
+TKFEN,2022/6,4CAA,Düzeltmeler:,Adjustments:,14844369.0
+TKFEN,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,18116710.0
+TKFEN,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,-4031750.0
+TKFEN,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,759408.0
+TKFEN,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),86463332.0
+TKFEN,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-220980792.0
+TKFEN,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-134517460.0
+TKFEN,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-26285002.0
+TKFEN,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-25360479.0
+TKFEN,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-4192096.0
+TKFEN,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-29552574.0
+TKFEN,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-190355036.0
+TKFEN,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,57258990.0
+TKFEN,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-23191748.0
+TKFEN,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TKFEN,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1862751.0
+TKFEN,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,32204492.0
+TKFEN,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-158150545.0
+TKFEN,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,50624159.0
+TKFEN,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TKFEN,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-107526385.0
+TKFEN,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TKFEN,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,340179227.0
+TKFEN,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,232652842.0
+TKFEN,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,1253708906.0
+TKFEN,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,223459932.0
+TKFEN,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,166414692.0
+TKFEN,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,254049784.0
+TKFEN,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TKFEN,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,6404881.0
+TKFEN,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,110509646.0
+TKFEN,2022/9,1AF,Stoklar,Inventories,406334162.0
+TKFEN,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TKFEN,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,83266530.0
+TKFEN,2022/9,1AI,(Ara Toplam),(Subtotal),1250439627.0
+TKFEN,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,3269279.0
+TKFEN,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,473913789.0
+TKFEN,2022/9,1B,Ticari Alacaklar,Trade Receivables,23682171.0
+TKFEN,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TKFEN,2022/9,1BB,Diğer Alacaklar,Other Receivables,2636144.0
+TKFEN,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TKFEN,2022/9,1BC,Finansal Yatırımlar,Financial Investments,148406973.0
+TKFEN,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,8846168.0
+TKFEN,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TKFEN,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,12406197.0
+TKFEN,2022/9,1BFA,Stoklar,Stoklar,0.0
+TKFEN,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,2325613.0
+TKFEN,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,228071108.0
+TKFEN,2022/9,1BGA,Şerefiye,Goodwill,5547135.0
+TKFEN,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3165086.0
+TKFEN,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,31611246.0
+TKFEN,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,7215949.0
+TKFEN,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1727622695.0
+TKFEN,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TKFEN,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1126138820.0
+TKFEN,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,279664081.0
+TKFEN,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,544831259.0
+TKFEN,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,11773276.0
+TKFEN,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,60547809.0
+TKFEN,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TKFEN,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TKFEN,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,137573860.0
+TKFEN,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),12916058.0
+TKFEN,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,47122806.0
+TKFEN,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,31709672.0
+TKFEN,2022/9,2AAGG,(Ara Toplam),(Subtotal),1126138820.0
+TKFEN,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TKFEN,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,80096323.0
+TKFEN,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,15516357.0
+TKFEN,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,17602104.0
+TKFEN,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,6753898.0
+TKFEN,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TKFEN,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TKFEN,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TKFEN,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,12451.0
+TKFEN,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,20216364.0
+TKFEN,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TKFEN,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,19995149.0
+TKFEN,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TKFEN,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,521387552.0
+TKFEN,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,512613020.0
+TKFEN,2022/9,2OA,Ödenmiş Sermaye,Share Capital,19943834.0
+TKFEN,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TKFEN,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,16223716.0
+TKFEN,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TKFEN,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,183339945.0
+TKFEN,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,30367182.0
+TKFEN,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),197974946.0
+TKFEN,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),97732602.0
+TKFEN,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-32969206.0
+TKFEN,2022/9,2ODA,Azınlık Payları,Minority Interests,8774532.0
+TKFEN,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1727622695.0
+TKFEN,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TKFEN,2022/9,3C,Satış Gelirleri,Net Sales,1333371449.0
+TKFEN,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1161791170.0
+TKFEN,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TKFEN,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,171580279.0
+TKFEN,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TKFEN,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TKFEN,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TKFEN,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),171580279.0
+TKFEN,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-36394352.0
+TKFEN,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-39545964.0
+TKFEN,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1225152.0
+TKFEN,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,138487729.0
+TKFEN,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-172168410.0
+TKFEN,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TKFEN,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,60734130.0
+TKFEN,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,94414811.0
+TKFEN,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,45860059.0
+TKFEN,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-8052282.0
+TKFEN,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TKFEN,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,2597352.0
+TKFEN,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,101139258.0
+TKFEN,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),88875485.0
+TKFEN,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-61171064.0
+TKFEN,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,37807777.0
+TKFEN,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,128843679.0
+TKFEN,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-16058313.0
+TKFEN,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-11312735.0
+TKFEN,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-4745579.0
+TKFEN,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TKFEN,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,112785366.0
+TKFEN,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TKFEN,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TKFEN,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,112785366.0
+TKFEN,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TKFEN,2022/9,3LB,Azınlık Payları,Minority Interests,-1154833.0
+TKFEN,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,113940198.0
+TKFEN,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TKFEN,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TKFEN,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TKFEN,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TKFEN,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,26754136.0
+TKFEN,2022/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TKFEN,2022/9,4BB,Finansman Giderleri,Financial Expenses,-61171064.0
+TKFEN,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,857540812.0
+TKFEN,2022/9,4BD,Yurtdışı Satışlar,Export Sales,494098887.0
+TKFEN,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-127804726.0
+TKFEN,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-141336132.0
+TKFEN,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),167960689.0
+TKFEN,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-93195189.0
+TKFEN,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,112785366.0
+TKFEN,2022/9,4CAA,Düzeltmeler:,Adjustments:,17914894.0
+TKFEN,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,26754136.0
+TKFEN,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,957009.0
+TKFEN,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-9796251.0
+TKFEN,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),130700259.0
+TKFEN,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-179486518.0
+TKFEN,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-48786259.0
+TKFEN,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-44408930.0
+TKFEN,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-31954182.0
+TKFEN,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-4156317.0
+TKFEN,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-36110499.0
+TKFEN,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,-129305687.0
+TKFEN,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,59722135.0
+TKFEN,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-21695671.0
+TKFEN,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TKFEN,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-2661450.0
+TKFEN,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,35365014.0
+TKFEN,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-93940674.0
+TKFEN,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,36223739.0
+TKFEN,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TKFEN,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-57716935.0
+TKFEN,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TKFEN,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,318234598.0
+TKFEN,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,260517663.0
+TKFEN,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,1341883945.0
+TKFEN,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,322769427.0
+TKFEN,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,53849779.0
+TKFEN,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,293522869.0
+TKFEN,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TKFEN,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,8524989.0
+TKFEN,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,52952837.0
+TKFEN,2023/12,1AF,Stoklar,Inventories,483649992.0
+TKFEN,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TKFEN,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,120444165.0
+TKFEN,2023/12,1AI,(Ara Toplam),(Subtotal),1335714058.0
+TKFEN,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,6169887.0
+TKFEN,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1240462848.0
+TKFEN,2023/12,1B,Ticari Alacaklar,Trade Receivables,48877025.0
+TKFEN,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TKFEN,2023/12,1BB,Diğer Alacaklar,Other Receivables,5563505.0
+TKFEN,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TKFEN,2023/12,1BC,Finansal Yatırımlar,Financial Investments,153041982.0
+TKFEN,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,84751232.0
+TKFEN,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TKFEN,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,79188269.0
+TKFEN,2023/12,1BFA,Stoklar,Stoklar,0.0
+TKFEN,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,19780918.0
+TKFEN,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,756418571.0
+TKFEN,2023/12,1BGA,Şerefiye,Goodwill,11778864.0
+TKFEN,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,7299068.0
+TKFEN,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,64678702.0
+TKFEN,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,9084713.0
+TKFEN,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2582346794.0
+TKFEN,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TKFEN,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1343366722.0
+TKFEN,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,347533374.0
+TKFEN,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,539984945.0
+TKFEN,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,24828814.0
+TKFEN,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,74639029.0
+TKFEN,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TKFEN,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TKFEN,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,154000332.0
+TKFEN,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),30676945.0
+TKFEN,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,147215586.0
+TKFEN,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,24487696.0
+TKFEN,2023/12,2AAGG,(Ara Toplam),(Subtotal),1343366722.0
+TKFEN,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TKFEN,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,160379502.0
+TKFEN,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,101923483.0
+TKFEN,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,3798001.0
+TKFEN,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,7908129.0
+TKFEN,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TKFEN,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TKFEN,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TKFEN,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,44657.0
+TKFEN,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,31582128.0
+TKFEN,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TKFEN,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,15123104.0
+TKFEN,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TKFEN,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1078600570.0
+TKFEN,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1062005846.0
+TKFEN,2023/12,2OA,Ödenmiş Sermaye,Share Capital,12546073.0
+TKFEN,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TKFEN,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,188367213.0
+TKFEN,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TKFEN,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,39780715.0
+TKFEN,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,158603385.0
+TKFEN,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),604625093.0
+TKFEN,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-54545205.0
+TKFEN,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,112628572.0
+TKFEN,2023/12,2ODA,Azınlık Payları,Minority Interests,16594725.0
+TKFEN,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2582346794.0
+TKFEN,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TKFEN,2023/12,3C,Satış Gelirleri,Net Sales,2613645049.0
+TKFEN,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2539180296.0
+TKFEN,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TKFEN,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,74464754.0
+TKFEN,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TKFEN,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TKFEN,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TKFEN,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),74464754.0
+TKFEN,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-109948303.0
+TKFEN,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-100862474.0
+TKFEN,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-3410071.0
+TKFEN,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,167890681.0
+TKFEN,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-249772676.0
+TKFEN,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TKFEN,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-221638089.0
+TKFEN,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-139756094.0
+TKFEN,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,128377384.0
+TKFEN,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-13759427.0
+TKFEN,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TKFEN,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,3493710.0
+TKFEN,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-103526422.0
+TKFEN,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),94359934.0
+TKFEN,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-95489378.0
+TKFEN,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,114617956.0
+TKFEN,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-104655867.0
+TKFEN,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,37043486.0
+TKFEN,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-67099592.0
+TKFEN,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,104143078.0
+TKFEN,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TKFEN,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-67612381.0
+TKFEN,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TKFEN,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TKFEN,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-67612381.0
+TKFEN,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TKFEN,2023/12,3LB,Azınlık Payları,Minority Interests,-104706.0
+TKFEN,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,-67507675.0
+TKFEN,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TKFEN,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TKFEN,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TKFEN,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TKFEN,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,90777087.0
+TKFEN,2023/12,4BA,Kıdem Tazminatı,Severance Payments,10200879.0
+TKFEN,2023/12,4BB,Finansman Giderleri,Financial Expenses,-95489378.0
+TKFEN,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,727715651.0
+TKFEN,2023/12,4BD,Yurtdışı Satışlar,Export Sales,479422042.0
+TKFEN,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-282985460.0
+TKFEN,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-351253904.0
+TKFEN,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-18871785.0
+TKFEN,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,150306386.0
+TKFEN,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-67612381.0
+TKFEN,2023/12,4CAA,Düzeltmeler:,Adjustments:,302219584.0
+TKFEN,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,90777087.0
+TKFEN,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,118454785.0
+TKFEN,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-32261110.0
+TKFEN,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),234607203.0
+TKFEN,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,59199485.0
+TKFEN,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),293806688.0
+TKFEN,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-143500302.0
+TKFEN,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-58150364.0
+TKFEN,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,52695224.0
+TKFEN,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-5455140.0
+TKFEN,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,144851246.0
+TKFEN,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,112821413.0
+TKFEN,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-96669643.0
+TKFEN,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TKFEN,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-11714610.0
+TKFEN,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,4437159.0
+TKFEN,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,149288405.0
+TKFEN,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-14481713.0
+TKFEN,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TKFEN,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,134806692.0
+TKFEN,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TKFEN,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,414475079.0
+TKFEN,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,399474409.0
+TKFEN,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,1146725315.0
+TKFEN,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,288946779.0
+TKFEN,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,61691022.0
+TKFEN,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,241681381.0
+TKFEN,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TKFEN,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,6191955.0
+TKFEN,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,144276103.0
+TKFEN,2023/3,1AF,Stoklar,Inventories,292605041.0
+TKFEN,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TKFEN,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,91340487.0
+TKFEN,2023/3,1AI,(Ara Toplam),(Subtotal),1126732768.0
+TKFEN,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,19992547.0
+TKFEN,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,526318077.0
+TKFEN,2023/3,1B,Ticari Alacaklar,Trade Receivables,19473311.0
+TKFEN,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TKFEN,2023/3,1BB,Diğer Alacaklar,Other Receivables,3198334.0
+TKFEN,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TKFEN,2023/3,1BC,Finansal Yatırımlar,Financial Investments,108305329.0
+TKFEN,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,58395387.0
+TKFEN,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TKFEN,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,12150585.0
+TKFEN,2023/3,1BFA,Stoklar,Stoklar,0.0
+TKFEN,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,6588822.0
+TKFEN,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,241944308.0
+TKFEN,2023/3,1BGA,Şerefiye,Goodwill,5697787.0
+TKFEN,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2951198.0
+TKFEN,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,60274393.0
+TKFEN,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,7338621.0
+TKFEN,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1673043392.0
+TKFEN,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TKFEN,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,981706188.0
+TKFEN,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,162251378.0
+TKFEN,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,509907598.0
+TKFEN,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,15901041.0
+TKFEN,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,55421257.0
+TKFEN,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TKFEN,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TKFEN,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,144060549.0
+TKFEN,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),35480722.0
+TKFEN,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,30711650.0
+TKFEN,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,27971993.0
+TKFEN,2023/3,2AAGG,(Ara Toplam),(Subtotal),981706188.0
+TKFEN,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TKFEN,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,151351275.0
+TKFEN,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,105397179.0
+TKFEN,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,1697381.0
+TKFEN,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,7207809.0
+TKFEN,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TKFEN,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TKFEN,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TKFEN,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,11778.0
+TKFEN,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,22591230.0
+TKFEN,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TKFEN,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,14445898.0
+TKFEN,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TKFEN,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,539985929.0
+TKFEN,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,532054326.0
+TKFEN,2023/3,2OA,Ödenmiş Sermaye,Share Capital,19283086.0
+TKFEN,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TKFEN,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,15686217.0
+TKFEN,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TKFEN,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,183071796.0
+TKFEN,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,34663693.0
+TKFEN,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),367131406.0
+TKFEN,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-18735394.0
+TKFEN,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-69046477.0
+TKFEN,2023/3,2ODA,Azınlık Payları,Minority Interests,7931602.0
+TKFEN,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1673043392.0
+TKFEN,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TKFEN,2023/3,3C,Satış Gelirleri,Net Sales,903410035.0
+TKFEN,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-898660090.0
+TKFEN,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TKFEN,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,4749944.0
+TKFEN,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TKFEN,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TKFEN,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TKFEN,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),4749944.0
+TKFEN,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-41300020.0
+TKFEN,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-28194167.0
+TKFEN,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1087347.0
+TKFEN,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,26721771.0
+TKFEN,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-51786534.0
+TKFEN,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TKFEN,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-90896353.0
+TKFEN,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-65831590.0
+TKFEN,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,13109135.0
+TKFEN,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1541149.0
+TKFEN,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TKFEN,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,3907917.0
+TKFEN,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-75420450.0
+TKFEN,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),13153594.0
+TKFEN,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-13145973.0
+TKFEN,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,11567986.0
+TKFEN,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-75412828.0
+TKFEN,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-32322263.0
+TKFEN,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-32471414.0
+TKFEN,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,149150.0
+TKFEN,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TKFEN,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-107735091.0
+TKFEN,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TKFEN,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TKFEN,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-107735091.0
+TKFEN,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TKFEN,2023/3,3LB,Azınlık Payları,Minority Interests,782748.0
+TKFEN,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,-108517839.0
+TKFEN,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TKFEN,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TKFEN,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TKFEN,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TKFEN,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,21608690.0
+TKFEN,2023/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TKFEN,2023/3,4BB,Finansman Giderleri,Financial Expenses,-13145973.0
+TKFEN,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,613563401.0
+TKFEN,2023/3,4BD,Yurtdışı Satışlar,Export Sales,219804856.0
+TKFEN,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-123397300.0
+TKFEN,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-141704783.0
+TKFEN,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),42328617.0
+TKFEN,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,135293491.0
+TKFEN,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-99382358.0
+TKFEN,2023/3,4CAA,Düzeltmeler:,Adjustments:,90041147.0
+TKFEN,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,21608690.0
+TKFEN,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,673664.0
+TKFEN,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,28307220.0
+TKFEN,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-9341211.0
+TKFEN,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,173055029.0
+TKFEN,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),163713818.0
+TKFEN,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-28420327.0
+TKFEN,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-10741625.0
+TKFEN,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-89183.0
+TKFEN,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-10830809.0
+TKFEN,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,124462682.0
+TKFEN,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,21201729.0
+TKFEN,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TKFEN,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TKFEN,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1130536.0
+TKFEN,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,20071193.0
+TKFEN,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,144533875.0
+TKFEN,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-17165567.0
+TKFEN,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TKFEN,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,127368307.0
+TKFEN,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TKFEN,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,416596745.0
+TKFEN,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,494439431.0
+TKFEN,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,879962234.0
+TKFEN,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,99464970.0
+TKFEN,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,78591126.0
+TKFEN,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,191297894.0
+TKFEN,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TKFEN,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,5345811.0
+TKFEN,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,144034813.0
+TKFEN,2023/6,1AF,Stoklar,Inventories,260370435.0
+TKFEN,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TKFEN,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,80927073.0
+TKFEN,2023/6,1AI,(Ara Toplam),(Subtotal),860032123.0
+TKFEN,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,19930111.0
+TKFEN,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,505671097.0
+TKFEN,2023/6,1B,Ticari Alacaklar,Trade Receivables,31798404.0
+TKFEN,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TKFEN,2023/6,1BB,Diğer Alacaklar,Other Receivables,3353009.0
+TKFEN,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TKFEN,2023/6,1BC,Finansal Yatırımlar,Financial Investments,110977750.0
+TKFEN,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,55899627.0
+TKFEN,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TKFEN,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,11113160.0
+TKFEN,2023/6,1BFA,Stoklar,Stoklar,0.0
+TKFEN,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,13870528.0
+TKFEN,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,214011852.0
+TKFEN,2023/6,1BGA,Şerefiye,Goodwill,4859526.0
+TKFEN,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2439814.0
+TKFEN,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,51743784.0
+TKFEN,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,5603643.0
+TKFEN,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1385633330.0
+TKFEN,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TKFEN,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,815600048.0
+TKFEN,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,185670478.0
+TKFEN,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,397386005.0
+TKFEN,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,17759842.0
+TKFEN,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,38480881.0
+TKFEN,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TKFEN,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TKFEN,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,116081733.0
+TKFEN,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4528327.0
+TKFEN,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,41645097.0
+TKFEN,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,14047685.0
+TKFEN,2023/6,2AAGG,(Ara Toplam),(Subtotal),815600048.0
+TKFEN,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TKFEN,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,135852970.0
+TKFEN,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,93622360.0
+TKFEN,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,1658008.0
+TKFEN,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,6380926.0
+TKFEN,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TKFEN,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TKFEN,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TKFEN,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,8736.0
+TKFEN,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,21432917.0
+TKFEN,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TKFEN,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,12750023.0
+TKFEN,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TKFEN,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,434180312.0
+TKFEN,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,426950011.0
+TKFEN,2023/6,2OA,Ödenmiş Sermaye,Share Capital,14302502.0
+TKFEN,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TKFEN,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,11634660.0
+TKFEN,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TKFEN,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,193812003.0
+TKFEN,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,25838513.0
+TKFEN,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),229057542.0
+TKFEN,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),5289220.0
+TKFEN,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-52984430.0
+TKFEN,2023/6,2ODA,Azınlık Payları,Minority Interests,7230301.0
+TKFEN,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1385633330.0
+TKFEN,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TKFEN,2023/6,3C,Satış Gelirleri,Net Sales,1620141658.0
+TKFEN,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1533876239.0
+TKFEN,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TKFEN,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,86265419.0
+TKFEN,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TKFEN,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TKFEN,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TKFEN,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),86265419.0
+TKFEN,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-69984619.0
+TKFEN,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-55108357.0
+TKFEN,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-2058754.0
+TKFEN,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,79731797.0
+TKFEN,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-151202466.0
+TKFEN,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TKFEN,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-112356980.0
+TKFEN,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-40886311.0
+TKFEN,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,73804665.0
+TKFEN,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1566401.0
+TKFEN,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TKFEN,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-649519.0
+TKFEN,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-40768235.0
+TKFEN,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),58867143.0
+TKFEN,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-61599506.0
+TKFEN,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,72238264.0
+TKFEN,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-43500598.0
+TKFEN,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-51593349.0
+TKFEN,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-39069113.0
+TKFEN,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-12524236.0
+TKFEN,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TKFEN,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-95093947.0
+TKFEN,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TKFEN,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TKFEN,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-95093947.0
+TKFEN,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TKFEN,2023/6,3LB,Azınlık Payları,Minority Interests,-2941446.0
+TKFEN,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,-92152502.0
+TKFEN,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TKFEN,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TKFEN,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TKFEN,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TKFEN,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,49542120.0
+TKFEN,2023/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TKFEN,2023/6,4BB,Finansman Giderleri,Financial Expenses,-61599506.0
+TKFEN,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,1159801051.0
+TKFEN,2023/6,4BD,Yurtdışı Satışlar,Export Sales,460340607.0
+TKFEN,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-999202.0
+TKFEN,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-30151295.0
+TKFEN,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),131670030.0
+TKFEN,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-85519237.0
+TKFEN,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-95093947.0
+TKFEN,2023/6,4CAA,Düzeltmeler:,Adjustments:,157337872.0
+TKFEN,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,49542120.0
+TKFEN,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,27752453.0
+TKFEN,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,46192256.0
+TKFEN,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),62243924.0
+TKFEN,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-77715566.0
+TKFEN,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-15471641.0
+TKFEN,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-70047596.0
+TKFEN,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-45972265.0
+TKFEN,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,7713221.0
+TKFEN,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-38259045.0
+TKFEN,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,-123778282.0
+TKFEN,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,38741702.0
+TKFEN,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-100504686.0
+TKFEN,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TKFEN,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-6388073.0
+TKFEN,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-68151057.0
+TKFEN,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-191929339.0
+TKFEN,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,59492168.0
+TKFEN,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TKFEN,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-132437171.0
+TKFEN,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TKFEN,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,430920999.0
+TKFEN,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,222990546.0
+TKFEN,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,877208270.0
+TKFEN,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,142159156.0
+TKFEN,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,64770765.0
+TKFEN,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,150355429.0
+TKFEN,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TKFEN,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,4937176.0
+TKFEN,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,157371800.0
+TKFEN,2023/9,1AF,Stoklar,Inventories,270541822.0
+TKFEN,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TKFEN,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,83305951.0
+TKFEN,2023/9,1AI,(Ara Toplam),(Subtotal),873442099.0
+TKFEN,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,3766171.0
+TKFEN,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,500346715.0
+TKFEN,2023/9,1B,Ticari Alacaklar,Trade Receivables,31909247.0
+TKFEN,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TKFEN,2023/9,1BB,Diğer Alacaklar,Other Receivables,3339495.0
+TKFEN,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TKFEN,2023/9,1BC,Finansal Yatırımlar,Financial Investments,118287428.0
+TKFEN,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,55690367.0
+TKFEN,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TKFEN,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,10857216.0
+TKFEN,2023/9,1BFA,Stoklar,Stoklar,0.0
+TKFEN,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,12914169.0
+TKFEN,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,204572559.0
+TKFEN,2023/9,1BGA,Şerefiye,Goodwill,4654999.0
+TKFEN,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2254685.0
+TKFEN,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,48694888.0
+TKFEN,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,7171662.0
+TKFEN,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1377554984.0
+TKFEN,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TKFEN,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,807197513.0
+TKFEN,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,218392219.0
+TKFEN,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,366556297.0
+TKFEN,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,9101072.0
+TKFEN,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,41456866.0
+TKFEN,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TKFEN,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TKFEN,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,107320244.0
+TKFEN,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5173558.0
+TKFEN,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,38097681.0
+TKFEN,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,21099577.0
+TKFEN,2023/9,2AAGG,(Ara Toplam),(Subtotal),807197513.0
+TKFEN,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TKFEN,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,135594290.0
+TKFEN,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,90742070.0
+TKFEN,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,1733793.0
+TKFEN,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,8192153.0
+TKFEN,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TKFEN,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TKFEN,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TKFEN,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,8240.0
+TKFEN,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,21694341.0
+TKFEN,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TKFEN,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,13223693.0
+TKFEN,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TKFEN,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,434763181.0
+TKFEN,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,427662474.0
+TKFEN,2023/9,2OA,Ödenmiş Sermaye,Share Capital,13490848.0
+TKFEN,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TKFEN,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,10974404.0
+TKFEN,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TKFEN,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,199271531.0
+TKFEN,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,25374717.0
+TKFEN,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),215056224.0
+TKFEN,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),17219646.0
+TKFEN,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-53724896.0
+TKFEN,2023/9,2ODA,Azınlık Payları,Minority Interests,7100707.0
+TKFEN,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1377554984.0
+TKFEN,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TKFEN,2023/9,3C,Satış Gelirleri,Net Sales,2062763028.0
+TKFEN,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1938383292.0
+TKFEN,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TKFEN,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,124379736.0
+TKFEN,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TKFEN,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TKFEN,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TKFEN,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),124379736.0
+TKFEN,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-89518678.0
+TKFEN,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-77555907.0
+TKFEN,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-2894281.0
+TKFEN,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,120446442.0
+TKFEN,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-203259084.0
+TKFEN,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TKFEN,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-128401772.0
+TKFEN,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-45589131.0
+TKFEN,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,118503693.0
+TKFEN,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-9297690.0
+TKFEN,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TKFEN,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-876348.0
+TKFEN,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-20072117.0
+TKFEN,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),70272997.0
+TKFEN,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-74136557.0
+TKFEN,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,109206003.0
+TKFEN,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-23935678.0
+TKFEN,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-101399374.0
+TKFEN,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-40521054.0
+TKFEN,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-60878320.0
+TKFEN,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TKFEN,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-125335051.0
+TKFEN,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TKFEN,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TKFEN,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-125335051.0
+TKFEN,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TKFEN,2023/9,3LB,Azınlık Payları,Minority Interests,-1364524.0
+TKFEN,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,-123970527.0
+TKFEN,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TKFEN,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TKFEN,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TKFEN,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TKFEN,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,70648149.0
+TKFEN,2023/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TKFEN,2023/9,4BB,Finansman Giderleri,Financial Expenses,-74136557.0
+TKFEN,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,840249465.0
+TKFEN,2023/9,4BD,Yurtdışı Satışlar,Export Sales,365771743.0
+TKFEN,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-63682686.0
+TKFEN,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-82259282.0
+TKFEN,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),78621183.0
+TKFEN,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-2591428.0
+TKFEN,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-125335051.0
+TKFEN,2023/9,4CAA,Düzeltmeler:,Adjustments:,270980564.0
+TKFEN,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,70648149.0
+TKFEN,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,25277588.0
+TKFEN,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,73353727.0
+TKFEN,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),145645513.0
+TKFEN,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-64713636.0
+TKFEN,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),80931877.0
+TKFEN,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-83523306.0
+TKFEN,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-39235318.0
+TKFEN,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,39408119.0
+TKFEN,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,172801.0
+TKFEN,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,-2418628.0
+TKFEN,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,106596465.0
+TKFEN,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-97642845.0
+TKFEN,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TKFEN,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-10156695.0
+TKFEN,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1203075.0
+TKFEN,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-3621702.0
+TKFEN,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-30172008.0
+TKFEN,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TKFEN,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-33793710.0
+TKFEN,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TKFEN,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,418650001.0
+TKFEN,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,262366870.0
+TKFEN,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,964871631.0
+TKFEN,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,311638479.0
+TKFEN,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,81405.0
+TKFEN,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,199426170.0
+TKFEN,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TKFEN,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,9236981.0
+TKFEN,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,66561428.0
+TKFEN,2024/12,1AF,Stoklar,Inventories,281299157.0
+TKFEN,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TKFEN,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,93628454.0
+TKFEN,2024/12,1AI,(Ara Toplam),(Subtotal),961872073.0
+TKFEN,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,2999558.0
+TKFEN,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1209697929.0
+TKFEN,2024/12,1B,Ticari Alacaklar,Trade Receivables,44333340.0
+TKFEN,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TKFEN,2024/12,1BB,Diğer Alacaklar,Other Receivables,4714619.0
+TKFEN,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TKFEN,2024/12,1BC,Finansal Yatırımlar,Financial Investments,154038255.0
+TKFEN,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,61726550.0
+TKFEN,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TKFEN,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,76458928.0
+TKFEN,2024/12,1BFA,Stoklar,Stoklar,0.0
+TKFEN,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,13319634.0
+TKFEN,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,731840578.0
+TKFEN,2024/12,1BGA,Şerefiye,Goodwill,13208749.0
+TKFEN,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,16448463.0
+TKFEN,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,76663432.0
+TKFEN,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,16945380.0
+TKFEN,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2174569560.0
+TKFEN,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TKFEN,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,895767816.0
+TKFEN,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,230743480.0
+TKFEN,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,364780381.0
+TKFEN,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,18225981.0
+TKFEN,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,51499598.0
+TKFEN,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TKFEN,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TKFEN,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,115563105.0
+TKFEN,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),15344504.0
+TKFEN,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,63522950.0
+TKFEN,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,36087817.0
+TKFEN,2024/12,2AAGG,(Ara Toplam),(Subtotal),895767816.0
+TKFEN,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TKFEN,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,259372857.0
+TKFEN,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,203476703.0
+TKFEN,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,6783493.0
+TKFEN,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,9836199.0
+TKFEN,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TKFEN,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TKFEN,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TKFEN,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,42485.0
+TKFEN,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,25947882.0
+TKFEN,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TKFEN,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,13286095.0
+TKFEN,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TKFEN,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1019428886.0
+TKFEN,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1005713514.0
+TKFEN,2024/12,2OA,Ödenmiş Sermaye,Share Capital,10468597.0
+TKFEN,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TKFEN,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,183383314.0
+TKFEN,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TKFEN,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-10712612.0
+TKFEN,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,187372546.0
+TKFEN,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),501350162.0
+TKFEN,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),13339507.0
+TKFEN,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,118766474.0
+TKFEN,2024/12,2ODA,Azınlık Payları,Minority Interests,13715371.0
+TKFEN,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2174569560.0
+TKFEN,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TKFEN,2024/12,3C,Satış Gelirleri,Net Sales,2065280668.0
+TKFEN,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-1853114725.0
+TKFEN,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TKFEN,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,212165943.0
+TKFEN,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TKFEN,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TKFEN,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TKFEN,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),212165943.0
+TKFEN,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-99640465.0
+TKFEN,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-85937713.0
+TKFEN,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-2013821.0
+TKFEN,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,84023838.0
+TKFEN,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-107646345.0
+TKFEN,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TKFEN,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,951437.0
+TKFEN,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,24573944.0
+TKFEN,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,21540825.0
+TKFEN,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-7750373.0
+TKFEN,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TKFEN,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-6655619.0
+TKFEN,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,8086270.0
+TKFEN,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),49169822.0
+TKFEN,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-44967558.0
+TKFEN,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,13790452.0
+TKFEN,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,12288534.0
+TKFEN,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,2395468.0
+TKFEN,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-19600579.0
+TKFEN,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,21996047.0
+TKFEN,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TKFEN,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,14684001.0
+TKFEN,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TKFEN,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,14684001.0
+TKFEN,2024/12,3LB,Azınlık Payları,Minority Interests,341966.0
+TKFEN,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,14342035.0
+TKFEN,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TKFEN,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TKFEN,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TKFEN,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TKFEN,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,78763980.0
+TKFEN,2024/12,4BA,Kıdem Tazminatı,Severance Payments,12825245.0
+TKFEN,2024/12,4BB,Finansman Giderleri,Financial Expenses,-44967558.0
+TKFEN,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,269353784.0
+TKFEN,2024/12,4BD,Yurtdışı Satışlar,Export Sales,492572994.0
+TKFEN,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-350307520.0
+TKFEN,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-364103722.0
+TKFEN,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-185287888.0
+TKFEN,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,184856659.0
+TKFEN,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,14684001.0
+TKFEN,2024/12,4CAA,Düzeltmeler:,Adjustments:,112868119.0
+TKFEN,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,78763980.0
+TKFEN,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,-39827026.0
+TKFEN,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,18490493.0
+TKFEN,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),127552120.0
+TKFEN,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,112901872.0
+TKFEN,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),240453993.0
+TKFEN,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-55597333.0
+TKFEN,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-72944839.0
+TKFEN,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-14683930.0
+TKFEN,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-87628769.0
+TKFEN,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,97227890.0
+TKFEN,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,73274135.0
+TKFEN,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TKFEN,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TKFEN,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-38180051.0
+TKFEN,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,35094084.0
+TKFEN,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,132321974.0
+TKFEN,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-27291183.0
+TKFEN,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TKFEN,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,105030791.0
+TKFEN,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TKFEN,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,337845323.0
+TKFEN,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,335059620.0
+TKFEN,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,890814844.0
+TKFEN,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,335339542.0
+TKFEN,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2102332.0
+TKFEN,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,147840562.0
+TKFEN,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TKFEN,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,6567142.0
+TKFEN,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,56767243.0
+TKFEN,2024/3,1AF,Stoklar,Inventories,260023992.0
+TKFEN,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TKFEN,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,78431653.0
+TKFEN,2024/3,1AI,(Ara Toplam),(Subtotal),887072466.0
+TKFEN,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,3742379.0
+TKFEN,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,883201715.0
+TKFEN,2024/3,1B,Ticari Alacaklar,Trade Receivables,36039557.0
+TKFEN,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TKFEN,2024/3,1BB,Diğer Alacaklar,Other Receivables,3850808.0
+TKFEN,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TKFEN,2024/3,1BC,Finansal Yatırımlar,Financial Investments,124373075.0
+TKFEN,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,57832987.0
+TKFEN,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TKFEN,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,55559338.0
+TKFEN,2024/3,1BFA,Stoklar,Stoklar,0.0
+TKFEN,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,13651634.0
+TKFEN,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,544239510.0
+TKFEN,2024/3,1BGA,Şerefiye,Goodwill,8559406.0
+TKFEN,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,5024858.0
+TKFEN,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,29060494.0
+TKFEN,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,5010048.0
+TKFEN,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1774016560.0
+TKFEN,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TKFEN,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,870866416.0
+TKFEN,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,232293529.0
+TKFEN,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,331441893.0
+TKFEN,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,25019540.0
+TKFEN,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,39841545.0
+TKFEN,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TKFEN,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TKFEN,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,123177383.0
+TKFEN,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),8301395.0
+TKFEN,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,91261672.0
+TKFEN,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,19529459.0
+TKFEN,2024/3,2AAGG,(Ara Toplam),(Subtotal),870866416.0
+TKFEN,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TKFEN,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,125278169.0
+TKFEN,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,78517079.0
+TKFEN,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,3269982.0
+TKFEN,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,5496883.0
+TKFEN,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TKFEN,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TKFEN,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TKFEN,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,32433.0
+TKFEN,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,23416967.0
+TKFEN,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TKFEN,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,14544825.0
+TKFEN,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TKFEN,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,777871975.0
+TKFEN,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,766485178.0
+TKFEN,2024/3,2OA,Ödenmiş Sermaye,Share Capital,11439667.0
+TKFEN,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TKFEN,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,136880805.0
+TKFEN,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TKFEN,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,19595469.0
+TKFEN,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,121812383.0
+TKFEN,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),384460481.0
+TKFEN,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-16407295.0
+TKFEN,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,108703669.0
+TKFEN,2024/3,2ODA,Azınlık Payları,Minority Interests,11386797.0
+TKFEN,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1774016560.0
+TKFEN,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TKFEN,2024/3,3C,Satış Gelirleri,Net Sales,716743302.0
+TKFEN,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-630322548.0
+TKFEN,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TKFEN,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,86420754.0
+TKFEN,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TKFEN,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TKFEN,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TKFEN,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),86420754.0
+TKFEN,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-44467353.0
+TKFEN,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-25594451.0
+TKFEN,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-913489.0
+TKFEN,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,33527676.0
+TKFEN,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-46152763.0
+TKFEN,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TKFEN,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2820375.0
+TKFEN,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,15445461.0
+TKFEN,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,12437169.0
+TKFEN,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-9647349.0
+TKFEN,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TKFEN,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-1196915.0
+TKFEN,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,4413280.0
+TKFEN,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),17721012.0
+TKFEN,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-17990000.0
+TKFEN,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2789820.0
+TKFEN,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,4144291.0
+TKFEN,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-27927656.0
+TKFEN,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-5990035.0
+TKFEN,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-21937621.0
+TKFEN,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TKFEN,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-23783365.0
+TKFEN,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TKFEN,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TKFEN,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-23783365.0
+TKFEN,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TKFEN,2024/3,3LB,Azınlık Payları,Minority Interests,-111917.0
+TKFEN,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,-23671447.0
+TKFEN,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TKFEN,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TKFEN,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TKFEN,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TKFEN,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,18270649.0
+TKFEN,2024/3,4BA,Kıdem Tazminatı,Severance Payments,3790904.0
+TKFEN,2024/3,4BB,Finansman Giderleri,Financial Expenses,-17990000.0
+TKFEN,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,434375896.0
+TKFEN,2024/3,4BD,Yurtdışı Satışlar,Export Sales,84612187.0
+TKFEN,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-142528484.0
+TKFEN,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-152298215.0
+TKFEN,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),6051145.0
+TKFEN,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,212091748.0
+TKFEN,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-23783365.0
+TKFEN,2024/3,4CAA,Düzeltmeler:,Adjustments:,80941113.0
+TKFEN,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,18270649.0
+TKFEN,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,-8345913.0
+TKFEN,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,33432975.0
+TKFEN,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),57157748.0
+TKFEN,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,181776690.0
+TKFEN,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),238934438.0
+TKFEN,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-26842690.0
+TKFEN,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-11532885.0
+TKFEN,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-656709.0
+TKFEN,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-12189595.0
+TKFEN,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,199902153.0
+TKFEN,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,23057535.0
+TKFEN,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TKFEN,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TKFEN,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-3153381.0
+TKFEN,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,19904154.0
+TKFEN,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,219806307.0
+TKFEN,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-23321485.0
+TKFEN,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TKFEN,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,196484823.0
+TKFEN,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TKFEN,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,338389898.0
+TKFEN,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,483807393.0
+TKFEN,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,806814473.0
+TKFEN,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,200857800.0
+TKFEN,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,507734.0
+TKFEN,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,176641630.0
+TKFEN,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TKFEN,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,5991735.0
+TKFEN,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,54465856.0
+TKFEN,2024/6,1AF,Stoklar,Inventories,279567101.0
+TKFEN,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TKFEN,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,86140920.0
+TKFEN,2024/6,1AI,(Ara Toplam),(Subtotal),804172776.0
+TKFEN,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,2641697.0
+TKFEN,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,954986757.0
+TKFEN,2024/6,1B,Ticari Alacaklar,Trade Receivables,34009269.0
+TKFEN,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TKFEN,2024/6,1BB,Diğer Alacaklar,Other Receivables,3877629.0
+TKFEN,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TKFEN,2024/6,1BC,Finansal Yatırımlar,Financial Investments,120419640.0
+TKFEN,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,56771719.0
+TKFEN,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TKFEN,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,58694006.0
+TKFEN,2024/6,1BFA,Stoklar,Stoklar,0.0
+TKFEN,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,13264407.0
+TKFEN,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,578287046.0
+TKFEN,2024/6,1BGA,Şerefiye,Goodwill,22116478.0
+TKFEN,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,5024950.0
+TKFEN,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,54768270.0
+TKFEN,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,7753343.0
+TKFEN,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1761801230.0
+TKFEN,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TKFEN,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,795445503.0
+TKFEN,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,213640806.0
+TKFEN,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,320666894.0
+TKFEN,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,16079373.0
+TKFEN,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,47358425.0
+TKFEN,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TKFEN,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TKFEN,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,85094951.0
+TKFEN,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3730664.0
+TKFEN,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,80888391.0
+TKFEN,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,27986000.0
+TKFEN,2024/6,2AAGG,(Ara Toplam),(Subtotal),795445503.0
+TKFEN,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TKFEN,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,129696278.0
+TKFEN,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,83455617.0
+TKFEN,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,4227786.0
+TKFEN,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,6849747.0
+TKFEN,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TKFEN,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TKFEN,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TKFEN,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,34605.0
+TKFEN,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,23969251.0
+TKFEN,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TKFEN,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,11159272.0
+TKFEN,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TKFEN,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,836659450.0
+TKFEN,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,824586669.0
+TKFEN,2024/6,2OA,Ödenmiş Sermaye,Share Capital,11251228.0
+TKFEN,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TKFEN,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,145941317.0
+TKFEN,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TKFEN,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,6817666.0
+TKFEN,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,132680164.0
+TKFEN,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),414102532.0
+TKFEN,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),135136.0
+TKFEN,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,113658626.0
+TKFEN,2024/6,2ODA,Azınlık Payları,Minority Interests,12072780.0
+TKFEN,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1761801230.0
+TKFEN,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TKFEN,2024/6,3C,Satış Gelirleri,Net Sales,1208149101.0
+TKFEN,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1063154724.0
+TKFEN,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TKFEN,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,144994377.0
+TKFEN,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TKFEN,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TKFEN,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TKFEN,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),144994377.0
+TKFEN,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-67690746.0
+TKFEN,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-48668314.0
+TKFEN,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1263427.0
+TKFEN,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,60304542.0
+TKFEN,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-80798105.0
+TKFEN,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TKFEN,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,6878328.0
+TKFEN,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,27371891.0
+TKFEN,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,7050677.0
+TKFEN,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-14686865.0
+TKFEN,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TKFEN,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-2606767.0
+TKFEN,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-3364627.0
+TKFEN,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),33331710.0
+TKFEN,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-27809340.0
+TKFEN,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-7636188.0
+TKFEN,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,2157743.0
+TKFEN,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-1127698.0
+TKFEN,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-9125756.0
+TKFEN,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,7998057.0
+TKFEN,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TKFEN,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1030045.0
+TKFEN,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TKFEN,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TKFEN,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1030045.0
+TKFEN,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TKFEN,2024/6,3LB,Azınlık Payları,Minority Interests,840240.0
+TKFEN,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,189805.0
+TKFEN,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TKFEN,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TKFEN,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TKFEN,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TKFEN,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,42327904.0
+TKFEN,2024/6,4BA,Kıdem Tazminatı,Severance Payments,-18713026.0
+TKFEN,2024/6,4BB,Finansman Giderleri,Financial Expenses,-27809340.0
+TKFEN,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,979094959.0
+TKFEN,2024/6,4BD,Yurtdışı Satışlar,Export Sales,229054142.0
+TKFEN,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-143307288.0
+TKFEN,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-163857299.0
+TKFEN,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-40952276.0
+TKFEN,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,144796761.0
+TKFEN,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1030045.0
+TKFEN,2024/6,4CAA,Düzeltmeler:,Adjustments:,119221693.0
+TKFEN,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,42327904.0
+TKFEN,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,-18713026.0
+TKFEN,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,24671170.0
+TKFEN,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),120251738.0
+TKFEN,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,50750002.0
+TKFEN,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),171001740.0
+TKFEN,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-26204979.0
+TKFEN,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-29957723.0
+TKFEN,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-24495848.0
+TKFEN,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-54453571.0
+TKFEN,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,90343190.0
+TKFEN,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-17862034.0
+TKFEN,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TKFEN,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TKFEN,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-8425514.0
+TKFEN,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-26287548.0
+TKFEN,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,64055642.0
+TKFEN,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-61098864.0
+TKFEN,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TKFEN,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,2956777.0
+TKFEN,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TKFEN,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,351212658.0
+TKFEN,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,282093790.0
+TKFEN,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,776962539.0
+TKFEN,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,222982257.0
+TKFEN,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+TKFEN,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,162604227.0
+TKFEN,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TKFEN,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,7290924.0
+TKFEN,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,57135084.0
+TKFEN,2024/9,1AF,Stoklar,Inventories,240472288.0
+TKFEN,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TKFEN,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,83727258.0
+TKFEN,2024/9,1AI,(Ara Toplam),(Subtotal),774212038.0
+TKFEN,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,2750501.0
+TKFEN,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,979444511.0
+TKFEN,2024/9,1B,Ticari Alacaklar,Trade Receivables,36574914.0
+TKFEN,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TKFEN,2024/9,1BB,Diğer Alacaklar,Other Receivables,3912353.0
+TKFEN,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TKFEN,2024/9,1BC,Finansal Yatırımlar,Financial Investments,117822570.0
+TKFEN,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,55423097.0
+TKFEN,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TKFEN,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,60584714.0
+TKFEN,2024/9,1BFA,Stoklar,Stoklar,0.0
+TKFEN,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,12479953.0
+TKFEN,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,604453068.0
+TKFEN,2024/9,1BGA,Şerefiye,Goodwill,23174812.0
+TKFEN,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,5067037.0
+TKFEN,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,50600951.0
+TKFEN,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,9351042.0
+TKFEN,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1756407050.0
+TKFEN,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TKFEN,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,734658144.0
+TKFEN,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,201399225.0
+TKFEN,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,287918994.0
+TKFEN,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,16088759.0
+TKFEN,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,38875419.0
+TKFEN,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TKFEN,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TKFEN,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,94110173.0
+TKFEN,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4470679.0
+TKFEN,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,68207709.0
+TKFEN,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,23587186.0
+TKFEN,2024/9,2AAGG,(Ara Toplam),(Subtotal),734658144.0
+TKFEN,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TKFEN,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,161121188.0
+TKFEN,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,116395553.0
+TKFEN,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,5029650.0
+TKFEN,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,6970818.0
+TKFEN,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TKFEN,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TKFEN,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TKFEN,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,36247.0
+TKFEN,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,22038967.0
+TKFEN,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TKFEN,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,10649952.0
+TKFEN,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TKFEN,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,860627719.0
+TKFEN,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,848181935.0
+TKFEN,2024/9,2OA,Ödenmiş Sermaye,Share Capital,10824252.0
+TKFEN,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TKFEN,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,152926585.0
+TKFEN,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TKFEN,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-4529950.0
+TKFEN,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,145376933.0
+TKFEN,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),427585490.0
+TKFEN,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),675258.0
+TKFEN,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,115323367.0
+TKFEN,2024/9,2ODA,Azınlık Payları,Minority Interests,12445784.0
+TKFEN,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1756407050.0
+TKFEN,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TKFEN,2024/9,3C,Satış Gelirleri,Net Sales,1321574876.0
+TKFEN,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1176374287.0
+TKFEN,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TKFEN,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,145200589.0
+TKFEN,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TKFEN,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TKFEN,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TKFEN,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),145200589.0
+TKFEN,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-66140180.0
+TKFEN,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-51921097.0
+TKFEN,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1406629.0
+TKFEN,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,61840582.0
+TKFEN,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-79885223.0
+TKFEN,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TKFEN,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,7688042.0
+TKFEN,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,25732683.0
+TKFEN,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,6988538.0
+TKFEN,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-11019919.0
+TKFEN,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TKFEN,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-3226208.0
+TKFEN,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,430452.0
+TKFEN,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),31974102.0
+TKFEN,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-21611276.0
+TKFEN,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-4031382.0
+TKFEN,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,10793278.0
+TKFEN,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-9279213.0
+TKFEN,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-7722739.0
+TKFEN,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-1556475.0
+TKFEN,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TKFEN,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1514064.0
+TKFEN,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TKFEN,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TKFEN,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1514064.0
+TKFEN,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TKFEN,2024/9,3LB,Azınlık Payları,Minority Interests,799009.0
+TKFEN,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,715056.0
+TKFEN,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TKFEN,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TKFEN,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TKFEN,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TKFEN,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,48108798.0
+TKFEN,2024/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TKFEN,2024/9,4BB,Finansman Giderleri,Financial Expenses,-21611276.0
+TKFEN,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,1059079740.0
+TKFEN,2024/9,4BD,Yurtdışı Satışlar,Export Sales,262495136.0
+TKFEN,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-192333581.0
+TKFEN,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-221413755.0
+TKFEN,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-52932094.0
+TKFEN,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,163468990.0
+TKFEN,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1514064.0
+TKFEN,2024/9,4CAA,Düzeltmeler:,Adjustments:,129378872.0
+TKFEN,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,48108798.0
+TKFEN,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,-25154678.0
+TKFEN,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,31212732.0
+TKFEN,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),130892937.0
+TKFEN,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,59755638.0
+TKFEN,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),190648575.0
+TKFEN,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-27179585.0
+TKFEN,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-39743680.0
+TKFEN,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-21232249.0
+TKFEN,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-60975929.0
+TKFEN,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,102493061.0
+TKFEN,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,11294455.0
+TKFEN,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TKFEN,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TKFEN,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-9177850.0
+TKFEN,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,2116605.0
+TKFEN,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,104609665.0
+TKFEN,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-70074504.0
+TKFEN,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TKFEN,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,34535161.0
+TKFEN,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TKFEN,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,277485564.0
+TKFEN,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,236124257.0
+TKFEN,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,800117779.0
+TKFEN,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,219082670.0
+TKFEN,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+TKFEN,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,179067287.0
+TKFEN,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TKFEN,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,3529076.0
+TKFEN,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,49092581.0
+TKFEN,2025/3,1AF,Stoklar,Inventories,260569519.0
+TKFEN,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TKFEN,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,86116161.0
+TKFEN,2025/3,1AI,(Ara Toplam),(Subtotal),797457293.0
+TKFEN,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,2660485.0
+TKFEN,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1054851918.0
+TKFEN,2025/3,1B,Ticari Alacaklar,Trade Receivables,44610836.0
+TKFEN,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TKFEN,2025/3,1BB,Diğer Alacaklar,Other Receivables,4023212.0
+TKFEN,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TKFEN,2025/3,1BC,Finansal Yatırımlar,Financial Investments,130231143.0
+TKFEN,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,52186437.0
+TKFEN,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TKFEN,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,66853837.0
+TKFEN,2025/3,1BFA,Stoklar,Stoklar,0.0
+TKFEN,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,11095584.0
+TKFEN,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,641951038.0
+TKFEN,2025/3,1BGA,Şerefiye,Goodwill,11495307.0
+TKFEN,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,14135625.0
+TKFEN,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,63639163.0
+TKFEN,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,14629735.0
+TKFEN,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1854969696.0
+TKFEN,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TKFEN,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,801268763.0
+TKFEN,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,246212530.0
+TKFEN,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,326722895.0
+TKFEN,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,16895228.0
+TKFEN,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,48126538.0
+TKFEN,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TKFEN,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TKFEN,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,82292374.0
+TKFEN,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),11742124.0
+TKFEN,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,45923211.0
+TKFEN,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,23353862.0
+TKFEN,2025/3,2AAGG,(Ara Toplam),(Subtotal),801268763.0
+TKFEN,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TKFEN,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,185568395.0
+TKFEN,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,133696704.0
+TKFEN,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,4903406.0
+TKFEN,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,9936009.0
+TKFEN,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TKFEN,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TKFEN,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TKFEN,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,37427.0
+TKFEN,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,23052675.0
+TKFEN,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TKFEN,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,13942173.0
+TKFEN,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TKFEN,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,868132538.0
+TKFEN,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,856327216.0
+TKFEN,2025/3,2OA,Ödenmiş Sermaye,Share Capital,9779641.0
+TKFEN,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TKFEN,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,161607588.0
+TKFEN,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TKFEN,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-20501008.0
+TKFEN,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,171337881.0
+TKFEN,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),447358360.0
+TKFEN,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-19385839.0
+TKFEN,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,106130593.0
+TKFEN,2025/3,2ODA,Azınlık Payları,Minority Interests,11805322.0
+TKFEN,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1854969696.0
+TKFEN,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TKFEN,2025/3,3C,Satış Gelirleri,Net Sales,374032061.0
+TKFEN,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-344254424.0
+TKFEN,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TKFEN,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,29777638.0
+TKFEN,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TKFEN,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TKFEN,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TKFEN,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),29777638.0
+TKFEN,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-17228134.0
+TKFEN,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-17891726.0
+TKFEN,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-283735.0
+TKFEN,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,30310850.0
+TKFEN,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-32631562.0
+TKFEN,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TKFEN,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-7946668.0
+TKFEN,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-5625957.0
+TKFEN,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2404036.0
+TKFEN,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-16411.0
+TKFEN,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TKFEN,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-804012.0
+TKFEN,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-6363055.0
+TKFEN,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),10705931.0
+TKFEN,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-18197692.0
+TKFEN,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2387625.0
+TKFEN,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-13854816.0
+TKFEN,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-6428645.0
+TKFEN,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-6382583.0
+TKFEN,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-46062.0
+TKFEN,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TKFEN,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-20283461.0
+TKFEN,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TKFEN,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TKFEN,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-20283461.0
+TKFEN,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TKFEN,2025/3,3LB,Azınlık Payları,Minority Interests,-53867.0
+TKFEN,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,-20229593.0
+TKFEN,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TKFEN,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TKFEN,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TKFEN,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TKFEN,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,16592951.0
+TKFEN,2025/3,4BA,Kıdem Tazminatı,Severance Payments,2244916.0
+TKFEN,2025/3,4BB,Finansman Giderleri,Financial Expenses,-18197692.0
+TKFEN,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TKFEN,2025/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TKFEN,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-325075672.0
+TKFEN,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-336104835.0
+TKFEN,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-215192444.0
+TKFEN,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-29756979.0
+TKFEN,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-20283461.0
+TKFEN,2025/3,4CAA,Düzeltmeler:,Adjustments:,25207432.0
+TKFEN,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,16592951.0
+TKFEN,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,-5395704.0
+TKFEN,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,7268678.0
+TKFEN,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),4923971.0
+TKFEN,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-19349842.0
+TKFEN,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-14425871.0
+TKFEN,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-15331108.0
+TKFEN,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-16705071.0
+TKFEN,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-566945.0
+TKFEN,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-17272017.0
+TKFEN,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-47028995.0
+TKFEN,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,8979968.0
+TKFEN,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TKFEN,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TKFEN,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-6679474.0
+TKFEN,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,2300494.0
+TKFEN,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-44728502.0
+TKFEN,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,12194553.0
+TKFEN,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TKFEN,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-32533949.0
+TKFEN,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TKFEN,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,286586411.0
+TKFEN,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,228618086.0
+TKFEN,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,664348394.0
+TKFEN,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,187874431.0
+TKFEN,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,69878.0
+TKFEN,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,143197823.0
+TKFEN,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TKFEN,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,6031739.0
+TKFEN,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,59626825.0
+TKFEN,2025/6,1AF,Stoklar,Inventories,193608901.0
+TKFEN,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TKFEN,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,69386548.0
+TKFEN,2025/6,1AI,(Ara Toplam),(Subtotal),659796144.0
+TKFEN,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,4552250.0
+TKFEN,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1068620731.0
+TKFEN,2025/6,1B,Ticari Alacaklar,Trade Receivables,49361882.0
+TKFEN,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TKFEN,2025/6,1BB,Diğer Alacaklar,Other Receivables,3998654.0
+TKFEN,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TKFEN,2025/6,1BC,Finansal Yatırımlar,Financial Investments,121328355.0
+TKFEN,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,51501115.0
+TKFEN,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TKFEN,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,66516939.0
+TKFEN,2025/6,1BFA,Stoklar,Stoklar,0.0
+TKFEN,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,9056952.0
+TKFEN,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,652378480.0
+TKFEN,2025/6,1BGA,Şerefiye,Goodwill,11579583.0
+TKFEN,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,13889014.0
+TKFEN,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,70126920.0
+TKFEN,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,18882835.0
+TKFEN,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1732969125.0
+TKFEN,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TKFEN,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,797849263.0
+TKFEN,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,271795345.0
+TKFEN,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,286757493.0
+TKFEN,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,20060509.0
+TKFEN,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,50549176.0
+TKFEN,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TKFEN,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TKFEN,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,92970331.0
+TKFEN,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5684259.0
+TKFEN,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,40847676.0
+TKFEN,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,29184475.0
+TKFEN,2025/6,2AAGG,(Ara Toplam),(Subtotal),797849263.0
+TKFEN,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TKFEN,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,121899785.0
+TKFEN,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,77391039.0
+TKFEN,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TKFEN,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,4596081.0
+TKFEN,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,11112467.0
+TKFEN,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TKFEN,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TKFEN,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TKFEN,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,37702.0
+TKFEN,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,22260678.0
+TKFEN,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TKFEN,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,6501819.0
+TKFEN,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TKFEN,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,813220077.0
+TKFEN,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,803640424.0
+TKFEN,2025/6,2OA,Ödenmiş Sermaye,Share Capital,9293587.0
+TKFEN,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TKFEN,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,162800208.0
+TKFEN,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TKFEN,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-26544293.0
+TKFEN,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,172505576.0
+TKFEN,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),447572314.0
+TKFEN,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-60330450.0
+TKFEN,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,98343481.0
+TKFEN,2025/6,2ODA,Azınlık Payları,Minority Interests,9579654.0
+TKFEN,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1732969125.0
+TKFEN,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TKFEN,2025/6,3C,Satış Gelirleri,Net Sales,693821888.0
+TKFEN,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-682877404.0
+TKFEN,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TKFEN,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,10944484.0
+TKFEN,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TKFEN,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TKFEN,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TKFEN,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TKFEN,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),10944484.0
+TKFEN,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-29217696.0
+TKFEN,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-32824728.0
+TKFEN,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-628299.0
+TKFEN,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,56274107.0
+TKFEN,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-60274910.0
+TKFEN,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TKFEN,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-55727043.0
+TKFEN,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-51726240.0
+TKFEN,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,5431291.0
+TKFEN,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-6390827.0
+TKFEN,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TKFEN,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-1492274.0
+TKFEN,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-58178854.0
+TKFEN,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),19411626.0
+TKFEN,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-29947213.0
+TKFEN,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-959537.0
+TKFEN,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-68714440.0
+TKFEN,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,4582816.0
+TKFEN,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-4533701.0
+TKFEN,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,9116517.0
+TKFEN,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TKFEN,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-64131624.0
+TKFEN,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TKFEN,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TKFEN,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-64131624.0
+TKFEN,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TKFEN,2025/6,3LB,Azınlık Payları,Minority Interests,-53143.0
+TKFEN,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,-64078481.0
+TKFEN,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,-180.0
+TKFEN,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,-180.0
+TKFEN,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,-180.0
+TKFEN,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,-180.0
+TKFEN,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,33019506.0
+TKFEN,2025/6,4BA,Kıdem Tazminatı,Severance Payments,-8663280.0
+TKFEN,2025/6,4BB,Finansman Giderleri,Financial Expenses,-29947213.0
+TKFEN,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,504071256.0
+TKFEN,2025/6,4BD,Yurtdışı Satışlar,Export Sales,189750632.0
+TKFEN,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-276335629.0
+TKFEN,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-295893906.0
+TKFEN,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-175831684.0
+TKFEN,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,15079346.0
+TKFEN,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-64131624.0
+TKFEN,2025/6,4CAA,Düzeltmeler:,Adjustments:,58920322.0
+TKFEN,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,33019506.0
+TKFEN,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,-8663280.0
+TKFEN,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,14122904.0
+TKFEN,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-5211302.0
+TKFEN,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,49004551.0
+TKFEN,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),43793249.0
+TKFEN,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-28713904.0
+TKFEN,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-38599101.0
+TKFEN,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1263962.0
+TKFEN,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-39863063.0
+TKFEN,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,-24783718.0
+TKFEN,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-7009896.0
+TKFEN,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TKFEN,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TKFEN,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-8020948.0
+TKFEN,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-15030844.0
+TKFEN,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-39814562.0
+TKFEN,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-13544172.0
+TKFEN,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TKFEN,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-53358735.0
+TKFEN,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TKFEN,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,293847417.0
+TKFEN,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,199546137.0

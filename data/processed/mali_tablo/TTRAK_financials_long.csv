@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+TTRAK,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,1038443183.0
+TTRAK,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,388522873.0
+TTRAK,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,36947523.0
+TTRAK,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,184890817.0
+TTRAK,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTRAK,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+TTRAK,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2022/12,1AF,Stoklar,Inventories,338068216.0
+TTRAK,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTRAK,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,90013754.0
+TTRAK,2022/12,1AI,(Ara Toplam),(Subtotal),1038443183.0
+TTRAK,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TTRAK,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,349881504.0
+TTRAK,2022/12,1B,Ticari Alacaklar,Trade Receivables,9628.0
+TTRAK,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTRAK,2022/12,1BB,Diğer Alacaklar,Other Receivables,34636.0
+TTRAK,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2022/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TTRAK,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTRAK,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTRAK,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TTRAK,2022/12,1BFA,Stoklar,Stoklar,0.0
+TTRAK,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,11458966.0
+TTRAK,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,203300222.0
+TTRAK,2022/12,1BGA,Şerefiye,Goodwill,0.0
+TTRAK,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,127089646.0
+TTRAK,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+TTRAK,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,7988405.0
+TTRAK,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1388324687.0
+TTRAK,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTRAK,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,810907742.0
+TTRAK,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,291419781.0
+TTRAK,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,433238331.0
+TTRAK,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,10965056.0
+TTRAK,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TTRAK,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTRAK,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,292177.0
+TTRAK,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,50111919.0
+TTRAK,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+TTRAK,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,11763307.0
+TTRAK,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,13117170.0
+TTRAK,2022/12,2AAGG,(Ara Toplam),(Subtotal),810907742.0
+TTRAK,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTRAK,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,83906003.0
+TTRAK,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,50774615.0
+TTRAK,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTRAK,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TTRAK,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TTRAK,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTRAK,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTRAK,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTRAK,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,32088348.0
+TTRAK,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTRAK,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,1043039.0
+TTRAK,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTRAK,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,493510942.0
+TTRAK,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,493510942.0
+TTRAK,2022/12,2OA,Ödenmiş Sermaye,Share Capital,2849082.0
+TTRAK,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTRAK,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTRAK,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTRAK,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TTRAK,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,67294939.0
+TTRAK,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),118618793.0
+TTRAK,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),230078278.0
+TTRAK,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,74669850.0
+TTRAK,2022/12,2ODA,Azınlık Payları,Minority Interests,0.0
+TTRAK,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1388324687.0
+TTRAK,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTRAK,2022/12,3C,Satış Gelirleri,Net Sales,2491570006.0
+TTRAK,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2103440998.0
+TTRAK,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTRAK,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,388129008.0
+TTRAK,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTRAK,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTRAK,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTRAK,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),388129008.0
+TTRAK,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-79399399.0
+TTRAK,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-50784897.0
+TTRAK,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-18833443.0
+TTRAK,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,164139869.0
+TTRAK,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-184099122.0
+TTRAK,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTRAK,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,219152015.0
+TTRAK,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,239111268.0
+TTRAK,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2211716.0
+TTRAK,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TTRAK,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TTRAK,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTRAK,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,221363730.0
+TTRAK,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),65863075.0
+TTRAK,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-13166365.0
+TTRAK,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2211716.0
+TTRAK,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,274060441.0
+TTRAK,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-14666910.0
+TTRAK,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-37821233.0
+TTRAK,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,23154323.0
+TTRAK,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTRAK,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,259393531.0
+TTRAK,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTRAK,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTRAK,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,259393531.0
+TTRAK,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTRAK,2022/12,3LB,Azınlık Payları,Minority Interests,0.0
+TTRAK,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,259393531.0
+TTRAK,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,5.0
+TTRAK,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTRAK,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTRAK,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTRAK,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,56624370.0
+TTRAK,2022/12,4BA,Kıdem Tazminatı,Severance Payments,883746.0
+TTRAK,2022/12,4BB,Finansman Giderleri,Financial Expenses,-13166365.0
+TTRAK,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,2000944079.0
+TTRAK,2022/12,4BD,Yurtdışı Satışlar,Export Sales,812586545.0
+TTRAK,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,29305413.0
+TTRAK,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,29305413.0
+TTRAK,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-33576157.0
+TTRAK,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,410864734.0
+TTRAK,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,259393531.0
+TTRAK,2022/12,4CAA,Düzeltmeler:,Adjustments:,184293022.0
+TTRAK,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,56624370.0
+TTRAK,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,17126807.0
+TTRAK,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,110541845.0
+TTRAK,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),443686553.0
+TTRAK,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,6077426.0
+TTRAK,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),449763979.0
+TTRAK,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-38899245.0
+TTRAK,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-96272334.0
+TTRAK,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-40276817.0
+TTRAK,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-136549152.0
+TTRAK,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,274315582.0
+TTRAK,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,172833152.0
+TTRAK,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-167879161.0
+TTRAK,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTRAK,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-45048347.0
+TTRAK,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-40094356.0
+TTRAK,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,234221225.0
+TTRAK,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-56408768.0
+TTRAK,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTRAK,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,177812457.0
+TTRAK,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTRAK,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,255209517.0
+TTRAK,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,433021974.0
+TTRAK,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,415995204.0
+TTRAK,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,118098700.0
+TTRAK,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+TTRAK,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,88691547.0
+TTRAK,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTRAK,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+TTRAK,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2022/3,1AF,Stoklar,Inventories,171904652.0
+TTRAK,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTRAK,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,37300305.0
+TTRAK,2022/3,1AI,(Ara Toplam),(Subtotal),415995204.0
+TTRAK,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TTRAK,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,90192339.0
+TTRAK,2022/3,1B,Ticari Alacaklar,Trade Receivables,156242.0
+TTRAK,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTRAK,2022/3,1BB,Diğer Alacaklar,Other Receivables,26852.0
+TTRAK,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2022/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TTRAK,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTRAK,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTRAK,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TTRAK,2022/3,1BFA,Stoklar,Stoklar,0.0
+TTRAK,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,1584217.0
+TTRAK,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,47338506.0
+TTRAK,2022/3,1BGA,Şerefiye,Goodwill,0.0
+TTRAK,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,31640616.0
+TTRAK,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,7470798.0
+TTRAK,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1975107.0
+TTRAK,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,506187544.0
+TTRAK,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTRAK,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,368425691.0
+TTRAK,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,130701004.0
+TTRAK,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,203728130.0
+TTRAK,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,5810297.0
+TTRAK,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TTRAK,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTRAK,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,245342.0
+TTRAK,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,7874406.0
+TTRAK,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),8713630.0
+TTRAK,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,5117209.0
+TTRAK,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,6235674.0
+TTRAK,2022/3,2AAGG,(Ara Toplam),(Subtotal),368425691.0
+TTRAK,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTRAK,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,48743271.0
+TTRAK,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,39004706.0
+TTRAK,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTRAK,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TTRAK,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TTRAK,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTRAK,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTRAK,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTRAK,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,9738565.0
+TTRAK,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTRAK,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TTRAK,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTRAK,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,89018583.0
+TTRAK,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,89018583.0
+TTRAK,2022/3,2OA,Ödenmiş Sermaye,Share Capital,3639581.0
+TTRAK,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTRAK,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTRAK,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTRAK,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TTRAK,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,16278671.0
+TTRAK,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),32538056.0
+TTRAK,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),32502141.0
+TTRAK,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,4060132.0
+TTRAK,2022/3,2ODA,Azınlık Payları,Minority Interests,0.0
+TTRAK,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,506187544.0
+TTRAK,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTRAK,2022/3,3C,Satış Gelirleri,Net Sales,285413191.0
+TTRAK,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-233693580.0
+TTRAK,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTRAK,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,51719611.0
+TTRAK,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTRAK,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTRAK,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTRAK,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),51719611.0
+TTRAK,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-7948971.0
+TTRAK,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-4826696.0
+TTRAK,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1214368.0
+TTRAK,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,28509295.0
+TTRAK,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-33087523.0
+TTRAK,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTRAK,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,33151348.0
+TTRAK,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,37729576.0
+TTRAK,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+TTRAK,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TTRAK,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TTRAK,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTRAK,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,33151348.0
+TTRAK,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),11669147.0
+TTRAK,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-6392697.0
+TTRAK,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+TTRAK,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,38427799.0
+TTRAK,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-4318748.0
+TTRAK,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-9276302.0
+TTRAK,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,4957553.0
+TTRAK,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTRAK,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,34109050.0
+TTRAK,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTRAK,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTRAK,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,34109050.0
+TTRAK,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTRAK,2022/3,3LB,Azınlık Payları,Minority Interests,0.0
+TTRAK,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,34109050.0
+TTRAK,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTRAK,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTRAK,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTRAK,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTRAK,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,3176663.0
+TTRAK,2022/3,4BA,Kıdem Tazminatı,Severance Payments,134662.0
+TTRAK,2022/3,4BB,Finansman Giderleri,Financial Expenses,-6392697.0
+TTRAK,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,222882042.0
+TTRAK,2022/3,4BD,Yurtdışı Satışlar,Export Sales,111651917.0
+TTRAK,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,25919110.0
+TTRAK,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,25919110.0
+TTRAK,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),33992084.0
+TTRAK,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,14094802.0
+TTRAK,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,34109050.0
+TTRAK,2022/3,4CAA,Düzeltmeler:,Adjustments:,18972811.0
+TTRAK,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,3176663.0
+TTRAK,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,1613563.0
+TTRAK,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,14182585.0
+TTRAK,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),53081861.0
+TTRAK,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-38634398.0
+TTRAK,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),14447463.0
+TTRAK,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-352661.0
+TTRAK,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-9412034.0
+TTRAK,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,1868.0
+TTRAK,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-9410166.0
+TTRAK,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,4684636.0
+TTRAK,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,91121518.0
+TTRAK,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,-85881822.0
+TTRAK,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTRAK,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-851580.0
+TTRAK,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,4388116.0
+TTRAK,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,9072752.0
+TTRAK,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,3110104.0
+TTRAK,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTRAK,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,12182856.0
+TTRAK,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTRAK,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,111631998.0
+TTRAK,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,123814854.0
+TTRAK,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,426742630.0
+TTRAK,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,92045631.0
+TTRAK,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+TTRAK,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,110141143.0
+TTRAK,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTRAK,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+TTRAK,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2022/6,1AF,Stoklar,Inventories,187310014.0
+TTRAK,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTRAK,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,37245842.0
+TTRAK,2022/6,1AI,(Ara Toplam),(Subtotal),426742630.0
+TTRAK,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TTRAK,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,92576626.0
+TTRAK,2022/6,1B,Ticari Alacaklar,Trade Receivables,112723.0
+TTRAK,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTRAK,2022/6,1BB,Diğer Alacaklar,Other Receivables,23590.0
+TTRAK,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2022/6,1BC,Finansal Yatırımlar,Financial Investments,170747.0
+TTRAK,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTRAK,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTRAK,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TTRAK,2022/6,1BFA,Stoklar,Stoklar,0.0
+TTRAK,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,1400467.0
+TTRAK,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,45937580.0
+TTRAK,2022/6,1BGA,Şerefiye,Goodwill,0.0
+TTRAK,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,30872984.0
+TTRAK,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,10461698.0
+TTRAK,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3596837.0
+TTRAK,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,519319256.0
+TTRAK,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTRAK,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,358955357.0
+TTRAK,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,141257686.0
+TTRAK,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,189991916.0
+TTRAK,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,4567361.0
+TTRAK,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TTRAK,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTRAK,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,208302.0
+TTRAK,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,7766931.0
+TTRAK,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),6093753.0
+TTRAK,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,5079169.0
+TTRAK,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,3990238.0
+TTRAK,2022/6,2AAGG,(Ara Toplam),(Subtotal),358955357.0
+TTRAK,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTRAK,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,56072636.0
+TTRAK,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,45498468.0
+TTRAK,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTRAK,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TTRAK,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TTRAK,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTRAK,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTRAK,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTRAK,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,10574168.0
+TTRAK,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTRAK,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TTRAK,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTRAK,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,104291262.0
+TTRAK,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,104291262.0
+TTRAK,2022/6,2OA,Ödenmiş Sermaye,Share Capital,3197395.0
+TTRAK,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTRAK,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTRAK,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTRAK,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TTRAK,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,14300915.0
+TTRAK,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),28584887.0
+TTRAK,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),57474049.0
+TTRAK,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,734016.0
+TTRAK,2022/6,2ODA,Azınlık Payları,Minority Interests,0.0
+TTRAK,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,519319256.0
+TTRAK,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTRAK,2022/6,3C,Satış Gelirleri,Net Sales,596560643.0
+TTRAK,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-486800646.0
+TTRAK,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTRAK,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,109759997.0
+TTRAK,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTRAK,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTRAK,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTRAK,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),109759997.0
+TTRAK,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-16089857.0
+TTRAK,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-9942580.0
+TTRAK,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-2226775.0
+TTRAK,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,47363938.0
+TTRAK,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-57573800.0
+TTRAK,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTRAK,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,71290923.0
+TTRAK,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,81500785.0
+TTRAK,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,65385.0
+TTRAK,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TTRAK,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TTRAK,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTRAK,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,71356307.0
+TTRAK,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),22067024.0
+TTRAK,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-22000072.0
+TTRAK,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,65385.0
+TTRAK,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,71423260.0
+TTRAK,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-6981203.0
+TTRAK,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-15140348.0
+TTRAK,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,8159144.0
+TTRAK,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTRAK,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,64442056.0
+TTRAK,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTRAK,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTRAK,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,64442056.0
+TTRAK,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTRAK,2022/6,3LB,Azınlık Payları,Minority Interests,0.0
+TTRAK,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,64442056.0
+TTRAK,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+TTRAK,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTRAK,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTRAK,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTRAK,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,6027247.0
+TTRAK,2022/6,4BA,Kıdem Tazminatı,Severance Payments,252791.0
+TTRAK,2022/6,4BB,Finansman Giderleri,Financial Expenses,-22000072.0
+TTRAK,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,467615525.0
+TTRAK,2022/6,4BD,Yurtdışı Satışlar,Export Sales,212007121.0
+TTRAK,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,13435881.0
+TTRAK,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,13435881.0
+TTRAK,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),19222991.0
+TTRAK,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-17309488.0
+TTRAK,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,64442056.0
+TTRAK,2022/6,4CAA,Düzeltmeler:,Adjustments:,28494468.0
+TTRAK,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,6027247.0
+TTRAK,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,2586015.0
+TTRAK,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,19881205.0
+TTRAK,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),92936524.0
+TTRAK,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-101433237.0
+TTRAK,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-8496712.0
+TTRAK,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-8812775.0
+TTRAK,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-19959455.0
+TTRAK,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-189694.0
+TTRAK,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-20149150.0
+TTRAK,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-37458637.0
+TTRAK,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,121628330.0
+TTRAK,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-80609472.0
+TTRAK,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTRAK,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-4792840.0
+TTRAK,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,36226018.0
+TTRAK,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-1232620.0
+TTRAK,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-348693.0
+TTRAK,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTRAK,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-1581312.0
+TTRAK,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTRAK,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,104778825.0
+TTRAK,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,103197513.0
+TTRAK,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,431225748.0
+TTRAK,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,149734672.0
+TTRAK,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+TTRAK,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,102162827.0
+TTRAK,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTRAK,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+TTRAK,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2022/9,1AF,Stoklar,Inventories,146232136.0
+TTRAK,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTRAK,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,33096113.0
+TTRAK,2022/9,1AI,(Ara Toplam),(Subtotal),431225748.0
+TTRAK,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TTRAK,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,91032555.0
+TTRAK,2022/9,1B,Ticari Alacaklar,Trade Receivables,123493.0
+TTRAK,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTRAK,2022/9,1BB,Diğer Alacaklar,Other Receivables,21225.0
+TTRAK,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2022/9,1BC,Finansal Yatırımlar,Financial Investments,153621.0
+TTRAK,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTRAK,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTRAK,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TTRAK,2022/9,1BFA,Stoklar,Stoklar,0.0
+TTRAK,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,1105250.0
+TTRAK,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,43512728.0
+TTRAK,2022/9,1BGA,Şerefiye,Goodwill,0.0
+TTRAK,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,29613675.0
+TTRAK,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,12533229.0
+TTRAK,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3969334.0
+TTRAK,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,522258304.0
+TTRAK,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTRAK,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,359877112.0
+TTRAK,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,155266295.0
+TTRAK,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,166607215.0
+TTRAK,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,3778637.0
+TTRAK,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TTRAK,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTRAK,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,180903.0
+TTRAK,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,16940076.0
+TTRAK,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),7669040.0
+TTRAK,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,4604363.0
+TTRAK,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,4830582.0
+TTRAK,2022/9,2AAGG,(Ara Toplam),(Subtotal),359877112.0
+TTRAK,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTRAK,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,34269919.0
+TTRAK,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,24364921.0
+TTRAK,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTRAK,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TTRAK,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TTRAK,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTRAK,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTRAK,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTRAK,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,9904998.0
+TTRAK,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTRAK,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TTRAK,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTRAK,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,128111273.0
+TTRAK,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,128111273.0
+TTRAK,2022/9,2OA,Ödenmiş Sermaye,Share Capital,2876709.0
+TTRAK,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTRAK,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTRAK,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTRAK,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TTRAK,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,12866592.0
+TTRAK,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),25717940.0
+TTRAK,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),86893272.0
+TTRAK,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-243239.0
+TTRAK,2022/9,2ODA,Azınlık Payları,Minority Interests,0.0
+TTRAK,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,522258304.0
+TTRAK,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTRAK,2022/9,3C,Satış Gelirleri,Net Sales,918515084.0
+TTRAK,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-745046078.0
+TTRAK,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTRAK,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,173469007.0
+TTRAK,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTRAK,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTRAK,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTRAK,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),173469007.0
+TTRAK,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-24840007.0
+TTRAK,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-15178664.0
+TTRAK,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-3137049.0
+TTRAK,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,59026229.0
+TTRAK,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-71877767.0
+TTRAK,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTRAK,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,117461749.0
+TTRAK,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,130313286.0
+TTRAK,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,61121.0
+TTRAK,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TTRAK,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TTRAK,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTRAK,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,117522869.0
+TTRAK,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),26543435.0
+TTRAK,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-32695953.0
+TTRAK,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,61121.0
+TTRAK,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,111370351.0
+TTRAK,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-10067035.0
+TTRAK,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-21019593.0
+TTRAK,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,10952557.0
+TTRAK,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTRAK,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,101303316.0
+TTRAK,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTRAK,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTRAK,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,101303316.0
+TTRAK,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTRAK,2022/9,3LB,Azınlık Payları,Minority Interests,0.0
+TTRAK,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,101303316.0
+TTRAK,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTRAK,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTRAK,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTRAK,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTRAK,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,9388179.0
+TTRAK,2022/9,4BA,Kıdem Tazminatı,Severance Payments,354725.0
+TTRAK,2022/9,4BB,Finansman Giderleri,Financial Expenses,-32695953.0
+TTRAK,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,729164853.0
+TTRAK,2022/9,4BD,Yurtdışı Satışlar,Export Sales,312035716.0
+TTRAK,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,48895354.0
+TTRAK,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,48895354.0
+TTRAK,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),51147985.0
+TTRAK,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,65420838.0
+TTRAK,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,101303316.0
+TTRAK,2022/9,4CAA,Düzeltmeler:,Adjustments:,41921713.0
+TTRAK,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,9388179.0
+TTRAK,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,3018812.0
+TTRAK,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,29514722.0
+TTRAK,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),143225029.0
+TTRAK,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-65251466.0
+TTRAK,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),77973563.0
+TTRAK,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-12552725.0
+TTRAK,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-26927484.0
+TTRAK,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-177457.0
+TTRAK,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-27104941.0
+TTRAK,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,38315896.0
+TTRAK,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,124351415.0
+TTRAK,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-75409434.0
+TTRAK,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTRAK,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-10022751.0
+TTRAK,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,38919230.0
+TTRAK,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,77235126.0
+TTRAK,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-745804.0
+TTRAK,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTRAK,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,76489323.0
+TTRAK,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTRAK,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,98019645.0
+TTRAK,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,174508968.0
+TTRAK,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,1224223952.0
+TTRAK,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,603677475.0
+TTRAK,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,551243.0
+TTRAK,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,118258702.0
+TTRAK,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTRAK,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+TTRAK,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2023/12,1AF,Stoklar,Inventories,425710763.0
+TTRAK,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTRAK,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,76025769.0
+TTRAK,2023/12,1AI,(Ara Toplam),(Subtotal),1224223952.0
+TTRAK,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TTRAK,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,364688307.0
+TTRAK,2023/12,1B,Ticari Alacaklar,Trade Receivables,5359.0
+TTRAK,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTRAK,2023/12,1BB,Diğer Alacaklar,Other Receivables,20189.0
+TTRAK,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2023/12,1BC,Finansal Yatırımlar,Financial Investments,414174.0
+TTRAK,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTRAK,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTRAK,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TTRAK,2023/12,1BFA,Stoklar,Stoklar,0.0
+TTRAK,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,11216549.0
+TTRAK,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,223327776.0
+TTRAK,2023/12,1BGA,Şerefiye,Goodwill,0.0
+TTRAK,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,114765834.0
+TTRAK,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,388666.0
+TTRAK,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,14549761.0
+TTRAK,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1588912259.0
+TTRAK,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTRAK,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,770316134.0
+TTRAK,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,243436100.0
+TTRAK,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,429830716.0
+TTRAK,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,9929789.0
+TTRAK,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TTRAK,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTRAK,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,162609.0
+TTRAK,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,22211768.0
+TTRAK,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),24441904.0
+TTRAK,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,13361976.0
+TTRAK,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,26941272.0
+TTRAK,2023/12,2AAGG,(Ara Toplam),(Subtotal),770316134.0
+TTRAK,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTRAK,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,64781769.0
+TTRAK,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,39965441.0
+TTRAK,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTRAK,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TTRAK,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TTRAK,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTRAK,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTRAK,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTRAK,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,24816328.0
+TTRAK,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTRAK,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TTRAK,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTRAK,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,753814356.0
+TTRAK,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,753814356.0
+TTRAK,2023/12,2OA,Ödenmiş Sermaye,Share Capital,3393098.0
+TTRAK,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTRAK,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTRAK,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTRAK,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TTRAK,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,78629782.0
+TTRAK,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),148337901.0
+TTRAK,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),457339079.0
+TTRAK,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,66114495.0
+TTRAK,2023/12,2ODA,Azınlık Payları,Minority Interests,0.0
+TTRAK,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1588912259.0
+TTRAK,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTRAK,2023/12,3C,Satış Gelirleri,Net Sales,3540582293.0
+TTRAK,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2595917195.0
+TTRAK,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTRAK,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,944665099.0
+TTRAK,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTRAK,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTRAK,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTRAK,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),944665099.0
+TTRAK,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-114626056.0
+TTRAK,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-74041653.0
+TTRAK,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-28115554.0
+TTRAK,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,214931828.0
+TTRAK,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-257716538.0
+TTRAK,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTRAK,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,685097125.0
+TTRAK,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,727881835.0
+TTRAK,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1017784.0
+TTRAK,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TTRAK,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TTRAK,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTRAK,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,686114909.0
+TTRAK,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),150053562.0
+TTRAK,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-100772044.0
+TTRAK,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1017784.0
+TTRAK,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,735396427.0
+TTRAK,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-169372378.0
+TTRAK,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-170172012.0
+TTRAK,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,799634.0
+TTRAK,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTRAK,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,566024049.0
+TTRAK,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTRAK,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTRAK,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,566024049.0
+TTRAK,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTRAK,2023/12,3LB,Azınlık Payları,Minority Interests,0.0
+TTRAK,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,566024049.0
+TTRAK,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTRAK,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTRAK,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTRAK,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTRAK,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,71481763.0
+TTRAK,2023/12,4BA,Kıdem Tazminatı,Severance Payments,2104895.0
+TTRAK,2023/12,4BB,Finansman Giderleri,Financial Expenses,-100772044.0
+TTRAK,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,3222889713.0
+TTRAK,2023/12,4BD,Yurtdışı Satışlar,Export Sales,828355179.0
+TTRAK,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-53577063.0
+TTRAK,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-53577063.0
+TTRAK,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-53577063.0
+TTRAK,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,598960515.0
+TTRAK,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,566024049.0
+TTRAK,2023/12,4CAA,Düzeltmeler:,Adjustments:,247720047.0
+TTRAK,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,71481763.0
+TTRAK,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,39971595.0
+TTRAK,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,113409088.0
+TTRAK,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),813744096.0
+TTRAK,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-70202809.0
+TTRAK,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),743541287.0
+TTRAK,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-144580773.0
+TTRAK,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-103535740.0
+TTRAK,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,37538210.0
+TTRAK,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-65997530.0
+TTRAK,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,532962985.0
+TTRAK,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,26857428.0
+TTRAK,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-190588693.0
+TTRAK,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTRAK,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,60370866.0
+TTRAK,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-103360399.0
+TTRAK,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,260280261.0
+TTRAK,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,37995548.0
+TTRAK,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTRAK,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,298275810.0
+TTRAK,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTRAK,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,435920702.0
+TTRAK,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,734196511.0
+TTRAK,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,589171525.0
+TTRAK,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,235281563.0
+TTRAK,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,5933288.0
+TTRAK,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,137821807.0
+TTRAK,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTRAK,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+TTRAK,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2023/3,1AF,Stoklar,Inventories,160025755.0
+TTRAK,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTRAK,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,50109111.0
+TTRAK,2023/3,1AI,(Ara Toplam),(Subtotal),589171525.0
+TTRAK,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TTRAK,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,136722119.0
+TTRAK,2023/3,1B,Ticari Alacaklar,Trade Receivables,5705.0
+TTRAK,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTRAK,2023/3,1BB,Diğer Alacaklar,Other Receivables,21492.0
+TTRAK,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2023/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TTRAK,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTRAK,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTRAK,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TTRAK,2023/3,1BFA,Stoklar,Stoklar,0.0
+TTRAK,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,4511669.0
+TTRAK,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,52290354.0
+TTRAK,2023/3,1BGA,Şerefiye,Goodwill,0.0
+TTRAK,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,34546957.0
+TTRAK,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,38889480.0
+TTRAK,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,6456462.0
+TTRAK,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,725893643.0
+TTRAK,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTRAK,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,535483178.0
+TTRAK,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,154326520.0
+TTRAK,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,290429486.0
+TTRAK,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,11741891.0
+TTRAK,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TTRAK,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTRAK,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,173109.0
+TTRAK,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,28499061.0
+TTRAK,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),26465902.0
+TTRAK,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,7990326.0
+TTRAK,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,15856884.0
+TTRAK,2023/3,2AAGG,(Ara Toplam),(Subtotal),535483178.0
+TTRAK,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTRAK,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,36337166.0
+TTRAK,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,17055810.0
+TTRAK,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTRAK,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TTRAK,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TTRAK,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTRAK,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTRAK,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTRAK,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,19281356.0
+TTRAK,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTRAK,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TTRAK,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTRAK,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,154073300.0
+TTRAK,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,154073300.0
+TTRAK,2023/3,2OA,Ödenmiş Sermaye,Share Capital,2781403.0
+TTRAK,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTRAK,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTRAK,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTRAK,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TTRAK,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,23370863.0
+TTRAK,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),59329741.0
+TTRAK,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),72861683.0
+TTRAK,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-4270390.0
+TTRAK,2023/3,2ODA,Azınlık Payları,Minority Interests,0.0
+TTRAK,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,725893643.0
+TTRAK,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTRAK,2023/3,3C,Satış Gelirleri,Net Sales,1026556998.0
+TTRAK,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-816590271.0
+TTRAK,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTRAK,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,209966728.0
+TTRAK,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTRAK,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTRAK,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTRAK,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),209966728.0
+TTRAK,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-29735839.0
+TTRAK,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-20180210.0
+TTRAK,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-7708910.0
+TTRAK,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,44317682.0
+TTRAK,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-59941337.0
+TTRAK,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTRAK,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,136718114.0
+TTRAK,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,152341769.0
+TTRAK,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,158843.0
+TTRAK,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TTRAK,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TTRAK,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTRAK,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,136876957.0
+TTRAK,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),30433668.0
+TTRAK,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-14664207.0
+TTRAK,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,158843.0
+TTRAK,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,152646417.0
+TTRAK,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-37065936.0
+TTRAK,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-56327166.0
+TTRAK,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,19261230.0
+TTRAK,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTRAK,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,115580481.0
+TTRAK,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTRAK,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTRAK,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,115580481.0
+TTRAK,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTRAK,2023/3,3LB,Azınlık Payları,Minority Interests,0.0
+TTRAK,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,115580481.0
+TTRAK,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTRAK,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTRAK,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTRAK,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTRAK,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,16452361.0
+TTRAK,2023/3,4BA,Kıdem Tazminatı,Severance Payments,621523.0
+TTRAK,2023/3,4BB,Finansman Giderleri,Financial Expenses,-14664207.0
+TTRAK,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,761960650.0
+TTRAK,2023/3,4BD,Yurtdışı Satışlar,Export Sales,243397000.0
+TTRAK,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,13928674.0
+TTRAK,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,13928674.0
+TTRAK,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-13916954.0
+TTRAK,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,401771874.0
+TTRAK,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,97932914.0
+TTRAK,2023/3,4CAA,Düzeltmeler:,Adjustments:,212686308.0
+TTRAK,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,16452361.0
+TTRAK,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,10707290.0
+TTRAK,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,185526657.0
+TTRAK,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),310619222.0
+TTRAK,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,94422228.0
+TTRAK,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),405041449.0
+TTRAK,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-3269576.0
+TTRAK,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-38714182.0
+TTRAK,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+TTRAK,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-38714182.0
+TTRAK,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,363057691.0
+TTRAK,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-57446723.0
+TTRAK,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,-169870730.0
+TTRAK,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTRAK,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,9319448.0
+TTRAK,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-217998005.0
+TTRAK,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,145059686.0
+TTRAK,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-207485149.0
+TTRAK,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTRAK,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-62425463.0
+TTRAK,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTRAK,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,443222580.0
+TTRAK,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,380797117.0
+TTRAK,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,514211801.0
+TTRAK,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,249650652.0
+TTRAK,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,290195.0
+TTRAK,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,90623888.0
+TTRAK,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTRAK,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+TTRAK,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2023/6,1AF,Stoklar,Inventories,138743045.0
+TTRAK,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTRAK,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,34904020.0
+TTRAK,2023/6,1AI,(Ara Toplam),(Subtotal),514211801.0
+TTRAK,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TTRAK,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,112333316.0
+TTRAK,2023/6,1B,Ticari Alacaklar,Trade Receivables,4231.0
+TTRAK,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTRAK,2023/6,1BB,Diğer Alacaklar,Other Receivables,15941.0
+TTRAK,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2023/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TTRAK,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTRAK,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTRAK,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TTRAK,2023/6,1BFA,Stoklar,Stoklar,0.0
+TTRAK,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,4304509.0
+TTRAK,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,43531757.0
+TTRAK,2023/6,1BGA,Şerefiye,Goodwill,0.0
+TTRAK,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,27503250.0
+TTRAK,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,30615632.0
+TTRAK,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,6357997.0
+TTRAK,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,626545117.0
+TTRAK,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTRAK,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,398631587.0
+TTRAK,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,114081295.0
+TTRAK,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,214773614.0
+TTRAK,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,6633212.0
+TTRAK,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TTRAK,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTRAK,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,120668.0
+TTRAK,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,28469910.0
+TTRAK,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),19326276.0
+TTRAK,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,6702368.0
+TTRAK,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,8524243.0
+TTRAK,2023/6,2AAGG,(Ara Toplam),(Subtotal),398631587.0
+TTRAK,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTRAK,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,32371102.0
+TTRAK,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,15306196.0
+TTRAK,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTRAK,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TTRAK,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TTRAK,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTRAK,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTRAK,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTRAK,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,17064906.0
+TTRAK,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTRAK,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TTRAK,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTRAK,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,195542428.0
+TTRAK,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,195542428.0
+TTRAK,2023/6,2OA,Ödenmiş Sermaye,Share Capital,3868126.0
+TTRAK,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTRAK,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTRAK,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTRAK,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TTRAK,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,17334456.0
+TTRAK,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),43708588.0
+TTRAK,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),138343164.0
+TTRAK,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-7711906.0
+TTRAK,2023/6,2ODA,Azınlık Payları,Minority Interests,0.0
+TTRAK,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,626545117.0
+TTRAK,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTRAK,2023/6,3C,Satış Gelirleri,Net Sales,2026139926.0
+TTRAK,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1547757531.0
+TTRAK,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTRAK,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,478382395.0
+TTRAK,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTRAK,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTRAK,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTRAK,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),478382395.0
+TTRAK,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-56446129.0
+TTRAK,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-36764265.0
+TTRAK,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-15174572.0
+TTRAK,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,165809813.0
+TTRAK,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-165491903.0
+TTRAK,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTRAK,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,370315339.0
+TTRAK,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,369997429.0
+TTRAK,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,450047.0
+TTRAK,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TTRAK,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TTRAK,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTRAK,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,370765386.0
+TTRAK,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),65329983.0
+TTRAK,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-76557249.0
+TTRAK,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,450047.0
+TTRAK,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,359538120.0
+TTRAK,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-78036743.0
+TTRAK,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-101333511.0
+TTRAK,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,23296768.0
+TTRAK,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTRAK,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,281501377.0
+TTRAK,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTRAK,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTRAK,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,281501377.0
+TTRAK,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTRAK,2023/6,3LB,Azınlık Payları,Minority Interests,0.0
+TTRAK,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,281501377.0
+TTRAK,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTRAK,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTRAK,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTRAK,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTRAK,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,34131258.0
+TTRAK,2023/6,4BA,Kıdem Tazminatı,Severance Payments,1247039.0
+TTRAK,2023/6,4BB,Finansman Giderleri,Financial Expenses,-76557249.0
+TTRAK,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,1598545211.0
+TTRAK,2023/6,4BD,Yurtdışı Satışlar,Export Sales,510284893.0
+TTRAK,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,2910600.0
+TTRAK,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,2910600.0
+TTRAK,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),2910600.0
+TTRAK,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,521126768.0
+TTRAK,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,258495289.0
+TTRAK,2023/6,4CAA,Düzeltmeler:,Adjustments:,205717350.0
+TTRAK,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,34131258.0
+TTRAK,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,11074162.0
+TTRAK,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,13355932.0
+TTRAK,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),464212639.0
+TTRAK,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,103985073.0
+TTRAK,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),568197712.0
+TTRAK,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-47070945.0
+TTRAK,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-26112690.0
+TTRAK,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-650589.0
+TTRAK,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-26763279.0
+TTRAK,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,494363489.0
+TTRAK,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-97285599.0
+TTRAK,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-272600953.0
+TTRAK,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTRAK,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-6768518.0
+TTRAK,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-376655070.0
+TTRAK,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,117708420.0
+TTRAK,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,69806089.0
+TTRAK,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTRAK,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,187514509.0
+TTRAK,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTRAK,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,453225719.0
+TTRAK,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,550866586.0
+TTRAK,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,598254946.0
+TTRAK,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,261820702.0
+TTRAK,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,273727.0
+TTRAK,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,81720364.0
+TTRAK,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTRAK,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+TTRAK,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2023/9,1AF,Stoklar,Inventories,215733307.0
+TTRAK,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTRAK,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,38706847.0
+TTRAK,2023/9,1AI,(Ara Toplam),(Subtotal),598254946.0
+TTRAK,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TTRAK,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,131737926.0
+TTRAK,2023/9,1B,Ticari Alacaklar,Trade Receivables,3991.0
+TTRAK,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTRAK,2023/9,1BB,Diğer Alacaklar,Other Receivables,15036.0
+TTRAK,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2023/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TTRAK,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTRAK,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTRAK,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TTRAK,2023/9,1BFA,Stoklar,Stoklar,0.0
+TTRAK,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,3640372.0
+TTRAK,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,44837426.0
+TTRAK,2023/9,1BGA,Şerefiye,Goodwill,0.0
+TTRAK,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,33999049.0
+TTRAK,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,44585528.0
+TTRAK,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,4656524.0
+TTRAK,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,729992872.0
+TTRAK,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTRAK,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,417800660.0
+TTRAK,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,99337437.0
+TTRAK,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,230773443.0
+TTRAK,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,2265636.0
+TTRAK,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TTRAK,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTRAK,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,113820.0
+TTRAK,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,28706155.0
+TTRAK,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),37921076.0
+TTRAK,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,6783645.0
+TTRAK,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,11899448.0
+TTRAK,2023/9,2AAGG,(Ara Toplam),(Subtotal),417800660.0
+TTRAK,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTRAK,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,29341784.0
+TTRAK,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,13026221.0
+TTRAK,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTRAK,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TTRAK,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TTRAK,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTRAK,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTRAK,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTRAK,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,16315563.0
+TTRAK,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTRAK,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TTRAK,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTRAK,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,282850428.0
+TTRAK,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,282850428.0
+TTRAK,2023/9,2OA,Ödenmiş Sermaye,Share Capital,3648614.0
+TTRAK,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTRAK,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTRAK,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTRAK,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TTRAK,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,16350742.0
+TTRAK,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),41228166.0
+TTRAK,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),229558630.0
+TTRAK,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-7935723.0
+TTRAK,2023/9,2ODA,Azınlık Payları,Minority Interests,0.0
+TTRAK,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,729992872.0
+TTRAK,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTRAK,2023/9,3C,Satış Gelirleri,Net Sales,2669707559.0
+TTRAK,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1994508094.0
+TTRAK,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTRAK,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,675199465.0
+TTRAK,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTRAK,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTRAK,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTRAK,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),675199465.0
+TTRAK,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-80264484.0
+TTRAK,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-47528108.0
+TTRAK,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-22496099.0
+TTRAK,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,178949012.0
+TTRAK,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-214025943.0
+TTRAK,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTRAK,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,489833842.0
+TTRAK,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,524910774.0
+TTRAK,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,443515.0
+TTRAK,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TTRAK,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TTRAK,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTRAK,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,490277357.0
+TTRAK,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),95990810.0
+TTRAK,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-81351681.0
+TTRAK,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,443515.0
+TTRAK,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,504916486.0
+TTRAK,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-139889183.0
+TTRAK,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-154207283.0
+TTRAK,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,14318100.0
+TTRAK,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTRAK,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,365027303.0
+TTRAK,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTRAK,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTRAK,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,365027303.0
+TTRAK,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTRAK,2023/9,3LB,Azınlık Payları,Minority Interests,0.0
+TTRAK,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,365027303.0
+TTRAK,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTRAK,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTRAK,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTRAK,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTRAK,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,48924965.0
+TTRAK,2023/9,4BA,Kıdem Tazminatı,Severance Payments,1697632.0
+TTRAK,2023/9,4BB,Finansman Giderleri,Financial Expenses,-81351681.0
+TTRAK,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,2293063703.0
+TTRAK,2023/9,4BD,Yurtdışı Satışlar,Export Sales,724120077.0
+TTRAK,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,13939608.0
+TTRAK,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,13939608.0
+TTRAK,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),13939608.0
+TTRAK,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,563666542.0
+TTRAK,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,364697828.0
+TTRAK,2023/9,4CAA,Düzeltmeler:,Adjustments:,263563781.0
+TTRAK,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,48924965.0
+TTRAK,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,32945749.0
+TTRAK,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,122331139.0
+TTRAK,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),628261610.0
+TTRAK,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-27739221.0
+TTRAK,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),600522389.0
+TTRAK,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-36855847.0
+TTRAK,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-70409512.0
+TTRAK,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-632067.0
+TTRAK,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-71041578.0
+TTRAK,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,492624963.0
+TTRAK,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-127827285.0
+TTRAK,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-192513146.0
+TTRAK,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTRAK,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-17332013.0
+TTRAK,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-337672444.0
+TTRAK,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,38729416.0
+TTRAK,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,12304859.0
+TTRAK,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTRAK,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,51034276.0
+TTRAK,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTRAK,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,440322374.0
+TTRAK,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,491356650.0
+TTRAK,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,815514496.0
+TTRAK,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,234014158.0
+TTRAK,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1057428.0
+TTRAK,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,153705565.0
+TTRAK,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTRAK,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+TTRAK,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2024/12,1AF,Stoklar,Inventories,345783510.0
+TTRAK,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTRAK,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,80953835.0
+TTRAK,2024/12,1AI,(Ara Toplam),(Subtotal),815514496.0
+TTRAK,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TTRAK,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,459707562.0
+TTRAK,2024/12,1B,Ticari Alacaklar,Trade Receivables,3884.0
+TTRAK,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTRAK,2024/12,1BB,Diğer Alacaklar,Other Receivables,15172.0
+TTRAK,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2024/12,1BC,Finansal Yatırımlar,Financial Investments,433475.0
+TTRAK,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTRAK,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTRAK,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TTRAK,2024/12,1BFA,Stoklar,Stoklar,0.0
+TTRAK,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,9007139.0
+TTRAK,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,293931197.0
+TTRAK,2024/12,1BGA,Şerefiye,Goodwill,0.0
+TTRAK,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,134430136.0
+TTRAK,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+TTRAK,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,21886559.0
+TTRAK,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1275222058.0
+TTRAK,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTRAK,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,570732560.0
+TTRAK,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,275145417.0
+TTRAK,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,257960542.0
+TTRAK,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,4516535.0
+TTRAK,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TTRAK,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTRAK,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,28453.0
+TTRAK,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1677050.0
+TTRAK,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),355758.0
+TTRAK,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,13227519.0
+TTRAK,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,17821285.0
+TTRAK,2024/12,2AAGG,(Ara Toplam),(Subtotal),570732560.0
+TTRAK,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTRAK,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,102339247.0
+TTRAK,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,72360992.0
+TTRAK,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTRAK,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TTRAK,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TTRAK,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTRAK,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTRAK,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTRAK,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,16756263.0
+TTRAK,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTRAK,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,13221992.0
+TTRAK,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTRAK,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,602150251.0
+TTRAK,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,602150251.0
+TTRAK,2024/12,2OA,Ödenmiş Sermaye,Share Capital,2831243.0
+TTRAK,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTRAK,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTRAK,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTRAK,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TTRAK,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,114547395.0
+TTRAK,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),222141102.0
+TTRAK,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),203722601.0
+TTRAK,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,58187936.0
+TTRAK,2024/12,2ODA,Azınlık Payları,Minority Interests,0.0
+TTRAK,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1275222058.0
+TTRAK,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTRAK,2024/12,3C,Satış Gelirleri,Net Sales,2555263316.0
+TTRAK,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2062334359.0
+TTRAK,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTRAK,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,492928956.0
+TTRAK,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTRAK,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTRAK,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTRAK,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),492928956.0
+TTRAK,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-109381056.0
+TTRAK,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-59674258.0
+TTRAK,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-20091020.0
+TTRAK,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,119693464.0
+TTRAK,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-132417265.0
+TTRAK,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTRAK,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,291058822.0
+TTRAK,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,303782622.0
+TTRAK,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,432585.0
+TTRAK,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TTRAK,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TTRAK,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTRAK,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,291491407.0
+TTRAK,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),110443137.0
+TTRAK,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-97600637.0
+TTRAK,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,432585.0
+TTRAK,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,304333906.0
+TTRAK,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-85300565.0
+TTRAK,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-66702610.0
+TTRAK,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-18597955.0
+TTRAK,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTRAK,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,219033342.0
+TTRAK,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTRAK,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,219033342.0
+TTRAK,2024/12,3LB,Azınlık Payları,Minority Interests,0.0
+TTRAK,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,219033342.0
+TTRAK,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTRAK,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTRAK,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTRAK,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTRAK,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,70832012.0
+TTRAK,2024/12,4BA,Kıdem Tazminatı,Severance Payments,1235841.0
+TTRAK,2024/12,4BB,Finansman Giderleri,Financial Expenses,-97600637.0
+TTRAK,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,2661621361.0
+TTRAK,2024/12,4BD,Yurtdışı Satışlar,Export Sales,537914127.0
+TTRAK,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-12499669.0
+TTRAK,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-12499669.0
+TTRAK,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-12499669.0
+TTRAK,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,204930520.0
+TTRAK,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,219033342.0
+TTRAK,2024/12,4CAA,Düzeltmeler:,Adjustments:,250902660.0
+TTRAK,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,70832012.0
+TTRAK,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,6200054.0
+TTRAK,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,124464908.0
+TTRAK,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),469936001.0
+TTRAK,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-164769608.0
+TTRAK,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),305166394.0
+TTRAK,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-100235873.0
+TTRAK,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-144466678.0
+TTRAK,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-496022.0
+TTRAK,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-144962701.0
+TTRAK,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,59967820.0
+TTRAK,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,158328773.0
+TTRAK,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-408028641.0
+TTRAK,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTRAK,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-28307136.0
+TTRAK,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-278007003.0
+TTRAK,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-423211585.0
+TTRAK,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,6738913.0
+TTRAK,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTRAK,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-416472672.0
+TTRAK,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTRAK,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,667524841.0
+TTRAK,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,251052170.0
+TTRAK,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,912192405.0
+TTRAK,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,402635224.0
+TTRAK,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,348141.0
+TTRAK,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,149853433.0
+TTRAK,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTRAK,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+TTRAK,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2024/3,1AF,Stoklar,Inventories,310186968.0
+TTRAK,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTRAK,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,49168640.0
+TTRAK,2024/3,1AI,(Ara Toplam),(Subtotal),912192405.0
+TTRAK,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TTRAK,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,284082922.0
+TTRAK,2024/3,1B,Ticari Alacaklar,Trade Receivables,3384.0
+TTRAK,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTRAK,2024/3,1BB,Diğer Alacaklar,Other Receivables,17111.0
+TTRAK,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2024/3,1BC,Finansal Yatırımlar,Financial Investments,562550.0
+TTRAK,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTRAK,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTRAK,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TTRAK,2024/3,1BFA,Stoklar,Stoklar,0.0
+TTRAK,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,6685003.0
+TTRAK,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,168443440.0
+TTRAK,2024/3,1BGA,Şerefiye,Goodwill,0.0
+TTRAK,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,84470229.0
+TTRAK,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,3276199.0
+TTRAK,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,20625007.0
+TTRAK,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1196275327.0
+TTRAK,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTRAK,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,732764596.0
+TTRAK,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,189660437.0
+TTRAK,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,268420977.0
+TTRAK,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,209936046.0
+TTRAK,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TTRAK,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTRAK,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,118166.0
+TTRAK,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,9959973.0
+TTRAK,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),35902202.0
+TTRAK,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,10155300.0
+TTRAK,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,8611495.0
+TTRAK,2024/3,2AAGG,(Ara Toplam),(Subtotal),732764596.0
+TTRAK,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTRAK,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,56719138.0
+TTRAK,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,39553054.0
+TTRAK,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTRAK,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TTRAK,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TTRAK,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTRAK,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTRAK,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTRAK,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,17166084.0
+TTRAK,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTRAK,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TTRAK,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTRAK,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,406791592.0
+TTRAK,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,406791592.0
+TTRAK,2024/3,2OA,Ödenmiş Sermaye,Share Capital,3093869.0
+TTRAK,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTRAK,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTRAK,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTRAK,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TTRAK,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,79534192.0
+TTRAK,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),222961340.0
+TTRAK,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),54047995.0
+TTRAK,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,47154195.0
+TTRAK,2024/3,2ODA,Azınlık Payları,Minority Interests,0.0
+TTRAK,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1196275327.0
+TTRAK,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTRAK,2024/3,3C,Satış Gelirleri,Net Sales,740230404.0
+TTRAK,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-584272060.0
+TTRAK,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTRAK,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,155958344.0
+TTRAK,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTRAK,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTRAK,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTRAK,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),155958344.0
+TTRAK,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-32445014.0
+TTRAK,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-14946969.0
+TTRAK,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-5354498.0
+TTRAK,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,21350072.0
+TTRAK,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-31252893.0
+TTRAK,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTRAK,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,93309044.0
+TTRAK,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,103211865.0
+TTRAK,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+TTRAK,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TTRAK,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TTRAK,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTRAK,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,93309044.0
+TTRAK,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),50495793.0
+TTRAK,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-36062016.0
+TTRAK,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+TTRAK,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,107742820.0
+TTRAK,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-29765674.0
+TTRAK,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-33958684.0
+TTRAK,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,4193009.0
+TTRAK,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTRAK,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,77977146.0
+TTRAK,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTRAK,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTRAK,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,77977146.0
+TTRAK,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTRAK,2024/3,3LB,Azınlık Payları,Minority Interests,0.0
+TTRAK,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,77977146.0
+TTRAK,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTRAK,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTRAK,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTRAK,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTRAK,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,16272970.0
+TTRAK,2024/3,4BA,Kıdem Tazminatı,Severance Payments,324121.0
+TTRAK,2024/3,4BB,Finansman Giderleri,Financial Expenses,-36062016.0
+TTRAK,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,713491495.0
+TTRAK,2024/3,4BD,Yurtdışı Satışlar,Export Sales,185055555.0
+TTRAK,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,10589878.0
+TTRAK,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,10589878.0
+TTRAK,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-15660059.0
+TTRAK,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-46043105.0
+TTRAK,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,77977146.0
+TTRAK,2024/3,4CAA,Düzeltmeler:,Adjustments:,60757696.0
+TTRAK,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,16272970.0
+TTRAK,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,8771116.0
+TTRAK,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,9543104.0
+TTRAK,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),138734842.0
+TTRAK,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-179929816.0
+TTRAK,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-41194974.0
+TTRAK,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-4848131.0
+TTRAK,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-24580820.0
+TTRAK,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+TTRAK,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-24580820.0
+TTRAK,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-70623925.0
+TTRAK,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,63677765.0
+TTRAK,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TTRAK,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTRAK,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,32875590.0
+TTRAK,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,96553355.0
+TTRAK,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-56928379.0
+TTRAK,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,4915759.0
+TTRAK,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTRAK,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-52012620.0
+TTRAK,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTRAK,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,632910124.0
+TTRAK,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,580897505.0
+TTRAK,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,685008296.0
+TTRAK,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,169807869.0
+TTRAK,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,737719.0
+TTRAK,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,150901805.0
+TTRAK,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTRAK,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+TTRAK,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2024/6,1AF,Stoklar,Inventories,298389974.0
+TTRAK,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTRAK,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,65170929.0
+TTRAK,2024/6,1AI,(Ara Toplam),(Subtotal),685008296.0
+TTRAK,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TTRAK,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,331719115.0
+TTRAK,2024/6,1B,Ticari Alacaklar,Trade Receivables,3328.0
+TTRAK,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTRAK,2024/6,1BB,Diğer Alacaklar,Other Receivables,9576.0
+TTRAK,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2024/6,1BC,Finansal Yatırımlar,Financial Investments,320898.0
+TTRAK,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTRAK,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTRAK,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TTRAK,2024/6,1BFA,Stoklar,Stoklar,0.0
+TTRAK,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,8542004.0
+TTRAK,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,200112355.0
+TTRAK,2024/6,1BGA,Şerefiye,Goodwill,0.0
+TTRAK,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,92858076.0
+TTRAK,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,8822437.0
+TTRAK,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,21050441.0
+TTRAK,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1016727411.0
+TTRAK,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTRAK,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,455323893.0
+TTRAK,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,146799201.0
+TTRAK,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,245765969.0
+TTRAK,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,15811808.0
+TTRAK,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TTRAK,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTRAK,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,30857.0
+TTRAK,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,4724972.0
+TTRAK,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),19359283.0
+TTRAK,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,10830637.0
+TTRAK,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,12001166.0
+TTRAK,2024/6,2AAGG,(Ara Toplam),(Subtotal),455323893.0
+TTRAK,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTRAK,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,69735813.0
+TTRAK,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,51534618.0
+TTRAK,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTRAK,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TTRAK,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TTRAK,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTRAK,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTRAK,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTRAK,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,18201195.0
+TTRAK,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTRAK,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TTRAK,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTRAK,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,491667705.0
+TTRAK,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,491667705.0
+TTRAK,2024/6,2OA,Ödenmiş Sermaye,Share Capital,3042906.0
+TTRAK,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTRAK,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTRAK,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTRAK,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TTRAK,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,84798716.0
+TTRAK,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),237719589.0
+TTRAK,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),116647577.0
+TTRAK,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,49458917.0
+TTRAK,2024/6,2ODA,Azınlık Payları,Minority Interests,0.0
+TTRAK,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1016727411.0
+TTRAK,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTRAK,2024/6,3C,Satış Gelirleri,Net Sales,1437873455.0
+TTRAK,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1129623358.0
+TTRAK,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTRAK,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,308250097.0
+TTRAK,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTRAK,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTRAK,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTRAK,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),308250097.0
+TTRAK,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-60478093.0
+TTRAK,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-30381999.0
+TTRAK,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-10424617.0
+TTRAK,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,54644671.0
+TTRAK,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-66890395.0
+TTRAK,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTRAK,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,194719663.0
+TTRAK,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,206965387.0
+TTRAK,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,193042.0
+TTRAK,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TTRAK,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TTRAK,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTRAK,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,194912705.0
+TTRAK,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),76969530.0
+TTRAK,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-49244028.0
+TTRAK,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,193042.0
+TTRAK,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,222638207.0
+TTRAK,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-58813072.0
+TTRAK,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-70147812.0
+TTRAK,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,11334740.0
+TTRAK,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTRAK,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,163825135.0
+TTRAK,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTRAK,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTRAK,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,163825135.0
+TTRAK,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTRAK,2024/6,3LB,Azınlık Payları,Minority Interests,0.0
+TTRAK,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,163825135.0
+TTRAK,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTRAK,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTRAK,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTRAK,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTRAK,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,31529372.0
+TTRAK,2024/6,4BA,Kıdem Tazminatı,Severance Payments,642440.0
+TTRAK,2024/6,4BB,Finansman Giderleri,Financial Expenses,-49244028.0
+TTRAK,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,1396562749.0
+TTRAK,2024/6,4BD,Yurtdışı Satışlar,Export Sales,344064047.0
+TTRAK,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,961581.0
+TTRAK,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,961581.0
+TTRAK,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),34033665.0
+TTRAK,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,178024849.0
+TTRAK,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,163825135.0
+TTRAK,2024/6,4CAA,Düzeltmeler:,Adjustments:,204526682.0
+TTRAK,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,31529372.0
+TTRAK,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,4787097.0
+TTRAK,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,53289024.0
+TTRAK,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),368351817.0
+TTRAK,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-146635724.0
+TTRAK,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),221716093.0
+TTRAK,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-43691243.0
+TTRAK,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-71897190.0
+TTRAK,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-23677611.0
+TTRAK,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-95574801.0
+TTRAK,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,82450049.0
+TTRAK,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,38621138.0
+TTRAK,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-291670433.0
+TTRAK,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTRAK,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,14422551.0
+TTRAK,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-238626744.0
+TTRAK,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-156176695.0
+TTRAK,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,3333475.0
+TTRAK,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTRAK,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-152843221.0
+TTRAK,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTRAK,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,517509571.0
+TTRAK,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,236662485.0
+TTRAK,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,650727342.0
+TTRAK,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,144558555.0
+TTRAK,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,769920.0
+TTRAK,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,133571770.0
+TTRAK,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTRAK,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+TTRAK,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2024/9,1AF,Stoklar,Inventories,312310312.0
+TTRAK,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTRAK,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,59516785.0
+TTRAK,2024/9,1AI,(Ara Toplam),(Subtotal),650727342.0
+TTRAK,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TTRAK,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,340704056.0
+TTRAK,2024/9,1B,Ticari Alacaklar,Trade Receivables,3202.0
+TTRAK,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTRAK,2024/9,1BB,Diğer Alacaklar,Other Receivables,12507.0
+TTRAK,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2024/9,1BC,Finansal Yatırımlar,Financial Investments,343296.0
+TTRAK,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTRAK,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTRAK,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TTRAK,2024/9,1BFA,Stoklar,Stoklar,0.0
+TTRAK,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,7802397.0
+TTRAK,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,213959865.0
+TTRAK,2024/9,1BGA,Şerefiye,Goodwill,0.0
+TTRAK,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,97454594.0
+TTRAK,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+TTRAK,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,21128194.0
+TTRAK,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,991431398.0
+TTRAK,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTRAK,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,383922105.0
+TTRAK,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,154273461.0
+TTRAK,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,193010666.0
+TTRAK,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,7232097.0
+TTRAK,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TTRAK,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTRAK,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,26024.0
+TTRAK,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2412275.0
+TTRAK,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3125250.0
+TTRAK,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,10371944.0
+TTRAK,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,13470387.0
+TTRAK,2024/9,2AAGG,(Ara Toplam),(Subtotal),383922105.0
+TTRAK,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTRAK,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,65811385.0
+TTRAK,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,47288658.0
+TTRAK,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTRAK,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TTRAK,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TTRAK,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTRAK,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTRAK,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTRAK,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,17828865.0
+TTRAK,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTRAK,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,693861.0
+TTRAK,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTRAK,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,541697908.0
+TTRAK,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,541697908.0
+TTRAK,2024/9,2OA,Ödenmiş Sermaye,Share Capital,2927430.0
+TTRAK,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTRAK,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTRAK,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTRAK,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TTRAK,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,88857290.0
+TTRAK,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),249097148.0
+TTRAK,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),149336359.0
+TTRAK,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,51479682.0
+TTRAK,2024/9,2ODA,Azınlık Payları,Minority Interests,0.0
+TTRAK,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,991431398.0
+TTRAK,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTRAK,2024/9,3C,Satış Gelirleri,Net Sales,2046939493.0
+TTRAK,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1623750810.0
+TTRAK,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTRAK,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,423188682.0
+TTRAK,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTRAK,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTRAK,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTRAK,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),423188682.0
+TTRAK,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-86126354.0
+TTRAK,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-45194819.0
+TTRAK,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-17521075.0
+TTRAK,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,89008850.0
+TTRAK,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-110045956.0
+TTRAK,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTRAK,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,253309329.0
+TTRAK,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,274346435.0
+TTRAK,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,342850.0
+TTRAK,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TTRAK,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TTRAK,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTRAK,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,253652178.0
+TTRAK,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),100180521.0
+TTRAK,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-70551141.0
+TTRAK,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,342850.0
+TTRAK,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,283281558.0
+TTRAK,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-72493279.0
+TTRAK,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-70116075.0
+TTRAK,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-2377204.0
+TTRAK,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTRAK,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,210788278.0
+TTRAK,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTRAK,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTRAK,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,210788278.0
+TTRAK,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTRAK,2024/9,3LB,Azınlık Payları,Minority Interests,0.0
+TTRAK,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,210788278.0
+TTRAK,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTRAK,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTRAK,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTRAK,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTRAK,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,51769061.0
+TTRAK,2024/9,4BA,Kıdem Tazminatı,Severance Payments,974189.0
+TTRAK,2024/9,4BB,Finansman Giderleri,Financial Expenses,-70551141.0
+TTRAK,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,2042877372.0
+TTRAK,2024/9,4BD,Yurtdışı Satışlar,Export Sales,475464584.0
+TTRAK,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,5563897.0
+TTRAK,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,5563897.0
+TTRAK,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),40626754.0
+TTRAK,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,249388296.0
+TTRAK,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,210788278.0
+TTRAK,2024/9,4CAA,Düzeltmeler:,Adjustments:,329039578.0
+TTRAK,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,51769061.0
+TTRAK,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,5513323.0
+TTRAK,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,83017229.0
+TTRAK,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),539827857.0
+TTRAK,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-218534781.0
+TTRAK,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),321293075.0
+TTRAK,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-71904780.0
+TTRAK,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-98953329.0
+TTRAK,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-23065968.0
+TTRAK,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-122019297.0
+TTRAK,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,127368998.0
+TTRAK,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,50508588.0
+TTRAK,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-307165388.0
+TTRAK,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTRAK,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,721421.0
+TTRAK,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-255935379.0
+TTRAK,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-128566381.0
+TTRAK,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,11513250.0
+TTRAK,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTRAK,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-117053131.0
+TTRAK,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTRAK,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,500369673.0
+TTRAK,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,203881662.0
+TTRAK,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,736793866.0
+TTRAK,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,291355249.0
+TTRAK,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,787563.0
+TTRAK,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,159155424.0
+TTRAK,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTRAK,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+TTRAK,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2025/3,1AF,Stoklar,Inventories,234342568.0
+TTRAK,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTRAK,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,51153062.0
+TTRAK,2025/3,1AI,(Ara Toplam),(Subtotal),736793866.0
+TTRAK,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TTRAK,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,386641552.0
+TTRAK,2025/3,1B,Ticari Alacaklar,Trade Receivables,2893.0
+TTRAK,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTRAK,2025/3,1BB,Diğer Alacaklar,Other Receivables,10664.0
+TTRAK,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2025/3,1BC,Finansal Yatırımlar,Financial Investments,329208.0
+TTRAK,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTRAK,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTRAK,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TTRAK,2025/3,1BFA,Stoklar,Stoklar,0.0
+TTRAK,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,6268255.0
+TTRAK,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,244519526.0
+TTRAK,2025/3,1BGA,Şerefiye,Goodwill,0.0
+TTRAK,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,120314950.0
+TTRAK,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+TTRAK,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,15196057.0
+TTRAK,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1123435418.0
+TTRAK,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTRAK,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,611308760.0
+TTRAK,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,265146761.0
+TTRAK,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,178638849.0
+TTRAK,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,145867828.0
+TTRAK,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TTRAK,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTRAK,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,18920.0
+TTRAK,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1202870.0
+TTRAK,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2892829.0
+TTRAK,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,10358246.0
+TTRAK,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,7182456.0
+TTRAK,2025/3,2AAGG,(Ara Toplam),(Subtotal),611308760.0
+TTRAK,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTRAK,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,140682244.0
+TTRAK,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,120664707.0
+TTRAK,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTRAK,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TTRAK,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TTRAK,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTRAK,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTRAK,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTRAK,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,12451323.0
+TTRAK,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTRAK,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,7566215.0
+TTRAK,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTRAK,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,371444414.0
+TTRAK,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,371444414.0
+TTRAK,2025/3,2OA,Ödenmiş Sermaye,Share Capital,2644914.0
+TTRAK,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTRAK,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTRAK,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTRAK,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TTRAK,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,107993712.0
+TTRAK,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),206809933.0
+TTRAK,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),6246072.0
+TTRAK,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,47749783.0
+TTRAK,2025/3,2ODA,Azınlık Payları,Minority Interests,0.0
+TTRAK,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1123435418.0
+TTRAK,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTRAK,2025/3,3C,Satış Gelirleri,Net Sales,350927686.0
+TTRAK,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-306587310.0
+TTRAK,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTRAK,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,44340376.0
+TTRAK,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTRAK,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTRAK,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTRAK,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),44340376.0
+TTRAK,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-18117240.0
+TTRAK,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-11461031.0
+TTRAK,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-4348896.0
+TTRAK,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,28739281.0
+TTRAK,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-27577676.0
+TTRAK,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTRAK,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,11574814.0
+TTRAK,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,10413209.0
+TTRAK,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,73749.0
+TTRAK,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TTRAK,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TTRAK,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTRAK,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,11648563.0
+TTRAK,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),23583814.0
+TTRAK,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-26393422.0
+TTRAK,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,73749.0
+TTRAK,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,8838956.0
+TTRAK,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-2321028.0
+TTRAK,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-5660933.0
+TTRAK,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,3339905.0
+TTRAK,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTRAK,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,6517928.0
+TTRAK,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTRAK,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTRAK,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,6517928.0
+TTRAK,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTRAK,2025/3,3LB,Azınlık Payları,Minority Interests,0.0
+TTRAK,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,6517928.0
+TTRAK,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTRAK,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTRAK,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTRAK,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTRAK,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,16898195.0
+TTRAK,2025/3,4BA,Kıdem Tazminatı,Severance Payments,199076.0
+TTRAK,2025/3,4BB,Finansman Giderleri,Financial Expenses,-26393422.0
+TTRAK,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,378401605.0
+TTRAK,2025/3,4BD,Yurtdışı Satışlar,Export Sales,79988304.0
+TTRAK,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,4478782.0
+TTRAK,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,4478782.0
+TTRAK,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),4478782.0
+TTRAK,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,27469021.0
+TTRAK,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,6517928.0
+TTRAK,2025/3,4CAA,Düzeltmeler:,Adjustments:,51799449.0
+TTRAK,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,16898195.0
+TTRAK,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,3377986.0
+TTRAK,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,15433579.0
+TTRAK,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),58317377.0
+TTRAK,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-27509652.0
+TTRAK,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),30807725.0
+TTRAK,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-3338705.0
+TTRAK,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-29946335.0
+TTRAK,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+TTRAK,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-29946335.0
+TTRAK,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-2477314.0
+TTRAK,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,129773325.0
+TTRAK,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TTRAK,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTRAK,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-10564678.0
+TTRAK,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,119208647.0
+TTRAK,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,98468950.0
+TTRAK,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,4443591.0
+TTRAK,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTRAK,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,102912541.0
+TTRAK,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTRAK,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,199742876.0
+TTRAK,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,302655417.0
+TTRAK,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,624906404.0
+TTRAK,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,194568536.0
+TTRAK,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,801232.0
+TTRAK,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,99171036.0
+TTRAK,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTRAK,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+TTRAK,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2025/6,1AF,Stoklar,Inventories,262023832.0
+TTRAK,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTRAK,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,68341768.0
+TTRAK,2025/6,1AI,(Ara Toplam),(Subtotal),624906404.0
+TTRAK,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TTRAK,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,380202811.0
+TTRAK,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+TTRAK,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTRAK,2025/6,1BB,Diğer Alacaklar,Other Receivables,12883.0
+TTRAK,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2025/6,1BC,Finansal Yatırımlar,Financial Investments,357958.0
+TTRAK,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTRAK,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTRAK,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TTRAK,2025/6,1BFA,Stoklar,Stoklar,0.0
+TTRAK,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,5595358.0
+TTRAK,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,257213873.0
+TTRAK,2025/6,1BGA,Şerefiye,Goodwill,0.0
+TTRAK,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,108533554.0
+TTRAK,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+TTRAK,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,8489184.0
+TTRAK,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1005109215.0
+TTRAK,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTRAK,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,488112523.0
+TTRAK,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,271521565.0
+TTRAK,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,170125885.0
+TTRAK,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,23347717.0
+TTRAK,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TTRAK,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTRAK,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,15798.0
+TTRAK,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1103433.0
+TTRAK,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),130552.0
+TTRAK,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,11000311.0
+TTRAK,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,10867262.0
+TTRAK,2025/6,2AAGG,(Ara Toplam),(Subtotal),488112523.0
+TTRAK,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTRAK,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,136245622.0
+TTRAK,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,113453920.0
+TTRAK,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTRAK,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TTRAK,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TTRAK,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTRAK,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTRAK,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTRAK,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,14274402.0
+TTRAK,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTRAK,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,8517299.0
+TTRAK,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTRAK,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,380751070.0
+TTRAK,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,380751070.0
+TTRAK,2025/6,2OA,Ödenmiş Sermaye,Share Capital,2513460.0
+TTRAK,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTRAK,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTRAK,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTRAK,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TTRAK,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,108792879.0
+TTRAK,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),208333728.0
+TTRAK,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),14793673.0
+TTRAK,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,46317331.0
+TTRAK,2025/6,2ODA,Azınlık Payları,Minority Interests,0.0
+TTRAK,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1005109215.0
+TTRAK,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTRAK,2025/6,3C,Satış Gelirleri,Net Sales,693015280.0
+TTRAK,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-595499191.0
+TTRAK,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTRAK,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,97516089.0
+TTRAK,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTRAK,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTRAK,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTRAK,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),97516089.0
+TTRAK,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-36513734.0
+TTRAK,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-21023235.0
+TTRAK,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-9055329.0
+TTRAK,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,83998344.0
+TTRAK,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-62355214.0
+TTRAK,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTRAK,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,52566921.0
+TTRAK,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,30923790.0
+TTRAK,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,75618.0
+TTRAK,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TTRAK,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TTRAK,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTRAK,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,52642538.0
+TTRAK,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),45204279.0
+TTRAK,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-76056737.0
+TTRAK,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,75618.0
+TTRAK,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,21790081.0
+TTRAK,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-6077350.0
+TTRAK,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-7865655.0
+TTRAK,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,1788305.0
+TTRAK,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTRAK,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,15712730.0
+TTRAK,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTRAK,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTRAK,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,15712730.0
+TTRAK,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTRAK,2025/6,3LB,Azınlık Payları,Minority Interests,0.0
+TTRAK,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,15712730.0
+TTRAK,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTRAK,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTRAK,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTRAK,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTRAK,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,29957657.0
+TTRAK,2025/6,4BA,Kıdem Tazminatı,Severance Payments,394657.0
+TTRAK,2025/6,4BB,Finansman Giderleri,Financial Expenses,-76056737.0
+TTRAK,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,724796759.0
+TTRAK,2025/6,4BD,Yurtdışı Satışlar,Export Sales,186247164.0
+TTRAK,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,15117589.0
+TTRAK,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,15117589.0
+TTRAK,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),15117589.0
+TTRAK,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,76407569.0
+TTRAK,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,15712730.0
+TTRAK,2025/6,4CAA,Düzeltmeler:,Adjustments:,28406457.0
+TTRAK,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,29957657.0
+TTRAK,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,1650463.0
+TTRAK,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,40605342.0
+TTRAK,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),44119188.0
+TTRAK,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,41399757.0
+TTRAK,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),85518944.0
+TTRAK,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-9111375.0
+TTRAK,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-40379769.0
+TTRAK,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-6538330.0
+TTRAK,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-46918099.0
+TTRAK,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,29489470.0
+TTRAK,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,159384497.0
+TTRAK,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-137161564.0
+TTRAK,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTRAK,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-32991877.0
+TTRAK,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-10768944.0
+TTRAK,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,18720525.0
+TTRAK,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,12239976.0
+TTRAK,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTRAK,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,30960501.0
+TTRAK,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTRAK,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,204803599.0
+TTRAK,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,206495409.0
+TTRAK,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,587017579.0
+TTRAK,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,132950686.0
+TTRAK,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1337105.0
+TTRAK,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,86552920.0
+TTRAK,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTRAK,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+TTRAK,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2025/9,1AF,Stoklar,Inventories,302801794.0
+TTRAK,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTRAK,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,63375073.0
+TTRAK,2025/9,1AI,(Ara Toplam),(Subtotal),587017579.0
+TTRAK,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TTRAK,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,389015072.0
+TTRAK,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+TTRAK,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTRAK,2025/9,1BB,Diğer Alacaklar,Other Receivables,12335.0
+TTRAK,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TTRAK,2025/9,1BC,Finansal Yatırımlar,Financial Investments,368449.0
+TTRAK,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTRAK,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTRAK,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TTRAK,2025/9,1BFA,Stoklar,Stoklar,0.0
+TTRAK,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,5827526.0
+TTRAK,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,258473013.0
+TTRAK,2025/9,1BGA,Şerefiye,Goodwill,0.0
+TTRAK,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,116050648.0
+TTRAK,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+TTRAK,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,8283101.0
+TTRAK,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,976032651.0
+TTRAK,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTRAK,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,458937867.0
+TTRAK,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,296288148.0
+TTRAK,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,132137715.0
+TTRAK,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,7835819.0
+TTRAK,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TTRAK,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTRAK,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,13702.0
+TTRAK,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1020984.0
+TTRAK,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5270.0
+TTRAK,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,9085133.0
+TTRAK,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,12551095.0
+TTRAK,2025/9,2AAGG,(Ara Toplam),(Subtotal),458937867.0
+TTRAK,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTRAK,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,119250431.0
+TTRAK,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,97021974.0
+TTRAK,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTRAK,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTRAK,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TTRAK,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TTRAK,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTRAK,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTRAK,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTRAK,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,12740086.0
+TTRAK,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTRAK,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,9488371.0
+TTRAK,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTRAK,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,397844352.0
+TTRAK,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,397844352.0
+TTRAK,2025/9,2OA,Ödenmiş Sermaye,Share Capital,2406518.0
+TTRAK,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTRAK,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTRAK,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTRAK,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TTRAK,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,111978523.0
+TTRAK,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),214442148.0
+TTRAK,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),22045964.0
+TTRAK,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,46971198.0
+TTRAK,2025/9,2ODA,Azınlık Payları,Minority Interests,0.0
+TTRAK,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,976032651.0
+TTRAK,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTRAK,2025/9,3C,Satış Gelirleri,Net Sales,1015093180.0
+TTRAK,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-865930229.0
+TTRAK,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTRAK,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,149162951.0
+TTRAK,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTRAK,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTRAK,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTRAK,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTRAK,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),149162951.0
+TTRAK,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-54271912.0
+TTRAK,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-29601067.0
+TTRAK,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-14232856.0
+TTRAK,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,143801291.0
+TTRAK,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-84610881.0
+TTRAK,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTRAK,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,110247525.0
+TTRAK,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,51057116.0
+TTRAK,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,245972.0
+TTRAK,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TTRAK,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TTRAK,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTRAK,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,110493497.0
+TTRAK,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),59831444.0
+TTRAK,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-138230280.0
+TTRAK,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,245972.0
+TTRAK,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,32094662.0
+TTRAK,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-8368642.0
+TTRAK,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-9140153.0
+TTRAK,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,771511.0
+TTRAK,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTRAK,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,23726019.0
+TTRAK,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTRAK,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTRAK,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,23726019.0
+TTRAK,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTRAK,2025/9,3LB,Azınlık Payları,Minority Interests,0.0
+TTRAK,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,23726019.0
+TTRAK,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTRAK,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTRAK,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTRAK,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTRAK,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,53414285.0
+TTRAK,2025/9,4BA,Kıdem Tazminatı,Severance Payments,599052.0
+TTRAK,2025/9,4BB,Finansman Giderleri,Financial Expenses,-138230280.0
+TTRAK,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,991037768.0
+TTRAK,2025/9,4BD,Yurtdışı Satışlar,Export Sales,315182091.0
+TTRAK,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,12127685.0
+TTRAK,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,12127685.0
+TTRAK,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),12127685.0
+TTRAK,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,49545267.0
+TTRAK,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,23726019.0
+TTRAK,2025/9,4CAA,Düzeltmeler:,Adjustments:,67818520.0
+TTRAK,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,53414285.0
+TTRAK,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,-509923.0
+TTRAK,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,75288687.0
+TTRAK,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),91544539.0
+TTRAK,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-29510576.0
+TTRAK,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),62033964.0
+TTRAK,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-12488697.0
+TTRAK,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-61390877.0
+TTRAK,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-6889012.0
+TTRAK,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-68279889.0
+TTRAK,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,-18734622.0
+TTRAK,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,177848596.0
+TTRAK,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-143052645.0
+TTRAK,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTRAK,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-59413410.0
+TTRAK,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-24617459.0
+TTRAK,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-43352081.0
+TTRAK,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,15988308.0
+TTRAK,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTRAK,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-27363773.0
+TTRAK,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTRAK,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,213600475.0
+TTRAK,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,142930794.0

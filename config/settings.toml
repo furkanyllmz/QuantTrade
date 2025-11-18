@@ -43,6 +43,11 @@ us_cli = "TP.OECDONCU.USA"  # ABD Kompozit Öncü Göstergeler Endeksi (OECD)
 start_date = "2020-01-01"
 end_date = "2025-11-17"
 
+# Mali tablo ayarları
+# financial_group: "1" = Bilanço (Balance Sheet), "2" = Gelir Tablosu (Income Statement)
+# "1" kullanılması önerilir (daha fazla şirkette veri mevcuttur)
+financial_group = "2"
+
 # Ana BIST100 hisseleri
 symbols = [
     # Bankacılık

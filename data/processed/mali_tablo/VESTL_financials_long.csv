@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+VESTL,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,2627761798.0
+VESTL,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,136555253.0
+VESTL,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3532031.0
+VESTL,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,965301730.0
+VESTL,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+VESTL,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,221704783.0
+VESTL,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2022/12,1AF,Stoklar,Inventories,1204133728.0
+VESTL,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+VESTL,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,96534273.0
+VESTL,2022/12,1AI,(Ara Toplam),(Subtotal),2627761798.0
+VESTL,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+VESTL,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,3356687807.0
+VESTL,2022/12,1B,Ticari Alacaklar,Trade Receivables,5926.0
+VESTL,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+VESTL,2022/12,1BB,Diğer Alacaklar,Other Receivables,1447150064.0
+VESTL,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2022/12,1BC,Finansal Yatırımlar,Financial Investments,23181614.0
+VESTL,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+VESTL,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+VESTL,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+VESTL,2022/12,1BFA,Stoklar,Stoklar,0.0
+VESTL,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,52814916.0
+VESTL,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1337795857.0
+VESTL,2022/12,1BGA,Şerefiye,Goodwill,0.0
+VESTL,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,175530910.0
+VESTL,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+VESTL,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,320208520.0
+VESTL,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5984449605.0
+VESTL,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+VESTL,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4135079810.0
+VESTL,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1789570361.0
+VESTL,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+VESTL,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1898378710.0
+VESTL,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,245462.0
+VESTL,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+VESTL,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+VESTL,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+VESTL,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,110202274.0
+VESTL,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+VESTL,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,137223148.0
+VESTL,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,199459855.0
+VESTL,2022/12,2AAGG,(Ara Toplam),(Subtotal),4135079810.0
+VESTL,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+VESTL,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,235702061.0
+VESTL,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,95985960.0
+VESTL,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+VESTL,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,16086430.0
+VESTL,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+VESTL,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+VESTL,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+VESTL,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+VESTL,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,122417361.0
+VESTL,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+VESTL,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,871236.0
+VESTL,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,341074.0
+VESTL,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1613667734.0
+VESTL,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1461394672.0
+VESTL,2022/12,2OA,Ödenmiş Sermaye,Share Capital,17908179.0
+VESTL,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+VESTL,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+VESTL,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+VESTL,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,63034326.0
+VESTL,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,66901239.0
+VESTL,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),408128283.0
+VESTL,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-5943572.0
+VESTL,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,911366218.0
+VESTL,2022/12,2ODA,Azınlık Payları,Minority Interests,152273062.0
+VESTL,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5984449605.0
+VESTL,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+VESTL,2022/12,3C,Satış Gelirleri,Net Sales,6688225600.0
+VESTL,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-5551320826.0
+VESTL,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+VESTL,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1136904774.0
+VESTL,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+VESTL,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+VESTL,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+VESTL,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1136904774.0
+VESTL,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-782767596.0
+VESTL,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-145725997.0
+VESTL,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-101506164.0
+VESTL,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,350703957.0
+VESTL,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-931162987.0
+VESTL,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+VESTL,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-473554013.0
+VESTL,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,106905017.0
+VESTL,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+VESTL,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+VESTL,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+VESTL,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,98189464.0
+VESTL,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-375364549.0
+VESTL,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1207503344.0
+VESTL,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-811668089.0
+VESTL,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+VESTL,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,20470706.0
+VESTL,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-8945826.0
+VESTL,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-2324284.0
+VESTL,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-6621543.0
+VESTL,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+VESTL,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,11524880.0
+VESTL,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+VESTL,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+VESTL,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,11524880.0
+VESTL,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+VESTL,2022/12,3LB,Azınlık Payları,Minority Interests,18225748.0
+VESTL,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,-6700868.0
+VESTL,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+VESTL,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+VESTL,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+VESTL,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+VESTL,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,227351764.0
+VESTL,2022/12,4BA,Kıdem Tazminatı,Severance Payments,6532707.0
+VESTL,2022/12,4BB,Finansman Giderleri,Financial Expenses,-811668089.0
+VESTL,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,2194767890.0
+VESTL,2022/12,4BD,Yurtdışı Satışlar,Export Sales,4928175275.0
+VESTL,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-30981503.0
+VESTL,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-60396651.0
+VESTL,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-308344911.0
+VESTL,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-240736228.0
+VESTL,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,11524880.0
+VESTL,2022/12,4CAA,Düzeltmeler:,Adjustments:,-212284305.0
+VESTL,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,227351764.0
+VESTL,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,-31996489.0
+VESTL,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-407639581.0
+VESTL,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-200759425.0
+VESTL,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-29865042.0
+VESTL,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-230624468.0
+VESTL,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-10111760.0
+VESTL,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-408651858.0
+VESTL,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-40023989.0
+VESTL,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-448675847.0
+VESTL,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,-689412074.0
+VESTL,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,891542669.0
+VESTL,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-14648441.0
+VESTL,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+VESTL,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-240708903.0
+VESTL,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,636185326.0
+VESTL,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-53226749.0
+VESTL,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-133155496.0
+VESTL,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+VESTL,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-186382245.0
+VESTL,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+VESTL,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,340334418.0
+VESTL,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,153952173.0
+VESTL,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,1625862379.0
+VESTL,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,115336993.0
+VESTL,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,4602653.0
+VESTL,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,463125107.0
+VESTL,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+VESTL,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,88056126.0
+VESTL,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2022/3,1AF,Stoklar,Inventories,849061411.0
+VESTL,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+VESTL,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,105680090.0
+VESTL,2022/3,1AI,(Ara Toplam),(Subtotal),1625862379.0
+VESTL,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+VESTL,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1702164217.0
+VESTL,2022/3,1B,Ticari Alacaklar,Trade Receivables,16981.0
+VESTL,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+VESTL,2022/3,1BB,Diğer Alacaklar,Other Receivables,884623385.0
+VESTL,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2022/3,1BC,Finansal Yatırımlar,Financial Investments,5113650.0
+VESTL,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+VESTL,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+VESTL,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+VESTL,2022/3,1BFA,Stoklar,Stoklar,0.0
+VESTL,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,13490435.0
+VESTL,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,521637331.0
+VESTL,2022/3,1BGA,Şerefiye,Goodwill,13405258.0
+VESTL,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,67022744.0
+VESTL,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,64229413.0
+VESTL,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,132625021.0
+VESTL,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3328026597.0
+VESTL,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+VESTL,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2401003580.0
+VESTL,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,855189825.0
+VESTL,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+VESTL,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1303039793.0
+VESTL,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,768984.0
+VESTL,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+VESTL,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+VESTL,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+VESTL,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1093941.0
+VESTL,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,86307771.0
+VESTL,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,154603267.0
+VESTL,2022/3,2AAGG,(Ara Toplam),(Subtotal),2401003580.0
+VESTL,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+VESTL,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,164670372.0
+VESTL,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,84697923.0
+VESTL,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+VESTL,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,12854093.0
+VESTL,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+VESTL,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+VESTL,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+VESTL,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+VESTL,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,35478433.0
+VESTL,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+VESTL,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,31636785.0
+VESTL,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,3137.0
+VESTL,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,762352644.0
+VESTL,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,694029325.0
+VESTL,2022/3,2OA,Ödenmiş Sermaye,Share Capital,22876939.0
+VESTL,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+VESTL,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+VESTL,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+VESTL,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,98130187.0
+VESTL,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,17670270.0
+VESTL,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),208198452.0
+VESTL,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),32199475.0
+VESTL,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,314954001.0
+VESTL,2022/3,2ODA,Azınlık Payları,Minority Interests,68323320.0
+VESTL,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3328026597.0
+VESTL,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+VESTL,2022/3,3C,Satış Gelirleri,Net Sales,840273046.0
+VESTL,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-640722195.0
+VESTL,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+VESTL,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,199550851.0
+VESTL,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+VESTL,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+VESTL,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+VESTL,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),199550851.0
+VESTL,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-86419085.0
+VESTL,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-19898818.0
+VESTL,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-10334875.0
+VESTL,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,37711352.0
+VESTL,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-124965351.0
+VESTL,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+VESTL,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-4355926.0
+VESTL,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,82898073.0
+VESTL,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+VESTL,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+VESTL,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+VESTL,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-1102723.0
+VESTL,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-5458649.0
+VESTL,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),161274683.0
+VESTL,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-121955337.0
+VESTL,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+VESTL,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,33860698.0
+VESTL,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,8550895.0
+VESTL,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-804999.0
+VESTL,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,9355894.0
+VESTL,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+VESTL,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,42411593.0
+VESTL,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+VESTL,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+VESTL,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,42411593.0
+VESTL,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+VESTL,2022/3,3LB,Azınlık Payları,Minority Interests,8620173.0
+VESTL,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,33791420.0
+VESTL,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+VESTL,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+VESTL,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+VESTL,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+VESTL,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,23809447.0
+VESTL,2022/3,4BA,Kıdem Tazminatı,Severance Payments,-2264561.0
+VESTL,2022/3,4BB,Finansman Giderleri,Financial Expenses,-121955337.0
+VESTL,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,225106276.0
+VESTL,2022/3,4BD,Yurtdışı Satışlar,Export Sales,653450024.0
+VESTL,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-440893515.0
+VESTL,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-461429219.0
+VESTL,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-384241929.0
+VESTL,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-4975420.0
+VESTL,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,42411593.0
+VESTL,2022/3,4CAA,Düzeltmeler:,Adjustments:,-34411916.0
+VESTL,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,23809447.0
+VESTL,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,501264.0
+VESTL,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-58722626.0
+VESTL,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),7999677.0
+VESTL,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-10706314.0
+VESTL,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-2706637.0
+VESTL,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-2268783.0
+VESTL,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-39427915.0
+VESTL,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-69441394.0
+VESTL,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-108869309.0
+VESTL,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,-113844729.0
+VESTL,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,87518229.0
+VESTL,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+VESTL,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+VESTL,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-5496508.0
+VESTL,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,82021721.0
+VESTL,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-31823008.0
+VESTL,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,3344167.0
+VESTL,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+VESTL,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-28478842.0
+VESTL,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+VESTL,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,149514599.0
+VESTL,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,121035757.0
+VESTL,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,1690491271.0
+VESTL,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,83475982.0
+VESTL,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,4077848.0
+VESTL,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,541068275.0
+VESTL,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+VESTL,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,106624729.0
+VESTL,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2022/6,1AF,Stoklar,Inventories,842241514.0
+VESTL,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+VESTL,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,113002924.0
+VESTL,2022/6,1AI,(Ara Toplam),(Subtotal),1690491271.0
+VESTL,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+VESTL,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1711101885.0
+VESTL,2022/6,1B,Ticari Alacaklar,Trade Receivables,17734.0
+VESTL,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+VESTL,2022/6,1BB,Diğer Alacaklar,Other Receivables,855152713.0
+VESTL,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2022/6,1BC,Finansal Yatırımlar,Financial Investments,4504356.0
+VESTL,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+VESTL,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+VESTL,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+VESTL,2022/6,1BFA,Stoklar,Stoklar,0.0
+VESTL,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,11503948.0
+VESTL,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,542493739.0
+VESTL,2022/6,1BGA,Şerefiye,Goodwill,11776604.0
+VESTL,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,62110668.0
+VESTL,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,75884408.0
+VESTL,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,147657716.0
+VESTL,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3401593156.0
+VESTL,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+VESTL,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2501435470.0
+VESTL,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,992240136.0
+VESTL,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+VESTL,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1216574703.0
+VESTL,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,7520160.0
+VESTL,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+VESTL,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+VESTL,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+VESTL,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,24962855.0
+VESTL,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+VESTL,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,83828918.0
+VESTL,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,176308698.0
+VESTL,2022/6,2AAGG,(Ara Toplam),(Subtotal),2501435470.0
+VESTL,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+VESTL,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,139805109.0
+VESTL,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,51221767.0
+VESTL,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+VESTL,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,12049079.0
+VESTL,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+VESTL,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+VESTL,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+VESTL,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+VESTL,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,35193153.0
+VESTL,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+VESTL,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,41338893.0
+VESTL,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,2217.0
+VESTL,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,760352577.0
+VESTL,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,701347101.0
+VESTL,2022/6,2OA,Ödenmiş Sermaye,Share Capital,20097535.0
+VESTL,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+VESTL,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+VESTL,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+VESTL,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,132087243.0
+VESTL,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,15905736.0
+VESTL,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),188102915.0
+VESTL,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),75507447.0
+VESTL,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,269646225.0
+VESTL,2022/6,2ODA,Azınlık Payları,Minority Interests,59005476.0
+VESTL,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3401593156.0
+VESTL,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+VESTL,2022/6,3C,Satış Gelirleri,Net Sales,1654554825.0
+VESTL,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1190042943.0
+VESTL,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+VESTL,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,464511881.0
+VESTL,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+VESTL,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+VESTL,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+VESTL,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),464511881.0
+VESTL,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-188065324.0
+VESTL,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-39656098.0
+VESTL,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-21737688.0
+VESTL,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,98853075.0
+VESTL,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-275506113.0
+VESTL,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+VESTL,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,38399733.0
+VESTL,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,215052771.0
+VESTL,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+VESTL,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+VESTL,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+VESTL,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,323781.0
+VESTL,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,38723514.0
+VESTL,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),333088684.0
+VESTL,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-285158963.0
+VESTL,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+VESTL,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,86653234.0
+VESTL,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,13861470.0
+VESTL,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1900167.0
+VESTL,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,15761637.0
+VESTL,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+VESTL,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,100514705.0
+VESTL,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+VESTL,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+VESTL,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,100514705.0
+VESTL,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+VESTL,2022/6,3LB,Azınlık Payları,Minority Interests,15852927.0
+VESTL,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,84661777.0
+VESTL,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+VESTL,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+VESTL,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+VESTL,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+VESTL,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,47368813.0
+VESTL,2022/6,4BA,Kıdem Tazminatı,Severance Payments,770627.0
+VESTL,2022/6,4BB,Finansman Giderleri,Financial Expenses,-285158963.0
+VESTL,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,527944483.0
+VESTL,2022/6,4BD,Yurtdışı Satışlar,Export Sales,1214286847.0
+VESTL,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-557699991.0
+VESTL,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-592721180.0
+VESTL,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-307128134.0
+VESTL,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-115500342.0
+VESTL,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,100514705.0
+VESTL,2022/6,4CAA,Düzeltmeler:,Adjustments:,-63982492.0
+VESTL,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,47368813.0
+VESTL,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,15446320.0
+VESTL,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-126797625.0
+VESTL,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),36532213.0
+VESTL,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-149632273.0
+VESTL,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-113100060.0
+VESTL,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-2400281.0
+VESTL,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-91020521.0
+VESTL,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-49433020.0
+VESTL,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-140453541.0
+VESTL,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-255953883.0
+VESTL,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,251047990.0
+VESTL,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+VESTL,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+VESTL,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-49372227.0
+VESTL,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,201675763.0
+VESTL,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-54278119.0
+VESTL,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,7301808.0
+VESTL,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+VESTL,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-46976312.0
+VESTL,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+VESTL,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,140335784.0
+VESTL,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,93359472.0
+VESTL,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,1560660249.0
+VESTL,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,81935307.0
+VESTL,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2553511.0
+VESTL,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,451941236.0
+VESTL,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+VESTL,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,129425618.0
+VESTL,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2022/9,1AF,Stoklar,Inventories,806619682.0
+VESTL,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+VESTL,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,88184896.0
+VESTL,2022/9,1AI,(Ara Toplam),(Subtotal),1560660249.0
+VESTL,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+VESTL,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1655112952.0
+VESTL,2022/9,1B,Ticari Alacaklar,Trade Receivables,15200.0
+VESTL,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+VESTL,2022/9,1BB,Diğer Alacaklar,Other Receivables,844799349.0
+VESTL,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2022/9,1BC,Finansal Yatırımlar,Financial Investments,4774877.0
+VESTL,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+VESTL,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+VESTL,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+VESTL,2022/9,1BFA,Stoklar,Stoklar,0.0
+VESTL,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,22657543.0
+VESTL,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,509903245.0
+VESTL,2022/9,1BGA,Şerefiye,Goodwill,10595458.0
+VESTL,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,63461711.0
+VESTL,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,69914996.0
+VESTL,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,128990572.0
+VESTL,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3215773201.0
+VESTL,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+VESTL,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2401883992.0
+VESTL,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,984349750.0
+VESTL,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+VESTL,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1163589728.0
+VESTL,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,197821.0
+VESTL,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+VESTL,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+VESTL,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+VESTL,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,25357345.0
+VESTL,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),453749.0
+VESTL,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,71832892.0
+VESTL,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,156102705.0
+VESTL,2022/9,2AAGG,(Ara Toplam),(Subtotal),2401883992.0
+VESTL,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+VESTL,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,134987252.0
+VESTL,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,57009665.0
+VESTL,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+VESTL,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,10566081.0
+VESTL,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+VESTL,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+VESTL,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+VESTL,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+VESTL,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,34276713.0
+VESTL,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+VESTL,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,33133392.0
+VESTL,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,1401.0
+VESTL,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,678901957.0
+VESTL,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,619841635.0
+VESTL,2022/9,2OA,Ödenmiş Sermaye,Share Capital,18081834.0
+VESTL,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+VESTL,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+VESTL,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+VESTL,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,118037958.0
+VESTL,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,14074741.0
+VESTL,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),181320066.0
+VESTL,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),51695657.0
+VESTL,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,236631379.0
+VESTL,2022/9,2ODA,Azınlık Payları,Minority Interests,59060322.0
+VESTL,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3215773201.0
+VESTL,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+VESTL,2022/9,3C,Satış Gelirleri,Net Sales,2457238210.0
+VESTL,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1826615822.0
+VESTL,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+VESTL,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,630622388.0
+VESTL,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+VESTL,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+VESTL,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+VESTL,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),630622388.0
+VESTL,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-288956382.0
+VESTL,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-60986311.0
+VESTL,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-32805680.0
+VESTL,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,140812287.0
+VESTL,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-385904510.0
+VESTL,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+VESTL,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2781791.0
+VESTL,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,247874014.0
+VESTL,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+VESTL,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+VESTL,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+VESTL,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,5656147.0
+VESTL,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,8437939.0
+VESTL,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),500825974.0
+VESTL,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-450812615.0
+VESTL,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+VESTL,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,58451298.0
+VESTL,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,17875932.0
+VESTL,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-571352.0
+VESTL,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,18447284.0
+VESTL,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+VESTL,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,76327230.0
+VESTL,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+VESTL,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+VESTL,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,76327230.0
+VESTL,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+VESTL,2022/9,3LB,Azınlık Payları,Minority Interests,16058565.0
+VESTL,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,60268665.0
+VESTL,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+VESTL,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+VESTL,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+VESTL,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+VESTL,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,57161105.0
+VESTL,2022/9,4BA,Kıdem Tazminatı,Severance Payments,4104661.0
+VESTL,2022/9,4BB,Finansman Giderleri,Financial Expenses,-450812615.0
+VESTL,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,787484757.0
+VESTL,2022/9,4BD,Yurtdışı Satışlar,Export Sales,1823030291.0
+VESTL,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-395342315.0
+VESTL,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-413678559.0
+VESTL,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-229377714.0
+VESTL,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-85503804.0
+VESTL,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,76327230.0
+VESTL,2022/9,4CAA,Düzeltmeler:,Adjustments:,-82099130.0
+VESTL,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,57161105.0
+VESTL,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,16862366.0
+VESTL,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-156122602.0
+VESTL,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-5771901.0
+VESTL,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-76157810.0
+VESTL,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-81929711.0
+VESTL,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-3574093.0
+VESTL,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-136070542.0
+VESTL,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-85268338.0
+VESTL,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-221338880.0
+VESTL,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,-306842683.0
+VESTL,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,317448957.0
+VESTL,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-7664301.0
+VESTL,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+VESTL,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-39403126.0
+VESTL,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,270381531.0
+VESTL,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-36461153.0
+VESTL,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,701433.0
+VESTL,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+VESTL,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-35759719.0
+VESTL,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+VESTL,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,131282860.0
+VESTL,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,95523141.0
+VESTL,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,2355037045.0
+VESTL,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,112339402.0
+VESTL,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1729697.0
+VESTL,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,872691879.0
+VESTL,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+VESTL,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,110424634.0
+VESTL,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2023/12,1AF,Stoklar,Inventories,1151011553.0
+VESTL,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+VESTL,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,106839882.0
+VESTL,2023/12,1AI,(Ara Toplam),(Subtotal),2355037045.0
+VESTL,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+VESTL,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,3773365128.0
+VESTL,2023/12,1B,Ticari Alacaklar,Trade Receivables,40215.0
+VESTL,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+VESTL,2023/12,1BB,Diğer Alacaklar,Other Receivables,1410016819.0
+VESTL,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2023/12,1BC,Finansal Yatırımlar,Financial Investments,14160990.0
+VESTL,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+VESTL,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+VESTL,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+VESTL,2023/12,1BFA,Stoklar,Stoklar,0.0
+VESTL,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,60269469.0
+VESTL,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1695918525.0
+VESTL,2023/12,1BGA,Şerefiye,Goodwill,0.0
+VESTL,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,191605016.0
+VESTL,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+VESTL,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,401354094.0
+VESTL,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,6128402173.0
+VESTL,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+VESTL,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3825334726.0
+VESTL,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1316318948.0
+VESTL,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,61670425.0
+VESTL,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2054492952.0
+VESTL,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,693527.0
+VESTL,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+VESTL,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+VESTL,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+VESTL,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,52538681.0
+VESTL,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),767074.0
+VESTL,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,145506065.0
+VESTL,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,193347055.0
+VESTL,2023/12,2AAGG,(Ara Toplam),(Subtotal),3825334726.0
+VESTL,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+VESTL,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,302698932.0
+VESTL,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,123969408.0
+VESTL,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,12582524.0
+VESTL,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,8722776.0
+VESTL,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+VESTL,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+VESTL,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+VESTL,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+VESTL,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,94486510.0
+VESTL,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+VESTL,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,62309291.0
+VESTL,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,628423.0
+VESTL,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2000368515.0
+VESTL,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1764596813.0
+VESTL,2023/12,2OA,Ödenmiş Sermaye,Share Capital,11374744.0
+VESTL,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+VESTL,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+VESTL,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+VESTL,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,78794390.0
+VESTL,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,61351890.0
+VESTL,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),402946937.0
+VESTL,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),70968421.0
+VESTL,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1139160430.0
+VESTL,2023/12,2ODA,Azınlık Payları,Minority Interests,235771702.0
+VESTL,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,6128402173.0
+VESTL,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+VESTL,2023/12,3C,Satış Gelirleri,Net Sales,6799230284.0
+VESTL,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-5286121201.0
+VESTL,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+VESTL,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1513109082.0
+VESTL,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+VESTL,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+VESTL,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+VESTL,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1513109082.0
+VESTL,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-853985646.0
+VESTL,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-172005831.0
+VESTL,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-117488128.0
+VESTL,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,127525883.0
+VESTL,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-963418348.0
+VESTL,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+VESTL,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-466262988.0
+VESTL,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,369629477.0
+VESTL,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+VESTL,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+VESTL,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+VESTL,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,53355147.0
+VESTL,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-412907840.0
+VESTL,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1116755512.0
+VESTL,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-521164936.0
+VESTL,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+VESTL,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,182682736.0
+VESTL,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-41436118.0
+VESTL,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-19513999.0
+VESTL,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-21922120.0
+VESTL,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+VESTL,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,141246618.0
+VESTL,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+VESTL,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+VESTL,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,141246618.0
+VESTL,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+VESTL,2023/12,3LB,Azınlık Payları,Minority Interests,53412809.0
+VESTL,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,87833809.0
+VESTL,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+VESTL,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+VESTL,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+VESTL,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+VESTL,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,260892663.0
+VESTL,2023/12,4BA,Kıdem Tazminatı,Severance Payments,20329114.0
+VESTL,2023/12,4BB,Finansman Giderleri,Financial Expenses,-521164936.0
+VESTL,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,2708393005.0
+VESTL,2023/12,4BD,Yurtdışı Satışlar,Export Sales,4619854061.0
+VESTL,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-452625389.0
+VESTL,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-492026048.0
+VESTL,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-228892291.0
+VESTL,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,427828481.0
+VESTL,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,141246618.0
+VESTL,2023/12,4CAA,Düzeltmeler:,Adjustments:,-652643937.0
+VESTL,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,260892663.0
+VESTL,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,61562953.0
+VESTL,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-390061661.0
+VESTL,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-511397319.0
+VESTL,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,984860287.0
+VESTL,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),473462968.0
+VESTL,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-45634488.0
+VESTL,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-326750047.0
+VESTL,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-140123385.0
+VESTL,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-466873432.0
+VESTL,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,-39044951.0
+VESTL,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,413211930.0
+VESTL,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-6928626.0
+VESTL,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+VESTL,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-322262738.0
+VESTL,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,84020565.0
+VESTL,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-21195680.0
+VESTL,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,5244804.0
+VESTL,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+VESTL,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-15950876.0
+VESTL,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+VESTL,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,154985985.0
+VESTL,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,139035110.0
+VESTL,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,1565403225.0
+VESTL,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,65978538.0
+VESTL,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,8860.0
+VESTL,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,585533933.0
+VESTL,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+VESTL,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,128584205.0
+VESTL,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2023/3,1AF,Stoklar,Inventories,711826108.0
+VESTL,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+VESTL,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,73471581.0
+VESTL,2023/3,1AI,(Ara Toplam),(Subtotal),1565403225.0
+VESTL,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+VESTL,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1843869542.0
+VESTL,2023/3,1B,Ticari Alacaklar,Trade Receivables,21941.0
+VESTL,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+VESTL,2023/3,1BB,Diğer Alacaklar,Other Receivables,891614724.0
+VESTL,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2023/3,1BC,Finansal Yatırımlar,Financial Investments,5174330.0
+VESTL,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+VESTL,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+VESTL,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+VESTL,2023/3,1BFA,Stoklar,Stoklar,0.0
+VESTL,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,25859609.0
+VESTL,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,665809942.0
+VESTL,2023/3,1BGA,Şerefiye,Goodwill,10244426.0
+VESTL,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,80446117.0
+VESTL,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,49599120.0
+VESTL,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,115099334.0
+VESTL,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3409272767.0
+VESTL,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+VESTL,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2550789564.0
+VESTL,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1108114948.0
+VESTL,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+VESTL,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1162836177.0
+VESTL,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,309259.0
+VESTL,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+VESTL,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+VESTL,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+VESTL,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,55417453.0
+VESTL,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),9242175.0
+VESTL,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,80066292.0
+VESTL,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,134803260.0
+VESTL,2023/3,2AAGG,(Ara Toplam),(Subtotal),2550789564.0
+VESTL,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+VESTL,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,155111477.0
+VESTL,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,74839898.0
+VESTL,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+VESTL,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,9022869.0
+VESTL,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+VESTL,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+VESTL,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+VESTL,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+VESTL,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,70911412.0
+VESTL,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+VESTL,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+VESTL,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,337298.0
+VESTL,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,703371726.0
+VESTL,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,633874910.0
+VESTL,2023/3,2OA,Ödenmiş Sermaye,Share Capital,17482776.0
+VESTL,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+VESTL,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+VESTL,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+VESTL,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,86489332.0
+VESTL,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,13608439.0
+VESTL,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),220850124.0
+VESTL,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-3321225.0
+VESTL,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,298765466.0
+VESTL,2023/3,2ODA,Azınlık Payları,Minority Interests,69496816.0
+VESTL,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3409272767.0
+VESTL,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+VESTL,2023/3,3C,Satış Gelirleri,Net Sales,1648424904.0
+VESTL,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1404051217.0
+VESTL,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+VESTL,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,244373687.0
+VESTL,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+VESTL,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+VESTL,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+VESTL,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),244373687.0
+VESTL,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-205505536.0
+VESTL,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-55676086.0
+VESTL,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-46294279.0
+VESTL,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,40551040.0
+VESTL,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-92704734.0
+VESTL,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+VESTL,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-115255907.0
+VESTL,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-63102214.0
+VESTL,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+VESTL,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+VESTL,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+VESTL,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-241509.0
+VESTL,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-115497416.0
+VESTL,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),124938820.0
+VESTL,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),32837144.0
+VESTL,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+VESTL,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,42278548.0
+VESTL,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-53918092.0
+VESTL,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-16851071.0
+VESTL,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-37067021.0
+VESTL,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+VESTL,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-11639544.0
+VESTL,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+VESTL,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+VESTL,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-11639544.0
+VESTL,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+VESTL,2023/3,3LB,Azınlık Payları,Minority Interests,9606591.0
+VESTL,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,-21246135.0
+VESTL,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+VESTL,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+VESTL,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+VESTL,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+VESTL,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,95973496.0
+VESTL,2023/3,4BA,Kıdem Tazminatı,Severance Payments,17268776.0
+VESTL,2023/3,4BB,Finansman Giderleri,Financial Expenses,32837144.0
+VESTL,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,589663789.0
+VESTL,2023/3,4BD,Yurtdışı Satışlar,Export Sales,1054014876.0
+VESTL,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-98272835.0
+VESTL,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-111594262.0
+VESTL,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-325912209.0
+VESTL,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,39977992.0
+VESTL,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-10737074.0
+VESTL,2023/3,4CAA,Düzeltmeler:,Adjustments:,108560287.0
+VESTL,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,95973496.0
+VESTL,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,-3057157.0
+VESTL,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,56493819.0
+VESTL,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),97823214.0
+VESTL,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-33299362.0
+VESTL,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),64523852.0
+VESTL,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-24545860.0
+VESTL,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-71027079.0
+VESTL,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2624315.0
+VESTL,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-73651394.0
+VESTL,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,-33673402.0
+VESTL,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,65417748.0
+VESTL,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+VESTL,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+VESTL,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-57287946.0
+VESTL,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,8129802.0
+VESTL,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-45087474.0
+VESTL,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,2208303.0
+VESTL,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+VESTL,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-42879171.0
+VESTL,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+VESTL,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,155778525.0
+VESTL,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,112899354.0
+VESTL,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,1472461847.0
+VESTL,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,106211692.0
+VESTL,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1553484.0
+VESTL,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,523705624.0
+VESTL,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+VESTL,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,110317825.0
+VESTL,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2023/6,1AF,Stoklar,Inventories,660797461.0
+VESTL,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+VESTL,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,69875762.0
+VESTL,2023/6,1AI,(Ara Toplam),(Subtotal),1472461847.0
+VESTL,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+VESTL,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1682297020.0
+VESTL,2023/6,1B,Ticari Alacaklar,Trade Receivables,6030.0
+VESTL,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+VESTL,2023/6,1BB,Diğer Alacaklar,Other Receivables,888173223.0
+VESTL,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2023/6,1BC,Finansal Yatırımlar,Financial Investments,3420385.0
+VESTL,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+VESTL,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+VESTL,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+VESTL,2023/6,1BFA,Stoklar,Stoklar,0.0
+VESTL,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,21542042.0
+VESTL,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,526114242.0
+VESTL,2023/6,1BGA,Şerefiye,Goodwill,7598417.0
+VESTL,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,68898978.0
+VESTL,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,51021856.0
+VESTL,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,115521848.0
+VESTL,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3154758868.0
+VESTL,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+VESTL,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2470462821.0
+VESTL,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,915656833.0
+VESTL,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+VESTL,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1255375885.0
+VESTL,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,3050569.0
+VESTL,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+VESTL,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+VESTL,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+VESTL,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,61708028.0
+VESTL,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2947514.0
+VESTL,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,104365124.0
+VESTL,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,127358869.0
+VESTL,2023/6,2AAGG,(Ara Toplam),(Subtotal),2470462821.0
+VESTL,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+VESTL,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,157613531.0
+VESTL,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,84854926.0
+VESTL,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+VESTL,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,12915236.0
+VESTL,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+VESTL,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+VESTL,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+VESTL,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+VESTL,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,59788478.0
+VESTL,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+VESTL,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+VESTL,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,54891.0
+VESTL,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,526682515.0
+VESTL,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,470561354.0
+VESTL,2023/6,2OA,Ödenmiş Sermaye,Share Capital,12967189.0
+VESTL,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+VESTL,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+VESTL,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+VESTL,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,85802873.0
+VESTL,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,9946965.0
+VESTL,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),172532818.0
+VESTL,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-26285524.0
+VESTL,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,215597033.0
+VESTL,2023/6,2ODA,Azınlık Payları,Minority Interests,56121162.0
+VESTL,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3154758868.0
+VESTL,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+VESTL,2023/6,3C,Satış Gelirleri,Net Sales,3350772291.0
+VESTL,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2692541023.0
+VESTL,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+VESTL,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,658231268.0
+VESTL,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+VESTL,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+VESTL,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+VESTL,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),658231268.0
+VESTL,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-437521993.0
+VESTL,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-91978418.0
+VESTL,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-66421784.0
+VESTL,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,163857151.0
+VESTL,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-595361359.0
+VESTL,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+VESTL,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-369195135.0
+VESTL,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,62309073.0
+VESTL,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+VESTL,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+VESTL,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+VESTL,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-41390937.0
+VESTL,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-410586072.0
+VESTL,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),682710825.0
+VESTL,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-372913670.0
+VESTL,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+VESTL,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-100788917.0
+VESTL,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-17304597.0
+VESTL,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-18819232.0
+VESTL,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,1514635.0
+VESTL,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+VESTL,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-118093514.0
+VESTL,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+VESTL,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+VESTL,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-118093514.0
+VESTL,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+VESTL,2023/6,3LB,Azınlık Payları,Minority Interests,9338104.0
+VESTL,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,-127431618.0
+VESTL,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+VESTL,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+VESTL,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+VESTL,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+VESTL,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,175761110.0
+VESTL,2023/6,4BA,Kıdem Tazminatı,Severance Payments,14747984.0
+VESTL,2023/6,4BB,Finansman Giderleri,Financial Expenses,-372913670.0
+VESTL,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,1360586190.0
+VESTL,2023/6,4BD,Yurtdışı Satışlar,Export Sales,2257592713.0
+VESTL,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-134470775.0
+VESTL,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-147685589.0
+VESTL,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-258965946.0
+VESTL,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,497821804.0
+VESTL,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-118093514.0
+VESTL,2023/6,4CAA,Düzeltmeler:,Adjustments:,199280655.0
+VESTL,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,175761110.0
+VESTL,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,94729871.0
+VESTL,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-105573924.0
+VESTL,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),81187141.0
+VESTL,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,447880711.0
+VESTL,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),529067852.0
+VESTL,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-31246048.0
+VESTL,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-179509846.0
+VESTL,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-134928180.0
+VESTL,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-314438026.0
+VESTL,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,183383778.0
+VESTL,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,158392021.0
+VESTL,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+VESTL,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+VESTL,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-238193966.0
+VESTL,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-79801945.0
+VESTL,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,38533377.0
+VESTL,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,38445754.0
+VESTL,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+VESTL,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,76979131.0
+VESTL,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+VESTL,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,161135293.0
+VESTL,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,238114424.0
+VESTL,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,1504608620.0
+VESTL,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,54797965.0
+VESTL,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,986327.0
+VESTL,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,510142274.0
+VESTL,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+VESTL,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,114133997.0
+VESTL,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2023/9,1AF,Stoklar,Inventories,740802742.0
+VESTL,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+VESTL,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,83745315.0
+VESTL,2023/9,1AI,(Ara Toplam),(Subtotal),1504608620.0
+VESTL,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+VESTL,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1710257420.0
+VESTL,2023/9,1B,Ticari Alacaklar,Trade Receivables,47546.0
+VESTL,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+VESTL,2023/9,1BB,Diğer Alacaklar,Other Receivables,912737074.0
+VESTL,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2023/9,1BC,Finansal Yatırımlar,Financial Investments,3962809.0
+VESTL,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+VESTL,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+VESTL,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+VESTL,2023/9,1BFA,Stoklar,Stoklar,0.0
+VESTL,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,19004667.0
+VESTL,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,520286444.0
+VESTL,2023/9,1BGA,Şerefiye,Goodwill,7167214.0
+VESTL,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,77389594.0
+VESTL,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,68832130.0
+VESTL,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,100829942.0
+VESTL,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3214866040.0
+VESTL,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+VESTL,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2465956173.0
+VESTL,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,906687924.0
+VESTL,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+VESTL,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1294400350.0
+VESTL,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,870743.0
+VESTL,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+VESTL,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+VESTL,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+VESTL,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,49015642.0
+VESTL,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2953766.0
+VESTL,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,93796616.0
+VESTL,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,118231131.0
+VESTL,2023/9,2AAGG,(Ara Toplam),(Subtotal),2465956173.0
+VESTL,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+VESTL,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,159470904.0
+VESTL,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,90776380.0
+VESTL,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+VESTL,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,14637242.0
+VESTL,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+VESTL,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+VESTL,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+VESTL,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+VESTL,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,54009735.0
+VESTL,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+VESTL,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+VESTL,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,47546.0
+VESTL,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,589438963.0
+VESTL,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,507386276.0
+VESTL,2023/9,2OA,Ödenmiş Sermaye,Share Capital,12231313.0
+VESTL,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+VESTL,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+VESTL,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+VESTL,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,81234121.0
+VESTL,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,9174542.0
+VESTL,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),176646029.0
+VESTL,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),17115329.0
+VESTL,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,210984941.0
+VESTL,2023/9,2ODA,Azınlık Payları,Minority Interests,82052687.0
+VESTL,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3214866040.0
+VESTL,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+VESTL,2023/9,3C,Satış Gelirleri,Net Sales,5068805738.0
+VESTL,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-4007777488.0
+VESTL,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+VESTL,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1061028249.0
+VESTL,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+VESTL,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+VESTL,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+VESTL,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1061028249.0
+VESTL,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-663379598.0
+VESTL,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-132067486.0
+VESTL,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-94964476.0
+VESTL,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,165034535.0
+VESTL,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-673486561.0
+VESTL,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+VESTL,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-337835336.0
+VESTL,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,170616690.0
+VESTL,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+VESTL,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+VESTL,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+VESTL,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-37735247.0
+VESTL,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-375570583.0
+VESTL,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),850103353.0
+VESTL,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-346043201.0
+VESTL,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+VESTL,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,128489569.0
+VESTL,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-153683414.0
+VESTL,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-19571778.0
+VESTL,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-134111636.0
+VESTL,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+VESTL,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-25193845.0
+VESTL,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+VESTL,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+VESTL,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-25193845.0
+VESTL,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+VESTL,2023/9,3LB,Azınlık Payları,Minority Interests,48868564.0
+VESTL,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,-74062409.0
+VESTL,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+VESTL,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+VESTL,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+VESTL,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+VESTL,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,220127627.0
+VESTL,2023/9,4BA,Kıdem Tazminatı,Severance Payments,3470344.0
+VESTL,2023/9,4BB,Finansman Giderleri,Financial Expenses,-346043201.0
+VESTL,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,2042396392.0
+VESTL,2023/9,4BD,Yurtdışı Satışlar,Export Sales,3428445545.0
+VESTL,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-329297907.0
+VESTL,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-372675267.0
+VESTL,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-203173359.0
+VESTL,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,412182714.0
+VESTL,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-25193845.0
+VESTL,2023/9,4CAA,Düzeltmeler:,Adjustments:,202391881.0
+VESTL,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,220127627.0
+VESTL,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,68134788.0
+VESTL,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-70258311.0
+VESTL,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),177198036.0
+VESTL,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,272213550.0
+VESTL,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),449411586.0
+VESTL,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-37228872.0
+VESTL,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-272704204.0
+VESTL,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-124034900.0
+VESTL,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-396739104.0
+VESTL,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,15443611.0
+VESTL,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,216841121.0
+VESTL,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-6998393.0
+VESTL,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+VESTL,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-228618072.0
+VESTL,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-18775344.0
+VESTL,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-57552037.0
+VESTL,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,2137849.0
+VESTL,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+VESTL,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-55414188.0
+VESTL,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+VESTL,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,156547693.0
+VESTL,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,101133505.0
+VESTL,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,1985171593.0
+VESTL,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,96529623.0
+VESTL,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3273311.0
+VESTL,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,717233608.0
+VESTL,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+VESTL,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,87566630.0
+VESTL,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2024/12,1AF,Stoklar,Inventories,974775291.0
+VESTL,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+VESTL,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,105793131.0
+VESTL,2024/12,1AI,(Ara Toplam),(Subtotal),1985171593.0
+VESTL,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+VESTL,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,4207343315.0
+VESTL,2024/12,1B,Ticari Alacaklar,Trade Receivables,20015.0
+VESTL,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+VESTL,2024/12,1BB,Diğer Alacaklar,Other Receivables,1560230361.0
+VESTL,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2024/12,1BC,Finansal Yatırımlar,Financial Investments,18052786.0
+VESTL,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+VESTL,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+VESTL,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,56732687.0
+VESTL,2024/12,1BFA,Stoklar,Stoklar,0.0
+VESTL,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,86990582.0
+VESTL,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2008702656.0
+VESTL,2024/12,1BGA,Şerefiye,Goodwill,0.0
+VESTL,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,240237134.0
+VESTL,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+VESTL,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,236377094.0
+VESTL,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,6192514908.0
+VESTL,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+VESTL,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3403334291.0
+VESTL,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1510102283.0
+VESTL,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,35374190.0
+VESTL,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1547971912.0
+VESTL,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,7754079.0
+VESTL,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+VESTL,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+VESTL,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+VESTL,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,24052743.0
+VESTL,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),609336.0
+VESTL,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,130938243.0
+VESTL,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,146531504.0
+VESTL,2024/12,2AAGG,(Ara Toplam),(Subtotal),3403334291.0
+VESTL,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+VESTL,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,929332537.0
+VESTL,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,675493930.0
+VESTL,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,7274844.0
+VESTL,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,4363160.0
+VESTL,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+VESTL,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+VESTL,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+VESTL,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+VESTL,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,99000717.0
+VESTL,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+VESTL,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,142779348.0
+VESTL,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,420538.0
+VESTL,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1859848080.0
+VESTL,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1587560318.0
+VESTL,2024/12,2OA,Ödenmiş Sermaye,Share Capital,9491226.0
+VESTL,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+VESTL,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+VESTL,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+VESTL,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,75979161.0
+VESTL,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,64210880.0
+VESTL,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),498680364.0
+VESTL,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-391107027.0
+VESTL,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1327892134.0
+VESTL,2024/12,2ODA,Azınlık Payları,Minority Interests,272287762.0
+VESTL,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,6192514908.0
+VESTL,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+VESTL,2024/12,3C,Satış Gelirleri,Net Sales,5446190275.0
+VESTL,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-4308801887.0
+VESTL,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+VESTL,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1137388388.0
+VESTL,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+VESTL,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+VESTL,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+VESTL,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1137388388.0
+VESTL,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-755130170.0
+VESTL,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-161431992.0
+VESTL,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-85952369.0
+VESTL,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,155469577.0
+VESTL,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-457650389.0
+VESTL,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+VESTL,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-167306956.0
+VESTL,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,134873857.0
+VESTL,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+VESTL,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+VESTL,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+VESTL,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-134143750.0
+VESTL,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-301450706.0
+VESTL,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),534420929.0
+VESTL,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-617017784.0
+VESTL,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+VESTL,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-384047561.0
+VESTL,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-29832035.0
+VESTL,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-804434.0
+VESTL,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-29027601.0
+VESTL,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+VESTL,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-413879596.0
+VESTL,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+VESTL,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-413879596.0
+VESTL,2024/12,3LB,Azınlık Payları,Minority Interests,6621019.0
+VESTL,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,-420500615.0
+VESTL,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+VESTL,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+VESTL,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+VESTL,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+VESTL,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,193198056.0
+VESTL,2024/12,4BA,Kıdem Tazminatı,Severance Payments,11117155.0
+VESTL,2024/12,4BB,Finansman Giderleri,Financial Expenses,-617017784.0
+VESTL,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,2418217357.0
+VESTL,2024/12,4BD,Yurtdışı Satışlar,Export Sales,3546910057.0
+VESTL,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-421045858.0
+VESTL,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-421045858.0
+VESTL,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-464458218.0
+VESTL,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-132041036.0
+VESTL,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-413879596.0
+VESTL,2024/12,4CAA,Düzeltmeler:,Adjustments:,107221420.0
+VESTL,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,193198056.0
+VESTL,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,67877549.0
+VESTL,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,255035580.0
+VESTL,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-306658176.0
+VESTL,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,193065427.0
+VESTL,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-113592749.0
+VESTL,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-18448287.0
+VESTL,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-272471753.0
+VESTL,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-155123429.0
+VESTL,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-427595182.0
+VESTL,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,-559636218.0
+VESTL,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1056047233.0
+VESTL,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-11819675.0
+VESTL,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+VESTL,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-468361569.0
+VESTL,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,575865989.0
+VESTL,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-22430620.0
+VESTL,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-195395.0
+VESTL,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+VESTL,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-22626015.0
+VESTL,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+VESTL,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,126409467.0
+VESTL,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,103783452.0
+VESTL,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,1571332628.0
+VESTL,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,52764411.0
+VESTL,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1275337.0
+VESTL,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,579525254.0
+VESTL,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+VESTL,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,66869613.0
+VESTL,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2024/3,1AF,Stoklar,Inventories,825244747.0
+VESTL,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+VESTL,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,45653267.0
+VESTL,2024/3,1AI,(Ara Toplam),(Subtotal),1571332628.0
+VESTL,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+VESTL,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2752267342.0
+VESTL,2024/3,1B,Ticari Alacaklar,Trade Receivables,5163.0
+VESTL,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+VESTL,2024/3,1BB,Diğer Alacaklar,Other Receivables,1028640256.0
+VESTL,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2024/3,1BC,Finansal Yatırımlar,Financial Investments,9406931.0
+VESTL,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+VESTL,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+VESTL,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+VESTL,2024/3,1BFA,Stoklar,Stoklar,0.0
+VESTL,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,55361834.0
+VESTL,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1218381071.0
+VESTL,2024/3,1BGA,Şerefiye,Goodwill,0.0
+VESTL,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,143340444.0
+VESTL,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+VESTL,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,297131643.0
+VESTL,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4323599970.0
+VESTL,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+VESTL,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2653599352.0
+VESTL,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1063821158.0
+VESTL,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,34199162.0
+VESTL,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1260681279.0
+VESTL,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1104855.0
+VESTL,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+VESTL,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+VESTL,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+VESTL,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,60623740.0
+VESTL,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1186572.0
+VESTL,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,99941967.0
+VESTL,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,132040620.0
+VESTL,2024/3,2AAGG,(Ara Toplam),(Subtotal),2653599352.0
+VESTL,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+VESTL,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,233330489.0
+VESTL,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,78793239.0
+VESTL,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,7660465.0
+VESTL,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,5915390.0
+VESTL,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+VESTL,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+VESTL,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+VESTL,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+VESTL,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,66789720.0
+VESTL,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+VESTL,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,73984745.0
+VESTL,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,186930.0
+VESTL,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1436670129.0
+VESTL,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1256875951.0
+VESTL,2024/3,2OA,Ödenmiş Sermaye,Share Capital,10371635.0
+VESTL,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+VESTL,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+VESTL,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+VESTL,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,33882499.0
+VESTL,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,44582854.0
+VESTL,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),345392566.0
+VESTL,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-6677921.0
+VESTL,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,829324318.0
+VESTL,2024/3,2ODA,Azınlık Payları,Minority Interests,179794179.0
+VESTL,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4323599970.0
+VESTL,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+VESTL,2024/3,3C,Satış Gelirleri,Net Sales,1187991887.0
+VESTL,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-915066116.0
+VESTL,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+VESTL,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,272925771.0
+VESTL,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+VESTL,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+VESTL,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+VESTL,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),272925771.0
+VESTL,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-178081004.0
+VESTL,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-38063403.0
+VESTL,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-27103700.0
+VESTL,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,39054345.0
+VESTL,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-155416293.0
+VESTL,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+VESTL,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-86684284.0
+VESTL,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,29677664.0
+VESTL,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+VESTL,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+VESTL,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+VESTL,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-8137325.0
+VESTL,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-94821608.0
+VESTL,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),182412275.0
+VESTL,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-52298738.0
+VESTL,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+VESTL,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,35291929.0
+VESTL,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-34664612.0
+VESTL,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-406487.0
+VESTL,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-34258125.0
+VESTL,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+VESTL,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,627317.0
+VESTL,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+VESTL,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+VESTL,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,627317.0
+VESTL,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+VESTL,2024/3,3LB,Azınlık Payları,Minority Interests,10261908.0
+VESTL,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,-9634591.0
+VESTL,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+VESTL,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+VESTL,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+VESTL,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+VESTL,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,69706996.0
+VESTL,2024/3,4BA,Kıdem Tazminatı,Severance Payments,6469195.0
+VESTL,2024/3,4BB,Finansman Giderleri,Financial Expenses,-52298738.0
+VESTL,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,591374371.0
+VESTL,2024/3,4BD,Yurtdışı Satışlar,Export Sales,711957030.0
+VESTL,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-342561999.0
+VESTL,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-378624363.0
+VESTL,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-209633255.0
+VESTL,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-127455918.0
+VESTL,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,627317.0
+VESTL,2024/3,4CAA,Düzeltmeler:,Adjustments:,-137855841.0
+VESTL,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,69706996.0
+VESTL,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,3805148.0
+VESTL,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,7626866.0
+VESTL,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-137228524.0
+VESTL,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,14520958.0
+VESTL,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-122707566.0
+VESTL,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-4748353.0
+VESTL,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-53453600.0
+VESTL,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-26775701.0
+VESTL,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-80229301.0
+VESTL,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-207685219.0
+VESTL,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,281304436.0
+VESTL,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+VESTL,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+VESTL,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-99851837.0
+VESTL,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,181452599.0
+VESTL,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-44256987.0
+VESTL,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,2605552.0
+VESTL,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+VESTL,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-41651435.0
+VESTL,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+VESTL,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,117775624.0
+VESTL,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,76124189.0
+VESTL,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,1833238590.0
+VESTL,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,111846813.0
+VESTL,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1354648.0
+VESTL,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,631760543.0
+VESTL,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+VESTL,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,67007356.0
+VESTL,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2024/6,1AF,Stoklar,Inventories,955663108.0
+VESTL,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+VESTL,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,65606122.0
+VESTL,2024/6,1AI,(Ara Toplam),(Subtotal),1833238590.0
+VESTL,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+VESTL,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2912981362.0
+VESTL,2024/6,1B,Ticari Alacaklar,Trade Receivables,1095.0
+VESTL,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+VESTL,2024/6,1BB,Diğer Alacaklar,Other Receivables,1057359975.0
+VESTL,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2024/6,1BC,Finansal Yatırımlar,Financial Investments,9090141.0
+VESTL,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+VESTL,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+VESTL,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+VESTL,2024/6,1BFA,Stoklar,Stoklar,0.0
+VESTL,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,55840877.0
+VESTL,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1298903157.0
+VESTL,2024/6,1BGA,Şerefiye,Goodwill,0.0
+VESTL,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,174238733.0
+VESTL,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+VESTL,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,317547384.0
+VESTL,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4746219952.0
+VESTL,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+VESTL,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2556992486.0
+VESTL,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,969251763.0
+VESTL,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,21840458.0
+VESTL,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1264277869.0
+VESTL,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,10219733.0
+VESTL,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+VESTL,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+VESTL,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+VESTL,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,64515787.0
+VESTL,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),855276.0
+VESTL,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,110273314.0
+VESTL,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,115758287.0
+VESTL,2024/6,2AAGG,(Ara Toplam),(Subtotal),2556992486.0
+VESTL,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+VESTL,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,674263303.0
+VESTL,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,516913089.0
+VESTL,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,7777183.0
+VESTL,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,4884097.0
+VESTL,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+VESTL,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+VESTL,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+VESTL,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+VESTL,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,66144235.0
+VESTL,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+VESTL,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,78155407.0
+VESTL,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,389292.0
+VESTL,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1514964163.0
+VESTL,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1330347785.0
+VESTL,2024/6,2OA,Ödenmiş Sermaye,Share Capital,10200789.0
+VESTL,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+VESTL,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+VESTL,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+VESTL,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,50928226.0
+VESTL,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,47533883.0
+VESTL,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),368866728.0
+VESTL,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-36347426.0
+VESTL,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,889165585.0
+VESTL,2024/6,2ODA,Azınlık Payları,Minority Interests,184616379.0
+VESTL,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4746219952.0
+VESTL,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+VESTL,2024/6,3C,Satış Gelirleri,Net Sales,2572875427.0
+VESTL,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1972925703.0
+VESTL,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+VESTL,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,599949723.0
+VESTL,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+VESTL,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+VESTL,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+VESTL,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),599949723.0
+VESTL,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-358349825.0
+VESTL,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-74296320.0
+VESTL,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-49469815.0
+VESTL,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,76098803.0
+VESTL,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-240470618.0
+VESTL,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+VESTL,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-46538052.0
+VESTL,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,117833764.0
+VESTL,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+VESTL,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+VESTL,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+VESTL,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-34642921.0
+VESTL,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-81180972.0
+VESTL,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),279044577.0
+VESTL,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-195455244.0
+VESTL,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+VESTL,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,2408360.0
+VESTL,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-42799697.0
+VESTL,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-784582.0
+VESTL,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-42015115.0
+VESTL,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+VESTL,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-40391336.0
+VESTL,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+VESTL,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+VESTL,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-40391336.0
+VESTL,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+VESTL,2024/6,3LB,Azınlık Payları,Minority Interests,10656624.0
+VESTL,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,-51047960.0
+VESTL,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+VESTL,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+VESTL,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+VESTL,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+VESTL,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,124315025.0
+VESTL,2024/6,4BA,Kıdem Tazminatı,Severance Payments,12829514.0
+VESTL,2024/6,4BB,Finansman Giderleri,Financial Expenses,-195455244.0
+VESTL,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,1200577583.0
+VESTL,2024/6,4BD,Yurtdışı Satışlar,Export Sales,1595081464.0
+VESTL,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-591460867.0
+VESTL,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-591460867.0
+VESTL,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-345508041.0
+VESTL,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-303936890.0
+VESTL,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-40391336.0
+VESTL,2024/6,4CAA,Düzeltmeler:,Adjustments:,-80641157.0
+VESTL,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,124315025.0
+VESTL,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,48258061.0
+VESTL,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,102821555.0
+VESTL,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-121032493.0
+VESTL,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-174143041.0
+VESTL,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-295175534.0
+VESTL,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-8761357.0
+VESTL,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-132093520.0
+VESTL,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-29594905.0
+VESTL,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-161688424.0
+VESTL,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,-465625315.0
+VESTL,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,738837452.0
+VESTL,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+VESTL,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+VESTL,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-214129247.0
+VESTL,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,524708205.0
+VESTL,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,33074326.0
+VESTL,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1768773.0
+VESTL,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+VESTL,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,34843098.0
+VESTL,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+VESTL,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,122238302.0
+VESTL,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,157081400.0
+VESTL,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,1842872640.0
+VESTL,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,138885541.0
+VESTL,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1657924.0
+VESTL,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,634355533.0
+VESTL,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+VESTL,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,73022160.0
+VESTL,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2024/9,1AF,Stoklar,Inventories,939425261.0
+VESTL,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+VESTL,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,55526220.0
+VESTL,2024/9,1AI,(Ara Toplam),(Subtotal),1842872640.0
+VESTL,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+VESTL,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,3056756469.0
+VESTL,2024/9,1B,Ticari Alacaklar,Trade Receivables,7782.0
+VESTL,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+VESTL,2024/9,1BB,Diğer Alacaklar,Other Receivables,1134790668.0
+VESTL,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2024/9,1BC,Finansal Yatırımlar,Financial Investments,8372032.0
+VESTL,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+VESTL,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+VESTL,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+VESTL,2024/9,1BFA,Stoklar,Stoklar,0.0
+VESTL,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,55446296.0
+VESTL,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1374726951.0
+VESTL,2024/9,1BGA,Şerefiye,Goodwill,0.0
+VESTL,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,197372778.0
+VESTL,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+VESTL,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,286039962.0
+VESTL,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4899629108.0
+VESTL,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+VESTL,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2723352885.0
+VESTL,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1097362305.0
+VESTL,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,44881270.0
+VESTL,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1310452776.0
+VESTL,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,4753134.0
+VESTL,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+VESTL,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+VESTL,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+VESTL,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,61730769.0
+VESTL,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),752578.0
+VESTL,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,101440415.0
+VESTL,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,101979639.0
+VESTL,2024/9,2AAGG,(Ara Toplam),(Subtotal),2723352885.0
+VESTL,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+VESTL,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,699554187.0
+VESTL,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,521841849.0
+VESTL,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,7495678.0
+VESTL,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,5080758.0
+VESTL,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+VESTL,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+VESTL,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+VESTL,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+VESTL,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,67753295.0
+VESTL,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+VESTL,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,97207343.0
+VESTL,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,175265.0
+VESTL,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1476722036.0
+VESTL,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1287714883.0
+VESTL,2024/9,2OA,Ödenmiş Sermaye,Share Capital,9813677.0
+VESTL,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+VESTL,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+VESTL,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+VESTL,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,42491392.0
+VESTL,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,49808908.0
+VESTL,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),387528589.0
+VESTL,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-126105288.0
+VESTL,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,924177605.0
+VESTL,2024/9,2ODA,Azınlık Payları,Minority Interests,189007153.0
+VESTL,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4899629108.0
+VESTL,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+VESTL,2024/9,3C,Satış Gelirleri,Net Sales,4094330638.0
+VESTL,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-3122218401.0
+VESTL,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+VESTL,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,972112237.0
+VESTL,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+VESTL,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+VESTL,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+VESTL,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),972112237.0
+VESTL,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-566663724.0
+VESTL,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-120589777.0
+VESTL,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-72933333.0
+VESTL,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,124341822.0
+VESTL,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-363193432.0
+VESTL,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+VESTL,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-26926208.0
+VESTL,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,211925403.0
+VESTL,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+VESTL,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+VESTL,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+VESTL,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-65805731.0
+VESTL,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-92731939.0
+VESTL,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),418643123.0
+VESTL,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-414139188.0
+VESTL,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+VESTL,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-88228005.0
+VESTL,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-82459820.0
+VESTL,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1240211.0
+VESTL,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-81219610.0
+VESTL,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+VESTL,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-170687825.0
+VESTL,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+VESTL,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+VESTL,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-170687825.0
+VESTL,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+VESTL,2024/9,3LB,Azınlık Payları,Minority Interests,7309789.0
+VESTL,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,-177997615.0
+VESTL,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+VESTL,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+VESTL,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+VESTL,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+VESTL,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,164292131.0
+VESTL,2024/9,4BA,Kıdem Tazminatı,Severance Payments,19624009.0
+VESTL,2024/9,4BB,Finansman Giderleri,Financial Expenses,-414139188.0
+VESTL,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,1886821592.0
+VESTL,2024/9,4BD,Yurtdışı Satışlar,Export Sales,2581194300.0
+VESTL,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-530790180.0
+VESTL,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-530790180.0
+VESTL,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-606710657.0
+VESTL,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-194540737.0
+VESTL,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-170687825.0
+VESTL,2024/9,4CAA,Düzeltmeler:,Adjustments:,-9129399.0
+VESTL,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,164292131.0
+VESTL,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,51810750.0
+VESTL,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,211315551.0
+VESTL,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-179817224.0
+VESTL,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,512825.0
+VESTL,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-179304399.0
+VESTL,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-15236338.0
+VESTL,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-220185254.0
+VESTL,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-107779244.0
+VESTL,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-327964498.0
+VESTL,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,-522505235.0
+VESTL,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,957419857.0
+VESTL,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-12036896.0
+VESTL,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+VESTL,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-321594919.0
+VESTL,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,623788042.0
+VESTL,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,60855948.0
+VESTL,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,6447584.0
+VESTL,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+VESTL,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,67303532.0
+VESTL,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+VESTL,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,128732528.0
+VESTL,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,196036059.0
+VESTL,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,1413643498.0
+VESTL,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,70259240.0
+VESTL,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2452840.0
+VESTL,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,412805885.0
+VESTL,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+VESTL,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,73420866.0
+VESTL,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2025/3,1AF,Stoklar,Inventories,780418807.0
+VESTL,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+VESTL,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,74285862.0
+VESTL,2025/3,1AI,(Ara Toplam),(Subtotal),1413643498.0
+VESTL,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+VESTL,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,3461625244.0
+VESTL,2025/3,1B,Ticari Alacaklar,Trade Receivables,5286.0
+VESTL,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+VESTL,2025/3,1BB,Diğer Alacaklar,Other Receivables,1299509009.0
+VESTL,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2025/3,1BC,Finansal Yatırımlar,Financial Investments,13199423.0
+VESTL,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+VESTL,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+VESTL,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,46505919.0
+VESTL,2025/3,1BFA,Stoklar,Stoklar,0.0
+VESTL,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,88161428.0
+VESTL,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1645972030.0
+VESTL,2025/3,1BGA,Şerefiye,Goodwill,0.0
+VESTL,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,200565792.0
+VESTL,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+VESTL,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,167706357.0
+VESTL,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4875268742.0
+VESTL,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+VESTL,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2731619931.0
+VESTL,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1234290461.0
+VESTL,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,44383526.0
+VESTL,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1160874458.0
+VESTL,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,6767829.0
+VESTL,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+VESTL,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+VESTL,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+VESTL,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,20050114.0
+VESTL,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1488303.0
+VESTL,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,107868329.0
+VESTL,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,155896912.0
+VESTL,2025/3,2AAGG,(Ara Toplam),(Subtotal),2731619931.0
+VESTL,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+VESTL,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,766113016.0
+VESTL,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,565927652.0
+VESTL,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,5307781.0
+VESTL,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,3673365.0
+VESTL,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+VESTL,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+VESTL,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+VESTL,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+VESTL,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,76015087.0
+VESTL,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+VESTL,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,115043942.0
+VESTL,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,145188.0
+VESTL,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1377535795.0
+VESTL,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1161760943.0
+VESTL,2025/3,2OA,Ödenmiş Sermaye,Share Capital,8866592.0
+VESTL,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+VESTL,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+VESTL,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+VESTL,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,63157370.0
+VESTL,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,52636036.0
+VESTL,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),89087454.0
+VESTL,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-134191898.0
+VESTL,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1082205388.0
+VESTL,2025/3,2ODA,Azınlık Payları,Minority Interests,215774852.0
+VESTL,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4875268742.0
+VESTL,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+VESTL,2025/3,3C,Satış Gelirleri,Net Sales,867765284.0
+VESTL,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-700830911.0
+VESTL,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+VESTL,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,166934373.0
+VESTL,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+VESTL,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+VESTL,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+VESTL,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),166934373.0
+VESTL,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-138828610.0
+VESTL,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-34887124.0
+VESTL,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-15235068.0
+VESTL,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,25497483.0
+VESTL,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-110702272.0
+VESTL,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+VESTL,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-107221219.0
+VESTL,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-22016430.0
+VESTL,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+VESTL,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+VESTL,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+VESTL,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-27251221.0
+VESTL,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-134472440.0
+VESTL,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),156876036.0
+VESTL,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-158916433.0
+VESTL,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+VESTL,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-136512836.0
+VESTL,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-9860078.0
+VESTL,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-20769.0
+VESTL,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-9839309.0
+VESTL,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+VESTL,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-146372914.0
+VESTL,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+VESTL,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+VESTL,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-146372914.0
+VESTL,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+VESTL,2025/3,3LB,Azınlık Payları,Minority Interests,-6340410.0
+VESTL,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,-140032504.0
+VESTL,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+VESTL,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+VESTL,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+VESTL,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+VESTL,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,54173445.0
+VESTL,2025/3,4BA,Kıdem Tazminatı,Severance Payments,6788037.0
+VESTL,2025/3,4BB,Finansman Giderleri,Financial Expenses,-158916433.0
+VESTL,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,395664551.0
+VESTL,2025/3,4BD,Yurtdışı Satışlar,Export Sales,567130543.0
+VESTL,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-394402295.0
+VESTL,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-394402295.0
+VESTL,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-554733126.0
+VESTL,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,97811580.0
+VESTL,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-146372914.0
+VESTL,2025/3,4CAA,Düzeltmeler:,Adjustments:,53905294.0
+VESTL,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,54173445.0
+VESTL,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,17833391.0
+VESTL,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,92396928.0
+VESTL,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-92467620.0
+VESTL,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,194981772.0
+VESTL,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),102514152.0
+VESTL,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-4702571.0
+VESTL,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-49635482.0
+VESTL,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-11049850.0
+VESTL,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-60685332.0
+VESTL,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,37126248.0
+VESTL,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,32417830.0
+VESTL,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+VESTL,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+VESTL,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-71250348.0
+VESTL,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-38832518.0
+VESTL,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-11836540.0
+VESTL,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,2580836.0
+VESTL,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+VESTL,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-9255704.0
+VESTL,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+VESTL,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,82572320.0
+VESTL,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,73316616.0
+VESTL,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,1386980187.0
+VESTL,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,51865022.0
+VESTL,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2322844.0
+VESTL,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,436053491.0
+VESTL,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+VESTL,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,62803549.0
+VESTL,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2025/6,1AF,Stoklar,Inventories,755311988.0
+VESTL,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+VESTL,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,78623293.0
+VESTL,2025/6,1AI,(Ara Toplam),(Subtotal),1386980187.0
+VESTL,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+VESTL,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,3501074163.0
+VESTL,2025/6,1B,Ticari Alacaklar,Trade Receivables,93664.0
+VESTL,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+VESTL,2025/6,1BB,Diğer Alacaklar,Other Receivables,1365553546.0
+VESTL,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2025/6,1BC,Finansal Yatırımlar,Financial Investments,12436000.0
+VESTL,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+VESTL,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+VESTL,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,46849198.0
+VESTL,2025/6,1BFA,Stoklar,Stoklar,0.0
+VESTL,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,98046262.0
+VESTL,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1646307583.0
+VESTL,2025/6,1BGA,Şerefiye,Goodwill,0.0
+VESTL,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,207273613.0
+VESTL,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+VESTL,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,124514297.0
+VESTL,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4888054350.0
+VESTL,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+VESTL,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2812395836.0
+VESTL,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1221189654.0
+VESTL,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,47148954.0
+VESTL,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1222668365.0
+VESTL,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,16410139.0
+VESTL,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+VESTL,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+VESTL,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+VESTL,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,15884297.0
+VESTL,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1367036.0
+VESTL,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,114555139.0
+VESTL,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,173172253.0
+VESTL,2025/6,2AAGG,(Ara Toplam),(Subtotal),2812395836.0
+VESTL,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+VESTL,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,894989651.0
+VESTL,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,691722805.0
+VESTL,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,7532201.0
+VESTL,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,3431318.0
+VESTL,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+VESTL,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+VESTL,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+VESTL,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+VESTL,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,70206443.0
+VESTL,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+VESTL,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,121792030.0
+VESTL,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,304855.0
+VESTL,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1180668862.0
+VESTL,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,978113126.0
+VESTL,2025/6,2OA,Ödenmiş Sermaye,Share Capital,8425918.0
+VESTL,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+VESTL,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+VESTL,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+VESTL,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,68117044.0
+VESTL,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,53024560.0
+VESTL,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),90687725.0
+VESTL,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-317513865.0
+VESTL,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1075371743.0
+VESTL,2025/6,2ODA,Azınlık Payları,Minority Interests,202555736.0
+VESTL,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4888054350.0
+VESTL,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+VESTL,2025/6,3C,Satış Gelirleri,Net Sales,1813180517.0
+VESTL,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1505704330.0
+VESTL,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+VESTL,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,307476187.0
+VESTL,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+VESTL,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+VESTL,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+VESTL,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),307476187.0
+VESTL,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-288819555.0
+VESTL,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-66648237.0
+VESTL,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-35078800.0
+VESTL,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,59313560.0
+VESTL,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-224476265.0
+VESTL,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+VESTL,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-248233111.0
+VESTL,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-83070405.0
+VESTL,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+VESTL,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+VESTL,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+VESTL,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-58471674.0
+VESTL,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-306704785.0
+VESTL,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),308641493.0
+VESTL,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-331425169.0
+VESTL,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+VESTL,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-329488462.0
+VESTL,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-25100522.0
+VESTL,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-158789.0
+VESTL,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-24941733.0
+VESTL,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+VESTL,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-354588984.0
+VESTL,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+VESTL,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+VESTL,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-354588984.0
+VESTL,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+VESTL,2025/6,3LB,Azınlık Payları,Minority Interests,-17349558.0
+VESTL,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,-337239426.0
+VESTL,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+VESTL,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+VESTL,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+VESTL,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+VESTL,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,101746379.0
+VESTL,2025/6,4BA,Kıdem Tazminatı,Severance Payments,16812845.0
+VESTL,2025/6,4BB,Finansman Giderleri,Financial Expenses,-331425169.0
+VESTL,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,842276061.0
+VESTL,2025/6,4BD,Yurtdışı Satışlar,Export Sales,1169516667.0
+VESTL,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-427130739.0
+VESTL,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-427130739.0
+VESTL,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-561259467.0
+VESTL,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,107713742.0
+VESTL,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-354588984.0
+VESTL,2025/6,4CAA,Düzeltmeler:,Adjustments:,155855546.0
+VESTL,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,101746379.0
+VESTL,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,40302721.0
+VESTL,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,187414178.0
+VESTL,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-198733438.0
+VESTL,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,322490944.0
+VESTL,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),123757506.0
+VESTL,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-16043764.0
+VESTL,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-84901093.0
+VESTL,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-39004291.0
+VESTL,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-123905384.0
+VESTL,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,-16191642.0
+VESTL,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,203966216.0
+VESTL,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+VESTL,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+VESTL,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-205252988.0
+VESTL,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1286772.0
+VESTL,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-31203331.0
+VESTL,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1625372.0
+VESTL,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+VESTL,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-29577959.0
+VESTL,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+VESTL,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,84664510.0
+VESTL,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,55086552.0
+VESTL,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,1284936486.0
+VESTL,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,50673880.0
+VESTL,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2365926.0
+VESTL,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,418460184.0
+VESTL,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+VESTL,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,65813485.0
+VESTL,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2025/9,1AF,Stoklar,Inventories,651964523.0
+VESTL,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+VESTL,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,95658488.0
+VESTL,2025/9,1AI,(Ara Toplam),(Subtotal),1284936486.0
+VESTL,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+VESTL,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,3566610376.0
+VESTL,2025/9,1B,Ticari Alacaklar,Trade Receivables,54664.0
+VESTL,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+VESTL,2025/9,1BB,Diğer Alacaklar,Other Receivables,1401269143.0
+VESTL,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+VESTL,2025/9,1BC,Finansal Yatırımlar,Financial Investments,13065274.0
+VESTL,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+VESTL,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+VESTL,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,48222026.0
+VESTL,2025/9,1BFA,Stoklar,Stoklar,0.0
+VESTL,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,103002891.0
+VESTL,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1679845148.0
+VESTL,2025/9,1BGA,Şerefiye,Goodwill,0.0
+VESTL,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,216617639.0
+VESTL,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+VESTL,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,104533592.0
+VESTL,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4851546862.0
+VESTL,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+VESTL,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2852537757.0
+VESTL,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1310775992.0
+VESTL,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,35444812.0
+VESTL,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1180894266.0
+VESTL,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,6421013.0
+VESTL,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+VESTL,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+VESTL,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+VESTL,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,16327630.0
+VESTL,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2165357.0
+VESTL,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,111789253.0
+VESTL,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,188719434.0
+VESTL,2025/9,2AAGG,(Ara Toplam),(Subtotal),2852537757.0
+VESTL,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+VESTL,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,891286507.0
+VESTL,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,701666843.0
+VESTL,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,6579497.0
+VESTL,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,3444408.0
+VESTL,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+VESTL,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+VESTL,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+VESTL,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+VESTL,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+VESTL,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,69743492.0
+VESTL,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+VESTL,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,109681229.0
+VESTL,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,171037.0
+VESTL,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1107722598.0
+VESTL,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,898858894.0
+VESTL,2025/9,2OA,Ödenmiş Sermaye,Share Capital,8067414.0
+VESTL,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+VESTL,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+VESTL,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+VESTL,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,69394540.0
+VESTL,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,54578323.0
+VESTL,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),94144525.0
+VESTL,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-440051176.0
+VESTL,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1112725268.0
+VESTL,2025/9,2ODA,Azınlık Payları,Minority Interests,208863704.0
+VESTL,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4851546862.0
+VESTL,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+VESTL,2025/9,3C,Satış Gelirleri,Net Sales,2785228844.0
+VESTL,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-2302329647.0
+VESTL,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+VESTL,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,482899197.0
+VESTL,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+VESTL,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+VESTL,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+VESTL,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+VESTL,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),482899197.0
+VESTL,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-443091142.0
+VESTL,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-101196879.0
+VESTL,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-57088924.0
+VESTL,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,77717603.0
+VESTL,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-315848106.0
+VESTL,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+VESTL,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-356608250.0
+VESTL,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-118477747.0
+VESTL,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+VESTL,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+VESTL,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+VESTL,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-73168255.0
+VESTL,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-429776505.0
+VESTL,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),467742190.0
+VESTL,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-524055359.0
+VESTL,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+VESTL,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-486089673.0
+VESTL,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-7017593.0
+VESTL,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-134870.0
+VESTL,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-6882723.0
+VESTL,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+VESTL,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-493107266.0
+VESTL,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+VESTL,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+VESTL,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-493107266.0
+VESTL,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+VESTL,2025/9,3LB,Azınlık Payları,Minority Interests,-19521145.0
+VESTL,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,-473586121.0
+VESTL,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+VESTL,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+VESTL,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+VESTL,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+VESTL,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,158341889.0
+VESTL,2025/9,4BA,Kıdem Tazminatı,Severance Payments,24751367.0
+VESTL,2025/9,4BB,Finansman Giderleri,Financial Expenses,-524055359.0
+VESTL,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,1295680237.0
+VESTL,2025/9,4BD,Yurtdışı Satışlar,Export Sales,1808125846.0
+VESTL,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-547326053.0
+VESTL,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-547326053.0
+VESTL,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),1304548794.0
+VESTL,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,162620825.0
+VESTL,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-493107266.0
+VESTL,2025/9,4CAA,Düzeltmeler:,Adjustments:,172387272.0
+VESTL,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,158341889.0
+VESTL,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,51656617.0
+VESTL,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,230663136.0
+VESTL,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-320719994.0
+VESTL,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,505675730.0
+VESTL,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),184955736.0
+VESTL,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-22334912.0
+VESTL,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-124546384.0
+VESTL,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-35330633.0
+VESTL,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-159877017.0
+VESTL,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,2743808.0
+VESTL,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,288932969.0
+VESTL,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-443045.0
+VESTL,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+VESTL,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-307097312.0
+VESTL,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-18607388.0
+VESTL,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-34711281.0
+VESTL,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,945462.0
+VESTL,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+VESTL,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-33765819.0
+VESTL,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+VESTL,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,88300829.0
+VESTL,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,54535011.0
