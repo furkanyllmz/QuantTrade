@@ -36,10 +36,6 @@ ENV/
 # Environment variables
 .env
 
-# Data files
-data/
-!data/.gitkeep
-
 # Logs
 logs/
 *.log
