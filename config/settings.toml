@@ -9,7 +9,7 @@ description = "ML tabanlı kantitatif alım-satım sistemi - BIST100"
 [evds]
 # EVDS API veri çekme tarihleri (YYYY-MM-DD formatında)
 start_date = "2020-01-01"
-end_date = "2025-11-17"
+end_date = "2025-11-18"
 
 # EVDS Seri Kodları
 # Resmi EVDS Web Servis Kılavuzu (Nisan 2024) standartlarına göre

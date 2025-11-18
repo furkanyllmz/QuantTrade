@@ -81,44 +81,100 @@ def fetch_financial_reports(from_date, to_date, oid):
         "bdkReview": ""
     }
 
-    r = session.post(url, data=json.dumps(payload), timeout=20)
+    max_retries = 3
+    retry_count = 0
+    
+    while retry_count < max_retries:
+        try:
+            r = session.post(url, data=json.dumps(payload), timeout=20)
 
-    try:
-        data = r.json()
-    except:
-        print("❌ JSON parse edilemedi:", r.text[:300])
-        return []
+            try:
+                data = r.json()
+            except:
+                print("\n❌ JSON parse edilemedi!")
+                print(f"   Hata: {r.text[:300]}")
+                print(f"\n   ⏸ DURMAK KONUMUNDA - IP DEĞİŞTİR VE DEVAM ETMEK İÇİN ENTER'A BAS")
+                
+                # Kullanıcı ENTER'a basana kadar bekle
+                input("   (Bekleniyor... ENTER tuşuna basınız)")
+                
+                print("   ✓ Tekrar deneniyor...\n")
+                time.sleep(2)
+                retry_count += 1
+                continue
+            
+            # Başarılı response?
+            if not data:
+                print("\n❌ Boş response!")
+                print(f"   ⏸ DURMAK KONUMUNDA - IP DEĞİŞTİR VE DEVAM ETMEK İÇİN ENTER'A BAS")
+                
+                # Kullanıcı ENTER'a basana kadar bekle
+                input("   (Bekleniyor... ENTER tuşuna basınız)")
+                
+                print("   ✓ Tekrar deneniyor...\n")
+                time.sleep(2)
+                retry_count += 1
+                continue
 
-    # ---- API BAŞARISIZSA ----
-    if isinstance(data, dict) and (not data.get("success", True)):
-        print("❌ API hata:", data)
-        return []
+            # ---- API BAŞARISIZSA ----
+            if isinstance(data, dict) and (not data.get("success", True)):
+                print("❌ API hata:", data)
+                return []
 
-    if not isinstance(data, list):
-        print("❌ Beklenen list ama gelen:", type(data))
-        print(json.dumps(data, indent=2, ensure_ascii=False))
-        return []
+            if not isinstance(data, list):
+                print("❌ Beklenen list ama gelen:", type(data))
+                print(json.dumps(data, indent=2, ensure_ascii=False))
+                return []
 
-    results = []
+            results = []
 
-    for item in data:
-        if not isinstance(item, dict):
-            continue
+            for item in data:
+                if not isinstance(item, dict):
+                    continue
 
-        subject = (item.get("subject") or "").strip()
+                subject = (item.get("subject") or "").strip()
 
-        if "Finansal" not in subject:
-            continue
+                if "Finansal" not in subject:
+                    continue
 
-        results.append({
-            "index": item.get("disclosureIndex"),
-            "publishDate": item.get("publishDate"),
-            "ruleType": item.get("ruleType"),  # 3 Aylık, 6 Aylık, 9 Aylık, Yıllık
-            "summary": item.get("summary"),
-            "url": f"https://www.kap.org.tr/tr/Bildirim/{item.get('disclosureIndex')}"
-        })
+                results.append({
+                    "index": item.get("disclosureIndex"),
+                    "publishDate": item.get("publishDate"),
+                    "ruleType": item.get("ruleType"),  # 3 Aylık, 6 Aylık, 9 Aylık, Yıllık
+                    "summary": item.get("summary"),
+                    "url": f"https://www.kap.org.tr/tr/Bildirim/{item.get('disclosureIndex')}"
+                })
 
-    return results
+            return results
+            
+        except requests.exceptions.RequestException as e:
+            error_msg = str(e)
+            
+            # Ban/Rate limit hatası mı?
+            if "429" in error_msg or "403" in error_msg or "timeout" in error_msg.lower():
+                retry_count += 1
+                if retry_count < max_retries:
+                    print(f"\n⚠ Bağlantı hatası (deneme {retry_count}/{max_retries})!")
+                    print(f"   Hata: {error_msg}")
+                    print(f"\n   ⏸ DURMAK KONUMUNDA - IP DEĞİŞTİR VE DEVAM ETMEK İÇİN ENTER'A BAS")
+                    
+                    # Kullanıcı ENTER'a basana kadar bekle
+                    input("   (Bekleniyor... ENTER tuşuna basınız)")
+                    
+                    print("   ✓ Devam ediliyor...\n")
+                    time.sleep(2)
+                else:
+                    print(f"\n❌ {max_retries} deneme başarısız. Devam edilemiyor.")
+                    return []
+            else:
+                print(f"❌ Bilinmeyen hata: {e}")
+                return []
+        
+        except Exception as e:
+            print(f"❌ Beklenmeyen hata: {e}")
+            return []
+    
+    return []
 
 
 def load_symbol_oid_mapping():

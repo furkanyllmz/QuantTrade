@@ -1,12 +1,12 @@
 """
-BIST Hisse Veri Toplama Pipeline
-isyatirimhisse kütüphanesi kullanarak BIST'teki tüm hisseler için kapsamlı veri toplar.
+BIST Hisse Veri Toplama Pipeline - Tüm Dönemler
+isyatirimhisse kütüphanesi kullanarak BIST'teki her hisse için TÜM dönemlerin finansal verilerini ayrı CSV'lerde toplar.
 
 Gerekli kurulum:
 pip install isyatirimhisse pandas numpy
 
 Kullanım:
-python bist_data_collector.py
+python bist_data_collector_all_periods.py
 """
 
 import pandas as pd
@@ -17,6 +17,7 @@ import sys
 import os
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional, Any
+from pathlib import Path
 
 try:
     from isyatirimhisse import fetch_stock_data, fetch_financials
@@ -26,6 +27,10 @@ except ImportError:
     exit(1)
 
 # Proje config'inden import
+PROJECT_ROOT = Path(__file__).parent.parent.parent.parent
+OUTPUT_DIR = PROJECT_ROOT / "data" / "raw" / "financials"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
 try:
     sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
     from quanttrade.config import get_stock_symbols, get_stock_date_range
@@ -40,7 +45,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('bist_data_collector.log', encoding='utf-8'),
+        logging.FileHandler('bist_data_collector_all_periods.log', encoding='utf-8'),
         logging.StreamHandler()
     ]
 )
@@ -57,9 +62,10 @@ DEFAULT_BIST_SYMBOLS = [
 ]
 
 
-class BISTDataCollector:
+class BISTDataCollectorAllPeriods:
     """
     BIST hisse senetleri için kapsamlı veri toplama sistemi.
+    Her hisse için TÜM dönemlerin finansal verilerini ayrı CSV'lerde kaydeder.
     """
     
     def __init__(self, symbols: Optional[List[str]] = None):
@@ -70,7 +76,7 @@ class BISTDataCollector:
             symbols: Hisse sembolleri listesi (opsiyonel, yoksa config'den okunur)
         """
         logger.info("="*80)
-        logger.info("BIST Veri Toplama Pipeline Başlatılıyor")
+        logger.info("BIST Veri Toplama Pipeline Başlatılıyor (TÜM DÖNEMLER)")
         logger.info("="*80)
         
         # Sembolleri belirle: parametre > config > varsayılan
@@ -89,14 +95,25 @@ class BISTDataCollector:
             self.symbols = DEFAULT_BIST_SYMBOLS
             logger.info("Semboller: Varsayılan liste kullanılıyor")
         
-        self.results = []
+        # Tarih aralığını config'ten al
+        self.start_date = None
+        self.end_date = None
+        
+        if get_stock_date_range:
+            try:
+                self.start_date, self.end_date = get_stock_date_range()
+                logger.info(f"Tarih aralığı: {self.start_date} - {self.end_date}")
+            except Exception as e:
+                logger.warning(f"Tarih aralığı okunamadı: {e}")
+                self.start_date = None
+                self.end_date = None
         
         logger.info(f"Toplam {len(self.symbols)} hisse işlenecek")
         logger.info(f"İlk 10 sembol: {', '.join(self.symbols[:10])}")
         if len(self.symbols) > 10:
             logger.info(f"... ve {len(self.symbols) - 10} sembol daha")
     
-    def get_financial_data(self, symbol: str) -> pd.DataFrame:
+    def get_financial_data_all_periods(self, symbol: str) -> pd.DataFrame:
         """
         Bir hisse için TÜM dönemlerin finansal verilerini getir.
         
@@ -154,7 +171,7 @@ class BISTDataCollector:
             # Dönemleri sırala
             period_cols = sorted(period_cols, key=lambda x: tuple(map(int, x.split('/'))))
             
-            logger.debug(f"{symbol}: {len(period_cols)} dönem bulundu: {period_cols[:3]}...{period_cols[-3:]}")
+            logger.info(f"{symbol}: {len(period_cols)} dönem bulundu ({period_cols[0]} - {period_cols[-1]})")
             
             # FINANCIAL_ITEM_NAME_TR veya FINANCIAL_ITEM_NAME_EN sütununu bul
             item_name_col = None
@@ -165,83 +182,148 @@ class BISTDataCollector:
             
             if item_name_col is None:
                 logger.warning(f"{symbol}: Kalem adı sütunu bulunamadı")
-                return result
+                return pd.DataFrame()
             
             # DataFrame'i set_index yap
             df = financials.set_index(item_name_col)
             
-            # Kalem arama fonksiyonu
-            def find_item_value(aliases: List[str]) -> Optional[float]:
-                """Verilen aliaslardan birini içeren satırı bul ve değeri döndür"""
-                for alias in aliases:
-                    for idx in df.index:
-                        if pd.notna(idx) and alias.upper() in str(idx).upper():
-                            try:
-                                val = df.loc[idx, latest_period]
-                                numeric_val = self._safe_numeric(val)
-                                if numeric_val is not None:
-                                    logger.debug(f"{symbol}: {alias} bulundu: {idx} = {numeric_val}")
-                                    return numeric_val
-                            except Exception as e:
-                                logger.debug(f"{symbol}: {alias} parse hatası: {e}")
-                                continue
-                return None
+            # Her dönem için veri topla
+            all_periods_data = []
             
-            # Net Kar (Net Dönem Karı/Zararı)
-            result['net_profit'] = find_item_value([
-                'NET DÖNEM KARI',
-                'NET DÖNEM ZARARI', 
-                'NET KAR',
-                'NET PROFIT',
-                'NET INCOME',
-                'DÖNEM KARI',
-                'DÖNEM NET KARI'
-            ])
+            for period in period_cols:
+                period_data = {
+                    'ticker': symbol,
+                    'period': period,
+                    'net_profit': None,
+                    'sales': None,
+                    'total_debt': None,
+                    'total_equity': None,
+                }
+                
+                # Kalem arama fonksiyonu - bu dönem için
+                def find_item_value(aliases: List[str]) -> Optional[float]:
+                    """Verilen aliaslardan birini içeren satırı bul ve değeri döndür"""
+                    for alias in aliases:
+                        for idx in df.index:
+                            if pd.notna(idx) and alias.upper() in str(idx).upper():
+                                try:
+                                    val = df.loc[idx, period]
+                                    numeric_val = self._safe_numeric(val)
+                                    if numeric_val is not None:
+                                        return numeric_val
+                                except Exception:
+                                    continue
+                    return None
+                
+                # Net Kar (Net Dönem Karı/Zararı)
+                period_data['net_profit'] = find_item_value([
+                    'NET DÖNEM KARI',
+                    'NET DÖNEM ZARARI', 
+                    'NET KAR',
+                    'DÖNEM KARI',
+                    'DÖNEM NET KARI'
+                ])
+                
+                # Satışlar (Net Satışlar, Hasılat) - Bankalar için Faiz Geliri de ekle
+                period_data['sales'] = find_item_value([
+                    'NET SATIŞLAR',
+                    'SATIŞLAR',
+                    'HASILAT',
+                    'BRÜT SATIŞLAR',
+                    'NET FAİZ GELİRİ',  # Bankalar için
+                    'FAİZ GELİRİ',
+                    'TOPLAM GELİRLER',
+                    'TOPLAM FAİZ GELİRİ'
+                ])
+                
+                # Toplam Borç (Kısa + Uzun Vadeli Borçlanmalar)
+                period_data['total_debt'] = find_item_value([
+                    'TOPLAM BORÇLAR',
+                    'FINANSAL BORÇLAR',
+                    'TOPLAM YÜKÜMLÜLÜKLER',
+                    'KISA VADELİ BORÇLAR',
+                    'UZUN VADELİ BORÇLAR',
+                    'BORÇLAR TOPLAMI'
+                ])
+                
+                # Özkaynak
+                period_data['total_equity'] = find_item_value([
+                    'ÖZKAYNAKLAR',
+                    'ANA ORTAKLIK PAYINA AİT ÖZKAYNAKLAR',
+                    'ÖZKAYNAK TOPLAMI',
+                    'TOPLAM ÖZKAYNAKLAR'
+                ])
+                
+                all_periods_data.append(period_data)
             
-            # Satışlar (Net Satışlar, Hasılat) - Bankalar için Faiz Geliri de ekle
-            result['sales'] = find_item_value([
-                'NET SATIŞLAR',
-                'SATIŞLAR',
-                'HASILAT',
-                'SALES',
-                'REVENUE',
-                'NET SALES',
-                'BRÜT SATIŞLAR',
-                'NET FAİZ GELİRİ',  # Bankalar için
-                'FAİZ GELİRİ',
-                'TOPLAM GELİRLER',
-                'TOPLAM FAİZ GELİRİ',
-                'NET INTEREST INCOME'
-            ])
+            result_df = pd.DataFrame(all_periods_data)
+            logger.info(f"✓ {symbol}: {len(result_df)} dönem bulundu")
             
-            # Toplam Borç (Kısa + Uzun Vadeli Borçlanmalar)
-            result['total_debt'] = find_item_value([
-                'TOPLAM BORÇLAR',
-                'FINANSAL BORÇLAR',
-                'TOPLAM YÜKÜMLÜLÜKLER',
-                'KISA VADELİ BORÇLAR',
-                'UZUN VADELİ BORÇLAR',
-                'TOTAL DEBT',
-                'TOTAL LIABILITIES',
-                'BORÇLAR TOPLAMI'
-            ])
+            # Tarih aralığına göre filtrele
+            if self.start_date and self.end_date:
+                result_df = self._filter_by_date_range(result_df, self.start_date, self.end_date)
+                logger.info(f"  → Filtrelendikten sonra: {len(result_df)} dönem ({self.start_date} - {self.end_date})")
             
-            # Özkaynak
-            result['total_equity'] = find_item_value([
-                'ÖZKAYNAKLAR',
-                'ANA ORTAKLIK PAYINA AİT ÖZKAYNAKLAR',
-                'EQUITY',
-                'SHAREHOLDERS EQUITY',
-                'ÖZKAYNAK TOPLAMI',
-                'TOPLAM ÖZKAYNAKLAR'
-            ])
-            
-            logger.debug(f"{symbol}: Finansal veriler parse edildi: {result}")
-            return result
+            return result_df
             
         except Exception as e:
-            logger.warning(f"{symbol}: Finansal veri hatası - {e}")
-            return {}
+            logger.error(f"{symbol}: Finansal veri hatası - {e}")
+            return pd.DataFrame()
+    
+    def _filter_by_date_range(self, df: pd.DataFrame, start_date: str, end_date: str) -> pd.DataFrame:
+        """
+        DataFrame'i tarih aralığına göre filtrele.
+        
+        Args:
+            df: Filtrelenecek DataFrame (period sütunu olmalı)
+            start_date: Başlangıç tarihi (YYYY-MM-DD formatında)
+            end_date: Bitiş tarihi (YYYY-MM-DD formatında)
+            
+        Returns:
+            Filtrelenmiş DataFrame
+        """
+        try:
+            if df.empty or 'period' not in df.columns:
+                return df
+            
+            # Dönem sütununu datetime'a çevir (2024/12 -> 2024-12-31)
+            def period_to_date(period_str):
+                try:
+                    year, quarter = period_str.split('/')
+                    year = int(year)
+                    quarter = int(quarter)
+                    # Ayın son gününü al
+                    month = quarter * 3
+                    if month > 12:
+                        month = 12
+                    # Ayın son gütünü bul
+                    if month == 12:
+                        next_month_date = datetime(year + 1, 1, 1)
+                    else:
+                        next_month_date = datetime(year, month + 1, 1)
+                    last_day = (next_month_date - timedelta(days=1)).day
+                    return datetime(year, month, min(last_day, 31))
+                except:
+                    return None
+            
+            # Dönemleri datetime'a çevir
+            df['period_date'] = df['period'].apply(period_to_date)
+            
+            # Tarih aralığını parse et
+            start_dt = pd.to_datetime(start_date)
+            end_dt = pd.to_datetime(end_date)
+            
+            # Filtrele
+            mask = (df['period_date'] >= start_dt) & (df['period_date'] <= end_dt)
+            filtered_df = df[mask].copy()
+            
+            # Geçici sütunu sil
+            filtered_df = filtered_df.drop('period_date', axis=1)
+            
+            return filtered_df
+        except Exception as e:
+            logger.warning(f"Tarih filtreleme hatası: {e}")
+            return df
     
     def get_price_data(self, symbol: str) -> Dict[str, Any]:
         """
@@ -395,126 +477,127 @@ class BISTDataCollector:
         except (ValueError, TypeError):
             return None
     
-    def collect_stock_data(self, symbol: str) -> Dict[str, Any]:
+    def collect_stock_data(self, symbol: str, output_dir: str) -> int:
         """
-        Bir hisse için tüm verileri topla.
+        Bir hisse için tüm dönemlerin verilerini topla ve ayrı CSV'ye kaydet.
         
         Args:
             symbol: Hisse sembolü
+            output_dir: Çıktı dizini
             
         Returns:
-            Dict: Tüm veriler
+            int: Kaydedilen dönem sayısı
         """
         logger.info(f"İşleniyor: {symbol}")
         
-        # Başlangıç verileri
-        stock_data = {
-            'ticker': symbol,
-            'period': None,
-            'net_profit': None,
-            'sales': None,
-            'total_debt': None,
-            'total_equity': None,
-            'return_1y': None,
-            'return_3y': None,
-            'return_5y': None,
-            'current_price': None
-        }
-        
         try:
-            # Finansal verileri al
-            financial_data = self.get_financial_data(symbol)
-            stock_data.update(financial_data)
+            # TÜM dönemlerin finansal verilerini al
+            financial_df = self.get_financial_data_all_periods(symbol)
+            
+            if financial_df.empty:
+                logger.warning(f"✗ {symbol}: Finansal veri bulunamadı, atlanıyor")
+                return 0
             
             # Rate limiting
             time.sleep(1)
             
-            # Fiyat verileri al
+            # Fiyat verilerini al (tek seferlik - tüm dönemler için aynı)
             price_data = self.get_price_data(symbol)
-            stock_data.update(price_data)
             
-            logger.info(f"✓ {symbol}: Veriler toplandı")
+            # Fiyat verilerini her satıra ekle
+            for col, val in price_data.items():
+                financial_df[col] = val
+            
+            # CSV'ye kaydet - her hisse ayrı dosya
+            output_file = os.path.join(output_dir, f"{symbol}_financials_all_periods.csv")
+            financial_df.to_csv(output_file, index=False, encoding='utf-8')
+            
+            logger.info(f"✓ {symbol}: {len(financial_df)} dönem kaydedildi -> {output_file}")
+            
+            return len(financial_df)
             
         except Exception as e:
             logger.error(f"✗ {symbol}: Genel hata - {e}")
-        
-        return stock_data
+            return 0
     
-    def run(self, output_file: str = "bist_isyatirimhisse_full_dataset.csv"):
+    def run(self):
         """
         Tüm pipeline'ı çalıştır.
-        
-        Args:
-            output_file: Çıktı dosyası adı
         """
         start_time = time.time()
         
+        # Çıktı dizini
+        output_dir = str(OUTPUT_DIR)
+        
         logger.info(f"Toplam {len(self.symbols)} hisse için veri toplanacak")
+        logger.info(f"Tarih aralığı: {self.start_date} - {self.end_date}")
+        logger.info(f"Çıktı dizini: {output_dir}")
         logger.info("="*80)
+        
+        # İstatistikler
+        total_stocks = len(self.symbols)
+        successful_stocks = 0
+        total_periods = 0
         
         # Her hisse için veri topla
         for idx, symbol in enumerate(self.symbols, 1):
-            logger.info(f"[{idx}/{len(self.symbols)}] {symbol} işleniyor...")
+            logger.info(f"\n[{idx}/{total_stocks}] {symbol} işleniyor...")
             
-            stock_data = self.collect_stock_data(symbol)
-            self.results.append(stock_data)
+            periods_count = self.collect_stock_data(symbol, output_dir)
+            
+            if periods_count > 0:
+                successful_stocks += 1
+                total_periods += periods_count
             
             # Her 10 hissede bir ilerleme raporu
             if idx % 10 == 0:
                 elapsed = time.time() - start_time
                 avg_time = elapsed / idx
-                remaining = (len(self.symbols) - idx) * avg_time
-                logger.info(f"İlerleme: {idx}/{len(self.symbols)} - Kalan süre: ~{remaining/60:.1f} dakika")
+                remaining = (total_stocks - idx) * avg_time
+                logger.info(f"\n📊 İlerleme: {idx}/{total_stocks} - Kalan süre: ~{remaining/60:.1f} dakika")
+                logger.info(f"   Başarılı: {successful_stocks}, Toplam dönem: {total_periods}")
             
             # Rate limiting - API'yi yormamak için
             time.sleep(2)
         
-        # DataFrame oluştur
-        df = pd.DataFrame(self.results)
-        
-        # Çıktı dizini
-        output_dir = "/Users/furkanyilmaz/Desktop/QuantTrade/data/raw/stocks"
-        os.makedirs(output_dir, exist_ok=True)
-        output_path = os.path.join(output_dir, output_file)
-        
-        # CSV'ye kaydet
-        df.to_csv(output_path, index=False, encoding='utf-8')
-        
         elapsed_time = time.time() - start_time
         
         # Özet rapor
-        logger.info("="*80)
+        logger.info("\n" + "="*80)
         logger.info("İŞLEM TAMAMLANDI")
         logger.info("="*80)
-        logger.info(f"Toplam hisse: {len(self.symbols)}")
-        logger.info(f"Başarılı: {len(df)}")
+        logger.info(f"Toplam hisse: {total_stocks}")
+        logger.info(f"Başarılı hisse: {successful_stocks}")
+        logger.info(f"Başarısız hisse: {total_stocks - successful_stocks}")
+        logger.info(f"Toplam dönem sayısı: {total_periods}")
+        logger.info(f"Ortalama dönem/hisse: {total_periods/successful_stocks if successful_stocks > 0 else 0:.1f}")
+        logger.info(f"Tarih aralığı: {self.start_date} - {self.end_date}")
         logger.info(f"Toplam süre: {elapsed_time/60:.2f} dakika")
-        logger.info(f"Çıktı dosyası: {output_path}")
+        logger.info(f"Çıktı dizini: {output_dir}")
         logger.info("="*80)
         
-        # Özet istatistikler
-        logger.info("\nVERİ ÖZETİ:")
-        logger.info(f"- Finansal verisi olan: {df['net_profit'].notna().sum()} hisse")
-        logger.info(f"- Fiyat verisi olan: {df['current_price'].notna().sum()} hisse")
-        logger.info(f"- 1Y getiri verisi olan: {df['return_1y'].notna().sum()} hisse")
-        logger.info(f"- 3Y getiri verisi olan: {df['return_3y'].notna().sum()} hisse")
-        logger.info(f"- 5Y getiri verisi olan: {df['return_5y'].notna().sum()} hisse")
-        logger.info("="*80)
-        
-        # İlk birkaç satırı göster
-        logger.info("\nÖRNEK VERİLER:")
-        logger.info(f"\n{df.head(10).to_string()}")
+        # Oluşturulan dosyaları listele
+        logger.info("\n📁 Oluşturulan dosyalar:")
+        csv_files = [f for f in os.listdir(output_dir) if f.endswith('.csv')]
+        logger.info(f"Toplam {len(csv_files)} CSV dosyası oluşturuldu")
+        if len(csv_files) <= 10:
+            for f in csv_files:
+                logger.info(f"   - {f}")
+        else:
+            for f in csv_files[:5]:
+                logger.info(f"   - {f}")
+            logger.info(f"   ... ve {len(csv_files) - 5} dosya daha")
 
 
 def main():
     """Ana fonksiyon"""
-    logger.info("BIST Veri Toplama Pipeline başlatılıyor...")
+    logger.info("BIST Veri Toplama Pipeline başlatılıyor (TÜM DÖNEMLER)...")
     
     # Collector'ı başlat ve çalıştır
-    collector = BISTDataCollector()
+    collector = BISTDataCollectorAllPeriods()
     collector.run()
     
-    logger.info("\nİşlem tamamlandı!")
+    logger.info("\n🎉 İşlem tamamlandı!")
 
 
 if __name__ == "__main__":

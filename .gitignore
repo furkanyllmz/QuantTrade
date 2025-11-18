@@ -53,11 +53,9 @@ notebooks/.ipynb_checkpoints/
 Thumbs.db
 
 # Project specific
-*.csv
 *.parquet
 *.pkl
 *.joblib
 
-# Veri dosyaları - push yapılmayacak
-data/raw/ohlcv/
-data/raw/macro/*.csv
+
+
