@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+SNPAM,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,18426560.0
+SNPAM,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,5296401.0
+SNPAM,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SNPAM,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,2501188.0
+SNPAM,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SNPAM,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,1191705.0
+SNPAM,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2022/12,1AF,Stoklar,Inventories,3484191.0
+SNPAM,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SNPAM,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,5953075.0
+SNPAM,2022/12,1AI,(Ara Toplam),(Subtotal),18426560.0
+SNPAM,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SNPAM,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,44637875.0
+SNPAM,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+SNPAM,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SNPAM,2022/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+SNPAM,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2022/12,1BC,Finansal Yatırımlar,Financial Investments,13016872.0
+SNPAM,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,14604201.0
+SNPAM,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SNPAM,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1130021.0
+SNPAM,2022/12,1BFA,Stoklar,Stoklar,0.0
+SNPAM,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SNPAM,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,13733065.0
+SNPAM,2022/12,1BGA,Şerefiye,Goodwill,0.0
+SNPAM,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,17107.0
+SNPAM,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,2136609.0
+SNPAM,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
+SNPAM,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,63064434.0
+SNPAM,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+SNPAM,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4771773.0
+SNPAM,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,2792691.0
+SNPAM,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,777603.0
+SNPAM,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,45960.0
+SNPAM,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SNPAM,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SNPAM,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SNPAM,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+SNPAM,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),231773.0
+SNPAM,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,135572.0
+SNPAM,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,788174.0
+SNPAM,2022/12,2AAGG,(Ara Toplam),(Subtotal),4771773.0
+SNPAM,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SNPAM,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,5396379.0
+SNPAM,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,4331682.0
+SNPAM,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SNPAM,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SNPAM,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SNPAM,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SNPAM,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SNPAM,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+SNPAM,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1064697.0
+SNPAM,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SNPAM,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+SNPAM,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SNPAM,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,52896282.0
+SNPAM,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,52896282.0
+SNPAM,2022/12,2OA,Ödenmiş Sermaye,Share Capital,6939996.0
+SNPAM,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SNPAM,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SNPAM,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SNPAM,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SNPAM,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,4754852.0
+SNPAM,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4423713.0
+SNPAM,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-4990629.0
+SNPAM,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,41768351.0
+SNPAM,2022/12,2ODA,Azınlık Payları,Minority Interests,0.0
+SNPAM,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,63064434.0
+SNPAM,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SNPAM,2022/12,3C,Satış Gelirleri,Net Sales,39322338.0
+SNPAM,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-32939619.0
+SNPAM,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SNPAM,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,6382719.0
+SNPAM,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SNPAM,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SNPAM,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SNPAM,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),6382719.0
+SNPAM,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-205494.0
+SNPAM,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1925489.0
+SNPAM,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+SNPAM,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,4762368.0
+SNPAM,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-4251634.0
+SNPAM,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SNPAM,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,4762469.0
+SNPAM,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,4251735.0
+SNPAM,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,337589.0
+SNPAM,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-184477.0
+SNPAM,2022/12,3HAB,Diğer Gelir ve Giderler,nan,-9254.0
+SNPAM,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1615494.0
+SNPAM,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,6521821.0
+SNPAM,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),2792993.0
+SNPAM,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-10720199.0
+SNPAM,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,143858.0
+SNPAM,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-1405385.0
+SNPAM,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-4221122.0
+SNPAM,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1335992.0
+SNPAM,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-2885130.0
+SNPAM,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SNPAM,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-5626507.0
+SNPAM,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SNPAM,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SNPAM,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-5626507.0
+SNPAM,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SNPAM,2022/12,3LB,Azınlık Payları,Minority Interests,0.0
+SNPAM,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,-5626507.0
+SNPAM,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SNPAM,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SNPAM,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SNPAM,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SNPAM,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,2140458.0
+SNPAM,2022/12,4BA,Kıdem Tazminatı,Severance Payments,167035.0
+SNPAM,2022/12,4BB,Finansman Giderleri,Financial Expenses,-10720199.0
+SNPAM,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,40239722.0
+SNPAM,2022/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+SNPAM,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-3619167.0
+SNPAM,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-3619167.0
+SNPAM,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-3619167.0
+SNPAM,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-1173204.0
+SNPAM,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-5626507.0
+SNPAM,2022/12,4CAA,Düzeltmeler:,Adjustments:,10133084.0
+SNPAM,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2140458.0
+SNPAM,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,110444.0
+SNPAM,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,7882182.0
+SNPAM,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),4506577.0
+SNPAM,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-4236582.0
+SNPAM,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),269996.0
+SNPAM,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-1443199.0
+SNPAM,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-293077.0
+SNPAM,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-850832.0
+SNPAM,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1143909.0
+SNPAM,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,-2317113.0
+SNPAM,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,2441928.0
+SNPAM,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SNPAM,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SNPAM,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+SNPAM,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,2441928.0
+SNPAM,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,124816.0
+SNPAM,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,249570.0
+SNPAM,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SNPAM,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,374386.0
+SNPAM,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SNPAM,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,5571818.0
+SNPAM,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,5946204.0
+SNPAM,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,7647285.0
+SNPAM,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2190519.0
+SNPAM,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SNPAM,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1612126.0
+SNPAM,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SNPAM,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,41575.0
+SNPAM,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2022/3,1AF,Stoklar,Inventories,3077423.0
+SNPAM,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SNPAM,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,725643.0
+SNPAM,2022/3,1AI,(Ara Toplam),(Subtotal),7647285.0
+SNPAM,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SNPAM,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,14201428.0
+SNPAM,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+SNPAM,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SNPAM,2022/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+SNPAM,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2022/3,1BC,Finansal Yatırımlar,Financial Investments,3384745.0
+SNPAM,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,5993846.0
+SNPAM,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SNPAM,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,211020.0
+SNPAM,2022/3,1BFA,Stoklar,Stoklar,0.0
+SNPAM,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SNPAM,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3746698.0
+SNPAM,2022/3,1BGA,Şerefiye,Goodwill,0.0
+SNPAM,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,5362.0
+SNPAM,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,855498.0
+SNPAM,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,4259.0
+SNPAM,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,21848713.0
+SNPAM,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+SNPAM,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2339542.0
+SNPAM,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1015785.0
+SNPAM,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,397853.0
+SNPAM,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,39722.0
+SNPAM,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SNPAM,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SNPAM,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SNPAM,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+SNPAM,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),387532.0
+SNPAM,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,196482.0
+SNPAM,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,302168.0
+SNPAM,2022/3,2AAGG,(Ara Toplam),(Subtotal),2339542.0
+SNPAM,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SNPAM,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2111915.0
+SNPAM,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,1777696.0
+SNPAM,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SNPAM,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SNPAM,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SNPAM,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SNPAM,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SNPAM,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+SNPAM,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,334219.0
+SNPAM,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SNPAM,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+SNPAM,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SNPAM,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,17397256.0
+SNPAM,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,17397256.0
+SNPAM,2022/3,2OA,Ödenmiş Sermaye,Share Capital,8865551.0
+SNPAM,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SNPAM,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SNPAM,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SNPAM,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SNPAM,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,982106.0
+SNPAM,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5378039.0
+SNPAM,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1440122.0
+SNPAM,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,731439.0
+SNPAM,2022/3,2ODA,Azınlık Payları,Minority Interests,0.0
+SNPAM,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,21848713.0
+SNPAM,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SNPAM,2022/3,3C,Satış Gelirleri,Net Sales,4892450.0
+SNPAM,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-3090905.0
+SNPAM,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SNPAM,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1801544.0
+SNPAM,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SNPAM,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SNPAM,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SNPAM,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1801544.0
+SNPAM,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-27542.0
+SNPAM,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-329499.0
+SNPAM,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+SNPAM,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,847356.0
+SNPAM,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-307112.0
+SNPAM,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SNPAM,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1984747.0
+SNPAM,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1444503.0
+SNPAM,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,41761.0
+SNPAM,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SNPAM,2022/3,3HAB,Diğer Gelir ve Giderler,nan,-2505.0
+SNPAM,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,648329.0
+SNPAM,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,2672331.0
+SNPAM,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),246828.0
+SNPAM,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-371273.0
+SNPAM,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,39256.0
+SNPAM,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,2547886.0
+SNPAM,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-1036564.0
+SNPAM,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-412358.0
+SNPAM,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-624206.0
+SNPAM,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SNPAM,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1511321.0
+SNPAM,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SNPAM,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SNPAM,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1511321.0
+SNPAM,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SNPAM,2022/3,3LB,Azınlık Payları,Minority Interests,0.0
+SNPAM,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,1511321.0
+SNPAM,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SNPAM,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SNPAM,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SNPAM,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SNPAM,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,119225.0
+SNPAM,2022/3,4BA,Kıdem Tazminatı,Severance Payments,115928.0
+SNPAM,2022/3,4BB,Finansman Giderleri,Financial Expenses,-371273.0
+SNPAM,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,5152661.0
+SNPAM,2022/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+SNPAM,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,3087105.0
+SNPAM,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,2382917.0
+SNPAM,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),3087105.0
+SNPAM,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-136559.0
+SNPAM,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1511321.0
+SNPAM,2022/3,4CAA,Düzeltmeler:,Adjustments:,636700.0
+SNPAM,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,119225.0
+SNPAM,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,139198.0
+SNPAM,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,378277.0
+SNPAM,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2148022.0
+SNPAM,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-2275524.0
+SNPAM,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-127502.0
+SNPAM,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-9057.0
+SNPAM,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-2418.0
+SNPAM,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,45092.0
+SNPAM,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,42674.0
+SNPAM,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,-93885.0
+SNPAM,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,0.0
+SNPAM,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SNPAM,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SNPAM,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-277356.0
+SNPAM,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-277356.0
+SNPAM,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-371241.0
+SNPAM,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,224509.0
+SNPAM,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SNPAM,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-146731.0
+SNPAM,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SNPAM,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2447792.0
+SNPAM,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2301061.0
+SNPAM,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,8487862.0
+SNPAM,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1618705.0
+SNPAM,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SNPAM,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1879265.0
+SNPAM,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SNPAM,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,60622.0
+SNPAM,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2022/6,1AF,Stoklar,Inventories,4763253.0
+SNPAM,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SNPAM,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,166016.0
+SNPAM,2022/6,1AI,(Ara Toplam),(Subtotal),8487862.0
+SNPAM,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SNPAM,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,13627030.0
+SNPAM,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+SNPAM,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SNPAM,2022/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+SNPAM,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2022/6,1BC,Finansal Yatırımlar,Financial Investments,2973519.0
+SNPAM,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,5915243.0
+SNPAM,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SNPAM,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,177821.0
+SNPAM,2022/6,1BFA,Stoklar,Stoklar,0.0
+SNPAM,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SNPAM,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3384708.0
+SNPAM,2022/6,1BGA,Şerefiye,Goodwill,0.0
+SNPAM,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,4609.0
+SNPAM,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1146789.0
+SNPAM,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,24341.0
+SNPAM,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,22114892.0
+SNPAM,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+SNPAM,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2270282.0
+SNPAM,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,960544.0
+SNPAM,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,274560.0
+SNPAM,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,55031.0
+SNPAM,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SNPAM,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SNPAM,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SNPAM,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+SNPAM,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),533283.0
+SNPAM,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,140927.0
+SNPAM,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,305936.0
+SNPAM,2022/6,2AAGG,(Ara Toplam),(Subtotal),2270282.0
+SNPAM,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SNPAM,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1736923.0
+SNPAM,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,1422293.0
+SNPAM,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SNPAM,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SNPAM,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SNPAM,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SNPAM,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SNPAM,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+SNPAM,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,314630.0
+SNPAM,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SNPAM,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+SNPAM,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SNPAM,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,18107688.0
+SNPAM,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,18107688.0
+SNPAM,2022/6,2OA,Ödenmiş Sermaye,Share Capital,7788442.0
+SNPAM,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SNPAM,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SNPAM,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SNPAM,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SNPAM,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,1735784.0
+SNPAM,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3851643.0
+SNPAM,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),4089245.0
+SNPAM,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,642574.0
+SNPAM,2022/6,2ODA,Azınlık Payları,Minority Interests,0.0
+SNPAM,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,22114892.0
+SNPAM,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SNPAM,2022/6,3C,Satış Gelirleri,Net Sales,10504605.0
+SNPAM,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-6433988.0
+SNPAM,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SNPAM,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,4070617.0
+SNPAM,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SNPAM,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SNPAM,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SNPAM,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),4070617.0
+SNPAM,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-52343.0
+SNPAM,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-371098.0
+SNPAM,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+SNPAM,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1511266.0
+SNPAM,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-729694.0
+SNPAM,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SNPAM,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,4428748.0
+SNPAM,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,3647175.0
+SNPAM,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,39197.0
+SNPAM,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SNPAM,2022/6,3HAB,Diğer Gelir ve Giderler,nan,-758.0
+SNPAM,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1336895.0
+SNPAM,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,5804083.0
+SNPAM,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),402041.0
+SNPAM,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-652616.0
+SNPAM,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,38440.0
+SNPAM,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,5553507.0
+SNPAM,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-968493.0
+SNPAM,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-825751.0
+SNPAM,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-142741.0
+SNPAM,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SNPAM,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,4585014.0
+SNPAM,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SNPAM,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SNPAM,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,4585014.0
+SNPAM,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SNPAM,2022/6,3LB,Azınlık Payları,Minority Interests,0.0
+SNPAM,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,4585014.0
+SNPAM,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SNPAM,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SNPAM,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SNPAM,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SNPAM,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,224493.0
+SNPAM,2022/6,4BA,Kıdem Tazminatı,Severance Payments,132035.0
+SNPAM,2022/6,4BB,Finansman Giderleri,Financial Expenses,-652616.0
+SNPAM,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,10786503.0
+SNPAM,2022/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+SNPAM,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,1764663.0
+SNPAM,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,1764663.0
+SNPAM,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),1764663.0
+SNPAM,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-108244.0
+SNPAM,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,4585014.0
+SNPAM,2022/6,4CAA,Düzeltmeler:,Adjustments:,-369810.0
+SNPAM,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,224493.0
+SNPAM,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,131281.0
+SNPAM,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-725583.0
+SNPAM,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),4215205.0
+SNPAM,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-4029974.0
+SNPAM,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),185231.0
+SNPAM,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-293475.0
+SNPAM,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-210777.0
+SNPAM,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,50860.0
+SNPAM,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-159917.0
+SNPAM,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-268161.0
+SNPAM,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,0.0
+SNPAM,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SNPAM,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SNPAM,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-522099.0
+SNPAM,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-522099.0
+SNPAM,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-790259.0
+SNPAM,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,308450.0
+SNPAM,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SNPAM,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-481810.0
+SNPAM,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SNPAM,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2297520.0
+SNPAM,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1815711.0
+SNPAM,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,8984372.0
+SNPAM,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2640181.0
+SNPAM,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SNPAM,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,2213569.0
+SNPAM,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SNPAM,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,51334.0
+SNPAM,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2022/9,1AF,Stoklar,Inventories,3976720.0
+SNPAM,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SNPAM,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,102569.0
+SNPAM,2022/9,1AI,(Ara Toplam),(Subtotal),8984372.0
+SNPAM,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SNPAM,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,13571022.0
+SNPAM,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+SNPAM,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SNPAM,2022/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+SNPAM,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2022/9,1BC,Finansal Yatırımlar,Financial Investments,3266442.0
+SNPAM,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,5185748.0
+SNPAM,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SNPAM,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,155658.0
+SNPAM,2022/9,1BFA,Stoklar,Stoklar,0.0
+SNPAM,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SNPAM,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3089374.0
+SNPAM,2022/9,1BGA,Şerefiye,Goodwill,0.0
+SNPAM,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,4056.0
+SNPAM,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1846844.0
+SNPAM,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,22900.0
+SNPAM,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,22555394.0
+SNPAM,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+SNPAM,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2191443.0
+SNPAM,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,910770.0
+SNPAM,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,279513.0
+SNPAM,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,45509.0
+SNPAM,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SNPAM,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SNPAM,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SNPAM,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,140085.0
+SNPAM,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),164449.0
+SNPAM,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,129440.0
+SNPAM,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,521678.0
+SNPAM,2022/9,2AAGG,(Ara Toplam),(Subtotal),2191443.0
+SNPAM,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SNPAM,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1519823.0
+SNPAM,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1105503.0
+SNPAM,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SNPAM,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SNPAM,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SNPAM,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SNPAM,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SNPAM,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+SNPAM,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,414320.0
+SNPAM,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SNPAM,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+SNPAM,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SNPAM,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,18844128.0
+SNPAM,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,18844128.0
+SNPAM,2022/9,2OA,Ödenmiş Sermaye,Share Capital,7007293.0
+SNPAM,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SNPAM,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SNPAM,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SNPAM,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SNPAM,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,4777165.0
+SNPAM,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),783206.0
+SNPAM,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),5698338.0
+SNPAM,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,578126.0
+SNPAM,2022/9,2ODA,Azınlık Payları,Minority Interests,0.0
+SNPAM,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,22555394.0
+SNPAM,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SNPAM,2022/9,3C,Satış Gelirleri,Net Sales,14932136.0
+SNPAM,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-9459556.0
+SNPAM,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SNPAM,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,5472581.0
+SNPAM,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SNPAM,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SNPAM,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SNPAM,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),5472581.0
+SNPAM,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-82599.0
+SNPAM,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-631615.0
+SNPAM,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+SNPAM,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1901531.0
+SNPAM,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1619069.0
+SNPAM,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SNPAM,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,5040829.0
+SNPAM,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,4758367.0
+SNPAM,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,57751.0
+SNPAM,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SNPAM,2022/9,3HAB,Diğer Gelir ve Giderler,nan,-4409.0
+SNPAM,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1160318.0
+SNPAM,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,6254490.0
+SNPAM,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1093618.0
+SNPAM,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-696053.0
+SNPAM,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,53343.0
+SNPAM,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,6652054.0
+SNPAM,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-8725.0
+SNPAM,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-825435.0
+SNPAM,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,816709.0
+SNPAM,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SNPAM,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,6643329.0
+SNPAM,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SNPAM,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SNPAM,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,6643329.0
+SNPAM,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SNPAM,2022/9,3LB,Azınlık Payları,Minority Interests,0.0
+SNPAM,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,6643329.0
+SNPAM,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SNPAM,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SNPAM,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SNPAM,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SNPAM,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,318162.0
+SNPAM,2022/9,4BA,Kıdem Tazminatı,Severance Payments,264302.0
+SNPAM,2022/9,4BB,Finansman Giderleri,Financial Expenses,-696053.0
+SNPAM,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,15336240.0
+SNPAM,2022/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+SNPAM,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,568970.0
+SNPAM,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,568970.0
+SNPAM,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),568970.0
+SNPAM,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,930587.0
+SNPAM,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,6643329.0
+SNPAM,2022/9,4CAA,Düzeltmeler:,Adjustments:,-833290.0
+SNPAM,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,318162.0
+SNPAM,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,278911.0
+SNPAM,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-1430363.0
+SNPAM,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),5810038.0
+SNPAM,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-4161483.0
+SNPAM,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1648555.0
+SNPAM,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-717968.0
+SNPAM,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-351637.0
+SNPAM,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,103729.0
+SNPAM,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-247908.0
+SNPAM,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,682679.0
+SNPAM,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,0.0
+SNPAM,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SNPAM,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SNPAM,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-767812.0
+SNPAM,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-767812.0
+SNPAM,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-85132.0
+SNPAM,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1018249.0
+SNPAM,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SNPAM,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,933117.0
+SNPAM,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SNPAM,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2149309.0
+SNPAM,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3082427.0
+SNPAM,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,11839464.0
+SNPAM,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1848461.0
+SNPAM,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SNPAM,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,3397307.0
+SNPAM,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SNPAM,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,1043139.0
+SNPAM,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2023/12,1AF,Stoklar,Inventories,3551050.0
+SNPAM,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SNPAM,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,1999507.0
+SNPAM,2023/12,1AI,(Ara Toplam),(Subtotal),11839464.0
+SNPAM,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SNPAM,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,206292922.0
+SNPAM,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+SNPAM,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SNPAM,2023/12,1BB,Diğer Alacaklar,Other Receivables,319416.0
+SNPAM,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2023/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+SNPAM,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,45273322.0
+SNPAM,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SNPAM,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,122192323.0
+SNPAM,2023/12,1BFA,Stoklar,Stoklar,0.0
+SNPAM,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SNPAM,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,38315535.0
+SNPAM,2023/12,1BGA,Şerefiye,Goodwill,0.0
+SNPAM,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,14220.0
+SNPAM,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+SNPAM,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,178106.0
+SNPAM,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,218132386.0
+SNPAM,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+SNPAM,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,5416129.0
+SNPAM,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,2682838.0
+SNPAM,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,380111.0
+SNPAM,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1885041.0
+SNPAM,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SNPAM,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SNPAM,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SNPAM,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,152879.0
+SNPAM,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+SNPAM,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,79244.0
+SNPAM,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,236016.0
+SNPAM,2023/12,2AAGG,(Ara Toplam),(Subtotal),5416129.0
+SNPAM,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SNPAM,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,17962606.0
+SNPAM,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,319416.0
+SNPAM,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SNPAM,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SNPAM,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SNPAM,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SNPAM,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SNPAM,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+SNPAM,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,487992.0
+SNPAM,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SNPAM,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,17155198.0
+SNPAM,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SNPAM,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,194753651.0
+SNPAM,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,194753651.0
+SNPAM,2023/12,2OA,Ödenmiş Sermaye,Share Capital,4408080.0
+SNPAM,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SNPAM,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SNPAM,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SNPAM,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SNPAM,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,4319592.0
+SNPAM,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),133695212.0
+SNPAM,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),5455140.0
+SNPAM,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,46875627.0
+SNPAM,2023/12,2ODA,Azınlık Payları,Minority Interests,0.0
+SNPAM,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,218132386.0
+SNPAM,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SNPAM,2023/12,3C,Satış Gelirleri,Net Sales,31837324.0
+SNPAM,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-29383436.0
+SNPAM,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SNPAM,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2453888.0
+SNPAM,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SNPAM,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SNPAM,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SNPAM,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2453888.0
+SNPAM,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-239136.0
+SNPAM,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1875609.0
+SNPAM,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+SNPAM,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,5491566.0
+SNPAM,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-3255501.0
+SNPAM,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SNPAM,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2575208.0
+SNPAM,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,339143.0
+SNPAM,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,14009.0
+SNPAM,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SNPAM,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SNPAM,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,4363012.0
+SNPAM,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,6952229.0
+SNPAM,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1831931.0
+SNPAM,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),7359187.0
+SNPAM,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,14009.0
+SNPAM,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,16143347.0
+SNPAM,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-9391812.0
+SNPAM,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-607313.0
+SNPAM,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-8784500.0
+SNPAM,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SNPAM,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,6751534.0
+SNPAM,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SNPAM,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SNPAM,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,6751534.0
+SNPAM,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SNPAM,2023/12,3LB,Azınlık Payları,Minority Interests,0.0
+SNPAM,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,6751534.0
+SNPAM,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SNPAM,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SNPAM,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SNPAM,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SNPAM,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,2081954.0
+SNPAM,2023/12,4BA,Kıdem Tazminatı,Severance Payments,150104.0
+SNPAM,2023/12,4BB,Finansman Giderleri,Financial Expenses,7359187.0
+SNPAM,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,32173795.0
+SNPAM,2023/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+SNPAM,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1756072.0
+SNPAM,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1756072.0
+SNPAM,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1756072.0
+SNPAM,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,8694394.0
+SNPAM,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,6446205.0
+SNPAM,2023/12,4CAA,Düzeltmeler:,Adjustments:,423642.0
+SNPAM,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2081954.0
+SNPAM,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,430629.0
+SNPAM,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1139688.0
+SNPAM,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),6869847.0
+SNPAM,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,2740070.0
+SNPAM,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),9609916.0
+SNPAM,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-915523.0
+SNPAM,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-11935001.0
+SNPAM,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-7473923.0
+SNPAM,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-19408924.0
+SNPAM,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,-10714530.0
+SNPAM,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-4370328.0
+SNPAM,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SNPAM,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SNPAM,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,7876791.0
+SNPAM,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,3506463.0
+SNPAM,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-3723595.0
+SNPAM,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+SNPAM,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SNPAM,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-3723595.0
+SNPAM,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SNPAM,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,6011336.0
+SNPAM,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2287741.0
+SNPAM,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,8842487.0
+SNPAM,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1180499.0
+SNPAM,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SNPAM,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,2746035.0
+SNPAM,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SNPAM,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,260998.0
+SNPAM,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2023/3,1AF,Stoklar,Inventories,2863033.0
+SNPAM,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SNPAM,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,1791923.0
+SNPAM,2023/3,1AI,(Ara Toplam),(Subtotal),8842487.0
+SNPAM,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SNPAM,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,18519173.0
+SNPAM,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+SNPAM,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SNPAM,2023/3,1BB,Diğer Alacaklar,Other Receivables,493422.0
+SNPAM,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2023/3,1BC,Finansal Yatırımlar,Financial Investments,3158224.0
+SNPAM,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,7821484.0
+SNPAM,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SNPAM,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,142170.0
+SNPAM,2023/3,1BFA,Stoklar,Stoklar,0.0
+SNPAM,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SNPAM,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3195392.0
+SNPAM,2023/3,1BGA,Şerefiye,Goodwill,0.0
+SNPAM,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3745.0
+SNPAM,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1814803.0
+SNPAM,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1889933.0
+SNPAM,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,27361661.0
+SNPAM,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+SNPAM,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3306955.0
+SNPAM,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1730330.0
+SNPAM,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,292883.0
+SNPAM,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,27782.0
+SNPAM,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SNPAM,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SNPAM,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SNPAM,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+SNPAM,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),118665.0
+SNPAM,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,132969.0
+SNPAM,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1004325.0
+SNPAM,2023/3,2AAGG,(Ara Toplam),(Subtotal),3306955.0
+SNPAM,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SNPAM,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2515332.0
+SNPAM,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,2161482.0
+SNPAM,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SNPAM,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SNPAM,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SNPAM,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SNPAM,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SNPAM,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+SNPAM,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,353849.0
+SNPAM,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SNPAM,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+SNPAM,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SNPAM,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,21539374.0
+SNPAM,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,21539374.0
+SNPAM,2023/3,2OA,Ödenmiş Sermaye,Share Capital,6775138.0
+SNPAM,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SNPAM,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SNPAM,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SNPAM,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SNPAM,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,4618895.0
+SNPAM,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),9289826.0
+SNPAM,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),501574.0
+SNPAM,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,353940.0
+SNPAM,2023/3,2ODA,Azınlık Payları,Minority Interests,0.0
+SNPAM,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,27361661.0
+SNPAM,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SNPAM,2023/3,3C,Satış Gelirleri,Net Sales,18527851.0
+SNPAM,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-14136131.0
+SNPAM,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SNPAM,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,4391720.0
+SNPAM,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SNPAM,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SNPAM,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SNPAM,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),4391720.0
+SNPAM,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-125970.0
+SNPAM,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-688786.0
+SNPAM,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+SNPAM,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1388807.0
+SNPAM,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-490825.0
+SNPAM,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SNPAM,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,4474946.0
+SNPAM,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,3576964.0
+SNPAM,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+SNPAM,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SNPAM,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SNPAM,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-2651470.0
+SNPAM,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1823476.0
+SNPAM,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),267680.0
+SNPAM,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-15930532.0
+SNPAM,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+SNPAM,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-13839376.0
+SNPAM,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-500041.0
+SNPAM,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-412700.0
+SNPAM,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-87341.0
+SNPAM,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SNPAM,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-14339417.0
+SNPAM,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SNPAM,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SNPAM,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-14339417.0
+SNPAM,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SNPAM,2023/3,3LB,Azınlık Payları,Minority Interests,0.0
+SNPAM,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,-14339417.0
+SNPAM,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SNPAM,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SNPAM,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SNPAM,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SNPAM,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,103711.0
+SNPAM,2023/3,4BA,Kıdem Tazminatı,Severance Payments,23895.0
+SNPAM,2023/3,4BB,Finansman Giderleri,Financial Expenses,-15930532.0
+SNPAM,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,9431013.0
+SNPAM,2023/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+SNPAM,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-751960.0
+SNPAM,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-751960.0
+SNPAM,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-751960.0
+SNPAM,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-3942979.0
+SNPAM,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-6239004.0
+SNPAM,2023/3,4CAA,Düzeltmeler:,Adjustments:,4964580.0
+SNPAM,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,103711.0
+SNPAM,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,447993.0
+SNPAM,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1865194.0
+SNPAM,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-1274423.0
+SNPAM,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1792320.0
+SNPAM,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-3066744.0
+SNPAM,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-876235.0
+SNPAM,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-338697.0
+SNPAM,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,4637093.0
+SNPAM,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,4298397.0
+SNPAM,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,355418.0
+SNPAM,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-1467623.0
+SNPAM,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SNPAM,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SNPAM,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-61340.0
+SNPAM,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1528963.0
+SNPAM,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-4043668.0
+SNPAM,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+SNPAM,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SNPAM,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-4043668.0
+SNPAM,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SNPAM,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,6042075.0
+SNPAM,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1998407.0
+SNPAM,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,6874774.0
+SNPAM,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,569590.0
+SNPAM,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SNPAM,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,3034165.0
+SNPAM,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SNPAM,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,204782.0
+SNPAM,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2023/6,1AF,Stoklar,Inventories,2778362.0
+SNPAM,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SNPAM,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,287875.0
+SNPAM,2023/6,1AI,(Ara Toplam),(Subtotal),6874774.0
+SNPAM,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SNPAM,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,15229043.0
+SNPAM,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+SNPAM,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SNPAM,2023/6,1BB,Diğer Alacaklar,Other Receivables,318643.0
+SNPAM,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2023/6,1BC,Finansal Yatırımlar,Financial Investments,2342493.0
+SNPAM,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,6355795.0
+SNPAM,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SNPAM,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,102655.0
+SNPAM,2023/6,1BFA,Stoklar,Stoklar,0.0
+SNPAM,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SNPAM,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2890259.0
+SNPAM,2023/6,1BGA,Şerefiye,Goodwill,0.0
+SNPAM,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2712.0
+SNPAM,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1906936.0
+SNPAM,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1309549.0
+SNPAM,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,22103817.0
+SNPAM,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+SNPAM,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2390312.0
+SNPAM,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1577792.0
+SNPAM,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,205077.0
+SNPAM,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,26710.0
+SNPAM,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SNPAM,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SNPAM,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SNPAM,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+SNPAM,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),118938.0
+SNPAM,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,89221.0
+SNPAM,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,372574.0
+SNPAM,2023/6,2AAGG,(Ara Toplam),(Subtotal),2390312.0
+SNPAM,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SNPAM,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1658410.0
+SNPAM,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,1383964.0
+SNPAM,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SNPAM,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SNPAM,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SNPAM,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SNPAM,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SNPAM,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+SNPAM,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,274446.0
+SNPAM,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SNPAM,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+SNPAM,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SNPAM,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,18055095.0
+SNPAM,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,18055095.0
+SNPAM,2023/6,2OA,Ödenmiş Sermaye,Share Capital,5025203.0
+SNPAM,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SNPAM,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SNPAM,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SNPAM,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SNPAM,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,1322584.0
+SNPAM,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),9002212.0
+SNPAM,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),2498908.0
+SNPAM,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,206188.0
+SNPAM,2023/6,2ODA,Azınlık Payları,Minority Interests,0.0
+SNPAM,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,22103817.0
+SNPAM,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SNPAM,2023/6,3C,Satış Gelirleri,Net Sales,18359176.0
+SNPAM,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-14302710.0
+SNPAM,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SNPAM,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,4056466.0
+SNPAM,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SNPAM,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SNPAM,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SNPAM,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),4056466.0
+SNPAM,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-135765.0
+SNPAM,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-711967.0
+SNPAM,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+SNPAM,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,2803067.0
+SNPAM,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1895088.0
+SNPAM,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SNPAM,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,4116712.0
+SNPAM,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,3208733.0
+SNPAM,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+SNPAM,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SNPAM,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SNPAM,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-649157.0
+SNPAM,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3467555.0
+SNPAM,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),279956.0
+SNPAM,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-8904881.0
+SNPAM,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+SNPAM,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-5157371.0
+SNPAM,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,810364.0
+SNPAM,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-510797.0
+SNPAM,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,1321161.0
+SNPAM,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SNPAM,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-4347007.0
+SNPAM,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SNPAM,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SNPAM,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-4347007.0
+SNPAM,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SNPAM,2023/6,3LB,Azınlık Payları,Minority Interests,0.0
+SNPAM,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,-4347007.0
+SNPAM,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SNPAM,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SNPAM,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SNPAM,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SNPAM,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,1141942.0
+SNPAM,2023/6,4BA,Kıdem Tazminatı,Severance Payments,325706.0
+SNPAM,2023/6,4BB,Finansman Giderleri,Financial Expenses,-8904881.0
+SNPAM,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,17062683.0
+SNPAM,2023/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+SNPAM,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,1931404.0
+SNPAM,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,1931404.0
+SNPAM,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),1931404.0
+SNPAM,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,113026.0
+SNPAM,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-2302620.0
+SNPAM,2023/6,4CAA,Düzeltmeler:,Adjustments:,7887319.0
+SNPAM,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1141942.0
+SNPAM,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,190846.0
+SNPAM,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,360395.0
+SNPAM,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),5584699.0
+SNPAM,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-4672949.0
+SNPAM,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),911751.0
+SNPAM,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-798724.0
+SNPAM,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1907130.0
+SNPAM,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,1797209.0
+SNPAM,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-109921.0
+SNPAM,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,3105.0
+SNPAM,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-1766910.0
+SNPAM,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SNPAM,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SNPAM,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+SNPAM,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1766910.0
+SNPAM,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-1763805.0
+SNPAM,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+SNPAM,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SNPAM,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-1763805.0
+SNPAM,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SNPAM,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,6249841.0
+SNPAM,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1277054.0
+SNPAM,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,6380180.0
+SNPAM,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,215232.0
+SNPAM,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SNPAM,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,3006925.0
+SNPAM,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SNPAM,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,173857.0
+SNPAM,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2023/9,1AF,Stoklar,Inventories,2571521.0
+SNPAM,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SNPAM,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,412646.0
+SNPAM,2023/9,1AI,(Ara Toplam),(Subtotal),6380180.0
+SNPAM,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SNPAM,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,17852159.0
+SNPAM,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+SNPAM,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SNPAM,2023/9,1BB,Diğer Alacaklar,Other Receivables,270741.0
+SNPAM,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2023/9,1BC,Finansal Yatırımlar,Financial Investments,2209559.0
+SNPAM,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,6285915.0
+SNPAM,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SNPAM,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,94593.0
+SNPAM,2023/9,1BFA,Stoklar,Stoklar,0.0
+SNPAM,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SNPAM,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,6047646.0
+SNPAM,2023/9,1BGA,Şerefiye,Goodwill,0.0
+SNPAM,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2497.0
+SNPAM,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1713640.0
+SNPAM,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1227568.0
+SNPAM,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,24232339.0
+SNPAM,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+SNPAM,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2210546.0
+SNPAM,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1499882.0
+SNPAM,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,169703.0
+SNPAM,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,26534.0
+SNPAM,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SNPAM,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SNPAM,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SNPAM,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+SNPAM,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),173777.0
+SNPAM,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,43303.0
+SNPAM,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,297348.0
+SNPAM,2023/9,2AAGG,(Ara Toplam),(Subtotal),2210546.0
+SNPAM,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SNPAM,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1307617.0
+SNPAM,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,981663.0
+SNPAM,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SNPAM,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SNPAM,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SNPAM,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SNPAM,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SNPAM,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+SNPAM,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,325955.0
+SNPAM,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SNPAM,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+SNPAM,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SNPAM,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,20714175.0
+SNPAM,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,20714175.0
+SNPAM,2023/9,2OA,Ödenmiş Sermaye,Share Capital,4740028.0
+SNPAM,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SNPAM,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SNPAM,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SNPAM,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SNPAM,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,1247528.0
+SNPAM,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),8471887.0
+SNPAM,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),3283608.0
+SNPAM,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2971123.0
+SNPAM,2023/9,2ODA,Azınlık Payları,Minority Interests,0.0
+SNPAM,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,24232339.0
+SNPAM,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SNPAM,2023/9,3C,Satış Gelirleri,Net Sales,23899453.0
+SNPAM,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-18277443.0
+SNPAM,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SNPAM,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,5622009.0
+SNPAM,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SNPAM,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SNPAM,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SNPAM,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),5622009.0
+SNPAM,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-192000.0
+SNPAM,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1126233.0
+SNPAM,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+SNPAM,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,4926687.0
+SNPAM,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-3793007.0
+SNPAM,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SNPAM,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,5437456.0
+SNPAM,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,4303777.0
+SNPAM,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+SNPAM,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SNPAM,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SNPAM,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1385142.0
+SNPAM,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,6822598.0
+SNPAM,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),350856.0
+SNPAM,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-8079029.0
+SNPAM,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+SNPAM,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-905575.0
+SNPAM,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,52130.0
+SNPAM,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-693351.0
+SNPAM,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,745481.0
+SNPAM,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SNPAM,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-853445.0
+SNPAM,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SNPAM,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SNPAM,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-853445.0
+SNPAM,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SNPAM,2023/9,3LB,Azınlık Payları,Minority Interests,0.0
+SNPAM,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,-853445.0
+SNPAM,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SNPAM,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SNPAM,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SNPAM,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SNPAM,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,1499408.0
+SNPAM,2023/9,4BA,Kıdem Tazminatı,Severance Payments,98660.0
+SNPAM,2023/9,4BB,Finansman Giderleri,Financial Expenses,-8079029.0
+SNPAM,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,23899453.0
+SNPAM,2023/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+SNPAM,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1473974.0
+SNPAM,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1473974.0
+SNPAM,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1473974.0
+SNPAM,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-2192198.0
+SNPAM,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-853445.0
+SNPAM,2023/9,4CAA,Düzeltmeler:,Adjustments:,-3666428.0
+SNPAM,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1499408.0
+SNPAM,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,-12136.0
+SNPAM,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,2645518.0
+SNPAM,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-4519873.0
+SNPAM,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,3044177.0
+SNPAM,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-1475696.0
+SNPAM,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-716502.0
+SNPAM,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1771850.0
+SNPAM,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,4011033.0
+SNPAM,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,2239184.0
+SNPAM,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,46986.0
+SNPAM,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-3851437.0
+SNPAM,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SNPAM,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SNPAM,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+SNPAM,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-3851437.0
+SNPAM,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-3804452.0
+SNPAM,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+SNPAM,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SNPAM,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-3804452.0
+SNPAM,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SNPAM,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,5574673.0
+SNPAM,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,397231.0
+SNPAM,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,11691579.0
+SNPAM,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2068679.0
+SNPAM,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SNPAM,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,5568639.0
+SNPAM,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SNPAM,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,338522.0
+SNPAM,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2024/12,1AF,Stoklar,Inventories,2722678.0
+SNPAM,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SNPAM,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,993061.0
+SNPAM,2024/12,1AI,(Ara Toplam),(Subtotal),11691579.0
+SNPAM,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SNPAM,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,221753511.0
+SNPAM,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+SNPAM,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SNPAM,2024/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+SNPAM,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2024/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+SNPAM,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,54570585.0
+SNPAM,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SNPAM,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,127886468.0
+SNPAM,2024/12,1BFA,Stoklar,Stoklar,0.0
+SNPAM,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SNPAM,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,39255614.0
+SNPAM,2024/12,1BGA,Şerefiye,Goodwill,0.0
+SNPAM,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,40844.0
+SNPAM,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+SNPAM,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
+SNPAM,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,233445089.0
+SNPAM,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+SNPAM,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4690601.0
+SNPAM,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,0.0
+SNPAM,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,808432.0
+SNPAM,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1140943.0
+SNPAM,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SNPAM,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SNPAM,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SNPAM,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2343200.0
+SNPAM,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+SNPAM,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,87444.0
+SNPAM,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,310582.0
+SNPAM,2024/12,2AAGG,(Ara Toplam),(Subtotal),4690601.0
+SNPAM,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SNPAM,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,22046792.0
+SNPAM,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
+SNPAM,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SNPAM,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SNPAM,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SNPAM,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SNPAM,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SNPAM,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,470399.0
+SNPAM,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,222309.0
+SNPAM,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SNPAM,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,21354084.0
+SNPAM,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SNPAM,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,206707697.0
+SNPAM,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,206707697.0
+SNPAM,2024/12,2OA,Ödenmiş Sermaye,Share Capital,3678156.0
+SNPAM,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SNPAM,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SNPAM,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SNPAM,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SNPAM,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,4579341.0
+SNPAM,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),145576282.0
+SNPAM,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),3096016.0
+SNPAM,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,48842562.0
+SNPAM,2024/12,2ODA,Azınlık Payları,Minority Interests,0.0
+SNPAM,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,233445089.0
+SNPAM,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SNPAM,2024/12,3C,Satış Gelirleri,Net Sales,29998766.0
+SNPAM,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-27231294.0
+SNPAM,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SNPAM,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2767473.0
+SNPAM,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SNPAM,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SNPAM,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SNPAM,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2767473.0
+SNPAM,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-235885.0
+SNPAM,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1496660.0
+SNPAM,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+SNPAM,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,2694217.0
+SNPAM,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1728484.0
+SNPAM,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SNPAM,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2000662.0
+SNPAM,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1034928.0
+SNPAM,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,100482.0
+SNPAM,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SNPAM,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SNPAM,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,808186.0
+SNPAM,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,2909330.0
+SNPAM,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),610378.0
+SNPAM,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),11078373.0
+SNPAM,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,100482.0
+SNPAM,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,14598082.0
+SNPAM,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-11269385.0
+SNPAM,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-12852.0
+SNPAM,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-11256533.0
+SNPAM,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SNPAM,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,3328697.0
+SNPAM,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SNPAM,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,3328697.0
+SNPAM,2024/12,3LB,Azınlık Payları,Minority Interests,0.0
+SNPAM,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,3328697.0
+SNPAM,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SNPAM,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SNPAM,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SNPAM,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SNPAM,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,2516555.0
+SNPAM,2024/12,4BA,Kıdem Tazminatı,Severance Payments,78261.0
+SNPAM,2024/12,4BB,Finansman Giderleri,Financial Expenses,11078373.0
+SNPAM,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,30137119.0
+SNPAM,2024/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+SNPAM,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,3053582.0
+SNPAM,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,3175948.0
+SNPAM,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),3175948.0
+SNPAM,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,12246343.0
+SNPAM,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,3328697.0
+SNPAM,2024/12,4CAA,Düzeltmeler:,Adjustments:,5401017.0
+SNPAM,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2516555.0
+SNPAM,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,192143.0
+SNPAM,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,3289726.0
+SNPAM,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),8729714.0
+SNPAM,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,3702902.0
+SNPAM,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),12432615.0
+SNPAM,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-186273.0
+SNPAM,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1635510.0
+SNPAM,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-7727711.0
+SNPAM,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-9363221.0
+SNPAM,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,2883121.0
+SNPAM,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-3378308.0
+SNPAM,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SNPAM,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SNPAM,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+SNPAM,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-3378308.0
+SNPAM,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,144157.0
+SNPAM,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+SNPAM,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SNPAM,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,144157.0
+SNPAM,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SNPAM,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2079994.0
+SNPAM,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2224150.0
+SNPAM,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,7270126.0
+SNPAM,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,868743.0
+SNPAM,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SNPAM,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,3470673.0
+SNPAM,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SNPAM,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,441268.0
+SNPAM,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2024/3,1AF,Stoklar,Inventories,940676.0
+SNPAM,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SNPAM,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,1548767.0
+SNPAM,2024/3,1AI,(Ara Toplam),(Subtotal),7270126.0
+SNPAM,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SNPAM,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,36469601.0
+SNPAM,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+SNPAM,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SNPAM,2024/3,1BB,Diğer Alacaklar,Other Receivables,148354.0
+SNPAM,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2024/3,1BC,Finansal Yatırımlar,Financial Investments,8674421.0
+SNPAM,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,9859413.0
+SNPAM,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SNPAM,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1355698.0
+SNPAM,2024/3,1BFA,Stoklar,Stoklar,0.0
+SNPAM,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SNPAM,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,15213759.0
+SNPAM,2024/3,1BGA,Şerefiye,Goodwill,0.0
+SNPAM,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,9996.0
+SNPAM,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1180491.0
+SNPAM,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,27469.0
+SNPAM,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,43739727.0
+SNPAM,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+SNPAM,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3251830.0
+SNPAM,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1336949.0
+SNPAM,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,334044.0
+SNPAM,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,991857.0
+SNPAM,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SNPAM,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SNPAM,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SNPAM,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,193122.0
+SNPAM,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+SNPAM,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,73036.0
+SNPAM,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,322822.0
+SNPAM,2024/3,2AAGG,(Ara Toplam),(Subtotal),3251830.0
+SNPAM,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SNPAM,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,554025.0
+SNPAM,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,364253.0
+SNPAM,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SNPAM,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SNPAM,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SNPAM,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SNPAM,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SNPAM,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+SNPAM,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,189772.0
+SNPAM,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SNPAM,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+SNPAM,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SNPAM,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,39933872.0
+SNPAM,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,39933872.0
+SNPAM,2024/3,2OA,Ödenmiş Sermaye,Share Capital,4019342.0
+SNPAM,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SNPAM,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SNPAM,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SNPAM,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SNPAM,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,3138940.0
+SNPAM,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-578738.0
+SNPAM,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),62849.0
+SNPAM,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,33291480.0
+SNPAM,2024/3,2ODA,Azınlık Payları,Minority Interests,0.0
+SNPAM,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,43739727.0
+SNPAM,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SNPAM,2024/3,3C,Satış Gelirleri,Net Sales,6900853.0
+SNPAM,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-6755079.0
+SNPAM,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SNPAM,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,145773.0
+SNPAM,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SNPAM,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SNPAM,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SNPAM,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),145773.0
+SNPAM,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-60584.0
+SNPAM,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-852838.0
+SNPAM,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+SNPAM,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,677151.0
+SNPAM,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-169022.0
+SNPAM,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SNPAM,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-259519.0
+SNPAM,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-767649.0
+SNPAM,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+SNPAM,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SNPAM,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SNPAM,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,360837.0
+SNPAM,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,101317.0
+SNPAM,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),165366.0
+SNPAM,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1306590.0
+SNPAM,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+SNPAM,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-1039907.0
+SNPAM,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-2295713.0
+SNPAM,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),447100.0
+SNPAM,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-2742813.0
+SNPAM,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SNPAM,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-3335619.0
+SNPAM,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SNPAM,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SNPAM,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-3335619.0
+SNPAM,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SNPAM,2024/3,3LB,Azınlık Payları,Minority Interests,0.0
+SNPAM,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,-3335619.0
+SNPAM,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SNPAM,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SNPAM,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SNPAM,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SNPAM,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,959255.0
+SNPAM,2024/3,4BA,Kıdem Tazminatı,Severance Payments,91709.0
+SNPAM,2024/3,4BB,Finansman Giderleri,Financial Expenses,-1306590.0
+SNPAM,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,6905909.0
+SNPAM,2024/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+SNPAM,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,0.0
+SNPAM,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,0.0
+SNPAM,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),0.0
+SNPAM,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-805773.0
+SNPAM,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-3335619.0
+SNPAM,2024/3,4CAA,Düzeltmeler:,Adjustments:,1219470.0
+SNPAM,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,959255.0
+SNPAM,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,137899.0
+SNPAM,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-2713122.0
+SNPAM,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-2116149.0
+SNPAM,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,1351740.0
+SNPAM,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-764409.0
+SNPAM,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-41364.0
+SNPAM,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-957419.0
+SNPAM,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,1716661.0
+SNPAM,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,759243.0
+SNPAM,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-46530.0
+SNPAM,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-693180.0
+SNPAM,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SNPAM,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SNPAM,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+SNPAM,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-693180.0
+SNPAM,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-739710.0
+SNPAM,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,55149.0
+SNPAM,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SNPAM,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-684561.0
+SNPAM,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SNPAM,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1937929.0
+SNPAM,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1253368.0
+SNPAM,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,7497649.0
+SNPAM,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,934770.0
+SNPAM,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SNPAM,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,2878006.0
+SNPAM,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SNPAM,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,341606.0
+SNPAM,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2024/6,1AF,Stoklar,Inventories,2660427.0
+SNPAM,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SNPAM,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,682841.0
+SNPAM,2024/6,1AI,(Ara Toplam),(Subtotal),7497649.0
+SNPAM,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SNPAM,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,37218554.0
+SNPAM,2024/6,1B,Ticari Alacaklar,Trade Receivables,284132.0
+SNPAM,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SNPAM,2024/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+SNPAM,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2024/6,1BC,Finansal Yatırımlar,Financial Investments,9248597.0
+SNPAM,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,7745472.0
+SNPAM,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SNPAM,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1445082.0
+SNPAM,2024/6,1BFA,Stoklar,Stoklar,0.0
+SNPAM,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SNPAM,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,16531052.0
+SNPAM,2024/6,1BGA,Şerefiye,Goodwill,0.0
+SNPAM,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,10358.0
+SNPAM,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1953861.0
+SNPAM,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
+SNPAM,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,44716203.0
+SNPAM,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+SNPAM,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3381987.0
+SNPAM,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1062995.0
+SNPAM,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,241435.0
+SNPAM,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,975908.0
+SNPAM,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SNPAM,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SNPAM,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SNPAM,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,755919.0
+SNPAM,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+SNPAM,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,59715.0
+SNPAM,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,286015.0
+SNPAM,2024/6,2AAGG,(Ara Toplam),(Subtotal),3381987.0
+SNPAM,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SNPAM,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1137833.0
+SNPAM,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,247894.0
+SNPAM,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SNPAM,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SNPAM,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SNPAM,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SNPAM,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SNPAM,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,687693.0
+SNPAM,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,202246.0
+SNPAM,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SNPAM,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+SNPAM,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SNPAM,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,40196383.0
+SNPAM,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,40196383.0
+SNPAM,2024/6,2OA,Ödenmiş Sermaye,Share Capital,3953134.0
+SNPAM,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SNPAM,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SNPAM,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SNPAM,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SNPAM,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,3346712.0
+SNPAM,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-617046.0
+SNPAM,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-2344983.0
+SNPAM,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,35858566.0
+SNPAM,2024/6,2ODA,Azınlık Payları,Minority Interests,0.0
+SNPAM,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,44716203.0
+SNPAM,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SNPAM,2024/6,3C,Satış Gelirleri,Net Sales,12173814.0
+SNPAM,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-11105475.0
+SNPAM,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SNPAM,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1068339.0
+SNPAM,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SNPAM,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SNPAM,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SNPAM,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1068339.0
+SNPAM,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-118740.0
+SNPAM,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-512536.0
+SNPAM,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+SNPAM,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1414612.0
+SNPAM,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1291795.0
+SNPAM,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SNPAM,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,559880.0
+SNPAM,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,437063.0
+SNPAM,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,112469.0
+SNPAM,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SNPAM,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SNPAM,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-495383.0
+SNPAM,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,176966.0
+SNPAM,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),306773.0
+SNPAM,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-3215878.0
+SNPAM,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,112469.0
+SNPAM,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-2732139.0
+SNPAM,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-1101801.0
+SNPAM,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),428064.0
+SNPAM,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-1529865.0
+SNPAM,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SNPAM,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-3833940.0
+SNPAM,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SNPAM,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SNPAM,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-3833940.0
+SNPAM,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SNPAM,2024/6,3LB,Azınlık Payları,Minority Interests,0.0
+SNPAM,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,-3833940.0
+SNPAM,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SNPAM,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SNPAM,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SNPAM,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SNPAM,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,1181358.0
+SNPAM,2024/6,4BA,Kıdem Tazminatı,Severance Payments,95184.0
+SNPAM,2024/6,4BB,Finansman Giderleri,Financial Expenses,-3215878.0
+SNPAM,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,12197953.0
+SNPAM,2024/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+SNPAM,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,2041978.0
+SNPAM,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,2041978.0
+SNPAM,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),2041978.0
+SNPAM,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,5067627.0
+SNPAM,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-3833940.0
+SNPAM,2024/6,4CAA,Düzeltmeler:,Adjustments:,6884569.0
+SNPAM,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1181358.0
+SNPAM,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,117626.0
+SNPAM,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1547933.0
+SNPAM,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),3050629.0
+SNPAM,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,2066911.0
+SNPAM,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),5117541.0
+SNPAM,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-49914.0
+SNPAM,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1614280.0
+SNPAM,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1401163.0
+SNPAM,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-3015444.0
+SNPAM,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,2052183.0
+SNPAM,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-2918680.0
+SNPAM,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SNPAM,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SNPAM,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+SNPAM,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-2918680.0
+SNPAM,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-866496.0
+SNPAM,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,167966.0
+SNPAM,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SNPAM,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-698530.0
+SNPAM,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SNPAM,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2011359.0
+SNPAM,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1312830.0
+SNPAM,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,8814390.0
+SNPAM,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,391644.0
+SNPAM,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SNPAM,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,3141695.0
+SNPAM,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SNPAM,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,345301.0
+SNPAM,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2024/9,1AF,Stoklar,Inventories,2850570.0
+SNPAM,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SNPAM,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,2085179.0
+SNPAM,2024/9,1AI,(Ara Toplam),(Subtotal),8814390.0
+SNPAM,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SNPAM,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,41603623.0
+SNPAM,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+SNPAM,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SNPAM,2024/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+SNPAM,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2024/9,1BC,Finansal Yatırımlar,Financial Investments,9691247.0
+SNPAM,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,10777751.0
+SNPAM,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SNPAM,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1513941.0
+SNPAM,2024/9,1BFA,Stoklar,Stoklar,0.0
+SNPAM,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SNPAM,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,17171994.0
+SNPAM,2024/9,1BGA,Şerefiye,Goodwill,0.0
+SNPAM,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,10540.0
+SNPAM,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,2419298.0
+SNPAM,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,18851.0
+SNPAM,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,50418012.0
+SNPAM,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+SNPAM,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4383939.0
+SNPAM,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,574869.0
+SNPAM,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,477994.0
+SNPAM,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,939251.0
+SNPAM,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SNPAM,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SNPAM,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SNPAM,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2061266.0
+SNPAM,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+SNPAM,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,76979.0
+SNPAM,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,253580.0
+SNPAM,2024/9,2AAGG,(Ara Toplam),(Subtotal),4383939.0
+SNPAM,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SNPAM,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,994485.0
+SNPAM,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,123935.0
+SNPAM,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SNPAM,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SNPAM,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SNPAM,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SNPAM,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SNPAM,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,661596.0
+SNPAM,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,208954.0
+SNPAM,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SNPAM,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+SNPAM,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SNPAM,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,45039588.0
+SNPAM,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,45039588.0
+SNPAM,2024/9,2OA,Ödenmiş Sermaye,Share Capital,3803116.0
+SNPAM,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SNPAM,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SNPAM,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SNPAM,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SNPAM,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,4387660.0
+SNPAM,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-1527349.0
+SNPAM,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),371666.0
+SNPAM,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,38004496.0
+SNPAM,2024/9,2ODA,Azınlık Payları,Minority Interests,0.0
+SNPAM,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,50418012.0
+SNPAM,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SNPAM,2024/9,3C,Satış Gelirleri,Net Sales,21626509.0
+SNPAM,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-19563174.0
+SNPAM,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SNPAM,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2063335.0
+SNPAM,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SNPAM,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SNPAM,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SNPAM,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2063335.0
+SNPAM,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-189137.0
+SNPAM,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-867248.0
+SNPAM,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+SNPAM,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,2182387.0
+SNPAM,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1911589.0
+SNPAM,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SNPAM,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1277747.0
+SNPAM,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1006950.0
+SNPAM,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,108745.0
+SNPAM,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SNPAM,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SNPAM,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,2353576.0
+SNPAM,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3740068.0
+SNPAM,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),470287.0
+SNPAM,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-3409363.0
+SNPAM,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,108745.0
+SNPAM,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,800992.0
+SNPAM,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-276386.0
+SNPAM,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),413889.0
+SNPAM,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-690275.0
+SNPAM,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SNPAM,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,524606.0
+SNPAM,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SNPAM,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SNPAM,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,524606.0
+SNPAM,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SNPAM,2024/9,3LB,Azınlık Payları,Minority Interests,0.0
+SNPAM,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,524606.0
+SNPAM,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SNPAM,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SNPAM,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SNPAM,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SNPAM,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,1884398.0
+SNPAM,2024/9,4BA,Kıdem Tazminatı,Severance Payments,27759.0
+SNPAM,2024/9,4BB,Finansman Giderleri,Financial Expenses,-3409363.0
+SNPAM,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,21626509.0
+SNPAM,2024/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+SNPAM,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,2219922.0
+SNPAM,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,2219922.0
+SNPAM,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),2219922.0
+SNPAM,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,3586703.0
+SNPAM,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,524606.0
+SNPAM,2024/9,4CAA,Düzeltmeler:,Adjustments:,-151347.0
+SNPAM,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1884398.0
+SNPAM,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,-182922.0
+SNPAM,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-1543478.0
+SNPAM,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),373259.0
+SNPAM,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,3472889.0
+SNPAM,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),3846148.0
+SNPAM,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-259445.0
+SNPAM,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-2126224.0
+SNPAM,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+SNPAM,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-2126224.0
+SNPAM,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,1460478.0
+SNPAM,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-2466788.0
+SNPAM,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SNPAM,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SNPAM,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+SNPAM,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-2466788.0
+SNPAM,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-1006309.0
+SNPAM,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-559104.0
+SNPAM,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SNPAM,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-1565413.0
+SNPAM,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SNPAM,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2118218.0
+SNPAM,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,552805.0
+SNPAM,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,9226488.0
+SNPAM,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1679930.0
+SNPAM,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SNPAM,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,4572701.0
+SNPAM,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SNPAM,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,261802.0
+SNPAM,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2025/3,1AF,Stoklar,Inventories,1816629.0
+SNPAM,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SNPAM,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,895427.0
+SNPAM,2025/3,1AI,(Ara Toplam),(Subtotal),9226488.0
+SNPAM,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SNPAM,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,177523593.0
+SNPAM,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+SNPAM,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SNPAM,2025/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+SNPAM,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2025/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+SNPAM,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,40686181.0
+SNPAM,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SNPAM,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,104833346.0
+SNPAM,2025/3,1BFA,Stoklar,Stoklar,0.0
+SNPAM,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SNPAM,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,31971361.0
+SNPAM,2025/3,1BGA,Şerefiye,Goodwill,0.0
+SNPAM,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,32704.0
+SNPAM,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+SNPAM,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
+SNPAM,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,186750081.0
+SNPAM,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+SNPAM,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3252095.0
+SNPAM,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,0.0
+SNPAM,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,237355.0
+SNPAM,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,850478.0
+SNPAM,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SNPAM,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SNPAM,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SNPAM,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1605600.0
+SNPAM,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),125169.0
+SNPAM,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,66948.0
+SNPAM,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,366546.0
+SNPAM,2025/3,2AAGG,(Ara Toplam),(Subtotal),3252095.0
+SNPAM,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SNPAM,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,17526154.0
+SNPAM,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
+SNPAM,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SNPAM,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SNPAM,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SNPAM,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SNPAM,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SNPAM,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,350349.0
+SNPAM,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,255808.0
+SNPAM,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SNPAM,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,16919996.0
+SNPAM,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SNPAM,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,165971832.0
+SNPAM,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,165971832.0
+SNPAM,2025/3,2OA,Ödenmiş Sermaye,Share Capital,3436090.0
+SNPAM,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SNPAM,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SNPAM,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SNPAM,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SNPAM,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,3753858.0
+SNPAM,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),121872273.0
+SNPAM,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-3508614.0
+SNPAM,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,40418225.0
+SNPAM,2025/3,2ODA,Azınlık Payları,Minority Interests,0.0
+SNPAM,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,186750081.0
+SNPAM,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SNPAM,2025/3,3C,Satış Gelirleri,Net Sales,5568030.0
+SNPAM,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-4896728.0
+SNPAM,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SNPAM,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,671301.0
+SNPAM,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SNPAM,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SNPAM,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SNPAM,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),671301.0
+SNPAM,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-38746.0
+SNPAM,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-349798.0
+SNPAM,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+SNPAM,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,612306.0
+SNPAM,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-101330.0
+SNPAM,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SNPAM,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,793732.0
+SNPAM,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,282757.0
+SNPAM,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+SNPAM,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SNPAM,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SNPAM,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,296459.0
+SNPAM,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1090191.0
+SNPAM,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),155035.0
+SNPAM,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-3716898.0
+SNPAM,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+SNPAM,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-2471672.0
+SNPAM,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-1189652.0
+SNPAM,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-130617.0
+SNPAM,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-1059035.0
+SNPAM,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SNPAM,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-3661324.0
+SNPAM,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SNPAM,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SNPAM,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-3661324.0
+SNPAM,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SNPAM,2025/3,3LB,Azınlık Payları,Minority Interests,0.0
+SNPAM,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,-3661324.0
+SNPAM,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SNPAM,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SNPAM,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SNPAM,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SNPAM,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,549199.0
+SNPAM,2025/3,4BA,Kıdem Tazminatı,Severance Payments,109558.0
+SNPAM,2025/3,4BB,Finansman Giderleri,Financial Expenses,-3716898.0
+SNPAM,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,5624900.0
+SNPAM,2025/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+SNPAM,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,2113913.0
+SNPAM,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,2113913.0
+SNPAM,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),2113913.0
+SNPAM,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-4070463.0
+SNPAM,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-3661324.0
+SNPAM,2025/3,4CAA,Düzeltmeler:,Adjustments:,-32526.0
+SNPAM,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,549199.0
+SNPAM,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,124002.0
+SNPAM,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-573950.0
+SNPAM,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-3693850.0
+SNPAM,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-495683.0
+SNPAM,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-4189532.0
+SNPAM,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,119069.0
+SNPAM,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-331397.0
+SNPAM,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,4223539.0
+SNPAM,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,3892142.0
+SNPAM,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-178321.0
+SNPAM,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,0.0
+SNPAM,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SNPAM,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SNPAM,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+SNPAM,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,0.0
+SNPAM,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-178321.0
+SNPAM,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,161788.0
+SNPAM,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SNPAM,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-16533.0
+SNPAM,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SNPAM,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1769581.0
+SNPAM,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1753048.0
+SNPAM,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,9287988.0
+SNPAM,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,503495.0
+SNPAM,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SNPAM,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,4650675.0
+SNPAM,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SNPAM,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,312514.0
+SNPAM,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2025/6,1AF,Stoklar,Inventories,3241690.0
+SNPAM,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SNPAM,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,579615.0
+SNPAM,2025/6,1AI,(Ara Toplam),(Subtotal),9287988.0
+SNPAM,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SNPAM,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,179316177.0
+SNPAM,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+SNPAM,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SNPAM,2025/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+SNPAM,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2025/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+SNPAM,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,41121503.0
+SNPAM,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SNPAM,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,105607147.0
+SNPAM,2025/6,1BFA,Stoklar,Stoklar,0.0
+SNPAM,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SNPAM,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,32555373.0
+SNPAM,2025/6,1BGA,Şerefiye,Goodwill,0.0
+SNPAM,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,32155.0
+SNPAM,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+SNPAM,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
+SNPAM,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,188604166.0
+SNPAM,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+SNPAM,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3167842.0
+SNPAM,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,0.0
+SNPAM,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,214334.0
+SNPAM,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,808208.0
+SNPAM,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SNPAM,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SNPAM,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SNPAM,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1732683.0
+SNPAM,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),109515.0
+SNPAM,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,57154.0
+SNPAM,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,245947.0
+SNPAM,2025/6,2AAGG,(Ara Toplam),(Subtotal),3167842.0
+SNPAM,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SNPAM,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,18497711.0
+SNPAM,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
+SNPAM,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SNPAM,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SNPAM,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SNPAM,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SNPAM,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SNPAM,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,332936.0
+SNPAM,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,249420.0
+SNPAM,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SNPAM,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,17915355.0
+SNPAM,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SNPAM,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,166938613.0
+SNPAM,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,166938613.0
+SNPAM,2025/6,2OA,Ödenmiş Sermaye,Share Capital,3265314.0
+SNPAM,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SNPAM,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SNPAM,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SNPAM,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SNPAM,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,3781566.0
+SNPAM,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),122771842.0
+SNPAM,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-3891348.0
+SNPAM,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,41011238.0
+SNPAM,2025/6,2ODA,Azınlık Payları,Minority Interests,0.0
+SNPAM,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,188604166.0
+SNPAM,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SNPAM,2025/6,3C,Satış Gelirleri,Net Sales,11164414.0
+SNPAM,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-9685144.0
+SNPAM,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SNPAM,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1479270.0
+SNPAM,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SNPAM,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SNPAM,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SNPAM,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1479270.0
+SNPAM,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-127532.0
+SNPAM,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-467610.0
+SNPAM,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+SNPAM,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1085812.0
+SNPAM,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-332413.0
+SNPAM,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SNPAM,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1637527.0
+SNPAM,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,884128.0
+SNPAM,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+SNPAM,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SNPAM,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SNPAM,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,929841.0
+SNPAM,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,2567368.0
+SNPAM,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),245391.0
+SNPAM,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-3883342.0
+SNPAM,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+SNPAM,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-1070583.0
+SNPAM,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-3062515.0
+SNPAM,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-116319.0
+SNPAM,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-2946196.0
+SNPAM,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SNPAM,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-4133098.0
+SNPAM,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SNPAM,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SNPAM,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-4133098.0
+SNPAM,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SNPAM,2025/6,3LB,Azınlık Payları,Minority Interests,0.0
+SNPAM,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,-4133098.0
+SNPAM,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SNPAM,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SNPAM,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SNPAM,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SNPAM,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,1139828.0
+SNPAM,2025/6,4BA,Kıdem Tazminatı,Severance Payments,105969.0
+SNPAM,2025/6,4BB,Finansman Giderleri,Financial Expenses,-3883342.0
+SNPAM,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,11353002.0
+SNPAM,2025/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+SNPAM,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,1806475.0
+SNPAM,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,1806475.0
+SNPAM,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),1806475.0
+SNPAM,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-4440791.0
+SNPAM,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-4133098.0
+SNPAM,2025/6,4CAA,Düzeltmeler:,Adjustments:,1477751.0
+SNPAM,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1139828.0
+SNPAM,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,108725.0
+SNPAM,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,3050176.0
+SNPAM,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-2655347.0
+SNPAM,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1581148.0
+SNPAM,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-4236495.0
+SNPAM,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-204296.0
+SNPAM,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1285312.0
+SNPAM,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,4187159.0
+SNPAM,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,2901848.0
+SNPAM,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,-1538944.0
+SNPAM,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,0.0
+SNPAM,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SNPAM,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SNPAM,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+SNPAM,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,0.0
+SNPAM,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-1538944.0
+SNPAM,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,259299.0
+SNPAM,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SNPAM,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-1279644.0
+SNPAM,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SNPAM,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1814418.0
+SNPAM,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,534774.0
+SNPAM,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,9766831.0
+SNPAM,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2423990.0
+SNPAM,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SNPAM,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,3348833.0
+SNPAM,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SNPAM,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,82272.0
+SNPAM,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2025/9,1AF,Stoklar,Inventories,3256662.0
+SNPAM,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SNPAM,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,655074.0
+SNPAM,2025/9,1AI,(Ara Toplam),(Subtotal),9766831.0
+SNPAM,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SNPAM,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,185523030.0
+SNPAM,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+SNPAM,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SNPAM,2025/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+SNPAM,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SNPAM,2025/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+SNPAM,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,43251462.0
+SNPAM,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SNPAM,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,108701776.0
+SNPAM,2025/9,1BFA,Stoklar,Stoklar,0.0
+SNPAM,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SNPAM,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,33537518.0
+SNPAM,2025/9,1BGA,Şerefiye,Goodwill,0.0
+SNPAM,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,32274.0
+SNPAM,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+SNPAM,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
+SNPAM,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,195289861.0
+SNPAM,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+SNPAM,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2191368.0
+SNPAM,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,0.0
+SNPAM,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,993021.0
+SNPAM,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,776741.0
+SNPAM,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SNPAM,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SNPAM,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SNPAM,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,45632.0
+SNPAM,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),43256.0
+SNPAM,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,48197.0
+SNPAM,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,284521.0
+SNPAM,2025/9,2AAGG,(Ara Toplam),(Subtotal),2191368.0
+SNPAM,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SNPAM,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,16941590.0
+SNPAM,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
+SNPAM,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SNPAM,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SNPAM,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SNPAM,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SNPAM,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SNPAM,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SNPAM,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,318771.0
+SNPAM,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,472038.0
+SNPAM,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SNPAM,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,16150781.0
+SNPAM,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SNPAM,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,176156904.0
+SNPAM,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,176156904.0
+SNPAM,2025/9,2OA,Ödenmiş Sermaye,Share Capital,9379148.0
+SNPAM,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SNPAM,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,30706.0
+SNPAM,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SNPAM,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SNPAM,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,3218507.0
+SNPAM,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),125172561.0
+SNPAM,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),557371.0
+SNPAM,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,37798609.0
+SNPAM,2025/9,2ODA,Azınlık Payları,Minority Interests,0.0
+SNPAM,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,195289861.0
+SNPAM,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SNPAM,2025/9,3C,Satış Gelirleri,Net Sales,16094392.0
+SNPAM,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-13625400.0
+SNPAM,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SNPAM,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2468992.0
+SNPAM,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SNPAM,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SNPAM,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SNPAM,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SNPAM,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2468992.0
+SNPAM,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-167683.0
+SNPAM,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-656926.0
+SNPAM,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+SNPAM,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1798861.0
+SNPAM,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1185800.0
+SNPAM,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SNPAM,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2257445.0
+SNPAM,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1644384.0
+SNPAM,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+SNPAM,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SNPAM,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SNPAM,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,2070977.0
+SNPAM,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,4328422.0
+SNPAM,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),414162.0
+SNPAM,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-2226230.0
+SNPAM,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+SNPAM,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,2516354.0
+SNPAM,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-1916508.0
+SNPAM,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-46553.0
+SNPAM,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-1869955.0
+SNPAM,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SNPAM,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,599847.0
+SNPAM,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SNPAM,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SNPAM,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,599847.0
+SNPAM,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SNPAM,2025/9,3LB,Azınlık Payları,Minority Interests,0.0
+SNPAM,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,599847.0
+SNPAM,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SNPAM,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SNPAM,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SNPAM,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SNPAM,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,1803185.0
+SNPAM,2025/9,4BA,Kıdem Tazminatı,Severance Payments,19552.0
+SNPAM,2025/9,4BB,Finansman Giderleri,Financial Expenses,-2226230.0
+SNPAM,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,16391918.0
+SNPAM,2025/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+SNPAM,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,3776854.0
+SNPAM,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,3776854.0
+SNPAM,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),3776854.0
+SNPAM,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,2317058.0
+SNPAM,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,599847.0
+SNPAM,2025/9,4CAA,Düzeltmeler:,Adjustments:,3606184.0
+SNPAM,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1803185.0
+SNPAM,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,171378.0
+SNPAM,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1389301.0
+SNPAM,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),4206031.0
+SNPAM,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1680522.0
+SNPAM,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2525509.0
+SNPAM,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-208450.0
+SNPAM,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1984345.0
+SNPAM,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+SNPAM,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1984345.0
+SNPAM,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,332713.0
+SNPAM,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,0.0
+SNPAM,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SNPAM,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SNPAM,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+SNPAM,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,0.0
+SNPAM,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,332713.0
+SNPAM,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,383654.0
+SNPAM,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SNPAM,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,716368.0
+SNPAM,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SNPAM,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1892348.0
+SNPAM,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2608715.0

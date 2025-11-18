@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+TTKOM,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,2345774877.0
+TTKOM,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,450803224.0
+TTKOM,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,429335148.0
+TTKOM,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,770399797.0
+TTKOM,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTKOM,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,13847427.0
+TTKOM,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,122715780.0
+TTKOM,2022/12,1AF,Stoklar,Inventories,74559310.0
+TTKOM,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTKOM,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,459630205.0
+TTKOM,2022/12,1AI,(Ara Toplam),(Subtotal),2321290893.0
+TTKOM,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,24483985.0
+TTKOM,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,7653374333.0
+TTKOM,2022/12,1B,Ticari Alacaklar,Trade Receivables,16336536.0
+TTKOM,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTKOM,2022/12,1BB,Diğer Alacaklar,Other Receivables,6505605.0
+TTKOM,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,3148996.0
+TTKOM,2022/12,1BC,Finansal Yatırımlar,Financial Investments,3850043.0
+TTKOM,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTKOM,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTKOM,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,6412289.0
+TTKOM,2022/12,1BFA,Stoklar,Stoklar,0.0
+TTKOM,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,314054879.0
+TTKOM,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4046275037.0
+TTKOM,2022/12,1BGA,Şerefiye,Goodwill,25976137.0
+TTKOM,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3110362481.0
+TTKOM,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,91792281.0
+TTKOM,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,28660047.0
+TTKOM,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9999149210.0
+TTKOM,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTKOM,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2335467649.0
+TTKOM,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1083561179.0
+TTKOM,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,834958360.0
+TTKOM,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,159620115.0
+TTKOM,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,102758488.0
+TTKOM,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTKOM,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TTKOM,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5939622.0
+TTKOM,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,67717329.0
+TTKOM,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,80912556.0
+TTKOM,2022/12,2AAGG,(Ara Toplam),(Subtotal),2335467649.0
+TTKOM,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTKOM,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3350773543.0
+TTKOM,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,2603892857.0
+TTKOM,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTKOM,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,5112855.0
+TTKOM,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,176661328.0
+TTKOM,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTKOM,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTKOM,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,216013720.0
+TTKOM,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTKOM,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,349092782.0
+TTKOM,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTKOM,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4312908018.0
+TTKOM,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4312908018.0
+TTKOM,2022/12,2OA,Ödenmiş Sermaye,Share Capital,186846039.0
+TTKOM,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTKOM,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTKOM,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTKOM,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,169659567.0
+TTKOM,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,145146167.0
+TTKOM,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1202437006.0
+TTKOM,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),368864403.0
+TTKOM,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2239954837.0
+TTKOM,2022/12,2ODA,Azınlık Payları,Minority Interests,0.0
+TTKOM,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9999149210.0
+TTKOM,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTKOM,2022/12,3C,Satış Gelirleri,Net Sales,5501105511.0
+TTKOM,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-4236358207.0
+TTKOM,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTKOM,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1264747304.0
+TTKOM,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTKOM,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTKOM,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTKOM,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1264747304.0
+TTKOM,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-542731218.0
+TTKOM,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-680463600.0
+TTKOM,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-58231681.0
+TTKOM,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,88671384.0
+TTKOM,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-153798517.0
+TTKOM,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTKOM,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-81806327.0
+TTKOM,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-16679195.0
+TTKOM,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,305021049.0
+TTKOM,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-8188740.0
+TTKOM,2022/12,3HAB,Diğer Gelir ve Giderler,nan,-22029056.0
+TTKOM,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTKOM,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,192996926.0
+TTKOM,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),400295198.0
+TTKOM,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-139275384.0
+TTKOM,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,274803253.0
+TTKOM,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,454016740.0
+TTKOM,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-38153752.0
+TTKOM,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-41425974.0
+TTKOM,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,3272222.0
+TTKOM,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTKOM,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,415862988.0
+TTKOM,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTKOM,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTKOM,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,415862988.0
+TTKOM,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTKOM,2022/12,3LB,Azınlık Payları,Minority Interests,0.0
+TTKOM,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,415862988.0
+TTKOM,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTKOM,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTKOM,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTKOM,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTKOM,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,1966232316.0
+TTKOM,2022/12,4BA,Kıdem Tazminatı,Severance Payments,17213651.0
+TTKOM,2022/12,4BB,Finansman Giderleri,Financial Expenses,-139275384.0
+TTKOM,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TTKOM,2022/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TTKOM,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-3133344534.0
+TTKOM,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-3152586953.0
+TTKOM,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),780546593.0
+TTKOM,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1919425726.0
+TTKOM,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,415862988.0
+TTKOM,2022/12,4CAA,Düzeltmeler:,Adjustments:,1986028692.0
+TTKOM,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1966232316.0
+TTKOM,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,136447399.0
+TTKOM,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-116651023.0
+TTKOM,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2401891680.0
+TTKOM,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-374826120.0
+TTKOM,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2027065560.0
+TTKOM,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-107639834.0
+TTKOM,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1285344462.0
+TTKOM,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-468926210.0
+TTKOM,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1754270671.0
+TTKOM,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,165155054.0
+TTKOM,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,270005724.0
+TTKOM,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-610342188.0
+TTKOM,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTKOM,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-64844015.0
+TTKOM,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-405180479.0
+TTKOM,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-240025425.0
+TTKOM,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-451241057.0
+TTKOM,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTKOM,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-691266482.0
+TTKOM,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTKOM,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1033632677.0
+TTKOM,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,342366195.0
+TTKOM,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,1746069151.0
+TTKOM,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,575451427.0
+TTKOM,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,228517885.0
+TTKOM,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,483636444.0
+TTKOM,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTKOM,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,6558325.0
+TTKOM,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,56600198.0
+TTKOM,2022/3,1AF,Stoklar,Inventories,38329867.0
+TTKOM,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTKOM,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,354427115.0
+TTKOM,2022/3,1AI,(Ara Toplam),(Subtotal),1743521260.0
+TTKOM,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,2547891.0
+TTKOM,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2588831179.0
+TTKOM,2022/3,1B,Ticari Alacaklar,Trade Receivables,16448801.0
+TTKOM,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTKOM,2022/3,1BB,Diğer Alacaklar,Other Receivables,2650731.0
+TTKOM,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,3319058.0
+TTKOM,2022/3,1BC,Finansal Yatırımlar,Financial Investments,996829.0
+TTKOM,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTKOM,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTKOM,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1027040.0
+TTKOM,2022/3,1BFA,Stoklar,Stoklar,0.0
+TTKOM,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,109239950.0
+TTKOM,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1295356566.0
+TTKOM,2022/3,1BGA,Şerefiye,Goodwill,3065025.0
+TTKOM,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,982072493.0
+TTKOM,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,171310192.0
+TTKOM,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3344495.0
+TTKOM,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4334900331.0
+TTKOM,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTKOM,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1700627886.0
+TTKOM,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,786019436.0
+TTKOM,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,354992601.0
+TTKOM,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,449382753.0
+TTKOM,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,48217888.0
+TTKOM,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTKOM,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TTKOM,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),9677158.0
+TTKOM,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,23337334.0
+TTKOM,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,29000716.0
+TTKOM,2022/3,2AAGG,(Ara Toplam),(Subtotal),1700627886.0
+TTKOM,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTKOM,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1922713404.0
+TTKOM,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,1702306884.0
+TTKOM,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTKOM,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,2927405.0
+TTKOM,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,101553040.0
+TTKOM,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTKOM,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTKOM,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,96368602.0
+TTKOM,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTKOM,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,8923040.0
+TTKOM,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,10634432.0
+TTKOM,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,711559041.0
+TTKOM,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,711559041.0
+TTKOM,2022/3,2OA,Ödenmiş Sermaye,Share Capital,238687899.0
+TTKOM,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTKOM,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTKOM,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTKOM,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,118286971.0
+TTKOM,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,26725816.0
+TTKOM,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),366810175.0
+TTKOM,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),38238892.0
+TTKOM,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-77190712.0
+TTKOM,2022/3,2ODA,Azınlık Payları,Minority Interests,0.0
+TTKOM,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4334900331.0
+TTKOM,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTKOM,2022/3,3C,Satış Gelirleri,Net Sales,677841177.0
+TTKOM,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-404543962.0
+TTKOM,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTKOM,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,273297215.0
+TTKOM,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTKOM,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTKOM,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTKOM,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),273297215.0
+TTKOM,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-55478297.0
+TTKOM,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-63674000.0
+TTKOM,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-6329347.0
+TTKOM,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,11933637.0
+TTKOM,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-30456128.0
+TTKOM,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTKOM,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,129293080.0
+TTKOM,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,147815570.0
+TTKOM,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,35145704.0
+TTKOM,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-256071.0
+TTKOM,2022/3,3HAB,Diğer Gelir ve Giderler,nan,-3535969.0
+TTKOM,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTKOM,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,160646744.0
+TTKOM,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),56538580.0
+TTKOM,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-196410296.0
+TTKOM,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,31353664.0
+TTKOM,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,20775028.0
+TTKOM,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,19354399.0
+TTKOM,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-10754193.0
+TTKOM,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,30108592.0
+TTKOM,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTKOM,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,40129427.0
+TTKOM,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTKOM,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTKOM,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,40129427.0
+TTKOM,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTKOM,2022/3,3LB,Azınlık Payları,Minority Interests,0.0
+TTKOM,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,40129427.0
+TTKOM,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTKOM,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTKOM,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTKOM,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTKOM,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,129901910.0
+TTKOM,2022/3,4BA,Kıdem Tazminatı,Severance Payments,19714172.0
+TTKOM,2022/3,4BB,Finansman Giderleri,Financial Expenses,-196410296.0
+TTKOM,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TTKOM,2022/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TTKOM,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1657802725.0
+TTKOM,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1664922328.0
+TTKOM,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),440384880.0
+TTKOM,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,51079931.0
+TTKOM,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,40129427.0
+TTKOM,2022/3,4CAA,Düzeltmeler:,Adjustments:,278842962.0
+TTKOM,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,129901910.0
+TTKOM,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,20978281.0
+TTKOM,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,127962770.0
+TTKOM,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),318972388.0
+TTKOM,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-227654032.0
+TTKOM,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),91318356.0
+TTKOM,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-40238425.0
+TTKOM,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-83677093.0
+TTKOM,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-221476051.0
+TTKOM,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-305153144.0
+TTKOM,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,-254073213.0
+TTKOM,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,298374778.0
+TTKOM,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TTKOM,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTKOM,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,23382686.0
+TTKOM,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,321757464.0
+TTKOM,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,67684251.0
+TTKOM,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,8393016.0
+TTKOM,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTKOM,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,76077267.0
+TTKOM,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTKOM,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,454091977.0
+TTKOM,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,530169244.0
+TTKOM,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,1472133554.0
+TTKOM,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,313383778.0
+TTKOM,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,258590232.0
+TTKOM,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,450874822.0
+TTKOM,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTKOM,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,7059683.0
+TTKOM,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,55033670.0
+TTKOM,2022/6,1AF,Stoklar,Inventories,50998119.0
+TTKOM,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTKOM,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,333954911.0
+TTKOM,2022/6,1AI,(Ara Toplam),(Subtotal),1469895216.0
+TTKOM,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,2238338.0
+TTKOM,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2435611932.0
+TTKOM,2022/6,1B,Ticari Alacaklar,Trade Receivables,10420276.0
+TTKOM,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTKOM,2022/6,1BB,Diğer Alacaklar,Other Receivables,2421726.0
+TTKOM,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,4894556.0
+TTKOM,2022/6,1BC,Finansal Yatırımlar,Financial Investments,1441161.0
+TTKOM,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTKOM,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTKOM,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,876919.0
+TTKOM,2022/6,1BFA,Stoklar,Stoklar,0.0
+TTKOM,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,111200618.0
+TTKOM,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1166109074.0
+TTKOM,2022/6,1BGA,Şerefiye,Goodwill,2692644.0
+TTKOM,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,897394646.0
+TTKOM,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,227666942.0
+TTKOM,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,10493368.0
+TTKOM,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3907745486.0
+TTKOM,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTKOM,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1402235163.0
+TTKOM,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,824194376.0
+TTKOM,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,364868076.0
+TTKOM,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,83970787.0
+TTKOM,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,54614292.0
+TTKOM,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTKOM,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TTKOM,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),8591970.0
+TTKOM,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,24372132.0
+TTKOM,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,41623531.0
+TTKOM,2022/6,2AAGG,(Ara Toplam),(Subtotal),1402235163.0
+TTKOM,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTKOM,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1783251015.0
+TTKOM,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,1570041219.0
+TTKOM,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTKOM,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,2952838.0
+TTKOM,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,97063817.0
+TTKOM,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTKOM,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTKOM,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,104917383.0
+TTKOM,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTKOM,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,3932025.0
+TTKOM,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,4343734.0
+TTKOM,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,722259307.0
+TTKOM,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,722259307.0
+TTKOM,2022/6,2OA,Ödenmiş Sermaye,Share Capital,209688822.0
+TTKOM,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTKOM,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTKOM,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTKOM,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,111609092.0
+TTKOM,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,23478797.0
+TTKOM,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),322244869.0
+TTKOM,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),116998634.0
+TTKOM,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-61760907.0
+TTKOM,2022/6,2ODA,Azınlık Payları,Minority Interests,0.0
+TTKOM,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3907745486.0
+TTKOM,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTKOM,2022/6,3C,Satış Gelirleri,Net Sales,1357131802.0
+TTKOM,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-822297494.0
+TTKOM,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTKOM,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,534834309.0
+TTKOM,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTKOM,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTKOM,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTKOM,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),534834309.0
+TTKOM,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-111513196.0
+TTKOM,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-123809163.0
+TTKOM,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-12522278.0
+TTKOM,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,22029091.0
+TTKOM,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-45677828.0
+TTKOM,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTKOM,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,263340935.0
+TTKOM,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,286989672.0
+TTKOM,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,96419139.0
+TTKOM,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1101999.0
+TTKOM,2022/6,3HAB,Diğer Gelir ve Giderler,nan,-5780707.0
+TTKOM,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTKOM,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,352877369.0
+TTKOM,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),161849109.0
+TTKOM,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-483598727.0
+TTKOM,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,89536434.0
+TTKOM,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,31127751.0
+TTKOM,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,100055500.0
+TTKOM,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-19735348.0
+TTKOM,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,119790848.0
+TTKOM,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTKOM,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,131183250.0
+TTKOM,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTKOM,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTKOM,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,131183250.0
+TTKOM,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTKOM,2022/6,3LB,Azınlık Payları,Minority Interests,0.0
+TTKOM,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,131183250.0
+TTKOM,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTKOM,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTKOM,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTKOM,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTKOM,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,250055956.0
+TTKOM,2022/6,4BA,Kıdem Tazminatı,Severance Payments,31280707.0
+TTKOM,2022/6,4BB,Finansman Giderleri,Financial Expenses,-483598727.0
+TTKOM,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TTKOM,2022/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TTKOM,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1909821512.0
+TTKOM,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1918980830.0
+TTKOM,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),513300832.0
+TTKOM,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,295094282.0
+TTKOM,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,131183250.0
+TTKOM,2022/6,4CAA,Düzeltmeler:,Adjustments:,442487627.0
+TTKOM,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,250055956.0
+TTKOM,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,34014645.0
+TTKOM,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,158417026.0
+TTKOM,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),573670877.0
+TTKOM,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-222055114.0
+TTKOM,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),351615763.0
+TTKOM,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-56521481.0
+TTKOM,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-225170267.0
+TTKOM,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-228290862.0
+TTKOM,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-453461129.0
+TTKOM,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-158366847.0
+TTKOM,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,269281114.0
+TTKOM,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-332820724.0
+TTKOM,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTKOM,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,38588426.0
+TTKOM,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-24951184.0
+TTKOM,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-183318031.0
+TTKOM,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,12230203.0
+TTKOM,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTKOM,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-171087828.0
+TTKOM,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTKOM,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,426214926.0
+TTKOM,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,255127098.0
+TTKOM,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,1473699473.0
+TTKOM,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,313914543.0
+TTKOM,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,285034956.0
+TTKOM,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,450199870.0
+TTKOM,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTKOM,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,8769519.0
+TTKOM,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,66698325.0
+TTKOM,2022/9,1AF,Stoklar,Inventories,57671153.0
+TTKOM,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTKOM,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,289397265.0
+TTKOM,2022/9,1AI,(Ara Toplam),(Subtotal),1471685631.0
+TTKOM,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,2013842.0
+TTKOM,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,2641252688.0
+TTKOM,2022/9,1B,Ticari Alacaklar,Trade Receivables,9904431.0
+TTKOM,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTKOM,2022/9,1BB,Diğer Alacaklar,Other Receivables,2377305.0
+TTKOM,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,2178028.0
+TTKOM,2022/9,1BC,Finansal Yatırımlar,Financial Investments,1296619.0
+TTKOM,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTKOM,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTKOM,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,766167.0
+TTKOM,2022/9,1BFA,Stoklar,Stoklar,0.0
+TTKOM,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,97983193.0
+TTKOM,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1441946356.0
+TTKOM,2022/9,1BGA,Şerefiye,Goodwill,2422583.0
+TTKOM,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,844477660.0
+TTKOM,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,227186895.0
+TTKOM,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,10713450.0
+TTKOM,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4114952162.0
+TTKOM,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTKOM,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1282416492.0
+TTKOM,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,717712334.0
+TTKOM,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,346845425.0
+TTKOM,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,89648719.0
+TTKOM,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,56526485.0
+TTKOM,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTKOM,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TTKOM,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3817843.0
+TTKOM,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,30585756.0
+TTKOM,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,37279931.0
+TTKOM,2022/9,2AAGG,(Ara Toplam),(Subtotal),1282416492.0
+TTKOM,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTKOM,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1784019437.0
+TTKOM,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1570078374.0
+TTKOM,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTKOM,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,2943548.0
+TTKOM,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,91809067.0
+TTKOM,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTKOM,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTKOM,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,98568464.0
+TTKOM,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTKOM,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,20619984.0
+TTKOM,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTKOM,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1048516233.0
+TTKOM,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1048516233.0
+TTKOM,2022/9,2OA,Ödenmiş Sermaye,Share Capital,188657888.0
+TTKOM,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTKOM,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTKOM,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTKOM,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,106308935.0
+TTKOM,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,21123970.0
+TTKOM,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),289925022.0
+TTKOM,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),168400558.0
+TTKOM,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,274099859.0
+TTKOM,2022/9,2ODA,Azınlık Payları,Minority Interests,0.0
+TTKOM,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4114952162.0
+TTKOM,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTKOM,2022/9,3C,Satış Gelirleri,Net Sales,2058365476.0
+TTKOM,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1248646185.0
+TTKOM,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTKOM,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,809719291.0
+TTKOM,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTKOM,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTKOM,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTKOM,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),809719291.0
+TTKOM,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-171367247.0
+TTKOM,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-184550764.0
+TTKOM,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-19547885.0
+TTKOM,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,32599184.0
+TTKOM,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-65136532.0
+TTKOM,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTKOM,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,401716046.0
+TTKOM,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,434253395.0
+TTKOM,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,152021146.0
+TTKOM,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1087530.0
+TTKOM,2022/9,3HAB,Diğer Gelir ve Giderler,nan,-8021804.0
+TTKOM,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTKOM,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,544627858.0
+TTKOM,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),206580814.0
+TTKOM,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-697102968.0
+TTKOM,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,142911812.0
+TTKOM,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,54105703.0
+TTKOM,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,142221752.0
+TTKOM,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-21133368.0
+TTKOM,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,163355121.0
+TTKOM,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTKOM,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,196327456.0
+TTKOM,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTKOM,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTKOM,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,196327456.0
+TTKOM,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTKOM,2022/9,3LB,Azınlık Payları,Minority Interests,0.0
+TTKOM,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,196327456.0
+TTKOM,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTKOM,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTKOM,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTKOM,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTKOM,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,361897289.0
+TTKOM,2022/9,4BA,Kıdem Tazminatı,Severance Payments,48231560.0
+TTKOM,2022/9,4BB,Finansman Giderleri,Financial Expenses,-697102968.0
+TTKOM,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TTKOM,2022/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TTKOM,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1801979999.0
+TTKOM,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1810800892.0
+TTKOM,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),583880605.0
+TTKOM,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,560421107.0
+TTKOM,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,196327456.0
+TTKOM,2022/9,4CAA,Düzeltmeler:,Adjustments:,655095389.0
+TTKOM,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,361897289.0
+TTKOM,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,51691533.0
+TTKOM,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,241506567.0
+TTKOM,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),851422845.0
+TTKOM,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-242688107.0
+TTKOM,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),608734737.0
+TTKOM,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-48313630.0
+TTKOM,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-379598648.0
+TTKOM,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-235198191.0
+TTKOM,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-614796839.0
+TTKOM,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,-54375732.0
+TTKOM,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,210211024.0
+TTKOM,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-311350785.0
+TTKOM,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTKOM,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,45988066.0
+TTKOM,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-55151695.0
+TTKOM,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-109527427.0
+TTKOM,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,14828511.0
+TTKOM,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTKOM,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-94698916.0
+TTKOM,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTKOM,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,398720218.0
+TTKOM,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,304021302.0
+TTKOM,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,2361547168.0
+TTKOM,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,665366803.0
+TTKOM,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,383244414.0
+TTKOM,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,653168426.0
+TTKOM,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,1881334.0
+TTKOM,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,12780651.0
+TTKOM,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,174372747.0
+TTKOM,2023/12,1AF,Stoklar,Inventories,64805146.0
+TTKOM,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTKOM,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,383474550.0
+TTKOM,2023/12,1AI,(Ara Toplam),(Subtotal),2339094072.0
+TTKOM,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,22453096.0
+TTKOM,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,7171284955.0
+TTKOM,2023/12,1B,Ticari Alacaklar,Trade Receivables,11922092.0
+TTKOM,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTKOM,2023/12,1BB,Diğer Alacaklar,Other Receivables,3844456.0
+TTKOM,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,1068383.0
+TTKOM,2023/12,1BC,Finansal Yatırımlar,Financial Investments,8563169.0
+TTKOM,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTKOM,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTKOM,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,5004764.0
+TTKOM,2023/12,1BFA,Stoklar,Stoklar,0.0
+TTKOM,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,273332474.0
+TTKOM,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3720095215.0
+TTKOM,2023/12,1BGA,Şerefiye,Goodwill,23821432.0
+TTKOM,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2685906115.0
+TTKOM,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,430678030.0
+TTKOM,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,7048825.0
+TTKOM,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9532832123.0
+TTKOM,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTKOM,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2769707541.0
+TTKOM,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1634101176.0
+TTKOM,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,690238545.0
+TTKOM,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,158294378.0
+TTKOM,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,103412735.0
+TTKOM,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTKOM,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TTKOM,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),855167.0
+TTKOM,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,78558253.0
+TTKOM,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,104247286.0
+TTKOM,2023/12,2AAGG,(Ara Toplam),(Subtotal),2769707541.0
+TTKOM,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTKOM,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1951190182.0
+TTKOM,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,1591119483.0
+TTKOM,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTKOM,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,4695995.0
+TTKOM,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,145140194.0
+TTKOM,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTKOM,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTKOM,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,199151445.0
+TTKOM,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTKOM,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,11083065.0
+TTKOM,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTKOM,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4811934401.0
+TTKOM,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4811934401.0
+TTKOM,2023/12,2OA,Ödenmiş Sermaye,Share Capital,118679068.0
+TTKOM,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTKOM,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTKOM,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTKOM,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,157797961.0
+TTKOM,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,142984982.0
+TTKOM,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1431085235.0
+TTKOM,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),803939976.0
+TTKOM,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2157447179.0
+TTKOM,2023/12,2ODA,Azınlık Payları,Minority Interests,0.0
+TTKOM,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9532832123.0
+TTKOM,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTKOM,2023/12,3C,Satış Gelirleri,Net Sales,6070258911.0
+TTKOM,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-4745218082.0
+TTKOM,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTKOM,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1325040829.0
+TTKOM,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTKOM,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTKOM,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTKOM,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1325040829.0
+TTKOM,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-629121089.0
+TTKOM,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-789002004.0
+TTKOM,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-78470539.0
+TTKOM,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,186334282.0
+TTKOM,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-309146364.0
+TTKOM,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTKOM,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-294364884.0
+TTKOM,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-171552803.0
+TTKOM,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,283545755.0
+TTKOM,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2875460.0
+TTKOM,2023/12,3HAB,Diğer Gelir ve Giderler,nan,-23420239.0
+TTKOM,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTKOM,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-37114829.0
+TTKOM,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),733040821.0
+TTKOM,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-488085689.0
+TTKOM,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,257250056.0
+TTKOM,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,207840304.0
+TTKOM,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,787153086.0
+TTKOM,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-16464084.0
+TTKOM,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,803617170.0
+TTKOM,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTKOM,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,994993390.0
+TTKOM,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTKOM,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTKOM,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,994993390.0
+TTKOM,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTKOM,2023/12,3LB,Azınlık Payları,Minority Interests,0.0
+TTKOM,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,994993390.0
+TTKOM,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTKOM,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTKOM,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTKOM,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTKOM,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,2149580560.0
+TTKOM,2023/12,4BA,Kıdem Tazminatı,Severance Payments,31114208.0
+TTKOM,2023/12,4BB,Finansman Giderleri,Financial Expenses,-488085689.0
+TTKOM,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TTKOM,2023/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TTKOM,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2872098368.0
+TTKOM,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2832635892.0
+TTKOM,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),1035008481.0
+TTKOM,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1767657839.0
+TTKOM,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,994993390.0
+TTKOM,2023/12,4CAA,Düzeltmeler:,Adjustments:,1261543388.0
+TTKOM,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2149580560.0
+TTKOM,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,206728864.0
+TTKOM,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,361218050.0
+TTKOM,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2256536778.0
+TTKOM,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-331593568.0
+TTKOM,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1924943210.0
+TTKOM,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-157285371.0
+TTKOM,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1519274925.0
+TTKOM,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,2971563.0
+TTKOM,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1516303362.0
+TTKOM,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,251354477.0
+TTKOM,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,254571209.0
+TTKOM,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TTKOM,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTKOM,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,153569532.0
+TTKOM,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,408140741.0
+TTKOM,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,659495218.0
+TTKOM,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,30255196.0
+TTKOM,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTKOM,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,689750414.0
+TTKOM,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTKOM,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,344665249.0
+TTKOM,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,639141260.0
+TTKOM,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,1686742566.0
+TTKOM,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,354823429.0
+TTKOM,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,375159685.0
+TTKOM,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,481863424.0
+TTKOM,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTKOM,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,10137535.0
+TTKOM,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,99792472.0
+TTKOM,2023/3,1AF,Stoklar,Inventories,43972159.0
+TTKOM,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTKOM,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,319046738.0
+TTKOM,2023/3,1AI,(Ara Toplam),(Subtotal),1684795443.0
+TTKOM,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,1947123.0
+TTKOM,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2928293760.0
+TTKOM,2023/3,1B,Ticari Alacaklar,Trade Receivables,9471279.0
+TTKOM,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTKOM,2023/3,1BB,Diğer Alacaklar,Other Receivables,4436465.0
+TTKOM,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,1356643.0
+TTKOM,2023/3,1BC,Finansal Yatırımlar,Financial Investments,1671479.0
+TTKOM,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTKOM,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTKOM,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,696693.0
+TTKOM,2023/3,1BFA,Stoklar,Stoklar,0.0
+TTKOM,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,102643451.0
+TTKOM,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1595321663.0
+TTKOM,2023/3,1BGA,Şerefiye,Goodwill,2342322.0
+TTKOM,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,952664453.0
+TTKOM,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,248556896.0
+TTKOM,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,9132417.0
+TTKOM,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4615036325.0
+TTKOM,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTKOM,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1633799550.0
+TTKOM,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,984449807.0
+TTKOM,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,376619154.0
+TTKOM,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,119732799.0
+TTKOM,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,56228854.0
+TTKOM,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTKOM,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TTKOM,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),10035491.0
+TTKOM,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,24038816.0
+TTKOM,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,62694629.0
+TTKOM,2023/3,2AAGG,(Ara Toplam),(Subtotal),1633799550.0
+TTKOM,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTKOM,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1936863528.0
+TTKOM,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,1633284066.0
+TTKOM,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTKOM,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,3577898.0
+TTKOM,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,104945069.0
+TTKOM,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTKOM,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTKOM,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,190722490.0
+TTKOM,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTKOM,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,4334004.0
+TTKOM,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTKOM,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1044373248.0
+TTKOM,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1044373248.0
+TTKOM,2023/3,2OA,Ödenmiş Sermaye,Share Capital,182407571.0
+TTKOM,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTKOM,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTKOM,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTKOM,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,118886688.0
+TTKOM,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,20931842.0
+TTKOM,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),495310666.0
+TTKOM,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),33634080.0
+TTKOM,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,193202399.0
+TTKOM,2023/3,2ODA,Azınlık Payları,Minority Interests,0.0
+TTKOM,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4615036325.0
+TTKOM,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTKOM,2023/3,3C,Satış Gelirleri,Net Sales,1517488952.0
+TTKOM,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1209450588.0
+TTKOM,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTKOM,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,308038363.0
+TTKOM,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTKOM,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTKOM,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTKOM,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),308038363.0
+TTKOM,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-177695042.0
+TTKOM,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-213105585.0
+TTKOM,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-24828759.0
+TTKOM,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,30607564.0
+TTKOM,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-40261896.0
+TTKOM,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTKOM,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-117245354.0
+TTKOM,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-107591022.0
+TTKOM,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,70569890.0
+TTKOM,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-26570.0
+TTKOM,2023/3,3HAB,Diğer Gelir ve Giderler,nan,-5947645.0
+TTKOM,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTKOM,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-52649679.0
+TTKOM,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),44272334.0
+TTKOM,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),136839562.0
+TTKOM,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,64595675.0
+TTKOM,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,128462217.0
+TTKOM,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-57382210.0
+TTKOM,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-11860729.0
+TTKOM,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-45521481.0
+TTKOM,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTKOM,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,71080007.0
+TTKOM,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTKOM,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTKOM,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,71080007.0
+TTKOM,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTKOM,2023/3,3LB,Azınlık Payları,Minority Interests,0.0
+TTKOM,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,71080007.0
+TTKOM,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTKOM,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTKOM,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTKOM,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTKOM,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,504540843.0
+TTKOM,2023/3,4BA,Kıdem Tazminatı,Severance Payments,904852.0
+TTKOM,2023/3,4BB,Finansman Giderleri,Financial Expenses,136839562.0
+TTKOM,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TTKOM,2023/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TTKOM,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1582501591.0
+TTKOM,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1592850228.0
+TTKOM,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),521866993.0
+TTKOM,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,67925833.0
+TTKOM,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,65568803.0
+TTKOM,2023/3,4CAA,Düzeltmeler:,Adjustments:,471325689.0
+TTKOM,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,504540843.0
+TTKOM,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,75086370.0
+TTKOM,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-108301524.0
+TTKOM,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),536894493.0
+TTKOM,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-413005124.0
+TTKOM,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),123889369.0
+TTKOM,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-55963536.0
+TTKOM,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-293254225.0
+TTKOM,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-149391209.0
+TTKOM,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-442645434.0
+TTKOM,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,-374719601.0
+TTKOM,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,630230125.0
+TTKOM,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TTKOM,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTKOM,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-88799727.0
+TTKOM,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,541430397.0
+TTKOM,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,166710796.0
+TTKOM,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-29124265.0
+TTKOM,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTKOM,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,137586531.0
+TTKOM,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTKOM,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,346427677.0
+TTKOM,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,484014208.0
+TTKOM,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,1670294361.0
+TTKOM,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,348249606.0
+TTKOM,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,318425063.0
+TTKOM,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,438674429.0
+TTKOM,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTKOM,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,12716664.0
+TTKOM,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,92671475.0
+TTKOM,2023/6,1AF,Stoklar,Inventories,36818582.0
+TTKOM,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTKOM,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,421294338.0
+TTKOM,2023/6,1AI,(Ara Toplam),(Subtotal),1668850156.0
+TTKOM,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,1444205.0
+TTKOM,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2341651166.0
+TTKOM,2023/6,1B,Ticari Alacaklar,Trade Receivables,7587284.0
+TTKOM,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTKOM,2023/6,1BB,Diğer Alacaklar,Other Receivables,2217970.0
+TTKOM,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,879913.0
+TTKOM,2023/6,1BC,Finansal Yatırımlar,Financial Investments,4429987.0
+TTKOM,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTKOM,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTKOM,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,500433.0
+TTKOM,2023/6,1BFA,Stoklar,Stoklar,0.0
+TTKOM,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,81615719.0
+TTKOM,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1227655627.0
+TTKOM,2023/6,1BGA,Şerefiye,Goodwill,1737329.0
+TTKOM,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,765299811.0
+TTKOM,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,238025907.0
+TTKOM,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,11701186.0
+TTKOM,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4011945527.0
+TTKOM,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTKOM,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1886065730.0
+TTKOM,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1286757971.0
+TTKOM,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,349730340.0
+TTKOM,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,111653524.0
+TTKOM,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,55627261.0
+TTKOM,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTKOM,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TTKOM,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5115541.0
+TTKOM,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,27853001.0
+TTKOM,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,49328092.0
+TTKOM,2023/6,2AAGG,(Ara Toplam),(Subtotal),1886065730.0
+TTKOM,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTKOM,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1351603349.0
+TTKOM,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,1100829313.0
+TTKOM,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTKOM,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,3322123.0
+TTKOM,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,99305208.0
+TTKOM,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTKOM,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTKOM,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,144421947.0
+TTKOM,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTKOM,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,3724758.0
+TTKOM,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTKOM,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,774276448.0
+TTKOM,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,774276448.0
+TTKOM,2023/6,2OA,Ödenmiş Sermaye,Share Capital,135293936.0
+TTKOM,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTKOM,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTKOM,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTKOM,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,120417208.0
+TTKOM,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,15525404.0
+TTKOM,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),367411672.0
+TTKOM,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1726544.0
+TTKOM,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,133901684.0
+TTKOM,2023/6,2ODA,Azınlık Payları,Minority Interests,0.0
+TTKOM,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4011945527.0
+TTKOM,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTKOM,2023/6,3C,Satış Gelirleri,Net Sales,3042547951.0
+TTKOM,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2401467346.0
+TTKOM,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTKOM,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,641080604.0
+TTKOM,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTKOM,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTKOM,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTKOM,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),641080604.0
+TTKOM,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-336194764.0
+TTKOM,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-392854523.0
+TTKOM,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-42034295.0
+TTKOM,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,103516634.0
+TTKOM,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-200650599.0
+TTKOM,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTKOM,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-227136942.0
+TTKOM,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-130002977.0
+TTKOM,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,193808202.0
+TTKOM,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-245849.0
+TTKOM,2023/6,3HAB,Diğer Gelir ve Giderler,nan,-10931069.0
+TTKOM,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTKOM,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-44505658.0
+TTKOM,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),662189187.0
+TTKOM,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-773259402.0
+TTKOM,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,182631284.0
+TTKOM,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-155575873.0
+TTKOM,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,40431128.0
+TTKOM,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-13839536.0
+TTKOM,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,54270664.0
+TTKOM,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTKOM,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-115144745.0
+TTKOM,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTKOM,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTKOM,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-115144745.0
+TTKOM,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTKOM,2023/6,3LB,Azınlık Payları,Minority Interests,0.0
+TTKOM,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,-115144745.0
+TTKOM,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTKOM,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTKOM,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTKOM,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTKOM,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,1076067498.0
+TTKOM,2023/6,4BA,Kıdem Tazminatı,Severance Payments,118362796.0
+TTKOM,2023/6,4BB,Finansman Giderleri,Financial Expenses,-773259402.0
+TTKOM,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TTKOM,2023/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TTKOM,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2036533957.0
+TTKOM,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2036533957.0
+TTKOM,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),922063682.0
+TTKOM,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,565164814.0
+TTKOM,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-115144745.0
+TTKOM,2023/6,4CAA,Düzeltmeler:,Adjustments:,1213703548.0
+TTKOM,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1076067498.0
+TTKOM,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,124484768.0
+TTKOM,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,528374497.0
+TTKOM,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1098558803.0
+TTKOM,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-420778585.0
+TTKOM,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),677780218.0
+TTKOM,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-112615404.0
+TTKOM,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-611793618.0
+TTKOM,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-134953533.0
+TTKOM,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-746747151.0
+TTKOM,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,-181582337.0
+TTKOM,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,508567275.0
+TTKOM,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TTKOM,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTKOM,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-21497102.0
+TTKOM,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,487070173.0
+TTKOM,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,305487836.0
+TTKOM,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,32170354.0
+TTKOM,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTKOM,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,337658189.0
+TTKOM,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTKOM,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,358340123.0
+TTKOM,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,623735555.0
+TTKOM,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,1621632903.0
+TTKOM,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,436402027.0
+TTKOM,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,286838256.0
+TTKOM,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,472776781.0
+TTKOM,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TTKOM,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,10351382.0
+TTKOM,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,106725115.0
+TTKOM,2023/9,1AF,Stoklar,Inventories,39050390.0
+TTKOM,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTKOM,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,268126705.0
+TTKOM,2023/9,1AI,(Ara Toplam),(Subtotal),1620270656.0
+TTKOM,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,1362248.0
+TTKOM,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,2743065813.0
+TTKOM,2023/9,1B,Ticari Alacaklar,Trade Receivables,7483337.0
+TTKOM,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTKOM,2023/9,1BB,Diğer Alacaklar,Other Receivables,2057792.0
+TTKOM,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,845949.0
+TTKOM,2023/9,1BC,Finansal Yatırımlar,Financial Investments,4534274.0
+TTKOM,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTKOM,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTKOM,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,456611.0
+TTKOM,2023/9,1BFA,Stoklar,Stoklar,0.0
+TTKOM,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,78584919.0
+TTKOM,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1631287246.0
+TTKOM,2023/9,1BGA,Şerefiye,Goodwill,1638737.0
+TTKOM,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,782318967.0
+TTKOM,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,225413513.0
+TTKOM,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,8444469.0
+TTKOM,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4364698717.0
+TTKOM,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTKOM,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1838539306.0
+TTKOM,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1195068512.0
+TTKOM,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,368116167.0
+TTKOM,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,102372129.0
+TTKOM,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,54350106.0
+TTKOM,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTKOM,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TTKOM,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3321738.0
+TTKOM,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,39445052.0
+TTKOM,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,75865602.0
+TTKOM,2023/9,2AAGG,(Ara Toplam),(Subtotal),1838539306.0
+TTKOM,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTKOM,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1342846277.0
+TTKOM,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1076370597.0
+TTKOM,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTKOM,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,2785350.0
+TTKOM,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,94281120.0
+TTKOM,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTKOM,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTKOM,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,155870306.0
+TTKOM,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTKOM,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,13538905.0
+TTKOM,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTKOM,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1183313134.0
+TTKOM,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1183313134.0
+TTKOM,2023/9,2OA,Ödenmiş Sermaye,Share Capital,127616131.0
+TTKOM,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTKOM,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTKOM,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTKOM,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,115052140.0
+TTKOM,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,14644352.0
+TTKOM,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),346717786.0
+TTKOM,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),165839751.0
+TTKOM,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,413442974.0
+TTKOM,2023/9,2ODA,Azınlık Payları,Minority Interests,0.0
+TTKOM,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4364698717.0
+TTKOM,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTKOM,2023/9,3C,Satış Gelirleri,Net Sales,4524819784.0
+TTKOM,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-3554166380.0
+TTKOM,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTKOM,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,970653404.0
+TTKOM,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTKOM,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTKOM,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTKOM,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),970653404.0
+TTKOM,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-465491578.0
+TTKOM,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-580177884.0
+TTKOM,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-59149409.0
+TTKOM,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,102962195.0
+TTKOM,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-200429807.0
+TTKOM,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTKOM,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-231633079.0
+TTKOM,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-134165467.0
+TTKOM,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,254729888.0
+TTKOM,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-532548.0
+TTKOM,2023/9,3HAB,Diğer Gelir ve Giderler,nan,-18934316.0
+TTKOM,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTKOM,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3629946.0
+TTKOM,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),684105755.0
+TTKOM,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-417547427.0
+TTKOM,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,235263025.0
+TTKOM,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,270188274.0
+TTKOM,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-245026413.0
+TTKOM,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-16355185.0
+TTKOM,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-228671228.0
+TTKOM,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTKOM,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,25161862.0
+TTKOM,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTKOM,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTKOM,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,25161862.0
+TTKOM,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTKOM,2023/9,3LB,Azınlık Payları,Minority Interests,0.0
+TTKOM,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,25161862.0
+TTKOM,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTKOM,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTKOM,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTKOM,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTKOM,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,1602592737.0
+TTKOM,2023/9,4BA,Kıdem Tazminatı,Severance Payments,165042418.0
+TTKOM,2023/9,4BB,Finansman Giderleri,Financial Expenses,-417547427.0
+TTKOM,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TTKOM,2023/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TTKOM,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1922521734.0
+TTKOM,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1895295721.0
+TTKOM,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),708039316.0
+TTKOM,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,965195669.0
+TTKOM,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,25161862.0
+TTKOM,2023/9,4CAA,Düzeltmeler:,Adjustments:,1412112183.0
+TTKOM,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1602592737.0
+TTKOM,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,174907387.0
+TTKOM,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1038030634.0
+TTKOM,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1437274044.0
+TTKOM,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-355088897.0
+TTKOM,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1082185147.0
+TTKOM,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-116989478.0
+TTKOM,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-972980271.0
+TTKOM,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-58367210.0
+TTKOM,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1031347481.0
+TTKOM,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,-66151811.0
+TTKOM,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,335770194.0
+TTKOM,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TTKOM,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTKOM,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,203379135.0
+TTKOM,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,539149329.0
+TTKOM,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,472997517.0
+TTKOM,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,55521716.0
+TTKOM,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTKOM,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,528519233.0
+TTKOM,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTKOM,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,348138209.0
+TTKOM,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,620284144.0
+TTKOM,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,2110537373.0
+TTKOM,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,267307600.0
+TTKOM,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,374009732.0
+TTKOM,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,775690394.0
+TTKOM,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,4532830.0
+TTKOM,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,101762356.0
+TTKOM,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,269927427.0
+TTKOM,2024/12,1AF,Stoklar,Inventories,97486071.0
+TTKOM,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTKOM,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,196321554.0
+TTKOM,2024/12,1AI,(Ara Toplam),(Subtotal),2087037965.0
+TTKOM,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,23499407.0
+TTKOM,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,7480454915.0
+TTKOM,2024/12,1B,Ticari Alacaklar,Trade Receivables,2163091.0
+TTKOM,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,4615341.0
+TTKOM,2024/12,1BB,Diğer Alacaklar,Other Receivables,5358788.0
+TTKOM,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,1827406.0
+TTKOM,2024/12,1BC,Finansal Yatırımlar,Financial Investments,14253678.0
+TTKOM,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTKOM,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTKOM,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,5169706.0
+TTKOM,2024/12,1BFA,Stoklar,Stoklar,0.0
+TTKOM,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,314100902.0
+TTKOM,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4032015366.0
+TTKOM,2024/12,1BGA,Şerefiye,Goodwill,24931507.0
+TTKOM,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2962934016.0
+TTKOM,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,107690733.0
+TTKOM,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,5394383.0
+TTKOM,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9590992288.0
+TTKOM,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTKOM,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2292389727.0
+TTKOM,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,944774616.0
+TTKOM,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,778001791.0
+TTKOM,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,204560051.0
+TTKOM,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,126098012.0
+TTKOM,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,1346183.0
+TTKOM,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TTKOM,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),16528700.0
+TTKOM,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,99822665.0
+TTKOM,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,121257710.0
+TTKOM,2024/12,2AAGG,(Ara Toplam),(Subtotal),2292389727.0
+TTKOM,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTKOM,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2114042387.0
+TTKOM,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,1558137821.0
+TTKOM,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTKOM,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,5664982.0
+TTKOM,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,105095322.0
+TTKOM,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTKOM,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTKOM,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,255736102.0
+TTKOM,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTKOM,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,189408160.0
+TTKOM,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTKOM,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,5184560174.0
+TTKOM,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5184560174.0
+TTKOM,2024/12,2OA,Ödenmiş Sermaye,Share Capital,99027269.0
+TTKOM,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTKOM,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTKOM,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTKOM,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,104591777.0
+TTKOM,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,149648062.0
+TTKOM,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2137823821.0
+TTKOM,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),300095287.0
+TTKOM,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2368191731.0
+TTKOM,2024/12,2ODA,Azınlık Payları,Minority Interests,0.0
+TTKOM,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9590992288.0
+TTKOM,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTKOM,2024/12,3C,Satış Gelirleri,Net Sales,6167880765.0
+TTKOM,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-3899647589.0
+TTKOM,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTKOM,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2268233176.0
+TTKOM,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTKOM,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTKOM,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTKOM,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2268233176.0
+TTKOM,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-560442979.0
+TTKOM,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-754224395.0
+TTKOM,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-75383777.0
+TTKOM,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,218152094.0
+TTKOM,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-131589236.0
+TTKOM,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTKOM,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,964744882.0
+TTKOM,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,878182024.0
+TTKOM,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,157913516.0
+TTKOM,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-362173.0
+TTKOM,2024/12,3HAB,Diğer Gelir ve Giderler,nan,-25754885.0
+TTKOM,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTKOM,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1096541341.0
+TTKOM,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),147782262.0
+TTKOM,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-303608212.0
+TTKOM,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,131796459.0
+TTKOM,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,940715392.0
+TTKOM,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-618066490.0
+TTKOM,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-32647609.0
+TTKOM,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-585418880.0
+TTKOM,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTKOM,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,322648902.0
+TTKOM,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTKOM,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,322648902.0
+TTKOM,2024/12,3LB,Azınlık Payları,Minority Interests,0.0
+TTKOM,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,322648902.0
+TTKOM,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTKOM,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTKOM,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTKOM,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTKOM,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,1374367425.0
+TTKOM,2024/12,4BA,Kıdem Tazminatı,Severance Payments,18708889.0
+TTKOM,2024/12,4BB,Finansman Giderleri,Financial Expenses,-303608212.0
+TTKOM,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TTKOM,2024/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TTKOM,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2077603981.0
+TTKOM,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2047664462.0
+TTKOM,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-155982120.0
+TTKOM,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,2076224619.0
+TTKOM,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,322648902.0
+TTKOM,2024/12,4CAA,Düzeltmeler:,Adjustments:,2053382300.0
+TTKOM,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1374367425.0
+TTKOM,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,207115790.0
+TTKOM,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1446723940.0
+TTKOM,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2376031202.0
+TTKOM,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-201363078.0
+TTKOM,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2174668125.0
+TTKOM,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-98443506.0
+TTKOM,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1512477674.0
+TTKOM,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,14263653.0
+TTKOM,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1498214021.0
+TTKOM,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,578010598.0
+TTKOM,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-358271004.0
+TTKOM,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TTKOM,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTKOM,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-446459899.0
+TTKOM,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-804730903.0
+TTKOM,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-226720305.0
+TTKOM,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,42602546.0
+TTKOM,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTKOM,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-184117759.0
+TTKOM,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTKOM,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,581101465.0
+TTKOM,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,236304141.0
+TTKOM,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,1675808568.0
+TTKOM,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,428716500.0
+TTKOM,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,270296133.0
+TTKOM,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,455440829.0
+TTKOM,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,63846.0
+TTKOM,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,24908575.0
+TTKOM,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,136842343.0
+TTKOM,2024/3,1AF,Stoklar,Inventories,71371152.0
+TTKOM,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTKOM,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,271853102.0
+TTKOM,2024/3,1AI,(Ara Toplam),(Subtotal),1659492481.0
+TTKOM,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,16316087.0
+TTKOM,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,5070096928.0
+TTKOM,2024/3,1B,Ticari Alacaklar,Trade Receivables,5925314.0
+TTKOM,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TTKOM,2024/3,1BB,Diğer Alacaklar,Other Receivables,2300393.0
+TTKOM,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,549135.0
+TTKOM,2024/3,1BC,Finansal Yatırımlar,Financial Investments,5865643.0
+TTKOM,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTKOM,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTKOM,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,3453666.0
+TTKOM,2024/3,1BFA,Stoklar,Stoklar,0.0
+TTKOM,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,233726023.0
+TTKOM,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2677066375.0
+TTKOM,2024/3,1BGA,Şerefiye,Goodwill,17310442.0
+TTKOM,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1855395040.0
+TTKOM,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,262445986.0
+TTKOM,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,6058911.0
+TTKOM,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,6745905496.0
+TTKOM,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTKOM,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2238085093.0
+TTKOM,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1548028451.0
+TTKOM,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,370230061.0
+TTKOM,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,123264417.0
+TTKOM,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,79014612.0
+TTKOM,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTKOM,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TTKOM,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),217570.0
+TTKOM,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,26320199.0
+TTKOM,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,91009782.0
+TTKOM,2024/3,2AAGG,(Ara Toplam),(Subtotal),2238085093.0
+TTKOM,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTKOM,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,997310534.0
+TTKOM,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,733094523.0
+TTKOM,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTKOM,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,2997718.0
+TTKOM,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,95706415.0
+TTKOM,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTKOM,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTKOM,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,146117810.0
+TTKOM,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTKOM,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,19394069.0
+TTKOM,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTKOM,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3510509869.0
+TTKOM,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3510509869.0
+TTKOM,2024/3,2OA,Ödenmiş Sermaye,Share Capital,108213062.0
+TTKOM,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTKOM,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTKOM,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTKOM,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,101246058.0
+TTKOM,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,103903616.0
+TTKOM,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1624137171.0
+TTKOM,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),32254233.0
+TTKOM,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1540755729.0
+TTKOM,2024/3,2ODA,Azınlık Payları,Minority Interests,0.0
+TTKOM,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,6745905496.0
+TTKOM,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTKOM,2024/3,3C,Satış Gelirleri,Net Sales,1244963139.0
+TTKOM,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-811490396.0
+TTKOM,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTKOM,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,433472743.0
+TTKOM,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTKOM,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTKOM,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTKOM,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),433472743.0
+TTKOM,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-134171977.0
+TTKOM,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-169120628.0
+TTKOM,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-21483234.0
+TTKOM,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,43170568.0
+TTKOM,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-40913493.0
+TTKOM,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTKOM,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,110953979.0
+TTKOM,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,108696904.0
+TTKOM,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,46596555.0
+TTKOM,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-5878.0
+TTKOM,2024/3,3HAB,Diğer Gelir ve Giderler,nan,-4047522.0
+TTKOM,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTKOM,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,153497133.0
+TTKOM,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),40420412.0
+TTKOM,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),34711478.0
+TTKOM,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,42543154.0
+TTKOM,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,228629023.0
+TTKOM,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-114426542.0
+TTKOM,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-3524403.0
+TTKOM,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-110902139.0
+TTKOM,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTKOM,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,114202481.0
+TTKOM,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTKOM,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTKOM,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,114202481.0
+TTKOM,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTKOM,2024/3,3LB,Azınlık Payları,Minority Interests,0.0
+TTKOM,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,114202481.0
+TTKOM,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTKOM,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTKOM,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTKOM,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTKOM,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,319209281.0
+TTKOM,2024/3,4BA,Kıdem Tazminatı,Severance Payments,56876.0
+TTKOM,2024/3,4BB,Finansman Giderleri,Financial Expenses,34711478.0
+TTKOM,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TTKOM,2024/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TTKOM,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1659308979.0
+TTKOM,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1636235327.0
+TTKOM,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),461927846.0
+TTKOM,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,189164089.0
+TTKOM,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,114202481.0
+TTKOM,2024/3,4CAA,Düzeltmeler:,Adjustments:,392714804.0
+TTKOM,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,319209281.0
+TTKOM,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,58293747.0
+TTKOM,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,313766784.0
+TTKOM,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),506917285.0
+TTKOM,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-248652329.0
+TTKOM,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),258264956.0
+TTKOM,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-69100867.0
+TTKOM,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-195744393.0
+TTKOM,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,613461.0
+TTKOM,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-195130933.0
+TTKOM,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-5966844.0
+TTKOM,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,92636044.0
+TTKOM,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TTKOM,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTKOM,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-95899856.0
+TTKOM,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-3263812.0
+TTKOM,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-9230656.0
+TTKOM,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,7862102.0
+TTKOM,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTKOM,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-1368554.0
+TTKOM,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTKOM,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,541411905.0
+TTKOM,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,482280056.0
+TTKOM,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,1505047179.0
+TTKOM,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,213329512.0
+TTKOM,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,282585441.0
+TTKOM,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,510058354.0
+TTKOM,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,212770.0
+TTKOM,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,13816933.0
+TTKOM,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,172847655.0
+TTKOM,2024/6,1AF,Stoklar,Inventories,97707760.0
+TTKOM,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTKOM,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,197092683.0
+TTKOM,2024/6,1AI,(Ara Toplam),(Subtotal),1487651109.0
+TTKOM,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,17396071.0
+TTKOM,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,5342987627.0
+TTKOM,2024/6,1B,Ticari Alacaklar,Trade Receivables,3938538.0
+TTKOM,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,194890.0
+TTKOM,2024/6,1BB,Diğer Alacaklar,Other Receivables,2265572.0
+TTKOM,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,752342.0
+TTKOM,2024/6,1BC,Finansal Yatırımlar,Financial Investments,10258413.0
+TTKOM,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTKOM,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTKOM,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,3852755.0
+TTKOM,2024/6,1BFA,Stoklar,Stoklar,0.0
+TTKOM,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,256821741.0
+TTKOM,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2883802155.0
+TTKOM,2024/6,1BGA,Şerefiye,Goodwill,18456271.0
+TTKOM,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1882367988.0
+TTKOM,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,274257829.0
+TTKOM,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,6019133.0
+TTKOM,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,6848034806.0
+TTKOM,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTKOM,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1564578003.0
+TTKOM,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,810241476.0
+TTKOM,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,373623716.0
+TTKOM,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,131808042.0
+TTKOM,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,78329892.0
+TTKOM,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTKOM,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TTKOM,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2310607.0
+TTKOM,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,40906667.0
+TTKOM,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,127357604.0
+TTKOM,2024/6,2AAGG,(Ara Toplam),(Subtotal),1564578003.0
+TTKOM,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTKOM,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1534058348.0
+TTKOM,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,1236550586.0
+TTKOM,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTKOM,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,3114340.0
+TTKOM,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,91991832.0
+TTKOM,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTKOM,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTKOM,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,188264300.0
+TTKOM,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTKOM,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,14137289.0
+TTKOM,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTKOM,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3749398455.0
+TTKOM,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3749398455.0
+TTKOM,2024/6,2OA,Ödenmiş Sermaye,Share Capital,106430533.0
+TTKOM,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTKOM,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTKOM,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTKOM,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,95693517.0
+TTKOM,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,110781200.0
+TTKOM,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1640837243.0
+TTKOM,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),77521932.0
+TTKOM,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1718134029.0
+TTKOM,2024/6,2ODA,Azınlık Payları,Minority Interests,0.0
+TTKOM,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,6848034806.0
+TTKOM,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTKOM,2024/6,3C,Satış Gelirleri,Net Sales,2700488480.0
+TTKOM,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1739673778.0
+TTKOM,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTKOM,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,960814702.0
+TTKOM,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTKOM,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTKOM,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTKOM,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),960814702.0
+TTKOM,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-276397869.0
+TTKOM,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-320265717.0
+TTKOM,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-43111600.0
+TTKOM,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,62055953.0
+TTKOM,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-63199527.0
+TTKOM,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTKOM,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,319895942.0
+TTKOM,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,321039515.0
+TTKOM,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,82344247.0
+TTKOM,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-683608.0
+TTKOM,2024/6,3HAB,Diğer Gelir ve Giderler,nan,-8219011.0
+TTKOM,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTKOM,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,393337570.0
+TTKOM,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),107773941.0
+TTKOM,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-90383130.0
+TTKOM,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,73441628.0
+TTKOM,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,410728381.0
+TTKOM,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-157198123.0
+TTKOM,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-9318944.0
+TTKOM,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-147879179.0
+TTKOM,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTKOM,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,253530258.0
+TTKOM,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTKOM,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTKOM,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,253530258.0
+TTKOM,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTKOM,2024/6,3LB,Azınlık Payları,Minority Interests,0.0
+TTKOM,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,253530258.0
+TTKOM,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTKOM,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTKOM,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTKOM,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTKOM,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,667569474.0
+TTKOM,2024/6,4BA,Kıdem Tazminatı,Severance Payments,95614437.0
+TTKOM,2024/6,4BB,Finansman Giderleri,Financial Expenses,-90383130.0
+TTKOM,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TTKOM,2024/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TTKOM,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1426856025.0
+TTKOM,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1403885890.0
+TTKOM,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-32039253.0
+TTKOM,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,615784620.0
+TTKOM,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,253530258.0
+TTKOM,2024/6,4CAA,Düzeltmeler:,Adjustments:,849262939.0
+TTKOM,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,667569474.0
+TTKOM,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,99568307.0
+TTKOM,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,653530577.0
+TTKOM,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1102793197.0
+TTKOM,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-403505039.0
+TTKOM,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),699288158.0
+TTKOM,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-83503538.0
+TTKOM,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-487490299.0
+TTKOM,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,883026.0
+TTKOM,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-486607273.0
+TTKOM,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,129177347.0
+TTKOM,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-296056378.0
+TTKOM,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TTKOM,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTKOM,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-82865531.0
+TTKOM,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-378921909.0
+TTKOM,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-249744562.0
+TTKOM,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,8556404.0
+TTKOM,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTKOM,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-241188158.0
+TTKOM,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTKOM,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,561926743.0
+TTKOM,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,214502532.0
+TTKOM,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,1598160930.0
+TTKOM,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,236797045.0
+TTKOM,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,283800307.0
+TTKOM,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,584280202.0
+TTKOM,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,1976830.0
+TTKOM,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,6559117.0
+TTKOM,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,205415900.0
+TTKOM,2024/9,1AF,Stoklar,Inventories,87630425.0
+TTKOM,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTKOM,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,173472420.0
+TTKOM,2024/9,1AI,(Ara Toplam),(Subtotal),1579932246.0
+TTKOM,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,18228684.0
+TTKOM,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,5518519769.0
+TTKOM,2024/9,1B,Ticari Alacaklar,Trade Receivables,1737439.0
+TTKOM,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,1664653.0
+TTKOM,2024/9,1BB,Diğer Alacaklar,Other Receivables,2290090.0
+TTKOM,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,757142.0
+TTKOM,2024/9,1BC,Finansal Yatırımlar,Financial Investments,10486038.0
+TTKOM,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTKOM,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTKOM,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,4024164.0
+TTKOM,2024/9,1BFA,Stoklar,Stoklar,0.0
+TTKOM,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,254226958.0
+TTKOM,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3086646939.0
+TTKOM,2024/9,1BGA,Şerefiye,Goodwill,19339604.0
+TTKOM,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1914006495.0
+TTKOM,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,217072186.0
+TTKOM,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,6268061.0
+TTKOM,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7116680699.0
+TTKOM,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTKOM,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1508975528.0
+TTKOM,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,732129833.0
+TTKOM,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,386674205.0
+TTKOM,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,144177196.0
+TTKOM,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,81521217.0
+TTKOM,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TTKOM,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TTKOM,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3382930.0
+TTKOM,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,61598567.0
+TTKOM,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,99491582.0
+TTKOM,2024/9,2AAGG,(Ara Toplam),(Subtotal),1508975528.0
+TTKOM,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTKOM,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1656444379.0
+TTKOM,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1364160257.0
+TTKOM,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTKOM,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,2724347.0
+TTKOM,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,92586265.0
+TTKOM,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTKOM,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTKOM,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,191577123.0
+TTKOM,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTKOM,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,5396387.0
+TTKOM,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTKOM,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3951260791.0
+TTKOM,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3951260791.0
+TTKOM,2024/9,2OA,Ödenmiş Sermaye,Share Capital,102391575.0
+TTKOM,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTKOM,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTKOM,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTKOM,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,96865852.0
+TTKOM,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,116083347.0
+TTKOM,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1718311943.0
+TTKOM,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),114716097.0
+TTKOM,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1802891977.0
+TTKOM,2024/9,2ODA,Azınlık Payları,Minority Interests,0.0
+TTKOM,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7116680699.0
+TTKOM,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTKOM,2024/9,3C,Satış Gelirleri,Net Sales,4510264095.0
+TTKOM,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-2806673761.0
+TTKOM,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTKOM,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1703590335.0
+TTKOM,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTKOM,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTKOM,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTKOM,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1703590335.0
+TTKOM,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-437187515.0
+TTKOM,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-534577076.0
+TTKOM,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-66416295.0
+TTKOM,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,97401239.0
+TTKOM,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-112009758.0
+TTKOM,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTKOM,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,650800929.0
+TTKOM,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,665409449.0
+TTKOM,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,121038971.0
+TTKOM,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1003222.0
+TTKOM,2024/9,3HAB,Diğer Gelir ve Giderler,nan,-16177757.0
+TTKOM,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTKOM,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,754658922.0
+TTKOM,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),122445539.0
+TTKOM,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-205670756.0
+TTKOM,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,103857993.0
+TTKOM,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,671433705.0
+TTKOM,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-281263290.0
+TTKOM,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-16057218.0
+TTKOM,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-265206072.0
+TTKOM,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTKOM,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,390170415.0
+TTKOM,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTKOM,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTKOM,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,390170415.0
+TTKOM,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTKOM,2024/9,3LB,Azınlık Payları,Minority Interests,0.0
+TTKOM,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,390170415.0
+TTKOM,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTKOM,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTKOM,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTKOM,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTKOM,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,1048599535.0
+TTKOM,2024/9,4BA,Kıdem Tazminatı,Severance Payments,147986586.0
+TTKOM,2024/9,4BB,Finansman Giderleri,Financial Expenses,-205670756.0
+TTKOM,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TTKOM,2024/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TTKOM,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1553714901.0
+TTKOM,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1553837608.0
+TTKOM,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),49071716.0
+TTKOM,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1225396933.0
+TTKOM,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,390170415.0
+TTKOM,2024/9,4CAA,Düzeltmeler:,Adjustments:,1399923513.0
+TTKOM,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1048599535.0
+TTKOM,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,150057652.0
+TTKOM,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1041857435.0
+TTKOM,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1790093928.0
+TTKOM,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-459186462.0
+TTKOM,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1330907466.0
+TTKOM,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-105510533.0
+TTKOM,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-900072677.0
+TTKOM,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,13090366.0
+TTKOM,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-886982311.0
+TTKOM,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,338414622.0
+TTKOM,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-293399628.0
+TTKOM,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TTKOM,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTKOM,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-269838383.0
+TTKOM,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-563238011.0
+TTKOM,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-224823389.0
+TTKOM,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,26053965.0
+TTKOM,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTKOM,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-198769424.0
+TTKOM,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTKOM,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,591780607.0
+TTKOM,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,262530452.0
+TTKOM,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,1406443805.0
+TTKOM,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,209209594.0
+TTKOM,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,25190848.0
+TTKOM,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,623888491.0
+TTKOM,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,4796597.0
+TTKOM,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,8108380.0
+TTKOM,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,230148069.0
+TTKOM,2025/3,1AF,Stoklar,Inventories,69177532.0
+TTKOM,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTKOM,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,216660940.0
+TTKOM,2025/3,1AI,(Ara Toplam),(Subtotal),1387180450.0
+TTKOM,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,19263355.0
+TTKOM,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,6136992417.0
+TTKOM,2025/3,1B,Ticari Alacaklar,Trade Receivables,2098552.0
+TTKOM,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,5157783.0
+TTKOM,2025/3,1BB,Diğer Alacaklar,Other Receivables,2310903.0
+TTKOM,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,1187328.0
+TTKOM,2025/3,1BC,Finansal Yatırımlar,Financial Investments,11849912.0
+TTKOM,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTKOM,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTKOM,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,4223800.0
+TTKOM,2025/3,1BFA,Stoklar,Stoklar,0.0
+TTKOM,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,280396260.0
+TTKOM,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3320502726.0
+TTKOM,2025/3,1BGA,Şerefiye,Goodwill,20437282.0
+TTKOM,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2412640080.0
+TTKOM,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,60022705.0
+TTKOM,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,16165086.0
+TTKOM,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7543436222.0
+TTKOM,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTKOM,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1338772496.0
+TTKOM,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,388422623.0
+TTKOM,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,516542315.0
+TTKOM,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,171988782.0
+TTKOM,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,92218736.0
+TTKOM,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,4184629.0
+TTKOM,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TTKOM,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),29464340.0
+TTKOM,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,32987627.0
+TTKOM,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,102963443.0
+TTKOM,2025/3,2AAGG,(Ara Toplam),(Subtotal),1338772496.0
+TTKOM,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTKOM,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1837637715.0
+TTKOM,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,1328699651.0
+TTKOM,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTKOM,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,9403336.0
+TTKOM,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,83419068.0
+TTKOM,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTKOM,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTKOM,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,219797667.0
+TTKOM,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTKOM,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,196317992.0
+TTKOM,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTKOM,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4367026011.0
+TTKOM,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4367026011.0
+TTKOM,2025/3,2OA,Ödenmiş Sermaye,Share Capital,92510117.0
+TTKOM,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTKOM,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTKOM,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTKOM,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,83457817.0
+TTKOM,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,122672142.0
+TTKOM,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1999183136.0
+TTKOM,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),135704306.0
+TTKOM,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1933498495.0
+TTKOM,2025/3,2ODA,Azınlık Payları,Minority Interests,0.0
+TTKOM,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7543436222.0
+TTKOM,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTKOM,2025/3,3C,Satış Gelirleri,Net Sales,1257633339.0
+TTKOM,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-746035862.0
+TTKOM,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTKOM,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,511597477.0
+TTKOM,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTKOM,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTKOM,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTKOM,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),511597477.0
+TTKOM,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-114669897.0
+TTKOM,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-156098062.0
+TTKOM,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-17754782.0
+TTKOM,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,22301957.0
+TTKOM,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-41120131.0
+TTKOM,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTKOM,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,204256563.0
+TTKOM,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,223074736.0
+TTKOM,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,22394715.0
+TTKOM,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-270909.0
+TTKOM,2025/3,3HAB,Diğer Gelir ve Giderler,nan,-5868043.0
+TTKOM,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTKOM,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,220512325.0
+TTKOM,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),68715849.0
+TTKOM,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-50837500.0
+TTKOM,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,16255763.0
+TTKOM,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,238390674.0
+TTKOM,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-96779936.0
+TTKOM,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-18791723.0
+TTKOM,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-77988213.0
+TTKOM,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTKOM,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,141610739.0
+TTKOM,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTKOM,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTKOM,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,141610739.0
+TTKOM,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTKOM,2025/3,3LB,Azınlık Payları,Minority Interests,0.0
+TTKOM,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,141610739.0
+TTKOM,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTKOM,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTKOM,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTKOM,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTKOM,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,266959840.0
+TTKOM,2025/3,4BA,Kıdem Tazminatı,Severance Payments,49732322.0
+TTKOM,2025/3,4BB,Finansman Giderleri,Financial Expenses,-50837500.0
+TTKOM,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TTKOM,2025/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TTKOM,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1698815813.0
+TTKOM,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1675776786.0
+TTKOM,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-180282592.0
+TTKOM,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,386399221.0
+TTKOM,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,141610739.0
+TTKOM,2025/3,4CAA,Düzeltmeler:,Adjustments:,378543545.0
+TTKOM,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,266959840.0
+TTKOM,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,50555972.0
+TTKOM,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,241896937.0
+TTKOM,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),520154284.0
+TTKOM,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-46541265.0
+TTKOM,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),473613019.0
+TTKOM,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-87213798.0
+TTKOM,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-242611004.0
+TTKOM,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,286632141.0
+TTKOM,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,44021137.0
+TTKOM,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,430420358.0
+TTKOM,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-294296178.0
+TTKOM,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TTKOM,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTKOM,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-152366648.0
+TTKOM,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-446662827.0
+TTKOM,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-16242468.0
+TTKOM,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,2992275.0
+TTKOM,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTKOM,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-13250194.0
+TTKOM,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTKOM,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,188008551.0
+TTKOM,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,158377124.0
+TTKOM,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,1420691292.0
+TTKOM,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,240929384.0
+TTKOM,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+TTKOM,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,650836448.0
+TTKOM,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,6512870.0
+TTKOM,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,9892521.0
+TTKOM,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,219038616.0
+TTKOM,2025/6,1AF,Stoklar,Inventories,62676854.0
+TTKOM,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTKOM,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,211399062.0
+TTKOM,2025/6,1AI,(Ara Toplam),(Subtotal),1401285755.0
+TTKOM,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,19405537.0
+TTKOM,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,6315893264.0
+TTKOM,2025/6,1B,Ticari Alacaklar,Trade Receivables,4012343.0
+TTKOM,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,7148351.0
+TTKOM,2025/6,1BB,Diğer Alacaklar,Other Receivables,2771147.0
+TTKOM,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,1033623.0
+TTKOM,2025/6,1BC,Finansal Yatırımlar,Financial Investments,15852096.0
+TTKOM,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTKOM,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTKOM,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,4240890.0
+TTKOM,2025/6,1BFA,Stoklar,Stoklar,0.0
+TTKOM,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,268325321.0
+TTKOM,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3447788704.0
+TTKOM,2025/6,1BGA,Şerefiye,Goodwill,20588158.0
+TTKOM,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2464103269.0
+TTKOM,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,64522912.0
+TTKOM,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,15506450.0
+TTKOM,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7736584557.0
+TTKOM,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTKOM,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1517981910.0
+TTKOM,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,473829109.0
+TTKOM,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,610462695.0
+TTKOM,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,157400282.0
+TTKOM,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,74002145.0
+TTKOM,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,8284329.0
+TTKOM,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TTKOM,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),53302614.0
+TTKOM,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,51127664.0
+TTKOM,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,89573073.0
+TTKOM,2025/6,2AAGG,(Ara Toplam),(Subtotal),1517981910.0
+TTKOM,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTKOM,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1707823768.0
+TTKOM,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,1182426983.0
+TTKOM,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TTKOM,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,9149561.0
+TTKOM,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,86561222.0
+TTKOM,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTKOM,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTKOM,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,223263079.0
+TTKOM,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTKOM,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,206422924.0
+TTKOM,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTKOM,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4510778878.0
+TTKOM,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4510778878.0
+TTKOM,2025/6,2OA,Ödenmiş Sermaye,Share Capital,87912309.0
+TTKOM,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTKOM,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTKOM,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTKOM,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,94372432.0
+TTKOM,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,123577604.0
+TTKOM,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2022057650.0
+TTKOM,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),259110729.0
+TTKOM,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1923748154.0
+TTKOM,2025/6,2ODA,Azınlık Payları,Minority Interests,0.0
+TTKOM,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7736584557.0
+TTKOM,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTKOM,2025/6,3C,Satış Gelirleri,Net Sales,2634785152.0
+TTKOM,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1543845686.0
+TTKOM,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTKOM,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1090939466.0
+TTKOM,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTKOM,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTKOM,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTKOM,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1090939466.0
+TTKOM,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-233296467.0
+TTKOM,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-299807951.0
+TTKOM,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-36080595.0
+TTKOM,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,46433889.0
+TTKOM,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-85704882.0
+TTKOM,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTKOM,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,482483459.0
+TTKOM,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,521754452.0
+TTKOM,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,28086992.0
+TTKOM,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-301811.0
+TTKOM,2025/6,3HAB,Diğer Gelir ve Giderler,nan,-11977572.0
+TTKOM,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTKOM,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,498291067.0
+TTKOM,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),111104521.0
+TTKOM,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-170977150.0
+TTKOM,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,15807608.0
+TTKOM,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,438418438.0
+TTKOM,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-163210445.0
+TTKOM,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-69812490.0
+TTKOM,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-93397955.0
+TTKOM,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTKOM,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,275207993.0
+TTKOM,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTKOM,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTKOM,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,275207993.0
+TTKOM,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTKOM,2025/6,3LB,Azınlık Payları,Minority Interests,0.0
+TTKOM,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,275207993.0
+TTKOM,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTKOM,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTKOM,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTKOM,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTKOM,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,543666043.0
+TTKOM,2025/6,4BA,Kıdem Tazminatı,Severance Payments,86447551.0
+TTKOM,2025/6,4BB,Finansman Giderleri,Financial Expenses,-170977150.0
+TTKOM,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TTKOM,2025/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TTKOM,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1771934186.0
+TTKOM,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1748488329.0
+TTKOM,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-199159730.0
+TTKOM,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,938238383.0
+TTKOM,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,275207993.0
+TTKOM,2025/6,4CAA,Düzeltmeler:,Adjustments:,810191868.0
+TTKOM,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,543666043.0
+TTKOM,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,88148049.0
+TTKOM,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,476546108.0
+TTKOM,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1085399861.0
+TTKOM,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-44778851.0
+TTKOM,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1040621011.0
+TTKOM,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-102382628.0
+TTKOM,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-605449955.0
+TTKOM,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,316193971.0
+TTKOM,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-289255984.0
+TTKOM,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,648982398.0
+TTKOM,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-404775702.0
+TTKOM,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TTKOM,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTKOM,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-221465118.0
+TTKOM,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-626240820.0
+TTKOM,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,22741578.0
+TTKOM,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,18681923.0
+TTKOM,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTKOM,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,41423501.0
+TTKOM,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTKOM,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,192772264.0
+TTKOM,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,203130306.0
+TTKOM,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,1546492704.0
+TTKOM,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,349319242.0
+TTKOM,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+TTKOM,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,719920975.0
+TTKOM,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,7565774.0
+TTKOM,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,10152736.0
+TTKOM,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,206451099.0
+TTKOM,2025/9,1AF,Stoklar,Inventories,60549931.0
+TTKOM,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TTKOM,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,172558776.0
+TTKOM,2025/9,1AI,(Ara Toplam),(Subtotal),1526518532.0
+TTKOM,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,19974171.0
+TTKOM,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,6790471964.0
+TTKOM,2025/9,1B,Ticari Alacaklar,Trade Receivables,5747686.0
+TTKOM,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,8878350.0
+TTKOM,2025/9,1BB,Diğer Alacaklar,Other Receivables,2264271.0
+TTKOM,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,1544674.0
+TTKOM,2025/9,1BC,Finansal Yatırımlar,Financial Investments,17999452.0
+TTKOM,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TTKOM,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TTKOM,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,4367196.0
+TTKOM,2025/9,1BFA,Stoklar,Stoklar,0.0
+TTKOM,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,266302764.0
+TTKOM,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3698551258.0
+TTKOM,2025/9,1BGA,Şerefiye,Goodwill,21191440.0
+TTKOM,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2684561537.0
+TTKOM,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,74544294.0
+TTKOM,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,4519042.0
+TTKOM,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8336964667.0
+TTKOM,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TTKOM,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1620166829.0
+TTKOM,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,456822874.0
+TTKOM,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,672326221.0
+TTKOM,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,156585148.0
+TTKOM,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,78256825.0
+TTKOM,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,10423096.0
+TTKOM,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TTKOM,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),82802177.0
+TTKOM,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,69076563.0
+TTKOM,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,93873925.0
+TTKOM,2025/9,2AAGG,(Ara Toplam),(Subtotal),1620166829.0
+TTKOM,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TTKOM,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1842302413.0
+TTKOM,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1260899629.0
+TTKOM,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TTKOM,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,19688492.0
+TTKOM,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,9542249.0
+TTKOM,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,86777806.0
+TTKOM,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TTKOM,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TTKOM,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TTKOM,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,222245200.0
+TTKOM,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TTKOM,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,243149037.0
+TTKOM,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TTKOM,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4874495426.0
+TTKOM,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4874495426.0
+TTKOM,2025/9,2OA,Ödenmiş Sermaye,Share Capital,84171845.0
+TTKOM,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TTKOM,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TTKOM,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TTKOM,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,90283755.0
+TTKOM,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,127198833.0
+TTKOM,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2082123487.0
+TTKOM,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),513030138.0
+TTKOM,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1977687367.0
+TTKOM,2025/9,2ODA,Azınlık Payları,Minority Interests,0.0
+TTKOM,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8336964667.0
+TTKOM,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TTKOM,2025/9,3C,Satış Gelirleri,Net Sales,4288489322.0
+TTKOM,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-2460546190.0
+TTKOM,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TTKOM,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1827943131.0
+TTKOM,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TTKOM,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TTKOM,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TTKOM,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TTKOM,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1827943131.0
+TTKOM,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-361728319.0
+TTKOM,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-460628136.0
+TTKOM,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-54663177.0
+TTKOM,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,60394238.0
+TTKOM,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-116319489.0
+TTKOM,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TTKOM,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,894998247.0
+TTKOM,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,950923499.0
+TTKOM,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,32808761.0
+TTKOM,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-816752.0
+TTKOM,2025/9,3HAB,Diğer Gelir ve Giderler,nan,-19304903.0
+TTKOM,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TTKOM,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,907685354.0
+TTKOM,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),164678454.0
+TTKOM,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-258632750.0
+TTKOM,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,12687106.0
+TTKOM,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,813731058.0
+TTKOM,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-261604473.0
+TTKOM,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-138286077.0
+TTKOM,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-123318396.0
+TTKOM,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TTKOM,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,552126585.0
+TTKOM,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TTKOM,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TTKOM,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,552126585.0
+TTKOM,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TTKOM,2025/9,3LB,Azınlık Payları,Minority Interests,0.0
+TTKOM,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,552126585.0
+TTKOM,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TTKOM,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TTKOM,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TTKOM,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TTKOM,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,849771939.0
+TTKOM,2025/9,4BA,Kıdem Tazminatı,Severance Payments,135739178.0
+TTKOM,2025/9,4BB,Finansman Giderleri,Financial Expenses,-258632750.0
+TTKOM,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TTKOM,2025/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TTKOM,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1941743156.0
+TTKOM,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1917986608.0
+TTKOM,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-421653552.0
+TTKOM,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1639809652.0
+TTKOM,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,552126585.0
+TTKOM,2025/9,4CAA,Düzeltmeler:,Adjustments:,1257985302.0
+TTKOM,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,849771939.0
+TTKOM,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,138395117.0
+TTKOM,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,711015538.0
+TTKOM,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1810111886.0
+TTKOM,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-17839371.0
+TTKOM,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1792272515.0
+TTKOM,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-152462863.0
+TTKOM,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1146439712.0
+TTKOM,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,327326454.0
+TTKOM,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-819113257.0
+TTKOM,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,820696395.0
+TTKOM,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-358274961.0
+TTKOM,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TTKOM,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TTKOM,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-301748035.0
+TTKOM,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-660022996.0
+TTKOM,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,160673400.0
+TTKOM,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,25702005.0
+TTKOM,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TTKOM,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,186375405.0
+TTKOM,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TTKOM,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,201051839.0
+TTKOM,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,323148018.0

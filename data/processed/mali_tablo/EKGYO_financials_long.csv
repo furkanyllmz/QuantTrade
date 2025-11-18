@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+EKGYO,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,5827906577.0
+EKGYO,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,528367179.0
+EKGYO,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EKGYO,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,275379618.0
+EKGYO,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EKGYO,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,49944694.0
+EKGYO,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2022/12,1AF,Stoklar,Inventories,4688546445.0
+EKGYO,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EKGYO,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,285668642.0
+EKGYO,2022/12,1AI,(Ara Toplam),(Subtotal),5827906577.0
+EKGYO,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EKGYO,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,646702114.0
+EKGYO,2022/12,1B,Ticari Alacaklar,Trade Receivables,322786195.0
+EKGYO,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EKGYO,2022/12,1BB,Diğer Alacaklar,Other Receivables,89206.0
+EKGYO,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2022/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+EKGYO,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EKGYO,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EKGYO,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,173338191.0
+EKGYO,2022/12,1BFA,Stoklar,Stoklar,0.0
+EKGYO,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EKGYO,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,21160741.0
+EKGYO,2022/12,1BGA,Şerefiye,Goodwill,0.0
+EKGYO,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,695281.0
+EKGYO,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+EKGYO,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,128632501.0
+EKGYO,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,6474608691.0
+EKGYO,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+EKGYO,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2847901078.0
+EKGYO,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,257287049.0
+EKGYO,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,254608477.0
+EKGYO,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,43025571.0
+EKGYO,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EKGYO,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EKGYO,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EKGYO,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2269069613.0
+EKGYO,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+EKGYO,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,23910367.0
+EKGYO,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+EKGYO,2022/12,2AAGG,(Ara Toplam),(Subtotal),2847901078.0
+EKGYO,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EKGYO,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,284700833.0
+EKGYO,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,270577087.0
+EKGYO,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,1762.0
+EKGYO,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,10325326.0
+EKGYO,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EKGYO,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EKGYO,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EKGYO,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,416773.0
+EKGYO,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,3379885.0
+EKGYO,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EKGYO,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+EKGYO,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EKGYO,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3342006780.0
+EKGYO,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3342006780.0
+EKGYO,2022/12,2OA,Ödenmiş Sermaye,Share Capital,202861414.0
+EKGYO,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EKGYO,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,1069714553.0
+EKGYO,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EKGYO,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EKGYO,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,312827354.0
+EKGYO,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-25840006.0
+EKGYO,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),70329063.0
+EKGYO,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1712114403.0
+EKGYO,2022/12,2ODA,Azınlık Payları,Minority Interests,0.0
+EKGYO,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,6474608691.0
+EKGYO,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EKGYO,2022/12,3C,Satış Gelirleri,Net Sales,1234903748.0
+EKGYO,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-926358476.0
+EKGYO,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EKGYO,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,308545272.0
+EKGYO,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EKGYO,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EKGYO,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EKGYO,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),308545272.0
+EKGYO,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-16655602.0
+EKGYO,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-93687330.0
+EKGYO,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+EKGYO,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,442004410.0
+EKGYO,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-309522100.0
+EKGYO,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EKGYO,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,330684650.0
+EKGYO,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,198202340.0
+EKGYO,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1051399.0
+EKGYO,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EKGYO,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EKGYO,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EKGYO,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,331736048.0
+EKGYO,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),69811631.0
+EKGYO,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-322257692.0
+EKGYO,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1051399.0
+EKGYO,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,79289988.0
+EKGYO,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,0.0
+EKGYO,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+EKGYO,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,0.0
+EKGYO,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EKGYO,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,79289988.0
+EKGYO,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EKGYO,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EKGYO,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,79289988.0
+EKGYO,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EKGYO,2022/12,3LB,Azınlık Payları,Minority Interests,0.0
+EKGYO,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,79289988.0
+EKGYO,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EKGYO,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EKGYO,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EKGYO,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EKGYO,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,3577187.0
+EKGYO,2022/12,4BA,Kıdem Tazminatı,Severance Payments,3716459.0
+EKGYO,2022/12,4BB,Finansman Giderleri,Financial Expenses,-322257692.0
+EKGYO,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EKGYO,2022/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EKGYO,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,304785.0
+EKGYO,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,304785.0
+EKGYO,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),304785.0
+EKGYO,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-185386399.0
+EKGYO,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,79289988.0
+EKGYO,2022/12,4CAA,Düzeltmeler:,Adjustments:,-30028148.0
+EKGYO,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,3577187.0
+EKGYO,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,18108445.0
+EKGYO,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-51713779.0
+EKGYO,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),49261840.0
+EKGYO,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-242124671.0
+EKGYO,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-192862831.0
+EKGYO,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,7476432.0
+EKGYO,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),3233763.0
+EKGYO,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-18541126.0
+EKGYO,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-15307363.0
+EKGYO,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,-200693762.0
+EKGYO,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,263334407.0
+EKGYO,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-46505477.0
+EKGYO,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EKGYO,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,10256328.0
+EKGYO,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,227085258.0
+EKGYO,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,26391497.0
+EKGYO,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EKGYO,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EKGYO,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,26391497.0
+EKGYO,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EKGYO,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,487689063.0
+EKGYO,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,514080559.0
+EKGYO,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,2041429809.0
+EKGYO,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,262092406.0
+EKGYO,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EKGYO,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,132284380.0
+EKGYO,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EKGYO,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,40726498.0
+EKGYO,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2022/3,1AF,Stoklar,Inventories,1519938555.0
+EKGYO,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EKGYO,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,86387970.0
+EKGYO,2022/3,1AI,(Ara Toplam),(Subtotal),2041429809.0
+EKGYO,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EKGYO,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,368928769.0
+EKGYO,2022/3,1B,Ticari Alacaklar,Trade Receivables,270025778.0
+EKGYO,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EKGYO,2022/3,1BB,Diğer Alacaklar,Other Receivables,69151.0
+EKGYO,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2022/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+EKGYO,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EKGYO,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EKGYO,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,57467180.0
+EKGYO,2022/3,1BFA,Stoklar,Stoklar,0.0
+EKGYO,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EKGYO,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5284345.0
+EKGYO,2022/3,1BGA,Şerefiye,Goodwill,0.0
+EKGYO,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,412998.0
+EKGYO,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+EKGYO,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,35669315.0
+EKGYO,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2410358577.0
+EKGYO,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+EKGYO,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1157150680.0
+EKGYO,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,155060729.0
+EKGYO,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,418626112.0
+EKGYO,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,18554779.0
+EKGYO,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EKGYO,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EKGYO,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EKGYO,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,548133665.0
+EKGYO,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+EKGYO,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,16775395.0
+EKGYO,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+EKGYO,2022/3,2AAGG,(Ara Toplam),(Subtotal),1157150680.0
+EKGYO,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EKGYO,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,117845126.0
+EKGYO,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,109811437.0
+EKGYO,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,1978.0
+EKGYO,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,6370989.0
+EKGYO,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EKGYO,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EKGYO,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EKGYO,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,323115.0
+EKGYO,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1337607.0
+EKGYO,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EKGYO,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+EKGYO,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EKGYO,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1135362772.0
+EKGYO,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1135362772.0
+EKGYO,2022/3,2OA,Ödenmiş Sermaye,Share Capital,259146861.0
+EKGYO,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EKGYO,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+EKGYO,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EKGYO,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EKGYO,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,54190950.0
+EKGYO,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),628225731.0
+EKGYO,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),52589968.0
+EKGYO,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,141209261.0
+EKGYO,2022/3,2ODA,Azınlık Payları,Minority Interests,0.0
+EKGYO,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2410358577.0
+EKGYO,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EKGYO,2022/3,3C,Satış Gelirleri,Net Sales,155462702.0
+EKGYO,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-84088681.0
+EKGYO,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EKGYO,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,71374021.0
+EKGYO,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EKGYO,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EKGYO,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EKGYO,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),71374021.0
+EKGYO,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1881742.0
+EKGYO,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-7604692.0
+EKGYO,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+EKGYO,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,6808568.0
+EKGYO,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-13179138.0
+EKGYO,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EKGYO,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,55517016.0
+EKGYO,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,61887586.0
+EKGYO,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+EKGYO,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EKGYO,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EKGYO,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EKGYO,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,55517016.0
+EKGYO,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),9285972.0
+EKGYO,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-9612967.0
+EKGYO,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+EKGYO,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,55190021.0
+EKGYO,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,0.0
+EKGYO,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+EKGYO,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,0.0
+EKGYO,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EKGYO,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,55190021.0
+EKGYO,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EKGYO,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EKGYO,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,55190021.0
+EKGYO,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EKGYO,2022/3,3LB,Azınlık Payları,Minority Interests,0.0
+EKGYO,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,55190021.0
+EKGYO,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EKGYO,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EKGYO,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EKGYO,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EKGYO,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,413593.0
+EKGYO,2022/3,4BA,Kıdem Tazminatı,Severance Payments,235388.0
+EKGYO,2022/3,4BB,Finansman Giderleri,Financial Expenses,-9612967.0
+EKGYO,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EKGYO,2022/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EKGYO,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,0.0
+EKGYO,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,0.0
+EKGYO,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),0.0
+EKGYO,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,74191088.0
+EKGYO,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,55190021.0
+EKGYO,2022/3,4CAA,Düzeltmeler:,Adjustments:,7951583.0
+EKGYO,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,413593.0
+EKGYO,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,5688383.0
+EKGYO,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1849608.0
+EKGYO,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),63141604.0
+EKGYO,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,28474548.0
+EKGYO,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),91616152.0
+EKGYO,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-17425064.0
+EKGYO,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-343098.0
+EKGYO,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1713629.0
+EKGYO,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-2056727.0
+EKGYO,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,72134361.0
+EKGYO,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-43664680.0
+EKGYO,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EKGYO,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EKGYO,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-10124035.0
+EKGYO,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-53788716.0
+EKGYO,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,18345645.0
+EKGYO,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EKGYO,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EKGYO,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,18345645.0
+EKGYO,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EKGYO,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,214249883.0
+EKGYO,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,232595529.0
+EKGYO,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,1957035120.0
+EKGYO,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,358052890.0
+EKGYO,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EKGYO,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,151156703.0
+EKGYO,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EKGYO,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,37067472.0
+EKGYO,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2022/6,1AF,Stoklar,Inventories,1319066106.0
+EKGYO,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EKGYO,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,91691949.0
+EKGYO,2022/6,1AI,(Ara Toplam),(Subtotal),1957035120.0
+EKGYO,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EKGYO,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,329963454.0
+EKGYO,2022/6,1B,Ticari Alacaklar,Trade Receivables,236328888.0
+EKGYO,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EKGYO,2022/6,1BB,Diğer Alacaklar,Other Receivables,60750.0
+EKGYO,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2022/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+EKGYO,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EKGYO,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EKGYO,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,50230957.0
+EKGYO,2022/6,1BFA,Stoklar,Stoklar,0.0
+EKGYO,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EKGYO,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4191200.0
+EKGYO,2022/6,1BGA,Şerefiye,Goodwill,0.0
+EKGYO,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,327055.0
+EKGYO,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+EKGYO,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,38824604.0
+EKGYO,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2286998574.0
+EKGYO,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+EKGYO,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1107377392.0
+EKGYO,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,164672406.0
+EKGYO,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,283222618.0
+EKGYO,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,15395952.0
+EKGYO,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EKGYO,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EKGYO,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EKGYO,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,628678661.0
+EKGYO,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+EKGYO,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,15407755.0
+EKGYO,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+EKGYO,2022/6,2AAGG,(Ara Toplam),(Subtotal),1107377392.0
+EKGYO,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EKGYO,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,164101154.0
+EKGYO,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,155787891.0
+EKGYO,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,4613.0
+EKGYO,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,6386103.0
+EKGYO,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EKGYO,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EKGYO,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EKGYO,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,283859.0
+EKGYO,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1638688.0
+EKGYO,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EKGYO,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+EKGYO,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EKGYO,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1015520028.0
+EKGYO,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1015520028.0
+EKGYO,2022/6,2OA,Ödenmiş Sermaye,Share Capital,227662149.0
+EKGYO,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EKGYO,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,141803264.0
+EKGYO,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EKGYO,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EKGYO,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,53044262.0
+EKGYO,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),523936698.0
+EKGYO,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),86823694.0
+EKGYO,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-17750039.0
+EKGYO,2022/6,2ODA,Azınlık Payları,Minority Interests,0.0
+EKGYO,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2286998574.0
+EKGYO,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EKGYO,2022/6,3C,Satış Gelirleri,Net Sales,303817638.0
+EKGYO,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-143188486.0
+EKGYO,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EKGYO,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,160629152.0
+EKGYO,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EKGYO,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EKGYO,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EKGYO,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),160629152.0
+EKGYO,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-3783473.0
+EKGYO,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-20670284.0
+EKGYO,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+EKGYO,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,22494611.0
+EKGYO,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-50862024.0
+EKGYO,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EKGYO,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,107807981.0
+EKGYO,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,136175395.0
+EKGYO,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,575484.0
+EKGYO,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EKGYO,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EKGYO,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EKGYO,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,108383466.0
+EKGYO,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),14746294.0
+EKGYO,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-25779782.0
+EKGYO,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,575484.0
+EKGYO,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,97349977.0
+EKGYO,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,0.0
+EKGYO,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+EKGYO,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,0.0
+EKGYO,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EKGYO,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,97349977.0
+EKGYO,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EKGYO,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EKGYO,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,97349977.0
+EKGYO,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EKGYO,2022/6,3LB,Azınlık Payları,Minority Interests,0.0
+EKGYO,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,97349977.0
+EKGYO,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EKGYO,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EKGYO,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EKGYO,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EKGYO,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,823224.0
+EKGYO,2022/6,4BA,Kıdem Tazminatı,Severance Payments,872732.0
+EKGYO,2022/6,4BB,Finansman Giderleri,Financial Expenses,-25779782.0
+EKGYO,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EKGYO,2022/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EKGYO,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,0.0
+EKGYO,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,0.0
+EKGYO,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),0.0
+EKGYO,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,28970440.0
+EKGYO,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,97349977.0
+EKGYO,2022/6,4CAA,Düzeltmeler:,Adjustments:,45176907.0
+EKGYO,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,823224.0
+EKGYO,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,6702006.0
+EKGYO,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,37651677.0
+EKGYO,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),142526884.0
+EKGYO,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-80568361.0
+EKGYO,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),61958523.0
+EKGYO,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-32988083.0
+EKGYO,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),673156.0
+EKGYO,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-10042597.0
+EKGYO,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-9369440.0
+EKGYO,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,19600999.0
+EKGYO,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,51854596.0
+EKGYO,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-25257433.0
+EKGYO,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EKGYO,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-11150977.0
+EKGYO,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,15446186.0
+EKGYO,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,35047185.0
+EKGYO,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EKGYO,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EKGYO,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,35047185.0
+EKGYO,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EKGYO,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,201096920.0
+EKGYO,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,236144105.0
+EKGYO,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,1842761359.0
+EKGYO,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,183675595.0
+EKGYO,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EKGYO,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,159359102.0
+EKGYO,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EKGYO,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,29956447.0
+EKGYO,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2022/9,1AF,Stoklar,Inventories,1398524210.0
+EKGYO,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EKGYO,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,71246004.0
+EKGYO,2022/9,1AI,(Ara Toplam),(Subtotal),1842761359.0
+EKGYO,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EKGYO,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,269705370.0
+EKGYO,2022/9,1B,Ticari Alacaklar,Trade Receivables,186836153.0
+EKGYO,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EKGYO,2022/9,1BB,Diğer Alacaklar,Other Receivables,54657.0
+EKGYO,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2022/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+EKGYO,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EKGYO,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EKGYO,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,43908345.0
+EKGYO,2022/9,1BFA,Stoklar,Stoklar,0.0
+EKGYO,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EKGYO,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3713488.0
+EKGYO,2022/9,1BGA,Şerefiye,Goodwill,0.0
+EKGYO,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,262073.0
+EKGYO,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+EKGYO,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,34930655.0
+EKGYO,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2112466729.0
+EKGYO,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+EKGYO,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1006589335.0
+EKGYO,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,114564389.0
+EKGYO,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,121882536.0
+EKGYO,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,30871707.0
+EKGYO,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EKGYO,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EKGYO,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EKGYO,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,724799241.0
+EKGYO,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+EKGYO,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,14471461.0
+EKGYO,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+EKGYO,2022/9,2AAGG,(Ara Toplam),(Subtotal),1006589335.0
+EKGYO,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EKGYO,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,157752546.0
+EKGYO,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,149608616.0
+EKGYO,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EKGYO,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,6298317.0
+EKGYO,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EKGYO,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EKGYO,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EKGYO,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,255389.0
+EKGYO,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1590224.0
+EKGYO,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EKGYO,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+EKGYO,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EKGYO,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,948124848.0
+EKGYO,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,948124848.0
+EKGYO,2022/9,2OA,Ödenmiş Sermaye,Share Capital,204828564.0
+EKGYO,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EKGYO,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,127580975.0
+EKGYO,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EKGYO,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EKGYO,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,47724139.0
+EKGYO,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),471387983.0
+EKGYO,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),112572970.0
+EKGYO,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-15969782.0
+EKGYO,2022/9,2ODA,Azınlık Payları,Minority Interests,0.0
+EKGYO,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2112466729.0
+EKGYO,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EKGYO,2022/9,3C,Satış Gelirleri,Net Sales,338832182.0
+EKGYO,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-149879518.0
+EKGYO,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EKGYO,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,188952664.0
+EKGYO,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EKGYO,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EKGYO,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EKGYO,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),188952664.0
+EKGYO,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-5122877.0
+EKGYO,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-32086274.0
+EKGYO,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+EKGYO,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,44273884.0
+EKGYO,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-47655243.0
+EKGYO,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EKGYO,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,148362154.0
+EKGYO,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,151743513.0
+EKGYO,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,538361.0
+EKGYO,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EKGYO,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EKGYO,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EKGYO,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,148900515.0
+EKGYO,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),22943006.0
+EKGYO,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-40601885.0
+EKGYO,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,538361.0
+EKGYO,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,131241636.0
+EKGYO,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,0.0
+EKGYO,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+EKGYO,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,0.0
+EKGYO,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EKGYO,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,131241636.0
+EKGYO,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EKGYO,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EKGYO,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,131241636.0
+EKGYO,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EKGYO,2022/9,3LB,Azınlık Payları,Minority Interests,0.0
+EKGYO,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,131241636.0
+EKGYO,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EKGYO,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EKGYO,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EKGYO,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EKGYO,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,1095008.0
+EKGYO,2022/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+EKGYO,2022/9,4BB,Finansman Giderleri,Financial Expenses,-40601885.0
+EKGYO,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EKGYO,2022/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EKGYO,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,0.0
+EKGYO,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,0.0
+EKGYO,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),0.0
+EKGYO,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-33868451.0
+EKGYO,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,131241636.0
+EKGYO,2022/9,4CAA,Düzeltmeler:,Adjustments:,42749357.0
+EKGYO,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1095008.0
+EKGYO,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,6921455.0
+EKGYO,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,34732894.0
+EKGYO,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),173990993.0
+EKGYO,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-178194692.0
+EKGYO,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-4203699.0
+EKGYO,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-29664752.0
+EKGYO,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),609937.0
+EKGYO,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-9394759.0
+EKGYO,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-8784822.0
+EKGYO,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,-42653273.0
+EKGYO,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,23189092.0
+EKGYO,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-23628101.0
+EKGYO,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EKGYO,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-16355866.0
+EKGYO,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-16794875.0
+EKGYO,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-59448147.0
+EKGYO,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EKGYO,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EKGYO,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-59448147.0
+EKGYO,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EKGYO,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,188124355.0
+EKGYO,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,128676207.0
+EKGYO,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,5429156395.0
+EKGYO,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,747020003.0
+EKGYO,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EKGYO,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,372519048.0
+EKGYO,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EKGYO,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,44500039.0
+EKGYO,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2023/12,1AF,Stoklar,Inventories,4050841536.0
+EKGYO,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EKGYO,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,214275769.0
+EKGYO,2023/12,1AI,(Ara Toplam),(Subtotal),5429156395.0
+EKGYO,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EKGYO,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,486339327.0
+EKGYO,2023/12,1B,Ticari Alacaklar,Trade Receivables,219591100.0
+EKGYO,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EKGYO,2023/12,1BB,Diğer Alacaklar,Other Receivables,49642.0
+EKGYO,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2023/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+EKGYO,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EKGYO,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EKGYO,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,106423318.0
+EKGYO,2023/12,1BFA,Stoklar,Stoklar,0.0
+EKGYO,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EKGYO,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,20215352.0
+EKGYO,2023/12,1BGA,Şerefiye,Goodwill,0.0
+EKGYO,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,325588.0
+EKGYO,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+EKGYO,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,139734328.0
+EKGYO,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5915495722.0
+EKGYO,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+EKGYO,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2954227891.0
+EKGYO,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,153598180.0
+EKGYO,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,187375463.0
+EKGYO,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,55007748.0
+EKGYO,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EKGYO,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EKGYO,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EKGYO,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2541311811.0
+EKGYO,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+EKGYO,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,16934689.0
+EKGYO,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+EKGYO,2023/12,2AAGG,(Ara Toplam),(Subtotal),2954227891.0
+EKGYO,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EKGYO,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,94891103.0
+EKGYO,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,61848037.0
+EKGYO,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,18089572.0
+EKGYO,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,10294392.0
+EKGYO,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EKGYO,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EKGYO,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EKGYO,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,231967.0
+EKGYO,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,4427136.0
+EKGYO,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EKGYO,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+EKGYO,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EKGYO,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2866376728.0
+EKGYO,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2866376728.0
+EKGYO,2023/12,2OA,Ödenmiş Sermaye,Share Capital,128851560.0
+EKGYO,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EKGYO,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,980983002.0
+EKGYO,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EKGYO,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EKGYO,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,294127387.0
+EKGYO,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-27711596.0
+EKGYO,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-186696721.0
+EKGYO,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1676823097.0
+EKGYO,2023/12,2ODA,Azınlık Payları,Minority Interests,0.0
+EKGYO,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5915495722.0
+EKGYO,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EKGYO,2023/12,3C,Satış Gelirleri,Net Sales,1690536565.0
+EKGYO,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-1185031047.0
+EKGYO,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EKGYO,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,505505517.0
+EKGYO,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EKGYO,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EKGYO,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EKGYO,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),505505517.0
+EKGYO,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-25597797.0
+EKGYO,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-191538253.0
+EKGYO,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+EKGYO,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,151119654.0
+EKGYO,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-208923795.0
+EKGYO,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EKGYO,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,230565327.0
+EKGYO,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,288369467.0
+EKGYO,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,406739.0
+EKGYO,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EKGYO,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EKGYO,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EKGYO,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,230972066.0
+EKGYO,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),242975993.0
+EKGYO,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-705012577.0
+EKGYO,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,406739.0
+EKGYO,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-231064518.0
+EKGYO,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,0.0
+EKGYO,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+EKGYO,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,0.0
+EKGYO,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EKGYO,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-231064518.0
+EKGYO,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EKGYO,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EKGYO,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-231064518.0
+EKGYO,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EKGYO,2023/12,3LB,Azınlık Payları,Minority Interests,0.0
+EKGYO,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,-231064518.0
+EKGYO,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EKGYO,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EKGYO,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EKGYO,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EKGYO,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,4705115.0
+EKGYO,2023/12,4BA,Kıdem Tazminatı,Severance Payments,3164777.0
+EKGYO,2023/12,4BB,Finansman Giderleri,Financial Expenses,-705012577.0
+EKGYO,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EKGYO,2023/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EKGYO,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,533016.0
+EKGYO,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,533016.0
+EKGYO,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),533016.0
+EKGYO,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,598412739.0
+EKGYO,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-231064518.0
+EKGYO,2023/12,4CAA,Düzeltmeler:,Adjustments:,-134428070.0
+EKGYO,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,4705115.0
+EKGYO,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,10449572.0
+EKGYO,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-561157532.0
+EKGYO,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-365492588.0
+EKGYO,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,886834790.0
+EKGYO,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),521342202.0
+EKGYO,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,77070537.0
+EKGYO,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-2261616.0
+EKGYO,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-26945718.0
+EKGYO,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-29207335.0
+EKGYO,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,569205404.0
+EKGYO,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-138235438.0
+EKGYO,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-75820313.0
+EKGYO,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EKGYO,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,194895446.0
+EKGYO,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-19160305.0
+EKGYO,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,550045099.0
+EKGYO,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EKGYO,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EKGYO,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,550045099.0
+EKGYO,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EKGYO,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,517532694.0
+EKGYO,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,864133521.0
+EKGYO,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,2401185649.0
+EKGYO,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,445427615.0
+EKGYO,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EKGYO,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,164753333.0
+EKGYO,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EKGYO,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,46442271.0
+EKGYO,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2023/3,1AF,Stoklar,Inventories,1582388184.0
+EKGYO,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EKGYO,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,162174246.0
+EKGYO,2023/3,1AI,(Ara Toplam),(Subtotal),2401185649.0
+EKGYO,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EKGYO,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,258690418.0
+EKGYO,2023/3,1B,Ticari Alacaklar,Trade Receivables,192141413.0
+EKGYO,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EKGYO,2023/3,1BB,Diğer Alacaklar,Other Receivables,52846.0
+EKGYO,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2023/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+EKGYO,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EKGYO,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EKGYO,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,28411647.0
+EKGYO,2023/3,1BFA,Stoklar,Stoklar,0.0
+EKGYO,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EKGYO,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4084314.0
+EKGYO,2023/3,1BGA,Şerefiye,Goodwill,0.0
+EKGYO,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,195541.0
+EKGYO,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+EKGYO,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,33804657.0
+EKGYO,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2659876067.0
+EKGYO,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+EKGYO,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1544181615.0
+EKGYO,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,229711223.0
+EKGYO,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,100309572.0
+EKGYO,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,66648912.0
+EKGYO,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EKGYO,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EKGYO,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EKGYO,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1132889649.0
+EKGYO,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+EKGYO,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,14622260.0
+EKGYO,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+EKGYO,2023/3,2AAGG,(Ara Toplam),(Subtotal),1544181615.0
+EKGYO,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EKGYO,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,155198720.0
+EKGYO,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,143494043.0
+EKGYO,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EKGYO,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,9383358.0
+EKGYO,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EKGYO,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EKGYO,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EKGYO,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,246928.0
+EKGYO,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2074391.0
+EKGYO,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EKGYO,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+EKGYO,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EKGYO,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,960495732.0
+EKGYO,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,960495732.0
+EKGYO,2023/3,2OA,Ödenmiş Sermaye,Share Capital,198042506.0
+EKGYO,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EKGYO,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,123354163.0
+EKGYO,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EKGYO,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EKGYO,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,51412564.0
+EKGYO,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),563689532.0
+EKGYO,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),48226842.0
+EKGYO,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-24229875.0
+EKGYO,2023/3,2ODA,Azınlık Payları,Minority Interests,0.0
+EKGYO,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2659876067.0
+EKGYO,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EKGYO,2023/3,3C,Satış Gelirleri,Net Sales,526239139.0
+EKGYO,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-418885551.0
+EKGYO,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EKGYO,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,107353589.0
+EKGYO,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EKGYO,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EKGYO,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EKGYO,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),107353589.0
+EKGYO,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-4807424.0
+EKGYO,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-103602284.0
+EKGYO,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+EKGYO,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,16453584.0
+EKGYO,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-105803759.0
+EKGYO,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EKGYO,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-90406295.0
+EKGYO,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-1056119.0
+EKGYO,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+EKGYO,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EKGYO,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EKGYO,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EKGYO,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-90406295.0
+EKGYO,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),25928490.0
+EKGYO,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-110343951.0
+EKGYO,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+EKGYO,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-174821756.0
+EKGYO,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,0.0
+EKGYO,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+EKGYO,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,0.0
+EKGYO,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EKGYO,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-174821756.0
+EKGYO,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EKGYO,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EKGYO,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-174821756.0
+EKGYO,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EKGYO,2023/3,3LB,Azınlık Payları,Minority Interests,0.0
+EKGYO,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,-174821756.0
+EKGYO,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EKGYO,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EKGYO,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EKGYO,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EKGYO,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,1222207.0
+EKGYO,2023/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+EKGYO,2023/3,4BB,Finansman Giderleri,Financial Expenses,-110343951.0
+EKGYO,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EKGYO,2023/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EKGYO,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,0.0
+EKGYO,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,0.0
+EKGYO,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),0.0
+EKGYO,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,173243822.0
+EKGYO,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-161267393.0
+EKGYO,2023/3,4CAA,Düzeltmeler:,Adjustments:,108336033.0
+EKGYO,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1127466.0
+EKGYO,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,2288541.0
+EKGYO,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,104920025.0
+EKGYO,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-52931360.0
+EKGYO,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,219568217.0
+EKGYO,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),166636856.0
+EKGYO,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,6606966.0
+EKGYO,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1052362.0
+EKGYO,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-54727.0
+EKGYO,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1107089.0
+EKGYO,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,172136733.0
+EKGYO,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,136094075.0
+EKGYO,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,-77547720.0
+EKGYO,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EKGYO,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-10941216.0
+EKGYO,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,47605139.0
+EKGYO,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,219741872.0
+EKGYO,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EKGYO,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EKGYO,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,219741872.0
+EKGYO,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EKGYO,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,452079640.0
+EKGYO,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,671821512.0
+EKGYO,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,1891458275.0
+EKGYO,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,467293657.0
+EKGYO,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EKGYO,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,146698364.0
+EKGYO,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EKGYO,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,36218998.0
+EKGYO,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2023/6,1AF,Stoklar,Inventories,1084393458.0
+EKGYO,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EKGYO,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,156853798.0
+EKGYO,2023/6,1AI,(Ara Toplam),(Subtotal),1891458275.0
+EKGYO,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EKGYO,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,250873458.0
+EKGYO,2023/6,1B,Ticari Alacaklar,Trade Receivables,200754012.0
+EKGYO,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EKGYO,2023/6,1BB,Diğer Alacaklar,Other Receivables,39197.0
+EKGYO,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2023/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+EKGYO,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EKGYO,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EKGYO,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,21847110.0
+EKGYO,2023/6,1BFA,Stoklar,Stoklar,0.0
+EKGYO,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EKGYO,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3034643.0
+EKGYO,2023/6,1BGA,Şerefiye,Goodwill,0.0
+EKGYO,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,125166.0
+EKGYO,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+EKGYO,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,25073329.0
+EKGYO,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2142331733.0
+EKGYO,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+EKGYO,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1272852847.0
+EKGYO,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,145111791.0
+EKGYO,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,84535594.0
+EKGYO,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,27515694.0
+EKGYO,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EKGYO,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EKGYO,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EKGYO,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1004635093.0
+EKGYO,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+EKGYO,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,11054674.0
+EKGYO,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+EKGYO,2023/6,2AAGG,(Ara Toplam),(Subtotal),1272852847.0
+EKGYO,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EKGYO,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,98301365.0
+EKGYO,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,90432013.0
+EKGYO,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,3324.0
+EKGYO,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,5358297.0
+EKGYO,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EKGYO,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EKGYO,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EKGYO,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,183149.0
+EKGYO,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2324582.0
+EKGYO,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EKGYO,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+EKGYO,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EKGYO,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,771177521.0
+EKGYO,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,771177521.0
+EKGYO,2023/6,2OA,Ödenmiş Sermaye,Share Capital,146890559.0
+EKGYO,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EKGYO,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,91493297.0
+EKGYO,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EKGYO,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EKGYO,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,38133330.0
+EKGYO,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),418095448.0
+EKGYO,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),101641618.0
+EKGYO,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-25076731.0
+EKGYO,2023/6,2ODA,Azınlık Payları,Minority Interests,0.0
+EKGYO,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2142331733.0
+EKGYO,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EKGYO,2023/6,3C,Satış Gelirleri,Net Sales,1142425295.0
+EKGYO,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-881651342.0
+EKGYO,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EKGYO,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,260773953.0
+EKGYO,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EKGYO,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EKGYO,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EKGYO,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),260773953.0
+EKGYO,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-16322718.0
+EKGYO,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-127939981.0
+EKGYO,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+EKGYO,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,108490774.0
+EKGYO,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-211139666.0
+EKGYO,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EKGYO,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,13862364.0
+EKGYO,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,116511255.0
+EKGYO,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+EKGYO,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EKGYO,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EKGYO,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EKGYO,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,13862364.0
+EKGYO,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),92040385.0
+EKGYO,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-254017209.0
+EKGYO,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+EKGYO,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-148114460.0
+EKGYO,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,0.0
+EKGYO,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+EKGYO,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,0.0
+EKGYO,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EKGYO,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-148114460.0
+EKGYO,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EKGYO,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EKGYO,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-148114460.0
+EKGYO,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EKGYO,2023/6,3LB,Azınlık Payları,Minority Interests,0.0
+EKGYO,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,-148114460.0
+EKGYO,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EKGYO,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EKGYO,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EKGYO,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EKGYO,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,2248040.0
+EKGYO,2023/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+EKGYO,2023/6,4BB,Finansman Giderleri,Financial Expenses,-254017209.0
+EKGYO,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EKGYO,2023/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EKGYO,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,0.0
+EKGYO,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,0.0
+EKGYO,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),0.0
+EKGYO,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,534937613.0
+EKGYO,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-148114460.0
+EKGYO,2023/6,4CAA,Düzeltmeler:,Adjustments:,-295714649.0
+EKGYO,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2248040.0
+EKGYO,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,741232.0
+EKGYO,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-298703921.0
+EKGYO,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-443829109.0
+EKGYO,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,978864546.0
+EKGYO,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),535035437.0
+EKGYO,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-97824.0
+EKGYO,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1071623.0
+EKGYO,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,31026158.0
+EKGYO,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,29954535.0
+EKGYO,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,564892148.0
+EKGYO,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-22857400.0
+EKGYO,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-80214302.0
+EKGYO,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EKGYO,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,7437323.0
+EKGYO,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-95634380.0
+EKGYO,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,469257768.0
+EKGYO,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EKGYO,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EKGYO,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,469257768.0
+EKGYO,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EKGYO,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,414880593.0
+EKGYO,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,884138362.0
+EKGYO,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,1948124225.0
+EKGYO,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,550765952.0
+EKGYO,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EKGYO,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,170355757.0
+EKGYO,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EKGYO,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,24598046.0
+EKGYO,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2023/9,1AF,Stoklar,Inventories,1078448954.0
+EKGYO,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EKGYO,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,123955517.0
+EKGYO,2023/9,1AI,(Ara Toplam),(Subtotal),1948124225.0
+EKGYO,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EKGYO,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,235090680.0
+EKGYO,2023/9,1B,Ticari Alacaklar,Trade Receivables,173024174.0
+EKGYO,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EKGYO,2023/9,1BB,Diğer Alacaklar,Other Receivables,36972.0
+EKGYO,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2023/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+EKGYO,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EKGYO,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EKGYO,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,20366586.0
+EKGYO,2023/9,1BFA,Stoklar,Stoklar,0.0
+EKGYO,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EKGYO,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3328484.0
+EKGYO,2023/9,1BGA,Şerefiye,Goodwill,0.0
+EKGYO,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,99322.0
+EKGYO,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+EKGYO,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,38235142.0
+EKGYO,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2183214906.0
+EKGYO,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+EKGYO,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1290337855.0
+EKGYO,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,110329942.0
+EKGYO,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,76969992.0
+EKGYO,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,27268030.0
+EKGYO,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EKGYO,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EKGYO,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EKGYO,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1064453766.0
+EKGYO,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+EKGYO,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,11316123.0
+EKGYO,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+EKGYO,2023/9,2AAGG,(Ara Toplam),(Subtotal),1290337855.0
+EKGYO,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EKGYO,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,72028550.0
+EKGYO,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,62351929.0
+EKGYO,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EKGYO,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,7360971.0
+EKGYO,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EKGYO,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EKGYO,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EKGYO,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,172756.0
+EKGYO,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2142894.0
+EKGYO,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EKGYO,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+EKGYO,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EKGYO,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,820848501.0
+EKGYO,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,820848501.0
+EKGYO,2023/9,2OA,Ödenmiş Sermaye,Share Capital,138554656.0
+EKGYO,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EKGYO,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,86301138.0
+EKGYO,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EKGYO,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EKGYO,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,35969299.0
+EKGYO,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),394368920.0
+EKGYO,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),138691570.0
+EKGYO,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,26962918.0
+EKGYO,2023/9,2ODA,Azınlık Payları,Minority Interests,0.0
+EKGYO,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2183214906.0
+EKGYO,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EKGYO,2023/9,3C,Satış Gelirleri,Net Sales,1299881488.0
+EKGYO,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1014682596.0
+EKGYO,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EKGYO,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,285198892.0
+EKGYO,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EKGYO,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EKGYO,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EKGYO,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),285198892.0
+EKGYO,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-19618132.0
+EKGYO,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-153854368.0
+EKGYO,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+EKGYO,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,136208446.0
+EKGYO,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-88760850.0
+EKGYO,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EKGYO,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,159173988.0
+EKGYO,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,111726392.0
+EKGYO,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,397271.0
+EKGYO,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EKGYO,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EKGYO,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EKGYO,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,159571259.0
+EKGYO,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),148251086.0
+EKGYO,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-548704374.0
+EKGYO,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,397271.0
+EKGYO,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-240882028.0
+EKGYO,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,0.0
+EKGYO,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+EKGYO,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,0.0
+EKGYO,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EKGYO,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-240882028.0
+EKGYO,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EKGYO,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EKGYO,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-240882028.0
+EKGYO,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EKGYO,2023/9,3LB,Azınlık Payları,Minority Interests,0.0
+EKGYO,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,-240882028.0
+EKGYO,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EKGYO,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EKGYO,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EKGYO,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EKGYO,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,3579133.0
+EKGYO,2023/9,4BA,Kıdem Tazminatı,Severance Payments,-5916135.0
+EKGYO,2023/9,4BB,Finansman Giderleri,Financial Expenses,-548704374.0
+EKGYO,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EKGYO,2023/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EKGYO,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,0.0
+EKGYO,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,0.0
+EKGYO,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),0.0
+EKGYO,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,704466174.0
+EKGYO,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-240882028.0
+EKGYO,2023/9,4CAA,Düzeltmeler:,Adjustments:,-144214545.0
+EKGYO,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,3579133.0
+EKGYO,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,-5386155.0
+EKGYO,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-142407522.0
+EKGYO,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-385096573.0
+EKGYO,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,1089657797.0
+EKGYO,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),704561224.0
+EKGYO,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-95050.0
+EKGYO,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-2336822.0
+EKGYO,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,35810652.0
+EKGYO,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,33473830.0
+EKGYO,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,737940004.0
+EKGYO,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-76141877.0
+EKGYO,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-77930610.0
+EKGYO,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EKGYO,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,176909058.0
+EKGYO,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,22836572.0
+EKGYO,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,760776576.0
+EKGYO,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EKGYO,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EKGYO,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,760776576.0
+EKGYO,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EKGYO,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,189933861.0
+EKGYO,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,950710437.0
+EKGYO,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,6467359292.0
+EKGYO,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,280603198.0
+EKGYO,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EKGYO,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,182607087.0
+EKGYO,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EKGYO,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,32870269.0
+EKGYO,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2024/12,1AF,Stoklar,Inventories,5796812591.0
+EKGYO,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EKGYO,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,174466148.0
+EKGYO,2024/12,1AI,(Ara Toplam),(Subtotal),6467359292.0
+EKGYO,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EKGYO,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,687406721.0
+EKGYO,2024/12,1B,Ticari Alacaklar,Trade Receivables,154231924.0
+EKGYO,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EKGYO,2024/12,1BB,Diğer Alacaklar,Other Receivables,35985.0
+EKGYO,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2024/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+EKGYO,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EKGYO,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EKGYO,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,109123081.0
+EKGYO,2024/12,1BFA,Stoklar,Stoklar,0.0
+EKGYO,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EKGYO,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,30767011.0
+EKGYO,2024/12,1BGA,Şerefiye,Goodwill,0.0
+EKGYO,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,210766.0
+EKGYO,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,246792024.0
+EKGYO,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,146245928.0
+EKGYO,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7154766013.0
+EKGYO,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+EKGYO,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3666511890.0
+EKGYO,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,457876622.0
+EKGYO,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,283812700.0
+EKGYO,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,103027731.0
+EKGYO,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EKGYO,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EKGYO,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EKGYO,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2805139763.0
+EKGYO,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+EKGYO,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,16655074.0
+EKGYO,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+EKGYO,2024/12,2AAGG,(Ara Toplam),(Subtotal),3666511890.0
+EKGYO,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EKGYO,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,34623965.0
+EKGYO,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
+EKGYO,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,13103179.0
+EKGYO,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,16770908.0
+EKGYO,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EKGYO,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EKGYO,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EKGYO,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,168144.0
+EKGYO,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,4581733.0
+EKGYO,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EKGYO,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+EKGYO,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EKGYO,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3453630158.0
+EKGYO,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3453630158.0
+EKGYO,2024/12,2OA,Ödenmiş Sermaye,Share Capital,107515321.0
+EKGYO,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EKGYO,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,1026696670.0
+EKGYO,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EKGYO,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EKGYO,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,307833681.0
+EKGYO,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-224399714.0
+EKGYO,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),453807235.0
+EKGYO,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1754836262.0
+EKGYO,2024/12,2ODA,Azınlık Payları,Minority Interests,0.0
+EKGYO,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7154766013.0
+EKGYO,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EKGYO,2024/12,3C,Satış Gelirleri,Net Sales,1202772701.0
+EKGYO,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-952313459.0
+EKGYO,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EKGYO,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,250459241.0
+EKGYO,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EKGYO,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EKGYO,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EKGYO,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),250459241.0
+EKGYO,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-16330043.0
+EKGYO,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-103010115.0
+EKGYO,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+EKGYO,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,333036217.0
+EKGYO,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-155989980.0
+EKGYO,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EKGYO,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,308165321.0
+EKGYO,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,131119083.0
+EKGYO,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+EKGYO,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-6677.0
+EKGYO,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EKGYO,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EKGYO,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,308158643.0
+EKGYO,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),127556308.0
+EKGYO,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-213083243.0
+EKGYO,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-6677.0
+EKGYO,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,222631709.0
+EKGYO,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,265281339.0
+EKGYO,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+EKGYO,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,265281339.0
+EKGYO,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EKGYO,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,487913047.0
+EKGYO,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EKGYO,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,487913047.0
+EKGYO,2024/12,3LB,Azınlık Payları,Minority Interests,0.0
+EKGYO,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,487913047.0
+EKGYO,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EKGYO,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EKGYO,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EKGYO,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EKGYO,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,4824121.0
+EKGYO,2024/12,4BA,Kıdem Tazminatı,Severance Payments,809508.0
+EKGYO,2024/12,4BB,Finansman Giderleri,Financial Expenses,-213083243.0
+EKGYO,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EKGYO,2024/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EKGYO,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,390522.0
+EKGYO,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,390522.0
+EKGYO,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),390522.0
+EKGYO,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-850371509.0
+EKGYO,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,487913047.0
+EKGYO,2024/12,4CAA,Düzeltmeler:,Adjustments:,-346380474.0
+EKGYO,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,4824121.0
+EKGYO,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,7566819.0
+EKGYO,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-502199288.0
+EKGYO,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),141532573.0
+EKGYO,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-998213409.0
+EKGYO,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-856680835.0
+EKGYO,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,6309326.0
+EKGYO,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-12593508.0
+EKGYO,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+EKGYO,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-12593508.0
+EKGYO,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,-862965017.0
+EKGYO,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,336236744.0
+EKGYO,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EKGYO,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EKGYO,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,94221021.0
+EKGYO,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,430457765.0
+EKGYO,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-432507252.0
+EKGYO,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EKGYO,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EKGYO,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-432507252.0
+EKGYO,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EKGYO,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,785662398.0
+EKGYO,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,239176873.0
+EKGYO,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,3925350270.0
+EKGYO,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,144598591.0
+EKGYO,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EKGYO,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,192717570.0
+EKGYO,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EKGYO,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,11183140.0
+EKGYO,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2024/3,1AF,Stoklar,Inventories,3030336203.0
+EKGYO,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EKGYO,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,546514766.0
+EKGYO,2024/3,1AI,(Ara Toplam),(Subtotal),3925350270.0
+EKGYO,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EKGYO,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,305096928.0
+EKGYO,2024/3,1B,Ticari Alacaklar,Trade Receivables,111732213.0
+EKGYO,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EKGYO,2024/3,1BB,Diğer Alacaklar,Other Receivables,31351.0
+EKGYO,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2024/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+EKGYO,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EKGYO,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EKGYO,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,77079237.0
+EKGYO,2024/3,1BFA,Stoklar,Stoklar,0.0
+EKGYO,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EKGYO,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,14525594.0
+EKGYO,2024/3,1BGA,Şerefiye,Goodwill,0.0
+EKGYO,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,187085.0
+EKGYO,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+EKGYO,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,101541449.0
+EKGYO,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4230447198.0
+EKGYO,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+EKGYO,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2097564464.0
+EKGYO,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,96661101.0
+EKGYO,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,84479341.0
+EKGYO,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,48278145.0
+EKGYO,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EKGYO,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EKGYO,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EKGYO,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1857800770.0
+EKGYO,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+EKGYO,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,10345107.0
+EKGYO,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+EKGYO,2024/3,2AAGG,(Ara Toplam),(Subtotal),2097564464.0
+EKGYO,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EKGYO,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,42022966.0
+EKGYO,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,18303034.0
+EKGYO,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,11411408.0
+EKGYO,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,9307838.0
+EKGYO,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EKGYO,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EKGYO,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EKGYO,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,146490.0
+EKGYO,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2854197.0
+EKGYO,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EKGYO,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+EKGYO,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EKGYO,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2090859768.0
+EKGYO,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2090859768.0
+EKGYO,2024/3,2OA,Ödenmiş Sermaye,Share Capital,117488468.0
+EKGYO,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EKGYO,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,712855897.0
+EKGYO,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EKGYO,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EKGYO,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,213735020.0
+EKGYO,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-155805167.0
+EKGYO,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),7935264.0
+EKGYO,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1194650286.0
+EKGYO,2024/3,2ODA,Azınlık Payları,Minority Interests,0.0
+EKGYO,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4230447198.0
+EKGYO,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EKGYO,2024/3,3C,Satış Gelirleri,Net Sales,93985024.0
+EKGYO,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-57707805.0
+EKGYO,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EKGYO,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,36277219.0
+EKGYO,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EKGYO,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EKGYO,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EKGYO,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),36277219.0
+EKGYO,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-3074280.0
+EKGYO,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-19057525.0
+EKGYO,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+EKGYO,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,26878122.0
+EKGYO,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-5327447.0
+EKGYO,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EKGYO,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,35696090.0
+EKGYO,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,14145414.0
+EKGYO,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+EKGYO,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EKGYO,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EKGYO,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EKGYO,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,35696090.0
+EKGYO,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),45457294.0
+EKGYO,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-69704896.0
+EKGYO,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+EKGYO,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,11448487.0
+EKGYO,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,0.0
+EKGYO,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+EKGYO,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,0.0
+EKGYO,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EKGYO,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,11448487.0
+EKGYO,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EKGYO,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EKGYO,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,11448487.0
+EKGYO,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EKGYO,2024/3,3LB,Azınlık Payları,Minority Interests,0.0
+EKGYO,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,11448487.0
+EKGYO,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EKGYO,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EKGYO,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EKGYO,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EKGYO,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,1229441.0
+EKGYO,2024/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+EKGYO,2024/3,4BB,Finansman Giderleri,Financial Expenses,-69704896.0
+EKGYO,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EKGYO,2024/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EKGYO,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,0.0
+EKGYO,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,0.0
+EKGYO,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),0.0
+EKGYO,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-463314520.0
+EKGYO,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,11448487.0
+EKGYO,2024/3,4CAA,Düzeltmeler:,Adjustments:,84871583.0
+EKGYO,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1229441.0
+EKGYO,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,-1008610.0
+EKGYO,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-23408467.0
+EKGYO,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),96320070.0
+EKGYO,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-565125697.0
+EKGYO,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-468805627.0
+EKGYO,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,5491107.0
+EKGYO,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-886907.0
+EKGYO,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+EKGYO,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-886907.0
+EKGYO,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-464201427.0
+EKGYO,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-31721628.0
+EKGYO,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EKGYO,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EKGYO,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,22260614.0
+EKGYO,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-9461014.0
+EKGYO,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-473662441.0
+EKGYO,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EKGYO,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EKGYO,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-473662441.0
+EKGYO,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EKGYO,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,732001137.0
+EKGYO,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,162508348.0
+EKGYO,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,4396717986.0
+EKGYO,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,232326237.0
+EKGYO,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EKGYO,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,282762724.0
+EKGYO,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EKGYO,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,10682737.0
+EKGYO,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2024/6,1AF,Stoklar,Inventories,3789275938.0
+EKGYO,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EKGYO,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,81670351.0
+EKGYO,2024/6,1AI,(Ara Toplam),(Subtotal),4396717986.0
+EKGYO,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EKGYO,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,305988147.0
+EKGYO,2024/6,1B,Ticari Alacaklar,Trade Receivables,94053483.0
+EKGYO,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EKGYO,2024/6,1BB,Diğer Alacaklar,Other Receivables,30834.0
+EKGYO,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2024/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+EKGYO,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EKGYO,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EKGYO,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,81588430.0
+EKGYO,2024/6,1BFA,Stoklar,Stoklar,0.0
+EKGYO,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EKGYO,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,21902522.0
+EKGYO,2024/6,1BGA,Şerefiye,Goodwill,0.0
+EKGYO,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,150189.0
+EKGYO,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+EKGYO,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,108262689.0
+EKGYO,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4702706133.0
+EKGYO,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+EKGYO,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2431882604.0
+EKGYO,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,94071637.0
+EKGYO,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,167251903.0
+EKGYO,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,55167719.0
+EKGYO,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EKGYO,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EKGYO,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EKGYO,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2105312799.0
+EKGYO,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+EKGYO,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,10078546.0
+EKGYO,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+EKGYO,2024/6,2AAGG,(Ara Toplam),(Subtotal),2431882604.0
+EKGYO,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EKGYO,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,32686702.0
+EKGYO,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,7510407.0
+EKGYO,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,11224012.0
+EKGYO,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,10465770.0
+EKGYO,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EKGYO,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EKGYO,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EKGYO,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,144077.0
+EKGYO,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,3342436.0
+EKGYO,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EKGYO,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+EKGYO,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EKGYO,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2238136827.0
+EKGYO,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2238136827.0
+EKGYO,2024/6,2OA,Ödenmiş Sermaye,Share Capital,115553150.0
+EKGYO,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EKGYO,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,760041204.0
+EKGYO,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EKGYO,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EKGYO,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,227882580.0
+EKGYO,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-166118205.0
+EKGYO,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),17339450.0
+EKGYO,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1283438649.0
+EKGYO,2024/6,2ODA,Azınlık Payları,Minority Interests,0.0
+EKGYO,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4702706133.0
+EKGYO,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EKGYO,2024/6,3C,Satış Gelirleri,Net Sales,307412390.0
+EKGYO,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-203105789.0
+EKGYO,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EKGYO,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,104306601.0
+EKGYO,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EKGYO,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EKGYO,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EKGYO,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),104306601.0
+EKGYO,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-6963301.0
+EKGYO,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-45672576.0
+EKGYO,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+EKGYO,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,35291489.0
+EKGYO,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-7973802.0
+EKGYO,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EKGYO,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,78988412.0
+EKGYO,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,51670724.0
+EKGYO,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+EKGYO,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EKGYO,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EKGYO,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EKGYO,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,78988412.0
+EKGYO,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),81090434.0
+EKGYO,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-135726631.0
+EKGYO,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+EKGYO,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,24352214.0
+EKGYO,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,0.0
+EKGYO,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+EKGYO,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,0.0
+EKGYO,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EKGYO,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,24352214.0
+EKGYO,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EKGYO,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EKGYO,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,24352214.0
+EKGYO,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EKGYO,2024/6,3LB,Azınlık Payları,Minority Interests,0.0
+EKGYO,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,24352214.0
+EKGYO,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EKGYO,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EKGYO,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EKGYO,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EKGYO,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,2268837.0
+EKGYO,2024/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+EKGYO,2024/6,4BB,Finansman Giderleri,Financial Expenses,-135726631.0
+EKGYO,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EKGYO,2024/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EKGYO,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,0.0
+EKGYO,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,0.0
+EKGYO,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),0.0
+EKGYO,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-354069062.0
+EKGYO,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,24352214.0
+EKGYO,2024/6,4CAA,Düzeltmeler:,Adjustments:,88134280.0
+EKGYO,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2268837.0
+EKGYO,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,-421385.0
+EKGYO,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-116640763.0
+EKGYO,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),112486494.0
+EKGYO,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-466238971.0
+EKGYO,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-353752478.0
+EKGYO,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-316584.0
+EKGYO,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-9673572.0
+EKGYO,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+EKGYO,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-9673572.0
+EKGYO,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,-363742633.0
+EKGYO,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-53730370.0
+EKGYO,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EKGYO,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EKGYO,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,60379965.0
+EKGYO,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,6649594.0
+EKGYO,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-357093039.0
+EKGYO,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EKGYO,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EKGYO,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-357093039.0
+EKGYO,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EKGYO,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,759737631.0
+EKGYO,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,283851937.0
+EKGYO,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,4810827324.0
+EKGYO,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,94095809.0
+EKGYO,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EKGYO,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,222660192.0
+EKGYO,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EKGYO,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,15675389.0
+EKGYO,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2024/9,1AF,Stoklar,Inventories,4373486579.0
+EKGYO,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EKGYO,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,104909354.0
+EKGYO,2024/9,1AI,(Ara Toplam),(Subtotal),4810827324.0
+EKGYO,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EKGYO,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,320386309.0
+EKGYO,2024/9,1B,Ticari Alacaklar,Trade Receivables,99176304.0
+EKGYO,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EKGYO,2024/9,1BB,Diğer Alacaklar,Other Receivables,29664.0
+EKGYO,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2024/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+EKGYO,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EKGYO,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EKGYO,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,85148716.0
+EKGYO,2024/9,1BFA,Stoklar,Stoklar,0.0
+EKGYO,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EKGYO,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,22450903.0
+EKGYO,2024/9,1BGA,Şerefiye,Goodwill,0.0
+EKGYO,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,136444.0
+EKGYO,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+EKGYO,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,113444277.0
+EKGYO,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5131213633.0
+EKGYO,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+EKGYO,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2685459665.0
+EKGYO,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,174710978.0
+EKGYO,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,188613794.0
+EKGYO,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,63301104.0
+EKGYO,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EKGYO,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EKGYO,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EKGYO,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2248207855.0
+EKGYO,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+EKGYO,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,10625934.0
+EKGYO,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+EKGYO,2024/9,2AAGG,(Ara Toplam),(Subtotal),2685459665.0
+EKGYO,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EKGYO,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,29548804.0
+EKGYO,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,2496570.0
+EKGYO,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,10800468.0
+EKGYO,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,12893966.0
+EKGYO,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EKGYO,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EKGYO,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EKGYO,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,138609.0
+EKGYO,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,3219191.0
+EKGYO,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EKGYO,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+EKGYO,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EKGYO,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2416205163.0
+EKGYO,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2416205163.0
+EKGYO,2024/9,2OA,Ödenmiş Sermaye,Share Capital,111167995.0
+EKGYO,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EKGYO,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,796417758.0
+EKGYO,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EKGYO,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EKGYO,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,238789322.0
+EKGYO,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-174068836.0
+EKGYO,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),89117619.0
+EKGYO,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1354781306.0
+EKGYO,2024/9,2ODA,Azınlık Payları,Minority Interests,0.0
+EKGYO,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5131213633.0
+EKGYO,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EKGYO,2024/9,3C,Satış Gelirleri,Net Sales,673113507.0
+EKGYO,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-465069362.0
+EKGYO,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EKGYO,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,208044145.0
+EKGYO,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EKGYO,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EKGYO,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EKGYO,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),208044145.0
+EKGYO,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-9226487.0
+EKGYO,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-76537887.0
+EKGYO,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+EKGYO,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,64002385.0
+EKGYO,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-8722119.0
+EKGYO,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EKGYO,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,177560037.0
+EKGYO,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,122279771.0
+EKGYO,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+EKGYO,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EKGYO,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EKGYO,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EKGYO,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,177560037.0
+EKGYO,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),118705204.0
+EKGYO,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-170475713.0
+EKGYO,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+EKGYO,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,125789529.0
+EKGYO,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,0.0
+EKGYO,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+EKGYO,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,0.0
+EKGYO,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EKGYO,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,125789529.0
+EKGYO,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EKGYO,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EKGYO,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,125789529.0
+EKGYO,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EKGYO,2024/9,3LB,Azınlık Payları,Minority Interests,0.0
+EKGYO,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,125789529.0
+EKGYO,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EKGYO,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EKGYO,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EKGYO,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EKGYO,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,3435223.0
+EKGYO,2024/9,4BA,Kıdem Tazminatı,Severance Payments,607900.0
+EKGYO,2024/9,4BB,Finansman Giderleri,Financial Expenses,-170475713.0
+EKGYO,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EKGYO,2024/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EKGYO,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,0.0
+EKGYO,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,0.0
+EKGYO,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),0.0
+EKGYO,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-740318494.0
+EKGYO,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,125789529.0
+EKGYO,2024/9,4CAA,Düzeltmeler:,Adjustments:,78920725.0
+EKGYO,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,3435223.0
+EKGYO,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,1015923.0
+EKGYO,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-150539684.0
+EKGYO,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),204710254.0
+EKGYO,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-944312794.0
+EKGYO,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-739602540.0
+EKGYO,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-715954.0
+EKGYO,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-10011803.0
+EKGYO,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,6809263.0
+EKGYO,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-3202540.0
+EKGYO,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,-743521035.0
+EKGYO,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,69048203.0
+EKGYO,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EKGYO,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EKGYO,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,109746685.0
+EKGYO,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,178794888.0
+EKGYO,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-564726146.0
+EKGYO,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EKGYO,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EKGYO,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-564726146.0
+EKGYO,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EKGYO,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,800100743.0
+EKGYO,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,95967844.0
+EKGYO,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,5056026690.0
+EKGYO,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,114422777.0
+EKGYO,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EKGYO,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,202469914.0
+EKGYO,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EKGYO,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,21416541.0
+EKGYO,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2025/3,1AF,Stoklar,Inventories,4609884891.0
+EKGYO,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EKGYO,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,107832567.0
+EKGYO,2025/3,1AI,(Ara Toplam),(Subtotal),5056026690.0
+EKGYO,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EKGYO,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,577598517.0
+EKGYO,2025/3,1B,Ticari Alacaklar,Trade Receivables,151724574.0
+EKGYO,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EKGYO,2025/3,1BB,Diğer Alacaklar,Other Receivables,26802.0
+EKGYO,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2025/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+EKGYO,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EKGYO,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EKGYO,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,98343752.0
+EKGYO,2025/3,1BFA,Stoklar,Stoklar,0.0
+EKGYO,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EKGYO,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,25346953.0
+EKGYO,2025/3,1BGA,Şerefiye,Goodwill,0.0
+EKGYO,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,610646.0
+EKGYO,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,181662513.0
+EKGYO,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,119883279.0
+EKGYO,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5633625207.0
+EKGYO,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+EKGYO,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2713060420.0
+EKGYO,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,335716385.0
+EKGYO,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,283766668.0
+EKGYO,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,51132218.0
+EKGYO,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EKGYO,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EKGYO,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EKGYO,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1992387501.0
+EKGYO,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),37492527.0
+EKGYO,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,12565121.0
+EKGYO,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+EKGYO,2025/3,2AAGG,(Ara Toplam),(Subtotal),2713060420.0
+EKGYO,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EKGYO,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,15027343.0
+EKGYO,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
+EKGYO,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,10176.0
+EKGYO,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,11412762.0
+EKGYO,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EKGYO,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EKGYO,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EKGYO,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,125232.0
+EKGYO,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,3479173.0
+EKGYO,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EKGYO,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+EKGYO,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EKGYO,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2905537444.0
+EKGYO,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2905537444.0
+EKGYO,2025/3,2OA,Ödenmiş Sermaye,Share Capital,100439555.0
+EKGYO,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EKGYO,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,841621861.0
+EKGYO,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EKGYO,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EKGYO,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,252342832.0
+EKGYO,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),188053957.0
+EKGYO,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),74466996.0
+EKGYO,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1448612243.0
+EKGYO,2025/3,2ODA,Azınlık Payları,Minority Interests,0.0
+EKGYO,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5633625207.0
+EKGYO,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EKGYO,2025/3,3C,Satış Gelirleri,Net Sales,619446956.0
+EKGYO,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-466329529.0
+EKGYO,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EKGYO,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,153117427.0
+EKGYO,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EKGYO,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EKGYO,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EKGYO,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),153117427.0
+EKGYO,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-4165083.0
+EKGYO,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-18311053.0
+EKGYO,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+EKGYO,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,45981077.0
+EKGYO,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-20483788.0
+EKGYO,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EKGYO,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,156138580.0
+EKGYO,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,130641290.0
+EKGYO,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+EKGYO,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EKGYO,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EKGYO,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EKGYO,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,156138580.0
+EKGYO,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),11003981.0
+EKGYO,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-28769465.0
+EKGYO,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+EKGYO,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,138373096.0
+EKGYO,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-60664977.0
+EKGYO,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-39124362.0
+EKGYO,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-21540615.0
+EKGYO,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EKGYO,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,77708119.0
+EKGYO,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EKGYO,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EKGYO,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,77708119.0
+EKGYO,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EKGYO,2025/3,3LB,Azınlık Payları,Minority Interests,0.0
+EKGYO,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,77708119.0
+EKGYO,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EKGYO,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EKGYO,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EKGYO,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EKGYO,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,1024308.0
+EKGYO,2025/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+EKGYO,2025/3,4BB,Finansman Giderleri,Financial Expenses,-28769465.0
+EKGYO,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EKGYO,2025/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EKGYO,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,0.0
+EKGYO,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,0.0
+EKGYO,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),0.0
+EKGYO,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-102337324.0
+EKGYO,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,77708119.0
+EKGYO,2025/3,4CAA,Düzeltmeler:,Adjustments:,-87306169.0
+EKGYO,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1024308.0
+EKGYO,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,238997.0
+EKGYO,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-52288583.0
+EKGYO,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-9598050.0
+EKGYO,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-93958310.0
+EKGYO,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-103556360.0
+EKGYO,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,1219036.0
+EKGYO,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-10891282.0
+EKGYO,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+EKGYO,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-10891282.0
+EKGYO,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-113228606.0
+EKGYO,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-6084699.0
+EKGYO,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EKGYO,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EKGYO,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,27910896.0
+EKGYO,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,21826198.0
+EKGYO,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-91402408.0
+EKGYO,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EKGYO,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EKGYO,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-91402408.0
+EKGYO,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EKGYO,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,190294205.0
+EKGYO,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,83650220.0
+EKGYO,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,5008654866.0
+EKGYO,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,186770504.0
+EKGYO,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EKGYO,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,276337498.0
+EKGYO,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EKGYO,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,26862661.0
+EKGYO,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2025/6,1AF,Stoklar,Inventories,4396460902.0
+EKGYO,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EKGYO,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,122223302.0
+EKGYO,2025/6,1AI,(Ara Toplam),(Subtotal),5008654866.0
+EKGYO,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EKGYO,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,569881519.0
+EKGYO,2025/6,1B,Ticari Alacaklar,Trade Receivables,155600893.0
+EKGYO,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EKGYO,2025/6,1BB,Diğer Alacaklar,Other Receivables,25469.0
+EKGYO,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2025/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+EKGYO,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EKGYO,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EKGYO,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,98553014.0
+EKGYO,2025/6,1BFA,Stoklar,Stoklar,0.0
+EKGYO,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EKGYO,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,25189438.0
+EKGYO,2025/6,1BGA,Şerefiye,Goodwill,0.0
+EKGYO,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,556761.0
+EKGYO,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,169187766.0
+EKGYO,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,120768178.0
+EKGYO,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5578536386.0
+EKGYO,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+EKGYO,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2414376300.0
+EKGYO,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,410335122.0
+EKGYO,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,215050889.0
+EKGYO,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,64388557.0
+EKGYO,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EKGYO,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EKGYO,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EKGYO,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1667117933.0
+EKGYO,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),45344114.0
+EKGYO,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,12139685.0
+EKGYO,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+EKGYO,2025/6,2AAGG,(Ara Toplam),(Subtotal),2414376300.0
+EKGYO,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EKGYO,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,143269333.0
+EKGYO,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,125589012.0
+EKGYO,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,10575.0
+EKGYO,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,13669510.0
+EKGYO,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EKGYO,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EKGYO,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EKGYO,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,119008.0
+EKGYO,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,3881228.0
+EKGYO,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EKGYO,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+EKGYO,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EKGYO,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3020890753.0
+EKGYO,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3020890753.0
+EKGYO,2025/6,2OA,Ödenmiş Sermaye,Share Capital,95447649.0
+EKGYO,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EKGYO,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,847834067.0
+EKGYO,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EKGYO,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EKGYO,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,257591981.0
+EKGYO,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),147352131.0
+EKGYO,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),207626870.0
+EKGYO,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1465038053.0
+EKGYO,2025/6,2ODA,Azınlık Payları,Minority Interests,0.0
+EKGYO,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5578536386.0
+EKGYO,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EKGYO,2025/6,3C,Satış Gelirleri,Net Sales,1269041415.0
+EKGYO,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-902079621.0
+EKGYO,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EKGYO,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,366961794.0
+EKGYO,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EKGYO,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EKGYO,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EKGYO,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),366961794.0
+EKGYO,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-10796233.0
+EKGYO,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-41922651.0
+EKGYO,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+EKGYO,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,106607875.0
+EKGYO,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-46758510.0
+EKGYO,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EKGYO,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,374092276.0
+EKGYO,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,314242911.0
+EKGYO,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+EKGYO,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EKGYO,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EKGYO,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EKGYO,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,374092276.0
+EKGYO,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),19748999.0
+EKGYO,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-85003884.0
+EKGYO,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+EKGYO,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,308837391.0
+EKGYO,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-88311694.0
+EKGYO,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-51551337.0
+EKGYO,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-36760357.0
+EKGYO,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EKGYO,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,220525697.0
+EKGYO,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EKGYO,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EKGYO,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,220525697.0
+EKGYO,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EKGYO,2025/6,3LB,Azınlık Payları,Minority Interests,0.0
+EKGYO,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,220525697.0
+EKGYO,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EKGYO,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EKGYO,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EKGYO,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EKGYO,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,2093602.0
+EKGYO,2025/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+EKGYO,2025/6,4BB,Finansman Giderleri,Financial Expenses,-85003884.0
+EKGYO,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EKGYO,2025/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EKGYO,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,0.0
+EKGYO,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,0.0
+EKGYO,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),0.0
+EKGYO,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-234177170.0
+EKGYO,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,220525697.0
+EKGYO,2025/6,4CAA,Düzeltmeler:,Adjustments:,-84612008.0
+EKGYO,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2093602.0
+EKGYO,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,1104106.0
+EKGYO,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-44672031.0
+EKGYO,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),135913690.0
+EKGYO,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-373384529.0
+EKGYO,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-237470839.0
+EKGYO,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,3293670.0
+EKGYO,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-11233836.0
+EKGYO,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+EKGYO,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-11233836.0
+EKGYO,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,-245411006.0
+EKGYO,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,220458601.0
+EKGYO,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-41107817.0
+EKGYO,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EKGYO,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,10037637.0
+EKGYO,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,189388421.0
+EKGYO,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-56022584.0
+EKGYO,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EKGYO,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EKGYO,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-56022584.0
+EKGYO,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EKGYO,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,195115841.0
+EKGYO,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,113876951.0
+EKGYO,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,5641750606.0
+EKGYO,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,265725922.0
+EKGYO,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,31950334.0
+EKGYO,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,474492877.0
+EKGYO,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EKGYO,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,18561166.0
+EKGYO,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2025/9,1AF,Stoklar,Inventories,4758162432.0
+EKGYO,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EKGYO,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,92857875.0
+EKGYO,2025/9,1AI,(Ara Toplam),(Subtotal),5641750606.0
+EKGYO,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EKGYO,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,995902731.0
+EKGYO,2025/9,1B,Ticari Alacaklar,Trade Receivables,146956466.0
+EKGYO,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EKGYO,2025/9,1BB,Diğer Alacaklar,Other Receivables,410460252.0
+EKGYO,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EKGYO,2025/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+EKGYO,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EKGYO,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EKGYO,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,152569454.0
+EKGYO,2025/9,1BFA,Stoklar,Stoklar,0.0
+EKGYO,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EKGYO,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,25723060.0
+EKGYO,2025/9,1BGA,Şerefiye,Goodwill,0.0
+EKGYO,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,517921.0
+EKGYO,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,135368504.0
+EKGYO,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,124307073.0
+EKGYO,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,6637653337.0
+EKGYO,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+EKGYO,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2454278936.0
+EKGYO,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,402104729.0
+EKGYO,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EKGYO,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,288473339.0
+EKGYO,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,56712897.0
+EKGYO,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EKGYO,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EKGYO,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EKGYO,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1684091136.0
+EKGYO,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),10695163.0
+EKGYO,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,12201671.0
+EKGYO,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+EKGYO,2025/9,2AAGG,(Ara Toplam),(Subtotal),2454278936.0
+EKGYO,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EKGYO,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1069297141.0
+EKGYO,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,536294900.0
+EKGYO,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,514850439.0
+EKGYO,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,170989.0
+EKGYO,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,13784029.0
+EKGYO,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EKGYO,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EKGYO,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EKGYO,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,113945.0
+EKGYO,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,4082840.0
+EKGYO,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EKGYO,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+EKGYO,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EKGYO,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3114077260.0
+EKGYO,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3114077260.0
+EKGYO,2025/9,2OA,Ödenmiş Sermaye,Share Capital,91386575.0
+EKGYO,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EKGYO,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,872678348.0
+EKGYO,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EKGYO,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EKGYO,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,265140278.0
+EKGYO,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),151670018.0
+EKGYO,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),218375628.0
+EKGYO,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1514826414.0
+EKGYO,2025/9,2ODA,Azınlık Payları,Minority Interests,0.0
+EKGYO,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,6637653337.0
+EKGYO,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EKGYO,2025/9,3C,Satış Gelirleri,Net Sales,1556273353.0
+EKGYO,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1094176761.0
+EKGYO,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EKGYO,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,462096592.0
+EKGYO,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EKGYO,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EKGYO,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EKGYO,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EKGYO,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),462096592.0
+EKGYO,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-21283800.0
+EKGYO,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-62933683.0
+EKGYO,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+EKGYO,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,149969228.0
+EKGYO,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-51178037.0
+EKGYO,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EKGYO,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,476670301.0
+EKGYO,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,377879109.0
+EKGYO,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+EKGYO,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1803341.0
+EKGYO,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EKGYO,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EKGYO,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,474866960.0
+EKGYO,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),31092202.0
+EKGYO,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-162170999.0
+EKGYO,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-1803341.0
+EKGYO,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,343788163.0
+EKGYO,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-108770802.0
+EKGYO,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-28699507.0
+EKGYO,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-80071295.0
+EKGYO,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EKGYO,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,235017362.0
+EKGYO,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EKGYO,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EKGYO,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,235017362.0
+EKGYO,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EKGYO,2025/9,3LB,Azınlık Payları,Minority Interests,0.0
+EKGYO,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,235017362.0
+EKGYO,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EKGYO,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EKGYO,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EKGYO,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EKGYO,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,3341108.0
+EKGYO,2025/9,4BA,Kıdem Tazminatı,Severance Payments,1827100.0
+EKGYO,2025/9,4BB,Finansman Giderleri,Financial Expenses,-162170999.0
+EKGYO,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EKGYO,2025/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EKGYO,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,0.0
+EKGYO,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,0.0
+EKGYO,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),0.0
+EKGYO,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-1244621412.0
+EKGYO,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,235017362.0
+EKGYO,2025/9,4CAA,Düzeltmeler:,Adjustments:,-43093699.0
+EKGYO,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,3341108.0
+EKGYO,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,2510691.0
+EKGYO,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-5685120.0
+EKGYO,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),191923662.0
+EKGYO,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1436258071.0
+EKGYO,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-1244334409.0
+EKGYO,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-287003.0
+EKGYO,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-15211799.0
+EKGYO,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,6301236.0
+EKGYO,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-8910562.0
+EKGYO,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,-1253531975.0
+EKGYO,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,695409248.0
+EKGYO,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-42873368.0
+EKGYO,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EKGYO,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,539674563.0
+EKGYO,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,1192210444.0
+EKGYO,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-61321531.0
+EKGYO,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EKGYO,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EKGYO,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-61321531.0
+EKGYO,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EKGYO,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,203496039.0
+EKGYO,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,106257652.0

@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+EREGL,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,4305798900.0
+EREGL,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,810722720.0
+EREGL,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,37379191.0
+EREGL,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,832914211.0
+EREGL,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EREGL,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,3265215.0
+EREGL,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2022/12,1AF,Stoklar,Inventories,2357057869.0
+EREGL,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EREGL,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,264459695.0
+EREGL,2022/12,1AI,(Ara Toplam),(Subtotal),4305798900.0
+EREGL,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EREGL,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,5030824151.0
+EREGL,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+EREGL,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EREGL,2022/12,1BB,Diğer Alacaklar,Other Receivables,3108851.0
+EREGL,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2022/12,1BC,Finansal Yatırımlar,Financial Investments,6821162.0
+EREGL,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,32353886.0
+EREGL,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EREGL,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,48291213.0
+EREGL,2022/12,1BFA,Stoklar,Stoklar,0.0
+EREGL,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,12925582.0
+EREGL,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4308966154.0
+EREGL,2022/12,1BGA,Şerefiye,Goodwill,18747438.0
+EREGL,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,264436099.0
+EREGL,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,13044523.0
+EREGL,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,322129244.0
+EREGL,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9336623051.0
+EREGL,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+EREGL,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1916964766.0
+EREGL,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1130273863.0
+EREGL,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,599414905.0
+EREGL,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,11077995.0
+EREGL,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EREGL,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EREGL,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EREGL,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,54397128.0
+EREGL,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),23406363.0
+EREGL,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,27729660.0
+EREGL,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,70664852.0
+EREGL,2022/12,2AAGG,(Ara Toplam),(Subtotal),1916964766.0
+EREGL,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EREGL,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1084926970.0
+EREGL,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,448881540.0
+EREGL,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EREGL,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EREGL,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EREGL,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EREGL,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EREGL,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EREGL,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,183531123.0
+EREGL,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EREGL,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,451888800.0
+EREGL,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,625507.0
+EREGL,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6334731315.0
+EREGL,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6173672379.0
+EREGL,2022/12,2OA,Ödenmiş Sermaye,Share Capital,186846039.0
+EREGL,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EREGL,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,5682629.0
+EREGL,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EREGL,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,108338779.0
+EREGL,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,402934978.0
+EREGL,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2186987401.0
+EREGL,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),961191224.0
+EREGL,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2321691330.0
+EREGL,2022/12,2ODA,Azınlık Payları,Minority Interests,161058937.0
+EREGL,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9336623051.0
+EREGL,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EREGL,2022/12,3C,Satış Gelirleri,Net Sales,7690809425.0
+EREGL,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-6153717669.0
+EREGL,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EREGL,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1537091756.0
+EREGL,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EREGL,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EREGL,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EREGL,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1537091756.0
+EREGL,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-44635903.0
+EREGL,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-92480109.0
+EREGL,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-6014802.0
+EREGL,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,57005681.0
+EREGL,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-32370608.0
+EREGL,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EREGL,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1418596016.0
+EREGL,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1393960943.0
+EREGL,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,7179893.0
+EREGL,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-6644654.0
+EREGL,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EREGL,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,4393377.0
+EREGL,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1423524631.0
+EREGL,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),90482036.0
+EREGL,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-183134579.0
+EREGL,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,535239.0
+EREGL,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1330872088.0
+EREGL,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-208209315.0
+EREGL,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-468216610.0
+EREGL,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,260007295.0
+EREGL,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EREGL,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1122662773.0
+EREGL,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EREGL,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EREGL,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1122662773.0
+EREGL,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EREGL,2022/12,3LB,Azınlık Payları,Minority Interests,39002081.0
+EREGL,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,1083660692.0
+EREGL,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EREGL,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EREGL,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EREGL,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EREGL,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,210281598.0
+EREGL,2022/12,4BA,Kıdem Tazminatı,Severance Payments,8823527.0
+EREGL,2022/12,4BB,Finansman Giderleri,Financial Expenses,-183134579.0
+EREGL,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,6196432056.0
+EREGL,2022/12,4BD,Yurtdışı Satışlar,Export Sales,1114394767.0
+EREGL,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-285292383.0
+EREGL,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-454814272.0
+EREGL,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-340597433.0
+EREGL,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,538080965.0
+EREGL,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1122662773.0
+EREGL,2022/12,4CAA,Düzeltmeler:,Adjustments:,459558957.0
+EREGL,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,210281598.0
+EREGL,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,57328100.0
+EREGL,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,191949259.0
+EREGL,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1582221730.0
+EREGL,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-244585939.0
+EREGL,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1337635791.0
+EREGL,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-799554826.0
+EREGL,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-682821167.0
+EREGL,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-64240705.0
+EREGL,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-747061872.0
+EREGL,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,-208980906.0
+EREGL,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,329421455.0
+EREGL,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-946175315.0
+EREGL,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EREGL,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,37295853.0
+EREGL,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-579458007.0
+EREGL,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-788438914.0
+EREGL,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,310614305.0
+EREGL,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EREGL,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-477824609.0
+EREGL,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EREGL,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1390872350.0
+EREGL,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,913047741.0
+EREGL,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,4622420568.0
+EREGL,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1077430150.0
+EREGL,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,26144781.0
+EREGL,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,869396324.0
+EREGL,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EREGL,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,3613598.0
+EREGL,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2022/3,1AF,Stoklar,Inventories,2486188563.0
+EREGL,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EREGL,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,159647151.0
+EREGL,2022/3,1AI,(Ara Toplam),(Subtotal),4622420568.0
+EREGL,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EREGL,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,4598067719.0
+EREGL,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+EREGL,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EREGL,2022/3,1BB,Diğer Alacaklar,Other Receivables,3599823.0
+EREGL,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2022/3,1BC,Finansal Yatırımlar,Financial Investments,36894.0
+EREGL,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,27566747.0
+EREGL,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EREGL,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,48956525.0
+EREGL,2022/3,1BFA,Stoklar,Stoklar,0.0
+EREGL,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,48990077.0
+EREGL,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3845123129.0
+EREGL,2022/3,1BGA,Şerefiye,Goodwill,18747434.0
+EREGL,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,272439868.0
+EREGL,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,16437754.0
+EREGL,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,316169468.0
+EREGL,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9220488287.0
+EREGL,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+EREGL,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2196920312.0
+EREGL,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1016942067.0
+EREGL,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,670094384.0
+EREGL,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,52744774.0
+EREGL,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EREGL,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EREGL,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EREGL,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,163056569.0
+EREGL,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),227573499.0
+EREGL,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,24186995.0
+EREGL,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,42322024.0
+EREGL,2022/3,2AAGG,(Ara Toplam),(Subtotal),2196920312.0
+EREGL,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EREGL,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1361980837.0
+EREGL,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,520011389.0
+EREGL,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EREGL,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EREGL,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EREGL,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EREGL,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EREGL,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EREGL,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,117561496.0
+EREGL,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EREGL,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,724139189.0
+EREGL,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,268763.0
+EREGL,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,5661587138.0
+EREGL,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5522959525.0
+EREGL,2022/3,2OA,Ödenmiş Sermaye,Share Capital,238687899.0
+EREGL,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EREGL,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,7259317.0
+EREGL,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EREGL,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,15354997.0
+EREGL,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,514732363.0
+EREGL,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2186988168.0
+EREGL,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),383677908.0
+EREGL,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2176258874.0
+EREGL,2022/3,2ODA,Azınlık Payları,Minority Interests,138627613.0
+EREGL,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9220488287.0
+EREGL,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EREGL,2022/3,3C,Satış Gelirleri,Net Sales,2090086444.0
+EREGL,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1413859345.0
+EREGL,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EREGL,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,676227100.0
+EREGL,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EREGL,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EREGL,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EREGL,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),676227100.0
+EREGL,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-10890244.0
+EREGL,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-21128002.0
+EREGL,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1373966.0
+EREGL,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,3895743.0
+EREGL,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-11921256.0
+EREGL,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EREGL,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,634809374.0
+EREGL,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,642834887.0
+EREGL,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1200198.0
+EREGL,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2600502.0
+EREGL,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EREGL,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-163676.0
+EREGL,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,633245395.0
+EREGL,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),45163461.0
+EREGL,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-51330993.0
+EREGL,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-1400303.0
+EREGL,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,627077863.0
+EREGL,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-209933749.0
+EREGL,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-227854494.0
+EREGL,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,17920745.0
+EREGL,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EREGL,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,417144114.0
+EREGL,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EREGL,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EREGL,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,417144114.0
+EREGL,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EREGL,2022/3,3LB,Azınlık Payları,Minority Interests,14497138.0
+EREGL,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,402646976.0
+EREGL,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EREGL,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EREGL,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EREGL,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EREGL,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,55971689.0
+EREGL,2022/3,4BA,Kıdem Tazminatı,Severance Payments,2079915.0
+EREGL,2022/3,4BB,Finansman Giderleri,Financial Expenses,-51330993.0
+EREGL,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,1673993452.0
+EREGL,2022/3,4BD,Yurtdışı Satışlar,Export Sales,328804497.0
+EREGL,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-580455413.0
+EREGL,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-713738419.0
+EREGL,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-670379192.0
+EREGL,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,253252397.0
+EREGL,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,417144114.0
+EREGL,2022/3,4CAA,Düzeltmeler:,Adjustments:,216208275.0
+EREGL,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,55971689.0
+EREGL,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,13889381.0
+EREGL,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,146347206.0
+EREGL,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),633352389.0
+EREGL,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-69250235.0
+EREGL,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),564102154.0
+EREGL,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-310849757.0
+EREGL,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-83557001.0
+EREGL,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-61206830.0
+EREGL,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-144763831.0
+EREGL,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,108488566.0
+EREGL,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,300760361.0
+EREGL,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,-1086776563.0
+EREGL,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EREGL,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,38949768.0
+EREGL,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-747066435.0
+EREGL,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-638577869.0
+EREGL,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,112017522.0
+EREGL,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EREGL,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-526560347.0
+EREGL,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EREGL,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1653894887.0
+EREGL,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1127334540.0
+EREGL,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,4838157734.0
+EREGL,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,719063230.0
+EREGL,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,27180943.0
+EREGL,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,932750458.0
+EREGL,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EREGL,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,3673868.0
+EREGL,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2022/6,1AF,Stoklar,Inventories,2956795296.0
+EREGL,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EREGL,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,198693938.0
+EREGL,2022/6,1AI,(Ara Toplam),(Subtotal),4838157734.0
+EREGL,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EREGL,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,4674810801.0
+EREGL,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+EREGL,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EREGL,2022/6,1BB,Diğer Alacaklar,Other Receivables,3190925.0
+EREGL,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2022/6,1BC,Finansal Yatırımlar,Financial Investments,36905.0
+EREGL,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,28807829.0
+EREGL,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EREGL,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,48734857.0
+EREGL,2022/6,1BFA,Stoklar,Stoklar,0.0
+EREGL,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,54505434.0
+EREGL,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3912506620.0
+EREGL,2022/6,1BGA,Şerefiye,Goodwill,18747499.0
+EREGL,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,268523851.0
+EREGL,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,14618906.0
+EREGL,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,325137975.0
+EREGL,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9512968535.0
+EREGL,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+EREGL,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2060048648.0
+EREGL,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,972576896.0
+EREGL,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,729372551.0
+EREGL,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,12110907.0
+EREGL,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EREGL,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EREGL,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EREGL,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,97922882.0
+EREGL,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),190071833.0
+EREGL,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,22769750.0
+EREGL,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,35223828.0
+EREGL,2022/6,2AAGG,(Ara Toplam),(Subtotal),2060048648.0
+EREGL,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EREGL,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1388245444.0
+EREGL,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,507466899.0
+EREGL,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EREGL,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EREGL,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EREGL,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EREGL,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EREGL,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EREGL,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,140313814.0
+EREGL,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EREGL,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,740212984.0
+EREGL,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,251746.0
+EREGL,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6064674443.0
+EREGL,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5909836023.0
+EREGL,2022/6,2OA,Ödenmiş Sermaye,Share Capital,209688822.0
+EREGL,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EREGL,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+EREGL,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EREGL,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,33309369.0
+EREGL,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,452195622.0
+EREGL,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2186988150.0
+EREGL,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),734838360.0
+EREGL,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2292815701.0
+EREGL,2022/6,2ODA,Azınlık Payları,Minority Interests,154838420.0
+EREGL,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9512968535.0
+EREGL,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EREGL,2022/6,3C,Satış Gelirleri,Net Sales,4286593610.0
+EREGL,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2946268413.0
+EREGL,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EREGL,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1340325197.0
+EREGL,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EREGL,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EREGL,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EREGL,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1340325197.0
+EREGL,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-22565748.0
+EREGL,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-42207657.0
+EREGL,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-2765106.0
+EREGL,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,10718910.0
+EREGL,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-13442570.0
+EREGL,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EREGL,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1270063026.0
+EREGL,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1272786686.0
+EREGL,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2281382.0
+EREGL,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3181857.0
+EREGL,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EREGL,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1074659.0
+EREGL,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1270237209.0
+EREGL,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),64177836.0
+EREGL,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-81979430.0
+EREGL,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-900475.0
+EREGL,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1252435615.0
+EREGL,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-395923364.0
+EREGL,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-392030464.0
+EREGL,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-3892900.0
+EREGL,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EREGL,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,856512251.0
+EREGL,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EREGL,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EREGL,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,856512251.0
+EREGL,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EREGL,2022/6,3LB,Azınlık Payları,Minority Interests,32583961.0
+EREGL,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,823928290.0
+EREGL,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EREGL,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EREGL,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EREGL,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EREGL,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,112057847.0
+EREGL,2022/6,4BA,Kıdem Tazminatı,Severance Payments,3820284.0
+EREGL,2022/6,4BB,Finansman Giderleri,Financial Expenses,-81979430.0
+EREGL,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,3485705455.0
+EREGL,2022/6,4BD,Yurtdışı Satışlar,Export Sales,605159826.0
+EREGL,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-649185495.0
+EREGL,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-797114759.0
+EREGL,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-852185806.0
+EREGL,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,38034034.0
+EREGL,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,856512251.0
+EREGL,2022/6,4CAA,Düzeltmeler:,Adjustments:,439834635.0
+EREGL,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,112057847.0
+EREGL,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,28833001.0
+EREGL,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,298943788.0
+EREGL,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1296346886.0
+EREGL,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-736854946.0
+EREGL,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),559491940.0
+EREGL,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-521457906.0
+EREGL,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-216214757.0
+EREGL,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-64517403.0
+EREGL,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-280732160.0
+EREGL,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-242698125.0
+EREGL,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,261251403.0
+EREGL,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-1056014985.0
+EREGL,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EREGL,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,42806317.0
+EREGL,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-751957265.0
+EREGL,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-994655390.0
+EREGL,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,248449208.0
+EREGL,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EREGL,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-746206182.0
+EREGL,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EREGL,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1552361025.0
+EREGL,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,806154842.0
+EREGL,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,4606594510.0
+EREGL,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,613285235.0
+EREGL,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,20161599.0
+EREGL,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,938582856.0
+EREGL,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EREGL,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,3341401.0
+EREGL,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2022/9,1AF,Stoklar,Inventories,2819912894.0
+EREGL,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EREGL,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,211310525.0
+EREGL,2022/9,1AI,(Ara Toplam),(Subtotal),4606594510.0
+EREGL,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EREGL,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,4833173333.0
+EREGL,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+EREGL,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EREGL,2022/9,1BB,Diğer Alacaklar,Other Receivables,2911584.0
+EREGL,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2022/9,1BC,Finansal Yatırımlar,Financial Investments,36923.0
+EREGL,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,29562529.0
+EREGL,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EREGL,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,48512945.0
+EREGL,2022/9,1BFA,Stoklar,Stoklar,0.0
+EREGL,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,53804421.0
+EREGL,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4013846627.0
+EREGL,2022/9,1BGA,Şerefiye,Goodwill,18747419.0
+EREGL,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,264676021.0
+EREGL,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,21023712.0
+EREGL,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,380051153.0
+EREGL,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9439767843.0
+EREGL,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+EREGL,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1910314196.0
+EREGL,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1001777912.0
+EREGL,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,604844196.0
+EREGL,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,12989635.0
+EREGL,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EREGL,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EREGL,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EREGL,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,103685728.0
+EREGL,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),114752885.0
+EREGL,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,23397190.0
+EREGL,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,48866651.0
+EREGL,2022/9,2AAGG,(Ara Toplam),(Subtotal),1910314196.0
+EREGL,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EREGL,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1365323063.0
+EREGL,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,493611828.0
+EREGL,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EREGL,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EREGL,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EREGL,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EREGL,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EREGL,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EREGL,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,133020035.0
+EREGL,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EREGL,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,738455323.0
+EREGL,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,235876.0
+EREGL,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6164130584.0
+EREGL,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6005593652.0
+EREGL,2022/9,2OA,Ödenmiş Sermaye,Share Capital,188657888.0
+EREGL,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EREGL,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,5737733.0
+EREGL,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EREGL,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,40544736.0
+EREGL,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,406842244.0
+EREGL,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2186988158.0
+EREGL,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),799388748.0
+EREGL,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2377434145.0
+EREGL,2022/9,2ODA,Azınlık Payları,Minority Interests,158536931.0
+EREGL,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9439767843.0
+EREGL,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EREGL,2022/9,3C,Satış Gelirleri,Net Sales,6317759389.0
+EREGL,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-4748067154.0
+EREGL,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EREGL,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1569692235.0
+EREGL,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EREGL,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EREGL,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EREGL,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1569692235.0
+EREGL,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-33569075.0
+EREGL,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-65225767.0
+EREGL,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-4307136.0
+EREGL,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,23764466.0
+EREGL,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-24976861.0
+EREGL,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EREGL,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1465377863.0
+EREGL,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1466590258.0
+EREGL,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3830862.0
+EREGL,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3206660.0
+EREGL,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EREGL,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1827485.0
+EREGL,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1467829549.0
+EREGL,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),83452164.0
+EREGL,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-115360158.0
+EREGL,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,624202.0
+EREGL,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1435921555.0
+EREGL,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-466264762.0
+EREGL,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-470427363.0
+EREGL,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,4162601.0
+EREGL,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EREGL,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,969656793.0
+EREGL,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EREGL,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EREGL,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,969656793.0
+EREGL,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EREGL,2022/9,3LB,Azınlık Payları,Minority Interests,37700507.0
+EREGL,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,931956287.0
+EREGL,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EREGL,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EREGL,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EREGL,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EREGL,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,166031527.0
+EREGL,2022/9,4BA,Kıdem Tazminatı,Severance Payments,6405906.0
+EREGL,2022/9,4BB,Finansman Giderleri,Financial Expenses,-115360158.0
+EREGL,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,5080482496.0
+EREGL,2022/9,4BD,Yurtdışı Satışlar,Export Sales,946733771.0
+EREGL,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-502958993.0
+EREGL,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-670416072.0
+EREGL,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-574771145.0
+EREGL,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,47419840.0
+EREGL,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,969656793.0
+EREGL,2022/9,4CAA,Düzeltmeler:,Adjustments:,557982680.0
+EREGL,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,166031527.0
+EREGL,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,42838528.0
+EREGL,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,349112625.0
+EREGL,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1527639473.0
+EREGL,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-787181485.0
+EREGL,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),740457988.0
+EREGL,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-693038148.0
+EREGL,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-376926891.0
+EREGL,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-98709818.0
+EREGL,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-475636709.0
+EREGL,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,-428216869.0
+EREGL,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,284580247.0
+EREGL,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-987895633.0
+EREGL,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EREGL,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,41644860.0
+EREGL,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-661670526.0
+EREGL,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-1089887395.0
+EREGL,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,349123810.0
+EREGL,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EREGL,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-740763585.0
+EREGL,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EREGL,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1452219733.0
+EREGL,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,711456148.0
+EREGL,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,4561281327.0
+EREGL,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,816273511.0
+EREGL,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,58926700.0
+EREGL,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,690141194.0
+EREGL,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EREGL,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,4335041.0
+EREGL,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2023/12,1AF,Stoklar,Inventories,2281239009.0
+EREGL,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EREGL,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,710365871.0
+EREGL,2023/12,1AI,(Ara Toplam),(Subtotal),4561281327.0
+EREGL,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EREGL,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,5951420690.0
+EREGL,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+EREGL,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EREGL,2023/12,1BB,Diğer Alacaklar,Other Receivables,2934323.0
+EREGL,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2023/12,1BC,Finansal Yatırımlar,Financial Investments,5492230.0
+EREGL,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,29984877.0
+EREGL,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EREGL,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,149455772.0
+EREGL,2023/12,1BFA,Stoklar,Stoklar,0.0
+EREGL,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,15107065.0
+EREGL,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4998597451.0
+EREGL,2023/12,1BGA,Şerefiye,Goodwill,18747427.0
+EREGL,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,256119127.0
+EREGL,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,8623696.0
+EREGL,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,466358723.0
+EREGL,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,10512702017.0
+EREGL,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+EREGL,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3027728957.0
+EREGL,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1924672124.0
+EREGL,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,794372103.0
+EREGL,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,39428408.0
+EREGL,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EREGL,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EREGL,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EREGL,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,44553478.0
+EREGL,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),109606901.0
+EREGL,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,23688512.0
+EREGL,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,91407432.0
+EREGL,2023/12,2AAGG,(Ara Toplam),(Subtotal),3027728957.0
+EREGL,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EREGL,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,990553282.0
+EREGL,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,372300272.0
+EREGL,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EREGL,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EREGL,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EREGL,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EREGL,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EREGL,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EREGL,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,189292266.0
+EREGL,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EREGL,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,428352870.0
+EREGL,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,607874.0
+EREGL,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6494419778.0
+EREGL,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6313437861.0
+EREGL,2023/12,2OA,Ödenmiş Sermaye,Share Capital,118679068.0
+EREGL,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EREGL,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,3609437.0
+EREGL,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EREGL,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-285379993.0
+EREGL,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,315434993.0
+EREGL,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3313114139.0
+EREGL,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),136755213.0
+EREGL,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2711225005.0
+EREGL,2023/12,2ODA,Azınlık Payları,Minority Interests,180981917.0
+EREGL,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,10512702017.0
+EREGL,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EREGL,2023/12,3C,Satış Gelirleri,Net Sales,6206835246.0
+EREGL,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-5549771860.0
+EREGL,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EREGL,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,657063386.0
+EREGL,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EREGL,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EREGL,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EREGL,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),657063386.0
+EREGL,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-49436316.0
+EREGL,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-112167659.0
+EREGL,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-7983160.0
+EREGL,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,192690023.0
+EREGL,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-61176148.0
+EREGL,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EREGL,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,618990126.0
+EREGL,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,487476251.0
+EREGL,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,15077721.0
+EREGL,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-22860616.0
+EREGL,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EREGL,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,3288326.0
+EREGL,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,614495557.0
+EREGL,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),138345768.0
+EREGL,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-381978033.0
+EREGL,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-7782896.0
+EREGL,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,370863292.0
+EREGL,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-189187668.0
+EREGL,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-199816773.0
+EREGL,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,10629105.0
+EREGL,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EREGL,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,181675624.0
+EREGL,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EREGL,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EREGL,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,181675624.0
+EREGL,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EREGL,2023/12,3LB,Azınlık Payları,Minority Interests,12421032.0
+EREGL,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,169254592.0
+EREGL,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EREGL,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EREGL,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EREGL,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EREGL,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,225474120.0
+EREGL,2023/12,4BA,Kıdem Tazminatı,Severance Payments,21461999.0
+EREGL,2023/12,4BB,Finansman Giderleri,Financial Expenses,-381978033.0
+EREGL,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,5230742892.0
+EREGL,2023/12,4BD,Yurtdışı Satışlar,Export Sales,667384079.0
+EREGL,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,25570980.0
+EREGL,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-27681307.0
+EREGL,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),25570980.0
+EREGL,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,548423934.0
+EREGL,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,181675624.0
+EREGL,2023/12,4CAA,Düzeltmeler:,Adjustments:,289572395.0
+EREGL,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,225474120.0
+EREGL,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,74701529.0
+EREGL,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-10603254.0
+EREGL,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),471248019.0
+EREGL,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,174043892.0
+EREGL,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),645291911.0
+EREGL,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-96867977.0
+EREGL,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-955370434.0
+EREGL,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-191580639.0
+EREGL,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1146951073.0
+EREGL,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,-598527140.0
+EREGL,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,741527789.0
+EREGL,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EREGL,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EREGL,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-111634810.0
+EREGL,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,629892979.0
+EREGL,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,31365839.0
+EREGL,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,341294962.0
+EREGL,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EREGL,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,372660801.0
+EREGL,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EREGL,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,636644170.0
+EREGL,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1009304971.0
+EREGL,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,4411401463.0
+EREGL,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1046608418.0
+EREGL,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,69301535.0
+EREGL,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,649086607.0
+EREGL,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EREGL,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,4019950.0
+EREGL,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2023/3,1AF,Stoklar,Inventories,2316242665.0
+EREGL,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EREGL,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,326142288.0
+EREGL,2023/3,1AI,(Ara Toplam),(Subtotal),4411401463.0
+EREGL,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EREGL,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,5205583965.0
+EREGL,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+EREGL,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EREGL,2023/3,1BB,Diğer Alacaklar,Other Receivables,3182230.0
+EREGL,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2023/3,1BC,Finansal Yatırımlar,Financial Investments,6615089.0
+EREGL,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,32332993.0
+EREGL,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EREGL,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,48069242.0
+EREGL,2023/3,1BFA,Stoklar,Stoklar,0.0
+EREGL,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,12380575.0
+EREGL,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4425298471.0
+EREGL,2023/3,1BGA,Şerefiye,Goodwill,18747381.0
+EREGL,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,260741513.0
+EREGL,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,12765038.0
+EREGL,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,385451433.0
+EREGL,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9616985428.0
+EREGL,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+EREGL,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2165805095.0
+EREGL,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1403095717.0
+EREGL,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,571128947.0
+EREGL,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,21248814.0
+EREGL,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EREGL,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EREGL,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EREGL,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,59150398.0
+EREGL,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),24792837.0
+EREGL,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,28700372.0
+EREGL,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,57688010.0
+EREGL,2023/3,2AAGG,(Ara Toplam),(Subtotal),2165805095.0
+EREGL,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EREGL,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1118635070.0
+EREGL,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,487465629.0
+EREGL,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EREGL,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EREGL,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EREGL,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EREGL,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EREGL,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EREGL,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,188040317.0
+EREGL,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EREGL,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,442502945.0
+EREGL,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,626179.0
+EREGL,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6332545263.0
+EREGL,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6173226008.0
+EREGL,2023/3,2OA,Ödenmiş Sermaye,Share Capital,182407571.0
+EREGL,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EREGL,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,5547640.0
+EREGL,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EREGL,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,60482703.0
+EREGL,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,396657772.0
+EREGL,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3325974004.0
+EREGL,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),4706689.0
+EREGL,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2197449629.0
+EREGL,2023/3,2ODA,Azınlık Payları,Minority Interests,159319255.0
+EREGL,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9616985428.0
+EREGL,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EREGL,2023/3,3C,Satış Gelirleri,Net Sales,1390621764.0
+EREGL,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1331047235.0
+EREGL,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EREGL,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,59574529.0
+EREGL,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EREGL,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EREGL,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EREGL,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),59574529.0
+EREGL,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-9911984.0
+EREGL,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-27901424.0
+EREGL,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1694586.0
+EREGL,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,44434822.0
+EREGL,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-41425565.0
+EREGL,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EREGL,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,23075793.0
+EREGL,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,20066535.0
+EREGL,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2263242.0
+EREGL,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-5259850.0
+EREGL,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EREGL,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-20695.0
+EREGL,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,20058490.0
+EREGL,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),40849711.0
+EREGL,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-61653265.0
+EREGL,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-2996608.0
+EREGL,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-745063.0
+EREGL,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,4234005.0
+EREGL,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-4973140.0
+EREGL,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,9207145.0
+EREGL,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EREGL,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,3488942.0
+EREGL,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EREGL,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EREGL,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,3488942.0
+EREGL,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EREGL,2023/3,3LB,Azınlık Payları,Minority Interests,-1291013.0
+EREGL,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,4779954.0
+EREGL,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EREGL,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EREGL,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EREGL,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EREGL,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,55985395.0
+EREGL,2023/3,4BA,Kıdem Tazminatı,Severance Payments,4556705.0
+EREGL,2023/3,4BB,Finansman Giderleri,Financial Expenses,-61653265.0
+EREGL,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,1185019740.0
+EREGL,2023/3,4BD,Yurtdışı Satışlar,Export Sales,122360182.0
+EREGL,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,371877383.0
+EREGL,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,188117037.0
+EREGL,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),320974848.0
+EREGL,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,212117583.0
+EREGL,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,3488942.0
+EREGL,2023/3,4CAA,Düzeltmeler:,Adjustments:,14783926.0
+EREGL,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,53470006.0
+EREGL,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,19796074.0
+EREGL,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-58482154.0
+EREGL,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),18272868.0
+EREGL,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,206110817.0
+EREGL,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),224383685.0
+EREGL,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-12266102.0
+EREGL,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-159931127.0
+EREGL,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-103799863.0
+EREGL,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-263730991.0
+EREGL,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,-51613408.0
+EREGL,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,305592891.0
+EREGL,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EREGL,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EREGL,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-11998182.0
+EREGL,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,293594709.0
+EREGL,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,241981302.0
+EREGL,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,15312727.0
+EREGL,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EREGL,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,257294029.0
+EREGL,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EREGL,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,802929109.0
+EREGL,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1060223138.0
+EREGL,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,4097959613.0
+EREGL,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,592584230.0
+EREGL,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,59456157.0
+EREGL,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,605920269.0
+EREGL,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EREGL,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,4021632.0
+EREGL,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2023/6,1AF,Stoklar,Inventories,2343731329.0
+EREGL,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EREGL,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,492245995.0
+EREGL,2023/6,1AI,(Ara Toplam),(Subtotal),4097959613.0
+EREGL,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EREGL,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,5452616933.0
+EREGL,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+EREGL,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EREGL,2023/6,1BB,Diğer Alacaklar,Other Receivables,3017364.0
+EREGL,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2023/6,1BC,Finansal Yatırımlar,Financial Investments,4908541.0
+EREGL,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,27490452.0
+EREGL,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EREGL,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,47847705.0
+EREGL,2023/6,1BFA,Stoklar,Stoklar,0.0
+EREGL,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,13522010.0
+EREGL,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4602550059.0
+EREGL,2023/6,1BGA,Şerefiye,Goodwill,18747487.0
+EREGL,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,257303321.0
+EREGL,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,13121347.0
+EREGL,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,464108645.0
+EREGL,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9550576545.0
+EREGL,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+EREGL,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2282073940.0
+EREGL,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1515969516.0
+EREGL,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,523133214.0
+EREGL,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,16083357.0
+EREGL,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EREGL,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EREGL,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EREGL,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,74690989.0
+EREGL,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),23461631.0
+EREGL,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,21267240.0
+EREGL,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,107467993.0
+EREGL,2023/6,2AAGG,(Ara Toplam),(Subtotal),2282073940.0
+EREGL,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EREGL,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1211482164.0
+EREGL,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,393167270.0
+EREGL,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EREGL,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EREGL,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EREGL,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EREGL,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EREGL,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EREGL,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,167367876.0
+EREGL,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EREGL,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,650478902.0
+EREGL,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,468117.0
+EREGL,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6057020441.0
+EREGL,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5905700281.0
+EREGL,2023/6,2OA,Ödenmiş Sermaye,Share Capital,135293936.0
+EREGL,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EREGL,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,4114752.0
+EREGL,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EREGL,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,41038284.0
+EREGL,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,314471890.0
+EREGL,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3299178998.0
+EREGL,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-151096151.0
+EREGL,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2262698573.0
+EREGL,2023/6,2ODA,Azınlık Payları,Minority Interests,151320160.0
+EREGL,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9550576545.0
+EREGL,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EREGL,2023/6,3C,Satış Gelirleri,Net Sales,3212996752.0
+EREGL,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2972957003.0
+EREGL,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EREGL,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,240039749.0
+EREGL,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EREGL,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EREGL,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EREGL,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),240039749.0
+EREGL,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-26871227.0
+EREGL,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-62018378.0
+EREGL,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-4231292.0
+EREGL,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,94690176.0
+EREGL,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-56608043.0
+EREGL,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EREGL,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,185000985.0
+EREGL,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,146918853.0
+EREGL,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,4755513.0
+EREGL,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-31729665.0
+EREGL,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EREGL,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,894206.0
+EREGL,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,158921039.0
+EREGL,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),124231950.0
+EREGL,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-220211972.0
+EREGL,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-26974152.0
+EREGL,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,62941017.0
+EREGL,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-264321586.0
+EREGL,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-46130744.0
+EREGL,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-218190843.0
+EREGL,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EREGL,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-201380569.0
+EREGL,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EREGL,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EREGL,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-201380569.0
+EREGL,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EREGL,2023/6,3LB,Azınlık Payları,Minority Interests,-3974636.0
+EREGL,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,-197405933.0
+EREGL,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EREGL,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EREGL,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EREGL,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EREGL,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,116872503.0
+EREGL,2023/6,4BA,Kıdem Tazminatı,Severance Payments,19582585.0
+EREGL,2023/6,4BB,Finansman Giderleri,Financial Expenses,-220211972.0
+EREGL,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,2727491415.0
+EREGL,2023/6,4BD,Yurtdışı Satışlar,Export Sales,300730353.0
+EREGL,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,4540774.0
+EREGL,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-313532255.0
+EREGL,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-70137289.0
+EREGL,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,141988801.0
+EREGL,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-201380569.0
+EREGL,2023/6,4CAA,Düzeltmeler:,Adjustments:,295728284.0
+EREGL,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,116343080.0
+EREGL,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,54813723.0
+EREGL,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,124571482.0
+EREGL,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),94347715.0
+EREGL,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,117078303.0
+EREGL,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),211426018.0
+EREGL,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-69437217.0
+EREGL,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-481106426.0
+EREGL,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-176931416.0
+EREGL,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-658037842.0
+EREGL,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,-516049040.0
+EREGL,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,446001546.0
+EREGL,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EREGL,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EREGL,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-64119252.0
+EREGL,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,381882294.0
+EREGL,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-134166747.0
+EREGL,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,141115605.0
+EREGL,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EREGL,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,6948858.0
+EREGL,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EREGL,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,766145399.0
+EREGL,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,773094257.0
+EREGL,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,4435031138.0
+EREGL,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,712699409.0
+EREGL,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,61493036.0
+EREGL,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,656859112.0
+EREGL,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EREGL,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,4504047.0
+EREGL,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2023/9,1AF,Stoklar,Inventories,2285149566.0
+EREGL,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EREGL,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,714325968.0
+EREGL,2023/9,1AI,(Ara Toplam),(Subtotal),4435031138.0
+EREGL,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EREGL,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,5685900459.0
+EREGL,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+EREGL,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EREGL,2023/9,1BB,Diğer Alacaklar,Other Receivables,2989463.0
+EREGL,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2023/9,1BC,Finansal Yatırımlar,Financial Investments,4614599.0
+EREGL,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,28370415.0
+EREGL,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EREGL,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,137870597.0
+EREGL,2023/9,1BFA,Stoklar,Stoklar,0.0
+EREGL,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,13542405.0
+EREGL,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4686063699.0
+EREGL,2023/9,1BGA,Şerefiye,Goodwill,18747502.0
+EREGL,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,254144534.0
+EREGL,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,17826989.0
+EREGL,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,521730256.0
+EREGL,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,10120931598.0
+EREGL,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+EREGL,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2800189492.0
+EREGL,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1843226172.0
+EREGL,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,634475972.0
+EREGL,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,14172172.0
+EREGL,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EREGL,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EREGL,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EREGL,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,71002990.0
+EREGL,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),100209327.0
+EREGL,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,23332823.0
+EREGL,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,113770036.0
+EREGL,2023/9,2AAGG,(Ara Toplam),(Subtotal),2800189492.0
+EREGL,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EREGL,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1265061803.0
+EREGL,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,327806425.0
+EREGL,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EREGL,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EREGL,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EREGL,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EREGL,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EREGL,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EREGL,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,162182017.0
+EREGL,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EREGL,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,774629877.0
+EREGL,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,443484.0
+EREGL,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6055680303.0
+EREGL,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5900150733.0
+EREGL,2023/9,2OA,Ödenmiş Sermaye,Share Capital,127616131.0
+EREGL,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EREGL,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,3881244.0
+EREGL,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EREGL,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,35946000.0
+EREGL,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,296625902.0
+EREGL,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3299178991.0
+EREGL,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-141013236.0
+EREGL,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2277915700.0
+EREGL,2023/9,2ODA,Azınlık Payları,Minority Interests,155529570.0
+EREGL,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,10120931598.0
+EREGL,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EREGL,2023/9,3C,Satış Gelirleri,Net Sales,4550229135.0
+EREGL,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-4118956602.0
+EREGL,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EREGL,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,431272533.0
+EREGL,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EREGL,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EREGL,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EREGL,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),431272533.0
+EREGL,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-36594743.0
+EREGL,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-81628216.0
+EREGL,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-5669727.0
+EREGL,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,184918535.0
+EREGL,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-55877814.0
+EREGL,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EREGL,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,436420568.0
+EREGL,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,307379847.0
+EREGL,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,10217779.0
+EREGL,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-28604231.0
+EREGL,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EREGL,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1680124.0
+EREGL,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,419714240.0
+EREGL,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),125592225.0
+EREGL,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-267280164.0
+EREGL,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-18386452.0
+EREGL,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,278026301.0
+EREGL,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-450420598.0
+EREGL,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-137441838.0
+EREGL,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-312978760.0
+EREGL,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EREGL,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-172394296.0
+EREGL,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EREGL,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EREGL,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-172394296.0
+EREGL,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EREGL,2023/9,3LB,Azınlık Payları,Minority Interests,1822428.0
+EREGL,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,-174216724.0
+EREGL,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EREGL,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EREGL,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EREGL,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EREGL,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,162963942.0
+EREGL,2023/9,4BA,Kıdem Tazminatı,Severance Payments,20493984.0
+EREGL,2023/9,4BB,Finansman Giderleri,Financial Expenses,-267280164.0
+EREGL,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,3871763285.0
+EREGL,2023/9,4BD,Yurtdışı Satışlar,Export Sales,450071257.0
+EREGL,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-6948661.0
+EREGL,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-295330721.0
+EREGL,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-48292276.0
+EREGL,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,322378797.0
+EREGL,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-172394296.0
+EREGL,2023/9,4CAA,Düzeltmeler:,Adjustments:,470317256.0
+EREGL,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,162963942.0
+EREGL,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,63749671.0
+EREGL,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,243603643.0
+EREGL,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),297922960.0
+EREGL,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,117374946.0
+EREGL,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),415297906.0
+EREGL,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-92919109.0
+EREGL,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-659359228.0
+EREGL,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-224685319.0
+EREGL,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-884044548.0
+EREGL,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,-561665750.0
+EREGL,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,648166944.0
+EREGL,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EREGL,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EREGL,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-80760878.0
+EREGL,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,567406066.0
+EREGL,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,5740316.0
+EREGL,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,190856427.0
+EREGL,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EREGL,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,196596743.0
+EREGL,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EREGL,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,683378964.0
+EREGL,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,879975707.0
+EREGL,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,6489281949.0
+EREGL,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1961090246.0
+EREGL,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,56292063.0
+EREGL,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,939162689.0
+EREGL,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EREGL,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,6944198.0
+EREGL,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2024/12,1AF,Stoklar,Inventories,2795153639.0
+EREGL,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EREGL,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,730639114.0
+EREGL,2024/12,1AI,(Ara Toplam),(Subtotal),6489281949.0
+EREGL,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EREGL,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,8598941409.0
+EREGL,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+EREGL,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EREGL,2024/12,1BB,Diğer Alacaklar,Other Receivables,4691960.0
+EREGL,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2024/12,1BC,Finansal Yatırımlar,Financial Investments,6319957.0
+EREGL,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,45427387.0
+EREGL,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EREGL,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,208237184.0
+EREGL,2024/12,1BFA,Stoklar,Stoklar,0.0
+EREGL,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,34183057.0
+EREGL,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,7343011750.0
+EREGL,2024/12,1BGA,Şerefiye,Goodwill,23514916.0
+EREGL,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,308054951.0
+EREGL,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,9074533.0
+EREGL,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,616425714.0
+EREGL,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,15088223357.0
+EREGL,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+EREGL,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2707371204.0
+EREGL,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1302817927.0
+EREGL,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1065485734.0
+EREGL,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,35074916.0
+EREGL,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EREGL,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EREGL,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EREGL,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,41210156.0
+EREGL,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),11272012.0
+EREGL,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,38595226.0
+EREGL,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,212915233.0
+EREGL,2024/12,2AAGG,(Ara Toplam),(Subtotal),2707371204.0
+EREGL,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EREGL,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3706614203.0
+EREGL,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,3001509404.0
+EREGL,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EREGL,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EREGL,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EREGL,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EREGL,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EREGL,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EREGL,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,219012642.0
+EREGL,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EREGL,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,485288203.0
+EREGL,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,803955.0
+EREGL,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,8674237950.0
+EREGL,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,8408890624.0
+EREGL,2024/12,2OA,Ödenmiş Sermaye,Share Capital,198054539.0
+EREGL,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EREGL,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,3777637.0
+EREGL,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EREGL,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-346795467.0
+EREGL,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,389431193.0
+EREGL,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4289615036.0
+EREGL,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),478431839.0
+EREGL,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,3346011396.0
+EREGL,2024/12,2ODA,Azınlık Payları,Minority Interests,265347326.0
+EREGL,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,15088223357.0
+EREGL,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EREGL,2024/12,3C,Satış Gelirleri,Net Sales,7786020174.0
+EREGL,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-7022733415.0
+EREGL,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EREGL,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,763286759.0
+EREGL,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EREGL,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EREGL,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EREGL,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),763286759.0
+EREGL,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-78500627.0
+EREGL,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-204381831.0
+EREGL,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-12804661.0
+EREGL,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,373352712.0
+EREGL,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-37540601.0
+EREGL,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EREGL,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,803411751.0
+EREGL,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,467599641.0
+EREGL,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,19916971.0
+EREGL,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-10552720.0
+EREGL,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EREGL,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,7809221.0
+EREGL,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,820585223.0
+EREGL,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),191502194.0
+EREGL,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-496135760.0
+EREGL,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,9364251.0
+EREGL,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,515951657.0
+EREGL,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,25591884.0
+EREGL,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-21147067.0
+EREGL,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,46738952.0
+EREGL,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EREGL,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,541543541.0
+EREGL,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EREGL,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,541543541.0
+EREGL,2024/12,3LB,Azınlık Payları,Minority Interests,27155232.0
+EREGL,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,514388309.0
+EREGL,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EREGL,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EREGL,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EREGL,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EREGL,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,337189564.0
+EREGL,2024/12,4BA,Kıdem Tazminatı,Severance Payments,14449699.0
+EREGL,2024/12,4BB,Finansman Giderleri,Financial Expenses,-496135760.0
+EREGL,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,5979699859.0
+EREGL,2024/12,4BD,Yurtdışı Satışlar,Export Sales,1376289969.0
+EREGL,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,192766631.0
+EREGL,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,19671668.0
+EREGL,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),114988059.0
+EREGL,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1192654916.0
+EREGL,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,541543541.0
+EREGL,2024/12,4CAA,Düzeltmeler:,Adjustments:,223723988.0
+EREGL,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,337189564.0
+EREGL,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,86553434.0
+EREGL,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-200019010.0
+EREGL,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),765267529.0
+EREGL,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,247571820.0
+EREGL,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1012839348.0
+EREGL,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,179815568.0
+EREGL,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1339737711.0
+EREGL,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,3994734.0
+EREGL,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1335742977.0
+EREGL,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,-143088061.0
+EREGL,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1320927595.0
+EREGL,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-66944645.0
+EREGL,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EREGL,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-171245258.0
+EREGL,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,1082737692.0
+EREGL,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,939649631.0
+EREGL,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,248494841.0
+EREGL,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EREGL,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1188144472.0
+EREGL,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EREGL,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,917650969.0
+EREGL,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2105795441.0
+EREGL,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,4705268554.0
+EREGL,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,755355217.0
+EREGL,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,56569058.0
+EREGL,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,712616159.0
+EREGL,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EREGL,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,4261152.0
+EREGL,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2024/3,1AF,Stoklar,Inventories,2415862675.0
+EREGL,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EREGL,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,760604293.0
+EREGL,2024/3,1AI,(Ara Toplam),(Subtotal),4705268554.0
+EREGL,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EREGL,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,6112334434.0
+EREGL,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+EREGL,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EREGL,2024/3,1BB,Diğer Alacaklar,Other Receivables,2803368.0
+EREGL,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2024/3,1BC,Finansal Yatırımlar,Financial Investments,5042667.0
+EREGL,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,31377985.0
+EREGL,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EREGL,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,148240208.0
+EREGL,2024/3,1BFA,Stoklar,Stoklar,0.0
+EREGL,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,17492301.0
+EREGL,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5114899300.0
+EREGL,2024/3,1BGA,Şerefiye,Goodwill,18747449.0
+EREGL,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,253724261.0
+EREGL,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,10202760.0
+EREGL,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,509804134.0
+EREGL,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,10817602988.0
+EREGL,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+EREGL,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3148212753.0
+EREGL,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,2037295941.0
+EREGL,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,739433798.0
+EREGL,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,65878845.0
+EREGL,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EREGL,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EREGL,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EREGL,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,37267156.0
+EREGL,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),133542494.0
+EREGL,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,27469762.0
+EREGL,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,107324757.0
+EREGL,2024/3,2AAGG,(Ara Toplam),(Subtotal),3148212753.0
+EREGL,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EREGL,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1049451885.0
+EREGL,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,456072762.0
+EREGL,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EREGL,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EREGL,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EREGL,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EREGL,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EREGL,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EREGL,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,179835083.0
+EREGL,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EREGL,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,413021803.0
+EREGL,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,522236.0
+EREGL,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6619938349.0
+EREGL,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6429872865.0
+EREGL,2024/3,2OA,Ödenmiş Sermaye,Share Capital,108213062.0
+EREGL,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EREGL,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,3291130.0
+EREGL,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EREGL,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,106526423.0
+EREGL,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,326053964.0
+EREGL,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3401444984.0
+EREGL,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),173169437.0
+EREGL,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2311173864.0
+EREGL,2024/3,2ODA,Azınlık Payları,Minority Interests,190065484.0
+EREGL,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,10817602988.0
+EREGL,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EREGL,2024/3,3C,Satış Gelirleri,Net Sales,1606813796.0
+EREGL,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1379772542.0
+EREGL,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EREGL,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,227041254.0
+EREGL,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EREGL,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EREGL,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EREGL,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),227041254.0
+EREGL,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-13929268.0
+EREGL,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-32462510.0
+EREGL,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-2087504.0
+EREGL,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,114209329.0
+EREGL,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-8187550.0
+EREGL,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EREGL,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,284583751.0
+EREGL,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,178561973.0
+EREGL,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3547303.0
+EREGL,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-979024.0
+EREGL,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EREGL,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1391841.0
+EREGL,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,288543872.0
+EREGL,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),20440419.0
+EREGL,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-103474559.0
+EREGL,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2568279.0
+EREGL,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,205509732.0
+EREGL,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-16657719.0
+EREGL,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-35114218.0
+EREGL,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,18456499.0
+EREGL,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EREGL,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,188852013.0
+EREGL,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EREGL,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EREGL,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,188852013.0
+EREGL,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EREGL,2024/3,3LB,Azınlık Payları,Minority Interests,7946113.0
+EREGL,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,180905901.0
+EREGL,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EREGL,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EREGL,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EREGL,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EREGL,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,64225126.0
+EREGL,2024/3,4BA,Kıdem Tazminatı,Severance Payments,3894036.0
+EREGL,2024/3,4BB,Finansman Giderleri,Financial Expenses,-103474559.0
+EREGL,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,1296383433.0
+EREGL,2024/3,4BD,Yurtdışı Satışlar,Export Sales,225257525.0
+EREGL,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,39639253.0
+EREGL,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-171630090.0
+EREGL,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-21161889.0
+EREGL,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,82755042.0
+EREGL,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,188852013.0
+EREGL,2024/3,4CAA,Düzeltmeler:,Adjustments:,7925796.0
+EREGL,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,64225126.0
+EREGL,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,21241313.0
+EREGL,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-77540642.0
+EREGL,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),196777810.0
+EREGL,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-104362273.0
+EREGL,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),92415537.0
+EREGL,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-9660495.0
+EREGL,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-166689815.0
+EREGL,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-44595646.0
+EREGL,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-211285461.0
+EREGL,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-128530419.0
+EREGL,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,208301005.0
+EREGL,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EREGL,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EREGL,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-74449696.0
+EREGL,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,133851309.0
+EREGL,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,5320890.0
+EREGL,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,6080602.0
+EREGL,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EREGL,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,11401492.0
+EREGL,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EREGL,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,776806566.0
+EREGL,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,788208058.0
+EREGL,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,4631854506.0
+EREGL,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,864580861.0
+EREGL,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,36946021.0
+EREGL,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,745495829.0
+EREGL,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EREGL,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,4961122.0
+EREGL,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2024/6,1AF,Stoklar,Inventories,2510253213.0
+EREGL,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EREGL,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,469617458.0
+EREGL,2024/6,1AI,(Ara Toplam),(Subtotal),4631854506.0
+EREGL,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EREGL,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,6407524699.0
+EREGL,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+EREGL,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EREGL,2024/6,1BB,Diğer Alacaklar,Other Receivables,3548029.0
+EREGL,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2024/6,1BC,Finansal Yatırımlar,Financial Investments,4978091.0
+EREGL,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,33420617.0
+EREGL,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EREGL,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,147024841.0
+EREGL,2024/6,1BFA,Stoklar,Stoklar,0.0
+EREGL,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,20040626.0
+EREGL,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5328428112.0
+EREGL,2024/6,1BGA,Şerefiye,Goodwill,18747495.0
+EREGL,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,250814315.0
+EREGL,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,9118786.0
+EREGL,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,591403788.0
+EREGL,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,11039379206.0
+EREGL,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+EREGL,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2816113309.0
+EREGL,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1861802234.0
+EREGL,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,687257285.0
+EREGL,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,13410582.0
+EREGL,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EREGL,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EREGL,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EREGL,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,45489717.0
+EREGL,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),70710044.0
+EREGL,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,27260326.0
+EREGL,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,110183121.0
+EREGL,2024/6,2AAGG,(Ara Toplam),(Subtotal),2816113309.0
+EREGL,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EREGL,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1447711439.0
+EREGL,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,917657981.0
+EREGL,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EREGL,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EREGL,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EREGL,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EREGL,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EREGL,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EREGL,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,205103709.0
+EREGL,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EREGL,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,324432710.0
+EREGL,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,517040.0
+EREGL,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6775554457.0
+EREGL,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6577632863.0
+EREGL,2024/6,2OA,Ödenmiş Sermaye,Share Capital,106430533.0
+EREGL,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EREGL,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,3236917.0
+EREGL,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EREGL,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,121404488.0
+EREGL,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,324972556.0
+EREGL,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3411823033.0
+EREGL,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),303685689.0
+EREGL,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2306079647.0
+EREGL,2024/6,2ODA,Azınlık Payları,Minority Interests,197921594.0
+EREGL,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,11039379206.0
+EREGL,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EREGL,2024/6,3C,Satış Gelirleri,Net Sales,3169258005.0
+EREGL,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2749738384.0
+EREGL,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EREGL,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,419519621.0
+EREGL,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EREGL,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EREGL,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EREGL,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),419519621.0
+EREGL,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-29670833.0
+EREGL,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-75650412.0
+EREGL,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-4481320.0
+EREGL,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,126187555.0
+EREGL,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-13169721.0
+EREGL,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EREGL,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,422734890.0
+EREGL,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,309717056.0
+EREGL,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,7452739.0
+EREGL,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1376829.0
+EREGL,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EREGL,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,3438658.0
+EREGL,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,432249458.0
+EREGL,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),53406039.0
+EREGL,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-182574310.0
+EREGL,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,6075910.0
+EREGL,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,303081187.0
+EREGL,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,25464290.0
+EREGL,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-76489102.0
+EREGL,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,101953392.0
+EREGL,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EREGL,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,328545477.0
+EREGL,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EREGL,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EREGL,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,328545477.0
+EREGL,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EREGL,2024/6,3LB,Azınlık Payları,Minority Interests,12726832.0
+EREGL,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,315818645.0
+EREGL,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EREGL,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EREGL,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EREGL,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EREGL,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,129996620.0
+EREGL,2024/6,4BA,Kıdem Tazminatı,Severance Payments,6418299.0
+EREGL,2024/6,4BB,Finansman Giderleri,Financial Expenses,-182574310.0
+EREGL,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,2454575372.0
+EREGL,2024/6,4BD,Yurtdışı Satışlar,Export Sales,546115817.0
+EREGL,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,106720622.0
+EREGL,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-143153155.0
+EREGL,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),39675536.0
+EREGL,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,247124608.0
+EREGL,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,328545477.0
+EREGL,2024/6,4CAA,Düzeltmeler:,Adjustments:,72418572.0
+EREGL,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,129996620.0
+EREGL,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,35539355.0
+EREGL,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-93117404.0
+EREGL,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),400964049.0
+EREGL,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-231153192.0
+EREGL,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),169810857.0
+EREGL,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,77313751.0
+EREGL,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-419084417.0
+EREGL,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-102750908.0
+EREGL,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-521835325.0
+EREGL,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,-274710717.0
+EREGL,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,472579287.0
+EREGL,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-55478556.0
+EREGL,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EREGL,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-105609115.0
+EREGL,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,311491616.0
+EREGL,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,36780899.0
+EREGL,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,97190179.0
+EREGL,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EREGL,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,133971077.0
+EREGL,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EREGL,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,760556335.0
+EREGL,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,894527413.0
+EREGL,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,5259599356.0
+EREGL,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1399478359.0
+EREGL,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,132266569.0
+EREGL,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,688888964.0
+EREGL,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EREGL,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,4757785.0
+EREGL,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2024/9,1AF,Stoklar,Inventories,2528529043.0
+EREGL,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EREGL,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,505678637.0
+EREGL,2024/9,1AI,(Ara Toplam),(Subtotal),5259599356.0
+EREGL,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EREGL,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,6595037724.0
+EREGL,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+EREGL,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EREGL,2024/9,1BB,Diğer Alacaklar,Other Receivables,3616470.0
+EREGL,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2024/9,1BC,Finansal Yatırımlar,Financial Investments,4815095.0
+EREGL,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,34933080.0
+EREGL,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EREGL,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,145808820.0
+EREGL,2024/9,1BFA,Stoklar,Stoklar,0.0
+EREGL,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,26259226.0
+EREGL,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5536759424.0
+EREGL,2024/9,1BGA,Şerefiye,Goodwill,18747458.0
+EREGL,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,248538814.0
+EREGL,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,25405485.0
+EREGL,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,550153851.0
+EREGL,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,11854637080.0
+EREGL,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+EREGL,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2428524186.0
+EREGL,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1434747605.0
+EREGL,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,696306794.0
+EREGL,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,12378732.0
+EREGL,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EREGL,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EREGL,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EREGL,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,42183720.0
+EREGL,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),77243531.0
+EREGL,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,28289037.0
+EREGL,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,137374768.0
+EREGL,2024/9,2AAGG,(Ara Toplam),(Subtotal),2428524186.0
+EREGL,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EREGL,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2610450289.0
+EREGL,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,2103847583.0
+EREGL,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EREGL,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EREGL,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EREGL,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EREGL,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EREGL,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EREGL,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,193190112.0
+EREGL,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EREGL,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,312910144.0
+EREGL,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,502450.0
+EREGL,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6815662605.0
+EREGL,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6612401199.0
+EREGL,2024/9,2OA,Ödenmiş Sermaye,Share Capital,102391575.0
+EREGL,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EREGL,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,3114079.0
+EREGL,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EREGL,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,169847378.0
+EREGL,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,317387523.0
+EREGL,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3427108989.0
+EREGL,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),315584583.0
+EREGL,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2276967074.0
+EREGL,2024/9,2ODA,Azınlık Payları,Minority Interests,203261406.0
+EREGL,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,11854637080.0
+EREGL,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EREGL,2024/9,3C,Satış Gelirleri,Net Sales,4614211989.0
+EREGL,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-4069142503.0
+EREGL,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EREGL,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,545069486.0
+EREGL,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EREGL,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EREGL,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EREGL,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),545069486.0
+EREGL,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-45445012.0
+EREGL,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-116901487.0
+EREGL,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-6794486.0
+EREGL,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,136368371.0
+EREGL,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-21171406.0
+EREGL,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EREGL,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,491125465.0
+EREGL,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,375928501.0
+EREGL,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,9552200.0
+EREGL,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2240273.0
+EREGL,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EREGL,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,4946902.0
+EREGL,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,503384294.0
+EREGL,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),102512361.0
+EREGL,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-297547181.0
+EREGL,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,7311927.0
+EREGL,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,308349473.0
+EREGL,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,41121375.0
+EREGL,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-87661710.0
+EREGL,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,128783086.0
+EREGL,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EREGL,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,349470849.0
+EREGL,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EREGL,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EREGL,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,349470849.0
+EREGL,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EREGL,2024/9,3LB,Azınlık Payları,Minority Interests,15286524.0
+EREGL,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,334184325.0
+EREGL,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EREGL,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EREGL,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EREGL,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EREGL,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,195660037.0
+EREGL,2024/9,4BA,Kıdem Tazminatı,Severance Payments,9468959.0
+EREGL,2024/9,4BB,Finansman Giderleri,Financial Expenses,-297547181.0
+EREGL,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,3500971468.0
+EREGL,2024/9,4BD,Yurtdışı Satışlar,Export Sales,862385006.0
+EREGL,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,135586617.0
+EREGL,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-66623420.0
+EREGL,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),83402819.0
+EREGL,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,394724597.0
+EREGL,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,349470849.0
+EREGL,2024/9,4CAA,Düzeltmeler:,Adjustments:,192873823.0
+EREGL,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,195660037.0
+EREGL,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,53224349.0
+EREGL,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-56010564.0
+EREGL,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),542344672.0
+EREGL,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-215767069.0
+EREGL,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),326577602.0
+EREGL,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,68146995.0
+EREGL,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-677618061.0
+EREGL,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-163588445.0
+EREGL,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-841206506.0
+EREGL,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,-446481908.0
+EREGL,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1194150248.0
+EREGL,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-54353129.0
+EREGL,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EREGL,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-131592968.0
+EREGL,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,1008204151.0
+EREGL,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,561722243.0
+EREGL,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,168509696.0
+EREGL,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EREGL,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,730231939.0
+EREGL,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EREGL,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,745051394.0
+EREGL,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1475283333.0
+EREGL,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,5045696006.0
+EREGL,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1860494903.0
+EREGL,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,42424954.0
+EREGL,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,680474498.0
+EREGL,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EREGL,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,6054417.0
+EREGL,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2025/3,1AF,Stoklar,Inventories,2013718457.0
+EREGL,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EREGL,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,442528777.0
+EREGL,2025/3,1AI,(Ara Toplam),(Subtotal),5045696006.0
+EREGL,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EREGL,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,6976411850.0
+EREGL,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+EREGL,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EREGL,2025/3,1BB,Diğer Alacaklar,Other Receivables,3671727.0
+EREGL,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2025/3,1BC,Finansal Yatırımlar,Financial Investments,4724809.0
+EREGL,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,36599170.0
+EREGL,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EREGL,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,32575825.0
+EREGL,2025/3,1BFA,Stoklar,Stoklar,0.0
+EREGL,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,28670048.0
+EREGL,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,6116347727.0
+EREGL,2025/3,1BGA,Şerefiye,Goodwill,18747439.0
+EREGL,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,242363184.0
+EREGL,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,9837975.0
+EREGL,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,482873946.0
+EREGL,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,12022107856.0
+EREGL,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+EREGL,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1925326415.0
+EREGL,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,733482292.0
+EREGL,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,856825211.0
+EREGL,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,73484116.0
+EREGL,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EREGL,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EREGL,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EREGL,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,46510333.0
+EREGL,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),11642636.0
+EREGL,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,34181774.0
+EREGL,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,169200052.0
+EREGL,2025/3,2AAGG,(Ara Toplam),(Subtotal),1925326415.0
+EREGL,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EREGL,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3209774566.0
+EREGL,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,2653912914.0
+EREGL,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EREGL,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EREGL,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EREGL,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EREGL,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EREGL,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EREGL,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,170668346.0
+EREGL,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EREGL,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,384525965.0
+EREGL,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,667342.0
+EREGL,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6887006875.0
+EREGL,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6673643339.0
+EREGL,2025/3,2OA,Ödenmiş Sermaye,Share Capital,185020233.0
+EREGL,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EREGL,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,2813550.0
+EREGL,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EREGL,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-290030158.0
+EREGL,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,301970518.0
+EREGL,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3794066137.0
+EREGL,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),11270085.0
+EREGL,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2668532975.0
+EREGL,2025/3,2ODA,Azınlık Payları,Minority Interests,213363536.0
+EREGL,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,12022107856.0
+EREGL,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EREGL,2025/3,3C,Satış Gelirleri,Net Sales,1476861066.0
+EREGL,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1372015253.0
+EREGL,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EREGL,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,104845813.0
+EREGL,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EREGL,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EREGL,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EREGL,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),104845813.0
+EREGL,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-15425603.0
+EREGL,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-38590129.0
+EREGL,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-2310065.0
+EREGL,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,14318412.0
+EREGL,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-10504528.0
+EREGL,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EREGL,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,52333900.0
+EREGL,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,48520016.0
+EREGL,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,16839036.0
+EREGL,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2275036.0
+EREGL,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EREGL,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,381706.0
+EREGL,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,67279606.0
+EREGL,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),56728464.0
+EREGL,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-112376436.0
+EREGL,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,14564001.0
+EREGL,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,11631634.0
+EREGL,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,722397.0
+EREGL,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-3362423.0
+EREGL,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,4084820.0
+EREGL,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EREGL,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,12354031.0
+EREGL,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EREGL,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EREGL,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,12354031.0
+EREGL,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EREGL,2025/3,3LB,Azınlık Payları,Minority Interests,593424.0
+EREGL,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,11760607.0
+EREGL,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EREGL,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EREGL,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EREGL,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EREGL,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,65321459.0
+EREGL,2025/3,4BA,Kıdem Tazminatı,Severance Payments,3630271.0
+EREGL,2025/3,4BB,Finansman Giderleri,Financial Expenses,-112376436.0
+EREGL,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,1013949676.0
+EREGL,2025/3,4BD,Yurtdışı Satışlar,Export Sales,390460349.0
+EREGL,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,785290107.0
+EREGL,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,657615523.0
+EREGL,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),204645798.0
+EREGL,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,526192011.0
+EREGL,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,12354031.0
+EREGL,2025/3,4CAA,Düzeltmeler:,Adjustments:,50867896.0
+EREGL,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,65321459.0
+EREGL,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,22447148.0
+EREGL,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-36900711.0
+EREGL,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),63221927.0
+EREGL,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,410101372.0
+EREGL,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),473323299.0
+EREGL,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,52868712.0
+EREGL,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-309772063.0
+EREGL,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,169069072.0
+EREGL,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-140702992.0
+EREGL,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,385489019.0
+EREGL,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,49892435.0
+EREGL,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EREGL,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EREGL,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-115728654.0
+EREGL,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-65836219.0
+EREGL,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,319652800.0
+EREGL,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,93245760.0
+EREGL,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EREGL,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,412898560.0
+EREGL,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EREGL,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1522236584.0
+EREGL,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1935135144.0
+EREGL,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,5335463097.0
+EREGL,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2107302298.0
+EREGL,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EREGL,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,655858401.0
+EREGL,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EREGL,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,10932524.0
+EREGL,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2025/6,1AF,Stoklar,Inventories,2121367463.0
+EREGL,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EREGL,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,440002411.0
+EREGL,2025/6,1AI,(Ara Toplam),(Subtotal),5335463097.0
+EREGL,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EREGL,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,7031652726.0
+EREGL,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+EREGL,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EREGL,2025/6,1BB,Diğer Alacaklar,Other Receivables,4207408.0
+EREGL,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2025/6,1BC,Finansal Yatırımlar,Financial Investments,4499704.0
+EREGL,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,32606776.0
+EREGL,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EREGL,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,32547322.0
+EREGL,2025/6,1BFA,Stoklar,Stoklar,0.0
+EREGL,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,35782872.0
+EREGL,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,6288547513.0
+EREGL,2025/6,1BGA,Şerefiye,Goodwill,18747476.0
+EREGL,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,239477600.0
+EREGL,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,7312546.0
+EREGL,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,367923511.0
+EREGL,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,12367115823.0
+EREGL,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+EREGL,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2266228436.0
+EREGL,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,720380007.0
+EREGL,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1270499442.0
+EREGL,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,56295225.0
+EREGL,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EREGL,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EREGL,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EREGL,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,39662090.0
+EREGL,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),6598849.0
+EREGL,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,36786177.0
+EREGL,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,136006646.0
+EREGL,2025/6,2AAGG,(Ara Toplam),(Subtotal),2266228436.0
+EREGL,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EREGL,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3191766937.0
+EREGL,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,2678037948.0
+EREGL,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EREGL,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EREGL,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EREGL,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EREGL,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EREGL,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EREGL,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,178646577.0
+EREGL,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EREGL,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,334501261.0
+EREGL,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,581151.0
+EREGL,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6909120450.0
+EREGL,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6693448549.0
+EREGL,2025/6,2OA,Ödenmiş Sermaye,Share Capital,175824617.0
+EREGL,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EREGL,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,2673715.0
+EREGL,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EREGL,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-297367202.0
+EREGL,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,290470456.0
+EREGL,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3801485517.0
+EREGL,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),43527745.0
+EREGL,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2676833700.0
+EREGL,2025/6,2ODA,Azınlık Payları,Minority Interests,215671901.0
+EREGL,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,12367115823.0
+EREGL,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EREGL,2025/6,3C,Satış Gelirleri,Net Sales,2533302088.0
+EREGL,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2328744282.0
+EREGL,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EREGL,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,204557806.0
+EREGL,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EREGL,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EREGL,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EREGL,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),204557806.0
+EREGL,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-32308878.0
+EREGL,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-80265454.0
+EREGL,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-4495685.0
+EREGL,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,34477446.0
+EREGL,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-22276203.0
+EREGL,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EREGL,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,99689032.0
+EREGL,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,87487789.0
+EREGL,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,17231106.0
+EREGL,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2481477.0
+EREGL,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EREGL,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1041012.0
+EREGL,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,115479673.0
+EREGL,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),93360552.0
+EREGL,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-198325741.0
+EREGL,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,14749629.0
+EREGL,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,10514484.0
+EREGL,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,37931718.0
+EREGL,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-7701796.0
+EREGL,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,45633515.0
+EREGL,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EREGL,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,48446202.0
+EREGL,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EREGL,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EREGL,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,48446202.0
+EREGL,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EREGL,2025/6,3LB,Azınlık Payları,Minority Interests,2214294.0
+EREGL,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,46231908.0
+EREGL,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EREGL,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EREGL,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EREGL,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EREGL,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,132911827.0
+EREGL,2025/6,4BA,Kıdem Tazminatı,Severance Payments,6210109.0
+EREGL,2025/6,4BB,Finansman Giderleri,Financial Expenses,-198325741.0
+EREGL,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,1804200779.0
+EREGL,2025/6,4BD,Yurtdışı Satışlar,Export Sales,587672399.0
+EREGL,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,319289741.0
+EREGL,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,170327161.0
+EREGL,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-45576530.0
+EREGL,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,908015130.0
+EREGL,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,48446202.0
+EREGL,2025/6,4CAA,Düzeltmeler:,Adjustments:,144921360.0
+EREGL,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,132911827.0
+EREGL,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,40620512.0
+EREGL,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-28610979.0
+EREGL,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),193367562.0
+EREGL,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,675770800.0
+EREGL,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),869138362.0
+EREGL,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,38876769.0
+EREGL,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-205006267.0
+EREGL,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,12014362.0
+EREGL,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-192991906.0
+EREGL,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,715023225.0
+EREGL,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-5549609.0
+EREGL,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EREGL,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EREGL,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-114029524.0
+EREGL,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-119579133.0
+EREGL,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,595444092.0
+EREGL,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,168141439.0
+EREGL,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EREGL,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,763585531.0
+EREGL,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EREGL,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1472365726.0
+EREGL,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2235951256.0
+EREGL,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,5527585374.0
+EREGL,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2349742506.0
+EREGL,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+EREGL,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,639252602.0
+EREGL,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EREGL,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,6436188.0
+EREGL,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2025/9,1AF,Stoklar,Inventories,2107954456.0
+EREGL,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EREGL,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,424199622.0
+EREGL,2025/9,1AI,(Ara Toplam),(Subtotal),5527585374.0
+EREGL,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EREGL,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,7065639225.0
+EREGL,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+EREGL,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EREGL,2025/9,1BB,Diğer Alacaklar,Other Receivables,4218428.0
+EREGL,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EREGL,2025/9,1BC,Finansal Yatırımlar,Financial Investments,4324076.0
+EREGL,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,33642068.0
+EREGL,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EREGL,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,32518734.0
+EREGL,2025/9,1BFA,Stoklar,Stoklar,0.0
+EREGL,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,34098183.0
+EREGL,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,6337615099.0
+EREGL,2025/9,1BGA,Şerefiye,Goodwill,18747475.0
+EREGL,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,238453042.0
+EREGL,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,8475143.0
+EREGL,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,353546978.0
+EREGL,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,12593224599.0
+EREGL,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+EREGL,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2464653982.0
+EREGL,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,841334749.0
+EREGL,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1439654102.0
+EREGL,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,10429950.0
+EREGL,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EREGL,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EREGL,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EREGL,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,40639273.0
+EREGL,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),11034592.0
+EREGL,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,31107413.0
+EREGL,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,90453903.0
+EREGL,2025/9,2AAGG,(Ara Toplam),(Subtotal),2464653982.0
+EREGL,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EREGL,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3181630096.0
+EREGL,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,2689066390.0
+EREGL,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EREGL,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EREGL,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EREGL,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EREGL,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EREGL,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EREGL,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EREGL,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,176493641.0
+EREGL,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EREGL,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,315507797.0
+EREGL,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,562268.0
+EREGL,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6946940522.0
+EREGL,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6727971218.0
+EREGL,2025/9,2OA,Ödenmiş Sermaye,Share Capital,168343690.0
+EREGL,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EREGL,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,2559954.0
+EREGL,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EREGL,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-296852502.0
+EREGL,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,282559858.0
+EREGL,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3811028219.0
+EREGL,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),57335480.0
+EREGL,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2702996518.0
+EREGL,2025/9,2ODA,Azınlık Payları,Minority Interests,218969304.0
+EREGL,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,12593224599.0
+EREGL,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EREGL,2025/9,3C,Satış Gelirleri,Net Sales,3828312746.0
+EREGL,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-3521917426.0
+EREGL,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EREGL,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,306395320.0
+EREGL,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EREGL,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EREGL,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EREGL,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EREGL,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),306395320.0
+EREGL,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-49015741.0
+EREGL,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-119974803.0
+EREGL,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-6786883.0
+EREGL,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,54873752.0
+EREGL,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-32152632.0
+EREGL,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EREGL,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,153339014.0
+EREGL,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,130617893.0
+EREGL,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,17748216.0
+EREGL,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2908235.0
+EREGL,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+EREGL,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,2073081.0
+EREGL,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,170252075.0
+EREGL,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),121620057.0
+EREGL,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-279926928.0
+EREGL,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,14839981.0
+EREGL,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,11945204.0
+EREGL,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,53180952.0
+EREGL,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-14272652.0
+EREGL,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,67453604.0
+EREGL,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EREGL,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,65126156.0
+EREGL,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EREGL,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EREGL,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,65126156.0
+EREGL,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EREGL,2025/9,3LB,Azınlık Payları,Minority Interests,3421316.0
+EREGL,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,61704840.0
+EREGL,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EREGL,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EREGL,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EREGL,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EREGL,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,205791910.0
+EREGL,2025/9,4BA,Kıdem Tazminatı,Severance Payments,8886363.0
+EREGL,2025/9,4BB,Finansman Giderleri,Financial Expenses,-279926928.0
+EREGL,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,2779727925.0
+EREGL,2025/9,4BD,Yurtdışı Satışlar,Export Sales,826221799.0
+EREGL,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-13890843.0
+EREGL,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-145211764.0
+EREGL,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-106669846.0
+EREGL,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1221919030.0
+EREGL,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,65126156.0
+EREGL,2025/9,4CAA,Düzeltmeler:,Adjustments:,236588801.0
+EREGL,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,205791910.0
+EREGL,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,50302792.0
+EREGL,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-19505901.0
+EREGL,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),301714958.0
+EREGL,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,897710350.0
+EREGL,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1199425308.0
+EREGL,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,22493723.0
+EREGL,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-283990217.0
+EREGL,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1508107.0
+EREGL,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-285498324.0
+EREGL,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,936420707.0
+EREGL,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,133634884.0
+EREGL,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-44451122.0
+EREGL,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EREGL,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-167241012.0
+EREGL,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-78057250.0
+EREGL,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,858363456.0
+EREGL,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,238492486.0
+EREGL,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EREGL,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1096855942.0
+EREGL,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EREGL,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1428410371.0
+EREGL,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2525266313.0

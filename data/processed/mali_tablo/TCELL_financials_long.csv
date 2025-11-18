@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+TCELL,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,4127300021.0
+TCELL,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2283587444.0
+TCELL,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,420778080.0
+TCELL,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,593005766.0
+TCELL,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,288237188.0
+TCELL,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,12806481.0
+TCELL,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,166157645.0
+TCELL,2022/12,1AF,Stoklar,Inventories,26424728.0
+TCELL,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TCELL,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,336302691.0
+TCELL,2022/12,1AI,(Ara Toplam),(Subtotal),4127300021.0
+TCELL,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TCELL,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,8417499253.0
+TCELL,2022/12,1B,Ticari Alacaklar,Trade Receivables,26279842.0
+TCELL,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,25081678.0
+TCELL,2022/12,1BB,Diğer Alacaklar,Other Receivables,33047299.0
+TCELL,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,5898302.0
+TCELL,2022/12,1BC,Finansal Yatırımlar,Financial Investments,185554879.0
+TCELL,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,202919443.0
+TCELL,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TCELL,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,9560378.0
+TCELL,2022/12,1BFA,Stoklar,Stoklar,0.0
+TCELL,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,429975710.0
+TCELL,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3816698484.0
+TCELL,2022/12,1BGA,Şerefiye,Goodwill,22408392.0
+TCELL,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3260675902.0
+TCELL,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,145868727.0
+TCELL,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,253530216.0
+TCELL,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,12544799274.0
+TCELL,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TCELL,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2587871236.0
+TCELL,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1470856609.0
+TCELL,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,688020286.0
+TCELL,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,210426650.0
+TCELL,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,74827514.0
+TCELL,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TCELL,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TCELL,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,11426436.0
+TCELL,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),21417734.0
+TCELL,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,66318546.0
+TCELL,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,44577461.0
+TCELL,2022/12,2AAGG,(Ara Toplam),(Subtotal),2587871236.0
+TCELL,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TCELL,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,4117832426.0
+TCELL,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,3266351644.0
+TCELL,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,3101431.0
+TCELL,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TCELL,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,66649530.0
+TCELL,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TCELL,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TCELL,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,437433.0
+TCELL,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,242669710.0
+TCELL,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TCELL,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,479985212.0
+TCELL,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,58637465.0
+TCELL,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,5839095612.0
+TCELL,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5838752829.0
+TCELL,2022/12,2OA,Ödenmiş Sermaye,Share Capital,117446082.0
+TCELL,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TCELL,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,410154.0
+TCELL,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TCELL,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-678116005.0
+TCELL,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,1301771567.0
+TCELL,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3763924141.0
+TCELL,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),367309204.0
+TCELL,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,966007687.0
+TCELL,2022/12,2ODA,Azınlık Payları,Minority Interests,342782.0
+TCELL,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,12544799274.0
+TCELL,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TCELL,2022/12,3C,Satış Gelirleri,Net Sales,5429205467.0
+TCELL,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-4836631127.0
+TCELL,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TCELL,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,592574340.0
+TCELL,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",197444290.0
+TCELL,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-79461339.0
+TCELL,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TCELL,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,117982951.0
+TCELL,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TCELL,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),710557291.0
+TCELL,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-276424318.0
+TCELL,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-155245822.0
+TCELL,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+TCELL,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,868467812.0
+TCELL,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-87566420.0
+TCELL,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TCELL,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1059788543.0
+TCELL,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,278887151.0
+TCELL,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,197321690.0
+TCELL,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2136743.0
+TCELL,2022/12,3HAB,Diğer Gelir ve Giderler,nan,-37434704.0
+TCELL,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,31430675.0
+TCELL,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1248969462.0
+TCELL,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),25914037.0
+TCELL,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1079203758.0
+TCELL,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,157750244.0
+TCELL,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,195679741.0
+TCELL,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,167635462.0
+TCELL,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-52033671.0
+TCELL,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,219669133.0
+TCELL,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TCELL,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,363315204.0
+TCELL,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TCELL,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,50699335.0
+TCELL,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,414014539.0
+TCELL,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TCELL,2022/12,3LB,Azınlık Payları,Minority Interests,-95095.0
+TCELL,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,414109634.0
+TCELL,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TCELL,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TCELL,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TCELL,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TCELL,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,2118265682.0
+TCELL,2022/12,4BA,Kıdem Tazminatı,Severance Payments,10090875.0
+TCELL,2022/12,4BB,Finansman Giderleri,Financial Expenses,-1079203758.0
+TCELL,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,4691645906.0
+TCELL,2022/12,4BD,Yurtdışı Satışlar,Export Sales,1190304499.0
+TCELL,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1989311748.0
+TCELL,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-295056626.0
+TCELL,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-295056626.0
+TCELL,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,2784693841.0
+TCELL,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,414014539.0
+TCELL,2022/12,4CAA,Düzeltmeler:,Adjustments:,2725898032.0
+TCELL,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2118265682.0
+TCELL,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,165938984.0
+TCELL,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,441693365.0
+TCELL,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),3139912570.0
+TCELL,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-157067849.0
+TCELL,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2982844721.0
+TCELL,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-198150880.0
+TCELL,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1527125648.0
+TCELL,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-621453105.0
+TCELL,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-2148578753.0
+TCELL,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,636115088.0
+TCELL,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,565375200.0
+TCELL,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-143938156.0
+TCELL,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TCELL,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-217502117.0
+TCELL,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,203934927.0
+TCELL,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,840050015.0
+TCELL,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-1300872288.0
+TCELL,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TCELL,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-460822273.0
+TCELL,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TCELL,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3033327626.0
+TCELL,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2572505353.0
+TCELL,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,2197769837.0
+TCELL,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1282367579.0
+TCELL,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,58834248.0
+TCELL,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,351110785.0
+TCELL,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,152435912.0
+TCELL,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,33921506.0
+TCELL,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,85576568.0
+TCELL,2022/3,1AF,Stoklar,Inventories,31999864.0
+TCELL,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TCELL,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,201523374.0
+TCELL,2022/3,1AI,(Ara Toplam),(Subtotal),2197769837.0
+TCELL,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TCELL,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2939106353.0
+TCELL,2022/3,1B,Ticari Alacaklar,Trade Receivables,18351894.0
+TCELL,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,11655062.0
+TCELL,2022/3,1BB,Diğer Alacaklar,Other Receivables,16214342.0
+TCELL,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,4156920.0
+TCELL,2022/3,1BC,Finansal Yatırımlar,Financial Investments,118663484.0
+TCELL,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,57108876.0
+TCELL,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TCELL,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1799298.0
+TCELL,2022/3,1BFA,Stoklar,Stoklar,0.0
+TCELL,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,211618031.0
+TCELL,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1255265114.0
+TCELL,2022/3,1BGA,Şerefiye,Goodwill,3302145.0
+TCELL,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1024478194.0
+TCELL,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,119578068.0
+TCELL,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,96914925.0
+TCELL,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5136876189.0
+TCELL,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TCELL,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1279360112.0
+TCELL,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,733128721.0
+TCELL,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,354373581.0
+TCELL,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,110577625.0
+TCELL,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,33651311.0
+TCELL,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TCELL,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TCELL,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,9764517.0
+TCELL,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),10500563.0
+TCELL,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,13141542.0
+TCELL,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,14222253.0
+TCELL,2022/3,2AAGG,(Ara Toplam),(Subtotal),1279360112.0
+TCELL,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TCELL,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2263099396.0
+TCELL,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,2053068162.0
+TCELL,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TCELL,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TCELL,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,11388891.0
+TCELL,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TCELL,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TCELL,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,126846.0
+TCELL,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,92240802.0
+TCELL,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TCELL,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,51755925.0
+TCELL,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,54518771.0
+TCELL,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1594416681.0
+TCELL,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1594395404.0
+TCELL,2022/3,2OA,Ödenmiş Sermaye,Share Capital,150032393.0
+TCELL,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TCELL,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,18345.0
+TCELL,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TCELL,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,149255498.0
+TCELL,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,246352372.0
+TCELL,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1243496982.0
+TCELL,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),54754595.0
+TCELL,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-249514782.0
+TCELL,2022/3,2ODA,Azınlık Payları,Minority Interests,21277.0
+TCELL,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5136876189.0
+TCELL,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TCELL,2022/3,3C,Satış Gelirleri,Net Sales,741835659.0
+TCELL,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-534852452.0
+TCELL,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TCELL,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,206983208.0
+TCELL,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",23587228.0
+TCELL,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-7494263.0
+TCELL,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TCELL,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,16092965.0
+TCELL,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TCELL,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),223076173.0
+TCELL,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-38699566.0
+TCELL,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-21732896.0
+TCELL,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+TCELL,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,115512411.0
+TCELL,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-8579809.0
+TCELL,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TCELL,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,269576313.0
+TCELL,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,162643711.0
+TCELL,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,21411984.0
+TCELL,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TCELL,2022/3,3HAB,Diğer Gelir ve Giderler,nan,-3943908.0
+TCELL,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-1677773.0
+TCELL,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,285366616.0
+TCELL,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),5171589.0
+TCELL,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-222626939.0
+TCELL,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,17468076.0
+TCELL,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,67911266.0
+TCELL,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-10448454.0
+TCELL,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-11254240.0
+TCELL,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,805786.0
+TCELL,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TCELL,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,57462812.0
+TCELL,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TCELL,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TCELL,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,57462812.0
+TCELL,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TCELL,2022/3,3LB,Azınlık Payları,Minority Interests,1145.0
+TCELL,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,57461667.0
+TCELL,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TCELL,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TCELL,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TCELL,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TCELL,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,150487640.0
+TCELL,2022/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TCELL,2022/3,4BB,Finansman Giderleri,Financial Expenses,-222626939.0
+TCELL,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,565830311.0
+TCELL,2022/3,4BD,Yurtdışı Satışlar,Export Sales,99720962.0
+TCELL,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1379371065.0
+TCELL,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-304960483.0
+TCELL,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-304960483.0
+TCELL,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,240741563.0
+TCELL,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,57462812.0
+TCELL,2022/3,4CAA,Düzeltmeler:,Adjustments:,359074619.0
+TCELL,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,150487640.0
+TCELL,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,18403687.0
+TCELL,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,190183292.0
+TCELL,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),416537431.0
+TCELL,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-173013512.0
+TCELL,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),243523919.0
+TCELL,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-2782356.0
+TCELL,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-168111449.0
+TCELL,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-98771396.0
+TCELL,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-266882844.0
+TCELL,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,-26141282.0
+TCELL,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,65641624.0
+TCELL,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TCELL,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TCELL,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-39620362.0
+TCELL,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,26021262.0
+TCELL,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-120020.0
+TCELL,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,12233794.0
+TCELL,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TCELL,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,12113774.0
+TCELL,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TCELL,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1332591094.0
+TCELL,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1344704868.0
+TCELL,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,2308147489.0
+TCELL,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1316385264.0
+TCELL,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,149949315.0
+TCELL,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,367655799.0
+TCELL,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,143571061.0
+TCELL,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,31048324.0
+TCELL,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,80182070.0
+TCELL,2022/6,1AF,Stoklar,Inventories,22701511.0
+TCELL,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TCELL,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,196654145.0
+TCELL,2022/6,1AI,(Ara Toplam),(Subtotal),2308147489.0
+TCELL,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TCELL,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2757044766.0
+TCELL,2022/6,1B,Ticari Alacaklar,Trade Receivables,17228573.0
+TCELL,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,12371640.0
+TCELL,2022/6,1BB,Diğer Alacaklar,Other Receivables,16035084.0
+TCELL,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,3259463.0
+TCELL,2022/6,1BC,Finansal Yatırımlar,Financial Investments,131537978.0
+TCELL,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,59510466.0
+TCELL,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TCELL,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1289167.0
+TCELL,2022/6,1BFA,Stoklar,Stoklar,0.0
+TCELL,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,192368765.0
+TCELL,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1161950286.0
+TCELL,2022/6,1BGA,Şerefiye,Goodwill,2900955.0
+TCELL,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,934368178.0
+TCELL,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,119904622.0
+TCELL,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,104319590.0
+TCELL,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5065192255.0
+TCELL,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TCELL,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1328514924.0
+TCELL,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,792280576.0
+TCELL,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,272765556.0
+TCELL,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,174133626.0
+TCELL,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,35294223.0
+TCELL,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TCELL,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TCELL,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,7888793.0
+TCELL,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),9375187.0
+TCELL,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,23302419.0
+TCELL,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,13474544.0
+TCELL,2022/6,2AAGG,(Ara Toplam),(Subtotal),1328514924.0
+TCELL,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TCELL,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2308752651.0
+TCELL,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,2097509077.0
+TCELL,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,20849.0
+TCELL,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TCELL,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,12072684.0
+TCELL,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TCELL,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TCELL,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,218975.0
+TCELL,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,88510251.0
+TCELL,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TCELL,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,65336640.0
+TCELL,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,45084175.0
+TCELL,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1427924680.0
+TCELL,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1427922703.0
+TCELL,2022/6,2OA,Ödenmiş Sermaye,Share Capital,131804402.0
+TCELL,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TCELL,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,16116.0
+TCELL,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TCELL,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,149426172.0
+TCELL,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,227554549.0
+TCELL,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1005932816.0
+TCELL,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),159429886.0
+TCELL,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-246241238.0
+TCELL,2022/6,2ODA,Azınlık Payları,Minority Interests,1977.0
+TCELL,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5065192255.0
+TCELL,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TCELL,2022/6,3C,Satış Gelirleri,Net Sales,1508690238.0
+TCELL,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1091339735.0
+TCELL,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TCELL,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,417350504.0
+TCELL,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",47883504.0
+TCELL,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-16070036.0
+TCELL,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TCELL,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,31813469.0
+TCELL,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TCELL,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),449163972.0
+TCELL,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-75007920.0
+TCELL,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-43785050.0
+TCELL,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+TCELL,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,238317135.0
+TCELL,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-12796485.0
+TCELL,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TCELL,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,555891652.0
+TCELL,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,330371002.0
+TCELL,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,73638365.0
+TCELL,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TCELL,2022/6,3HAB,Diğer Gelir ve Giderler,nan,-10119713.0
+TCELL,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-5007595.0
+TCELL,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,614402709.0
+TCELL,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),57026902.0
+TCELL,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-487960102.0
+TCELL,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,63518652.0
+TCELL,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,183469510.0
+TCELL,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-4711825.0
+TCELL,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-16038531.0
+TCELL,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,11326706.0
+TCELL,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TCELL,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,178757684.0
+TCELL,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TCELL,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TCELL,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,178757684.0
+TCELL,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TCELL,2022/6,3LB,Azınlık Payları,Minority Interests,-1075.0
+TCELL,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,178758759.0
+TCELL,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TCELL,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TCELL,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TCELL,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TCELL,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,295108187.0
+TCELL,2022/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TCELL,2022/6,4BB,Finansman Giderleri,Financial Expenses,-487960102.0
+TCELL,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,1156547491.0
+TCELL,2022/6,4BD,Yurtdışı Satışlar,Export Sales,190705419.0
+TCELL,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1396459283.0
+TCELL,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-238111379.0
+TCELL,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-238111379.0
+TCELL,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,554567507.0
+TCELL,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,178757684.0
+TCELL,2022/6,4CAA,Düzeltmeler:,Adjustments:,734979432.0
+TCELL,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,295108187.0
+TCELL,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,41222811.0
+TCELL,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,398648434.0
+TCELL,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),913737117.0
+TCELL,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-295929665.0
+TCELL,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),617807452.0
+TCELL,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-63239945.0
+TCELL,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-334931080.0
+TCELL,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-230028130.0
+TCELL,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-564959210.0
+TCELL,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-10391703.0
+TCELL,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,293510642.0
+TCELL,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TCELL,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TCELL,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-61839489.0
+TCELL,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,231671153.0
+TCELL,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,221279450.0
+TCELL,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1392193.0
+TCELL,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TCELL,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,222671642.0
+TCELL,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TCELL,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1250782315.0
+TCELL,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1473453957.0
+TCELL,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,2362471634.0
+TCELL,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1312208753.0
+TCELL,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,260563925.0
+TCELL,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,323373473.0
+TCELL,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,149814954.0
+TCELL,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,28999520.0
+TCELL,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,90636262.0
+TCELL,2022/9,1AF,Stoklar,Inventories,17731254.0
+TCELL,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TCELL,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,179143493.0
+TCELL,2022/9,1AI,(Ara Toplam),(Subtotal),2362471634.0
+TCELL,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TCELL,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,2524058355.0
+TCELL,2022/9,1B,Ticari Alacaklar,Trade Receivables,16988751.0
+TCELL,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,12641857.0
+TCELL,2022/9,1BB,Diğer Alacaklar,Other Receivables,15780154.0
+TCELL,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,2579438.0
+TCELL,2022/9,1BC,Finansal Yatırımlar,Financial Investments,132641857.0
+TCELL,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,54247551.0
+TCELL,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TCELL,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1115184.0
+TCELL,2022/9,1BFA,Stoklar,Stoklar,0.0
+TCELL,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,167304618.0
+TCELL,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1056131381.0
+TCELL,2022/9,1BGA,Şerefiye,Goodwill,2610001.0
+TCELL,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,870291288.0
+TCELL,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,97637788.0
+TCELL,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,94088486.0
+TCELL,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4886529989.0
+TCELL,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TCELL,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1263848136.0
+TCELL,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,766565780.0
+TCELL,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,288933059.0
+TCELL,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,104462029.0
+TCELL,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,33356224.0
+TCELL,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TCELL,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TCELL,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,6874801.0
+TCELL,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),25023474.0
+TCELL,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,23483810.0
+TCELL,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,15148959.0
+TCELL,2022/9,2AAGG,(Ara Toplam),(Subtotal),1263848136.0
+TCELL,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TCELL,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2246463419.0
+TCELL,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,2032129570.0
+TCELL,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,15254.0
+TCELL,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TCELL,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,11410784.0
+TCELL,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TCELL,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TCELL,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,252047.0
+TCELL,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,82526938.0
+TCELL,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TCELL,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,73846950.0
+TCELL,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,46281876.0
+TCELL,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1376218433.0
+TCELL,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1376220104.0
+TCELL,2022/9,2OA,Ödenmiş Sermaye,Share Capital,118584958.0
+TCELL,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TCELL,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,14500.0
+TCELL,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TCELL,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,87868274.0
+TCELL,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,209698902.0
+TCELL,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),900074709.0
+TCELL,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),272580463.0
+TCELL,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-212601700.0
+TCELL,2022/9,2ODA,Azınlık Payları,Minority Interests,-1671.0
+TCELL,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4886529989.0
+TCELL,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TCELL,2022/9,3C,Satış Gelirleri,Net Sales,2303916503.0
+TCELL,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,0.0
+TCELL,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TCELL,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,675581241.0
+TCELL,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",73652394.0
+TCELL,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-26752125.0
+TCELL,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TCELL,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,46900269.0
+TCELL,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TCELL,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),722481510.0
+TCELL,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-113131746.0
+TCELL,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-65706125.0
+TCELL,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+TCELL,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,381504118.0
+TCELL,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-18783799.0
+TCELL,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TCELL,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,906363959.0
+TCELL,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,543643639.0
+TCELL,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,101949219.0
+TCELL,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TCELL,2022/9,3HAB,Diğer Gelir ve Giderler,nan,-18287290.0
+TCELL,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-3861780.0
+TCELL,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,986164107.0
+TCELL,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),53614034.0
+TCELL,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-686101549.0
+TCELL,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,83661928.0
+TCELL,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,353676592.0
+TCELL,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-35897467.0
+TCELL,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-45456995.0
+TCELL,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,9559528.0
+TCELL,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TCELL,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,317779125.0
+TCELL,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TCELL,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TCELL,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,317779125.0
+TCELL,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TCELL,2022/9,3LB,Azınlık Payları,Minority Interests,-5027.0
+TCELL,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,317784152.0
+TCELL,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TCELL,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TCELL,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TCELL,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TCELL,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,425143684.0
+TCELL,2022/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TCELL,2022/9,4BB,Finansman Giderleri,Financial Expenses,-686101549.0
+TCELL,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,1784833654.0
+TCELL,2022/9,4BD,Yurtdışı Satışlar,Export Sales,285362243.0
+TCELL,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1313826832.0
+TCELL,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-115034766.0
+TCELL,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-115034766.0
+TCELL,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1072980223.0
+TCELL,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,317779125.0
+TCELL,2022/9,4CAA,Düzeltmeler:,Adjustments:,1072697689.0
+TCELL,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,425143684.0
+TCELL,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,64263417.0
+TCELL,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,583290589.0
+TCELL,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1390476814.0
+TCELL,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-271829518.0
+TCELL,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1118647297.0
+TCELL,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-45667073.0
+TCELL,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-517466637.0
+TCELL,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-346394869.0
+TCELL,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-863861505.0
+TCELL,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,209118718.0
+TCELL,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,309932396.0
+TCELL,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-78433164.0
+TCELL,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TCELL,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-87948829.0
+TCELL,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,143550404.0
+TCELL,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,352669122.0
+TCELL,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,5746136.0
+TCELL,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TCELL,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,358415258.0
+TCELL,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TCELL,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1170095571.0
+TCELL,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1528510829.0
+TCELL,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,5020293612.0
+TCELL,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2446777728.0
+TCELL,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,434234808.0
+TCELL,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,543269981.0
+TCELL,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,286008755.0
+TCELL,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,12599716.0
+TCELL,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,156256048.0
+TCELL,2023/12,1AF,Stoklar,Inventories,26461261.0
+TCELL,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TCELL,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,277248477.0
+TCELL,2023/12,1AI,(Ara Toplam),(Subtotal),4182856775.0
+TCELL,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,837436837.0
+TCELL,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,7076015096.0
+TCELL,2023/12,1B,Ticari Alacaklar,Trade Receivables,15953044.0
+TCELL,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,29058061.0
+TCELL,2023/12,1BB,Diğer Alacaklar,Other Receivables,29330447.0
+TCELL,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,4958344.0
+TCELL,2023/12,1BC,Finansal Yatırımlar,Financial Investments,31699925.0
+TCELL,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,287355322.0
+TCELL,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TCELL,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,6969683.0
+TCELL,2023/12,1BFA,Stoklar,Stoklar,0.0
+TCELL,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,300400932.0
+TCELL,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3262955719.0
+TCELL,2023/12,1BGA,Şerefiye,Goodwill,19970737.0
+TCELL,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2844536355.0
+TCELL,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,55259483.0
+TCELL,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,187567045.0
+TCELL,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,12096308708.0
+TCELL,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TCELL,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2826140930.0
+TCELL,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1279600730.0
+TCELL,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,693902405.0
+TCELL,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,218830062.0
+TCELL,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,64256204.0
+TCELL,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TCELL,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TCELL,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,12141343.0
+TCELL,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),10446030.0
+TCELL,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,96715472.0
+TCELL,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,140468477.0
+TCELL,2023/12,2AAGG,(Ara Toplam),(Subtotal),2516360723.0
+TCELL,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,309780206.0
+TCELL,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3285989495.0
+TCELL,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,2836858972.0
+TCELL,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,56252691.0
+TCELL,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TCELL,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,58437539.0
+TCELL,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TCELL,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TCELL,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,4230434.0
+TCELL,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,168006599.0
+TCELL,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TCELL,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,111922330.0
+TCELL,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,50280930.0
+TCELL,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,5984178283.0
+TCELL,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5984812470.0
+TCELL,2023/12,2OA,Ödenmiş Sermaye,Share Capital,74598271.0
+TCELL,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TCELL,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,376145.0
+TCELL,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TCELL,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-505880955.0
+TCELL,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,1210247700.0
+TCELL,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3650440265.0
+TCELL,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),614598373.0
+TCELL,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,940432670.0
+TCELL,2023/12,2ODA,Azınlık Payları,Minority Interests,-634187.0
+TCELL,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,12096308708.0
+TCELL,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TCELL,2023/12,3C,Satış Gelirleri,Net Sales,6238587387.0
+TCELL,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-4982994973.0
+TCELL,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TCELL,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1255592414.0
+TCELL,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",251657601.0
+TCELL,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-131953180.0
+TCELL,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TCELL,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,119704421.0
+TCELL,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TCELL,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1375296834.0
+TCELL,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-344297370.0
+TCELL,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-207796911.0
+TCELL,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+TCELL,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,966067021.0
+TCELL,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-359465235.0
+TCELL,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TCELL,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1429804339.0
+TCELL,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,823202553.0
+TCELL,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,435482413.0
+TCELL,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1403066.0
+TCELL,2023/12,3HAB,Diğer Gelir ve Giderler,nan,-61085375.0
+TCELL,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,92411430.0
+TCELL,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1895209742.0
+TCELL,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),278526857.0
+TCELL,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1817058526.0
+TCELL,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,372993973.0
+TCELL,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,356678073.0
+TCELL,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,283315527.0
+TCELL,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-41387017.0
+TCELL,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,324702544.0
+TCELL,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TCELL,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,639993600.0
+TCELL,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TCELL,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,119344012.0
+TCELL,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,759337612.0
+TCELL,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TCELL,2023/12,3LB,Azınlık Payları,Minority Interests,-1317832.0
+TCELL,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,760655444.0
+TCELL,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TCELL,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TCELL,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TCELL,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TCELL,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,2027797875.0
+TCELL,2023/12,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TCELL,2023/12,4BB,Finansman Giderleri,Financial Expenses,-1817058526.0
+TCELL,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,5571487463.0
+TCELL,2023/12,4BD,Yurtdışı Satışlar,Export Sales,918757525.0
+TCELL,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1902342870.0
+TCELL,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-111552640.0
+TCELL,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-111552640.0
+TCELL,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,2880899539.0
+TCELL,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,759337612.0
+TCELL,2023/12,4CAA,Düzeltmeler:,Adjustments:,2395311696.0
+TCELL,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2027797875.0
+TCELL,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,284738737.0
+TCELL,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1388577466.0
+TCELL,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),3154649308.0
+TCELL,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-146868952.0
+TCELL,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),3007780355.0
+TCELL,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-126880817.0
+TCELL,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1767151136.0
+TCELL,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,147489679.0
+TCELL,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1619661457.0
+TCELL,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,1261238082.0
+TCELL,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,632211040.0
+TCELL,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-150566620.0
+TCELL,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TCELL,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-71485636.0
+TCELL,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,410158783.0
+TCELL,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1671396865.0
+TCELL,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,107759163.0
+TCELL,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TCELL,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1779156028.0
+TCELL,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TCELL,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2589780217.0
+TCELL,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3261287042.0
+TCELL,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,2751791034.0
+TCELL,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1423646484.0
+TCELL,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,265904742.0
+TCELL,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,486386714.0
+TCELL,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,197120462.0
+TCELL,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,32979341.0
+TCELL,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,99348909.0
+TCELL,2023/3,1AF,Stoklar,Inventories,21593929.0
+TCELL,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TCELL,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,224810452.0
+TCELL,2023/3,1AI,(Ara Toplam),(Subtotal),2751791034.0
+TCELL,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TCELL,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2972827005.0
+TCELL,2023/3,1B,Ticari Alacaklar,Trade Receivables,16956035.0
+TCELL,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,17662734.0
+TCELL,2023/3,1BB,Diğer Alacaklar,Other Receivables,25651716.0
+TCELL,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,3809087.0
+TCELL,2023/3,1BC,Finansal Yatırımlar,Financial Investments,135248595.0
+TCELL,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,58858285.0
+TCELL,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TCELL,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,592408.0
+TCELL,2023/3,1BFA,Stoklar,Stoklar,0.0
+TCELL,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,181901833.0
+TCELL,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1211384995.0
+TCELL,2023/3,1BGA,Şerefiye,Goodwill,2523531.0
+TCELL,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,977552820.0
+TCELL,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,240941796.0
+TCELL,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,99743170.0
+TCELL,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5724618039.0
+TCELL,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TCELL,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1721769979.0
+TCELL,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1012997894.0
+TCELL,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,430532891.0
+TCELL,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,139957525.0
+TCELL,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,44578639.0
+TCELL,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TCELL,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TCELL,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,5861641.0
+TCELL,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),25020065.0
+TCELL,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,21626606.0
+TCELL,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,41194717.0
+TCELL,2023/3,2AAGG,(Ara Toplam),(Subtotal),1721769979.0
+TCELL,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TCELL,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2238575501.0
+TCELL,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,2035106161.0
+TCELL,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,2115459.0
+TCELL,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TCELL,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,15272673.0
+TCELL,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TCELL,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TCELL,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,864456.0
+TCELL,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,135875713.0
+TCELL,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TCELL,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,12171953.0
+TCELL,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,37169087.0
+TCELL,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1764272559.0
+TCELL,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1764073370.0
+TCELL,2023/3,2OA,Ödenmiş Sermaye,Share Capital,114656188.0
+TCELL,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TCELL,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,14019.0
+TCELL,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TCELL,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,108721688.0
+TCELL,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,206100804.0
+TCELL,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1444784134.0
+TCELL,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),146789575.0
+TCELL,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-256993037.0
+TCELL,2023/3,2ODA,Azınlık Payları,Minority Interests,199189.0
+TCELL,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5724618039.0
+TCELL,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TCELL,2023/3,3C,Satış Gelirleri,Net Sales,1526224934.0
+TCELL,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1255059559.0
+TCELL,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TCELL,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,271165375.0
+TCELL,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",55586902.0
+TCELL,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-24880628.0
+TCELL,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TCELL,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,30706275.0
+TCELL,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TCELL,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),301871650.0
+TCELL,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-83222417.0
+TCELL,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-52563248.0
+TCELL,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+TCELL,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,118556532.0
+TCELL,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-15647230.0
+TCELL,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TCELL,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,268995286.0
+TCELL,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,166085985.0
+TCELL,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,49122630.0
+TCELL,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-6069379.0
+TCELL,2023/3,3HAB,Diğer Gelir ve Giderler,nan,-20724797.0
+TCELL,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,5394763.0
+TCELL,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,296718502.0
+TCELL,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),461953.0
+TCELL,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-209815969.0
+TCELL,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,22328454.0
+TCELL,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,87364487.0
+TCELL,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-133063911.0
+TCELL,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-29279555.0
+TCELL,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-103784356.0
+TCELL,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TCELL,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-45699424.0
+TCELL,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TCELL,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,30227438.0
+TCELL,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-15471987.0
+TCELL,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TCELL,2023/3,3LB,Azınlık Payları,Minority Interests,-16249.0
+TCELL,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,-15455738.0
+TCELL,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TCELL,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TCELL,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TCELL,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TCELL,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,450503717.0
+TCELL,2023/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TCELL,2023/3,4BB,Finansman Giderleri,Financial Expenses,-209815969.0
+TCELL,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,1241426387.0
+TCELL,2023/3,4BD,Yurtdışı Satışlar,Export Sales,252277752.0
+TCELL,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1055916463.0
+TCELL,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-99597615.0
+TCELL,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-99597615.0
+TCELL,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,260203094.0
+TCELL,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-14272486.0
+TCELL,2023/3,4CAA,Düzeltmeler:,Adjustments:,557828619.0
+TCELL,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,450503717.0
+TCELL,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,56704788.0
+TCELL,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,50620113.0
+TCELL,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),543556133.0
+TCELL,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-344663967.0
+TCELL,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),198892166.0
+TCELL,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,61310928.0
+TCELL,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-291119757.0
+TCELL,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-34598525.0
+TCELL,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-325718282.0
+TCELL,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,-65515188.0
+TCELL,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,225060948.0
+TCELL,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TCELL,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TCELL,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-73835423.0
+TCELL,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,151225525.0
+TCELL,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,85710337.0
+TCELL,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-254415238.0
+TCELL,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TCELL,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-168704901.0
+TCELL,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TCELL,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2602684599.0
+TCELL,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2433979699.0
+TCELL,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,2683124710.0
+TCELL,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1354111003.0
+TCELL,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,403708561.0
+TCELL,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,379749358.0
+TCELL,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,167759764.0
+TCELL,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,6339178.0
+TCELL,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,87319209.0
+TCELL,2023/6,1AF,Stoklar,Inventories,19407722.0
+TCELL,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TCELL,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,264729915.0
+TCELL,2023/6,1AI,(Ara Toplam),(Subtotal),2683124710.0
+TCELL,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TCELL,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2580792088.0
+TCELL,2023/6,1B,Ticari Alacaklar,Trade Receivables,12890497.0
+TCELL,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,18079174.0
+TCELL,2023/6,1BB,Diğer Alacaklar,Other Receivables,27374447.0
+TCELL,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,3163945.0
+TCELL,2023/6,1BC,Finansal Yatırımlar,Financial Investments,118873504.0
+TCELL,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,43685561.0
+TCELL,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TCELL,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,448905.0
+TCELL,2023/6,1BFA,Stoklar,Stoklar,0.0
+TCELL,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,146556924.0
+TCELL,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1017525590.0
+TCELL,2023/6,1BGA,Şerefiye,Goodwill,1871734.0
+TCELL,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,893735002.0
+TCELL,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,192167254.0
+TCELL,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,104419550.0
+TCELL,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5263916798.0
+TCELL,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TCELL,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1601844366.0
+TCELL,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,976731801.0
+TCELL,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,366337091.0
+TCELL,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,148699091.0
+TCELL,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,41913365.0
+TCELL,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TCELL,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TCELL,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,5023077.0
+TCELL,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),9504631.0
+TCELL,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,26865549.0
+TCELL,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,26769761.0
+TCELL,2023/6,2AAGG,(Ara Toplam),(Subtotal),1601844366.0
+TCELL,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TCELL,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2211096693.0
+TCELL,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,2007382681.0
+TCELL,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,33825571.0
+TCELL,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TCELL,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,11407714.0
+TCELL,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TCELL,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TCELL,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,730355.0
+TCELL,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,111976644.0
+TCELL,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TCELL,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,7236834.0
+TCELL,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,38536893.0
+TCELL,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1450975740.0
+TCELL,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1450816248.0
+TCELL,2023/6,2OA,Ödenmiş Sermaye,Share Capital,85041902.0
+TCELL,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TCELL,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,10398.0
+TCELL,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TCELL,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,161449926.0
+TCELL,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,155447978.0
+TCELL,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1069033653.0
+TCELL,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),231076360.0
+TCELL,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-251243970.0
+TCELL,2023/6,2ODA,Azınlık Payları,Minority Interests,159492.0
+TCELL,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5263916798.0
+TCELL,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TCELL,2023/6,3C,Satış Gelirleri,Net Sales,3440867503.0
+TCELL,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2766660321.0
+TCELL,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TCELL,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,674207182.0
+TCELL,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",129959747.0
+TCELL,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-55822267.0
+TCELL,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TCELL,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,74137479.0
+TCELL,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TCELL,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),748344661.0
+TCELL,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-178797804.0
+TCELL,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-104215393.0
+TCELL,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+TCELL,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,661300284.0
+TCELL,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-40471278.0
+TCELL,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TCELL,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1086160470.0
+TCELL,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,465331464.0
+TCELL,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,326421981.0
+TCELL,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-6196818.0
+TCELL,2023/6,3HAB,Diğer Gelir ve Giderler,nan,-41423562.0
+TCELL,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-6560086.0
+TCELL,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1358401986.0
+TCELL,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),245723962.0
+TCELL,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1545540005.0
+TCELL,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,278801602.0
+TCELL,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,58585942.0
+TCELL,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-189733267.0
+TCELL,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-48287120.0
+TCELL,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-141446147.0
+TCELL,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TCELL,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-131147324.0
+TCELL,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TCELL,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,69853967.0
+TCELL,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-61293357.0
+TCELL,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TCELL,2023/6,3LB,Azınlık Payları,Minority Interests,-104036.0
+TCELL,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,-61189321.0
+TCELL,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TCELL,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TCELL,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TCELL,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TCELL,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,1010086353.0
+TCELL,2023/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TCELL,2023/6,4BB,Finansman Giderleri,Financial Expenses,-1545540005.0
+TCELL,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,2797637491.0
+TCELL,2023/6,4BD,Yurtdışı Satışlar,Export Sales,480770834.0
+TCELL,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1352521973.0
+TCELL,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-25534816.0
+TCELL,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-25534816.0
+TCELL,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1433335948.0
+TCELL,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-56273966.0
+TCELL,2023/6,4CAA,Düzeltmeler:,Adjustments:,1857890238.0
+TCELL,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1003214714.0
+TCELL,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,113194320.0
+TCELL,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1221815641.0
+TCELL,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1801616272.0
+TCELL,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-297308473.0
+TCELL,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1504307799.0
+TCELL,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-70971851.0
+TCELL,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-970474889.0
+TCELL,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-262087435.0
+TCELL,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1232562324.0
+TCELL,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,200773624.0
+TCELL,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,522971435.0
+TCELL,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TCELL,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TCELL,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-138416674.0
+TCELL,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,384554760.0
+TCELL,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,585328385.0
+TCELL,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,247090623.0
+TCELL,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TCELL,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,832419008.0
+TCELL,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TCELL,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2687123769.0
+TCELL,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3029632670.0
+TCELL,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,2888214359.0
+TCELL,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1423958288.0
+TCELL,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,488651717.0
+TCELL,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,394780500.0
+TCELL,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,190752242.0
+TCELL,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,3962043.0
+TCELL,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,99718041.0
+TCELL,2023/9,1AF,Stoklar,Inventories,21681069.0
+TCELL,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TCELL,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,264710457.0
+TCELL,2023/9,1AI,(Ara Toplam),(Subtotal),2888214359.0
+TCELL,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TCELL,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,2550802560.0
+TCELL,2023/9,1B,Ticari Alacaklar,Trade Receivables,11758660.0
+TCELL,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,21788886.0
+TCELL,2023/9,1BB,Diğer Alacaklar,Other Receivables,30956683.0
+TCELL,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,3304127.0
+TCELL,2023/9,1BC,Finansal Yatırımlar,Financial Investments,81804164.0
+TCELL,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,43193685.0
+TCELL,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TCELL,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,507256.0
+TCELL,2023/9,1BFA,Stoklar,Stoklar,0.0
+TCELL,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,145604354.0
+TCELL,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1021409393.0
+TCELL,2023/9,1BGA,Şerefiye,Goodwill,1503865.0
+TCELL,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,889589769.0
+TCELL,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,167782323.0
+TCELL,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,131599395.0
+TCELL,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5439016918.0
+TCELL,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TCELL,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1729821009.0
+TCELL,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1027415263.0
+TCELL,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,357622913.0
+TCELL,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,229568512.0
+TCELL,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,43943484.0
+TCELL,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TCELL,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TCELL,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,5144644.0
+TCELL,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4163093.0
+TCELL,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,32253810.0
+TCELL,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,29709290.0
+TCELL,2023/9,2AAGG,(Ara Toplam),(Subtotal),1729821009.0
+TCELL,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TCELL,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2215015788.0
+TCELL,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,2015397725.0
+TCELL,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,34381572.0
+TCELL,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TCELL,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,12162765.0
+TCELL,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TCELL,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TCELL,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1479399.0
+TCELL,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,110873624.0
+TCELL,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TCELL,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,1270947.0
+TCELL,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,39449756.0
+TCELL,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1494180121.0
+TCELL,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1493961897.0
+TCELL,2023/9,2OA,Ödenmiş Sermaye,Share Capital,80215854.0
+TCELL,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TCELL,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,9808.0
+TCELL,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TCELL,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,155855247.0
+TCELL,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,154465726.0
+TCELL,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),918124152.0
+TCELL,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),417714468.0
+TCELL,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-232423357.0
+TCELL,2023/9,2ODA,Azınlık Payları,Minority Interests,218224.0
+TCELL,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5439016918.0
+TCELL,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TCELL,2023/9,3C,Satış Gelirleri,Net Sales,4696575627.0
+TCELL,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-3707133499.0
+TCELL,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TCELL,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,989442127.0
+TCELL,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",181821632.0
+TCELL,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-83611688.0
+TCELL,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TCELL,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,98209944.0
+TCELL,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TCELL,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1087652071.0
+TCELL,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-250756187.0
+TCELL,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-147759622.0
+TCELL,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+TCELL,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,726204631.0
+TCELL,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-177859509.0
+TCELL,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TCELL,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1237481385.0
+TCELL,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,689136262.0
+TCELL,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,373252952.0
+TCELL,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-6310613.0
+TCELL,2023/9,3HAB,Diğer Gelir ve Giderler,nan,-49990960.0
+TCELL,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-8800730.0
+TCELL,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1545632034.0
+TCELL,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),278866206.0
+TCELL,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1546990071.0
+TCELL,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,316951379.0
+TCELL,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,277508169.0
+TCELL,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-609054695.0
+TCELL,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-36613167.0
+TCELL,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-572441528.0
+TCELL,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TCELL,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-331546527.0
+TCELL,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TCELL,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,74280438.0
+TCELL,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-257266089.0
+TCELL,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TCELL,2023/9,3LB,Azınlık Payları,Minority Interests,-195505.0
+TCELL,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,-257070584.0
+TCELL,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TCELL,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TCELL,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TCELL,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TCELL,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,1460799793.0
+TCELL,2023/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TCELL,2023/9,4BB,Finansman Giderleri,Financial Expenses,-1546990071.0
+TCELL,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,4184284140.0
+TCELL,2023/9,4BD,Yurtdışı Satışlar,Export Sales,119857541.0
+TCELL,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1255947526.0
+TCELL,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,21423172.0
+TCELL,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),21423172.0
+TCELL,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1903030815.0
+TCELL,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-257266089.0
+TCELL,2023/9,4CAA,Düzeltmeler:,Adjustments:,2626532301.0
+TCELL,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1460799793.0
+TCELL,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,172174466.0
+TCELL,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1841099383.0
+TCELL,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2369266212.0
+TCELL,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-407151982.0
+TCELL,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1962114230.0
+TCELL,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-59083415.0
+TCELL,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1266818894.0
+TCELL,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-293565322.0
+TCELL,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1560384216.0
+TCELL,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,342646599.0
+TCELL,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,663286711.0
+TCELL,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TCELL,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TCELL,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-149866883.0
+TCELL,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,513419828.0
+TCELL,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,856066427.0
+TCELL,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,221706710.0
+TCELL,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TCELL,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1077773137.0
+TCELL,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TCELL,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2613081442.0
+TCELL,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2624802129.0
+TCELL,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,4034772852.0
+TCELL,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2446371068.0
+TCELL,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,244196436.0
+TCELL,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,593003671.0
+TCELL,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,253470592.0
+TCELL,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,12015068.0
+TCELL,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,184555721.0
+TCELL,2024/12,1AF,Stoklar,Inventories,23940883.0
+TCELL,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TCELL,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,277219412.0
+TCELL,2024/12,1AI,(Ara Toplam),(Subtotal),4034772852.0
+TCELL,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TCELL,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,8183027438.0
+TCELL,2024/12,1B,Ticari Alacaklar,Trade Receivables,11641411.0
+TCELL,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,13029541.0
+TCELL,2024/12,1BB,Diğer Alacaklar,Other Receivables,27730622.0
+TCELL,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,5855732.0
+TCELL,2024/12,1BC,Finansal Yatırımlar,Financial Investments,632187402.0
+TCELL,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,187876622.0
+TCELL,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TCELL,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,6648189.0
+TCELL,2024/12,1BFA,Stoklar,Stoklar,0.0
+TCELL,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,361054717.0
+TCELL,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3713003114.0
+TCELL,2024/12,1BGA,Şerefiye,Goodwill,20901371.0
+TCELL,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2884619999.0
+TCELL,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,90065299.0
+TCELL,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,228413420.0
+TCELL,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,12217800290.0
+TCELL,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TCELL,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3223555738.0
+TCELL,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1842030193.0
+TCELL,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,807734031.0
+TCELL,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,247294434.0
+TCELL,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,54031131.0
+TCELL,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TCELL,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TCELL,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,18012542.0
+TCELL,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),39772129.0
+TCELL,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,165033892.0
+TCELL,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,49647387.0
+TCELL,2024/12,2AAGG,(Ara Toplam),(Subtotal),3223555738.0
+TCELL,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TCELL,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2359096437.0
+TCELL,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,1860841508.0
+TCELL,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,6000099.0
+TCELL,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TCELL,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,76401367.0
+TCELL,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TCELL,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TCELL,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,7548318.0
+TCELL,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,175697987.0
+TCELL,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TCELL,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,186305194.0
+TCELL,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,46301964.0
+TCELL,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6635148115.0
+TCELL,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6635148115.0
+TCELL,2024/12,2OA,Ödenmiş Sermaye,Share Capital,62245712.0
+TCELL,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TCELL,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,1488278.0
+TCELL,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TCELL,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-788299255.0
+TCELL,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,1245841115.0
+TCELL,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4220407102.0
+TCELL,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),834809359.0
+TCELL,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1042826976.0
+TCELL,2024/12,2ODA,Azınlık Payları,Minority Interests,0.0
+TCELL,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,12217800290.0
+TCELL,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TCELL,2024/12,3C,Satış Gelirleri,Net Sales,6061162731.0
+TCELL,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-4595233346.0
+TCELL,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TCELL,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1465929386.0
+TCELL,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",298275592.0
+TCELL,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-194914712.0
+TCELL,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TCELL,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,103360879.0
+TCELL,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TCELL,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1569290265.0
+TCELL,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-417752881.0
+TCELL,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-264031172.0
+TCELL,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+TCELL,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,592378721.0
+TCELL,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-128281226.0
+TCELL,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TCELL,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1351603707.0
+TCELL,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,887506212.0
+TCELL,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,152315715.0
+TCELL,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-4131293.0
+TCELL,2024/12,3HAB,Diğer Gelir ve Giderler,nan,-38965597.0
+TCELL,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-120672398.0
+TCELL,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1340150134.0
+TCELL,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),19629583.0
+TCELL,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-751086750.0
+TCELL,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,109218825.0
+TCELL,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,608692967.0
+TCELL,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-185666188.0
+TCELL,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-126010283.0
+TCELL,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-59655904.0
+TCELL,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TCELL,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,423026780.0
+TCELL,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,474195820.0
+TCELL,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,897222600.0
+TCELL,2024/12,3LB,Azınlık Payları,Minority Interests,-326726.0
+TCELL,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,897549326.0
+TCELL,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TCELL,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TCELL,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TCELL,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TCELL,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,1809571550.0
+TCELL,2024/12,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TCELL,2024/12,4BB,Finansman Giderleri,Financial Expenses,-751086750.0
+TCELL,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,5485688982.0
+TCELL,2024/12,4BD,Yurtdışı Satışlar,Export Sales,873749341.0
+TCELL,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-834185694.0
+TCELL,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-310473999.0
+TCELL,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-310473999.0
+TCELL,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,2862136249.0
+TCELL,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,897222600.0
+TCELL,2024/12,4CAA,Düzeltmeler:,Adjustments:,2263396616.0
+TCELL,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1809571550.0
+TCELL,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,281504508.0
+TCELL,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,657746778.0
+TCELL,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),3160619216.0
+TCELL,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-140265618.0
+TCELL,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),3020353598.0
+TCELL,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-158217349.0
+TCELL,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1870449806.0
+TCELL,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,6348512.0
+TCELL,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1864101294.0
+TCELL,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,998034955.0
+TCELL,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,152399733.0
+TCELL,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-279093421.0
+TCELL,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TCELL,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-246628843.0
+TCELL,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-373322531.0
+TCELL,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,624712424.0
+TCELL,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,16622582.0
+TCELL,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TCELL,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,641335006.0
+TCELL,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TCELL,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2965132742.0
+TCELL,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2619533847.0
+TCELL,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,3383441732.0
+TCELL,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1508140900.0
+TCELL,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,317779190.0
+TCELL,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,444797703.0
+TCELL,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,179666642.0
+TCELL,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,7371165.0
+TCELL,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,110406356.0
+TCELL,2024/3,1AF,Stoklar,Inventories,18351884.0
+TCELL,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TCELL,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,221971797.0
+TCELL,2024/3,1AI,(Ara Toplam),(Subtotal),2808485635.0
+TCELL,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,574956096.0
+TCELL,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,5343434373.0
+TCELL,2024/3,1B,Ticari Alacaklar,Trade Receivables,9181816.0
+TCELL,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,16858513.0
+TCELL,2024/3,1BB,Diğer Alacaklar,Other Receivables,15043502.0
+TCELL,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,3338311.0
+TCELL,2024/3,1BC,Finansal Yatırımlar,Financial Investments,150702705.0
+TCELL,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,207087461.0
+TCELL,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TCELL,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,4938628.0
+TCELL,2024/3,1BFA,Stoklar,Stoklar,0.0
+TCELL,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,236650868.0
+TCELL,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2368009684.0
+TCELL,2024/3,1BGA,Şerefiye,Goodwill,14512237.0
+TCELL,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2036925852.0
+TCELL,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,62055059.0
+TCELL,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,218129738.0
+TCELL,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8726876105.0
+TCELL,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TCELL,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1904234563.0
+TCELL,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1016349324.0
+TCELL,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,392631773.0
+TCELL,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,165921017.0
+TCELL,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,42496785.0
+TCELL,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TCELL,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TCELL,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,12832029.0
+TCELL,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),7484696.0
+TCELL,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,28107910.0
+TCELL,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,40818585.0
+TCELL,2024/3,2AAGG,(Ara Toplam),(Subtotal),1706642118.0
+TCELL,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,197592445.0
+TCELL,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2387624878.0
+TCELL,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,2015147757.0
+TCELL,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,37295323.0
+TCELL,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TCELL,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,42984176.0
+TCELL,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TCELL,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TCELL,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,2237846.0
+TCELL,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,121128508.0
+TCELL,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TCELL,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,132771677.0
+TCELL,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,36059591.0
+TCELL,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4435016665.0
+TCELL,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4435585309.0
+TCELL,2024/3,2OA,Ödenmiş Sermaye,Share Capital,68019639.0
+TCELL,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TCELL,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,273315.0
+TCELL,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TCELL,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-374369272.0
+TCELL,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,879456832.0
+TCELL,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3099297264.0
+TCELL,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),81455435.0
+TCELL,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,681452096.0
+TCELL,2024/3,2ODA,Azınlık Payları,Minority Interests,-568644.0
+TCELL,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8726876105.0
+TCELL,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TCELL,2024/3,3C,Satış Gelirleri,Net Sales,1314765805.0
+TCELL,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1035267418.0
+TCELL,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TCELL,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,279498388.0
+TCELL,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",60112844.0
+TCELL,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-43320211.0
+TCELL,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TCELL,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,16792633.0
+TCELL,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TCELL,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),296291021.0
+TCELL,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-78414371.0
+TCELL,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-51790767.0
+TCELL,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+TCELL,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,161225581.0
+TCELL,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-21830355.0
+TCELL,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TCELL,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,305481109.0
+TCELL,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,166085883.0
+TCELL,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,50134588.0
+TCELL,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1696392.0
+TCELL,2024/3,3HAB,Diğer Gelir ve Giderler,nan,-8963153.0
+TCELL,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-2493700.0
+TCELL,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,342462452.0
+TCELL,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),25321134.0
+TCELL,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-215723546.0
+TCELL,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,39475043.0
+TCELL,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,152060040.0
+TCELL,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-58899908.0
+TCELL,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1993416.0
+TCELL,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-56906492.0
+TCELL,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TCELL,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,93160132.0
+TCELL,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TCELL,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,24116080.0
+TCELL,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,117276212.0
+TCELL,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TCELL,2024/3,3LB,Azınlık Payları,Minority Interests,-242568.0
+TCELL,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,117518780.0
+TCELL,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TCELL,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TCELL,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TCELL,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TCELL,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,444471172.0
+TCELL,2024/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TCELL,2024/3,4BB,Finansman Giderleri,Financial Expenses,-215723546.0
+TCELL,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,856442561.0
+TCELL,2024/3,4BD,Yurtdışı Satışlar,Export Sales,159585261.0
+TCELL,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1132080472.0
+TCELL,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,316501.0
+TCELL,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),316501.0
+TCELL,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,330324052.0
+TCELL,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,117276212.0
+TCELL,2024/3,4CAA,Düzeltmeler:,Adjustments:,558059514.0
+TCELL,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,444471172.0
+TCELL,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,31103581.0
+TCELL,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,297190427.0
+TCELL,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),675335727.0
+TCELL,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-368118337.0
+TCELL,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),307217390.0
+TCELL,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,23106662.0
+TCELL,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-280346890.0
+TCELL,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-325135944.0
+TCELL,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-605482835.0
+TCELL,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-275158783.0
+TCELL,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,287244665.0
+TCELL,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TCELL,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TCELL,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-64230875.0
+TCELL,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,223013789.0
+TCELL,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-52144994.0
+TCELL,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,39345749.0
+TCELL,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TCELL,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-12799244.0
+TCELL,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TCELL,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2762612162.0
+TCELL,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2389939656.0
+TCELL,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,3433117898.0
+TCELL,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1526196963.0
+TCELL,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,280861327.0
+TCELL,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,465285097.0
+TCELL,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,190272067.0
+TCELL,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,342524.0
+TCELL,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,151476982.0
+TCELL,2024/6,1AF,Stoklar,Inventories,21208625.0
+TCELL,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TCELL,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,220986854.0
+TCELL,2024/6,1AI,(Ara Toplam),(Subtotal),2856630440.0
+TCELL,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,576487458.0
+TCELL,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,5680803398.0
+TCELL,2024/6,1B,Ticari Alacaklar,Trade Receivables,6075298.0
+TCELL,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,14735520.0
+TCELL,2024/6,1BB,Diğer Alacaklar,Other Receivables,16727383.0
+TCELL,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,5955761.0
+TCELL,2024/6,1BC,Finansal Yatırımlar,Financial Investments,202990759.0
+TCELL,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,197625018.0
+TCELL,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TCELL,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,5133327.0
+TCELL,2024/6,1BFA,Stoklar,Stoklar,0.0
+TCELL,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,236425607.0
+TCELL,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2571098302.0
+TCELL,2024/6,1BGA,Şerefiye,Goodwill,15472840.0
+TCELL,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2143700377.0
+TCELL,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,58693915.0
+TCELL,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,206169291.0
+TCELL,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9113921296.0
+TCELL,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TCELL,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2193413987.0
+TCELL,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1069096009.0
+TCELL,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,408269531.0
+TCELL,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,370560433.0
+TCELL,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,44713018.0
+TCELL,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TCELL,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TCELL,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,12233125.0
+TCELL,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4363926.0
+TCELL,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,43574576.0
+TCELL,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,46232724.0
+TCELL,2024/6,2AAGG,(Ara Toplam),(Subtotal),1999043342.0
+TCELL,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,194370646.0
+TCELL,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2289544690.0
+TCELL,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,1947167549.0
+TCELL,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,4502498.0
+TCELL,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TCELL,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,47246308.0
+TCELL,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TCELL,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TCELL,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,2995989.0
+TCELL,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,126439777.0
+TCELL,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TCELL,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,123847920.0
+TCELL,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,37344649.0
+TCELL,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4630962619.0
+TCELL,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4631575932.0
+TCELL,2024/6,2OA,Ödenmiş Sermaye,Share Capital,66899192.0
+TCELL,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TCELL,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,291407.0
+TCELL,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TCELL,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-419516532.0
+TCELL,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,956757913.0
+TCELL,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3091350391.0
+TCELL,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),175164222.0
+TCELL,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,760629339.0
+TCELL,2024/6,2ODA,Azınlık Payları,Minority Interests,-613314.0
+TCELL,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9113921296.0
+TCELL,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TCELL,2024/6,3C,Satış Gelirleri,Net Sales,2788327426.0
+TCELL,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2160137175.0
+TCELL,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TCELL,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,628190251.0
+TCELL,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",129706632.0
+TCELL,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-92195291.0
+TCELL,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TCELL,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,37511341.0
+TCELL,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TCELL,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),665701593.0
+TCELL,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-177768879.0
+TCELL,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-104895686.0
+TCELL,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+TCELL,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,260076126.0
+TCELL,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-39051949.0
+TCELL,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TCELL,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,604061205.0
+TCELL,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,383037028.0
+TCELL,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,72398206.0
+TCELL,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3751732.0
+TCELL,2024/6,3HAB,Diğer Gelir ve Giderler,nan,-20038309.0
+TCELL,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-35126130.0
+TCELL,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,617543241.0
+TCELL,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),15349822.0
+TCELL,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-380266830.0
+TCELL,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,48608166.0
+TCELL,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,252626233.0
+TCELL,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-54509229.0
+TCELL,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-6851290.0
+TCELL,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-47657939.0
+TCELL,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TCELL,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,198117005.0
+TCELL,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TCELL,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,47582801.0
+TCELL,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,245699806.0
+TCELL,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TCELL,2024/6,3LB,Azınlık Payları,Minority Interests,-308141.0
+TCELL,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,246007946.0
+TCELL,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TCELL,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TCELL,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TCELL,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TCELL,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,926379517.0
+TCELL,2024/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TCELL,2024/6,4BB,Finansman Giderleri,Financial Expenses,-380266830.0
+TCELL,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,2671224073.0
+TCELL,2024/6,4BD,Yurtdışı Satışlar,Export Sales,192751140.0
+TCELL,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1187208696.0
+TCELL,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-245655311.0
+TCELL,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-245655311.0
+TCELL,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,919195072.0
+TCELL,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,245699806.0
+TCELL,2024/6,4CAA,Düzeltmeler:,Adjustments:,1164215318.0
+TCELL,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,926379517.0
+TCELL,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,76276876.0
+TCELL,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,300837681.0
+TCELL,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1409915124.0
+TCELL,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-441548195.0
+TCELL,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),968366929.0
+TCELL,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-49171857.0
+TCELL,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-776124455.0
+TCELL,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-306281972.0
+TCELL,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1082406427.0
+TCELL,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,-163211355.0
+TCELL,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,328740374.0
+TCELL,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TCELL,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TCELL,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-118280353.0
+TCELL,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,210460021.0
+TCELL,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,47248666.0
+TCELL,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,16564043.0
+TCELL,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TCELL,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,63812709.0
+TCELL,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TCELL,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2867291361.0
+TCELL,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2359437757.0
+TCELL,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,3631938068.0
+TCELL,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2369886989.0
+TCELL,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,195459051.0
+TCELL,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,483945440.0
+TCELL,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,195827075.0
+TCELL,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,229971.0
+TCELL,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,145710232.0
+TCELL,2024/9,1AF,Stoklar,Inventories,21797791.0
+TCELL,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TCELL,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,219081518.0
+TCELL,2024/9,1AI,(Ara Toplam),(Subtotal),3631938068.0
+TCELL,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TCELL,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,5924547853.0
+TCELL,2024/9,1B,Ticari Alacaklar,Trade Receivables,4993871.0
+TCELL,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,11848958.0
+TCELL,2024/9,1BB,Diğer Alacaklar,Other Receivables,17502026.0
+TCELL,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,5359292.0
+TCELL,2024/9,1BC,Finansal Yatırımlar,Financial Investments,263399459.0
+TCELL,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,187414525.0
+TCELL,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TCELL,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,5255087.0
+TCELL,2024/9,1BFA,Stoklar,Stoklar,0.0
+TCELL,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,260828582.0
+TCELL,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2706323528.0
+TCELL,2024/9,1BGA,Şerefiye,Goodwill,16213384.0
+TCELL,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2202510086.0
+TCELL,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,59846617.0
+TCELL,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,183052439.0
+TCELL,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9556485921.0
+TCELL,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TCELL,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1995913903.0
+TCELL,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1044112982.0
+TCELL,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,377490383.0
+TCELL,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,381754875.0
+TCELL,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,48515527.0
+TCELL,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TCELL,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TCELL,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,12336663.0
+TCELL,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),37814671.0
+TCELL,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,62807197.0
+TCELL,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,31081606.0
+TCELL,2024/9,2AAGG,(Ara Toplam),(Subtotal),1995913903.0
+TCELL,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TCELL,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2456238514.0
+TCELL,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,2078198874.0
+TCELL,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,5578615.0
+TCELL,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TCELL,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,55803174.0
+TCELL,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TCELL,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TCELL,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,5336005.0
+TCELL,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,128968975.0
+TCELL,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TCELL,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,143701631.0
+TCELL,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,38651240.0
+TCELL,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,5104333504.0
+TCELL,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5104333504.0
+TCELL,2024/9,2OA,Ödenmiş Sermaye,Share Capital,64360418.0
+TCELL,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TCELL,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,305332.0
+TCELL,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TCELL,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-578451371.0
+TCELL,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,1005786499.0
+TCELL,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3209223375.0
+TCELL,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),601317575.0
+TCELL,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,801791677.0
+TCELL,2024/9,2ODA,Azınlık Payları,Minority Interests,0.0
+TCELL,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9556485921.0
+TCELL,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TCELL,2024/9,3C,Satış Gelirleri,Net Sales,4515646406.0
+TCELL,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-3434104802.0
+TCELL,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TCELL,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1081541605.0
+TCELL,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",216215025.0
+TCELL,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-143461524.0
+TCELL,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TCELL,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,72753501.0
+TCELL,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TCELL,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1154295105.0
+TCELL,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-292069486.0
+TCELL,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-177885316.0
+TCELL,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+TCELL,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,447122150.0
+TCELL,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-61355297.0
+TCELL,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TCELL,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1070107156.0
+TCELL,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,684340304.0
+TCELL,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,130877076.0
+TCELL,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-5687949.0
+TCELL,2024/9,3HAB,Diğer Gelir ve Giderler,nan,-31511772.0
+TCELL,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-64755204.0
+TCELL,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1099029306.0
+TCELL,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),18346437.0
+TCELL,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-630202478.0
+TCELL,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,93677354.0
+TCELL,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,487173265.0
+TCELL,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-151955762.0
+TCELL,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-68395601.0
+TCELL,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-83560161.0
+TCELL,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TCELL,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,335217503.0
+TCELL,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TCELL,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,513188631.0
+TCELL,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,848406134.0
+TCELL,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TCELL,2024/9,3LB,Azınlık Payları,Minority Interests,-353594.0
+TCELL,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,848759727.0
+TCELL,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TCELL,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TCELL,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TCELL,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TCELL,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,1371318061.0
+TCELL,2024/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TCELL,2024/9,4BB,Finansman Giderleri,Financial Expenses,-630202478.0
+TCELL,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TCELL,2024/9,4BD,Yurtdışı Satışlar,Export Sales,88797491.0
+TCELL,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-490098823.0
+TCELL,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,157292689.0
+TCELL,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),157292689.0
+TCELL,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1898911307.0
+TCELL,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,848406134.0
+TCELL,2024/9,4CAA,Düzeltmeler:,Adjustments:,1638977540.0
+TCELL,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1371318061.0
+TCELL,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,154153377.0
+TCELL,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,356631506.0
+TCELL,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2487383674.0
+TCELL,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-563930483.0
+TCELL,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1923453191.0
+TCELL,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-24541884.0
+TCELL,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1198496097.0
+TCELL,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,393764095.0
+TCELL,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-804732001.0
+TCELL,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,1094179306.0
+TCELL,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,241951487.0
+TCELL,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TCELL,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TCELL,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-199006227.0
+TCELL,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,42945260.0
+TCELL,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1137124566.0
+TCELL,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,81519548.0
+TCELL,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TCELL,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1218644114.0
+TCELL,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TCELL,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3019623792.0
+TCELL,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3323410130.0
+TCELL,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,4198636797.0
+TCELL,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2865713081.0
+TCELL,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,144236646.0
+TCELL,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,533080032.0
+TCELL,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,199542075.0
+TCELL,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,6558359.0
+TCELL,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,152693842.0
+TCELL,2025/3,1AF,Stoklar,Inventories,22252278.0
+TCELL,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TCELL,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,274560484.0
+TCELL,2025/3,1AI,(Ara Toplam),(Subtotal),4198636797.0
+TCELL,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TCELL,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,6852889778.0
+TCELL,2025/3,1B,Ticari Alacaklar,Trade Receivables,8267788.0
+TCELL,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,8151199.0
+TCELL,2025/3,1BB,Diğer Alacaklar,Other Receivables,23190542.0
+TCELL,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,4074965.0
+TCELL,2025/3,1BC,Finansal Yatırımlar,Financial Investments,533839011.0
+TCELL,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,131172500.0
+TCELL,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TCELL,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,5327182.0
+TCELL,2025/3,1BFA,Stoklar,Stoklar,0.0
+TCELL,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,329157735.0
+TCELL,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3117052337.0
+TCELL,2025/3,1BGA,Şerefiye,Goodwill,17133640.0
+TCELL,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2352985169.0
+TCELL,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,166199896.0
+TCELL,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,156337815.0
+TCELL,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,11051526576.0
+TCELL,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TCELL,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2431994280.0
+TCELL,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1478756611.0
+TCELL,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,521458990.0
+TCELL,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,225981123.0
+TCELL,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,46010647.0
+TCELL,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TCELL,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TCELL,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,16616720.0
+TCELL,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),44100392.0
+TCELL,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,38190661.0
+TCELL,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,60879137.0
+TCELL,2025/3,2AAGG,(Ara Toplam),(Subtotal),2431994280.0
+TCELL,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TCELL,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3073290083.0
+TCELL,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,2504768870.0
+TCELL,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,5151915.0
+TCELL,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TCELL,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,61193275.0
+TCELL,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TCELL,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TCELL,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,6799784.0
+TCELL,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,148747334.0
+TCELL,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TCELL,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,308359320.0
+TCELL,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,38269585.0
+TCELL,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,5546242213.0
+TCELL,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5546242213.0
+TCELL,2025/3,2OA,Ödenmiş Sermaye,Share Capital,58149216.0
+TCELL,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TCELL,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,1219997.0
+TCELL,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TCELL,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-614528106.0
+TCELL,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,1021262816.0
+TCELL,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4143951001.0
+TCELL,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),81464673.0
+TCELL,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,854722615.0
+TCELL,2025/3,2ODA,Azınlık Payları,Minority Interests,0.0
+TCELL,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,11051526576.0
+TCELL,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TCELL,2025/3,3C,Satış Gelirleri,Net Sales,1252463503.0
+TCELL,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-902667109.0
+TCELL,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TCELL,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,349796394.0
+TCELL,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",70435965.0
+TCELL,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-44488677.0
+TCELL,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TCELL,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,25947288.0
+TCELL,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TCELL,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),375743682.0
+TCELL,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-88674258.0
+TCELL,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-55172488.0
+TCELL,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+TCELL,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,244666129.0
+TCELL,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-19312496.0
+TCELL,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TCELL,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,457250570.0
+TCELL,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,231896936.0
+TCELL,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,68854366.0
+TCELL,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1550929.0
+TCELL,2025/3,3HAB,Diğer Gelir ve Giderler,nan,-5352317.0
+TCELL,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-23830986.0
+TCELL,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,495370703.0
+TCELL,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),12143857.0
+TCELL,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-327079661.0
+TCELL,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,61951119.0
+TCELL,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,180434899.0
+TCELL,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-95424535.0
+TCELL,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-17177604.0
+TCELL,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-78246931.0
+TCELL,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TCELL,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,85010365.0
+TCELL,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TCELL,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TCELL,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,85010365.0
+TCELL,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TCELL,2025/3,3LB,Azınlık Payları,Minority Interests,0.0
+TCELL,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,85010365.0
+TCELL,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TCELL,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TCELL,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TCELL,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TCELL,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,351545526.0
+TCELL,2025/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TCELL,2025/3,4BB,Finansman Giderleri,Financial Expenses,-327079661.0
+TCELL,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TCELL,2025/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TCELL,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-654211037.0
+TCELL,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-113637204.0
+TCELL,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-113637204.0
+TCELL,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,444511827.0
+TCELL,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,85010365.0
+TCELL,2025/3,4CAA,Düzeltmeler:,Adjustments:,669508192.0
+TCELL,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,351545526.0
+TCELL,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,28143550.0
+TCELL,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,342806375.0
+TCELL,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),754518557.0
+TCELL,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-316126320.0
+TCELL,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),438392237.0
+TCELL,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,6119590.0
+TCELL,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-351344813.0
+TCELL,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,55469600.0
+TCELL,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-295875213.0
+TCELL,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,148636614.0
+TCELL,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,985089081.0
+TCELL,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TCELL,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TCELL,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-55277741.0
+TCELL,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,929811340.0
+TCELL,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1078447954.0
+TCELL,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,40369711.0
+TCELL,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TCELL,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1118817665.0
+TCELL,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TCELL,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2083436721.0
+TCELL,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2986661232.0
+TCELL,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,4368400674.0
+TCELL,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2928763325.0
+TCELL,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,262863932.0
+TCELL,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,546881976.0
+TCELL,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,202300690.0
+TCELL,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,4487145.0
+TCELL,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,151466578.0
+TCELL,2025/6,1AF,Stoklar,Inventories,18367217.0
+TCELL,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TCELL,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,253269810.0
+TCELL,2025/6,1AI,(Ara Toplam),(Subtotal),4368400674.0
+TCELL,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TCELL,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,7120022204.0
+TCELL,2025/6,1B,Ticari Alacaklar,Trade Receivables,4740558.0
+TCELL,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,6904331.0
+TCELL,2025/6,1BB,Diğer Alacaklar,Other Receivables,21062885.0
+TCELL,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,6699898.0
+TCELL,2025/6,1BC,Finansal Yatırımlar,Financial Investments,512934990.0
+TCELL,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,101894962.0
+TCELL,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TCELL,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,4815434.0
+TCELL,2025/6,1BFA,Stoklar,Stoklar,0.0
+TCELL,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,530014016.0
+TCELL,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3216784469.0
+TCELL,2025/6,1BGA,Şerefiye,Goodwill,17260100.0
+TCELL,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2334895083.0
+TCELL,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,189977796.0
+TCELL,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,172037682.0
+TCELL,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,11488422878.0
+TCELL,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TCELL,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2578309471.0
+TCELL,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1492926852.0
+TCELL,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,479930399.0
+TCELL,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,350437150.0
+TCELL,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,47956416.0
+TCELL,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TCELL,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TCELL,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,23904361.0
+TCELL,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),60804046.0
+TCELL,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,27750776.0
+TCELL,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,94599472.0
+TCELL,2025/6,2AAGG,(Ara Toplam),(Subtotal),2578309471.0
+TCELL,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TCELL,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3391570641.0
+TCELL,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,2848888236.0
+TCELL,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,10085225.0
+TCELL,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TCELL,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,59272187.0
+TCELL,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TCELL,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TCELL,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,6462384.0
+TCELL,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,150631512.0
+TCELL,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TCELL,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,276604098.0
+TCELL,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,39627001.0
+TCELL,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,5518542766.0
+TCELL,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5518542766.0
+TCELL,2025/6,2OA,Ödenmiş Sermaye,Share Capital,55259165.0
+TCELL,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TCELL,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,1228989.0
+TCELL,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TCELL,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-599655886.0
+TCELL,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,1033238187.0
+TCELL,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3966459068.0
+TCELL,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),187573570.0
+TCELL,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,874439672.0
+TCELL,2025/6,2ODA,Azınlık Payları,Minority Interests,0.0
+TCELL,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,11488422878.0
+TCELL,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TCELL,2025/6,3C,Satış Gelirleri,Net Sales,2625987840.0
+TCELL,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1907228114.0
+TCELL,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TCELL,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,718759727.0
+TCELL,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",144962764.0
+TCELL,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-93148887.0
+TCELL,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TCELL,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,51813878.0
+TCELL,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TCELL,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),770573604.0
+TCELL,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-180065761.0
+TCELL,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-109270898.0
+TCELL,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+TCELL,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,549621695.0
+TCELL,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-32708038.0
+TCELL,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TCELL,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,998150602.0
+TCELL,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,481236945.0
+TCELL,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,135822557.0
+TCELL,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3351962.0
+TCELL,2025/6,3HAB,Diğer Gelir ve Giderler,nan,-13705016.0
+TCELL,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-56559591.0
+TCELL,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1060356591.0
+TCELL,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),2337308.0
+TCELL,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-715535340.0
+TCELL,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,118765579.0
+TCELL,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,347158558.0
+TCELL,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-142932390.0
+TCELL,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-115451661.0
+TCELL,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-27480729.0
+TCELL,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TCELL,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,204226169.0
+TCELL,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TCELL,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-4999584.0
+TCELL,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,199226585.0
+TCELL,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TCELL,2025/6,3LB,Azınlık Payları,Minority Interests,0.0
+TCELL,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,199226585.0
+TCELL,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TCELL,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TCELL,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TCELL,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TCELL,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,741091260.0
+TCELL,2025/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TCELL,2025/6,4BB,Finansman Giderleri,Financial Expenses,-715535340.0
+TCELL,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,2517293112.0
+TCELL,2025/6,4BD,Yurtdışı Satışlar,Export Sales,180457051.0
+TCELL,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-942966302.0
+TCELL,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-188184592.0
+TCELL,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-188184592.0
+TCELL,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1142974159.0
+TCELL,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,199226585.0
+TCELL,2025/6,4CAA,Düzeltmeler:,Adjustments:,1441126992.0
+TCELL,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,741091260.0
+TCELL,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,61623842.0
+TCELL,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,728533596.0
+TCELL,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1640353578.0
+TCELL,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-384085761.0
+TCELL,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1256267817.0
+TCELL,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-113293658.0
+TCELL,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-720247012.0
+TCELL,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-49611482.0
+TCELL,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-769858494.0
+TCELL,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,373115666.0
+TCELL,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1132533521.0
+TCELL,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-97639076.0
+TCELL,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TCELL,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-106296167.0
+TCELL,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,928598278.0
+TCELL,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1301713944.0
+TCELL,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,35893340.0
+TCELL,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TCELL,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1337607284.0
+TCELL,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TCELL,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2136964769.0
+TCELL,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3108930619.0
+TCELL,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,4470915910.0
+TCELL,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2942328867.0
+TCELL,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,351547848.0
+TCELL,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,557357461.0
+TCELL,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,208507417.0
+TCELL,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,4599967.0
+TCELL,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,151818016.0
+TCELL,2025/9,1AF,Stoklar,Inventories,19692725.0
+TCELL,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TCELL,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,235063610.0
+TCELL,2025/9,1AI,(Ara Toplam),(Subtotal),4470915910.0
+TCELL,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TCELL,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,7347278460.0
+TCELL,2025/9,1B,Ticari Alacaklar,Trade Receivables,4907459.0
+TCELL,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,6169003.0
+TCELL,2025/9,1BB,Diğer Alacaklar,Other Receivables,29686207.0
+TCELL,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,7163794.0
+TCELL,2025/9,1BC,Finansal Yatırımlar,Financial Investments,588273563.0
+TCELL,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,95057886.0
+TCELL,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TCELL,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,4834350.0
+TCELL,2025/9,1BFA,Stoklar,Stoklar,0.0
+TCELL,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,540784217.0
+TCELL,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3366032404.0
+TCELL,2025/9,1BGA,Şerefiye,Goodwill,17765887.0
+TCELL,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2357770288.0
+TCELL,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,194448578.0
+TCELL,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,134384824.0
+TCELL,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,11818194370.0
+TCELL,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TCELL,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2548414539.0
+TCELL,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1506898989.0
+TCELL,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,462402168.0
+TCELL,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,341101497.0
+TCELL,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,49265060.0
+TCELL,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TCELL,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TCELL,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,20981925.0
+TCELL,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),32702301.0
+TCELL,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,88718905.0
+TCELL,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,46343695.0
+TCELL,2025/9,2AAGG,(Ara Toplam),(Subtotal),2548414539.0
+TCELL,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TCELL,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3425142659.0
+TCELL,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,2852741934.0
+TCELL,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TCELL,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,10879307.0
+TCELL,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TCELL,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,60653029.0
+TCELL,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TCELL,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TCELL,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,7228870.0
+TCELL,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,146664727.0
+TCELL,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TCELL,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,305938179.0
+TCELL,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,41036612.0
+TCELL,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,5844637171.0
+TCELL,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5844637171.0
+TCELL,2025/9,2OA,Ödenmiş Sermaye,Share Capital,52908017.0
+TCELL,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TCELL,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,1265007.0
+TCELL,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TCELL,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-595053798.0
+TCELL,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,1063629634.0
+TCELL,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4082885579.0
+TCELL,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),322875142.0
+TCELL,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,916127590.0
+TCELL,2025/9,2ODA,Azınlık Payları,Minority Interests,0.0
+TCELL,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,11818194370.0
+TCELL,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TCELL,2025/9,3C,Satış Gelirleri,Net Sales,4204105186.0
+TCELL,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-3022114898.0
+TCELL,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TCELL,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1181990288.0
+TCELL,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",226743259.0
+TCELL,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-154365538.0
+TCELL,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TCELL,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,72377721.0
+TCELL,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TCELL,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1254368009.0
+TCELL,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-293474009.0
+TCELL,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-181361245.0
+TCELL,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+TCELL,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,706819036.0
+TCELL,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-49744029.0
+TCELL,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TCELL,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1436607760.0
+TCELL,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,779532754.0
+TCELL,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,202847286.0
+TCELL,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-9723251.0
+TCELL,2025/9,3HAB,Diğer Gelir ve Giderler,nan,-23820709.0
+TCELL,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-69560331.0
+TCELL,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1536350755.0
+TCELL,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),13983552.0
+TCELL,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-979316203.0
+TCELL,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,169303326.0
+TCELL,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,571018103.0
+TCELL,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-218687313.0
+TCELL,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-160840648.0
+TCELL,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-57846665.0
+TCELL,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TCELL,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,352330790.0
+TCELL,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TCELL,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-4850328.0
+TCELL,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,347480462.0
+TCELL,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TCELL,2025/9,3LB,Azınlık Payları,Minority Interests,0.0
+TCELL,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,347480462.0
+TCELL,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TCELL,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TCELL,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TCELL,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TCELL,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,1181652168.0
+TCELL,2025/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+TCELL,2025/9,4BB,Finansman Giderleri,Financial Expenses,-979316203.0
+TCELL,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+TCELL,2025/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+TCELL,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1099372689.0
+TCELL,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-38903927.0
+TCELL,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-38903927.0
+TCELL,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1923440086.0
+TCELL,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,347480462.0
+TCELL,2025/9,4CAA,Düzeltmeler:,Adjustments:,2151066484.0
+TCELL,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1181652168.0
+TCELL,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,146898248.0
+TCELL,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,953329213.0
+TCELL,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2498546946.0
+TCELL,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-428039241.0
+TCELL,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2070507705.0
+TCELL,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-147067619.0
+TCELL,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1107800918.0
+TCELL,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-197568381.0
+TCELL,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1305369299.0
+TCELL,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,618070787.0
+TCELL,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1169157467.0
+TCELL,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-111105367.0
+TCELL,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TCELL,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-192463790.0
+TCELL,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,865588311.0
+TCELL,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1483659098.0
+TCELL,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,29651077.0
+TCELL,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TCELL,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1513310176.0
+TCELL,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TCELL,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2228747257.0
+TCELL,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3165058381.0

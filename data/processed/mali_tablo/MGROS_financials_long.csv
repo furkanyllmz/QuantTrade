@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+MGROS,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,1795037956.0
+MGROS,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,675424087.0
+MGROS,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,34137359.0
+MGROS,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,42861200.0
+MGROS,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MGROS,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,5457346.0
+MGROS,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2022/12,1AF,Stoklar,Inventories,989786248.0
+MGROS,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MGROS,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,47371717.0
+MGROS,2022/12,1AI,(Ara Toplam),(Subtotal),1795037956.0
+MGROS,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MGROS,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,2562222240.0
+MGROS,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+MGROS,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MGROS,2022/12,1BB,Diğer Alacaklar,Other Receivables,51285127.0
+MGROS,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2022/12,1BC,Finansal Yatırımlar,Financial Investments,53028347.0
+MGROS,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MGROS,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MGROS,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MGROS,2022/12,1BFA,Stoklar,Stoklar,0.0
+MGROS,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,765929159.0
+MGROS,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,893702114.0
+MGROS,2022/12,1BGA,Şerefiye,Goodwill,731026158.0
+MGROS,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,40883622.0
+MGROS,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+MGROS,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,26367713.0
+MGROS,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4357260196.0
+MGROS,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+MGROS,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2287951847.0
+MGROS,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,214898142.0
+MGROS,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1850735693.0
+MGROS,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,31487348.0
+MGROS,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MGROS,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MGROS,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MGROS,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,30106075.0
+MGROS,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+MGROS,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,91227792.0
+MGROS,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,69496797.0
+MGROS,2022/12,2AAGG,(Ara Toplam),(Subtotal),2287951847.0
+MGROS,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MGROS,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,600839900.0
+MGROS,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,440894352.0
+MGROS,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MGROS,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,2835415.0
+MGROS,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MGROS,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MGROS,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MGROS,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,5872.0
+MGROS,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,112530696.0
+MGROS,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MGROS,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,44573564.0
+MGROS,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MGROS,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1468468450.0
+MGROS,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1464592515.0
+MGROS,2022/12,2OA,Ödenmiş Sermaye,Share Capital,9665492.0
+MGROS,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MGROS,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MGROS,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MGROS,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,20572923.0
+MGROS,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,0.0
+MGROS,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),744459374.0
+MGROS,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),487924674.0
+MGROS,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,201970051.0
+MGROS,2022/12,2ODA,Azınlık Payları,Minority Interests,3875934.0
+MGROS,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4357260196.0
+MGROS,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MGROS,2022/12,3C,Satış Gelirleri,Net Sales,8455009173.0
+MGROS,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-6873924668.0
+MGROS,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MGROS,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1581084506.0
+MGROS,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MGROS,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MGROS,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MGROS,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1581084506.0
+MGROS,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1520517346.0
+MGROS,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-119827548.0
+MGROS,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MGROS,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,59931951.0
+MGROS,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-290929876.0
+MGROS,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MGROS,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-290258314.0
+MGROS,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-59260389.0
+MGROS,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3547575.0
+MGROS,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-21638927.0
+MGROS,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MGROS,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MGROS,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-308349666.0
+MGROS,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),91879748.0
+MGROS,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),766126620.0
+MGROS,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-18091352.0
+MGROS,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,549656702.0
+MGROS,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,1383207.0
+MGROS,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-39903676.0
+MGROS,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,41286883.0
+MGROS,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MGROS,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,551039909.0
+MGROS,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MGROS,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MGROS,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,551039909.0
+MGROS,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MGROS,2022/12,3LB,Azınlık Payları,Minority Interests,946674.0
+MGROS,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,550093235.0
+MGROS,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,3.0
+MGROS,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,3.0
+MGROS,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,3.0
+MGROS,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,3.0
+MGROS,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,285607760.0
+MGROS,2022/12,4BA,Kıdem Tazminatı,Severance Payments,3080889.0
+MGROS,2022/12,4BB,Finansman Giderleri,Financial Expenses,766126620.0
+MGROS,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,8582397054.0
+MGROS,2022/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MGROS,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,61405618.0
+MGROS,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,62462494.0
+MGROS,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),61405618.0
+MGROS,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,824325800.0
+MGROS,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,551039909.0
+MGROS,2022/12,4CAA,Düzeltmeler:,Adjustments:,464899730.0
+MGROS,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,285607760.0
+MGROS,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,92522721.0
+MGROS,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,86769249.0
+MGROS,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1015939640.0
+MGROS,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,109974109.0
+MGROS,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1125913749.0
+MGROS,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-301587949.0
+MGROS,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-238731655.0
+MGROS,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-12925180.0
+MGROS,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-251656834.0
+MGROS,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,572668966.0
+MGROS,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-12793672.0
+MGROS,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+MGROS,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MGROS,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-128161278.0
+MGROS,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-140954950.0
+MGROS,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,431714016.0
+MGROS,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-261968955.0
+MGROS,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MGROS,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,169745061.0
+MGROS,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MGROS,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,591737686.0
+MGROS,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,761482747.0
+MGROS,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,749730555.0
+MGROS,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,277556722.0
+MGROS,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,20965868.0
+MGROS,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,16813448.0
+MGROS,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MGROS,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,2768643.0
+MGROS,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2022/3,1AF,Stoklar,Inventories,416288744.0
+MGROS,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MGROS,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,15337130.0
+MGROS,2022/3,1AI,(Ara Toplam),(Subtotal),749730555.0
+MGROS,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MGROS,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,655745627.0
+MGROS,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+MGROS,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MGROS,2022/3,1BB,Diğer Alacaklar,Other Receivables,681829.0
+MGROS,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2022/3,1BC,Finansal Yatırımlar,Financial Investments,5041020.0
+MGROS,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,684284.0
+MGROS,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MGROS,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MGROS,2022/3,1BFA,Stoklar,Stoklar,0.0
+MGROS,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,196661916.0
+MGROS,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,261867631.0
+MGROS,2022/3,1BGA,Şerefiye,Goodwill,153646265.0
+MGROS,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,13346882.0
+MGROS,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,22283970.0
+MGROS,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1531831.0
+MGROS,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1405476182.0
+MGROS,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+MGROS,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1024114434.0
+MGROS,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,164296246.0
+MGROS,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,779580318.0
+MGROS,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,6158557.0
+MGROS,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MGROS,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MGROS,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MGROS,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,16432230.0
+MGROS,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3576295.0
+MGROS,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,27229038.0
+MGROS,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,26841750.0
+MGROS,2022/3,2AAGG,(Ara Toplam),(Subtotal),1024114434.0
+MGROS,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MGROS,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,336331094.0
+MGROS,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,299709960.0
+MGROS,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MGROS,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,1796433.0
+MGROS,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MGROS,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MGROS,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MGROS,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,486037.0
+MGROS,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,34338664.0
+MGROS,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MGROS,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+MGROS,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MGROS,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,45030654.0
+MGROS,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,43392232.0
+MGROS,2022/3,2OA,Ödenmiş Sermaye,Share Capital,12347257.0
+MGROS,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MGROS,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MGROS,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MGROS,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,3706414.0
+MGROS,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,35946329.0
+MGROS,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-55759062.0
+MGROS,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),5606301.0
+MGROS,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,41544993.0
+MGROS,2022/3,2ODA,Azınlık Payları,Minority Interests,1638422.0
+MGROS,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1405476182.0
+MGROS,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MGROS,2022/3,3C,Satış Gelirleri,Net Sales,878241614.0
+MGROS,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-654047690.0
+MGROS,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MGROS,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,224193925.0
+MGROS,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MGROS,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MGROS,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MGROS,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),224193925.0
+MGROS,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-159863072.0
+MGROS,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-13440577.0
+MGROS,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MGROS,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,7327652.0
+MGROS,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-32018461.0
+MGROS,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MGROS,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,26199467.0
+MGROS,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,50890276.0
+MGROS,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2827373.0
+MGROS,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-206689.0
+MGROS,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MGROS,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,485590.0
+MGROS,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,29305741.0
+MGROS,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),7931544.0
+MGROS,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-24263977.0
+MGROS,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2620684.0
+MGROS,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,12973308.0
+MGROS,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-1623524.0
+MGROS,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-4474443.0
+MGROS,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,2850919.0
+MGROS,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MGROS,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,11349784.0
+MGROS,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MGROS,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MGROS,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,11349784.0
+MGROS,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MGROS,2022/3,3LB,Azınlık Payları,Minority Interests,13598.0
+MGROS,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,11336186.0
+MGROS,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MGROS,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MGROS,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MGROS,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MGROS,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,18074259.0
+MGROS,2022/3,4BA,Kıdem Tazminatı,Severance Payments,3564453.0
+MGROS,2022/3,4BB,Finansman Giderleri,Financial Expenses,-24263977.0
+MGROS,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,893729471.0
+MGROS,2022/3,4BD,Yurtdışı Satışlar,Export Sales,1061356.0
+MGROS,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,6377226.0
+MGROS,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,7049609.0
+MGROS,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),6377226.0
+MGROS,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,22433262.0
+MGROS,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,11349784.0
+MGROS,2022/3,4CAA,Düzeltmeler:,Adjustments:,73375568.0
+MGROS,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,18074259.0
+MGROS,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,10810374.0
+MGROS,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,44490935.0
+MGROS,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),84725352.0
+MGROS,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-4338177.0
+MGROS,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),80387175.0
+MGROS,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-57953913.0
+MGROS,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-11746343.0
+MGROS,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+MGROS,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-11746343.0
+MGROS,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,10686919.0
+MGROS,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,39596888.0
+MGROS,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+MGROS,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MGROS,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-21316298.0
+MGROS,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,18280590.0
+MGROS,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,28967509.0
+MGROS,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,2351587.0
+MGROS,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MGROS,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,31319097.0
+MGROS,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MGROS,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,259960054.0
+MGROS,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,291279150.0
+MGROS,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,813801119.0
+MGROS,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,269064548.0
+MGROS,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,18667637.0
+MGROS,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,16821657.0
+MGROS,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MGROS,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,3207280.0
+MGROS,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2022/6,1AF,Stoklar,Inventories,477007621.0
+MGROS,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MGROS,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,29032376.0
+MGROS,2022/6,1AI,(Ara Toplam),(Subtotal),813801119.0
+MGROS,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MGROS,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,621950106.0
+MGROS,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+MGROS,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MGROS,2022/6,1BB,Diğer Alacaklar,Other Receivables,612052.0
+MGROS,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2022/6,1BC,Finansal Yatırımlar,Financial Investments,4441449.0
+MGROS,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MGROS,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MGROS,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MGROS,2022/6,1BFA,Stoklar,Stoklar,0.0
+MGROS,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,195119822.0
+MGROS,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,243693699.0
+MGROS,2022/6,1BGA,Şerefiye,Goodwill,144278970.0
+MGROS,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,12190409.0
+MGROS,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,20145284.0
+MGROS,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1468421.0
+MGROS,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1435751225.0
+MGROS,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+MGROS,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1076573026.0
+MGROS,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,135716836.0
+MGROS,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,852381765.0
+MGROS,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,4847227.0
+MGROS,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MGROS,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MGROS,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MGROS,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,14933019.0
+MGROS,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),11415939.0
+MGROS,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,32154882.0
+MGROS,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,25123357.0
+MGROS,2022/6,2AAGG,(Ara Toplam),(Subtotal),1076573026.0
+MGROS,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MGROS,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,285931138.0
+MGROS,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,257936183.0
+MGROS,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MGROS,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,1631319.0
+MGROS,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MGROS,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MGROS,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MGROS,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,214062.0
+MGROS,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,26149574.0
+MGROS,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MGROS,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+MGROS,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MGROS,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,73247061.0
+MGROS,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,71053177.0
+MGROS,2022/6,2OA,Ödenmiş Sermaye,Share Capital,10847143.0
+MGROS,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MGROS,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MGROS,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MGROS,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,3318775.0
+MGROS,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,31563620.0
+MGROS,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-45923769.0
+MGROS,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),35899086.0
+MGROS,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,35348323.0
+MGROS,2022/6,2ODA,Azınlık Payları,Minority Interests,2193884.0
+MGROS,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1435751225.0
+MGROS,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MGROS,2022/6,3C,Satış Gelirleri,Net Sales,1896657918.0
+MGROS,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1414733181.0
+MGROS,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MGROS,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,481924737.0
+MGROS,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MGROS,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MGROS,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MGROS,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),481924737.0
+MGROS,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-331544340.0
+MGROS,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-26273919.0
+MGROS,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MGROS,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,14403502.0
+MGROS,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-61875092.0
+MGROS,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MGROS,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,76634888.0
+MGROS,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,124106478.0
+MGROS,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,5399088.0
+MGROS,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-262182.0
+MGROS,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MGROS,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MGROS,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,81771794.0
+MGROS,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),16650894.0
+MGROS,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-47442503.0
+MGROS,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,5136906.0
+MGROS,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,50980184.0
+MGROS,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-10486889.0
+MGROS,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-15158074.0
+MGROS,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,4671185.0
+MGROS,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MGROS,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,40493295.0
+MGROS,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MGROS,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MGROS,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,40493295.0
+MGROS,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MGROS,2022/6,3LB,Azınlık Payları,Minority Interests,241896.0
+MGROS,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,40251399.0
+MGROS,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MGROS,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MGROS,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MGROS,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MGROS,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,35744457.0
+MGROS,2022/6,4BA,Kıdem Tazminatı,Severance Payments,6579547.0
+MGROS,2022/6,4BB,Finansman Giderleri,Financial Expenses,-47442503.0
+MGROS,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,1929757309.0
+MGROS,2022/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MGROS,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,9542415.0
+MGROS,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,10214967.0
+MGROS,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),9542415.0
+MGROS,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,141710310.0
+MGROS,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,40493295.0
+MGROS,2022/6,4CAA,Düzeltmeler:,Adjustments:,151592763.0
+MGROS,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,35744457.0
+MGROS,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,23259460.0
+MGROS,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,92588846.0
+MGROS,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),192086058.0
+MGROS,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,29468875.0
+MGROS,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),221554933.0
+MGROS,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-79844623.0
+MGROS,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-29423263.0
+MGROS,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-6986154.0
+MGROS,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-36409418.0
+MGROS,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,105300892.0
+MGROS,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-6461790.0
+MGROS,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+MGROS,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MGROS,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-44991169.0
+MGROS,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-51452959.0
+MGROS,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,53847933.0
+MGROS,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,3836406.0
+MGROS,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MGROS,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,57684340.0
+MGROS,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MGROS,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,244000909.0
+MGROS,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,301685248.0
+MGROS,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,926992254.0
+MGROS,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,368261868.0
+MGROS,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,19818835.0
+MGROS,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,29830100.0
+MGROS,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MGROS,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,3559651.0
+MGROS,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2022/9,1AF,Stoklar,Inventories,474065739.0
+MGROS,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MGROS,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,31456062.0
+MGROS,2022/9,1AI,(Ara Toplam),(Subtotal),926992254.0
+MGROS,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MGROS,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,606260423.0
+MGROS,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+MGROS,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MGROS,2022/9,1BB,Diğer Alacaklar,Other Receivables,588720.0
+MGROS,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2022/9,1BC,Finansal Yatırımlar,Financial Investments,3995990.0
+MGROS,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MGROS,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MGROS,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MGROS,2022/9,1BFA,Stoklar,Stoklar,0.0
+MGROS,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,200445502.0
+MGROS,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,236745166.0
+MGROS,2022/9,1BGA,Şerefiye,Goodwill,129540160.0
+MGROS,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,10867018.0
+MGROS,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,18546148.0
+MGROS,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,5531719.0
+MGROS,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1533252678.0
+MGROS,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+MGROS,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1145574194.0
+MGROS,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,129667154.0
+MGROS,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,922723950.0
+MGROS,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,4653112.0
+MGROS,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MGROS,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MGROS,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MGROS,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,13648751.0
+MGROS,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),13699042.0
+MGROS,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,28470308.0
+MGROS,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,32711876.0
+MGROS,2022/9,2AAGG,(Ara Toplam),(Subtotal),1145574194.0
+MGROS,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MGROS,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,278147703.0
+MGROS,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,252153718.0
+MGROS,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MGROS,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,1518211.0
+MGROS,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MGROS,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MGROS,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MGROS,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,9217.0
+MGROS,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,24466556.0
+MGROS,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MGROS,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+MGROS,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MGROS,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,109530781.0
+MGROS,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,107082001.0
+MGROS,2022/9,2OA,Ödenmiş Sermaye,Share Capital,9759219.0
+MGROS,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MGROS,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MGROS,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MGROS,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MGROS,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,28397917.0
+MGROS,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-41617229.0
+MGROS,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),75782634.0
+MGROS,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,34759461.0
+MGROS,2022/9,2ODA,Azınlık Payları,Minority Interests,2448779.0
+MGROS,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1533252678.0
+MGROS,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MGROS,2022/9,3C,Satış Gelirleri,Net Sales,3145446258.0
+MGROS,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-2358448584.0
+MGROS,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MGROS,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,786997675.0
+MGROS,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MGROS,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MGROS,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MGROS,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),786997675.0
+MGROS,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-522342548.0
+MGROS,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-40423667.0
+MGROS,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MGROS,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,22748136.0
+MGROS,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-101155094.0
+MGROS,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MGROS,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,145824501.0
+MGROS,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,224231460.0
+MGROS,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,4872329.0
+MGROS,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-245583.0
+MGROS,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MGROS,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MGROS,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,150451247.0
+MGROS,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),29896196.0
+MGROS,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-68762029.0
+MGROS,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,4626746.0
+MGROS,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,111585413.0
+MGROS,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-22677628.0
+MGROS,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-27490132.0
+MGROS,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,4812504.0
+MGROS,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MGROS,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,88907785.0
+MGROS,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MGROS,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MGROS,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,88907785.0
+MGROS,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MGROS,2022/9,3LB,Azınlık Payları,Minority Interests,557653.0
+MGROS,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,88350133.0
+MGROS,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MGROS,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MGROS,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MGROS,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MGROS,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,53339669.0
+MGROS,2022/9,4BA,Kıdem Tazminatı,Severance Payments,9042722.0
+MGROS,2022/9,4BB,Finansman Giderleri,Financial Expenses,-68762029.0
+MGROS,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,3191867677.0
+MGROS,2022/9,4BD,Yurtdışı Satışlar,Export Sales,2874356.0
+MGROS,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,18824583.0
+MGROS,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,19518727.0
+MGROS,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),18824583.0
+MGROS,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,323749667.0
+MGROS,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,88907785.0
+MGROS,2022/9,4CAA,Düzeltmeler:,Adjustments:,222110067.0
+MGROS,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,53339669.0
+MGROS,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,24373146.0
+MGROS,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,144397252.0
+MGROS,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),311017852.0
+MGROS,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,123269979.0
+MGROS,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),434287831.0
+MGROS,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-110538165.0
+MGROS,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-54174074.0
+MGROS,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-6566905.0
+MGROS,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-60740979.0
+MGROS,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,263008688.0
+MGROS,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-7973416.0
+MGROS,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+MGROS,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MGROS,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-56630348.0
+MGROS,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-64603765.0
+MGROS,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,198404923.0
+MGROS,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,2667420.0
+MGROS,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MGROS,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,201072343.0
+MGROS,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MGROS,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,228260649.0
+MGROS,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,429332992.0
+MGROS,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,1854264275.0
+MGROS,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,604849871.0
+MGROS,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,22642610.0
+MGROS,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,18113138.0
+MGROS,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MGROS,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,104144578.0
+MGROS,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2023/12,1AF,Stoklar,Inventories,1073556473.0
+MGROS,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MGROS,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,30957604.0
+MGROS,2023/12,1AI,(Ara Toplam),(Subtotal),1854264275.0
+MGROS,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MGROS,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,2656070061.0
+MGROS,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+MGROS,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MGROS,2023/12,1BB,Diğer Alacaklar,Other Receivables,936276.0
+MGROS,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2023/12,1BC,Finansal Yatırımlar,Financial Investments,56591368.0
+MGROS,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MGROS,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MGROS,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MGROS,2023/12,1BFA,Stoklar,Stoklar,0.0
+MGROS,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,794369560.0
+MGROS,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,993549114.0
+MGROS,2023/12,1BGA,Şerefiye,Goodwill,670389471.0
+MGROS,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,52807947.0
+MGROS,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+MGROS,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,87426326.0
+MGROS,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4510334336.0
+MGROS,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+MGROS,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2197927151.0
+MGROS,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,145833246.0
+MGROS,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1830504149.0
+MGROS,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,34074422.0
+MGROS,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MGROS,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MGROS,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MGROS,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,45064782.0
+MGROS,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5766684.0
+MGROS,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,56385578.0
+MGROS,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,80298291.0
+MGROS,2023/12,2AAGG,(Ara Toplam),(Subtotal),2197927151.0
+MGROS,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MGROS,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,537532527.0
+MGROS,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,356948626.0
+MGROS,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MGROS,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,2174506.0
+MGROS,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MGROS,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MGROS,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MGROS,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,18369451.0
+MGROS,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,58519936.0
+MGROS,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MGROS,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,101520008.0
+MGROS,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MGROS,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1774874658.0
+MGROS,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1763623543.0
+MGROS,2023/12,2OA,Ödenmiş Sermaye,Share Capital,6139234.0
+MGROS,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MGROS,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MGROS,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MGROS,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MGROS,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,0.0
+MGROS,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1135615826.0
+MGROS,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),432221808.0
+MGROS,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,189646675.0
+MGROS,2023/12,2ODA,Azınlık Payları,Minority Interests,11251115.0
+MGROS,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4510334336.0
+MGROS,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MGROS,2023/12,3C,Satış Gelirleri,Net Sales,11000777053.0
+MGROS,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-8946004713.0
+MGROS,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MGROS,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2054772341.0
+MGROS,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MGROS,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MGROS,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MGROS,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2054772341.0
+MGROS,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2061124053.0
+MGROS,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-178168694.0
+MGROS,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MGROS,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,83123322.0
+MGROS,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-303070623.0
+MGROS,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MGROS,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-404467708.0
+MGROS,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-184520407.0
+MGROS,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,22817055.0
+MGROS,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1482886.0
+MGROS,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MGROS,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MGROS,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-383133539.0
+MGROS,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),237075882.0
+MGROS,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),798179278.0
+MGROS,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,21334169.0
+MGROS,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,652121622.0
+MGROS,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-114110288.0
+MGROS,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-41878319.0
+MGROS,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-72231968.0
+MGROS,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MGROS,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,538011334.0
+MGROS,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MGROS,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,1573659.0
+MGROS,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,539584994.0
+MGROS,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MGROS,2023/12,3LB,Azınlık Payları,Minority Interests,4647243.0
+MGROS,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,534937750.0
+MGROS,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,3.0
+MGROS,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,3.0
+MGROS,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,3.0
+MGROS,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,3.0
+MGROS,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,374920277.0
+MGROS,2023/12,4BA,Kıdem Tazminatı,Severance Payments,17575440.0
+MGROS,2023/12,4BB,Finansman Giderleri,Financial Expenses,798179278.0
+MGROS,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,11145048154.0
+MGROS,2023/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MGROS,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,156038211.0
+MGROS,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,156038211.0
+MGROS,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),156038211.0
+MGROS,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,931099744.0
+MGROS,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,539584994.0
+MGROS,2023/12,4CAA,Düzeltmeler:,Adjustments:,824021026.0
+MGROS,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,374920277.0
+MGROS,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,54158847.0
+MGROS,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,391164120.0
+MGROS,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1363606019.0
+MGROS,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,16421698.0
+MGROS,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1380027717.0
+MGROS,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-448927973.0
+MGROS,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-308672268.0
+MGROS,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-12387795.0
+MGROS,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-321060063.0
+MGROS,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,610039681.0
+MGROS,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-39079952.0
+MGROS,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-40217285.0
+MGROS,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MGROS,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-127887215.0
+MGROS,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-207184452.0
+MGROS,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-22570712.0
+MGROS,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,4563478.0
+MGROS,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MGROS,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-18007234.0
+MGROS,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MGROS,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,766597479.0
+MGROS,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,748590246.0
+MGROS,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,1199120796.0
+MGROS,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,424173173.0
+MGROS,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1462179.0
+MGROS,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,33867145.0
+MGROS,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MGROS,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,12855929.0
+MGROS,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2023/3,1AF,Stoklar,Inventories,691794213.0
+MGROS,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MGROS,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,34968157.0
+MGROS,2023/3,1AI,(Ara Toplam),(Subtotal),1199120796.0
+MGROS,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MGROS,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,903452715.0
+MGROS,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+MGROS,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MGROS,2023/3,1BB,Diğer Alacaklar,Other Receivables,35713578.0
+MGROS,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2023/3,1BC,Finansal Yatırımlar,Financial Investments,36156099.0
+MGROS,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MGROS,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MGROS,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MGROS,2023/3,1BFA,Stoklar,Stoklar,0.0
+MGROS,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,258592230.0
+MGROS,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,380142122.0
+MGROS,2023/3,1BGA,Şerefiye,Goodwill,122013884.0
+MGROS,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,10557385.0
+MGROS,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,51242456.0
+MGROS,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,9034960.0
+MGROS,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2102573510.0
+MGROS,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+MGROS,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1547805845.0
+MGROS,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,149741607.0
+MGROS,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1208434682.0
+MGROS,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,11268045.0
+MGROS,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MGROS,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MGROS,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MGROS,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,30617424.0
+MGROS,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+MGROS,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,43398462.0
+MGROS,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,104345626.0
+MGROS,2023/3,2AAGG,(Ara Toplam),(Subtotal),1547805845.0
+MGROS,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MGROS,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,307634956.0
+MGROS,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,269481285.0
+MGROS,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MGROS,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,1713589.0
+MGROS,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MGROS,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MGROS,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MGROS,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,2658.0
+MGROS,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,36437424.0
+MGROS,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MGROS,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+MGROS,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MGROS,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,247132709.0
+MGROS,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,241549891.0
+MGROS,2023/3,2OA,Ödenmiş Sermaye,Share Capital,9435892.0
+MGROS,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MGROS,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MGROS,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MGROS,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,11231460.0
+MGROS,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,0.0
+MGROS,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),94426928.0
+MGROS,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),29182710.0
+MGROS,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,97272903.0
+MGROS,2023/3,2ODA,Azınlık Payları,Minority Interests,5582818.0
+MGROS,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2102573510.0
+MGROS,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MGROS,2023/3,3C,Satış Gelirleri,Net Sales,2695302532.0
+MGROS,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-2161580155.0
+MGROS,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MGROS,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,533722376.0
+MGROS,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MGROS,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MGROS,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MGROS,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),533722376.0
+MGROS,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-517870634.0
+MGROS,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-44773824.0
+MGROS,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MGROS,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,9149454.0
+MGROS,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-48665228.0
+MGROS,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MGROS,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-68437856.0
+MGROS,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-28922082.0
+MGROS,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,411725.0
+MGROS,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-154284.0
+MGROS,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MGROS,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MGROS,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-68180415.0
+MGROS,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),30546909.0
+MGROS,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),233032549.0
+MGROS,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,257440.0
+MGROS,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,195399043.0
+MGROS,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-57149434.0
+MGROS,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+MGROS,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-57149434.0
+MGROS,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MGROS,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,138249609.0
+MGROS,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MGROS,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MGROS,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,138249609.0
+MGROS,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MGROS,2023/3,3LB,Azınlık Payları,Minority Interests,568179.0
+MGROS,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,137681430.0
+MGROS,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+MGROS,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+MGROS,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+MGROS,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+MGROS,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,88278972.0
+MGROS,2023/3,4BA,Kıdem Tazminatı,Severance Payments,5163839.0
+MGROS,2023/3,4BB,Finansman Giderleri,Financial Expenses,233032549.0
+MGROS,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,2537357940.0
+MGROS,2023/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MGROS,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,67155417.0
+MGROS,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,67695862.0
+MGROS,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),67155417.0
+MGROS,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,116853848.0
+MGROS,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,127530637.0
+MGROS,2023/3,4CAA,Düzeltmeler:,Adjustments:,151692400.0
+MGROS,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,81434413.0
+MGROS,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,11204002.0
+MGROS,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,59053985.0
+MGROS,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),279223037.0
+MGROS,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-116373211.0
+MGROS,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),162849826.0
+MGROS,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-45995978.0
+MGROS,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-44341881.0
+MGROS,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+MGROS,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-44341881.0
+MGROS,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,72511966.0
+MGROS,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-14652666.0
+MGROS,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+MGROS,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MGROS,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-23215787.0
+MGROS,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-37868452.0
+MGROS,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,34643514.0
+MGROS,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-79321857.0
+MGROS,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MGROS,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-44678343.0
+MGROS,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MGROS,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,770515916.0
+MGROS,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,725837573.0
+MGROS,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,1091858282.0
+MGROS,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,477222802.0
+MGROS,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1346175.0
+MGROS,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,23957850.0
+MGROS,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MGROS,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,8823329.0
+MGROS,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2023/6,1AF,Stoklar,Inventories,566797399.0
+MGROS,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MGROS,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,13710726.0
+MGROS,2023/6,1AI,(Ara Toplam),(Subtotal),1091858282.0
+MGROS,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MGROS,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,718298659.0
+MGROS,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+MGROS,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MGROS,2023/6,1BB,Diğer Alacaklar,Other Receivables,27528953.0
+MGROS,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2023/6,1BC,Finansal Yatırımlar,Financial Investments,36109256.0
+MGROS,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MGROS,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MGROS,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MGROS,2023/6,1BFA,Stoklar,Stoklar,0.0
+MGROS,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,212060024.0
+MGROS,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,291825270.0
+MGROS,2023/6,1BGA,Şerefiye,Goodwill,90499196.0
+MGROS,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,10092270.0
+MGROS,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,37356627.0
+MGROS,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,12827063.0
+MGROS,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1810156941.0
+MGROS,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+MGROS,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1319787975.0
+MGROS,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,125812150.0
+MGROS,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1059592843.0
+MGROS,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,6875522.0
+MGROS,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MGROS,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MGROS,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MGROS,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,23829166.0
+MGROS,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),8541145.0
+MGROS,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,36718233.0
+MGROS,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,58418916.0
+MGROS,2023/6,2AAGG,(Ara Toplam),(Subtotal),1319787975.0
+MGROS,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MGROS,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,259850520.0
+MGROS,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,222757909.0
+MGROS,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MGROS,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,1574358.0
+MGROS,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MGROS,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MGROS,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MGROS,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,13684324.0
+MGROS,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,21833929.0
+MGROS,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MGROS,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+MGROS,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MGROS,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,230518446.0
+MGROS,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,225746204.0
+MGROS,2023/6,2OA,Ödenmiş Sermaye,Share Capital,6998717.0
+MGROS,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MGROS,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MGROS,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MGROS,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,6270797.0
+MGROS,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,0.0
+MGROS,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),86851208.0
+MGROS,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),79614876.0
+MGROS,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,46010607.0
+MGROS,2023/6,2ODA,Azınlık Payları,Minority Interests,4772242.0
+MGROS,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1810156941.0
+MGROS,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MGROS,2023/6,3C,Satış Gelirleri,Net Sales,5506837885.0
+MGROS,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-4408458418.0
+MGROS,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MGROS,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1098379467.0
+MGROS,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MGROS,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MGROS,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MGROS,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1098379467.0
+MGROS,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1011344079.0
+MGROS,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-91980489.0
+MGROS,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MGROS,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,21326806.0
+MGROS,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-104715070.0
+MGROS,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MGROS,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-88333365.0
+MGROS,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-4945101.0
+MGROS,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,18391219.0
+MGROS,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-691133.0
+MGROS,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MGROS,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MGROS,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-70633279.0
+MGROS,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),110315094.0
+MGROS,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),317397602.0
+MGROS,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,17700086.0
+MGROS,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,357079417.0
+MGROS,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-83861931.0
+MGROS,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-23834633.0
+MGROS,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-60027298.0
+MGROS,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MGROS,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,273217486.0
+MGROS,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MGROS,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MGROS,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,273217486.0
+MGROS,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MGROS,2023/6,3LB,Azınlık Payları,Minority Interests,1840278.0
+MGROS,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,271377208.0
+MGROS,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+MGROS,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+MGROS,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+MGROS,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+MGROS,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,175147902.0
+MGROS,2023/6,4BA,Kıdem Tazminatı,Severance Payments,5087772.0
+MGROS,2023/6,4BB,Finansman Giderleri,Financial Expenses,317397602.0
+MGROS,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,5602216013.0
+MGROS,2023/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MGROS,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,117261730.0
+MGROS,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,117950994.0
+MGROS,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),117261730.0
+MGROS,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,525086247.0
+MGROS,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,273217486.0
+MGROS,2023/6,4CAA,Düzeltmeler:,Adjustments:,306445473.0
+MGROS,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,175147902.0
+MGROS,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,47705477.0
+MGROS,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,162296861.0
+MGROS,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),579662959.0
+MGROS,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,165073364.0
+MGROS,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),744736323.0
+MGROS,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-219650076.0
+MGROS,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-63687754.0
+MGROS,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+MGROS,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-63687754.0
+MGROS,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,461398493.0
+MGROS,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,35193311.0
+MGROS,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-41812081.0
+MGROS,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MGROS,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-46251446.0
+MGROS,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-52870216.0
+MGROS,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,277339590.0
+MGROS,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-4467444.0
+MGROS,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MGROS,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,272872147.0
+MGROS,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MGROS,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,797014291.0
+MGROS,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1069886438.0
+MGROS,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,1287315321.0
+MGROS,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,540034383.0
+MGROS,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,93780.0
+MGROS,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,30590717.0
+MGROS,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MGROS,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,49878327.0
+MGROS,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2023/9,1AF,Stoklar,Inventories,647749544.0
+MGROS,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MGROS,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,18968570.0
+MGROS,2023/9,1AI,(Ara Toplam),(Subtotal),1287315321.0
+MGROS,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MGROS,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,754344491.0
+MGROS,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+MGROS,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MGROS,2023/9,1BB,Diğer Alacaklar,Other Receivables,613761.0
+MGROS,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2023/9,1BC,Finansal Yatırımlar,Financial Investments,36099358.0
+MGROS,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MGROS,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MGROS,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MGROS,2023/9,1BFA,Stoklar,Stoklar,0.0
+MGROS,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,233422665.0
+MGROS,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,316157296.0
+MGROS,2023/9,1BGA,Şerefiye,Goodwill,85363451.0
+MGROS,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,16410377.0
+MGROS,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,50768869.0
+MGROS,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,15508714.0
+MGROS,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2041659812.0
+MGROS,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+MGROS,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1472175053.0
+MGROS,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,113705061.0
+MGROS,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1220146102.0
+MGROS,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,9273244.0
+MGROS,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MGROS,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MGROS,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MGROS,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,20965872.0
+MGROS,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),10659156.0
+MGROS,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,31860133.0
+MGROS,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,65565485.0
+MGROS,2023/9,2AAGG,(Ara Toplam),(Subtotal),1472175053.0
+MGROS,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MGROS,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,270250237.0
+MGROS,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,239932108.0
+MGROS,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MGROS,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,1474404.0
+MGROS,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MGROS,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MGROS,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MGROS,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,11182746.0
+MGROS,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,17660979.0
+MGROS,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MGROS,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+MGROS,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MGROS,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,299234522.0
+MGROS,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,292407679.0
+MGROS,2023/9,2OA,Ödenmiş Sermaye,Share Capital,6601546.0
+MGROS,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MGROS,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MGROS,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MGROS,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,5970831.0
+MGROS,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,0.0
+MGROS,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),82245205.0
+MGROS,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),154371728.0
+MGROS,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,43218369.0
+MGROS,2023/9,2ODA,Azınlık Payları,Minority Interests,6826843.0
+MGROS,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2041659812.0
+MGROS,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MGROS,2023/9,3C,Satış Gelirleri,Net Sales,8333646230.0
+MGROS,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-6740922922.0
+MGROS,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MGROS,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1592723308.0
+MGROS,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MGROS,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MGROS,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MGROS,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1592723308.0
+MGROS,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1539676438.0
+MGROS,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-128711472.0
+MGROS,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MGROS,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,55953718.0
+MGROS,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-182296970.0
+MGROS,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MGROS,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-202007854.0
+MGROS,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-75664602.0
+MGROS,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,19903416.0
+MGROS,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-907745.0
+MGROS,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MGROS,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MGROS,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-183012184.0
+MGROS,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),173016217.0
+MGROS,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),692782335.0
+MGROS,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,18995670.0
+MGROS,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,682786369.0
+MGROS,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-190486140.0
+MGROS,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-37116164.0
+MGROS,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-153369976.0
+MGROS,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MGROS,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,492300229.0
+MGROS,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MGROS,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,1100367.0
+MGROS,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,493400596.0
+MGROS,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MGROS,2023/9,3LB,Azınlık Payları,Minority Interests,1867791.0
+MGROS,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,491532805.0
+MGROS,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,3.0
+MGROS,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,3.0
+MGROS,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,3.0
+MGROS,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,3.0
+MGROS,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,270425988.0
+MGROS,2023/9,4BA,Kıdem Tazminatı,Severance Payments,6786716.0
+MGROS,2023/9,4BB,Finansman Giderleri,Financial Expenses,692782335.0
+MGROS,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,8418460047.0
+MGROS,2023/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MGROS,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,105320054.0
+MGROS,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,105320054.0
+MGROS,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),105320054.0
+MGROS,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,823504172.0
+MGROS,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,493400596.0
+MGROS,2023/9,4CAA,Düzeltmeler:,Adjustments:,569901229.0
+MGROS,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,270425988.0
+MGROS,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,50228043.0
+MGROS,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,303269788.0
+MGROS,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1063301825.0
+MGROS,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,64306815.0
+MGROS,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1127608639.0
+MGROS,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-304104467.0
+MGROS,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-182886953.0
+MGROS,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+MGROS,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-182886953.0
+MGROS,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,640617219.0
+MGROS,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,10285935.0
+MGROS,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-41607321.0
+MGROS,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MGROS,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-29588422.0
+MGROS,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-60909808.0
+MGROS,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,229174540.0
+MGROS,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-10219491.0
+MGROS,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MGROS,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,218955049.0
+MGROS,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MGROS,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,774318791.0
+MGROS,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,993273840.0
+MGROS,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,2047469256.0
+MGROS,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,799353474.0
+MGROS,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,763853.0
+MGROS,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,49615235.0
+MGROS,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MGROS,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,38648246.0
+MGROS,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2024/12,1AF,Stoklar,Inventories,1105540812.0
+MGROS,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MGROS,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,53547636.0
+MGROS,2024/12,1AI,(Ara Toplam),(Subtotal),2047469256.0
+MGROS,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MGROS,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,3277884510.0
+MGROS,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+MGROS,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MGROS,2024/12,1BB,Diğer Alacaklar,Other Receivables,1239220.0
+MGROS,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2024/12,1BC,Finansal Yatırımlar,Financial Investments,120752249.0
+MGROS,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MGROS,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MGROS,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MGROS,2024/12,1BFA,Stoklar,Stoklar,0.0
+MGROS,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,1165126946.0
+MGROS,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1147102445.0
+MGROS,2024/12,1BGA,Şerefiye,Goodwill,712181795.0
+MGROS,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,73281615.0
+MGROS,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+MGROS,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,58200240.0
+MGROS,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5325353766.0
+MGROS,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+MGROS,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2520160700.0
+MGROS,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,171176655.0
+MGROS,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2047988807.0
+MGROS,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,91209765.0
+MGROS,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MGROS,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MGROS,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MGROS,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,61747521.0
+MGROS,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+MGROS,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,65365850.0
+MGROS,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,82672101.0
+MGROS,2024/12,2AAGG,(Ara Toplam),(Subtotal),2520160700.0
+MGROS,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MGROS,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,758142645.0
+MGROS,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,577474468.0
+MGROS,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MGROS,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,924651.0
+MGROS,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MGROS,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MGROS,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MGROS,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,7511126.0
+MGROS,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,49178940.0
+MGROS,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MGROS,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,123053460.0
+MGROS,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MGROS,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2047050422.0
+MGROS,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2033816219.0
+MGROS,2024/12,2OA,Ödenmiş Sermaye,Share Capital,5122652.0
+MGROS,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MGROS,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MGROS,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MGROS,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MGROS,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,0.0
+MGROS,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1612803343.0
+MGROS,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),224987509.0
+MGROS,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,189600046.0
+MGROS,2024/12,2ODA,Azınlık Payları,Minority Interests,13234202.0
+MGROS,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5325353766.0
+MGROS,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MGROS,2024/12,3C,Satış Gelirleri,Net Sales,11209325999.0
+MGROS,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-8614605091.0
+MGROS,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MGROS,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2594720908.0
+MGROS,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MGROS,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MGROS,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MGROS,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2594720908.0
+MGROS,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2161134655.0
+MGROS,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-211583310.0
+MGROS,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MGROS,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,95768076.0
+MGROS,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-679322943.0
+MGROS,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MGROS,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-361551924.0
+MGROS,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,222002943.0
+MGROS,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,23873053.0
+MGROS,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-13587079.0
+MGROS,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MGROS,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MGROS,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-351265949.0
+MGROS,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),264553407.0
+MGROS,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),389746895.0
+MGROS,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,10285974.0
+MGROS,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,303034352.0
+MGROS,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-53544377.0
+MGROS,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-22259226.0
+MGROS,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-31285151.0
+MGROS,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MGROS,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,249489976.0
+MGROS,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,1344296.0
+MGROS,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,250834272.0
+MGROS,2024/12,3LB,Azınlık Payları,Minority Interests,8937862.0
+MGROS,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,241896410.0
+MGROS,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+MGROS,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+MGROS,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+MGROS,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+MGROS,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,380697275.0
+MGROS,2024/12,4BA,Kıdem Tazminatı,Severance Payments,6282655.0
+MGROS,2024/12,4BB,Finansman Giderleri,Financial Expenses,389746895.0
+MGROS,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,11298185745.0
+MGROS,2024/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MGROS,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,25555484.0
+MGROS,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,25555484.0
+MGROS,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),25555484.0
+MGROS,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1031875765.0
+MGROS,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,250834272.0
+MGROS,2024/12,4CAA,Düzeltmeler:,Adjustments:,1123020876.0
+MGROS,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,380697275.0
+MGROS,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,56337935.0
+MGROS,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,684618744.0
+MGROS,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1373855149.0
+MGROS,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,332671641.0
+MGROS,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1706526790.0
+MGROS,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-674651025.0
+MGROS,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-335484659.0
+MGROS,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-8372626.0
+MGROS,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-343857285.0
+MGROS,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,688018480.0
+MGROS,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-37205367.0
+MGROS,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-76819494.0
+MGROS,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MGROS,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-136058816.0
+MGROS,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-250083676.0
+MGROS,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,186122032.0
+MGROS,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-7304766.0
+MGROS,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MGROS,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,178817266.0
+MGROS,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MGROS,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,680611495.0
+MGROS,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,859428760.0
+MGROS,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,1237804450.0
+MGROS,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,433812934.0
+MGROS,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2007074.0
+MGROS,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,34975204.0
+MGROS,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MGROS,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,23262686.0
+MGROS,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2024/3,1AF,Stoklar,Inventories,702736214.0
+MGROS,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MGROS,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,41010339.0
+MGROS,2024/3,1AI,(Ara Toplam),(Subtotal),1237804450.0
+MGROS,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MGROS,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2023877769.0
+MGROS,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+MGROS,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MGROS,2024/3,1BB,Diğer Alacaklar,Other Receivables,966899.0
+MGROS,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2024/3,1BC,Finansal Yatırımlar,Financial Investments,36209822.0
+MGROS,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MGROS,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MGROS,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MGROS,2024/3,1BFA,Stoklar,Stoklar,0.0
+MGROS,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,652291891.0
+MGROS,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,746417622.0
+MGROS,2024/3,1BGA,Şerefiye,Goodwill,492072156.0
+MGROS,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,40231947.0
+MGROS,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+MGROS,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,55687431.0
+MGROS,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3261682218.0
+MGROS,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+MGROS,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1507808747.0
+MGROS,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,94607867.0
+MGROS,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1221482303.0
+MGROS,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,22585797.0
+MGROS,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MGROS,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MGROS,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MGROS,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,50469583.0
+MGROS,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4562170.0
+MGROS,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,29016220.0
+MGROS,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,85084808.0
+MGROS,2024/3,2AAGG,(Ara Toplam),(Subtotal),1507808747.0
+MGROS,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MGROS,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,430303306.0
+MGROS,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,296276512.0
+MGROS,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MGROS,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,1563617.0
+MGROS,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MGROS,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MGROS,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MGROS,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,10786647.0
+MGROS,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,31299639.0
+MGROS,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MGROS,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,90376891.0
+MGROS,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MGROS,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1323570165.0
+MGROS,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1315277489.0
+MGROS,2024/3,2OA,Ödenmiş Sermaye,Share Capital,5597831.0
+MGROS,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MGROS,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MGROS,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MGROS,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,5999208.0
+MGROS,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,0.0
+MGROS,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1132335733.0
+MGROS,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),38386636.0
+MGROS,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,132958081.0
+MGROS,2024/3,2ODA,Azınlık Payları,Minority Interests,8292676.0
+MGROS,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3261682218.0
+MGROS,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MGROS,2024/3,3C,Satış Gelirleri,Net Sales,2335836194.0
+MGROS,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1863314241.0
+MGROS,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MGROS,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,472521953.0
+MGROS,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MGROS,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MGROS,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MGROS,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),472521953.0
+MGROS,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-476860653.0
+MGROS,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-49376685.0
+MGROS,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MGROS,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,19796339.0
+MGROS,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-112391169.0
+MGROS,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MGROS,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-146310216.0
+MGROS,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-53715386.0
+MGROS,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,83235.0
+MGROS,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-269215.0
+MGROS,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MGROS,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MGROS,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-146496195.0
+MGROS,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),31684129.0
+MGROS,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),197297312.0
+MGROS,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-185979.0
+MGROS,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,82485246.0
+MGROS,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-27399627.0
+MGROS,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-2146773.0
+MGROS,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-25252854.0
+MGROS,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MGROS,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,55085619.0
+MGROS,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MGROS,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,1387933.0
+MGROS,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,56473552.0
+MGROS,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MGROS,2024/3,3LB,Azınlık Payları,Minority Interests,1091716.0
+MGROS,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,55381836.0
+MGROS,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MGROS,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MGROS,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MGROS,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MGROS,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,81627861.0
+MGROS,2024/3,4BA,Kıdem Tazminatı,Severance Payments,1335027.0
+MGROS,2024/3,4BB,Finansman Giderleri,Financial Expenses,197297312.0
+MGROS,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,2367947352.0
+MGROS,2024/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MGROS,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,95836356.0
+MGROS,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,95836356.0
+MGROS,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),95836356.0
+MGROS,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,212360252.0
+MGROS,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,56473552.0
+MGROS,2024/3,4CAA,Düzeltmeler:,Adjustments:,203448455.0
+MGROS,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,81627861.0
+MGROS,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,5743979.0
+MGROS,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,151477684.0
+MGROS,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),259922007.0
+MGROS,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,79403020.0
+MGROS,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),339325027.0
+MGROS,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-126964775.0
+MGROS,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-78414242.0
+MGROS,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+MGROS,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-78414242.0
+MGROS,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,133946011.0
+MGROS,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-22785252.0
+MGROS,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+MGROS,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MGROS,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-43649373.0
+MGROS,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-66434624.0
+MGROS,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-5597630.0
+MGROS,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-2650707.0
+MGROS,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MGROS,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-8248337.0
+MGROS,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MGROS,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,634127147.0
+MGROS,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,625878810.0
+MGROS,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,1393116712.0
+MGROS,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,502508993.0
+MGROS,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1304504.0
+MGROS,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,49478916.0
+MGROS,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MGROS,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,12248512.0
+MGROS,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2024/6,1AF,Stoklar,Inventories,787116219.0
+MGROS,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MGROS,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,40459567.0
+MGROS,2024/6,1AI,(Ara Toplam),(Subtotal),1393116712.0
+MGROS,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MGROS,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2209634457.0
+MGROS,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+MGROS,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MGROS,2024/6,1BB,Diğer Alacaklar,Other Receivables,945650.0
+MGROS,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2024/6,1BC,Finansal Yatırımlar,Financial Investments,48039458.0
+MGROS,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MGROS,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MGROS,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MGROS,2024/6,1BFA,Stoklar,Stoklar,0.0
+MGROS,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,722528394.0
+MGROS,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,820288183.0
+MGROS,2024/6,1BGA,Şerefiye,Goodwill,524643807.0
+MGROS,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,43351589.0
+MGROS,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+MGROS,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,49837374.0
+MGROS,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3602751168.0
+MGROS,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+MGROS,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1750590477.0
+MGROS,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,109704275.0
+MGROS,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1418591468.0
+MGROS,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,23813953.0
+MGROS,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MGROS,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MGROS,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MGROS,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,68697868.0
+MGROS,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),149763.0
+MGROS,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,40564903.0
+MGROS,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,89068246.0
+MGROS,2024/6,2AAGG,(Ara Toplam),(Subtotal),1750590477.0
+MGROS,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MGROS,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,459251885.0
+MGROS,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,332129158.0
+MGROS,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MGROS,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,948083.0
+MGROS,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MGROS,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MGROS,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MGROS,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,10193339.0
+MGROS,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,26541251.0
+MGROS,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MGROS,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,89440054.0
+MGROS,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MGROS,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1392908807.0
+MGROS,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1384113540.0
+MGROS,2024/6,2OA,Ödenmiş Sermaye,Share Capital,5505621.0
+MGROS,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MGROS,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MGROS,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MGROS,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,5821142.0
+MGROS,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,0.0
+MGROS,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1170245368.0
+MGROS,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),59304005.0
+MGROS,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,143237404.0
+MGROS,2024/6,2ODA,Azınlık Payları,Minority Interests,8795267.0
+MGROS,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3602751168.0
+MGROS,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MGROS,2024/6,3C,Satış Gelirleri,Net Sales,5168379105.0
+MGROS,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-4049392431.0
+MGROS,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MGROS,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1118986674.0
+MGROS,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MGROS,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MGROS,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MGROS,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1118986674.0
+MGROS,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1018464093.0
+MGROS,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-99220099.0
+MGROS,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MGROS,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,42541426.0
+MGROS,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-290807300.0
+MGROS,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MGROS,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-246963391.0
+MGROS,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1302482.0
+MGROS,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1643353.0
+MGROS,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-315446.0
+MGROS,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MGROS,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MGROS,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-245635483.0
+MGROS,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),89641430.0
+MGROS,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),267356991.0
+MGROS,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1327908.0
+MGROS,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,111362938.0
+MGROS,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-28130035.0
+MGROS,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-5332407.0
+MGROS,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-22797628.0
+MGROS,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MGROS,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,83232903.0
+MGROS,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MGROS,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,1415821.0
+MGROS,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,84648724.0
+MGROS,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MGROS,2024/6,3LB,Azınlık Payları,Minority Interests,1359689.0
+MGROS,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,83289035.0
+MGROS,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MGROS,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MGROS,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MGROS,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MGROS,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,171094903.0
+MGROS,2024/6,4BA,Kıdem Tazminatı,Severance Payments,2475750.0
+MGROS,2024/6,4BB,Finansman Giderleri,Financial Expenses,267356991.0
+MGROS,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,5224454336.0
+MGROS,2024/6,4BD,Yurtdışı Satışlar,Export Sales,11347505.0
+MGROS,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,50950844.0
+MGROS,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,50950844.0
+MGROS,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),50950844.0
+MGROS,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,511696475.0
+MGROS,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,84648724.0
+MGROS,2024/6,4CAA,Düzeltmeler:,Adjustments:,502719730.0
+MGROS,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,171094903.0
+MGROS,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,23123699.0
+MGROS,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,331850272.0
+MGROS,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),587368454.0
+MGROS,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,232986192.0
+MGROS,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),820354646.0
+MGROS,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-308658171.0
+MGROS,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-153599228.0
+MGROS,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-18533784.0
+MGROS,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-172133012.0
+MGROS,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,339563464.0
+MGROS,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-29001329.0
+MGROS,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-55025769.0
+MGROS,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MGROS,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-82911196.0
+MGROS,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-166938294.0
+MGROS,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,46982553.0
+MGROS,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,607901.0
+MGROS,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MGROS,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,47590454.0
+MGROS,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MGROS,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,658155943.0
+MGROS,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,705746397.0
+MGROS,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,1515649441.0
+MGROS,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,669967030.0
+MGROS,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,268675.0
+MGROS,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,35515395.0
+MGROS,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MGROS,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,14436100.0
+MGROS,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2024/9,1AF,Stoklar,Inventories,748389644.0
+MGROS,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MGROS,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,47072596.0
+MGROS,2024/9,1AI,(Ara Toplam),(Subtotal),1515649441.0
+MGROS,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MGROS,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,2438799386.0
+MGROS,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+MGROS,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MGROS,2024/9,1BB,Diğer Alacaklar,Other Receivables,967776.0
+MGROS,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2024/9,1BC,Finansal Yatırımlar,Financial Investments,96034901.0
+MGROS,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MGROS,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MGROS,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MGROS,2024/9,1BFA,Stoklar,Stoklar,0.0
+MGROS,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,855806889.0
+MGROS,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,834877496.0
+MGROS,2024/9,1BGA,Şerefiye,Goodwill,549782637.0
+MGROS,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,41896585.0
+MGROS,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+MGROS,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,59433102.0
+MGROS,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3954448826.0
+MGROS,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+MGROS,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1804892299.0
+MGROS,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,128476677.0
+MGROS,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1485977913.0
+MGROS,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,25048285.0
+MGROS,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MGROS,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MGROS,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MGROS,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,43458875.0
+MGROS,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),7683054.0
+MGROS,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,37082279.0
+MGROS,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,77165216.0
+MGROS,2024/9,2AAGG,(Ara Toplam),(Subtotal),1804892299.0
+MGROS,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MGROS,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,557064960.0
+MGROS,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,412521524.0
+MGROS,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MGROS,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,727595.0
+MGROS,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MGROS,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MGROS,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MGROS,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,8188664.0
+MGROS,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,21662956.0
+MGROS,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MGROS,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,113964221.0
+MGROS,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MGROS,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1592491567.0
+MGROS,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1582404213.0
+MGROS,2024/9,2OA,Ödenmiş Sermaye,Share Capital,5296687.0
+MGROS,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MGROS,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MGROS,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MGROS,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MGROS,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,0.0
+MGROS,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1250300709.0
+MGROS,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),154406992.0
+MGROS,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,172399824.0
+MGROS,2024/9,2ODA,Azınlık Payları,Minority Interests,10087355.0
+MGROS,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3954448826.0
+MGROS,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MGROS,2024/9,3C,Satış Gelirleri,Net Sales,8518748544.0
+MGROS,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-6589247677.0
+MGROS,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MGROS,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1929500867.0
+MGROS,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MGROS,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MGROS,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MGROS,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1929500867.0
+MGROS,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1629849907.0
+MGROS,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-156994362.0
+MGROS,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MGROS,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,69389653.0
+MGROS,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-489413569.0
+MGROS,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MGROS,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-277367317.0
+MGROS,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,142656599.0
+MGROS,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,24311834.0
+MGROS,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-396654.0
+MGROS,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MGROS,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MGROS,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-253452138.0
+MGROS,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),182373327.0
+MGROS,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),371527664.0
+MGROS,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,23915180.0
+MGROS,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,300448854.0
+MGROS,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-76184046.0
+MGROS,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-23935533.0
+MGROS,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-52248513.0
+MGROS,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MGROS,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,224264808.0
+MGROS,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MGROS,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,1491047.0
+MGROS,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,225755855.0
+MGROS,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MGROS,2024/9,3LB,Azınlık Payları,Minority Interests,7688321.0
+MGROS,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,218067534.0
+MGROS,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MGROS,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MGROS,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MGROS,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MGROS,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,273638693.0
+MGROS,2024/9,4BA,Kıdem Tazminatı,Severance Payments,3860409.0
+MGROS,2024/9,4BB,Finansman Giderleri,Financial Expenses,371527664.0
+MGROS,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,8603032032.0
+MGROS,2024/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MGROS,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,35347491.0
+MGROS,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,35347491.0
+MGROS,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),35347491.0
+MGROS,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,839709108.0
+MGROS,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,225755855.0
+MGROS,2024/9,4CAA,Düzeltmeler:,Adjustments:,805493371.0
+MGROS,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,273638693.0
+MGROS,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,28746468.0
+MGROS,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,529988631.0
+MGROS,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1031249226.0
+MGROS,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,304178779.0
+MGROS,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1335428005.0
+MGROS,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-495718897.0
+MGROS,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-208600620.0
+MGROS,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,11455050.0
+MGROS,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-197145570.0
+MGROS,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,642563538.0
+MGROS,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-30921190.0
+MGROS,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-57948637.0
+MGROS,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MGROS,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-96420849.0
+MGROS,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-185290675.0
+MGROS,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,254716760.0
+MGROS,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-2052571.0
+MGROS,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MGROS,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,252664188.0
+MGROS,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MGROS,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,693116357.0
+MGROS,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,945780545.0
+MGROS,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,1509608365.0
+MGROS,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,513640273.0
+MGROS,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,569334.0
+MGROS,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,44586757.0
+MGROS,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MGROS,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,41891013.0
+MGROS,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2025/3,1AF,Stoklar,Inventories,850776741.0
+MGROS,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MGROS,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,58144247.0
+MGROS,2025/3,1AI,(Ara Toplam),(Subtotal),1509608365.0
+MGROS,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MGROS,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2782999178.0
+MGROS,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+MGROS,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MGROS,2025/3,1BB,Diğer Alacaklar,Other Receivables,741006.0
+MGROS,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2025/3,1BC,Finansal Yatırımlar,Financial Investments,97644957.0
+MGROS,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MGROS,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MGROS,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MGROS,2025/3,1BFA,Stoklar,Stoklar,0.0
+MGROS,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,1047087702.0
+MGROS,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,945194179.0
+MGROS,2025/3,1BGA,Şerefiye,Goodwill,583803435.0
+MGROS,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,59963842.0
+MGROS,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+MGROS,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,48564058.0
+MGROS,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4292607543.0
+MGROS,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+MGROS,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1894200382.0
+MGROS,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,137514914.0
+MGROS,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1513246259.0
+MGROS,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,33993741.0
+MGROS,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MGROS,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MGROS,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MGROS,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,54114057.0
+MGROS,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+MGROS,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,48283990.0
+MGROS,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,107047421.0
+MGROS,2025/3,2AAGG,(Ara Toplam),(Subtotal),1894200382.0
+MGROS,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MGROS,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,695080973.0
+MGROS,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,532680282.0
+MGROS,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MGROS,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,856961.0
+MGROS,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MGROS,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MGROS,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MGROS,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,2570565.0
+MGROS,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,33100014.0
+MGROS,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MGROS,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,125873150.0
+MGROS,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MGROS,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1703326188.0
+MGROS,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1691144297.0
+MGROS,2025/3,2OA,Ödenmiş Sermaye,Share Capital,4785522.0
+MGROS,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MGROS,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MGROS,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MGROS,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MGROS,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,0.0
+MGROS,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1506457100.0
+MGROS,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),25933572.0
+MGROS,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,153968103.0
+MGROS,2025/3,2ODA,Azınlık Payları,Minority Interests,12181891.0
+MGROS,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4292607543.0
+MGROS,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MGROS,2025/3,3C,Satış Gelirleri,Net Sales,2163426440.0
+MGROS,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1638897147.0
+MGROS,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MGROS,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,524529293.0
+MGROS,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MGROS,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MGROS,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MGROS,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),524529293.0
+MGROS,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-465142212.0
+MGROS,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-44674193.0
+MGROS,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MGROS,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,18722823.0
+MGROS,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-117093074.0
+MGROS,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MGROS,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-83657363.0
+MGROS,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,14712888.0
+MGROS,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+MGROS,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-201734.0
+MGROS,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MGROS,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MGROS,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-83859097.0
+MGROS,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),45346143.0
+MGROS,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),95138428.0
+MGROS,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-201734.0
+MGROS,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,56625474.0
+MGROS,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-28171849.0
+MGROS,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1503571.0
+MGROS,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-26668278.0
+MGROS,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MGROS,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,28453625.0
+MGROS,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MGROS,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MGROS,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,28453625.0
+MGROS,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MGROS,2025/3,3LB,Azınlık Payları,Minority Interests,1391312.0
+MGROS,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,27062313.0
+MGROS,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MGROS,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MGROS,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MGROS,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MGROS,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,86972677.0
+MGROS,2025/3,4BA,Kıdem Tazminatı,Severance Payments,958249.0
+MGROS,2025/3,4BB,Finansman Giderleri,Financial Expenses,95138428.0
+MGROS,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,2195644218.0
+MGROS,2025/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MGROS,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,19686203.0
+MGROS,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,19686203.0
+MGROS,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),19686203.0
+MGROS,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-4665281.0
+MGROS,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,28453625.0
+MGROS,2025/3,4CAA,Düzeltmeler:,Adjustments:,231012551.0
+MGROS,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,86972677.0
+MGROS,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,4490081.0
+MGROS,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,153988738.0
+MGROS,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),259466176.0
+MGROS,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-150318584.0
+MGROS,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),109147592.0
+MGROS,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-113812873.0
+MGROS,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-43772680.0
+MGROS,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1254975.0
+MGROS,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-45027655.0
+MGROS,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-49692935.0
+MGROS,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-4200388.0
+MGROS,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+MGROS,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MGROS,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-39419378.0
+MGROS,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-43619766.0
+MGROS,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-147941440.0
+MGROS,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,156251.0
+MGROS,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MGROS,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-147785189.0
+MGROS,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MGROS,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,683781287.0
+MGROS,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,535996098.0
+MGROS,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,1629051225.0
+MGROS,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,556522666.0
+MGROS,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,551260.0
+MGROS,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,51244185.0
+MGROS,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MGROS,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,73575871.0
+MGROS,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2025/6,1AF,Stoklar,Inventories,890908586.0
+MGROS,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MGROS,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,56248656.0
+MGROS,2025/6,1AI,(Ara Toplam),(Subtotal),1629051225.0
+MGROS,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MGROS,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2865372145.0
+MGROS,2025/6,1B,Ticari Alacaklar,Trade Receivables,835192.0
+MGROS,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MGROS,2025/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+MGROS,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2025/6,1BC,Finansal Yatırımlar,Financial Investments,97783454.0
+MGROS,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MGROS,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MGROS,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MGROS,2025/6,1BFA,Stoklar,Stoklar,0.0
+MGROS,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,1082620113.0
+MGROS,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,985109112.0
+MGROS,2025/6,1BGA,Şerefiye,Goodwill,588111719.0
+MGROS,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,66158885.0
+MGROS,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+MGROS,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,44753670.0
+MGROS,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4494423371.0
+MGROS,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+MGROS,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2096560569.0
+MGROS,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,139378962.0
+MGROS,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1705301087.0
+MGROS,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,72316288.0
+MGROS,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MGROS,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MGROS,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MGROS,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,46310044.0
+MGROS,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+MGROS,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,49657167.0
+MGROS,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,83597020.0
+MGROS,2025/6,2AAGG,(Ara Toplam),(Subtotal),2096560569.0
+MGROS,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MGROS,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,704695849.0
+MGROS,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,552684566.0
+MGROS,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MGROS,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,853804.0
+MGROS,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MGROS,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MGROS,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MGROS,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,853252.0
+MGROS,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,28923677.0
+MGROS,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MGROS,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+MGROS,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,121380550.0
+MGROS,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1693166953.0
+MGROS,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1678565849.0
+MGROS,2025/6,2OA,Ödenmiş Sermaye,Share Capital,4547679.0
+MGROS,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MGROS,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MGROS,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MGROS,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MGROS,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,5488491.0
+MGROS,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1468012554.0
+MGROS,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),33184309.0
+MGROS,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,167332816.0
+MGROS,2025/6,2ODA,Azınlık Payları,Minority Interests,14601104.0
+MGROS,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4494423371.0
+MGROS,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MGROS,2025/6,3C,Satış Gelirleri,Net Sales,4664533222.0
+MGROS,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-3543081605.0
+MGROS,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MGROS,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1121451617.0
+MGROS,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MGROS,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MGROS,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MGROS,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1121451617.0
+MGROS,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-970808627.0
+MGROS,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-93699339.0
+MGROS,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MGROS,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,37608218.0
+MGROS,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-266223133.0
+MGROS,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MGROS,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-171671264.0
+MGROS,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,56943651.0
+MGROS,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,820489.0
+MGROS,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-623391.0
+MGROS,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MGROS,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MGROS,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-171474165.0
+MGROS,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),93421085.0
+MGROS,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),144584733.0
+MGROS,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,197099.0
+MGROS,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,66531653.0
+MGROS,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-27385167.0
+MGROS,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-5544193.0
+MGROS,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-21840974.0
+MGROS,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MGROS,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,39146486.0
+MGROS,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MGROS,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MGROS,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,39146486.0
+MGROS,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MGROS,2025/6,3LB,Azınlık Payları,Minority Interests,3900600.0
+MGROS,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,35245886.0
+MGROS,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MGROS,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MGROS,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MGROS,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MGROS,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,180594418.0
+MGROS,2025/6,4BA,Kıdem Tazminatı,Severance Payments,1907735.0
+MGROS,2025/6,4BB,Finansman Giderleri,Financial Expenses,144584733.0
+MGROS,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,4719543607.0
+MGROS,2025/6,4BD,Yurtdışı Satışlar,Export Sales,11086252.0
+MGROS,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,22677204.0
+MGROS,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,22677204.0
+MGROS,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),22677204.0
+MGROS,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,233839770.0
+MGROS,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,39146486.0
+MGROS,2025/6,4CAA,Düzeltmeler:,Adjustments:,471429007.0
+MGROS,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,180594418.0
+MGROS,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,13196768.0
+MGROS,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,313247305.0
+MGROS,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),510575493.0
+MGROS,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-18235329.0
+MGROS,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),492340164.0
+MGROS,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-258500394.0
+MGROS,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-123901942.0
+MGROS,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+MGROS,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-123901942.0
+MGROS,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,109937828.0
+MGROS,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-13128846.0
+MGROS,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-33761535.0
+MGROS,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MGROS,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-91809425.0
+MGROS,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-138699806.0
+MGROS,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-110352941.0
+MGROS,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,343909.0
+MGROS,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MGROS,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-110009032.0
+MGROS,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MGROS,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,701105690.0
+MGROS,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,591096658.0
+MGROS,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,1689942378.0
+MGROS,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,746360530.0
+MGROS,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1125883.0
+MGROS,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,52404333.0
+MGROS,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MGROS,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,20620779.0
+MGROS,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2025/9,1AF,Stoklar,Inventories,827027507.0
+MGROS,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MGROS,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,42403347.0
+MGROS,2025/9,1AI,(Ara Toplam),(Subtotal),1689942378.0
+MGROS,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MGROS,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,3009195221.0
+MGROS,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+MGROS,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MGROS,2025/9,1BB,Diğer Alacaklar,Other Receivables,914780.0
+MGROS,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MGROS,2025/9,1BC,Finansal Yatırımlar,Financial Investments,98989914.0
+MGROS,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MGROS,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MGROS,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MGROS,2025/9,1BFA,Stoklar,Stoklar,0.0
+MGROS,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,1145445317.0
+MGROS,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1046589188.0
+MGROS,2025/9,1BGA,Şerefiye,Goodwill,605346932.0
+MGROS,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,74154554.0
+MGROS,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+MGROS,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,37754536.0
+MGROS,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4699137599.0
+MGROS,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+MGROS,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2093098005.0
+MGROS,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,139967341.0
+MGROS,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1752876537.0
+MGROS,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,35300013.0
+MGROS,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MGROS,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MGROS,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MGROS,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,39011197.0
+MGROS,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+MGROS,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,46357451.0
+MGROS,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,79585466.0
+MGROS,2025/9,2AAGG,(Ara Toplam),(Subtotal),2093098005.0
+MGROS,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MGROS,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,768536372.0
+MGROS,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,603693557.0
+MGROS,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MGROS,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MGROS,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,926467.0
+MGROS,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MGROS,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MGROS,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MGROS,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1038416.0
+MGROS,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,23195909.0
+MGROS,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MGROS,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,139682023.0
+MGROS,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MGROS,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1837503223.0
+MGROS,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1820453951.0
+MGROS,2025/9,2OA,Ödenmiş Sermaye,Share Capital,4354186.0
+MGROS,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MGROS,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MGROS,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MGROS,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MGROS,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,5649326.0
+MGROS,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1511608957.0
+MGROS,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),129129158.0
+MGROS,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,169712325.0
+MGROS,2025/9,2ODA,Azınlık Payları,Minority Interests,17049272.0
+MGROS,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4699137599.0
+MGROS,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MGROS,2025/9,3C,Satış Gelirleri,Net Sales,7631187920.0
+MGROS,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-5766479838.0
+MGROS,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MGROS,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1864708082.0
+MGROS,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MGROS,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MGROS,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MGROS,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MGROS,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1864708082.0
+MGROS,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1523761637.0
+MGROS,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-142761766.0
+MGROS,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MGROS,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,61064525.0
+MGROS,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-418410976.0
+MGROS,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MGROS,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-159161773.0
+MGROS,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,198184678.0
+MGROS,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1788355.0
+MGROS,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-736130.0
+MGROS,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MGROS,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MGROS,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-158109548.0
+MGROS,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),158503340.0
+MGROS,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),214229379.0
+MGROS,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1052225.0
+MGROS,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,214623171.0
+MGROS,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-69411122.0
+MGROS,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-30162243.0
+MGROS,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-39248879.0
+MGROS,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MGROS,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,145212049.0
+MGROS,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MGROS,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MGROS,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,145212049.0
+MGROS,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MGROS,2025/9,3LB,Azınlık Payları,Minority Interests,6242355.0
+MGROS,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,138969693.0
+MGROS,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MGROS,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MGROS,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MGROS,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MGROS,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,293159235.0
+MGROS,2025/9,4BA,Kıdem Tazminatı,Severance Payments,2911988.0
+MGROS,2025/9,4BB,Finansman Giderleri,Financial Expenses,214229379.0
+MGROS,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,7712878044.0
+MGROS,2025/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MGROS,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,8438789.0
+MGROS,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,8438789.0
+MGROS,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),8438789.0
+MGROS,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,566936103.0
+MGROS,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,145212049.0
+MGROS,2025/9,4CAA,Düzeltmeler:,Adjustments:,746948103.0
+MGROS,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,293159235.0
+MGROS,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,17057689.0
+MGROS,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,506164715.0
+MGROS,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),892160152.0
+MGROS,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,82779334.0
+MGROS,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),974939486.0
+MGROS,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-408003384.0
+MGROS,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-216908535.0
+MGROS,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+MGROS,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-216908535.0
+MGROS,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,350027568.0
+MGROS,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,5980638.0
+MGROS,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-35211602.0
+MGROS,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MGROS,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-132848336.0
+MGROS,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-162079300.0
+MGROS,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,71851544.0
+MGROS,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,166731.0
+MGROS,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MGROS,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,72018274.0
+MGROS,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MGROS,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,731220092.0
+MGROS,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,803238366.0

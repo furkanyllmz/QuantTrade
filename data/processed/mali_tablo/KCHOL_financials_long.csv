@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+KCHOL,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,87276638907.0
+KCHOL,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,13336803331.0
+KCHOL,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2123852231.0
+KCHOL,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,6562193039.0
+KCHOL,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,36479767243.0
+KCHOL,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,1037529362.0
+KCHOL,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2022/12,1AF,Stoklar,Inventories,7150384369.0
+KCHOL,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KCHOL,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,20574631646.0
+KCHOL,2022/12,1AI,(Ara Toplam),(Subtotal),87265161221.0
+KCHOL,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,11477685.0
+KCHOL,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,63124599616.0
+KCHOL,2022/12,1B,Ticari Alacaklar,Trade Receivables,98441170.0
+KCHOL,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,18733984625.0
+KCHOL,2022/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+KCHOL,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2022/12,1BC,Finansal Yatırımlar,Financial Investments,20239323083.0
+KCHOL,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,2819720265.0
+KCHOL,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KCHOL,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,136450993.0
+KCHOL,2022/12,1BFA,Stoklar,Stoklar,0.0
+KCHOL,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KCHOL,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,13645686526.0
+KCHOL,2022/12,1BGA,Şerefiye,Goodwill,2601430707.0
+KCHOL,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2477578475.0
+KCHOL,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,521567371.0
+KCHOL,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1850416400.0
+KCHOL,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,150401238522.0
+KCHOL,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+KCHOL,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,100797779201.0
+KCHOL,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,19875507154.0
+KCHOL,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,9046124279.0
+KCHOL,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1118780696.0
+KCHOL,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KCHOL,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,62207932949.0
+KCHOL,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KCHOL,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),500587230.0
+KCHOL,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,571268418.0
+KCHOL,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,7477578475.0
+KCHOL,2022/12,2AAGG,(Ara Toplam),(Subtotal),100797779201.0
+KCHOL,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KCHOL,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,17042440743.0
+KCHOL,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,13423019432.0
+KCHOL,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+KCHOL,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KCHOL,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KCHOL,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,460655563.0
+KCHOL,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KCHOL,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1286888747.0
+KCHOL,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KCHOL,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,630471920.0
+KCHOL,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,1241405082.0
+KCHOL,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,32561018578.0
+KCHOL,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,19525144138.0
+KCHOL,2022/12,2OA,Ödenmiş Sermaye,Share Capital,135383301.0
+KCHOL,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+KCHOL,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,12225069.0
+KCHOL,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KCHOL,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KCHOL,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,269485373.0
+KCHOL,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),11488842622.0
+KCHOL,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),3879030536.0
+KCHOL,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,3740177237.0
+KCHOL,2022/12,2ODA,Azınlık Payları,Minority Interests,13035874439.0
+KCHOL,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,150401238522.0
+KCHOL,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KCHOL,2022/12,3C,Satış Gelirleri,Net Sales,84229376921.0
+KCHOL,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-71352105658.0
+KCHOL,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KCHOL,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,12877271263.0
+KCHOL,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",19047234181.0
+KCHOL,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-7552387546.0
+KCHOL,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KCHOL,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,11494846635.0
+KCHOL,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KCHOL,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),24372117898.0
+KCHOL,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-3895152469.0
+KCHOL,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-4197469457.0
+KCHOL,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-170327907.0
+KCHOL,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1821244688.0
+KCHOL,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-4413178015.0
+KCHOL,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KCHOL,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,13517234738.0
+KCHOL,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,16109168065.0
+KCHOL,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,237736831.0
+KCHOL,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-15768873.0
+KCHOL,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KCHOL,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,972433920.0
+KCHOL,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,14711636616.0
+KCHOL,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),3358168162.0
+KCHOL,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-7021602454.0
+KCHOL,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,221967958.0
+KCHOL,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,11048202325.0
+KCHOL,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-3249471272.0
+KCHOL,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-2983085648.0
+KCHOL,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-266385624.0
+KCHOL,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KCHOL,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,7798731053.0
+KCHOL,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KCHOL,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KCHOL,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,7798731053.0
+KCHOL,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KCHOL,2022/12,3LB,Azınlık Payları,Minority Interests,3425456714.0
+KCHOL,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,4373274339.0
+KCHOL,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,2.0
+KCHOL,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KCHOL,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KCHOL,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KCHOL,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,1532168738.0
+KCHOL,2022/12,4BA,Kıdem Tazminatı,Severance Payments,233102468.0
+KCHOL,2022/12,4BB,Finansman Giderleri,Financial Expenses,-7021602454.0
+KCHOL,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,59565173747.0
+KCHOL,2022/12,4BD,Yurtdışı Satışlar,Export Sales,24664203174.0
+KCHOL,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-12173088750.0
+KCHOL,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-5508693408.0
+KCHOL,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-4359792554.0
+KCHOL,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,9241221847.0
+KCHOL,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,7798731053.0
+KCHOL,2022/12,4CAA,Düzeltmeler:,Adjustments:,4524583300.0
+KCHOL,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1532168738.0
+KCHOL,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,550887397.0
+KCHOL,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,2441527165.0
+KCHOL,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),12323314352.0
+KCHOL,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1033101952.0
+KCHOL,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),11290212400.0
+KCHOL,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-2048990554.0
+KCHOL,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-2114774441.0
+KCHOL,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-3039480435.0
+KCHOL,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-5154254877.0
+KCHOL,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,4086966970.0
+KCHOL,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,3400479300.0
+KCHOL,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-631296614.0
+KCHOL,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KCHOL,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-3103880033.0
+KCHOL,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-334697347.0
+KCHOL,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,3752269624.0
+KCHOL,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-5827983001.0
+KCHOL,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KCHOL,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-2075713377.0
+KCHOL,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KCHOL,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,23575789792.0
+KCHOL,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,21500076415.0
+KCHOL,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,46649620418.0
+KCHOL,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,7946395063.0
+KCHOL,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,771375183.0
+KCHOL,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,4015487094.0
+KCHOL,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,18473645310.0
+KCHOL,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,545827122.0
+KCHOL,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2022/3,1AF,Stoklar,Inventories,4402218297.0
+KCHOL,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KCHOL,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,10492263648.0
+KCHOL,2022/3,1AI,(Ara Toplam),(Subtotal),46647211716.0
+KCHOL,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,2408702.0
+KCHOL,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,32332953729.0
+KCHOL,2022/3,1B,Ticari Alacaklar,Trade Receivables,57373819.0
+KCHOL,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,13809669929.0
+KCHOL,2022/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+KCHOL,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2022/3,1BC,Finansal Yatırımlar,Financial Investments,10178817608.0
+KCHOL,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,725951785.0
+KCHOL,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KCHOL,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,24922631.0
+KCHOL,2022/3,1BFA,Stoklar,Stoklar,0.0
+KCHOL,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KCHOL,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3759195349.0
+KCHOL,2022/3,1BGA,Şerefiye,Goodwill,409725032.0
+KCHOL,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,999330174.0
+KCHOL,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1418092952.0
+KCHOL,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,949874450.0
+KCHOL,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,78982574147.0
+KCHOL,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+KCHOL,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,57703793364.0
+KCHOL,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,11193054523.0
+KCHOL,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,6400117707.0
+KCHOL,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,368462032.0
+KCHOL,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KCHOL,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,34548474853.0
+KCHOL,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KCHOL,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),752896034.0
+KCHOL,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,314337027.0
+KCHOL,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,4126451188.0
+KCHOL,2022/3,2AAGG,(Ara Toplam),(Subtotal),57703793364.0
+KCHOL,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KCHOL,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,11801183346.0
+KCHOL,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,10108313159.0
+KCHOL,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+KCHOL,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KCHOL,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KCHOL,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,239613257.0
+KCHOL,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KCHOL,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,537837351.0
+KCHOL,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KCHOL,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,198616497.0
+KCHOL,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,716803082.0
+KCHOL,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,9477597436.0
+KCHOL,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5040470011.0
+KCHOL,2022/3,2OA,Ödenmiş Sermaye,Share Capital,172939476.0
+KCHOL,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+KCHOL,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+KCHOL,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KCHOL,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KCHOL,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,36716064.0
+KCHOL,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3698215706.0
+KCHOL,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),457811027.0
+KCHOL,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,674787738.0
+KCHOL,2022/3,2ODA,Azınlık Payları,Minority Interests,4437127425.0
+KCHOL,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,78982574147.0
+KCHOL,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KCHOL,2022/3,3C,Satış Gelirleri,Net Sales,8929705617.0
+KCHOL,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-7642193963.0
+KCHOL,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KCHOL,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1287511654.0
+KCHOL,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",1956173209.0
+KCHOL,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-862253497.0
+KCHOL,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KCHOL,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,1093919712.0
+KCHOL,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KCHOL,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2381431366.0
+KCHOL,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-445798226.0
+KCHOL,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-448231545.0
+KCHOL,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-14886183.0
+KCHOL,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,262583672.0
+KCHOL,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-490456774.0
+KCHOL,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KCHOL,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1244642311.0
+KCHOL,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1472515413.0
+KCHOL,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,39791911.0
+KCHOL,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1646068.0
+KCHOL,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KCHOL,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,138985416.0
+KCHOL,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1421773569.0
+KCHOL,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),534900617.0
+KCHOL,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-858603519.0
+KCHOL,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,38145843.0
+KCHOL,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1098070667.0
+KCHOL,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-215992783.0
+KCHOL,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-808291085.0
+KCHOL,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,592298302.0
+KCHOL,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KCHOL,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,882077884.0
+KCHOL,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KCHOL,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KCHOL,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,882077884.0
+KCHOL,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KCHOL,2022/3,3LB,Azınlık Payları,Minority Interests,401712224.0
+KCHOL,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,480365660.0
+KCHOL,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KCHOL,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KCHOL,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KCHOL,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KCHOL,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,127319802.0
+KCHOL,2022/3,4BA,Kıdem Tazminatı,Severance Payments,17129988.0
+KCHOL,2022/3,4BB,Finansman Giderleri,Financial Expenses,-858603519.0
+KCHOL,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+KCHOL,2022/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+KCHOL,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-7733306203.0
+KCHOL,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-3099282952.0
+KCHOL,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2393510215.0
+KCHOL,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1672906331.0
+KCHOL,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,882077884.0
+KCHOL,2022/3,4CAA,Düzeltmeler:,Adjustments:,634809804.0
+KCHOL,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,127319802.0
+KCHOL,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,89245527.0
+KCHOL,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,418244475.0
+KCHOL,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1516887687.0
+KCHOL,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,79583822.0
+KCHOL,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1596471510.0
+KCHOL,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,76434822.0
+KCHOL,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-220716283.0
+KCHOL,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-739370922.0
+KCHOL,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-960087206.0
+KCHOL,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,712819126.0
+KCHOL,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,244190648.0
+KCHOL,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,-90390618.0
+KCHOL,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KCHOL,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1029508346.0
+KCHOL,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-875708315.0
+KCHOL,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-162889190.0
+KCHOL,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1039170051.0
+KCHOL,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KCHOL,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,876280861.0
+KCHOL,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KCHOL,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,10357204641.0
+KCHOL,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,11233485501.0
+KCHOL,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,48977192386.0
+KCHOL,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,7524536049.0
+KCHOL,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,990001018.0
+KCHOL,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,4481402579.0
+KCHOL,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,18775189439.0
+KCHOL,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,635391339.0
+KCHOL,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2022/6,1AF,Stoklar,Inventories,5069386151.0
+KCHOL,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KCHOL,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,11499169752.0
+KCHOL,2022/6,1AI,(Ara Toplam),(Subtotal),48975076327.0
+KCHOL,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,2116060.0
+KCHOL,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,31661654145.0
+KCHOL,2022/6,1B,Ticari Alacaklar,Trade Receivables,72907785.0
+KCHOL,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,13138068706.0
+KCHOL,2022/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+KCHOL,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2022/6,1BC,Finansal Yatırımlar,Financial Investments,10569339960.0
+KCHOL,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,817899517.0
+KCHOL,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KCHOL,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,21751980.0
+KCHOL,2022/6,1BFA,Stoklar,Stoklar,0.0
+KCHOL,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KCHOL,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3588805373.0
+KCHOL,2022/6,1BGA,Şerefiye,Goodwill,374879099.0
+KCHOL,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,916733947.0
+KCHOL,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1103222138.0
+KCHOL,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1058045640.0
+KCHOL,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,80638846532.0
+KCHOL,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+KCHOL,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,59975157327.0
+KCHOL,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,11479042800.0
+KCHOL,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,7609240267.0
+KCHOL,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,547807014.0
+KCHOL,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KCHOL,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,35248913093.0
+KCHOL,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KCHOL,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),40326036.0
+KCHOL,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,363845034.0
+KCHOL,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,4685983081.0
+KCHOL,2022/6,2AAGG,(Ara Toplam),(Subtotal),59975157327.0
+KCHOL,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KCHOL,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,10837180404.0
+KCHOL,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,9147618354.0
+KCHOL,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+KCHOL,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KCHOL,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KCHOL,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,253044622.0
+KCHOL,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KCHOL,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,557193944.0
+KCHOL,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KCHOL,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,212874534.0
+KCHOL,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,666448950.0
+KCHOL,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,9826508801.0
+KCHOL,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5977461627.0
+KCHOL,2022/6,2OA,Ödenmiş Sermaye,Share Capital,151928418.0
+KCHOL,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+KCHOL,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,556334.0
+KCHOL,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KCHOL,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KCHOL,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,40919156.0
+KCHOL,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3537499551.0
+KCHOL,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1327742550.0
+KCHOL,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,918815618.0
+KCHOL,2022/6,2ODA,Azınlık Payları,Minority Interests,3849047174.0
+KCHOL,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,80638846532.0
+KCHOL,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KCHOL,2022/6,3C,Satış Gelirleri,Net Sales,21654055315.0
+KCHOL,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-18287803760.0
+KCHOL,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KCHOL,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,3366251555.0
+KCHOL,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",4267129580.0
+KCHOL,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-1728737304.0
+KCHOL,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KCHOL,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,2538392276.0
+KCHOL,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KCHOL,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),5904643831.0
+KCHOL,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1008626020.0
+KCHOL,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-903833706.0
+KCHOL,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-29959854.0
+KCHOL,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,569774619.0
+KCHOL,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1234466891.0
+KCHOL,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KCHOL,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,3297531980.0
+KCHOL,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,3962224252.0
+KCHOL,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,49440476.0
+KCHOL,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1813713.0
+KCHOL,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KCHOL,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,304099233.0
+KCHOL,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3649257976.0
+KCHOL,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1026158580.0
+KCHOL,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1625086957.0
+KCHOL,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,47626763.0
+KCHOL,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,3050329599.0
+KCHOL,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-435962895.0
+KCHOL,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-907393958.0
+KCHOL,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,471431063.0
+KCHOL,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KCHOL,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,2614366704.0
+KCHOL,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KCHOL,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KCHOL,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,2614366704.0
+KCHOL,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KCHOL,2022/6,3LB,Azınlık Payları,Minority Interests,1125644103.0
+KCHOL,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,1488722601.0
+KCHOL,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+KCHOL,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KCHOL,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KCHOL,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KCHOL,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,249889363.0
+KCHOL,2022/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+KCHOL,2022/6,4BB,Finansman Giderleri,Financial Expenses,-1625086957.0
+KCHOL,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+KCHOL,2022/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+KCHOL,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-8343738673.0
+KCHOL,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-3632122485.0
+KCHOL,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-3027551444.0
+KCHOL,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,3894512295.0
+KCHOL,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,2614366704.0
+KCHOL,2022/6,4CAA,Düzeltmeler:,Adjustments:,1795710340.0
+KCHOL,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,249889363.0
+KCHOL,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,232961374.0
+KCHOL,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1312859602.0
+KCHOL,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),4410077044.0
+KCHOL,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,254188535.0
+KCHOL,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),4664265579.0
+KCHOL,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-769753284.0
+KCHOL,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-638359844.0
+KCHOL,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2439578498.0
+KCHOL,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-3077938343.0
+KCHOL,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,816573952.0
+KCHOL,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,723671536.0
+KCHOL,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-305845772.0
+KCHOL,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KCHOL,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1410329889.0
+KCHOL,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-992504125.0
+KCHOL,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-175930173.0
+KCHOL,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1839911201.0
+KCHOL,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KCHOL,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1663981028.0
+KCHOL,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KCHOL,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,9721367986.0
+KCHOL,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,11385349013.0
+KCHOL,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,49017827955.0
+KCHOL,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,7009414622.0
+KCHOL,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1072620027.0
+KCHOL,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,4216958350.0
+KCHOL,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,19446984870.0
+KCHOL,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,754960624.0
+KCHOL,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2022/9,1AF,Stoklar,Inventories,4344815304.0
+KCHOL,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KCHOL,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,12170170331.0
+KCHOL,2022/9,1AI,(Ara Toplam),(Subtotal),49015924127.0
+KCHOL,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,1903828.0
+KCHOL,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,30255175910.0
+KCHOL,2022/9,1B,Ticari Alacaklar,Trade Receivables,57374529.0
+KCHOL,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,11749715666.0
+KCHOL,2022/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+KCHOL,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2022/9,1BC,Finansal Yatırımlar,Financial Investments,10644339509.0
+KCHOL,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,909824925.0
+KCHOL,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KCHOL,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,19442058.0
+KCHOL,2022/9,1BFA,Stoklar,Stoklar,0.0
+KCHOL,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KCHOL,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3560696255.0
+KCHOL,2022/9,1BGA,Şerefiye,Goodwill,347074509.0
+KCHOL,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,854169070.0
+KCHOL,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1011524625.0
+KCHOL,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1101014764.0
+KCHOL,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,79273003865.0
+KCHOL,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+KCHOL,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,57438412094.0
+KCHOL,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,11246178438.0
+KCHOL,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,6122798605.0
+KCHOL,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,489505716.0
+KCHOL,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KCHOL,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,34352003277.0
+KCHOL,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KCHOL,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),456609926.0
+KCHOL,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,326996890.0
+KCHOL,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,4444319241.0
+KCHOL,2022/9,2AAGG,(Ara Toplam),(Subtotal),57438412094.0
+KCHOL,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KCHOL,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,10835706362.0
+KCHOL,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,8925833571.0
+KCHOL,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+KCHOL,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KCHOL,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KCHOL,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,230588774.0
+KCHOL,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KCHOL,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,529474992.0
+KCHOL,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KCHOL,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,209834520.0
+KCHOL,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,939974504.0
+KCHOL,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,10998885409.0
+KCHOL,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6650272530.0
+KCHOL,2022/9,2OA,Ödenmiş Sermaye,Share Capital,136690617.0
+KCHOL,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+KCHOL,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,500536.0
+KCHOL,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KCHOL,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KCHOL,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,36815131.0
+KCHOL,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3184271107.0
+KCHOL,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),2265098237.0
+KCHOL,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1026896901.0
+KCHOL,2022/9,2ODA,Azınlık Payları,Minority Interests,4348612879.0
+KCHOL,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,79273003865.0
+KCHOL,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KCHOL,2022/9,3C,Satış Gelirleri,Net Sales,33667107339.0
+KCHOL,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-28359665698.0
+KCHOL,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KCHOL,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,5307441641.0
+KCHOL,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",6983102103.0
+KCHOL,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-2782796635.0
+KCHOL,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KCHOL,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,4200305469.0
+KCHOL,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KCHOL,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),9507747110.0
+KCHOL,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1433973227.0
+KCHOL,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1358123905.0
+KCHOL,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-44742931.0
+KCHOL,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,764463136.0
+KCHOL,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1773441362.0
+KCHOL,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KCHOL,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,5661928821.0
+KCHOL,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,6670907047.0
+KCHOL,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,65983255.0
+KCHOL,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2199442.0
+KCHOL,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KCHOL,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,468858155.0
+KCHOL,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,6194570790.0
+KCHOL,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1463634271.0
+KCHOL,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-2271583514.0
+KCHOL,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,63783813.0
+KCHOL,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,5386621546.0
+KCHOL,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-860673006.0
+KCHOL,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1388099155.0
+KCHOL,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,527426149.0
+KCHOL,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KCHOL,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,4525948541.0
+KCHOL,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KCHOL,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KCHOL,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,4525948541.0
+KCHOL,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KCHOL,2022/9,3LB,Azınlık Payları,Minority Interests,1885298689.0
+KCHOL,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,2640649852.0
+KCHOL,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+KCHOL,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KCHOL,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KCHOL,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KCHOL,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,371074302.0
+KCHOL,2022/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+KCHOL,2022/9,4BB,Finansman Giderleri,Financial Expenses,-2271583514.0
+KCHOL,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+KCHOL,2022/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+KCHOL,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-8315731084.0
+KCHOL,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-3056424919.0
+KCHOL,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2114559141.0
+KCHOL,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,4492328502.0
+KCHOL,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,4525948541.0
+KCHOL,2022/9,4CAA,Düzeltmeler:,Adjustments:,2014814392.0
+KCHOL,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,371077256.0
+KCHOL,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,251678986.0
+KCHOL,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1392058150.0
+KCHOL,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),6540762932.0
+KCHOL,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1298173405.0
+KCHOL,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),5242589528.0
+KCHOL,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-750261026.0
+KCHOL,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-957951175.0
+KCHOL,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2829110595.0
+KCHOL,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-3787061771.0
+KCHOL,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,705266731.0
+KCHOL,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1331604920.0
+KCHOL,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-300946482.0
+KCHOL,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KCHOL,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1202152059.0
+KCHOL,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-171493621.0
+KCHOL,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,533773110.0
+KCHOL,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,2414610074.0
+KCHOL,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KCHOL,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,2948383183.0
+KCHOL,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KCHOL,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,9094252047.0
+KCHOL,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,12042635230.0
+KCHOL,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,83831943658.0
+KCHOL,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,14168246229.0
+KCHOL,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1910529546.0
+KCHOL,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,7022409999.0
+KCHOL,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,34116230888.0
+KCHOL,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,1073570850.0
+KCHOL,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2023/12,1AF,Stoklar,Inventories,5670519780.0
+KCHOL,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KCHOL,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,19593744596.0
+KCHOL,2023/12,1AI,(Ara Toplam),(Subtotal),83555251888.0
+KCHOL,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,276691770.0
+KCHOL,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,56132859521.0
+KCHOL,2023/12,1B,Ticari Alacaklar,Trade Receivables,49506126.0
+KCHOL,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,12881900764.0
+KCHOL,2023/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+KCHOL,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2023/12,1BC,Finansal Yatırımlar,Financial Investments,19002519387.0
+KCHOL,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,3380149400.0
+KCHOL,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KCHOL,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,121561274.0
+KCHOL,2023/12,1BFA,Stoklar,Stoklar,0.0
+KCHOL,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KCHOL,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,13504830238.0
+KCHOL,2023/12,1BGA,Şerefiye,Goodwill,2374327344.0
+KCHOL,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2354965702.0
+KCHOL,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,994021966.0
+KCHOL,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1469077321.0
+KCHOL,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,139964803179.0
+KCHOL,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+KCHOL,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,91343650500.0
+KCHOL,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,17694336974.0
+KCHOL,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,9137677891.0
+KCHOL,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1480402695.0
+KCHOL,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KCHOL,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,55123578818.0
+KCHOL,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KCHOL,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),356105021.0
+KCHOL,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,534360981.0
+KCHOL,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,6814145189.0
+KCHOL,2023/12,2AAGG,(Ara Toplam),(Subtotal),91140607569.0
+KCHOL,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,203042931.0
+KCHOL,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,15611214155.0
+KCHOL,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,12111504071.0
+KCHOL,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+KCHOL,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KCHOL,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KCHOL,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,495332522.0
+KCHOL,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KCHOL,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1300417411.0
+KCHOL,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KCHOL,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,743100508.0
+KCHOL,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,960859643.0
+KCHOL,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,33009938524.0
+KCHOL,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,19883931871.0
+KCHOL,2023/12,2OA,Ödenmiş Sermaye,Share Capital,85991462.0
+KCHOL,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+KCHOL,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,11223649.0
+KCHOL,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KCHOL,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KCHOL,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,516457396.0
+KCHOL,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),13249398975.0
+KCHOL,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),3668064819.0
+KCHOL,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2352795570.0
+KCHOL,2023/12,2ODA,Azınlık Payları,Minority Interests,13126006653.0
+KCHOL,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,139964803179.0
+KCHOL,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KCHOL,2023/12,3C,Satış Gelirleri,Net Sales,73861569201.0
+KCHOL,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-60345421540.0
+KCHOL,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KCHOL,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,13516147661.0
+KCHOL,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",23365263364.0
+KCHOL,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-14060075347.0
+KCHOL,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KCHOL,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,9305188017.0
+KCHOL,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KCHOL,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),22821335678.0
+KCHOL,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-4061810736.0
+KCHOL,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-5317448137.0
+KCHOL,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-196613009.0
+KCHOL,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,2318984343.0
+KCHOL,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-3934946034.0
+KCHOL,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KCHOL,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,11629502105.0
+KCHOL,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,13245463796.0
+KCHOL,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,78813070.0
+KCHOL,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-7889700.0
+KCHOL,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KCHOL,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1861339762.0
+KCHOL,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,13561765236.0
+KCHOL,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),4338244010.0
+KCHOL,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-8294173289.0
+KCHOL,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,70923369.0
+KCHOL,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,9605835956.0
+KCHOL,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-2118384518.0
+KCHOL,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1896004083.0
+KCHOL,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-222380434.0
+KCHOL,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KCHOL,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,7487451439.0
+KCHOL,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KCHOL,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KCHOL,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,7487451439.0
+KCHOL,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KCHOL,2023/12,3LB,Azınlık Payları,Minority Interests,2947684340.0
+KCHOL,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,4539767098.0
+KCHOL,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,2.0
+KCHOL,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,2.0
+KCHOL,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,2.0
+KCHOL,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,2.0
+KCHOL,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,1854792990.0
+KCHOL,2023/12,4BA,Kıdem Tazminatı,Severance Payments,145665689.0
+KCHOL,2023/12,4BB,Finansman Giderleri,Financial Expenses,-8294173289.0
+KCHOL,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,53042202996.0
+KCHOL,2023/12,4BD,Yurtdışı Satışlar,Export Sales,20819366205.0
+KCHOL,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-15202571089.0
+KCHOL,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2253306785.0
+KCHOL,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1406758735.0
+KCHOL,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,20541128372.0
+KCHOL,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,7487451439.0
+KCHOL,2023/12,4CAA,Düzeltmeler:,Adjustments:,12403070428.0
+KCHOL,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1854792990.0
+KCHOL,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,181169340.0
+KCHOL,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,4863958239.0
+KCHOL,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),19890521866.0
+KCHOL,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,1978510204.0
+KCHOL,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),21869032071.0
+KCHOL,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-1327903699.0
+KCHOL,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-3193314211.0
+KCHOL,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-6832144686.0
+KCHOL,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-10025458897.0
+KCHOL,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,10515669475.0
+KCHOL,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1257106229.0
+KCHOL,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-2060974358.0
+KCHOL,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KCHOL,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-251337313.0
+KCHOL,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1055205442.0
+KCHOL,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,9460464033.0
+KCHOL,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,4793454535.0
+KCHOL,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KCHOL,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,14253918567.0
+KCHOL,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KCHOL,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,22964273545.0
+KCHOL,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,26509770545.0
+KCHOL,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,53842962716.0
+KCHOL,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,8658574719.0
+KCHOL,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1302702759.0
+KCHOL,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,4021826369.0
+KCHOL,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,23624282096.0
+KCHOL,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,518245969.0
+KCHOL,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2023/3,1AF,Stoklar,Inventories,4174266982.0
+KCHOL,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KCHOL,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,11541239746.0
+KCHOL,2023/3,1AI,(Ara Toplam),(Subtotal),53841138640.0
+KCHOL,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,1824076.0
+KCHOL,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,32999510105.0
+KCHOL,2023/3,1B,Ticari Alacaklar,Trade Receivables,54305340.0
+KCHOL,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,11358571592.0
+KCHOL,2023/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+KCHOL,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2023/3,1BC,Finansal Yatırımlar,Financial Investments,12916540719.0
+KCHOL,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,1118002064.0
+KCHOL,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KCHOL,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,18553456.0
+KCHOL,2023/3,1BFA,Stoklar,Stoklar,0.0
+KCHOL,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KCHOL,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4128977788.0
+KCHOL,2023/3,1BGA,Şerefiye,Goodwill,366222287.0
+KCHOL,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,901197636.0
+KCHOL,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1204671718.0
+KCHOL,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,932467505.0
+KCHOL,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,86842472821.0
+KCHOL,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+KCHOL,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,63232418516.0
+KCHOL,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,10482389852.0
+KCHOL,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,5030436006.0
+KCHOL,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,743649611.0
+KCHOL,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KCHOL,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,41312083720.0
+KCHOL,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KCHOL,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),368463294.0
+KCHOL,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,396970992.0
+KCHOL,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,4898425041.0
+KCHOL,2023/3,2AAGG,(Ara Toplam),(Subtotal),63232418516.0
+KCHOL,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KCHOL,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,10307382816.0
+KCHOL,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,8316742930.0
+KCHOL,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+KCHOL,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KCHOL,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KCHOL,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,323174100.0
+KCHOL,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KCHOL,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,781746735.0
+KCHOL,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KCHOL,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,212999927.0
+KCHOL,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,672719124.0
+KCHOL,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,13302671489.0
+KCHOL,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,8265147646.0
+KCHOL,2023/3,2OA,Ödenmiş Sermaye,Share Capital,132167315.0
+KCHOL,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+KCHOL,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,469048.0
+KCHOL,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KCHOL,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KCHOL,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,35595535.0
+KCHOL,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),6351066824.0
+KCHOL,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),874097083.0
+KCHOL,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,871751842.0
+KCHOL,2023/3,2ODA,Azınlık Payları,Minority Interests,5037523843.0
+KCHOL,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,86842472821.0
+KCHOL,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KCHOL,2023/3,3C,Satış Gelirleri,Net Sales,17233156001.0
+KCHOL,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-14234007404.0
+KCHOL,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KCHOL,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2999148597.0
+KCHOL,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",4952974952.0
+KCHOL,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-2672372925.0
+KCHOL,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KCHOL,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,2280602027.0
+KCHOL,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KCHOL,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),5279750624.0
+KCHOL,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-955768558.0
+KCHOL,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1443073970.0
+KCHOL,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-65630358.0
+KCHOL,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,284539360.0
+KCHOL,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-399445415.0
+KCHOL,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KCHOL,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2700371683.0
+KCHOL,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2815277738.0
+KCHOL,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,12014590.0
+KCHOL,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3016879.0
+KCHOL,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KCHOL,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,309362456.0
+KCHOL,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3018731849.0
+KCHOL,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),528536096.0
+KCHOL,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1600639758.0
+KCHOL,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,8997710.0
+KCHOL,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1946628187.0
+KCHOL,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-1099467287.0
+KCHOL,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-736277352.0
+KCHOL,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-363189935.0
+KCHOL,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KCHOL,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,847160901.0
+KCHOL,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KCHOL,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KCHOL,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,847160901.0
+KCHOL,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KCHOL,2023/3,3LB,Azınlık Payları,Minority Interests,233569977.0
+KCHOL,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,613590924.0
+KCHOL,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KCHOL,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KCHOL,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KCHOL,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KCHOL,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,494186013.0
+KCHOL,2023/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+KCHOL,2023/3,4BB,Finansman Giderleri,Financial Expenses,-1600639758.0
+KCHOL,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+KCHOL,2023/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+KCHOL,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-4146515460.0
+KCHOL,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1763286605.0
+KCHOL,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1190344162.0
+KCHOL,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,8188075273.0
+KCHOL,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,781424687.0
+KCHOL,2023/3,4CAA,Düzeltmeler:,Adjustments:,891355537.0
+KCHOL,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,455760497.0
+KCHOL,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,104320513.0
+KCHOL,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,331274527.0
+KCHOL,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1672780224.0
+KCHOL,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,5023527588.0
+KCHOL,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),6696307812.0
+KCHOL,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,1491767461.0
+KCHOL,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-836416576.0
+KCHOL,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1187221427.0
+KCHOL,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-2023638003.0
+KCHOL,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,6164437270.0
+KCHOL,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-1885337901.0
+KCHOL,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,-1476683064.0
+KCHOL,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KCHOL,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,81985020.0
+KCHOL,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-3280035945.0
+KCHOL,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,2884401325.0
+KCHOL,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-2302831665.0
+KCHOL,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KCHOL,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,581569660.0
+KCHOL,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KCHOL,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,19537840136.0
+KCHOL,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,20119409796.0
+KCHOL,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,47882417973.0
+KCHOL,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,8211723413.0
+KCHOL,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,952739895.0
+KCHOL,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,4134118811.0
+KCHOL,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,19749899496.0
+KCHOL,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,522814423.0
+KCHOL,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2023/6,1AF,Stoklar,Inventories,3687571513.0
+KCHOL,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KCHOL,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,10509091752.0
+KCHOL,2023/6,1AI,(Ara Toplam),(Subtotal),47767959304.0
+KCHOL,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,114458670.0
+KCHOL,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,29397671398.0
+KCHOL,2023/6,1B,Ticari Alacaklar,Trade Receivables,42907505.0
+KCHOL,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,9683489501.0
+KCHOL,2023/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+KCHOL,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2023/6,1BC,Finansal Yatırımlar,Financial Investments,11964236014.0
+KCHOL,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,1075470823.0
+KCHOL,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KCHOL,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,13645360.0
+KCHOL,2023/6,1BFA,Stoklar,Stoklar,0.0
+KCHOL,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KCHOL,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3672689180.0
+KCHOL,2023/6,1BGA,Şerefiye,Goodwill,309320593.0
+KCHOL,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,820113183.0
+KCHOL,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,889151746.0
+KCHOL,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,926647494.0
+KCHOL,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,77280089371.0
+KCHOL,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+KCHOL,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,56693532177.0
+KCHOL,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,9079112163.0
+KCHOL,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,5046966323.0
+KCHOL,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,602173980.0
+KCHOL,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KCHOL,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,37712875344.0
+KCHOL,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KCHOL,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),109046912.0
+KCHOL,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,370125553.0
+KCHOL,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,3669016916.0
+KCHOL,2023/6,2AAGG,(Ara Toplam),(Subtotal),56589317191.0
+KCHOL,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,104214986.0
+KCHOL,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,9398444506.0
+KCHOL,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,7503092433.0
+KCHOL,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+KCHOL,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KCHOL,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KCHOL,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,323197885.0
+KCHOL,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KCHOL,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,657180629.0
+KCHOL,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KCHOL,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,234986239.0
+KCHOL,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,679987321.0
+KCHOL,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,11188112688.0
+KCHOL,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6977610786.0
+KCHOL,2023/6,2OA,Ödenmiş Sermaye,Share Capital,98030120.0
+KCHOL,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+KCHOL,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,347899.0
+KCHOL,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KCHOL,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KCHOL,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,26401645.0
+KCHOL,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4705986950.0
+KCHOL,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1444629990.0
+KCHOL,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,702214182.0
+KCHOL,2023/6,2ODA,Azınlık Payları,Minority Interests,4210501902.0
+KCHOL,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,77280089371.0
+KCHOL,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KCHOL,2023/6,3C,Satış Gelirleri,Net Sales,37049851582.0
+KCHOL,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-30139982068.0
+KCHOL,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KCHOL,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,6909869514.0
+KCHOL,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",11703916287.0
+KCHOL,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-6598771099.0
+KCHOL,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KCHOL,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,5105145188.0
+KCHOL,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KCHOL,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),12015014702.0
+KCHOL,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2140872224.0
+KCHOL,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-2908669172.0
+KCHOL,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-120197115.0
+KCHOL,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1415043260.0
+KCHOL,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-2640346789.0
+KCHOL,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KCHOL,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,5619972662.0
+KCHOL,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,6845276191.0
+KCHOL,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,38230763.0
+KCHOL,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-4141245.0
+KCHOL,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KCHOL,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,803048035.0
+KCHOL,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,6457110214.0
+KCHOL,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),2740241702.0
+KCHOL,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-4762734919.0
+KCHOL,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,34089518.0
+KCHOL,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,4434616997.0
+KCHOL,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-1644074317.0
+KCHOL,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-680022752.0
+KCHOL,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-964051565.0
+KCHOL,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KCHOL,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,2790542680.0
+KCHOL,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KCHOL,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KCHOL,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,2790542680.0
+KCHOL,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KCHOL,2023/6,3LB,Azınlık Payları,Minority Interests,801229927.0
+KCHOL,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,1989312753.0
+KCHOL,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+KCHOL,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+KCHOL,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+KCHOL,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+KCHOL,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,964304080.0
+KCHOL,2023/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+KCHOL,2023/6,4BB,Finansman Giderleri,Financial Expenses,-4762734919.0
+KCHOL,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+KCHOL,2023/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+KCHOL,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-6057934586.0
+KCHOL,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1922497298.0
+KCHOL,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1249847982.0
+KCHOL,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,15602848075.0
+KCHOL,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,2562067156.0
+KCHOL,2023/6,4CAA,Düzeltmeler:,Adjustments:,7274248583.0
+KCHOL,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,885266901.0
+KCHOL,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,383620708.0
+KCHOL,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,811987064.0
+KCHOL,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),9836315738.0
+KCHOL,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,6191060466.0
+KCHOL,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),16027376204.0
+KCHOL,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-424528129.0
+KCHOL,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-2014160224.0
+KCHOL,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-7220058875.0
+KCHOL,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-9234219099.0
+KCHOL,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,6368628977.0
+KCHOL,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-629772278.0
+KCHOL,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-1579834515.0
+KCHOL,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KCHOL,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1464587.0
+KCHOL,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-2211071379.0
+KCHOL,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,4157557597.0
+KCHOL,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,4350984047.0
+KCHOL,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KCHOL,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,8508541644.0
+KCHOL,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KCHOL,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,18985992833.0
+KCHOL,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,23693679494.0
+KCHOL,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,54803325312.0
+KCHOL,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,9392364909.0
+KCHOL,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1439838110.0
+KCHOL,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,4793261868.0
+KCHOL,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,21168599140.0
+KCHOL,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,632465544.0
+KCHOL,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2023/9,1AF,Stoklar,Inventories,4230365347.0
+KCHOL,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KCHOL,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,12980675272.0
+KCHOL,2023/9,1AI,(Ara Toplam),(Subtotal),54637570189.0
+KCHOL,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,165755123.0
+KCHOL,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,30197221615.0
+KCHOL,2023/9,1B,Ticari Alacaklar,Trade Receivables,36461752.0
+KCHOL,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,9134835558.0
+KCHOL,2023/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+KCHOL,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2023/9,1BC,Finansal Yatırımlar,Financial Investments,12966746883.0
+KCHOL,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,1365529060.0
+KCHOL,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KCHOL,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,12798075.0
+KCHOL,2023/9,1BFA,Stoklar,Stoklar,0.0
+KCHOL,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KCHOL,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3803726391.0
+KCHOL,2023/9,1BGA,Şerefiye,Goodwill,303143003.0
+KCHOL,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,818092321.0
+KCHOL,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,822832349.0
+KCHOL,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,933056224.0
+KCHOL,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,85000546926.0
+KCHOL,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+KCHOL,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,61408408080.0
+KCHOL,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,10053489390.0
+KCHOL,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,6562386057.0
+KCHOL,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1216692190.0
+KCHOL,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KCHOL,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,38197403923.0
+KCHOL,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KCHOL,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),385838256.0
+KCHOL,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,386385182.0
+KCHOL,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,4451214176.0
+KCHOL,2023/9,2AAGG,(Ara Toplam),(Subtotal),61253409174.0
+KCHOL,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,154998906.0
+KCHOL,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,10858710712.0
+KCHOL,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,9038357763.0
+KCHOL,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+KCHOL,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KCHOL,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KCHOL,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,307700722.0
+KCHOL,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KCHOL,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,628345366.0
+KCHOL,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KCHOL,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,255487494.0
+KCHOL,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,628819368.0
+KCHOL,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,12733428134.0
+KCHOL,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7807846569.0
+KCHOL,2023/9,2OA,Ödenmiş Sermaye,Share Capital,92467002.0
+KCHOL,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+KCHOL,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,328156.0
+KCHOL,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KCHOL,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KCHOL,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,183110917.0
+KCHOL,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4205717203.0
+KCHOL,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),2686319551.0
+KCHOL,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,639903741.0
+KCHOL,2023/9,2ODA,Azınlık Payları,Minority Interests,4925581565.0
+KCHOL,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,85000546926.0
+KCHOL,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KCHOL,2023/9,3C,Satış Gelirleri,Net Sales,54891460885.0
+KCHOL,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-44362180861.0
+KCHOL,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KCHOL,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,10529280024.0
+KCHOL,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",16923455253.0
+KCHOL,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-9462743272.0
+KCHOL,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KCHOL,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,7460711981.0
+KCHOL,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KCHOL,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),17989992005.0
+KCHOL,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2988113802.0
+KCHOL,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-3830630986.0
+KCHOL,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-147664617.0
+KCHOL,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1770894272.0
+KCHOL,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-3315696808.0
+KCHOL,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KCHOL,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,9478780064.0
+KCHOL,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,11023582600.0
+KCHOL,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,82571459.0
+KCHOL,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-4234434.0
+KCHOL,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KCHOL,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1230103019.0
+KCHOL,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,10787220109.0
+KCHOL,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),3149112380.0
+KCHOL,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-6833835589.0
+KCHOL,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,78337025.0
+KCHOL,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,7102496900.0
+KCHOL,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-3624134768.0
+KCHOL,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1519531074.0
+KCHOL,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-2104603694.0
+KCHOL,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KCHOL,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,3478362132.0
+KCHOL,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KCHOL,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KCHOL,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,3478362132.0
+KCHOL,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KCHOL,2023/9,3LB,Azınlık Payları,Minority Interests,1096853496.0
+KCHOL,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,2381508636.0
+KCHOL,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+KCHOL,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+KCHOL,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+KCHOL,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+KCHOL,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,1247085802.0
+KCHOL,2023/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+KCHOL,2023/9,4BB,Finansman Giderleri,Financial Expenses,-6833835589.0
+KCHOL,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+KCHOL,2023/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+KCHOL,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-243344802.0
+KCHOL,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,63741743.0
+KCHOL,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1405471645.0
+KCHOL,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,19127523094.0
+KCHOL,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,3478362132.0
+KCHOL,2023/9,4CAA,Düzeltmeler:,Adjustments:,10609509031.0
+KCHOL,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1247085802.0
+KCHOL,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,470787954.0
+KCHOL,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,4796307129.0
+KCHOL,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),14087871163.0
+KCHOL,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,5828067467.0
+KCHOL,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),19915938630.0
+KCHOL,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-788415536.0
+KCHOL,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-2615033155.0
+KCHOL,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-6170290803.0
+KCHOL,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-8785323959.0
+KCHOL,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,10342199135.0
+KCHOL,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-495338660.0
+KCHOL,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-2003427754.0
+KCHOL,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KCHOL,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-169107069.0
+KCHOL,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-2667873483.0
+KCHOL,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,7674325652.0
+KCHOL,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,4640669163.0
+KCHOL,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KCHOL,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,12314994815.0
+KCHOL,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KCHOL,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,21862471810.0
+KCHOL,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,26888654638.0
+KCHOL,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,82996217208.0
+KCHOL,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,10901051203.0
+KCHOL,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2056838272.0
+KCHOL,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,6468085279.0
+KCHOL,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,35736278518.0
+KCHOL,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,684536275.0
+KCHOL,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2024/12,1AF,Stoklar,Inventories,5899099323.0
+KCHOL,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KCHOL,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,21250328338.0
+KCHOL,2024/12,1AI,(Ara Toplam),(Subtotal),82996217208.0
+KCHOL,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KCHOL,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,55697951083.0
+KCHOL,2024/12,1B,Ticari Alacaklar,Trade Receivables,46312398.0
+KCHOL,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,11930180108.0
+KCHOL,2024/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+KCHOL,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2024/12,1BC,Finansal Yatırımlar,Financial Investments,16964639387.0
+KCHOL,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,3535286155.0
+KCHOL,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KCHOL,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,98090013.0
+KCHOL,2024/12,1BFA,Stoklar,Stoklar,0.0
+KCHOL,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KCHOL,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,15113101668.0
+KCHOL,2024/12,1BGA,Şerefiye,Goodwill,2472123849.0
+KCHOL,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2928256605.0
+KCHOL,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1078777214.0
+KCHOL,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1531183686.0
+KCHOL,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,138694168291.0
+KCHOL,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+KCHOL,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,92435038740.0
+KCHOL,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,18678872382.0
+KCHOL,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,8892583658.0
+KCHOL,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1809732352.0
+KCHOL,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KCHOL,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,54237069971.0
+KCHOL,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KCHOL,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),126622709.0
+KCHOL,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,685707393.0
+KCHOL,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,8004450275.0
+KCHOL,2024/12,2AAGG,(Ara Toplam),(Subtotal),92435038740.0
+KCHOL,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KCHOL,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,15786494576.0
+KCHOL,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,12526953502.0
+KCHOL,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+KCHOL,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KCHOL,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KCHOL,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,471925107.0
+KCHOL,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KCHOL,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1213988122.0
+KCHOL,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KCHOL,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,858642500.0
+KCHOL,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,714985346.0
+KCHOL,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,30472634975.0
+KCHOL,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,18760424788.0
+KCHOL,2024/12,2OA,Ödenmiş Sermaye,Share Capital,71752330.0
+KCHOL,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+KCHOL,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,11746669.0
+KCHOL,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KCHOL,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KCHOL,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,540524237.0
+KCHOL,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),16696382365.0
+KCHOL,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),46347886.0
+KCHOL,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1375424978.0
+KCHOL,2024/12,2ODA,Azınlık Payları,Minority Interests,11712210187.0
+KCHOL,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,138694168291.0
+KCHOL,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KCHOL,2024/12,3C,Satış Gelirleri,Net Sales,61487256464.0
+KCHOL,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-52901989599.0
+KCHOL,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KCHOL,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,8585266865.0
+KCHOL,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",26953770542.0
+KCHOL,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-23030311178.0
+KCHOL,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KCHOL,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,3923459364.0
+KCHOL,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KCHOL,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),12508726230.0
+KCHOL,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-4210541757.0
+KCHOL,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-5054313691.0
+KCHOL,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-262739149.0
+KCHOL,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,2211076231.0
+KCHOL,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-2645286442.0
+KCHOL,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KCHOL,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2546921423.0
+KCHOL,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2981131633.0
+KCHOL,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,131560352.0
+KCHOL,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-36056999.0
+KCHOL,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KCHOL,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,786576757.0
+KCHOL,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3429001533.0
+KCHOL,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),2933627968.0
+KCHOL,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-5343418327.0
+KCHOL,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,95503353.0
+KCHOL,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1019211173.0
+KCHOL,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-1220977746.0
+KCHOL,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-543411408.0
+KCHOL,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-677566338.0
+KCHOL,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KCHOL,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-201766573.0
+KCHOL,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KCHOL,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-201766573.0
+KCHOL,2024/12,3LB,Azınlık Payları,Minority Interests,-251597727.0
+KCHOL,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,49831154.0
+KCHOL,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KCHOL,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KCHOL,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KCHOL,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KCHOL,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,2223247853.0
+KCHOL,2024/12,4BA,Kıdem Tazminatı,Severance Payments,66848532.0
+KCHOL,2024/12,4BB,Finansman Giderleri,Financial Expenses,-5343418327.0
+KCHOL,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,42006670994.0
+KCHOL,2024/12,4BD,Yurtdışı Satışlar,Export Sales,19480585470.0
+KCHOL,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-9508516819.0
+KCHOL,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-32622884683.0
+KCHOL,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2098441034.0
+KCHOL,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,4437796240.0
+KCHOL,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-201766573.0
+KCHOL,2024/12,4CAA,Düzeltmeler:,Adjustments:,7554723492.0
+KCHOL,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2223247853.0
+KCHOL,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,-171738151.0
+KCHOL,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1772020265.0
+KCHOL,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),7352956920.0
+KCHOL,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-2859377259.0
+KCHOL,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),4493579661.0
+KCHOL,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-55783421.0
+KCHOL,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-2634145020.0
+KCHOL,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1996870948.0
+KCHOL,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-4631015968.0
+KCHOL,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,-193219728.0
+KCHOL,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,3561935485.0
+KCHOL,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-2282160029.0
+KCHOL,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KCHOL,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-913596598.0
+KCHOL,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,366178857.0
+KCHOL,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,172959129.0
+KCHOL,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1557814982.0
+KCHOL,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KCHOL,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1730774110.0
+KCHOL,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KCHOL,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,24102444105.0
+KCHOL,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,19225019566.0
+KCHOL,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,60529687481.0
+KCHOL,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,8429457451.0
+KCHOL,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2079947810.0
+KCHOL,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,4660829345.0
+KCHOL,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,25732818858.0
+KCHOL,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,881379933.0
+KCHOL,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2024/3,1AF,Stoklar,Inventories,4494428573.0
+KCHOL,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KCHOL,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,14242075712.0
+KCHOL,2024/3,1AI,(Ara Toplam),(Subtotal),60520937682.0
+KCHOL,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,8749799.0
+KCHOL,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,39811802026.0
+KCHOL,2024/3,1B,Ticari Alacaklar,Trade Receivables,31969230.0
+KCHOL,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,9009479464.0
+KCHOL,2024/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+KCHOL,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2024/3,1BC,Finansal Yatırımlar,Financial Investments,13300869415.0
+KCHOL,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,2378523108.0
+KCHOL,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KCHOL,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,87714416.0
+KCHOL,2024/3,1BFA,Stoklar,Stoklar,0.0
+KCHOL,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KCHOL,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,9704021816.0
+KCHOL,2024/3,1BGA,Şerefiye,Goodwill,1711776055.0
+KCHOL,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1708467827.0
+KCHOL,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,735694233.0
+KCHOL,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1143286462.0
+KCHOL,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,100341489506.0
+KCHOL,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+KCHOL,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,65999053909.0
+KCHOL,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,12995615825.0
+KCHOL,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,6011699378.0
+KCHOL,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1006443315.0
+KCHOL,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KCHOL,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,40172615293.0
+KCHOL,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KCHOL,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),241160539.0
+KCHOL,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,401810559.0
+KCHOL,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,5169709000.0
+KCHOL,2024/3,2AAGG,(Ara Toplam),(Subtotal),65999053909.0
+KCHOL,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KCHOL,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,11000816236.0
+KCHOL,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,8510586329.0
+KCHOL,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+KCHOL,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KCHOL,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KCHOL,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,343313669.0
+KCHOL,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KCHOL,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,838929495.0
+KCHOL,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KCHOL,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,617494651.0
+KCHOL,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,690492091.0
+KCHOL,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,23341619362.0
+KCHOL,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,14230574209.0
+KCHOL,2024/3,2OA,Ödenmiş Sermaye,Share Capital,78408093.0
+KCHOL,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+KCHOL,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,8131439.0
+KCHOL,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KCHOL,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KCHOL,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,375282900.0
+KCHOL,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),12120543168.0
+KCHOL,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),41862996.0
+KCHOL,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1606345614.0
+KCHOL,2024/3,2ODA,Azınlık Payları,Minority Interests,9111045153.0
+KCHOL,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,100341489506.0
+KCHOL,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KCHOL,2024/3,3C,Satış Gelirleri,Net Sales,13906464251.0
+KCHOL,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-11955295748.0
+KCHOL,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KCHOL,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1951168503.0
+KCHOL,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",6185025539.0
+KCHOL,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-4807621828.0
+KCHOL,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KCHOL,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,1377403711.0
+KCHOL,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KCHOL,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),3328572214.0
+KCHOL,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-859839705.0
+KCHOL,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1155087619.0
+KCHOL,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-46091103.0
+KCHOL,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,372701640.0
+KCHOL,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-694951771.0
+KCHOL,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KCHOL,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,945303656.0
+KCHOL,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1267553787.0
+KCHOL,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,60205898.0
+KCHOL,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3133032.0
+KCHOL,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KCHOL,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,240016109.0
+KCHOL,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1242392631.0
+KCHOL,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),931253460.0
+KCHOL,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1803496097.0
+KCHOL,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,57072866.0
+KCHOL,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,370149995.0
+KCHOL,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-358716042.0
+KCHOL,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-168376259.0
+KCHOL,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-190339784.0
+KCHOL,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KCHOL,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,11433953.0
+KCHOL,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KCHOL,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KCHOL,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,11433953.0
+KCHOL,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KCHOL,2024/3,3LB,Azınlık Payları,Minority Interests,-76969235.0
+KCHOL,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,88403188.0
+KCHOL,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KCHOL,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KCHOL,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KCHOL,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KCHOL,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,383005117.0
+KCHOL,2024/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+KCHOL,2024/3,4BB,Finansman Giderleri,Financial Expenses,-1803496097.0
+KCHOL,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+KCHOL,2024/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+KCHOL,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-10453991916.0
+KCHOL,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1924618477.0
+KCHOL,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1357055152.0
+KCHOL,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-2620539227.0
+KCHOL,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,11433953.0
+KCHOL,2024/3,4CAA,Düzeltmeler:,Adjustments:,1437900303.0
+KCHOL,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,383005117.0
+KCHOL,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,-656644799.0
+KCHOL,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,729027534.0
+KCHOL,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1449334256.0
+KCHOL,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-4205918140.0
+KCHOL,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-2756583885.0
+KCHOL,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,136044658.0
+KCHOL,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-372055654.0
+KCHOL,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2571638084.0
+KCHOL,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-2943693738.0
+KCHOL,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-5564232965.0
+KCHOL,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1866899625.0
+KCHOL,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,-228356061.0
+KCHOL,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KCHOL,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-57686552.0
+KCHOL,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,1580857011.0
+KCHOL,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-3983375953.0
+KCHOL,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1393811757.0
+KCHOL,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KCHOL,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-2589564197.0
+KCHOL,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KCHOL,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,22456315447.0
+KCHOL,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,17225475872.0
+KCHOL,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,66828917480.0
+KCHOL,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,8756860968.0
+KCHOL,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2312978747.0
+KCHOL,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,5830477447.0
+KCHOL,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,28483273682.0
+KCHOL,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,551827108.0
+KCHOL,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2024/6,1AF,Stoklar,Inventories,5266790937.0
+KCHOL,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KCHOL,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,15626708590.0
+KCHOL,2024/6,1AI,(Ara Toplam),(Subtotal),66828917480.0
+KCHOL,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KCHOL,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,42243798901.0
+KCHOL,2024/6,1B,Ticari Alacaklar,Trade Receivables,33297552.0
+KCHOL,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,9093363904.0
+KCHOL,2024/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+KCHOL,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2024/6,1BC,Finansal Yatırımlar,Financial Investments,13466199183.0
+KCHOL,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,2453071737.0
+KCHOL,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KCHOL,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,100987371.0
+KCHOL,2024/6,1BFA,Stoklar,Stoklar,0.0
+KCHOL,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KCHOL,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,11036694207.0
+KCHOL,2024/6,1BGA,Şerefiye,Goodwill,1809927232.0
+KCHOL,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2083362475.0
+KCHOL,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,973839375.0
+KCHOL,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1193055864.0
+KCHOL,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,109072716381.0
+KCHOL,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+KCHOL,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,73074808501.0
+KCHOL,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,13807172202.0
+KCHOL,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,7802452768.0
+KCHOL,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,953039808.0
+KCHOL,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KCHOL,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,44168154160.0
+KCHOL,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KCHOL,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),258534969.0
+KCHOL,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,551857517.0
+KCHOL,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,5533597078.0
+KCHOL,2024/6,2AAGG,(Ara Toplam),(Subtotal),73074808501.0
+KCHOL,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KCHOL,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,11825983038.0
+KCHOL,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,9212322831.0
+KCHOL,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+KCHOL,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KCHOL,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KCHOL,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,369040270.0
+KCHOL,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KCHOL,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1033987830.0
+KCHOL,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KCHOL,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,578039428.0
+KCHOL,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,632592678.0
+KCHOL,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,24171924842.0
+KCHOL,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,14445877033.0
+KCHOL,2024/6,2OA,Ödenmiş Sermaye,Share Capital,77116523.0
+KCHOL,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+KCHOL,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,8666486.0
+KCHOL,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KCHOL,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KCHOL,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,400117986.0
+KCHOL,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),12387145624.0
+KCHOL,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),49627037.0
+KCHOL,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1523203377.0
+KCHOL,2024/6,2ODA,Azınlık Payları,Minority Interests,9726047809.0
+KCHOL,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,109072716381.0
+KCHOL,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KCHOL,2024/6,3C,Satış Gelirleri,Net Sales,30087600835.0
+KCHOL,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-25766896783.0
+KCHOL,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KCHOL,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,4320704052.0
+KCHOL,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",13035099478.0
+KCHOL,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-10768254900.0
+KCHOL,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KCHOL,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,2266844578.0
+KCHOL,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KCHOL,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),6587548629.0
+KCHOL,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2060279069.0
+KCHOL,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-2422432805.0
+KCHOL,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-114192904.0
+KCHOL,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1411457187.0
+KCHOL,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1032289941.0
+KCHOL,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KCHOL,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2369811096.0
+KCHOL,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1990643850.0
+KCHOL,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,115489473.0
+KCHOL,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-17266498.0
+KCHOL,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KCHOL,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,405762713.0
+KCHOL,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,2873796783.0
+KCHOL,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1534473082.0
+KCHOL,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-2997698140.0
+KCHOL,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,98222975.0
+KCHOL,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1410571725.0
+KCHOL,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-750270467.0
+KCHOL,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-541744294.0
+KCHOL,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-208526173.0
+KCHOL,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KCHOL,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,660301258.0
+KCHOL,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KCHOL,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KCHOL,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,660301258.0
+KCHOL,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KCHOL,2024/6,3LB,Azınlık Payları,Minority Interests,256847070.0
+KCHOL,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,403454188.0
+KCHOL,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KCHOL,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KCHOL,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KCHOL,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KCHOL,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,948234350.0
+KCHOL,2024/6,4BA,Kıdem Tazminatı,Severance Payments,46644845.0
+KCHOL,2024/6,4BB,Finansman Giderleri,Financial Expenses,-2997698140.0
+KCHOL,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+KCHOL,2024/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+KCHOL,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-7920357864.0
+KCHOL,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2585420961.0
+KCHOL,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2004463374.0
+KCHOL,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1903014790.0
+KCHOL,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,660301258.0
+KCHOL,2024/6,4CAA,Düzeltmeler:,Adjustments:,4793919953.0
+KCHOL,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,948234350.0
+KCHOL,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,243059170.0
+KCHOL,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,619633278.0
+KCHOL,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),5454221211.0
+KCHOL,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-3601266618.0
+KCHOL,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1852954594.0
+KCHOL,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,50060196.0
+KCHOL,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1338027133.0
+KCHOL,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2141678276.0
+KCHOL,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-3479705409.0
+KCHOL,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,-1576690619.0
+KCHOL,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1653978755.0
+KCHOL,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-1740279623.0
+KCHOL,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KCHOL,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-276358846.0
+KCHOL,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-362659714.0
+KCHOL,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-1939350333.0
+KCHOL,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,983810926.0
+KCHOL,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KCHOL,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-955539407.0
+KCHOL,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KCHOL,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,23307242973.0
+KCHOL,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,18272888610.0
+KCHOL,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,69139120895.0
+KCHOL,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,9647626710.0
+KCHOL,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1852088057.0
+KCHOL,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,5575952607.0
+KCHOL,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,28382681197.0
+KCHOL,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,739647480.0
+KCHOL,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2024/9,1AF,Stoklar,Inventories,5251254297.0
+KCHOL,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KCHOL,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,17689870548.0
+KCHOL,2024/9,1AI,(Ara Toplam),(Subtotal),69139120895.0
+KCHOL,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KCHOL,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,43522650479.0
+KCHOL,2024/9,1B,Ticari Alacaklar,Trade Receivables,41366196.0
+KCHOL,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,9385826081.0
+KCHOL,2024/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+KCHOL,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2024/9,1BC,Finansal Yatırımlar,Financial Investments,13317545528.0
+KCHOL,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,2684648577.0
+KCHOL,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KCHOL,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,105229284.0
+KCHOL,2024/9,1BFA,Stoklar,Stoklar,0.0
+KCHOL,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KCHOL,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,11633467418.0
+KCHOL,2024/9,1BGA,Şerefiye,Goodwill,1887252249.0
+KCHOL,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2305448695.0
+KCHOL,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,944459884.0
+KCHOL,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1217406568.0
+KCHOL,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,112661771374.0
+KCHOL,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+KCHOL,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,75024998172.0
+KCHOL,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,13731734074.0
+KCHOL,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,7163080524.0
+KCHOL,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1601755284.0
+KCHOL,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KCHOL,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,45411482484.0
+KCHOL,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KCHOL,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),115234404.0
+KCHOL,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,573831639.0
+KCHOL,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,6427879763.0
+KCHOL,2024/9,2AAGG,(Ara Toplam),(Subtotal),75024998172.0
+KCHOL,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KCHOL,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,13010224530.0
+KCHOL,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,10256329993.0
+KCHOL,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+KCHOL,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KCHOL,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KCHOL,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,408776421.0
+KCHOL,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KCHOL,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1017830761.0
+KCHOL,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KCHOL,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,730695531.0
+KCHOL,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,596591823.0
+KCHOL,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,24626548673.0
+KCHOL,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,14912162656.0
+KCHOL,2024/9,2OA,Ödenmiş Sermaye,Share Capital,74190010.0
+KCHOL,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+KCHOL,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,9098223.0
+KCHOL,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KCHOL,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KCHOL,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,419278871.0
+KCHOL,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),12974621517.0
+KCHOL,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-55730271.0
+KCHOL,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1490704308.0
+KCHOL,2024/9,2ODA,Azınlık Payları,Minority Interests,9714386016.0
+KCHOL,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,112661771374.0
+KCHOL,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KCHOL,2024/9,3C,Satış Gelirleri,Net Sales,47916790582.0
+KCHOL,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-40992131351.0
+KCHOL,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KCHOL,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,6924659232.0
+KCHOL,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",20650960347.0
+KCHOL,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-17638011152.0
+KCHOL,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KCHOL,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,3012949195.0
+KCHOL,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KCHOL,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),9937608426.0
+KCHOL,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-3228345725.0
+KCHOL,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-3847800496.0
+KCHOL,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-204646840.0
+KCHOL,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1856691450.0
+KCHOL,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1703903346.0
+KCHOL,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KCHOL,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2809603470.0
+KCHOL,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2656815366.0
+KCHOL,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,136679058.0
+KCHOL,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-20724907.0
+KCHOL,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KCHOL,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,616635688.0
+KCHOL,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3542193309.0
+KCHOL,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),2342627014.0
+KCHOL,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-4495167286.0
+KCHOL,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,115954151.0
+KCHOL,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1389653036.0
+KCHOL,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-943618340.0
+KCHOL,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-499969021.0
+KCHOL,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-443649318.0
+KCHOL,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KCHOL,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,446034696.0
+KCHOL,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KCHOL,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KCHOL,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,446034696.0
+KCHOL,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KCHOL,2024/9,3LB,Azınlık Payları,Minority Interests,157930607.0
+KCHOL,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,288104089.0
+KCHOL,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KCHOL,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KCHOL,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KCHOL,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KCHOL,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,1536741016.0
+KCHOL,2024/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+KCHOL,2024/9,4BB,Finansman Giderleri,Financial Expenses,-4495167286.0
+KCHOL,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+KCHOL,2024/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+KCHOL,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-7714157373.0
+KCHOL,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2427695167.0
+KCHOL,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1511710037.0
+KCHOL,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,3536957869.0
+KCHOL,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,446034696.0
+KCHOL,2024/9,4CAA,Düzeltmeler:,Adjustments:,5096220570.0
+KCHOL,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1536741016.0
+KCHOL,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,118928129.0
+KCHOL,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-162298637.0
+KCHOL,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),5542255266.0
+KCHOL,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1922676580.0
+KCHOL,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),3619578686.0
+KCHOL,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-82620818.0
+KCHOL,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1739343247.0
+KCHOL,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1505297398.0
+KCHOL,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-3244640644.0
+KCHOL,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,292317224.0
+KCHOL,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,3613135068.0
+KCHOL,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-2311028501.0
+KCHOL,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KCHOL,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-533116481.0
+KCHOL,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,768990087.0
+KCHOL,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1061307311.0
+KCHOL,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1574473358.0
+KCHOL,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KCHOL,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,2635780669.0
+KCHOL,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KCHOL,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,24545291202.0
+KCHOL,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,21417750929.0
+KCHOL,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,66810859102.0
+KCHOL,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,8601432057.0
+KCHOL,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1061117469.0
+KCHOL,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,5417445293.0
+KCHOL,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,28606876938.0
+KCHOL,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,800212509.0
+KCHOL,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2025/3,1AF,Stoklar,Inventories,5156355313.0
+KCHOL,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KCHOL,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,17167419523.0
+KCHOL,2025/3,1AI,(Ara Toplam),(Subtotal),66810859102.0
+KCHOL,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KCHOL,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,44445824754.0
+KCHOL,2025/3,1B,Ticari Alacaklar,Trade Receivables,41920299.0
+KCHOL,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,9876670799.0
+KCHOL,2025/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+KCHOL,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2025/3,1BC,Finansal Yatırımlar,Financial Investments,12338972926.0
+KCHOL,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,2727462553.0
+KCHOL,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KCHOL,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,80060898.0
+KCHOL,2025/3,1BFA,Stoklar,Stoklar,0.0
+KCHOL,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KCHOL,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,12376056267.0
+KCHOL,2025/3,1BGA,Şerefiye,Goodwill,2023857038.0
+KCHOL,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2963759823.0
+KCHOL,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,778565142.0
+KCHOL,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1238499010.0
+KCHOL,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,111256683856.0
+KCHOL,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+KCHOL,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,73575040242.0
+KCHOL,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,14414609198.0
+KCHOL,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,6631098729.0
+KCHOL,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1914562943.0
+KCHOL,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KCHOL,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,43374901212.0
+KCHOL,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KCHOL,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),114316073.0
+KCHOL,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,594364284.0
+KCHOL,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,6531187803.0
+KCHOL,2025/3,2AAGG,(Ara Toplam),(Subtotal),73575040242.0
+KCHOL,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KCHOL,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,13449860838.0
+KCHOL,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,10546496906.0
+KCHOL,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+KCHOL,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,251019594.0
+KCHOL,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KCHOL,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,350084713.0
+KCHOL,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KCHOL,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,968765941.0
+KCHOL,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KCHOL,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,720468788.0
+KCHOL,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,613024896.0
+KCHOL,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,24231782776.0
+KCHOL,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,15176575381.0
+KCHOL,2025/3,2OA,Ödenmiş Sermaye,Share Capital,67030187.0
+KCHOL,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+KCHOL,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,9621052.0
+KCHOL,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KCHOL,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KCHOL,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,443097027.0
+KCHOL,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),13718880258.0
+KCHOL,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-37400519.0
+KCHOL,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,975347375.0
+KCHOL,2025/3,2ODA,Azınlık Payları,Minority Interests,9055207394.0
+KCHOL,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,111256683856.0
+KCHOL,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KCHOL,2025/3,3C,Satış Gelirleri,Net Sales,9697538078.0
+KCHOL,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-8169447186.0
+KCHOL,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KCHOL,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1528090891.0
+KCHOL,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",5150335440.0
+KCHOL,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-4138549617.0
+KCHOL,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KCHOL,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,1011785823.0
+KCHOL,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KCHOL,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2539876714.0
+KCHOL,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-769727311.0
+KCHOL,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1062122740.0
+KCHOL,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-51495356.0
+KCHOL,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,357433484.0
+KCHOL,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-597726755.0
+KCHOL,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KCHOL,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,416238035.0
+KCHOL,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,656531307.0
+KCHOL,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,7254032.0
+KCHOL,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3833880.0
+KCHOL,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KCHOL,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,66031002.0
+KCHOL,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,485689190.0
+KCHOL,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),476835409.0
+KCHOL,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-778553511.0
+KCHOL,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,3420152.0
+KCHOL,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,183971089.0
+KCHOL,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-266413305.0
+KCHOL,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-73147125.0
+KCHOL,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-193266179.0
+KCHOL,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KCHOL,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-82442216.0
+KCHOL,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KCHOL,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KCHOL,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-82442216.0
+KCHOL,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KCHOL,2025/3,3LB,Azınlık Payları,Minority Interests,-43413867.0
+KCHOL,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,-39028349.0
+KCHOL,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KCHOL,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KCHOL,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KCHOL,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KCHOL,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,419051386.0
+KCHOL,2025/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+KCHOL,2025/3,4BB,Finansman Giderleri,Financial Expenses,-778553511.0
+KCHOL,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+KCHOL,2025/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+KCHOL,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-8301398864.0
+KCHOL,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1715757951.0
+KCHOL,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2605383661.0
+KCHOL,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-369624671.0
+KCHOL,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-82442216.0
+KCHOL,2025/3,4CAA,Düzeltmeler:,Adjustments:,1417239346.0
+KCHOL,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,419051386.0
+KCHOL,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,11805041.0
+KCHOL,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1075003474.0
+KCHOL,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1334797130.0
+KCHOL,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1852398546.0
+KCHOL,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-517601416.0
+KCHOL,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,147976745.0
+KCHOL,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-403605538.0
+KCHOL,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,901072187.0
+KCHOL,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,497466650.0
+KCHOL,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,127841978.0
+KCHOL,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,394144956.0
+KCHOL,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,-463871929.0
+KCHOL,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KCHOL,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-182674741.0
+KCHOL,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-252401714.0
+KCHOL,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-124559735.0
+KCHOL,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,567634933.0
+KCHOL,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KCHOL,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,443075197.0
+KCHOL,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KCHOL,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,15295858288.0
+KCHOL,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,14564138797.0
+KCHOL,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,69838065527.0
+KCHOL,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,7814901890.0
+KCHOL,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1146527213.0
+KCHOL,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,6220574494.0
+KCHOL,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,30538400096.0
+KCHOL,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,809471421.0
+KCHOL,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2025/6,1AF,Stoklar,Inventories,4844445449.0
+KCHOL,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KCHOL,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,18376058715.0
+KCHOL,2025/6,1AI,(Ara Toplam),(Subtotal),69750379279.0
+KCHOL,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,87686249.0
+KCHOL,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,47203434106.0
+KCHOL,2025/6,1B,Ticari Alacaklar,Trade Receivables,40439662.0
+KCHOL,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,10782394430.0
+KCHOL,2025/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+KCHOL,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2025/6,1BC,Finansal Yatırımlar,Financial Investments,13846138389.0
+KCHOL,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,2853533070.0
+KCHOL,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KCHOL,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,78719193.0
+KCHOL,2025/6,1BFA,Stoklar,Stoklar,0.0
+KCHOL,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KCHOL,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,12594241995.0
+KCHOL,2025/6,1BGA,Şerefiye,Goodwill,2037932905.0
+KCHOL,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2998889793.0
+KCHOL,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,830645728.0
+KCHOL,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1140498940.0
+KCHOL,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,117041499633.0
+KCHOL,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+KCHOL,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,78379751032.0
+KCHOL,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,15247360119.0
+KCHOL,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,7086485618.0
+KCHOL,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1832745577.0
+KCHOL,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KCHOL,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,46172247842.0
+KCHOL,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KCHOL,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),79497845.0
+KCHOL,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,512151993.0
+KCHOL,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,7449262039.0
+KCHOL,2025/6,2AAGG,(Ara Toplam),(Subtotal),78379751032.0
+KCHOL,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KCHOL,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,14564256362.0
+KCHOL,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,11217007766.0
+KCHOL,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+KCHOL,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,255598758.0
+KCHOL,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KCHOL,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,362424772.0
+KCHOL,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KCHOL,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1037641539.0
+KCHOL,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KCHOL,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,844209342.0
+KCHOL,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,847374185.0
+KCHOL,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,24097492239.0
+KCHOL,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,14949613688.0
+KCHOL,2025/6,2OA,Ödenmiş Sermaye,Share Capital,63698747.0
+KCHOL,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+KCHOL,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,9695472.0
+KCHOL,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KCHOL,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KCHOL,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,446368468.0
+KCHOL,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),13365634827.0
+KCHOL,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),156609499.0
+KCHOL,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,907606675.0
+KCHOL,2025/6,2ODA,Azınlık Payları,Minority Interests,9147878550.0
+KCHOL,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,117041499633.0
+KCHOL,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KCHOL,2025/6,3C,Satış Gelirleri,Net Sales,20785182258.0
+KCHOL,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-17397978636.0
+KCHOL,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KCHOL,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,3387203622.0
+KCHOL,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",10626132503.0
+KCHOL,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-8629559180.0
+KCHOL,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KCHOL,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,1996573322.0
+KCHOL,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KCHOL,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),5383776945.0
+KCHOL,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1624091639.0
+KCHOL,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-2120787240.0
+KCHOL,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-112262063.0
+KCHOL,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,678827993.0
+KCHOL,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1119605989.0
+KCHOL,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KCHOL,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1085858007.0
+KCHOL,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1526636003.0
+KCHOL,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,18834842.0
+KCHOL,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-4561980.0
+KCHOL,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KCHOL,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,160709760.0
+KCHOL,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1260840628.0
+KCHOL,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),975383386.0
+KCHOL,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1571882310.0
+KCHOL,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,14272862.0
+KCHOL,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,664341705.0
+KCHOL,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-410124690.0
+KCHOL,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-63200767.0
+KCHOL,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-346923923.0
+KCHOL,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KCHOL,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,254217015.0
+KCHOL,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KCHOL,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KCHOL,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,254217015.0
+KCHOL,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KCHOL,2025/6,3LB,Azınlık Payları,Minority Interests,87878145.0
+KCHOL,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,166338870.0
+KCHOL,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KCHOL,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KCHOL,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KCHOL,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KCHOL,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,874246152.0
+KCHOL,2025/6,4BA,Kıdem Tazminatı,Severance Payments,-40497579.0
+KCHOL,2025/6,4BB,Finansman Giderleri,Financial Expenses,-1571882310.0
+KCHOL,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+KCHOL,2025/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+KCHOL,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-9972888948.0
+KCHOL,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-3194266540.0
+KCHOL,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2168941476.0
+KCHOL,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-1362458071.0
+KCHOL,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,254217015.0
+KCHOL,2025/6,4CAA,Düzeltmeler:,Adjustments:,1020683050.0
+KCHOL,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,874246152.0
+KCHOL,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,-66428835.0
+KCHOL,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,838737405.0
+KCHOL,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1274900065.0
+KCHOL,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-2770615979.0
+KCHOL,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-1495715915.0
+KCHOL,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,133257843.0
+KCHOL,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1006116727.0
+KCHOL,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-245920080.0
+KCHOL,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1252036807.0
+KCHOL,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,-2614494878.0
+KCHOL,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,2304973857.0
+KCHOL,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-784340460.0
+KCHOL,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KCHOL,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-303945267.0
+KCHOL,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,1216688130.0
+KCHOL,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-1397806748.0
+KCHOL,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1125688629.0
+KCHOL,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KCHOL,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-272118119.0
+KCHOL,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KCHOL,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,15683394383.0
+KCHOL,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,13569143313.0
+KCHOL,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,74068337919.0
+KCHOL,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,9018604383.0
+KCHOL,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1692527464.0
+KCHOL,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,5857061777.0
+KCHOL,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,31917578929.0
+KCHOL,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,995993420.0
+KCHOL,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2025/9,1AF,Stoklar,Inventories,5032009350.0
+KCHOL,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KCHOL,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,19434293053.0
+KCHOL,2025/9,1AI,(Ara Toplam),(Subtotal),73948068376.0
+KCHOL,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,120269542.0
+KCHOL,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,48726095196.0
+KCHOL,2025/9,1B,Ticari Alacaklar,Trade Receivables,45380649.0
+KCHOL,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,11406535583.0
+KCHOL,2025/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+KCHOL,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KCHOL,2025/9,1BC,Finansal Yatırımlar,Financial Investments,14227518903.0
+KCHOL,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,3021624949.0
+KCHOL,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KCHOL,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,59184832.0
+KCHOL,2025/9,1BFA,Stoklar,Stoklar,0.0
+KCHOL,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KCHOL,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,12896954422.0
+KCHOL,2025/9,1BGA,Şerefiye,Goodwill,2090924832.0
+KCHOL,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3056929026.0
+KCHOL,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,720679339.0
+KCHOL,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1200362660.0
+KCHOL,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,122794433115.0
+KCHOL,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+KCHOL,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,82471285376.0
+KCHOL,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,17109202147.0
+KCHOL,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,7211026031.0
+KCHOL,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,2106364353.0
+KCHOL,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KCHOL,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,47422129019.0
+KCHOL,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KCHOL,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),88620928.0
+KCHOL,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,484204552.0
+KCHOL,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,8049738346.0
+KCHOL,2025/9,2AAGG,(Ara Toplam),(Subtotal),82471285376.0
+KCHOL,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KCHOL,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,15316654482.0
+KCHOL,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,11999490159.0
+KCHOL,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KCHOL,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+KCHOL,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,260042904.0
+KCHOL,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KCHOL,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,328799277.0
+KCHOL,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KCHOL,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+KCHOL,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1018767917.0
+KCHOL,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KCHOL,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,908887585.0
+KCHOL,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,800666641.0
+KCHOL,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,25006493257.0
+KCHOL,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,15499355484.0
+KCHOL,2025/9,2OA,Ödenmiş Sermaye,Share Capital,60988514.0
+KCHOL,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+KCHOL,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,9980376.0
+KCHOL,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KCHOL,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KCHOL,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,459458030.0
+KCHOL,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),13741510668.0
+KCHOL,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),345152664.0
+KCHOL,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,882265233.0
+KCHOL,2025/9,2ODA,Azınlık Payları,Minority Interests,9507137772.0
+KCHOL,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,122794433115.0
+KCHOL,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KCHOL,2025/9,3C,Satış Gelirleri,Net Sales,33708154024.0
+KCHOL,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-28189868208.0
+KCHOL,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KCHOL,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,5518285816.0
+KCHOL,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",16881097618.0
+KCHOL,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-13844333514.0
+KCHOL,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KCHOL,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,3036764104.0
+KCHOL,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KCHOL,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),8555049920.0
+KCHOL,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2558727141.0
+KCHOL,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-3255775949.0
+KCHOL,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-172683412.0
+KCHOL,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,959231507.0
+KCHOL,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1705119285.0
+KCHOL,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KCHOL,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1821975641.0
+KCHOL,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2567863418.0
+KCHOL,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,24924180.0
+KCHOL,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1138799.0
+KCHOL,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KCHOL,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,277323555.0
+KCHOL,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,2123084576.0
+KCHOL,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1469620729.0
+KCHOL,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-2267349765.0
+KCHOL,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,23785380.0
+KCHOL,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1325355540.0
+KCHOL,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-722568270.0
+KCHOL,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-188781896.0
+KCHOL,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-533786374.0
+KCHOL,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KCHOL,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,602787270.0
+KCHOL,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KCHOL,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KCHOL,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,602787270.0
+KCHOL,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KCHOL,2025/9,3LB,Azınlık Payları,Minority Interests,231331585.0
+KCHOL,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,371455685.0
+KCHOL,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KCHOL,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KCHOL,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KCHOL,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KCHOL,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,1396944617.0
+KCHOL,2025/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+KCHOL,2025/9,4BB,Finansman Giderleri,Financial Expenses,-2267349765.0
+KCHOL,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+KCHOL,2025/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+KCHOL,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-10904626184.0
+KCHOL,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1469983074.0
+KCHOL,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2850078635.0
+KCHOL,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-1208965057.0
+KCHOL,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,602787270.0
+KCHOL,2025/9,4CAA,Düzeltmeler:,Adjustments:,851252611.0
+KCHOL,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1396944617.0
+KCHOL,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,-172269303.0
+KCHOL,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,427903905.0
+KCHOL,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1454039881.0
+KCHOL,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-2686427973.0
+KCHOL,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-1232388092.0
+KCHOL,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,23423035.0
+KCHOL,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1430849783.0
+KCHOL,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-862718251.0
+KCHOL,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-2293568034.0
+KCHOL,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,-3502533091.0
+KCHOL,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,6114084999.0
+KCHOL,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-1013505655.0
+KCHOL,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KCHOL,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-625796196.0
+KCHOL,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,4474783147.0
+KCHOL,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,972250056.0
+KCHOL,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1482225169.0
+KCHOL,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KCHOL,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,2454475225.0
+KCHOL,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KCHOL,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,16357042803.0
+KCHOL,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,16009346616.0

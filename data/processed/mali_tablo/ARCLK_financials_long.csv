@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+ARCLK,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,8221121930.0
+ARCLK,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2157671898.0
+ARCLK,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ARCLK,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,2986796124.0
+ARCLK,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ARCLK,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,20938981.0
+ARCLK,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2022/12,1AF,Stoklar,Inventories,2715699498.0
+ARCLK,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ARCLK,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,340015428.0
+ARCLK,2022/12,1AI,(Ara Toplam),(Subtotal),8221121930.0
+ARCLK,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ARCLK,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,4186644405.0
+ARCLK,2022/12,1B,Ticari Alacaklar,Trade Receivables,3728539.0
+ARCLK,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ARCLK,2022/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+ARCLK,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2022/12,1BC,Finansal Yatırımlar,Financial Investments,7730301.0
+ARCLK,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,109434978.0
+ARCLK,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ARCLK,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ARCLK,2022/12,1BFA,Stoklar,Stoklar,0.0
+ARCLK,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ARCLK,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2366189996.0
+ARCLK,2022/12,1BGA,Şerefiye,Goodwill,403130739.0
+ARCLK,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1019397929.0
+ARCLK,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,204202114.0
+ARCLK,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,72829810.0
+ARCLK,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,12407766336.0
+ARCLK,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ARCLK,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,6986988362.0
+ARCLK,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,3098891042.0
+ARCLK,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2720382340.0
+ARCLK,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,154597107.0
+ARCLK,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ARCLK,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ARCLK,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ARCLK,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4421471.0
+ARCLK,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,340171578.0
+ARCLK,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,668524824.0
+ARCLK,2022/12,2AAGG,(Ara Toplam),(Subtotal),6986988362.0
+ARCLK,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ARCLK,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2322368300.0
+ARCLK,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,1425867499.0
+ARCLK,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ARCLK,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ARCLK,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ARCLK,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ARCLK,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ARCLK,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,280698003.0
+ARCLK,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ARCLK,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,180371450.0
+ARCLK,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,435431347.0
+ARCLK,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3098409673.0
+ARCLK,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2818130952.0
+ARCLK,2022/12,2OA,Ödenmiş Sermaye,Share Capital,36073457.0
+ARCLK,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ARCLK,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ARCLK,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ARCLK,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,1369332746.0
+ARCLK,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,695103299.0
+ARCLK,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),381599402.0
+ARCLK,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),335548687.0
+ARCLK,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,473361.0
+ARCLK,2022/12,2ODA,Azınlık Payları,Minority Interests,280278721.0
+ARCLK,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,12407766336.0
+ARCLK,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ARCLK,2022/12,3C,Satış Gelirleri,Net Sales,15478294563.0
+ARCLK,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-11345253713.0
+ARCLK,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ARCLK,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,4133040850.0
+ARCLK,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ARCLK,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ARCLK,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ARCLK,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),4133040850.0
+ARCLK,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2801820583.0
+ARCLK,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-728226313.0
+ARCLK,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-112024183.0
+ARCLK,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,710801106.0
+ARCLK,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-635931218.0
+ARCLK,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ARCLK,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,565839659.0
+ARCLK,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,490969771.0
+ARCLK,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,167472296.0
+ARCLK,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-10440138.0
+ARCLK,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ARCLK,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-44548692.0
+ARCLK,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,678323126.0
+ARCLK,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),855594633.0
+ARCLK,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1098217709.0
+ARCLK,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,157032159.0
+ARCLK,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,435700050.0
+ARCLK,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-13902429.0
+ARCLK,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-115189995.0
+ARCLK,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,101287566.0
+ARCLK,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ARCLK,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,421797621.0
+ARCLK,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ARCLK,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ARCLK,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,421797621.0
+ARCLK,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ARCLK,2022/12,3LB,Azınlık Payları,Minority Interests,43495247.0
+ARCLK,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,378302374.0
+ARCLK,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+ARCLK,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+ARCLK,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+ARCLK,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+ARCLK,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,485273235.0
+ARCLK,2022/12,4BA,Kıdem Tazminatı,Severance Payments,28938952.0
+ARCLK,2022/12,4BB,Finansman Giderleri,Financial Expenses,-1098217709.0
+ARCLK,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,4696153818.0
+ARCLK,2022/12,4BD,Yurtdışı Satışlar,Export Sales,10782140745.0
+ARCLK,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1313800236.0
+ARCLK,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1313800176.0
+ARCLK,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-45893861.0
+ARCLK,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-174374068.0
+ARCLK,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,421797621.0
+ARCLK,2022/12,4CAA,Düzeltmeler:,Adjustments:,-672984941.0
+ARCLK,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,485273235.0
+ARCLK,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,165234079.0
+ARCLK,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-1323492255.0
+ARCLK,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-251187319.0
+ARCLK,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,164670011.0
+ARCLK,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-86517308.0
+ARCLK,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-87856759.0
+ARCLK,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-592789567.0
+ARCLK,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,123631819.0
+ARCLK,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-469157747.0
+ARCLK,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,-643531815.0
+ARCLK,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1434730161.0
+ARCLK,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-220095916.0
+ARCLK,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ARCLK,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-757557200.0
+ARCLK,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,457077045.0
+ARCLK,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-186454770.0
+ARCLK,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,5684197.0
+ARCLK,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ARCLK,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-180770573.0
+ARCLK,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ARCLK,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2608282038.0
+ARCLK,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2427511465.0
+ARCLK,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,5023190712.0
+ARCLK,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1138504177.0
+ARCLK,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ARCLK,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1972666007.0
+ARCLK,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ARCLK,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+ARCLK,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2022/3,1AF,Stoklar,Inventories,1594885259.0
+ARCLK,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ARCLK,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,317135268.0
+ARCLK,2022/3,1AI,(Ara Toplam),(Subtotal),5023190712.0
+ARCLK,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ARCLK,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1960824496.0
+ARCLK,2022/3,1B,Ticari Alacaklar,Trade Receivables,3397552.0
+ARCLK,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ARCLK,2022/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+ARCLK,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2022/3,1BC,Finansal Yatırımlar,Financial Investments,753231.0
+ARCLK,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,56998875.0
+ARCLK,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ARCLK,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ARCLK,2022/3,1BFA,Stoklar,Stoklar,0.0
+ARCLK,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ARCLK,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,980519112.0
+ARCLK,2022/3,1BGA,Şerefiye,Goodwill,223066867.0
+ARCLK,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,559407577.0
+ARCLK,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,128330071.0
+ARCLK,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,8351212.0
+ARCLK,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,6984015208.0
+ARCLK,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ARCLK,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3779074300.0
+ARCLK,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1317619395.0
+ARCLK,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1865412828.0
+ARCLK,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,89332288.0
+ARCLK,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ARCLK,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ARCLK,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ARCLK,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4908651.0
+ARCLK,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,180421932.0
+ARCLK,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,321379207.0
+ARCLK,2022/3,2AAGG,(Ara Toplam),(Subtotal),3779074300.0
+ARCLK,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ARCLK,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1669144952.0
+ARCLK,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,1359166434.0
+ARCLK,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ARCLK,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ARCLK,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ARCLK,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ARCLK,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ARCLK,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,38711767.0
+ARCLK,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ARCLK,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,113668701.0
+ARCLK,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,157598050.0
+ARCLK,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1535795956.0
+ARCLK,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1403890204.0
+ARCLK,2022/3,2OA,Ödenmiş Sermaye,Share Capital,46082313.0
+ARCLK,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ARCLK,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ARCLK,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ARCLK,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+ARCLK,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,203486753.0
+ARCLK,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),401891908.0
+ARCLK,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),79488867.0
+ARCLK,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,672940362.0
+ARCLK,2022/3,2ODA,Azınlık Payları,Minority Interests,131905752.0
+ARCLK,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,6984015208.0
+ARCLK,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ARCLK,2022/3,3C,Satış Gelirleri,Net Sales,2015674640.0
+ARCLK,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1393989225.0
+ARCLK,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ARCLK,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,621685415.0
+ARCLK,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ARCLK,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ARCLK,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ARCLK,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),621685415.0
+ARCLK,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-352769676.0
+ARCLK,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-93908337.0
+ARCLK,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-11062795.0
+ARCLK,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,136066722.0
+ARCLK,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-105210457.0
+ARCLK,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ARCLK,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,194800871.0
+ARCLK,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,163944606.0
+ARCLK,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,336442.0
+ARCLK,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1516244.0
+ARCLK,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ARCLK,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-626078.0
+ARCLK,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,192994991.0
+ARCLK,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),141230080.0
+ARCLK,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-230347572.0
+ARCLK,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-1179802.0
+ARCLK,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,103877499.0
+ARCLK,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-16252133.0
+ARCLK,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-25234083.0
+ARCLK,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,8981950.0
+ARCLK,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ARCLK,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,87625366.0
+ARCLK,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ARCLK,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ARCLK,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,87625366.0
+ARCLK,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ARCLK,2022/3,3LB,Azınlık Payları,Minority Interests,4206563.0
+ARCLK,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,83418803.0
+ARCLK,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ARCLK,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ARCLK,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ARCLK,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ARCLK,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,50896073.0
+ARCLK,2022/3,4BA,Kıdem Tazminatı,Severance Payments,4900631.0
+ARCLK,2022/3,4BB,Finansman Giderleri,Financial Expenses,-230347572.0
+ARCLK,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,599658803.0
+ARCLK,2022/3,4BD,Yurtdışı Satışlar,Export Sales,1416015837.0
+ARCLK,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-526989899.0
+ARCLK,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-526989899.0
+ARCLK,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-41124081.0
+ARCLK,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-74512787.0
+ARCLK,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,87625366.0
+ARCLK,2022/3,4CAA,Düzeltmeler:,Adjustments:,221900164.0
+ARCLK,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,50896073.0
+ARCLK,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,62938207.0
+ARCLK,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,108065884.0
+ARCLK,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),309525531.0
+ARCLK,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-368553038.0
+ARCLK,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-59027507.0
+ARCLK,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-15485280.0
+ARCLK,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-54347091.0
+ARCLK,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,2061593.0
+ARCLK,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-52285498.0
+ARCLK,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,-126798284.0
+ARCLK,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,309135484.0
+ARCLK,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,-99090160.0
+ARCLK,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ARCLK,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-128756605.0
+ARCLK,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,81288719.0
+ARCLK,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-45509565.0
+ARCLK,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,94021272.0
+ARCLK,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ARCLK,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,48511707.0
+ARCLK,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ARCLK,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1145943700.0
+ARCLK,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1194455407.0
+ARCLK,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,5018888410.0
+ARCLK,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,896041494.0
+ARCLK,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ARCLK,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,2024502378.0
+ARCLK,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ARCLK,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+ARCLK,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2022/6,1AF,Stoklar,Inventories,1696106977.0
+ARCLK,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ARCLK,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,402237559.0
+ARCLK,2022/6,1AI,(Ara Toplam),(Subtotal),5018888410.0
+ARCLK,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ARCLK,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1923014307.0
+ARCLK,2022/6,1B,Ticari Alacaklar,Trade Receivables,2654181.0
+ARCLK,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ARCLK,2022/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+ARCLK,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2022/6,1BC,Finansal Yatırımlar,Financial Investments,1410846.0
+ARCLK,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,55123776.0
+ARCLK,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ARCLK,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ARCLK,2022/6,1BFA,Stoklar,Stoklar,0.0
+ARCLK,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ARCLK,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,967888374.0
+ARCLK,2022/6,1BGA,Şerefiye,Goodwill,210898666.0
+ARCLK,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,526218831.0
+ARCLK,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,150540158.0
+ARCLK,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,8279473.0
+ARCLK,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,6941902716.0
+ARCLK,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ARCLK,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4335660340.0
+ARCLK,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1819111339.0
+ARCLK,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1810358927.0
+ARCLK,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,91201876.0
+ARCLK,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ARCLK,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ARCLK,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ARCLK,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),8950657.0
+ARCLK,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,222695700.0
+ARCLK,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,383341841.0
+ARCLK,2022/6,2AAGG,(Ara Toplam),(Subtotal),4335660340.0
+ARCLK,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ARCLK,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1145829769.0
+ARCLK,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,831521562.0
+ARCLK,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ARCLK,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ARCLK,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ARCLK,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ARCLK,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ARCLK,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,115166493.0
+ARCLK,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ARCLK,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,117896462.0
+ARCLK,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,81245252.0
+ARCLK,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1460412608.0
+ARCLK,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1337085565.0
+ARCLK,2022/6,2OA,Ödenmiş Sermaye,Share Capital,40483602.0
+ARCLK,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ARCLK,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,53261.0
+ARCLK,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ARCLK,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+ARCLK,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,221676492.0
+ARCLK,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),310152294.0
+ARCLK,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),85323819.0
+ARCLK,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,679396096.0
+ARCLK,2022/6,2ODA,Azınlık Payları,Minority Interests,123327043.0
+ARCLK,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,6941902716.0
+ARCLK,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ARCLK,2022/6,3C,Satış Gelirleri,Net Sales,4061980354.0
+ARCLK,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2835706543.0
+ARCLK,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ARCLK,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1226273811.0
+ARCLK,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ARCLK,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ARCLK,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ARCLK,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1226273811.0
+ARCLK,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-753350600.0
+ARCLK,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-192428043.0
+ARCLK,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-21874254.0
+ARCLK,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,247034915.0
+ARCLK,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-193837769.0
+ARCLK,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ARCLK,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,311818061.0
+ARCLK,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,258620914.0
+ARCLK,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2738102.0
+ARCLK,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1562144.0
+ARCLK,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ARCLK,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-1489193.0
+ARCLK,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,311504826.0
+ARCLK,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),268717788.0
+ARCLK,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-462307481.0
+ARCLK,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1175958.0
+ARCLK,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,117915133.0
+ARCLK,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-12826512.0
+ARCLK,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-36806755.0
+ARCLK,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,23980243.0
+ARCLK,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ARCLK,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,105088621.0
+ARCLK,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ARCLK,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ARCLK,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,105088621.0
+ARCLK,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ARCLK,2022/6,3LB,Azınlık Payları,Minority Interests,9420359.0
+ARCLK,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,95668262.0
+ARCLK,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ARCLK,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ARCLK,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ARCLK,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ARCLK,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,100256217.0
+ARCLK,2022/6,4BA,Kıdem Tazminatı,Severance Payments,7118488.0
+ARCLK,2022/6,4BB,Finansman Giderleri,Financial Expenses,-462307481.0
+ARCLK,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,1216898862.0
+ARCLK,2022/6,4BD,Yurtdışı Satışlar,Export Sales,2845081492.0
+ARCLK,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-587608725.0
+ARCLK,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-587608725.0
+ARCLK,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),28156553.0
+ARCLK,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-285606211.0
+ARCLK,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,105088621.0
+ARCLK,2022/6,4CAA,Düzeltmeler:,Adjustments:,447250438.0
+ARCLK,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,100256217.0
+ARCLK,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,140424253.0
+ARCLK,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,206569968.0
+ARCLK,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),552339058.0
+ARCLK,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-811278447.0
+ARCLK,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-258939389.0
+ARCLK,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-26666823.0
+ARCLK,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-121553441.0
+ARCLK,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,1248775.0
+ARCLK,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-120304666.0
+ARCLK,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-405910878.0
+ARCLK,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,482852350.0
+ARCLK,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-98041808.0
+ARCLK,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ARCLK,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-246157750.0
+ARCLK,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,138652793.0
+ARCLK,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-267258085.0
+ARCLK,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,196083817.0
+ARCLK,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ARCLK,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-71174268.0
+ARCLK,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ARCLK,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1075593346.0
+ARCLK,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1004419078.0
+ARCLK,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,4913793371.0
+ARCLK,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1100974876.0
+ARCLK,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ARCLK,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1836335563.0
+ARCLK,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ARCLK,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+ARCLK,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2022/9,1AF,Stoklar,Inventories,1722111782.0
+ARCLK,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ARCLK,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,254371149.0
+ARCLK,2022/9,1AI,(Ara Toplam),(Subtotal),4913793371.0
+ARCLK,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ARCLK,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,2020221053.0
+ARCLK,2022/9,1B,Ticari Alacaklar,Trade Receivables,2026078.0
+ARCLK,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ARCLK,2022/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+ARCLK,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2022/9,1BC,Finansal Yatırımlar,Financial Investments,1634748.0
+ARCLK,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,50069049.0
+ARCLK,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ARCLK,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ARCLK,2022/9,1BFA,Stoklar,Stoklar,0.0
+ARCLK,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ARCLK,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1071827502.0
+ARCLK,2022/9,1BGA,Şerefiye,Goodwill,199540645.0
+ARCLK,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,494430711.0
+ARCLK,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,186496300.0
+ARCLK,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,14196021.0
+ARCLK,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,6934014424.0
+ARCLK,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ARCLK,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4249934024.0
+ARCLK,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1879701274.0
+ARCLK,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1680874564.0
+ARCLK,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,98955374.0
+ARCLK,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ARCLK,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ARCLK,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ARCLK,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),12993947.0
+ARCLK,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,189086249.0
+ARCLK,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,388322616.0
+ARCLK,2022/9,2AAGG,(Ara Toplam),(Subtotal),4249934024.0
+ARCLK,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ARCLK,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1327434253.0
+ARCLK,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,736804405.0
+ARCLK,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ARCLK,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ARCLK,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ARCLK,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ARCLK,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ARCLK,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,114868613.0
+ARCLK,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ARCLK,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,110337752.0
+ARCLK,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,365423483.0
+ARCLK,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1356646148.0
+ARCLK,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1246620221.0
+ARCLK,2022/9,2OA,Ödenmiş Sermaye,Share Capital,36423262.0
+ARCLK,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ARCLK,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,47919.0
+ARCLK,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ARCLK,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+ARCLK,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,204856431.0
+ARCLK,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),273632096.0
+ARCLK,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),94864247.0
+ARCLK,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,636796266.0
+ARCLK,2022/9,2ODA,Azınlık Payları,Minority Interests,110025927.0
+ARCLK,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,6934014424.0
+ARCLK,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ARCLK,2022/9,3C,Satış Gelirleri,Net Sales,5952545971.0
+ARCLK,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-4185688230.0
+ARCLK,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ARCLK,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1766857741.0
+ARCLK,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ARCLK,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ARCLK,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ARCLK,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1766857741.0
+ARCLK,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1103639625.0
+ARCLK,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-260853612.0
+ARCLK,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-32573922.0
+ARCLK,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,305779410.0
+ARCLK,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-268644977.0
+ARCLK,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ARCLK,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,406925016.0
+ARCLK,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,369790583.0
+ARCLK,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3413031.0
+ARCLK,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1843698.0
+ARCLK,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ARCLK,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-3362884.0
+ARCLK,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,405131465.0
+ARCLK,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),361302371.0
+ARCLK,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-641586794.0
+ARCLK,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1569333.0
+ARCLK,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,124847042.0
+ARCLK,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,4562459.0
+ARCLK,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-60433183.0
+ARCLK,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,64995642.0
+ARCLK,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ARCLK,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,129409501.0
+ARCLK,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ARCLK,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ARCLK,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,129409501.0
+ARCLK,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ARCLK,2022/9,3LB,Azınlık Payları,Minority Interests,18813334.0
+ARCLK,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,110596167.0
+ARCLK,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ARCLK,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ARCLK,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ARCLK,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ARCLK,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,149102235.0
+ARCLK,2022/9,4BA,Kıdem Tazminatı,Severance Payments,8253814.0
+ARCLK,2022/9,4BB,Finansman Giderleri,Financial Expenses,-641586794.0
+ARCLK,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,1774822737.0
+ARCLK,2022/9,4BD,Yurtdışı Satışlar,Export Sales,4177723234.0
+ARCLK,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-952553305.0
+ARCLK,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-952553305.0
+ARCLK,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),45475659.0
+ARCLK,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-47905477.0
+ARCLK,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,129409501.0
+ARCLK,2022/9,4CAA,Düzeltmeler:,Adjustments:,622902599.0
+ARCLK,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,149102235.0
+ARCLK,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,199469767.0
+ARCLK,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,274330597.0
+ARCLK,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),752312100.0
+ARCLK,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-770499410.0
+ARCLK,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-18187310.0
+ARCLK,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-29718167.0
+ARCLK,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-224348533.0
+ARCLK,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,86077858.0
+ARCLK,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-138270675.0
+ARCLK,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,-186176152.0
+ARCLK,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,618227151.0
+ARCLK,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-106544167.0
+ARCLK,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ARCLK,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-279994851.0
+ARCLK,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,231688133.0
+ARCLK,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,45511981.0
+ARCLK,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,231752106.0
+ARCLK,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ARCLK,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,277264087.0
+ARCLK,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ARCLK,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1006207872.0
+ARCLK,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1283471959.0
+ARCLK,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,8387305273.0
+ARCLK,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2388669811.0
+ARCLK,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ARCLK,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,3256597810.0
+ARCLK,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ARCLK,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,16031982.0
+ARCLK,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2023/12,1AF,Stoklar,Inventories,2322916589.0
+ARCLK,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ARCLK,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,403089081.0
+ARCLK,2023/12,1AI,(Ara Toplam),(Subtotal),8387305273.0
+ARCLK,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ARCLK,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,4250197482.0
+ARCLK,2023/12,1B,Ticari Alacaklar,Trade Receivables,1670493.0
+ARCLK,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ARCLK,2023/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+ARCLK,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2023/12,1BC,Finansal Yatırımlar,Financial Investments,6939063.0
+ARCLK,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,71286244.0
+ARCLK,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ARCLK,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ARCLK,2023/12,1BFA,Stoklar,Stoklar,0.0
+ARCLK,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ARCLK,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2183002818.0
+ARCLK,2023/12,1BGA,Şerefiye,Goodwill,355878886.0
+ARCLK,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,974203104.0
+ARCLK,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,402963077.0
+ARCLK,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,254253797.0
+ARCLK,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,12637502755.0
+ARCLK,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ARCLK,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,6746245774.0
+ARCLK,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,2812466388.0
+ARCLK,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2653672439.0
+ARCLK,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,207805794.0
+ARCLK,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ARCLK,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ARCLK,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ARCLK,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),20651650.0
+ARCLK,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,310781146.0
+ARCLK,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,740868358.0
+ARCLK,2023/12,2AAGG,(Ara Toplam),(Subtotal),6746245774.0
+ARCLK,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ARCLK,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2975250260.0
+ARCLK,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,2176658031.0
+ARCLK,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ARCLK,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ARCLK,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ARCLK,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ARCLK,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ARCLK,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,227514420.0
+ARCLK,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ARCLK,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,165867968.0
+ARCLK,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,405209842.0
+ARCLK,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2916006721.0
+ARCLK,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2754484577.0
+ARCLK,2023/12,2OA,Ödenmiş Sermaye,Share Capital,22912791.0
+ARCLK,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ARCLK,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ARCLK,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ARCLK,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,877415136.0
+ARCLK,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,618381082.0
+ARCLK,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),786415587.0
+ARCLK,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),661397836.0
+ARCLK,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-212037855.0
+ARCLK,2023/12,2ODA,Azınlık Payları,Minority Interests,161522144.0
+ARCLK,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,12637502755.0
+ARCLK,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ARCLK,2023/12,3C,Satış Gelirleri,Net Sales,15578098495.0
+ARCLK,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-11010892237.0
+ARCLK,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ARCLK,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,4567206259.0
+ARCLK,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ARCLK,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ARCLK,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ARCLK,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),4567206259.0
+ARCLK,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2850117999.0
+ARCLK,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-895496422.0
+ARCLK,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-117776564.0
+ARCLK,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,814163013.0
+ARCLK,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-902518549.0
+ARCLK,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ARCLK,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,615459737.0
+ARCLK,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,703815273.0
+ARCLK,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3079963.0
+ARCLK,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-6210999.0
+ARCLK,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ARCLK,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-29169649.0
+ARCLK,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,583159053.0
+ARCLK,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1368973156.0
+ARCLK,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1164388822.0
+ARCLK,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-3131036.0
+ARCLK,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,787743387.0
+ARCLK,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,74947788.0
+ARCLK,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-115786387.0
+ARCLK,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,190734175.0
+ARCLK,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ARCLK,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,862691175.0
+ARCLK,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ARCLK,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ARCLK,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,862691175.0
+ARCLK,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ARCLK,2023/12,3LB,Azınlık Payları,Minority Interests,44114546.0
+ARCLK,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,818576629.0
+ARCLK,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+ARCLK,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+ARCLK,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+ARCLK,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+ARCLK,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,528051427.0
+ARCLK,2023/12,4BA,Kıdem Tazminatı,Severance Payments,23324766.0
+ARCLK,2023/12,4BB,Finansman Giderleri,Financial Expenses,-1164388822.0
+ARCLK,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,5825897898.0
+ARCLK,2023/12,4BD,Yurtdışı Satışlar,Export Sales,9752200598.0
+ARCLK,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1784625017.0
+ARCLK,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1784625017.0
+ARCLK,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-458059504.0
+ARCLK,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-20178790.0
+ARCLK,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,862691175.0
+ARCLK,2023/12,4CAA,Düzeltmeler:,Adjustments:,-387360655.0
+ARCLK,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,528051427.0
+ARCLK,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,238335045.0
+ARCLK,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,422648263.0
+ARCLK,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),475330519.0
+ARCLK,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-446272166.0
+ARCLK,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),29058354.0
+ARCLK,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-49237143.0
+ARCLK,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-738626729.0
+ARCLK,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-76906952.0
+ARCLK,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-815533681.0
+ARCLK,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,-835712470.0
+ARCLK,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,2233625131.0
+ARCLK,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-195628769.0
+ARCLK,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ARCLK,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-250886719.0
+ARCLK,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,1787109643.0
+ARCLK,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,951397173.0
+ARCLK,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,219504177.0
+ARCLK,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ARCLK,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1170901350.0
+ARCLK,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ARCLK,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2443813082.0
+ARCLK,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2955407476.0
+ARCLK,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,5400756105.0
+ARCLK,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1529485611.0
+ARCLK,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ARCLK,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,2065059778.0
+ARCLK,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ARCLK,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+ARCLK,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2023/3,1AF,Stoklar,Inventories,1605028351.0
+ARCLK,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ARCLK,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,201182366.0
+ARCLK,2023/3,1AI,(Ara Toplam),(Subtotal),5400756105.0
+ARCLK,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ARCLK,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2240980779.0
+ARCLK,2023/3,1B,Ticari Alacaklar,Trade Receivables,2212135.0
+ARCLK,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ARCLK,2023/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+ARCLK,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2023/3,1BC,Finansal Yatırımlar,Financial Investments,1683726.0
+ARCLK,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,59256194.0
+ARCLK,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ARCLK,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ARCLK,2023/3,1BFA,Stoklar,Stoklar,0.0
+ARCLK,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ARCLK,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1119707106.0
+ARCLK,2023/3,1BGA,Şerefiye,Goodwill,223135378.0
+ARCLK,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,510990890.0
+ARCLK,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,264843077.0
+ARCLK,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,59152274.0
+ARCLK,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7641736885.0
+ARCLK,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ARCLK,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4870094852.0
+ARCLK,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,2299902282.0
+ARCLK,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1738550173.0
+ARCLK,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,171834551.0
+ARCLK,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ARCLK,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ARCLK,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ARCLK,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),7504039.0
+ARCLK,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,239232742.0
+ARCLK,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,413071066.0
+ARCLK,2023/3,2AAGG,(Ara Toplam),(Subtotal),4870094852.0
+ARCLK,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ARCLK,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1409991974.0
+ARCLK,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,924895350.0
+ARCLK,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ARCLK,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ARCLK,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ARCLK,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ARCLK,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ARCLK,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,165049302.0
+ARCLK,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ARCLK,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,102561940.0
+ARCLK,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,217485381.0
+ARCLK,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1361650059.0
+ARCLK,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1241318703.0
+ARCLK,2023/3,2OA,Ödenmiş Sermaye,Share Capital,35216544.0
+ARCLK,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ARCLK,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,46332.0
+ARCLK,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ARCLK,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,884670989.0
+ARCLK,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,181783529.0
+ARCLK,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),421991317.0
+ARCLK,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),55996883.0
+ARCLK,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-338386892.0
+ARCLK,2023/3,2ODA,Azınlık Payları,Minority Interests,120331356.0
+ARCLK,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7641736885.0
+ARCLK,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ARCLK,2023/3,3C,Satış Gelirleri,Net Sales,4310137323.0
+ARCLK,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-3070140229.0
+ARCLK,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ARCLK,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1239997094.0
+ARCLK,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ARCLK,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ARCLK,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ARCLK,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1239997094.0
+ARCLK,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-772292546.0
+ARCLK,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-273939918.0
+ARCLK,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-40005983.0
+ARCLK,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,78973480.0
+ARCLK,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-130172961.0
+ARCLK,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ARCLK,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,102559166.0
+ARCLK,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,153758647.0
+ARCLK,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1367123.0
+ARCLK,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2312754.0
+ARCLK,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ARCLK,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-12896027.0
+ARCLK,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,88717508.0
+ARCLK,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),226016772.0
+ARCLK,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-209919474.0
+ARCLK,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-945630.0
+ARCLK,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,104814806.0
+ARCLK,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-15137297.0
+ARCLK,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-56570600.0
+ARCLK,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,41433303.0
+ARCLK,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ARCLK,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,89677510.0
+ARCLK,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ARCLK,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ARCLK,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,89677510.0
+ARCLK,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ARCLK,2023/3,3LB,Azınlık Payları,Minority Interests,9013934.0
+ARCLK,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,80663576.0
+ARCLK,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ARCLK,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ARCLK,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ARCLK,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ARCLK,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,136343947.0
+ARCLK,2023/3,4BA,Kıdem Tazminatı,Severance Payments,11237029.0
+ARCLK,2023/3,4BB,Finansman Giderleri,Financial Expenses,-209919474.0
+ARCLK,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,1375517096.0
+ARCLK,2023/3,4BD,Yurtdışı Satışlar,Export Sales,2274848309.0
+ARCLK,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-862164212.0
+ARCLK,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-862164212.0
+ARCLK,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-179277581.0
+ARCLK,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-241022093.0
+ARCLK,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,75950150.0
+ARCLK,2023/3,4CAA,Düzeltmeler:,Adjustments:,-90592548.0
+ARCLK,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,136343947.0
+ARCLK,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,57260741.0
+ARCLK,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-284197236.0
+ARCLK,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-14642398.0
+ARCLK,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-207375790.0
+ARCLK,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-222018187.0
+ARCLK,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-19003905.0
+ARCLK,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-132118728.0
+ARCLK,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-76622861.0
+ARCLK,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-208741589.0
+ARCLK,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,-449763682.0
+ARCLK,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,865937058.0
+ARCLK,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ARCLK,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ARCLK,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-115771211.0
+ARCLK,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,750165847.0
+ARCLK,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,300402165.0
+ARCLK,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-139606252.0
+ARCLK,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ARCLK,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,160795913.0
+ARCLK,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ARCLK,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2456309264.0
+ARCLK,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2617105177.0
+ARCLK,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,4893420733.0
+ARCLK,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1108089804.0
+ARCLK,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ARCLK,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1953509911.0
+ARCLK,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ARCLK,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+ARCLK,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2023/6,1AF,Stoklar,Inventories,1532862781.0
+ARCLK,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ARCLK,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,298958237.0
+ARCLK,2023/6,1AI,(Ara Toplam),(Subtotal),4893420733.0
+ARCLK,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ARCLK,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2118185051.0
+ARCLK,2023/6,1B,Ticari Alacaklar,Trade Receivables,1529788.0
+ARCLK,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ARCLK,2023/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+ARCLK,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2023/6,1BC,Finansal Yatırımlar,Financial Investments,1638680.0
+ARCLK,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,49302811.0
+ARCLK,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ARCLK,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ARCLK,2023/6,1BFA,Stoklar,Stoklar,0.0
+ARCLK,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ARCLK,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1048650153.0
+ARCLK,2023/6,1BGA,Şerefiye,Goodwill,203176972.0
+ARCLK,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,508894030.0
+ARCLK,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,243275196.0
+ARCLK,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,61717421.0
+ARCLK,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7011605784.0
+ARCLK,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ARCLK,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4311413667.0
+ARCLK,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1767296982.0
+ARCLK,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1721391556.0
+ARCLK,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,147372514.0
+ARCLK,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ARCLK,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ARCLK,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ARCLK,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),7686048.0
+ARCLK,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,218275969.0
+ARCLK,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,449390597.0
+ARCLK,2023/6,2AAGG,(Ara Toplam),(Subtotal),4311413667.0
+ARCLK,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ARCLK,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1384216146.0
+ARCLK,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,910690308.0
+ARCLK,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ARCLK,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ARCLK,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ARCLK,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ARCLK,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ARCLK,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,155970058.0
+ARCLK,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ARCLK,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,111493722.0
+ARCLK,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,206062057.0
+ARCLK,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1315975972.0
+ARCLK,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1205665839.0
+ARCLK,2023/6,2OA,Ödenmiş Sermaye,Share Capital,26120543.0
+ARCLK,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ARCLK,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,34365.0
+ARCLK,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ARCLK,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,998678062.0
+ARCLK,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,151843592.0
+ARCLK,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),295983626.0
+ARCLK,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),60546510.0
+ARCLK,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-327540859.0
+ARCLK,2023/6,2ODA,Azınlık Payları,Minority Interests,110310132.0
+ARCLK,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7011605784.0
+ARCLK,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ARCLK,2023/6,3C,Satış Gelirleri,Net Sales,8654729163.0
+ARCLK,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-6060802449.0
+ARCLK,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ARCLK,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2593926714.0
+ARCLK,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ARCLK,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ARCLK,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ARCLK,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2593926714.0
+ARCLK,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1561256990.0
+ARCLK,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-501534077.0
+ARCLK,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-73063028.0
+ARCLK,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,532276711.0
+ARCLK,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-608710865.0
+ARCLK,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ARCLK,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,381638465.0
+ARCLK,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,458072619.0
+ARCLK,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1736798.0
+ARCLK,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2805340.0
+ARCLK,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ARCLK,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-10171050.0
+ARCLK,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,370398873.0
+ARCLK,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),874888234.0
+ARCLK,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1019509807.0
+ARCLK,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-1068542.0
+ARCLK,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,225777301.0
+ARCLK,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-33406111.0
+ARCLK,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-93785920.0
+ARCLK,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,60379809.0
+ARCLK,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ARCLK,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,192371189.0
+ARCLK,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ARCLK,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ARCLK,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,192371189.0
+ARCLK,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ARCLK,2023/6,3LB,Azınlık Payları,Minority Interests,26992787.0
+ARCLK,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,165378402.0
+ARCLK,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ARCLK,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ARCLK,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ARCLK,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ARCLK,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,389750053.0
+ARCLK,2023/6,4BA,Kıdem Tazminatı,Severance Payments,18635805.0
+ARCLK,2023/6,4BB,Finansman Giderleri,Financial Expenses,-1019509807.0
+ARCLK,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,3059170454.0
+ARCLK,2023/6,4BD,Yurtdışı Satışlar,Export Sales,4886811977.0
+ARCLK,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1485007880.0
+ARCLK,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1485007880.0
+ARCLK,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-111546609.0
+ARCLK,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-424528584.0
+ARCLK,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,176617590.0
+ARCLK,2023/6,4CAA,Düzeltmeler:,Adjustments:,227700606.0
+ARCLK,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,282836790.0
+ARCLK,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,302103832.0
+ARCLK,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,409226430.0
+ARCLK,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),404318196.0
+ARCLK,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-798541552.0
+ARCLK,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-394223356.0
+ARCLK,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-30305228.0
+ARCLK,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-272268989.0
+ARCLK,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-89992489.0
+ARCLK,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-362261478.0
+ARCLK,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,-786790062.0
+ARCLK,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,632326012.0
+ARCLK,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-34818933.0
+ARCLK,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ARCLK,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-247234001.0
+ARCLK,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,350273079.0
+ARCLK,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-436516983.0
+ARCLK,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,632966643.0
+ARCLK,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ARCLK,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,196449659.0
+ARCLK,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ARCLK,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2540772873.0
+ARCLK,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2483488898.0
+ARCLK,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,5476739298.0
+ARCLK,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1444729089.0
+ARCLK,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ARCLK,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,2185244549.0
+ARCLK,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ARCLK,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+ARCLK,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2023/9,1AF,Stoklar,Inventories,1597542915.0
+ARCLK,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ARCLK,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,249222745.0
+ARCLK,2023/9,1AI,(Ara Toplam),(Subtotal),5476739298.0
+ARCLK,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ARCLK,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,2137176110.0
+ARCLK,2023/9,1B,Ticari Alacaklar,Trade Receivables,1729527.0
+ARCLK,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ARCLK,2023/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+ARCLK,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2023/9,1BC,Finansal Yatırımlar,Financial Investments,1904397.0
+ARCLK,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,46617990.0
+ARCLK,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ARCLK,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ARCLK,2023/9,1BFA,Stoklar,Stoklar,0.0
+ARCLK,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ARCLK,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1051586815.0
+ARCLK,2023/9,1BGA,Şerefiye,Goodwill,201379968.0
+ARCLK,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,508861883.0
+ARCLK,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,257223656.0
+ARCLK,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,67871873.0
+ARCLK,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7613915409.0
+ARCLK,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ARCLK,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4509430759.0
+ARCLK,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1725999490.0
+ARCLK,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1932907971.0
+ARCLK,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,115259134.0
+ARCLK,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ARCLK,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ARCLK,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ARCLK,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),18085320.0
+ARCLK,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,224423102.0
+ARCLK,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,492755743.0
+ARCLK,2023/9,2AAGG,(Ara Toplam),(Subtotal),4509430759.0
+ARCLK,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ARCLK,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1795232006.0
+ARCLK,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1329760483.0
+ARCLK,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ARCLK,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ARCLK,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ARCLK,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ARCLK,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ARCLK,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,150643659.0
+ARCLK,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ARCLK,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,112721213.0
+ARCLK,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,202106651.0
+ARCLK,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1309252643.0
+ARCLK,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1201063334.0
+ARCLK,2023/9,2OA,Ödenmiş Sermaye,Share Capital,24638227.0
+ARCLK,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ARCLK,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,32414.0
+ARCLK,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ARCLK,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+ARCLK,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,128877379.0
+ARCLK,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),293536024.0
+ARCLK,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),93605557.0
+ARCLK,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,660373733.0
+ARCLK,2023/9,2ODA,Azınlık Payları,Minority Interests,108189309.0
+ARCLK,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7613915409.0
+ARCLK,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ARCLK,2023/9,3C,Satış Gelirleri,Net Sales,11893326023.0
+ARCLK,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-8357194727.0
+ARCLK,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ARCLK,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,3536131296.0
+ARCLK,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ARCLK,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ARCLK,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ARCLK,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),3536131296.0
+ARCLK,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2145115468.0
+ARCLK,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-691340826.0
+ARCLK,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-88492549.0
+ARCLK,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,592544548.0
+ARCLK,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-742322643.0
+ARCLK,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ARCLK,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,461404358.0
+ARCLK,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,611182453.0
+ARCLK,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2141407.0
+ARCLK,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3005502.0
+ARCLK,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ARCLK,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-24187401.0
+ARCLK,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,436352862.0
+ARCLK,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1078058466.0
+ARCLK,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1107149792.0
+ARCLK,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-864095.0
+ARCLK,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,407261536.0
+ARCLK,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-169297799.0
+ARCLK,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-132079198.0
+ARCLK,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-37218601.0
+ARCLK,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ARCLK,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,237963738.0
+ARCLK,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ARCLK,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ARCLK,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,237963738.0
+ARCLK,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ARCLK,2023/9,3LB,Azınlık Payları,Minority Interests,34378737.0
+ARCLK,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,203585000.0
+ARCLK,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ARCLK,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ARCLK,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ARCLK,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ARCLK,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,408573670.0
+ARCLK,2023/9,4BA,Kıdem Tazminatı,Severance Payments,13016379.0
+ARCLK,2023/9,4BB,Finansman Giderleri,Financial Expenses,-1107149792.0
+ARCLK,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,4582792111.0
+ARCLK,2023/9,4BD,Yurtdışı Satışlar,Export Sales,7310533912.0
+ARCLK,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1352464912.0
+ARCLK,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1352464912.0
+ARCLK,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-226917181.0
+ARCLK,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,451603806.0
+ARCLK,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,237963738.0
+ARCLK,2023/9,4CAA,Düzeltmeler:,Adjustments:,613360799.0
+ARCLK,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,408573670.0
+ARCLK,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,347863467.0
+ARCLK,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,731603805.0
+ARCLK,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),851324537.0
+ARCLK,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-364611688.0
+ARCLK,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),486712848.0
+ARCLK,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-35109042.0
+ARCLK,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-451687774.0
+ARCLK,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-89086496.0
+ARCLK,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-540774270.0
+ARCLK,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,-89170464.0
+ARCLK,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1179151294.0
+ARCLK,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-186164675.0
+ARCLK,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ARCLK,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-221742162.0
+ARCLK,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,771244457.0
+ARCLK,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,682073993.0
+ARCLK,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,51340303.0
+ARCLK,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ARCLK,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,733414295.0
+ARCLK,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ARCLK,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2468437417.0
+ARCLK,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2666037181.0
+ARCLK,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,8143393501.0
+ARCLK,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1803373713.0
+ARCLK,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ARCLK,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,3297832094.0
+ARCLK,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ARCLK,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,36214804.0
+ARCLK,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2024/12,1AF,Stoklar,Inventories,2545351628.0
+ARCLK,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ARCLK,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,460621262.0
+ARCLK,2024/12,1AI,(Ara Toplam),(Subtotal),8143393501.0
+ARCLK,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ARCLK,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,5971279378.0
+ARCLK,2024/12,1B,Ticari Alacaklar,Trade Receivables,1236736.0
+ARCLK,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ARCLK,2024/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+ARCLK,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2024/12,1BC,Finansal Yatırımlar,Financial Investments,8337616.0
+ARCLK,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,88626989.0
+ARCLK,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ARCLK,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ARCLK,2024/12,1BFA,Stoklar,Stoklar,0.0
+ARCLK,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ARCLK,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3222910381.0
+ARCLK,2024/12,1BGA,Şerefiye,Goodwill,303316004.0
+ARCLK,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1288711207.0
+ARCLK,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,817270020.0
+ARCLK,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,240870425.0
+ARCLK,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,14114672879.0
+ARCLK,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ARCLK,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,7851369134.0
+ARCLK,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,2209750453.0
+ARCLK,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3633646200.0
+ARCLK,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,206933659.0
+ARCLK,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ARCLK,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ARCLK,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ARCLK,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),9744590.0
+ARCLK,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,481708592.0
+ARCLK,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1309585641.0
+ARCLK,2024/12,2AAGG,(Ara Toplam),(Subtotal),7851369134.0
+ARCLK,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ARCLK,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3599414879.0
+ARCLK,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,2689181362.0
+ARCLK,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ARCLK,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ARCLK,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ARCLK,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ARCLK,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ARCLK,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,366726762.0
+ARCLK,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ARCLK,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,166194506.0
+ARCLK,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,377312250.0
+ARCLK,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2663888866.0
+ARCLK,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2383786836.0
+ARCLK,2024/12,2OA,Ödenmiş Sermaye,Share Capital,19118714.0
+ARCLK,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ARCLK,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ARCLK,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ARCLK,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,408966117.0
+ARCLK,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,647197552.0
+ARCLK,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1515281322.0
+ARCLK,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),59942864.0
+ARCLK,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-271581543.0
+ARCLK,2024/12,2ODA,Azınlık Payları,Minority Interests,280102030.0
+ARCLK,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,14114672879.0
+ARCLK,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ARCLK,2024/12,3C,Satış Gelirleri,Net Sales,16351495105.0
+ARCLK,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-11845246426.0
+ARCLK,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ARCLK,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,4506248678.0
+ARCLK,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ARCLK,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ARCLK,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ARCLK,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),4506248678.0
+ARCLK,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-3156443892.0
+ARCLK,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-945509217.0
+ARCLK,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-185002548.0
+ARCLK,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1093812341.0
+ARCLK,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1041345249.0
+ARCLK,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ARCLK,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,271760114.0
+ARCLK,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,219293021.0
+ARCLK,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,46531729.0
+ARCLK,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-12900050.0
+ARCLK,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ARCLK,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-6718048.0
+ARCLK,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,298673745.0
+ARCLK,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),841349132.0
+ARCLK,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1201469040.0
+ARCLK,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,33631679.0
+ARCLK,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-61446163.0
+ARCLK,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-22774135.0
+ARCLK,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-53790442.0
+ARCLK,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,31016307.0
+ARCLK,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ARCLK,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-84220298.0
+ARCLK,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ARCLK,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-84220298.0
+ARCLK,2024/12,3LB,Azınlık Payları,Minority Interests,-148668158.0
+ARCLK,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,64447860.0
+ARCLK,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ARCLK,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ARCLK,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ARCLK,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ARCLK,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,631474314.0
+ARCLK,2024/12,4BA,Kıdem Tazminatı,Severance Payments,18229923.0
+ARCLK,2024/12,4BB,Finansman Giderleri,Financial Expenses,-1201469040.0
+ARCLK,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,5298782128.0
+ARCLK,2024/12,4BD,Yurtdışı Satışlar,Export Sales,11052712977.0
+ARCLK,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1757682400.0
+ARCLK,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1757682400.0
+ARCLK,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-443044481.0
+ARCLK,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,549047022.0
+ARCLK,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-84220298.0
+ARCLK,2024/12,4CAA,Düzeltmeler:,Adjustments:,344517338.0
+ARCLK,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,631474314.0
+ARCLK,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,663759331.0
+ARCLK,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,128041532.0
+ARCLK,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),260297041.0
+ARCLK,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,322920951.0
+ARCLK,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),583217992.0
+ARCLK,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-34170970.0
+ARCLK,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-882196943.0
+ARCLK,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,320603917.0
+ARCLK,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-561593026.0
+ARCLK,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,-12546004.0
+ARCLK,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,972692913.0
+ARCLK,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-43041221.0
+ARCLK,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ARCLK,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-889283917.0
+ARCLK,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,40367775.0
+ARCLK,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,27821771.0
+ARCLK,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-426182740.0
+ARCLK,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ARCLK,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-398360969.0
+ARCLK,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ARCLK,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2687029802.0
+ARCLK,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1935883682.0
+ARCLK,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,5592305866.0
+ARCLK,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1440803899.0
+ARCLK,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ARCLK,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,2259434757.0
+ARCLK,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ARCLK,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,16262104.0
+ARCLK,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2024/3,1AF,Stoklar,Inventories,1602299837.0
+ARCLK,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ARCLK,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,273505268.0
+ARCLK,2024/3,1AI,(Ara Toplam),(Subtotal),5592305866.0
+ARCLK,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ARCLK,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,3050647207.0
+ARCLK,2024/3,1B,Ticari Alacaklar,Trade Receivables,1202433.0
+ARCLK,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ARCLK,2024/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+ARCLK,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2024/3,1BC,Finansal Yatırımlar,Financial Investments,4517401.0
+ARCLK,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,64824973.0
+ARCLK,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ARCLK,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ARCLK,2024/3,1BFA,Stoklar,Stoklar,0.0
+ARCLK,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ARCLK,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1556786783.0
+ARCLK,2024/3,1BGA,Şerefiye,Goodwill,245167328.0
+ARCLK,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,703467487.0
+ARCLK,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,298489686.0
+ARCLK,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,176191117.0
+ARCLK,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8642953073.0
+ARCLK,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ARCLK,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4518664836.0
+ARCLK,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1779143509.0
+ARCLK,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1914099575.0
+ARCLK,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,119072985.0
+ARCLK,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ARCLK,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ARCLK,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ARCLK,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),9197152.0
+ARCLK,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,233645884.0
+ARCLK,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,463505732.0
+ARCLK,2024/3,2AAGG,(Ara Toplam),(Subtotal),4518664836.0
+ARCLK,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ARCLK,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2063554459.0
+ARCLK,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,1521804097.0
+ARCLK,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ARCLK,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ARCLK,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ARCLK,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ARCLK,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ARCLK,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,148502702.0
+ARCLK,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ARCLK,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,113114496.0
+ARCLK,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,280133164.0
+ARCLK,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2060733777.0
+ARCLK,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1824048251.0
+ARCLK,2024/3,2OA,Ödenmiş Sermaye,Share Capital,20892170.0
+ARCLK,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ARCLK,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ARCLK,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ARCLK,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,828492345.0
+ARCLK,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,449362069.0
+ARCLK,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),680314529.0
+ARCLK,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),12216049.0
+ARCLK,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-167228911.0
+ARCLK,2024/3,2ODA,Azınlık Payları,Minority Interests,236685527.0
+ARCLK,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8642953073.0
+ARCLK,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ARCLK,2024/3,3C,Satış Gelirleri,Net Sales,3223504686.0
+ARCLK,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-2266830158.0
+ARCLK,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ARCLK,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,956674529.0
+ARCLK,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ARCLK,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ARCLK,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ARCLK,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),956674529.0
+ARCLK,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-597190603.0
+ARCLK,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-191516512.0
+ARCLK,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-27309285.0
+ARCLK,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,147061174.0
+ARCLK,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-164398244.0
+ARCLK,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ARCLK,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,123321059.0
+ARCLK,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,140658129.0
+ARCLK,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1148014.0
+ARCLK,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1136386.0
+ARCLK,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ARCLK,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-4526456.0
+ARCLK,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,118806230.0
+ARCLK,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),289167636.0
+ARCLK,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-290141460.0
+ARCLK,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,11628.0
+ARCLK,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,117832406.0
+ARCLK,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-33104975.0
+ARCLK,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-48270176.0
+ARCLK,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,15165200.0
+ARCLK,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ARCLK,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,84727431.0
+ARCLK,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ARCLK,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ARCLK,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,84727431.0
+ARCLK,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ARCLK,2024/3,3LB,Azınlık Payları,Minority Interests,6392613.0
+ARCLK,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,78334818.0
+ARCLK,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ARCLK,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ARCLK,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ARCLK,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ARCLK,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,114104098.0
+ARCLK,2024/3,4BA,Kıdem Tazminatı,Severance Payments,4162088.0
+ARCLK,2024/3,4BB,Finansman Giderleri,Financial Expenses,-290141460.0
+ARCLK,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,1370991299.0
+ARCLK,2024/3,4BD,Yurtdışı Satışlar,Export Sales,1852513387.0
+ARCLK,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1293304308.0
+ARCLK,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1293304308.0
+ARCLK,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-230701992.0
+ARCLK,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,267034798.0
+ARCLK,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,84727431.0
+ARCLK,2024/3,4CAA,Düzeltmeler:,Adjustments:,96266292.0
+ARCLK,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,114104098.0
+ARCLK,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,70454983.0
+ARCLK,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,239673511.0
+ARCLK,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),180993722.0
+ARCLK,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,87614762.0
+ARCLK,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),268608485.0
+ARCLK,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-1573687.0
+ARCLK,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-128899245.0
+ARCLK,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-16100846.0
+ARCLK,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-145000091.0
+ARCLK,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,122034707.0
+ARCLK,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-46553952.0
+ARCLK,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ARCLK,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ARCLK,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-123333106.0
+ARCLK,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-169887058.0
+ARCLK,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-47852352.0
+ARCLK,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-196026399.0
+ARCLK,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ARCLK,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-243878750.0
+ARCLK,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ARCLK,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2503503645.0
+ARCLK,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2078477589.0
+ARCLK,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,7352672562.0
+ARCLK,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1376208336.0
+ARCLK,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ARCLK,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,3171010421.0
+ARCLK,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ARCLK,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,21596732.0
+ARCLK,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2024/6,1AF,Stoklar,Inventories,2317917489.0
+ARCLK,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ARCLK,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,465939584.0
+ARCLK,2024/6,1AI,(Ara Toplam),(Subtotal),7352672562.0
+ARCLK,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ARCLK,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,4590347055.0
+ARCLK,2024/6,1B,Ticari Alacaklar,Trade Receivables,1057403.0
+ARCLK,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ARCLK,2024/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+ARCLK,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2024/6,1BC,Finansal Yatırımlar,Financial Investments,4978820.0
+ARCLK,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,65373221.0
+ARCLK,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ARCLK,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ARCLK,2024/6,1BFA,Stoklar,Stoklar,0.0
+ARCLK,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ARCLK,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2435002113.0
+ARCLK,2024/6,1BGA,Şerefiye,Goodwill,246402344.0
+ARCLK,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1017428061.0
+ARCLK,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,616532737.0
+ARCLK,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,203572356.0
+ARCLK,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,11943019617.0
+ARCLK,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ARCLK,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,6635294220.0
+ARCLK,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1994481699.0
+ARCLK,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3305424278.0
+ARCLK,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,146888701.0
+ARCLK,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ARCLK,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ARCLK,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ARCLK,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),28002268.0
+ARCLK,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,359647076.0
+ARCLK,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,800850198.0
+ARCLK,2024/6,2AAGG,(Ara Toplam),(Subtotal),6635294220.0
+ARCLK,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ARCLK,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2465902759.0
+ARCLK,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,1692732802.0
+ARCLK,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ARCLK,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ARCLK,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ARCLK,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ARCLK,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ARCLK,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,314986270.0
+ARCLK,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ARCLK,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,188491028.0
+ARCLK,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,269692659.0
+ARCLK,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2841822638.0
+ARCLK,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2342774522.0
+ARCLK,2024/6,2OA,Ödenmiş Sermaye,Share Capital,20548026.0
+ARCLK,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ARCLK,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ARCLK,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ARCLK,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,783344716.0
+ARCLK,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,479106196.0
+ARCLK,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1230180689.0
+ARCLK,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-124250.0
+ARCLK,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-170280855.0
+ARCLK,2024/6,2ODA,Azınlık Payları,Minority Interests,499048116.0
+ARCLK,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,11943019617.0
+ARCLK,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ARCLK,2024/6,3C,Satış Gelirleri,Net Sales,7684039934.0
+ARCLK,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-5490315751.0
+ARCLK,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ARCLK,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2193724183.0
+ARCLK,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ARCLK,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ARCLK,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ARCLK,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2193724183.0
+ARCLK,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1492106471.0
+ARCLK,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-444492670.0
+ARCLK,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-76601935.0
+ARCLK,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,852333783.0
+ARCLK,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-272106196.0
+ARCLK,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ARCLK,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,760750694.0
+ARCLK,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,180523107.0
+ARCLK,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,43290653.0
+ARCLK,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-5520062.0
+ARCLK,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ARCLK,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-9911887.0
+ARCLK,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,788609398.0
+ARCLK,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),436928964.0
+ARCLK,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-508927100.0
+ARCLK,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,37770592.0
+ARCLK,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,716611262.0
+ARCLK,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-2518537.0
+ARCLK,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-61864314.0
+ARCLK,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,59345777.0
+ARCLK,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ARCLK,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,714092725.0
+ARCLK,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ARCLK,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ARCLK,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,714092725.0
+ARCLK,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ARCLK,2024/6,3LB,Azınlık Payları,Minority Interests,-9288174.0
+ARCLK,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,723380900.0
+ARCLK,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+ARCLK,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+ARCLK,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+ARCLK,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+ARCLK,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,283350291.0
+ARCLK,2024/6,4BA,Kıdem Tazminatı,Severance Payments,12623518.0
+ARCLK,2024/6,4BB,Finansman Giderleri,Financial Expenses,-508927100.0
+ARCLK,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,1013391917.0
+ARCLK,2024/6,4BD,Yurtdışı Satışlar,Export Sales,1586560289.0
+ARCLK,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1606192045.0
+ARCLK,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1606192045.0
+ARCLK,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-854963192.0
+ARCLK,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-36587267.0
+ARCLK,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,714092725.0
+ARCLK,2024/6,4CAA,Düzeltmeler:,Adjustments:,-473167771.0
+ARCLK,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,283350291.0
+ARCLK,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,124056344.0
+ARCLK,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-290533407.0
+ARCLK,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),240924955.0
+ARCLK,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-261724919.0
+ARCLK,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-20799964.0
+ARCLK,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-15787303.0
+ARCLK,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-347314667.0
+ARCLK,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,315724438.0
+ARCLK,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-31590229.0
+ARCLK,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,-68177496.0
+ARCLK,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,360497385.0
+ARCLK,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-25300385.0
+ARCLK,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ARCLK,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-301605186.0
+ARCLK,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,33591815.0
+ARCLK,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-34585682.0
+ARCLK,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-367810918.0
+ARCLK,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ARCLK,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-402396599.0
+ARCLK,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ARCLK,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2598364921.0
+ARCLK,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1930881875.0
+ARCLK,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,6995490734.0
+ARCLK,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1003718072.0
+ARCLK,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ARCLK,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,3134184656.0
+ARCLK,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ARCLK,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,17362042.0
+ARCLK,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2024/9,1AF,Stoklar,Inventories,2385753324.0
+ARCLK,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ARCLK,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,454472640.0
+ARCLK,2024/9,1AI,(Ara Toplam),(Subtotal),6995490734.0
+ARCLK,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ARCLK,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,4854757844.0
+ARCLK,2024/9,1B,Ticari Alacaklar,Trade Receivables,1618869.0
+ARCLK,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ARCLK,2024/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+ARCLK,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2024/9,1BC,Finansal Yatırımlar,Financial Investments,5338404.0
+ARCLK,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,68817143.0
+ARCLK,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ARCLK,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ARCLK,2024/9,1BFA,Stoklar,Stoklar,0.0
+ARCLK,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ARCLK,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2550653346.0
+ARCLK,2024/9,1BGA,Şerefiye,Goodwill,247406802.0
+ARCLK,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1070311270.0
+ARCLK,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,677039304.0
+ARCLK,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,233572705.0
+ARCLK,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,11850248577.0
+ARCLK,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ARCLK,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,6211462152.0
+ARCLK,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1694136620.0
+ARCLK,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3078895897.0
+ARCLK,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,161686272.0
+ARCLK,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ARCLK,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ARCLK,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ARCLK,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3529847.0
+ARCLK,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,364646354.0
+ARCLK,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,908567162.0
+ARCLK,2024/9,2AAGG,(Ara Toplam),(Subtotal),6211462152.0
+ARCLK,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ARCLK,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2939890821.0
+ARCLK,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,2106612214.0
+ARCLK,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ARCLK,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ARCLK,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ARCLK,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ARCLK,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ARCLK,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,360508740.0
+ARCLK,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ARCLK,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,180949433.0
+ARCLK,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,291820434.0
+ARCLK,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2698895604.0
+ARCLK,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2202338097.0
+ARCLK,2024/9,2OA,Ödenmiş Sermaye,Share Capital,19768244.0
+ARCLK,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ARCLK,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ARCLK,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ARCLK,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,794255833.0
+ARCLK,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,502036861.0
+ARCLK,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1263835910.0
+ARCLK,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-146449294.0
+ARCLK,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-231109457.0
+ARCLK,2024/9,2ODA,Azınlık Payları,Minority Interests,496557507.0
+ARCLK,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,11850248577.0
+ARCLK,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ARCLK,2024/9,3C,Satış Gelirleri,Net Sales,12444180917.0
+ARCLK,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-8984864002.0
+ARCLK,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ARCLK,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,3459316914.0
+ARCLK,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ARCLK,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ARCLK,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ARCLK,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),3459316914.0
+ARCLK,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2402612175.0
+ARCLK,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-709619703.0
+ARCLK,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-142797367.0
+ARCLK,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1033988414.0
+ARCLK,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-516720756.0
+ARCLK,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ARCLK,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,721555328.0
+ARCLK,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,204287670.0
+ARCLK,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,45962515.0
+ARCLK,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-6821995.0
+ARCLK,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ARCLK,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-9597305.0
+ARCLK,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,751098544.0
+ARCLK,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),700198885.0
+ARCLK,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-937724721.0
+ARCLK,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,39140520.0
+ARCLK,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,513572708.0
+ARCLK,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,40195508.0
+ARCLK,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-70019331.0
+ARCLK,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,110214839.0
+ARCLK,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ARCLK,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,553768216.0
+ARCLK,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ARCLK,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ARCLK,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,553768216.0
+ARCLK,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ARCLK,2024/9,3LB,Azınlık Payları,Minority Interests,-34820694.0
+ARCLK,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,588588910.0
+ARCLK,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+ARCLK,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+ARCLK,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+ARCLK,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+ARCLK,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,475765799.0
+ARCLK,2024/9,4BA,Kıdem Tazminatı,Severance Payments,19996499.0
+ARCLK,2024/9,4BB,Finansman Giderleri,Financial Expenses,-937724721.0
+ARCLK,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,3199226611.0
+ARCLK,2024/9,4BD,Yurtdışı Satışlar,Export Sales,6136662454.0
+ARCLK,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1797730050.0
+ARCLK,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1797730050.0
+ARCLK,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-303025279.0
+ARCLK,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-547060409.0
+ARCLK,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,553768216.0
+ARCLK,2024/9,4CAA,Düzeltmeler:,Adjustments:,-442897831.0
+ARCLK,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,475765799.0
+ARCLK,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,260908457.0
+ARCLK,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-48326797.0
+ARCLK,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),110870384.0
+ARCLK,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-634781289.0
+ARCLK,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-523910905.0
+ARCLK,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-23149504.0
+ARCLK,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-572802076.0
+ARCLK,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,332446128.0
+ARCLK,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-240355948.0
+ARCLK,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,-787416357.0
+ARCLK,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,711137825.0
+ARCLK,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-35493866.0
+ARCLK,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ARCLK,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-597850713.0
+ARCLK,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,77793247.0
+ARCLK,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-709623110.0
+ARCLK,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-274366945.0
+ARCLK,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ARCLK,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-983990056.0
+ARCLK,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ARCLK,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2736411617.0
+ARCLK,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1413252385.0
+ARCLK,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,6879784557.0
+ARCLK,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1159460243.0
+ARCLK,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ARCLK,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,2982854254.0
+ARCLK,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ARCLK,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,18862548.0
+ARCLK,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2025/3,1AF,Stoklar,Inventories,2338233797.0
+ARCLK,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ARCLK,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,380373714.0
+ARCLK,2025/3,1AI,(Ara Toplam),(Subtotal),6879784557.0
+ARCLK,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ARCLK,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,4954050437.0
+ARCLK,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+ARCLK,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ARCLK,2025/3,1BB,Diğer Alacaklar,Other Receivables,12630433.0
+ARCLK,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2025/3,1BC,Finansal Yatırımlar,Financial Investments,6562060.0
+ARCLK,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,79725034.0
+ARCLK,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ARCLK,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ARCLK,2025/3,1BFA,Stoklar,Stoklar,0.0
+ARCLK,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ARCLK,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2645305640.0
+ARCLK,2025/3,1BGA,Şerefiye,Goodwill,243393377.0
+ARCLK,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1070251813.0
+ARCLK,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,698174564.0
+ARCLK,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,198007517.0
+ARCLK,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,11833834994.0
+ARCLK,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ARCLK,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,6841564610.0
+ARCLK,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,2094286152.0
+ARCLK,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3150390657.0
+ARCLK,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,193303563.0
+ARCLK,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ARCLK,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ARCLK,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ARCLK,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),12061654.0
+ARCLK,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,400236667.0
+ARCLK,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,991285917.0
+ARCLK,2025/3,2AAGG,(Ara Toplam),(Subtotal),6841564610.0
+ARCLK,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ARCLK,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2886047413.0
+ARCLK,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,2096771027.0
+ARCLK,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ARCLK,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ARCLK,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ARCLK,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ARCLK,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ARCLK,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,295370159.0
+ARCLK,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ARCLK,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,143152401.0
+ARCLK,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,350753825.0
+ARCLK,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2106222971.0
+ARCLK,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1882835039.0
+ARCLK,2025/3,2OA,Ödenmiş Sermaye,Share Capital,17860479.0
+ARCLK,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ARCLK,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ARCLK,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ARCLK,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,374789275.0
+ARCLK,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,530532145.0
+ARCLK,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1291270428.0
+ARCLK,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-43349606.0
+ARCLK,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-288267682.0
+ARCLK,2025/3,2ODA,Azınlık Payları,Minority Interests,223387932.0
+ARCLK,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,11833834994.0
+ARCLK,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ARCLK,2025/3,3C,Satış Gelirleri,Net Sales,3009668872.0
+ARCLK,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-2147047800.0
+ARCLK,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ARCLK,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,862621072.0
+ARCLK,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ARCLK,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ARCLK,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ARCLK,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),862621072.0
+ARCLK,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-591090971.0
+ARCLK,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-208084154.0
+ARCLK,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-35780032.0
+ARCLK,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,183621930.0
+ARCLK,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-142197460.0
+ARCLK,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ARCLK,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,69090384.0
+ARCLK,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,27665914.0
+ARCLK,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,843619.0
+ARCLK,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-135041.0
+ARCLK,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ARCLK,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-2849318.0
+ARCLK,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,66949644.0
+ARCLK,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),87669726.0
+ARCLK,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-180906163.0
+ARCLK,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,708578.0
+ARCLK,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-26286793.0
+ARCLK,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-27541410.0
+ARCLK,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-23462630.0
+ARCLK,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-4078780.0
+ARCLK,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ARCLK,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-53828203.0
+ARCLK,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ARCLK,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ARCLK,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-53828203.0
+ARCLK,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ARCLK,2025/3,3LB,Azınlık Payları,Minority Interests,-8591836.0
+ARCLK,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,-45236367.0
+ARCLK,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ARCLK,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ARCLK,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ARCLK,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ARCLK,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,130191981.0
+ARCLK,2025/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+ARCLK,2025/3,4BB,Finansman Giderleri,Financial Expenses,-180906163.0
+ARCLK,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,1035489491.0
+ARCLK,2025/3,4BD,Yurtdışı Satışlar,Export Sales,1974179381.0
+ARCLK,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1716488098.0
+ARCLK,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1716488098.0
+ARCLK,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-528558232.0
+ARCLK,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-266384730.0
+ARCLK,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-53828203.0
+ARCLK,2025/3,4CAA,Düzeltmeler:,Adjustments:,166926981.0
+ARCLK,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,130191981.0
+ARCLK,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,24491489.0
+ARCLK,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,203144020.0
+ARCLK,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),113098778.0
+ARCLK,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-376830104.0
+ARCLK,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-263731326.0
+ARCLK,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-2653404.0
+ARCLK,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-89672115.0
+ARCLK,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-12051706.0
+ARCLK,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-101723821.0
+ARCLK,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-368108551.0
+ARCLK,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,258445647.0
+ARCLK,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,-367970.0
+ARCLK,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ARCLK,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-190973657.0
+ARCLK,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,67104020.0
+ARCLK,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-301004531.0
+ARCLK,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,24451468.0
+ARCLK,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ARCLK,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-276553063.0
+ARCLK,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ARCLK,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1540230197.0
+ARCLK,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1208788133.0
+ARCLK,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,7613732807.0
+ARCLK,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1508955602.0
+ARCLK,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ARCLK,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,3291538365.0
+ARCLK,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ARCLK,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,23471356.0
+ARCLK,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2025/6,1AF,Stoklar,Inventories,2325459882.0
+ARCLK,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ARCLK,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,376620148.0
+ARCLK,2025/6,1AI,(Ara Toplam),(Subtotal),7526045353.0
+ARCLK,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,87687454.0
+ARCLK,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,5015799625.0
+ARCLK,2025/6,1B,Ticari Alacaklar,Trade Receivables,7748089.0
+ARCLK,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ARCLK,2025/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+ARCLK,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2025/6,1BC,Finansal Yatırımlar,Financial Investments,6441234.0
+ARCLK,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,79227803.0
+ARCLK,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ARCLK,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ARCLK,2025/6,1BFA,Stoklar,Stoklar,0.0
+ARCLK,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ARCLK,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2649695622.0
+ARCLK,2025/6,1BGA,Şerefiye,Goodwill,245107705.0
+ARCLK,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1098448423.0
+ARCLK,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,774016688.0
+ARCLK,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,155114060.0
+ARCLK,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,12629532432.0
+ARCLK,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ARCLK,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,7930430946.0
+ARCLK,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,3265929987.0
+ARCLK,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3089811566.0
+ARCLK,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,224913092.0
+ARCLK,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ARCLK,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ARCLK,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ARCLK,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2615617.0
+ARCLK,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,746397881.0
+ARCLK,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,600762803.0
+ARCLK,2025/6,2AAGG,(Ara Toplam),(Subtotal),7930430946.0
+ARCLK,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ARCLK,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2809959309.0
+ARCLK,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,1886589731.0
+ARCLK,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,897685.0
+ARCLK,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ARCLK,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ARCLK,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ARCLK,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ARCLK,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,357942752.0
+ARCLK,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ARCLK,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,148528825.0
+ARCLK,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,416000316.0
+ARCLK,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1889142177.0
+ARCLK,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1732685194.0
+ARCLK,2025/6,2OA,Ödenmiş Sermaye,Share Capital,16972802.0
+ARCLK,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ARCLK,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ARCLK,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ARCLK,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,335585848.0
+ARCLK,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,528599331.0
+ARCLK,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1425150456.0
+ARCLK,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-102345325.0
+ARCLK,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-471277918.0
+ARCLK,2025/6,2ODA,Azınlık Payları,Minority Interests,156456983.0
+ARCLK,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,12629532432.0
+ARCLK,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ARCLK,2025/6,3C,Satış Gelirleri,Net Sales,6323693709.0
+ARCLK,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-4519550662.0
+ARCLK,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ARCLK,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1804143047.0
+ARCLK,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ARCLK,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ARCLK,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ARCLK,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1804143047.0
+ARCLK,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1239731225.0
+ARCLK,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-411103515.0
+ARCLK,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-79403053.0
+ARCLK,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,299904847.0
+ARCLK,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-232511060.0
+ARCLK,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ARCLK,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,141299041.0
+ARCLK,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,73905254.0
+ARCLK,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1833863.0
+ARCLK,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-367119.0
+ARCLK,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ARCLK,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-1847495.0
+ARCLK,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,140918289.0
+ARCLK,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),218809966.0
+ARCLK,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-447369070.0
+ARCLK,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1466743.0
+ARCLK,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-87640816.0
+ARCLK,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-46365806.0
+ARCLK,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-27968620.0
+ARCLK,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-18397186.0
+ARCLK,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ARCLK,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-134006622.0
+ARCLK,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ARCLK,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ARCLK,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-134006622.0
+ARCLK,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ARCLK,2025/6,3LB,Azınlık Payları,Minority Interests,-25303090.0
+ARCLK,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,-108703532.0
+ARCLK,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ARCLK,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ARCLK,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ARCLK,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ARCLK,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,276704350.0
+ARCLK,2025/6,4BA,Kıdem Tazminatı,Severance Payments,10029073.0
+ARCLK,2025/6,4BB,Finansman Giderleri,Financial Expenses,-447369070.0
+ARCLK,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+ARCLK,2025/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+ARCLK,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1990594834.0
+ARCLK,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1990595528.0
+ARCLK,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1319600321.0
+ARCLK,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-448271782.0
+ARCLK,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-134006622.0
+ARCLK,2025/6,4CAA,Düzeltmeler:,Adjustments:,600029522.0
+ARCLK,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,276704350.0
+ARCLK,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,123060244.0
+ARCLK,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,481292329.0
+ARCLK,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),466022901.0
+ARCLK,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-814974958.0
+ARCLK,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-348952057.0
+ARCLK,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-99319725.0
+ARCLK,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-187601246.0
+ARCLK,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-9140741.0
+ARCLK,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-196741987.0
+ARCLK,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,-645013769.0
+ARCLK,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1093342322.0
+ARCLK,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-5533175.0
+ARCLK,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ARCLK,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-411890390.0
+ARCLK,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,675918757.0
+ARCLK,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,30904988.0
+ARCLK,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,76350822.0
+ARCLK,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ARCLK,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,107255810.0
+ARCLK,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ARCLK,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1579256070.0
+ARCLK,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1596505958.0
+ARCLK,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,7475599279.0
+ARCLK,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1718076625.0
+ARCLK,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ARCLK,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,3014047439.0
+ARCLK,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ARCLK,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,36999971.0
+ARCLK,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2025/9,1AF,Stoklar,Inventories,2227500794.0
+ARCLK,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ARCLK,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,391219385.0
+ARCLK,2025/9,1AI,(Ara Toplam),(Subtotal),7387844215.0
+ARCLK,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,87755065.0
+ARCLK,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,4986193557.0
+ARCLK,2025/9,1B,Ticari Alacaklar,Trade Receivables,8893164.0
+ARCLK,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ARCLK,2025/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+ARCLK,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ARCLK,2025/9,1BC,Finansal Yatırımlar,Financial Investments,7406497.0
+ARCLK,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,78788623.0
+ARCLK,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ARCLK,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ARCLK,2025/9,1BFA,Stoklar,Stoklar,0.0
+ARCLK,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ARCLK,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2626972363.0
+ARCLK,2025/9,1BGA,Şerefiye,Goodwill,246498668.0
+ARCLK,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1115724575.0
+ARCLK,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,740756993.0
+ARCLK,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,161152673.0
+ARCLK,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,12461792836.0
+ARCLK,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ARCLK,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,7847291518.0
+ARCLK,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,3424276290.0
+ARCLK,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2856199112.0
+ARCLK,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,258048536.0
+ARCLK,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ARCLK,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ARCLK,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ARCLK,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5935245.0
+ARCLK,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,670386253.0
+ARCLK,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,632446082.0
+ARCLK,2025/9,2AAGG,(Ara Toplam),(Subtotal),7847291518.0
+ARCLK,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ARCLK,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2833154039.0
+ARCLK,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1906762342.0
+ARCLK,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ARCLK,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ARCLK,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ARCLK,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ARCLK,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ARCLK,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ARCLK,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ARCLK,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,359612737.0
+ARCLK,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ARCLK,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,151438641.0
+ARCLK,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,415340319.0
+ARCLK,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1781347279.0
+ARCLK,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1638222483.0
+ARCLK,2025/9,2OA,Ödenmiş Sermaye,Share Capital,16250649.0
+ARCLK,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ARCLK,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ARCLK,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ARCLK,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,306749307.0
+ARCLK,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,544089020.0
+ARCLK,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1426498042.0
+ARCLK,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-154775333.0
+ARCLK,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-500589203.0
+ARCLK,2025/9,2ODA,Azınlık Payları,Minority Interests,143124796.0
+ARCLK,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,12461792836.0
+ARCLK,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ARCLK,2025/9,3C,Satış Gelirleri,Net Sales,9816174168.0
+ARCLK,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-6998145232.0
+ARCLK,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ARCLK,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2818028935.0
+ARCLK,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ARCLK,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ARCLK,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ARCLK,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ARCLK,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2818028935.0
+ARCLK,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1939521798.0
+ARCLK,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-608227678.0
+ARCLK,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-121361912.0
+ARCLK,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,414863641.0
+ARCLK,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-358699500.0
+ARCLK,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ARCLK,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,205081688.0
+ARCLK,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,148917547.0
+ARCLK,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2587844.0
+ARCLK,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1538570.0
+ARCLK,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ARCLK,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-3880692.0
+ARCLK,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,202250270.0
+ARCLK,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),364175495.0
+ARCLK,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-676146921.0
+ARCLK,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1049274.0
+ARCLK,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-109721156.0
+ARCLK,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-90564142.0
+ARCLK,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-31887188.0
+ARCLK,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-58676954.0
+ARCLK,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ARCLK,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-200285297.0
+ARCLK,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ARCLK,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ARCLK,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-200285297.0
+ARCLK,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ARCLK,2025/9,3LB,Azınlık Payları,Minority Interests,-33715013.0
+ARCLK,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,-166570285.0
+ARCLK,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ARCLK,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ARCLK,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ARCLK,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ARCLK,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,438741833.0
+ARCLK,2025/9,4BA,Kıdem Tazminatı,Severance Payments,20554994.0
+ARCLK,2025/9,4BB,Finansman Giderleri,Financial Expenses,-676146921.0
+ARCLK,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,3257859590.0
+ARCLK,2025/9,4BD,Yurtdışı Satışlar,Export Sales,6558314577.0
+ARCLK,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1834631482.0
+ARCLK,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1834631482.0
+ARCLK,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1663952460.0
+ARCLK,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-44157675.0
+ARCLK,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-200285297.0
+ARCLK,2025/9,4CAA,Düzeltmeler:,Adjustments:,941247664.0
+ARCLK,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,438741833.0
+ARCLK,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,133326890.0
+ARCLK,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,730400907.0
+ARCLK,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),740962366.0
+ARCLK,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-616069451.0
+ARCLK,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),124892915.0
+ARCLK,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-169050590.0
+ARCLK,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-273447056.0
+ARCLK,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-9660747.0
+ARCLK,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-283107802.0
+ARCLK,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,-327265477.0
+ARCLK,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1337480079.0
+ARCLK,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-11049487.0
+ARCLK,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ARCLK,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-729321377.0
+ARCLK,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,597109216.0
+ARCLK,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,269843739.0
+ARCLK,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,92469871.0
+ARCLK,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ARCLK,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,362313610.0
+ARCLK,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ARCLK,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1647085106.0
+ARCLK,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1845447411.0

@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+KRDMD,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,1121417890.0
+KRDMD,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,113863579.0
+KRDMD,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,136281.0
+KRDMD,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,252362952.0
+KRDMD,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+KRDMD,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,39138685.0
+KRDMD,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2022/12,1AF,Stoklar,Inventories,611040935.0
+KRDMD,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KRDMD,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,104875459.0
+KRDMD,2022/12,1AI,(Ara Toplam),(Subtotal),1121417890.0
+KRDMD,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KRDMD,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1277085535.0
+KRDMD,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+KRDMD,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+KRDMD,2022/12,1BB,Diğer Alacaklar,Other Receivables,24888.0
+KRDMD,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2022/12,1BC,Finansal Yatırımlar,Financial Investments,156750.0
+KRDMD,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,2560062.0
+KRDMD,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KRDMD,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,145699.0
+KRDMD,2022/12,1BFA,Stoklar,Stoklar,0.0
+KRDMD,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KRDMD,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1260487049.0
+KRDMD,2022/12,1BGA,Şerefiye,Goodwill,0.0
+KRDMD,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,6155200.0
+KRDMD,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+KRDMD,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,7555888.0
+KRDMD,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2398503425.0
+KRDMD,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+KRDMD,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,811080857.0
+KRDMD,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,118728771.0
+KRDMD,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,460985039.0
+KRDMD,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1278432.0
+KRDMD,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KRDMD,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+KRDMD,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KRDMD,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,214597296.0
+KRDMD,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4147371.0
+KRDMD,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,818614.0
+KRDMD,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,10525334.0
+KRDMD,2022/12,2AAGG,(Ara Toplam),(Subtotal),811080857.0
+KRDMD,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KRDMD,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,249948866.0
+KRDMD,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,30897705.0
+KRDMD,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,10561218.0
+KRDMD,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,761249.0
+KRDMD,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KRDMD,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+KRDMD,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KRDMD,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,430159.0
+KRDMD,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,61145962.0
+KRDMD,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KRDMD,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,146152572.0
+KRDMD,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+KRDMD,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1337473702.0
+KRDMD,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1337473769.0
+KRDMD,2022/12,2OA,Ödenmiş Sermaye,Share Capital,41652039.0
+KRDMD,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,-30601778.0
+KRDMD,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+KRDMD,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KRDMD,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KRDMD,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,41033912.0
+KRDMD,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),871109675.0
+KRDMD,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),40483111.0
+KRDMD,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,373796809.0
+KRDMD,2022/12,2ODA,Azınlık Payları,Minority Interests,-67.0
+KRDMD,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2398503425.0
+KRDMD,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KRDMD,2022/12,3C,Satış Gelirleri,Net Sales,2231319127.0
+KRDMD,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2059248958.0
+KRDMD,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KRDMD,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,172070169.0
+KRDMD,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KRDMD,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+KRDMD,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KRDMD,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),172070169.0
+KRDMD,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-5831909.0
+KRDMD,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-17989217.0
+KRDMD,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+KRDMD,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,284576311.0
+KRDMD,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-336023128.0
+KRDMD,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KRDMD,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,96802226.0
+KRDMD,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,148249043.0
+KRDMD,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,17193660.0
+KRDMD,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+KRDMD,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KRDMD,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,723380.0
+KRDMD,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,114719265.0
+KRDMD,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),32370414.0
+KRDMD,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-11594380.0
+KRDMD,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,17193660.0
+KRDMD,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,135495299.0
+KRDMD,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-89854120.0
+KRDMD,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-38385035.0
+KRDMD,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-51469085.0
+KRDMD,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KRDMD,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,45641179.0
+KRDMD,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KRDMD,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KRDMD,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,45641179.0
+KRDMD,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KRDMD,2022/12,3LB,Azınlık Payları,Minority Interests,-58.0
+KRDMD,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,45641237.0
+KRDMD,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KRDMD,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KRDMD,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KRDMD,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KRDMD,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,62019791.0
+KRDMD,2022/12,4BA,Kıdem Tazminatı,Severance Payments,2686746.0
+KRDMD,2022/12,4BB,Finansman Giderleri,Financial Expenses,-11594380.0
+KRDMD,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,2155815703.0
+KRDMD,2022/12,4BD,Yurtdışı Satışlar,Export Sales,78857239.0
+KRDMD,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-706807769.0
+KRDMD,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-716918299.0
+KRDMD,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-689040081.0
+KRDMD,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-337026395.0
+KRDMD,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,45641179.0
+KRDMD,2022/12,4CAA,Düzeltmeler:,Adjustments:,215251703.0
+KRDMD,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,62019791.0
+KRDMD,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,9872520.0
+KRDMD,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,143359393.0
+KRDMD,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),260892882.0
+KRDMD,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-389867623.0
+KRDMD,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-128974741.0
+KRDMD,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-208051655.0
+KRDMD,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-65671262.0
+KRDMD,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,16799707.0
+KRDMD,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-48871556.0
+KRDMD,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,-385897951.0
+KRDMD,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-55848711.0
+KRDMD,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-84562911.0
+KRDMD,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KRDMD,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,57426156.0
+KRDMD,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-82985467.0
+KRDMD,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-468883417.0
+KRDMD,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+KRDMD,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KRDMD,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-468883417.0
+KRDMD,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KRDMD,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,597254840.0
+KRDMD,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,128371423.0
+KRDMD,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,870919917.0
+KRDMD,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,359193403.0
+KRDMD,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1345.0
+KRDMD,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,206172228.0
+KRDMD,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+KRDMD,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,9609123.0
+KRDMD,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2022/3,1AF,Stoklar,Inventories,190182898.0
+KRDMD,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KRDMD,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,105760920.0
+KRDMD,2022/3,1AI,(Ara Toplam),(Subtotal),870919917.0
+KRDMD,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KRDMD,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,444724922.0
+KRDMD,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+KRDMD,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+KRDMD,2022/3,1BB,Diğer Alacaklar,Other Receivables,13768.0
+KRDMD,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2022/3,1BC,Finansal Yatırımlar,Financial Investments,22682.0
+KRDMD,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,1023354.0
+KRDMD,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KRDMD,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,26585.0
+KRDMD,2022/3,1BFA,Stoklar,Stoklar,0.0
+KRDMD,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KRDMD,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,440728380.0
+KRDMD,2022/3,1BGA,Şerefiye,Goodwill,0.0
+KRDMD,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1388803.0
+KRDMD,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+KRDMD,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1521350.0
+KRDMD,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1315644839.0
+KRDMD,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+KRDMD,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,700543985.0
+KRDMD,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,51159062.0
+KRDMD,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,394966049.0
+KRDMD,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,462049.0
+KRDMD,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KRDMD,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+KRDMD,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KRDMD,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,232137633.0
+KRDMD,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),9005193.0
+KRDMD,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,942549.0
+KRDMD,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,11871451.0
+KRDMD,2022/3,2AAGG,(Ara Toplam),(Subtotal),700543985.0
+KRDMD,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KRDMD,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,105041128.0
+KRDMD,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,68732210.0
+KRDMD,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,6698496.0
+KRDMD,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,461680.0
+KRDMD,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KRDMD,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+KRDMD,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KRDMD,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,334705.0
+KRDMD,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,22191761.0
+KRDMD,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KRDMD,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,6622277.0
+KRDMD,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+KRDMD,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,510059726.0
+KRDMD,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,510059740.0
+KRDMD,2022/3,2OA,Ödenmiş Sermaye,Share Capital,53208716.0
+KRDMD,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,-3844087.0
+KRDMD,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+KRDMD,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KRDMD,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KRDMD,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,5745975.0
+KRDMD,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),238796827.0
+KRDMD,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),54639143.0
+KRDMD,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,161513167.0
+KRDMD,2022/3,2ODA,Azınlık Payları,Minority Interests,-14.0
+KRDMD,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1315644839.0
+KRDMD,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KRDMD,2022/3,3C,Satış Gelirleri,Net Sales,295143887.0
+KRDMD,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-222599746.0
+KRDMD,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KRDMD,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,72544141.0
+KRDMD,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KRDMD,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+KRDMD,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KRDMD,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),72544141.0
+KRDMD,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-735686.0
+KRDMD,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1724150.0
+KRDMD,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+KRDMD,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,61707723.0
+KRDMD,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-60070924.0
+KRDMD,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KRDMD,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,71721104.0
+KRDMD,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,70084305.0
+KRDMD,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,8964533.0
+KRDMD,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+KRDMD,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KRDMD,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,185975.0
+KRDMD,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,80871611.0
+KRDMD,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),2852130.0
+KRDMD,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-13057294.0
+KRDMD,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,8964533.0
+KRDMD,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,70666448.0
+KRDMD,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-13325943.0
+KRDMD,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-8368830.0
+KRDMD,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-4957112.0
+KRDMD,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KRDMD,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,57340505.0
+KRDMD,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KRDMD,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KRDMD,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,57340505.0
+KRDMD,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KRDMD,2022/3,3LB,Azınlık Payları,Minority Interests,-1.0
+KRDMD,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,57340506.0
+KRDMD,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KRDMD,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KRDMD,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KRDMD,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KRDMD,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,4278550.0
+KRDMD,2022/3,4BA,Kıdem Tazminatı,Severance Payments,407202.0
+KRDMD,2022/3,4BB,Finansman Giderleri,Financial Expenses,-13057294.0
+KRDMD,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,288147562.0
+KRDMD,2022/3,4BD,Yurtdışı Satışlar,Export Sales,7674735.0
+KRDMD,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-232832994.0
+KRDMD,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-232832994.0
+KRDMD,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-232832994.0
+KRDMD,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,122924285.0
+KRDMD,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,57340505.0
+KRDMD,2022/3,4CAA,Düzeltmeler:,Adjustments:,6199178.0
+KRDMD,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,4278550.0
+KRDMD,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,1368268.0
+KRDMD,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,552360.0
+KRDMD,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),63539683.0
+KRDMD,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,76080284.0
+KRDMD,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),139619967.0
+KRDMD,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-16695682.0
+KRDMD,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-6675033.0
+KRDMD,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,8941088.0
+KRDMD,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,2266055.0
+KRDMD,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,125190340.0
+KRDMD,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-11832875.0
+KRDMD,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+KRDMD,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KRDMD,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,1210531.0
+KRDMD,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-10622344.0
+KRDMD,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,114567996.0
+KRDMD,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+KRDMD,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KRDMD,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,114567996.0
+KRDMD,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KRDMD,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,262383959.0
+KRDMD,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,376951956.0
+KRDMD,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,707291586.0
+KRDMD,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,241614889.0
+KRDMD,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,11295714.0
+KRDMD,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,110377673.0
+KRDMD,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+KRDMD,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,11918644.0
+KRDMD,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2022/6,1AF,Stoklar,Inventories,245513351.0
+KRDMD,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KRDMD,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,86571315.0
+KRDMD,2022/6,1AI,(Ara Toplam),(Subtotal),707291586.0
+KRDMD,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KRDMD,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,395423450.0
+KRDMD,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+KRDMD,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+KRDMD,2022/6,1BB,Diğer Alacaklar,Other Receivables,26945.0
+KRDMD,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2022/6,1BC,Finansal Yatırımlar,Financial Investments,19927.0
+KRDMD,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,1126525.0
+KRDMD,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KRDMD,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,23216.0
+KRDMD,2022/6,1BFA,Stoklar,Stoklar,0.0
+KRDMD,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KRDMD,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,390632100.0
+KRDMD,2022/6,1BGA,Şerefiye,Goodwill,0.0
+KRDMD,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1364143.0
+KRDMD,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,695069.0
+KRDMD,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1535525.0
+KRDMD,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1102715036.0
+KRDMD,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+KRDMD,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,562723384.0
+KRDMD,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,30485868.0
+KRDMD,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,341141012.0
+KRDMD,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,18920273.0
+KRDMD,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KRDMD,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+KRDMD,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KRDMD,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,154237815.0
+KRDMD,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),9042490.0
+KRDMD,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,634638.0
+KRDMD,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,8261288.0
+KRDMD,2022/6,2AAGG,(Ara Toplam),(Subtotal),562723384.0
+KRDMD,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KRDMD,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,94870268.0
+KRDMD,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,61247775.0
+KRDMD,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,6322541.0
+KRDMD,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,441057.0
+KRDMD,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KRDMD,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+KRDMD,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KRDMD,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,293686.0
+KRDMD,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,26565208.0
+KRDMD,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KRDMD,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+KRDMD,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+KRDMD,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,445121384.0
+KRDMD,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,445121403.0
+KRDMD,2022/6,2OA,Ödenmiş Sermaye,Share Capital,46744192.0
+KRDMD,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,-3377055.0
+KRDMD,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,484005.0
+KRDMD,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KRDMD,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KRDMD,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,13716440.0
+KRDMD,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),163485952.0
+KRDMD,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),93887410.0
+KRDMD,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,130180458.0
+KRDMD,2022/6,2ODA,Azınlık Payları,Minority Interests,-19.0
+KRDMD,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1102715036.0
+KRDMD,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KRDMD,2022/6,3C,Satış Gelirleri,Net Sales,590960387.0
+KRDMD,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-446700286.0
+KRDMD,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KRDMD,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,144260101.0
+KRDMD,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KRDMD,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+KRDMD,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KRDMD,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),144260101.0
+KRDMD,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1568693.0
+KRDMD,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-3601513.0
+KRDMD,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+KRDMD,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,107202133.0
+KRDMD,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-119002993.0
+KRDMD,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KRDMD,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,127289034.0
+KRDMD,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,139089894.0
+KRDMD,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,10781975.0
+KRDMD,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+KRDMD,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KRDMD,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,429641.0
+KRDMD,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,138500651.0
+KRDMD,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),9130624.0
+KRDMD,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-23918482.0
+KRDMD,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,10781975.0
+KRDMD,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,123712792.0
+KRDMD,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-18442721.0
+KRDMD,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-18304590.0
+KRDMD,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-138131.0
+KRDMD,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KRDMD,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,105270072.0
+KRDMD,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KRDMD,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KRDMD,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,105270072.0
+KRDMD,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KRDMD,2022/6,3LB,Azınlık Payları,Minority Interests,-9.0
+KRDMD,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,105270080.0
+KRDMD,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KRDMD,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KRDMD,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KRDMD,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KRDMD,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,7846451.0
+KRDMD,2022/6,4BA,Kıdem Tazminatı,Severance Payments,789465.0
+KRDMD,2022/6,4BB,Finansman Giderleri,Financial Expenses,-23918482.0
+KRDMD,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,571979448.0
+KRDMD,2022/6,4BD,Yurtdışı Satışlar,Export Sales,19926060.0
+KRDMD,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-321098126.0
+KRDMD,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-321098126.0
+KRDMD,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-321098126.0
+KRDMD,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,95046895.0
+KRDMD,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,105270072.0
+KRDMD,2022/6,4CAA,Düzeltmeler:,Adjustments:,30353093.0
+KRDMD,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,7846451.0
+KRDMD,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,2294138.0
+KRDMD,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,20212503.0
+KRDMD,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),135623164.0
+KRDMD,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-16435693.0
+KRDMD,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),119187472.0
+KRDMD,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-24140576.0
+KRDMD,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-14460789.0
+KRDMD,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1932907.0
+KRDMD,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-16393696.0
+KRDMD,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,78653199.0
+KRDMD,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-36309557.0
+KRDMD,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-20726154.0
+KRDMD,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KRDMD,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,3014165.0
+KRDMD,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-54021546.0
+KRDMD,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,24631653.0
+KRDMD,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+KRDMD,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KRDMD,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,24631653.0
+KRDMD,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KRDMD,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,246276009.0
+KRDMD,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,270907662.0
+KRDMD,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,625339366.0
+KRDMD,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,152193288.0
+KRDMD,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3603862.0
+KRDMD,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,106784554.0
+KRDMD,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+KRDMD,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,13059400.0
+KRDMD,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2022/9,1AF,Stoklar,Inventories,285315160.0
+KRDMD,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KRDMD,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,64383102.0
+KRDMD,2022/9,1AI,(Ara Toplam),(Subtotal),625339366.0
+KRDMD,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KRDMD,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,365038871.0
+KRDMD,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+KRDMD,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+KRDMD,2022/9,1BB,Diğer Alacaklar,Other Receivables,13146.0
+KRDMD,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2022/9,1BC,Finansal Yatırımlar,Financial Investments,17928.0
+KRDMD,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,1320804.0
+KRDMD,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KRDMD,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,20763.0
+KRDMD,2022/9,1BFA,Stoklar,Stoklar,0.0
+KRDMD,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KRDMD,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,357198527.0
+KRDMD,2022/9,1BGA,Şerefiye,Goodwill,0.0
+KRDMD,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1284262.0
+KRDMD,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,3688275.0
+KRDMD,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1495167.0
+KRDMD,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,990378237.0
+KRDMD,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+KRDMD,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,509756217.0
+KRDMD,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,27858849.0
+KRDMD,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,366016645.0
+KRDMD,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,17157495.0
+KRDMD,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KRDMD,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+KRDMD,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KRDMD,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,91120910.0
+KRDMD,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),137396.0
+KRDMD,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,596019.0
+KRDMD,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,6868902.0
+KRDMD,2022/9,2AAGG,(Ara Toplam),(Subtotal),509756217.0
+KRDMD,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KRDMD,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,81227217.0
+KRDMD,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,49214705.0
+KRDMD,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,5818630.0
+KRDMD,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,420531.0
+KRDMD,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KRDMD,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+KRDMD,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KRDMD,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,263912.0
+KRDMD,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,25509440.0
+KRDMD,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KRDMD,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+KRDMD,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+KRDMD,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,399394803.0
+KRDMD,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,399394820.0
+KRDMD,2022/9,2OA,Ödenmiş Sermaye,Share Capital,42055940.0
+KRDMD,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,-3038350.0
+KRDMD,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,435462.0
+KRDMD,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KRDMD,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KRDMD,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,12340737.0
+KRDMD,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),148293729.0
+KRDMD,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),88257298.0
+KRDMD,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,111050004.0
+KRDMD,2022/9,2ODA,Azınlık Payları,Minority Interests,-17.0
+KRDMD,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,990378237.0
+KRDMD,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KRDMD,2022/9,3C,Satış Gelirleri,Net Sales,846495545.0
+KRDMD,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-692767545.0
+KRDMD,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KRDMD,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,153728000.0
+KRDMD,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KRDMD,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+KRDMD,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KRDMD,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),153728000.0
+KRDMD,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2256808.0
+KRDMD,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-5963430.0
+KRDMD,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+KRDMD,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,133843509.0
+KRDMD,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-154150787.0
+KRDMD,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KRDMD,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,125200484.0
+KRDMD,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,145507762.0
+KRDMD,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,8277899.0
+KRDMD,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+KRDMD,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KRDMD,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,760146.0
+KRDMD,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,134238529.0
+KRDMD,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),13789118.0
+KRDMD,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-31147941.0
+KRDMD,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,8277899.0
+KRDMD,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,116879706.0
+KRDMD,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-13986167.0
+KRDMD,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-15955516.0
+KRDMD,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,1969349.0
+KRDMD,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KRDMD,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,102893539.0
+KRDMD,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KRDMD,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KRDMD,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,102893539.0
+KRDMD,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KRDMD,2022/9,3LB,Azınlık Payları,Minority Interests,-8.0
+KRDMD,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,102893547.0
+KRDMD,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KRDMD,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KRDMD,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KRDMD,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KRDMD,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,10975261.0
+KRDMD,2022/9,4BA,Kıdem Tazminatı,Severance Payments,1220516.0
+KRDMD,2022/9,4BB,Finansman Giderleri,Financial Expenses,-31147941.0
+KRDMD,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,816338670.0
+KRDMD,2022/9,4BD,Yurtdışı Satışlar,Export Sales,31513288.0
+KRDMD,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-386246740.0
+KRDMD,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-386246740.0
+KRDMD,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-386246740.0
+KRDMD,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,26905200.0
+KRDMD,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,102893539.0
+KRDMD,2022/9,4CAA,Düzeltmeler:,Adjustments:,33545289.0
+KRDMD,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,10975261.0
+KRDMD,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,4512918.0
+KRDMD,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,18057109.0
+KRDMD,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),136438828.0
+KRDMD,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-76418084.0
+KRDMD,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),60020744.0
+KRDMD,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-33115544.0
+KRDMD,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-24150930.0
+KRDMD,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,3997551.0
+KRDMD,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-20153378.0
+KRDMD,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,6751821.0
+KRDMD,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-46317451.0
+KRDMD,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-19389130.0
+KRDMD,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KRDMD,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,5998210.0
+KRDMD,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-59708371.0
+KRDMD,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-52956550.0
+KRDMD,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+KRDMD,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KRDMD,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-52956550.0
+KRDMD,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KRDMD,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,230388985.0
+KRDMD,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,177432435.0
+KRDMD,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,844842906.0
+KRDMD,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,159380294.0
+KRDMD,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,43807.0
+KRDMD,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,172787419.0
+KRDMD,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+KRDMD,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,13627973.0
+KRDMD,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2023/12,1AF,Stoklar,Inventories,411547972.0
+KRDMD,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KRDMD,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,87455440.0
+KRDMD,2023/12,1AI,(Ara Toplam),(Subtotal),844842906.0
+KRDMD,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KRDMD,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1164360903.0
+KRDMD,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+KRDMD,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+KRDMD,2023/12,1BB,Diğer Alacaklar,Other Receivables,223913.0
+KRDMD,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2023/12,1BC,Finansal Yatırımlar,Financial Investments,143749.0
+KRDMD,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,3487387.0
+KRDMD,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KRDMD,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,130172.0
+KRDMD,2023/12,1BFA,Stoklar,Stoklar,0.0
+KRDMD,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KRDMD,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1149408896.0
+KRDMD,2023/12,1BGA,Şerefiye,Goodwill,0.0
+KRDMD,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,6314431.0
+KRDMD,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+KRDMD,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,4652356.0
+KRDMD,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2009203809.0
+KRDMD,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+KRDMD,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,644184738.0
+KRDMD,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,60492241.0
+KRDMD,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,363011669.0
+KRDMD,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,400213.0
+KRDMD,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KRDMD,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+KRDMD,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KRDMD,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,190543659.0
+KRDMD,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5476730.0
+KRDMD,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,1810323.0
+KRDMD,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,22449903.0
+KRDMD,2023/12,2AAGG,(Ara Toplam),(Subtotal),644184738.0
+KRDMD,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KRDMD,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,130520886.0
+KRDMD,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,13333496.0
+KRDMD,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,9604559.0
+KRDMD,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KRDMD,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KRDMD,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+KRDMD,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KRDMD,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,237762.0
+KRDMD,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,46073225.0
+KRDMD,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KRDMD,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,61271844.0
+KRDMD,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+KRDMD,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1234498185.0
+KRDMD,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1234498243.0
+KRDMD,2023/12,2OA,Ödenmiş Sermaye,Share Capital,26456141.0
+KRDMD,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,-32728290.0
+KRDMD,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,35791214.0
+KRDMD,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KRDMD,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KRDMD,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,39053630.0
+KRDMD,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),822627061.0
+KRDMD,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),53205188.0
+KRDMD,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,290093299.0
+KRDMD,2023/12,2ODA,Azınlık Payları,Minority Interests,-59.0
+KRDMD,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2009203809.0
+KRDMD,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KRDMD,2023/12,3C,Satış Gelirleri,Net Sales,2140650035.0
+KRDMD,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2049855190.0
+KRDMD,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KRDMD,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,90794845.0
+KRDMD,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KRDMD,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+KRDMD,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KRDMD,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),90794845.0
+KRDMD,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-6093259.0
+KRDMD,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-18875177.0
+KRDMD,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+KRDMD,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,119387261.0
+KRDMD,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-311286696.0
+KRDMD,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KRDMD,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-126073026.0
+KRDMD,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,65826409.0
+KRDMD,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2146637.0
+KRDMD,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+KRDMD,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KRDMD,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1739372.0
+KRDMD,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-122187017.0
+KRDMD,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),42864660.0
+KRDMD,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),83911022.0
+KRDMD,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2146637.0
+KRDMD,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,4588665.0
+KRDMD,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,61260545.0
+KRDMD,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-17043317.0
+KRDMD,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,78303863.0
+KRDMD,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KRDMD,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,65849211.0
+KRDMD,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KRDMD,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KRDMD,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,65849211.0
+KRDMD,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KRDMD,2023/12,3LB,Azınlık Payları,Minority Interests,3.0
+KRDMD,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,65849208.0
+KRDMD,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KRDMD,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KRDMD,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KRDMD,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KRDMD,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,67256976.0
+KRDMD,2023/12,4BA,Kıdem Tazminatı,Severance Payments,3583660.0
+KRDMD,2023/12,4BB,Finansman Giderleri,Financial Expenses,83911022.0
+KRDMD,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,2090781807.0
+KRDMD,2023/12,4BD,Yurtdışı Satışlar,Export Sales,73096922.0
+KRDMD,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-434802342.0
+KRDMD,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-444321050.0
+KRDMD,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-434802342.0
+KRDMD,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,273227345.0
+KRDMD,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,65849211.0
+KRDMD,2023/12,4CAA,Düzeltmeler:,Adjustments:,11388457.0
+KRDMD,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,67256976.0
+KRDMD,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,9628107.0
+KRDMD,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-56907103.0
+KRDMD,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),77237668.0
+KRDMD,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,226989312.0
+KRDMD,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),304226980.0
+KRDMD,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-30999635.0
+KRDMD,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-60009462.0
+KRDMD,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,1983265.0
+KRDMD,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-58026197.0
+KRDMD,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,215201148.0
+KRDMD,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-57599107.0
+KRDMD,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-14827674.0
+KRDMD,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KRDMD,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,8956898.0
+KRDMD,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-63469882.0
+KRDMD,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,68022981.0
+KRDMD,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+KRDMD,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KRDMD,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,68022981.0
+KRDMD,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KRDMD,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,129233461.0
+KRDMD,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,197256442.0
+KRDMD,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,640740789.0
+KRDMD,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,165995224.0
+KRDMD,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,19182486.0
+KRDMD,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,128698625.0
+KRDMD,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+KRDMD,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,14398083.0
+KRDMD,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2023/3,1AF,Stoklar,Inventories,279666831.0
+KRDMD,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KRDMD,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,32799541.0
+KRDMD,2023/3,1AI,(Ara Toplam),(Subtotal),640740789.0
+KRDMD,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KRDMD,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,376863119.0
+KRDMD,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+KRDMD,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+KRDMD,2023/3,1BB,Diğer Alacaklar,Other Receivables,15002.0
+KRDMD,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2023/3,1BC,Finansal Yatırımlar,Financial Investments,17334.0
+KRDMD,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,1716638.0
+KRDMD,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KRDMD,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,19823.0
+KRDMD,2023/3,1BFA,Stoklar,Stoklar,0.0
+KRDMD,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KRDMD,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,366752056.0
+KRDMD,2023/3,1BGA,Şerefiye,Goodwill,0.0
+KRDMD,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2133086.0
+KRDMD,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,2683535.0
+KRDMD,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3525645.0
+KRDMD,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1017603908.0
+KRDMD,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+KRDMD,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,503404023.0
+KRDMD,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,43746731.0
+KRDMD,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,253884132.0
+KRDMD,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,614930.0
+KRDMD,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KRDMD,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+KRDMD,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KRDMD,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,185033115.0
+KRDMD,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4361698.0
+KRDMD,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,602334.0
+KRDMD,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,15161085.0
+KRDMD,2023/3,2AAGG,(Ara Toplam),(Subtotal),503404023.0
+KRDMD,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KRDMD,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,81469959.0
+KRDMD,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,39493291.0
+KRDMD,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,6529505.0
+KRDMD,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,474584.0
+KRDMD,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KRDMD,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+KRDMD,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KRDMD,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,254729.0
+KRDMD,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,34717850.0
+KRDMD,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KRDMD,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+KRDMD,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+KRDMD,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,432729926.0
+KRDMD,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,432729996.0
+KRDMD,2023/3,2OA,Ödenmiş Sermaye,Share Capital,40662609.0
+KRDMD,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,-2578671.0
+KRDMD,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+KRDMD,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KRDMD,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KRDMD,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,11931883.0
+KRDMD,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),228527787.0
+KRDMD,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),22867168.0
+KRDMD,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,131319221.0
+KRDMD,2023/3,2ODA,Azınlık Payları,Minority Interests,-70.0
+KRDMD,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1017603908.0
+KRDMD,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KRDMD,2023/3,3C,Satış Gelirleri,Net Sales,627761286.0
+KRDMD,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-651440854.0
+KRDMD,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KRDMD,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,-23679568.0
+KRDMD,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KRDMD,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+KRDMD,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KRDMD,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),-23679568.0
+KRDMD,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1528055.0
+KRDMD,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-4724802.0
+KRDMD,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+KRDMD,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,19359982.0
+KRDMD,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-28322210.0
+KRDMD,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KRDMD,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-38894654.0
+KRDMD,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-29932426.0
+KRDMD,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3067745.0
+KRDMD,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,4484364.0
+KRDMD,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KRDMD,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+KRDMD,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-31342545.0
+KRDMD,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),10467223.0
+KRDMD,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),8182619.0
+KRDMD,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,7552109.0
+KRDMD,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-12692702.0
+KRDMD,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-55595113.0
+KRDMD,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-7520597.0
+KRDMD,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-48074516.0
+KRDMD,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KRDMD,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-68287815.0
+KRDMD,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KRDMD,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KRDMD,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-68287815.0
+KRDMD,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KRDMD,2023/3,3LB,Azınlık Payları,Minority Interests,18.0
+KRDMD,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,-68287833.0
+KRDMD,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KRDMD,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KRDMD,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KRDMD,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KRDMD,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,17630077.0
+KRDMD,2023/3,4BA,Kıdem Tazminatı,Severance Payments,738379.0
+KRDMD,2023/3,4BB,Finansman Giderleri,Financial Expenses,8182619.0
+KRDMD,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,564972737.0
+KRDMD,2023/3,4BD,Yurtdışı Satışlar,Export Sales,15670194.0
+KRDMD,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-316725983.0
+KRDMD,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-321596326.0
+KRDMD,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-316725983.0
+KRDMD,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,218828322.0
+KRDMD,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-62993301.0
+KRDMD,2023/3,4CAA,Düzeltmeler:,Adjustments:,71528200.0
+KRDMD,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,16335328.0
+KRDMD,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,2060643.0
+KRDMD,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,53132229.0
+KRDMD,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),8534899.0
+KRDMD,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,250727105.0
+KRDMD,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),259262004.0
+KRDMD,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-23216029.0
+KRDMD,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-24941848.0
+KRDMD,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-29895450.0
+KRDMD,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-54837297.0
+KRDMD,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,163991025.0
+KRDMD,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-12986988.0
+KRDMD,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+KRDMD,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KRDMD,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,3149728.0
+KRDMD,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-9837260.0
+KRDMD,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,154153765.0
+KRDMD,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+KRDMD,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KRDMD,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,154153765.0
+KRDMD,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KRDMD,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,129894307.0
+KRDMD,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,284048072.0
+KRDMD,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,456422651.0
+KRDMD,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,52683138.0
+KRDMD,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,8768061.0
+KRDMD,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,75168673.0
+KRDMD,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+KRDMD,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,12113437.0
+KRDMD,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2023/6,1AF,Stoklar,Inventories,244199666.0
+KRDMD,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KRDMD,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,63489676.0
+KRDMD,2023/6,1AI,(Ara Toplam),(Subtotal),456422651.0
+KRDMD,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KRDMD,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,294432047.0
+KRDMD,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+KRDMD,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+KRDMD,2023/6,1BB,Diğer Alacaklar,Other Receivables,12076.0
+KRDMD,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2023/6,1BC,Finansal Yatırımlar,Financial Investments,12857.0
+KRDMD,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,1147880.0
+KRDMD,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KRDMD,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,14621.0
+KRDMD,2023/6,1BFA,Stoklar,Stoklar,0.0
+KRDMD,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KRDMD,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,275126133.0
+KRDMD,2023/6,1BGA,Şerefiye,Goodwill,0.0
+KRDMD,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1280792.0
+KRDMD,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,13669258.0
+KRDMD,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3168430.0
+KRDMD,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,750854698.0
+KRDMD,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+KRDMD,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,394620258.0
+KRDMD,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,27495735.0
+KRDMD,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,247098572.0
+KRDMD,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,3413717.0
+KRDMD,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KRDMD,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+KRDMD,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KRDMD,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,105940769.0
+KRDMD,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),646849.0
+KRDMD,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,372114.0
+KRDMD,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,9652502.0
+KRDMD,2023/6,2AAGG,(Ara Toplam),(Subtotal),394620258.0
+KRDMD,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KRDMD,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,73959575.0
+KRDMD,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,36988394.0
+KRDMD,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,6554637.0
+KRDMD,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KRDMD,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KRDMD,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+KRDMD,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KRDMD,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,187912.0
+KRDMD,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,30228631.0
+KRDMD,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KRDMD,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+KRDMD,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+KRDMD,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,282274865.0
+KRDMD,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,282274947.0
+KRDMD,2023/6,2OA,Ödenmiş Sermaye,Share Capital,30159956.0
+KRDMD,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,-4489066.0
+KRDMD,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+KRDMD,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KRDMD,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KRDMD,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,10065726.0
+KRDMD,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),162728791.0
+KRDMD,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),31729818.0
+KRDMD,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,52079721.0
+KRDMD,2023/6,2ODA,Azınlık Payları,Minority Interests,-82.0
+KRDMD,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,750854698.0
+KRDMD,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KRDMD,2023/6,3C,Satış Gelirleri,Net Sales,1084987479.0
+KRDMD,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1007983685.0
+KRDMD,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KRDMD,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,77003794.0
+KRDMD,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KRDMD,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+KRDMD,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KRDMD,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),77003794.0
+KRDMD,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2930858.0
+KRDMD,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-9311632.0
+KRDMD,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+KRDMD,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,175984085.0
+KRDMD,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-225648790.0
+KRDMD,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KRDMD,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,15096600.0
+KRDMD,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,64761305.0
+KRDMD,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,6521200.0
+KRDMD,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,4019834.0
+KRDMD,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KRDMD,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+KRDMD,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,25637633.0
+KRDMD,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),22290414.0
+KRDMD,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-12169873.0
+KRDMD,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,10541034.0
+KRDMD,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,35758175.0
+KRDMD,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-90618118.0
+KRDMD,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-5276621.0
+KRDMD,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-85341497.0
+KRDMD,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KRDMD,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-54859943.0
+KRDMD,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KRDMD,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KRDMD,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-54859943.0
+KRDMD,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KRDMD,2023/6,3LB,Azınlık Payları,Minority Interests,30.0
+KRDMD,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,-54859973.0
+KRDMD,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KRDMD,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KRDMD,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KRDMD,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KRDMD,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,34039233.0
+KRDMD,2023/6,4BA,Kıdem Tazminatı,Severance Payments,2013550.0
+KRDMD,2023/6,4BB,Finansman Giderleri,Financial Expenses,-12169873.0
+KRDMD,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,1048820439.0
+KRDMD,2023/6,4BD,Yurtdışı Satışlar,Export Sales,39199606.0
+KRDMD,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-388524737.0
+KRDMD,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-388524737.0
+KRDMD,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-388524737.0
+KRDMD,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,74819389.0
+KRDMD,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-54859943.0
+KRDMD,2023/6,4CAA,Düzeltmeler:,Adjustments:,44983068.0
+KRDMD,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,34039233.0
+KRDMD,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,5605862.0
+KRDMD,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,5337973.0
+KRDMD,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-9876874.0
+KRDMD,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,152403624.0
+KRDMD,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),142526750.0
+KRDMD,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-24102851.0
+KRDMD,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-27450972.0
+KRDMD,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-13029633.0
+KRDMD,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-40480605.0
+KRDMD,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,34338784.0
+KRDMD,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-45512470.0
+KRDMD,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-4463035.0
+KRDMD,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KRDMD,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-613695.0
+KRDMD,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-50589200.0
+KRDMD,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-16250416.0
+KRDMD,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+KRDMD,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KRDMD,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-16250416.0
+KRDMD,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KRDMD,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,134360919.0
+KRDMD,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,118110504.0
+KRDMD,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,491270719.0
+KRDMD,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,28928411.0
+KRDMD,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1979048.0
+KRDMD,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,127836597.0
+KRDMD,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+KRDMD,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,13647673.0
+KRDMD,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2023/9,1AF,Stoklar,Inventories,245385371.0
+KRDMD,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KRDMD,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,73493619.0
+KRDMD,2023/9,1AI,(Ara Toplam),(Subtotal),491270719.0
+KRDMD,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KRDMD,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,279885622.0
+KRDMD,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+KRDMD,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+KRDMD,2023/9,1BB,Diğer Alacaklar,Other Receivables,11387.0
+KRDMD,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2023/9,1BC,Finansal Yatırımlar,Financial Investments,12127.0
+KRDMD,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,1761274.0
+KRDMD,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KRDMD,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,13699.0
+KRDMD,2023/9,1BFA,Stoklar,Stoklar,0.0
+KRDMD,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KRDMD,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,264654801.0
+KRDMD,2023/9,1BGA,Şerefiye,Goodwill,0.0
+KRDMD,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1991860.0
+KRDMD,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,8396343.0
+KRDMD,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3044130.0
+KRDMD,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,771156341.0
+KRDMD,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+KRDMD,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,418162465.0
+KRDMD,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,60533001.0
+KRDMD,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,209568822.0
+KRDMD,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,3168524.0
+KRDMD,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KRDMD,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+KRDMD,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KRDMD,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,134181476.0
+KRDMD,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+KRDMD,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,474599.0
+KRDMD,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,10236043.0
+KRDMD,2023/9,2AAGG,(Ara Toplam),(Subtotal),418162465.0
+KRDMD,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KRDMD,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,61084908.0
+KRDMD,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,26800741.0
+KRDMD,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,6375148.0
+KRDMD,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KRDMD,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KRDMD,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+KRDMD,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KRDMD,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,177249.0
+KRDMD,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,27731770.0
+KRDMD,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KRDMD,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+KRDMD,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+KRDMD,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,291908968.0
+KRDMD,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,291909043.0
+KRDMD,2023/9,2OA,Ödenmiş Sermaye,Share Capital,28448407.0
+KRDMD,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,-4234315.0
+KRDMD,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,15916087.0
+KRDMD,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KRDMD,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KRDMD,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,9494511.0
+KRDMD,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),154352117.0
+KRDMD,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),31211880.0
+KRDMD,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,56720357.0
+KRDMD,2023/9,2ODA,Azınlık Payları,Minority Interests,-75.0
+KRDMD,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,771156341.0
+KRDMD,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KRDMD,2023/9,3C,Satış Gelirleri,Net Sales,1606852718.0
+KRDMD,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1527423635.0
+KRDMD,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KRDMD,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,79429083.0
+KRDMD,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KRDMD,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+KRDMD,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KRDMD,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),79429083.0
+KRDMD,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-4547363.0
+KRDMD,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-14103782.0
+KRDMD,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+KRDMD,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,192152325.0
+KRDMD,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-336504367.0
+KRDMD,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KRDMD,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-83574104.0
+KRDMD,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,60777937.0
+KRDMD,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2075726.0
+KRDMD,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+KRDMD,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KRDMD,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1626816.0
+KRDMD,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-79871562.0
+KRDMD,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),31299569.0
+KRDMD,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),54324498.0
+KRDMD,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2075726.0
+KRDMD,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,5752505.0
+KRDMD,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-104231611.0
+KRDMD,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-9291598.0
+KRDMD,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-94940013.0
+KRDMD,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KRDMD,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-98479106.0
+KRDMD,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KRDMD,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KRDMD,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-98479106.0
+KRDMD,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KRDMD,2023/9,3LB,Azınlık Payları,Minority Interests,80.0
+KRDMD,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,-98479186.0
+KRDMD,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KRDMD,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KRDMD,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KRDMD,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KRDMD,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,49135794.0
+KRDMD,2023/9,4BA,Kıdem Tazminatı,Severance Payments,1956224.0
+KRDMD,2023/9,4BB,Finansman Giderleri,Financial Expenses,54324498.0
+KRDMD,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,1557367348.0
+KRDMD,2023/9,4BD,Yurtdışı Satışlar,Export Sales,58825715.0
+KRDMD,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-393963212.0
+KRDMD,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-393963212.0
+KRDMD,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-393963212.0
+KRDMD,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-42149506.0
+KRDMD,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-98479106.0
+KRDMD,2023/9,4CAA,Düzeltmeler:,Adjustments:,179589104.0
+KRDMD,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,49135794.0
+KRDMD,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,5734247.0
+KRDMD,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,124719063.0
+KRDMD,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),81109999.0
+KRDMD,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-14621632.0
+KRDMD,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),66488367.0
+KRDMD,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-22490263.0
+KRDMD,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-37400983.0
+KRDMD,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1574517.0
+KRDMD,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-38975500.0
+KRDMD,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,-81125006.0
+KRDMD,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,5484285.0
+KRDMD,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-5012914.0
+KRDMD,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KRDMD,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,3508170.0
+KRDMD,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,3979541.0
+KRDMD,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-77145465.0
+KRDMD,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+KRDMD,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KRDMD,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-77145465.0
+KRDMD,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KRDMD,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,130535661.0
+KRDMD,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,53390196.0
+KRDMD,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,759939395.0
+KRDMD,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,67881342.0
+KRDMD,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,22595.0
+KRDMD,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,114673838.0
+KRDMD,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+KRDMD,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,26088548.0
+KRDMD,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2024/12,1AF,Stoklar,Inventories,427124122.0
+KRDMD,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KRDMD,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,124148949.0
+KRDMD,2024/12,1AI,(Ara Toplam),(Subtotal),759939395.0
+KRDMD,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KRDMD,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1230006513.0
+KRDMD,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+KRDMD,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+KRDMD,2024/12,1BB,Diğer Alacaklar,Other Receivables,276925.0
+KRDMD,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2024/12,1BC,Finansal Yatırımlar,Financial Investments,108552.0
+KRDMD,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,6054927.0
+KRDMD,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KRDMD,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,132644.0
+KRDMD,2024/12,1BFA,Stoklar,Stoklar,0.0
+KRDMD,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KRDMD,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1211982641.0
+KRDMD,2024/12,1BGA,Şerefiye,Goodwill,0.0
+KRDMD,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,6347488.0
+KRDMD,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+KRDMD,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,5103335.0
+KRDMD,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1989945908.0
+KRDMD,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+KRDMD,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,581787861.0
+KRDMD,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,105163438.0
+KRDMD,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,375617877.0
+KRDMD,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1303886.0
+KRDMD,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KRDMD,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+KRDMD,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KRDMD,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,81977422.0
+KRDMD,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+KRDMD,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,4125482.0
+KRDMD,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,13599756.0
+KRDMD,2024/12,2AAGG,(Ara Toplam),(Subtotal),581787861.0
+KRDMD,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KRDMD,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,158856705.0
+KRDMD,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,8028139.0
+KRDMD,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,7853413.0
+KRDMD,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KRDMD,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KRDMD,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+KRDMD,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KRDMD,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,916569.0
+KRDMD,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,35085920.0
+KRDMD,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KRDMD,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,106972665.0
+KRDMD,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+KRDMD,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1249301341.0
+KRDMD,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1249301311.0
+KRDMD,2024/12,2OA,Ödenmiş Sermaye,Share Capital,22075329.0
+KRDMD,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,-34991957.0
+KRDMD,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,37459080.0
+KRDMD,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KRDMD,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KRDMD,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,40873524.0
+KRDMD,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),916645907.0
+KRDMD,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-73628404.0
+KRDMD,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,335254168.0
+KRDMD,2024/12,2ODA,Azınlık Payları,Minority Interests,29.0
+KRDMD,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1989945908.0
+KRDMD,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KRDMD,2024/12,3C,Satış Gelirleri,Net Sales,1475438993.0
+KRDMD,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-1395715892.0
+KRDMD,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KRDMD,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,79723101.0
+KRDMD,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KRDMD,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+KRDMD,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KRDMD,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),79723101.0
+KRDMD,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-6903813.0
+KRDMD,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-21988530.0
+KRDMD,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+KRDMD,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,55039489.0
+KRDMD,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-133566779.0
+KRDMD,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KRDMD,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-27696531.0
+KRDMD,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,50830759.0
+KRDMD,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,617008.0
+KRDMD,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+KRDMD,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KRDMD,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1713862.0
+KRDMD,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-25365660.0
+KRDMD,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),32739017.0
+KRDMD,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-44514666.0
+KRDMD,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,617008.0
+KRDMD,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-37141309.0
+KRDMD,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-42020528.0
+KRDMD,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-7334223.0
+KRDMD,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-34686305.0
+KRDMD,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KRDMD,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-79161837.0
+KRDMD,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KRDMD,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-79161837.0
+KRDMD,2024/12,3LB,Azınlık Payları,Minority Interests,97.0
+KRDMD,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,-79161935.0
+KRDMD,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KRDMD,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KRDMD,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KRDMD,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KRDMD,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,58513310.0
+KRDMD,2024/12,4BA,Kıdem Tazminatı,Severance Payments,3294275.0
+KRDMD,2024/12,4BB,Finansman Giderleri,Financial Expenses,-44514666.0
+KRDMD,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,1441062742.0
+KRDMD,2024/12,4BD,Yurtdışı Satışlar,Export Sales,51879099.0
+KRDMD,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-476459332.0
+KRDMD,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-489978107.0
+KRDMD,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-476459332.0
+KRDMD,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-20711238.0
+KRDMD,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-79161837.0
+KRDMD,2024/12,4CAA,Düzeltmeler:,Adjustments:,207217232.0
+KRDMD,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,58513310.0
+KRDMD,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,17849687.0
+KRDMD,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,92816208.0
+KRDMD,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),128055395.0
+KRDMD,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-114417921.0
+KRDMD,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),13637474.0
+KRDMD,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-34348711.0
+KRDMD,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-68222498.0
+KRDMD,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,366950.0
+KRDMD,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-67855548.0
+KRDMD,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,-88566785.0
+KRDMD,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,51629412.0
+KRDMD,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+KRDMD,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KRDMD,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,10167114.0
+KRDMD,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,61796526.0
+KRDMD,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-106360824.0
+KRDMD,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+KRDMD,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KRDMD,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-106360824.0
+KRDMD,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KRDMD,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,179343777.0
+KRDMD,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,72982953.0
+KRDMD,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,626266328.0
+KRDMD,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,111518883.0
+KRDMD,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,138292.0
+KRDMD,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,107952608.0
+KRDMD,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+KRDMD,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,15183552.0
+KRDMD,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2024/3,1AF,Stoklar,Inventories,289339569.0
+KRDMD,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KRDMD,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,102133424.0
+KRDMD,2024/3,1AI,(Ara Toplam),(Subtotal),626266328.0
+KRDMD,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KRDMD,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,841821489.0
+KRDMD,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+KRDMD,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+KRDMD,2024/3,1BB,Diğer Alacaklar,Other Receivables,125075.0
+KRDMD,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2024/3,1BC,Finansal Yatırımlar,Financial Investments,104459.0
+KRDMD,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,2388928.0
+KRDMD,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KRDMD,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,11473.0
+KRDMD,2024/3,1BFA,Stoklar,Stoklar,0.0
+KRDMD,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KRDMD,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,830065022.0
+KRDMD,2024/3,1BGA,Şerefiye,Goodwill,0.0
+KRDMD,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,4431035.0
+KRDMD,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+KRDMD,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,4695497.0
+KRDMD,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1468087818.0
+KRDMD,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+KRDMD,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,475877857.0
+KRDMD,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,30761330.0
+KRDMD,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,276174484.0
+KRDMD,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,345363.0
+KRDMD,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KRDMD,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+KRDMD,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KRDMD,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,152956607.0
+KRDMD,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1498036.0
+KRDMD,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,1167335.0
+KRDMD,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,12974703.0
+KRDMD,2024/3,2AAGG,(Ara Toplam),(Subtotal),475877857.0
+KRDMD,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KRDMD,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,101301374.0
+KRDMD,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,7686483.0
+KRDMD,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,6480639.0
+KRDMD,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KRDMD,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KRDMD,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+KRDMD,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KRDMD,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,636391.0
+KRDMD,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,30590331.0
+KRDMD,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KRDMD,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,55907531.0
+KRDMD,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+KRDMD,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,890908586.0
+KRDMD,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,890908618.0
+KRDMD,2024/3,2OA,Ödenmiş Sermaye,Share Capital,24123041.0
+KRDMD,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,-23782832.0
+KRDMD,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,26008583.0
+KRDMD,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KRDMD,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KRDMD,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,28379300.0
+KRDMD,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),636445464.0
+KRDMD,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-17605016.0
+KRDMD,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,217340078.0
+KRDMD,2024/3,2ODA,Azınlık Payları,Minority Interests,-32.0
+KRDMD,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1468087818.0
+KRDMD,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KRDMD,2024/3,3C,Satış Gelirleri,Net Sales,372712287.0
+KRDMD,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-336960731.0
+KRDMD,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KRDMD,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,35751555.0
+KRDMD,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KRDMD,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+KRDMD,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KRDMD,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),35751555.0
+KRDMD,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1480836.0
+KRDMD,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-4817705.0
+KRDMD,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+KRDMD,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,33929359.0
+KRDMD,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-64152187.0
+KRDMD,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KRDMD,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-769814.0
+KRDMD,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,29453014.0
+KRDMD,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,56865.0
+KRDMD,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+KRDMD,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KRDMD,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,203165.0
+KRDMD,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-509784.0
+KRDMD,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),7078284.0
+KRDMD,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-18750471.0
+KRDMD,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,56865.0
+KRDMD,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-12181970.0
+KRDMD,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-13217397.0
+KRDMD,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-2359055.0
+KRDMD,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-10858341.0
+KRDMD,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KRDMD,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-25399367.0
+KRDMD,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KRDMD,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KRDMD,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-25399367.0
+KRDMD,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KRDMD,2024/3,3LB,Azınlık Payları,Minority Interests,44.0
+KRDMD,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,-25399410.0
+KRDMD,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KRDMD,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KRDMD,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KRDMD,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KRDMD,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,14274420.0
+KRDMD,2024/3,4BA,Kıdem Tazminatı,Severance Payments,900084.0
+KRDMD,2024/3,4BB,Finansman Giderleri,Financial Expenses,-18750471.0
+KRDMD,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,365813092.0
+KRDMD,2024/3,4BD,Yurtdışı Satışlar,Export Sales,13542368.0
+KRDMD,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-299706066.0
+KRDMD,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-306982239.0
+KRDMD,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-299706066.0
+KRDMD,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,38686759.0
+KRDMD,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-25399367.0
+KRDMD,2024/3,4CAA,Düzeltmeler:,Adjustments:,79723570.0
+KRDMD,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,14274420.0
+KRDMD,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,3888255.0
+KRDMD,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,40137318.0
+KRDMD,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),54324203.0
+KRDMD,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,2146782.0
+KRDMD,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),56470985.0
+KRDMD,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-17784226.0
+KRDMD,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-6451327.0
+KRDMD,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-153592.0
+KRDMD,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-6604919.0
+KRDMD,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,32081840.0
+KRDMD,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-15701021.0
+KRDMD,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+KRDMD,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KRDMD,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,2587619.0
+KRDMD,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-13113402.0
+KRDMD,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,18968438.0
+KRDMD,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+KRDMD,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KRDMD,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,18968438.0
+KRDMD,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KRDMD,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,167094478.0
+KRDMD,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,160892433.0
+KRDMD,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,603929017.0
+KRDMD,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,35906162.0
+KRDMD,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,357090.0
+KRDMD,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,91568971.0
+KRDMD,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+KRDMD,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,16625967.0
+KRDMD,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2024/6,1AF,Stoklar,Inventories,336199984.0
+KRDMD,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KRDMD,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,123270843.0
+KRDMD,2024/6,1AI,(Ara Toplam),(Subtotal),603929017.0
+KRDMD,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KRDMD,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,892356798.0
+KRDMD,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+KRDMD,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+KRDMD,2024/6,1BB,Diğer Alacaklar,Other Receivables,139630.0
+KRDMD,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2024/6,1BC,Finansal Yatırımlar,Financial Investments,111373.0
+KRDMD,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,3983766.0
+KRDMD,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KRDMD,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,99528.0
+KRDMD,2024/6,1BFA,Stoklar,Stoklar,0.0
+KRDMD,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KRDMD,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,879960044.0
+KRDMD,2024/6,1BGA,Şerefiye,Goodwill,0.0
+KRDMD,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,4639914.0
+KRDMD,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+KRDMD,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3422543.0
+KRDMD,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1496285815.0
+KRDMD,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+KRDMD,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,445390934.0
+KRDMD,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,29569189.0
+KRDMD,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,309993005.0
+KRDMD,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,396389.0
+KRDMD,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KRDMD,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+KRDMD,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KRDMD,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,86520631.0
+KRDMD,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),6645041.0
+KRDMD,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,1145779.0
+KRDMD,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,11120900.0
+KRDMD,2024/6,2AAGG,(Ara Toplam),(Subtotal),445390934.0
+KRDMD,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KRDMD,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,112139975.0
+KRDMD,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,6175507.0
+KRDMD,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,6433611.0
+KRDMD,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KRDMD,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KRDMD,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+KRDMD,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KRDMD,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,678517.0
+KRDMD,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,35927827.0
+KRDMD,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KRDMD,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,62924512.0
+KRDMD,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+KRDMD,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,938754906.0
+KRDMD,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,938754934.0
+KRDMD,2024/6,2OA,Ödenmiş Sermaye,Share Capital,23725677.0
+KRDMD,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,-25357065.0
+KRDMD,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,27730142.0
+KRDMD,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KRDMD,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KRDMD,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,30257781.0
+KRDMD,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),678573038.0
+KRDMD,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-38067825.0
+KRDMD,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,241893186.0
+KRDMD,2024/6,2ODA,Azınlık Payları,Minority Interests,-28.0
+KRDMD,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1496285815.0
+KRDMD,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KRDMD,2024/6,3C,Satış Gelirleri,Net Sales,710258302.0
+KRDMD,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-667050781.0
+KRDMD,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KRDMD,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,43207520.0
+KRDMD,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KRDMD,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+KRDMD,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KRDMD,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),43207520.0
+KRDMD,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2986382.0
+KRDMD,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-10093260.0
+KRDMD,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+KRDMD,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,43150080.0
+KRDMD,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-80688058.0
+KRDMD,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KRDMD,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-7410100.0
+KRDMD,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,30127878.0
+KRDMD,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,125110.0
+KRDMD,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+KRDMD,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KRDMD,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1423938.0
+KRDMD,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-5861052.0
+KRDMD,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),13632299.0
+KRDMD,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-37014424.0
+KRDMD,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,125110.0
+KRDMD,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-29243177.0
+KRDMD,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-24220813.0
+KRDMD,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-12109364.0
+KRDMD,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-12111450.0
+KRDMD,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KRDMD,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-53463990.0
+KRDMD,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KRDMD,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KRDMD,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-53463990.0
+KRDMD,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KRDMD,2024/6,3LB,Azınlık Payları,Minority Interests,49.0
+KRDMD,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,-53464039.0
+KRDMD,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KRDMD,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KRDMD,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KRDMD,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KRDMD,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,29180333.0
+KRDMD,2024/6,4BA,Kıdem Tazminatı,Severance Payments,1723519.0
+KRDMD,2024/6,4BB,Finansman Giderleri,Financial Expenses,-37014424.0
+KRDMD,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,694785722.0
+KRDMD,2024/6,4BD,Yurtdışı Satışlar,Export Sales,24906599.0
+KRDMD,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-345502188.0
+KRDMD,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-355808692.0
+KRDMD,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-345502188.0
+KRDMD,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-65041891.0
+KRDMD,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-53463990.0
+KRDMD,2024/6,4CAA,Düzeltmeler:,Adjustments:,112154802.0
+KRDMD,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,29180333.0
+KRDMD,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,7393312.0
+KRDMD,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,70441490.0
+KRDMD,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),58690812.0
+KRDMD,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-112951890.0
+KRDMD,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-54261079.0
+KRDMD,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-10780812.0
+KRDMD,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-13974373.0
+KRDMD,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-453845.0
+KRDMD,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-14428218.0
+KRDMD,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,-79470109.0
+KRDMD,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-18773870.0
+KRDMD,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+KRDMD,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KRDMD,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,4163088.0
+KRDMD,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-14610782.0
+KRDMD,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-94080891.0
+KRDMD,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+KRDMD,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KRDMD,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-94080891.0
+KRDMD,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KRDMD,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,173425918.0
+KRDMD,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,50428110.0
+KRDMD,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,650931967.0
+KRDMD,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,70800193.0
+KRDMD,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,522821.0
+KRDMD,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,131982674.0
+KRDMD,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+KRDMD,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,11798356.0
+KRDMD,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2024/9,1AF,Stoklar,Inventories,327860789.0
+KRDMD,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KRDMD,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,107967134.0
+KRDMD,2024/9,1AI,(Ara Toplam),(Subtotal),650931967.0
+KRDMD,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KRDMD,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,939438403.0
+KRDMD,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+KRDMD,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+KRDMD,2024/9,1BB,Diğer Alacaklar,Other Receivables,274386.0
+KRDMD,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2024/9,1BC,Finansal Yatırımlar,Financial Investments,84206.0
+KRDMD,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,4464275.0
+KRDMD,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KRDMD,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,103592.0
+KRDMD,2024/9,1BFA,Stoklar,Stoklar,0.0
+KRDMD,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KRDMD,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,926008750.0
+KRDMD,2024/9,1BGA,Şerefiye,Goodwill,0.0
+KRDMD,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,4783710.0
+KRDMD,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+KRDMD,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3719483.0
+KRDMD,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1590370369.0
+KRDMD,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+KRDMD,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,502779528.0
+KRDMD,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,86372686.0
+KRDMD,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,277393614.0
+KRDMD,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,847833.0
+KRDMD,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KRDMD,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+KRDMD,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KRDMD,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,125719108.0
+KRDMD,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+KRDMD,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,1098955.0
+KRDMD,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,11347333.0
+KRDMD,2024/9,2AAGG,(Ara Toplam),(Subtotal),502779528.0
+KRDMD,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KRDMD,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,120097368.0
+KRDMD,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,4427310.0
+KRDMD,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,6698594.0
+KRDMD,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KRDMD,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KRDMD,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+KRDMD,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KRDMD,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,710991.0
+KRDMD,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,32253380.0
+KRDMD,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KRDMD,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,76007093.0
+KRDMD,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+KRDMD,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,967493473.0
+KRDMD,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,967493488.0
+KRDMD,2024/9,2OA,Ödenmiş Sermaye,Share Capital,22825305.0
+KRDMD,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,-26570686.0
+KRDMD,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,29057342.0
+KRDMD,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KRDMD,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KRDMD,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,31705957.0
+KRDMD,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),711050398.0
+KRDMD,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-59327544.0
+KRDMD,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,258752716.0
+KRDMD,2024/9,2ODA,Azınlık Payları,Minority Interests,-15.0
+KRDMD,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1590370369.0
+KRDMD,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KRDMD,2024/9,3C,Satış Gelirleri,Net Sales,1159189583.0
+KRDMD,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1099157992.0
+KRDMD,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KRDMD,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,60031591.0
+KRDMD,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KRDMD,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+KRDMD,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KRDMD,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),60031591.0
+KRDMD,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-4868519.0
+KRDMD,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-16657196.0
+KRDMD,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+KRDMD,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,47052328.0
+KRDMD,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-114904106.0
+KRDMD,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KRDMD,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-29345902.0
+KRDMD,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,38505876.0
+KRDMD,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,245334.0
+KRDMD,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+KRDMD,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KRDMD,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1237003.0
+KRDMD,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-27863566.0
+KRDMD,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),22586396.0
+KRDMD,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-44570265.0
+KRDMD,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,245334.0
+KRDMD,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-49847434.0
+KRDMD,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-33893338.0
+KRDMD,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-8615305.0
+KRDMD,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-25278033.0
+KRDMD,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KRDMD,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-83740772.0
+KRDMD,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KRDMD,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KRDMD,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-83740772.0
+KRDMD,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KRDMD,2024/9,3LB,Azınlık Payları,Minority Interests,66.0
+KRDMD,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,-83740838.0
+KRDMD,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KRDMD,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KRDMD,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KRDMD,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KRDMD,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,45516282.0
+KRDMD,2024/9,4BA,Kıdem Tazminatı,Severance Payments,2594206.0
+KRDMD,2024/9,4BB,Finansman Giderleri,Financial Expenses,-44570265.0
+KRDMD,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,1139665643.0
+KRDMD,2024/9,4BD,Yurtdışı Satışlar,Export Sales,35362098.0
+KRDMD,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-403158088.0
+KRDMD,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-414681814.0
+KRDMD,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-403158088.0
+KRDMD,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-60490478.0
+KRDMD,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-83740772.0
+KRDMD,2024/9,4CAA,Düzeltmeler:,Adjustments:,159765344.0
+KRDMD,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,45516282.0
+KRDMD,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,11927297.0
+KRDMD,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,91646525.0
+KRDMD,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),76024572.0
+KRDMD,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-109123266.0
+KRDMD,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-33098694.0
+KRDMD,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-27391784.0
+KRDMD,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-34944962.0
+KRDMD,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-604431.0
+KRDMD,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-35549393.0
+KRDMD,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,-96039870.0
+KRDMD,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,55590916.0
+KRDMD,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+KRDMD,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KRDMD,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,4188316.0
+KRDMD,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,59779233.0
+KRDMD,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-36260638.0
+KRDMD,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+KRDMD,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KRDMD,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-36260638.0
+KRDMD,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KRDMD,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,182639627.0
+KRDMD,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,99934485.0
+KRDMD,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,589919766.0
+KRDMD,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,46945552.0
+KRDMD,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2815385.0
+KRDMD,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,110123711.0
+KRDMD,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+KRDMD,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,20317332.0
+KRDMD,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2025/3,1AF,Stoklar,Inventories,332775994.0
+KRDMD,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KRDMD,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,76941793.0
+KRDMD,2025/3,1AI,(Ara Toplam),(Subtotal),589919766.0
+KRDMD,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KRDMD,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1007187448.0
+KRDMD,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+KRDMD,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+KRDMD,2025/3,1BB,Diğer Alacaklar,Other Receivables,263689.0
+KRDMD,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2025/3,1BC,Finansal Yatırımlar,Financial Investments,88985.0
+KRDMD,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,5125450.0
+KRDMD,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KRDMD,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,107833.0
+KRDMD,2025/3,1BFA,Stoklar,Stoklar,0.0
+KRDMD,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KRDMD,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,991683468.0
+KRDMD,2025/3,1BGA,Şerefiye,Goodwill,0.0
+KRDMD,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,5347876.0
+KRDMD,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+KRDMD,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,4570149.0
+KRDMD,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1597107215.0
+KRDMD,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+KRDMD,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,437252764.0
+KRDMD,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,118972089.0
+KRDMD,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,217852451.0
+KRDMD,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,832472.0
+KRDMD,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KRDMD,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+KRDMD,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KRDMD,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,78386552.0
+KRDMD,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+KRDMD,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,11259812.0
+KRDMD,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,9949387.0
+KRDMD,2025/3,2AAGG,(Ara Toplam),(Subtotal),437252764.0
+KRDMD,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KRDMD,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,163685224.0
+KRDMD,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,22076850.0
+KRDMD,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,6696065.0
+KRDMD,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KRDMD,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KRDMD,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+KRDMD,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KRDMD,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,751347.0
+KRDMD,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,28829932.0
+KRDMD,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KRDMD,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,105331030.0
+KRDMD,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+KRDMD,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,996169227.0
+KRDMD,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,996169194.0
+KRDMD,2025/3,2OA,Ödenmiş Sermaye,Share Capital,20622514.0
+KRDMD,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,-28684223.0
+KRDMD,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,30706616.0
+KRDMD,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KRDMD,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KRDMD,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,33505564.0
+KRDMD,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),691053144.0
+KRDMD,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-26798569.0
+KRDMD,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,275764148.0
+KRDMD,2025/3,2ODA,Azınlık Payları,Minority Interests,33.0
+KRDMD,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1597107215.0
+KRDMD,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KRDMD,2025/3,3C,Satış Gelirleri,Net Sales,272070615.0
+KRDMD,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-258556941.0
+KRDMD,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KRDMD,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,13513675.0
+KRDMD,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KRDMD,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+KRDMD,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KRDMD,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),13513675.0
+KRDMD,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1385272.0
+KRDMD,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-4287958.0
+KRDMD,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+KRDMD,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,11722825.0
+KRDMD,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-29293540.0
+KRDMD,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KRDMD,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-9730269.0
+KRDMD,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,7840445.0
+KRDMD,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,352659.0
+KRDMD,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+KRDMD,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KRDMD,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,268209.0
+KRDMD,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-9109402.0
+KRDMD,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),5376657.0
+KRDMD,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-5540330.0
+KRDMD,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,352659.0
+KRDMD,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-9273075.0
+KRDMD,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-18691872.0
+KRDMD,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-45476.0
+KRDMD,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-18646396.0
+KRDMD,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KRDMD,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-27964948.0
+KRDMD,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KRDMD,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KRDMD,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-27964948.0
+KRDMD,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KRDMD,2025/3,3LB,Azınlık Payları,Minority Interests,9.0
+KRDMD,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,-27964957.0
+KRDMD,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KRDMD,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KRDMD,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KRDMD,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KRDMD,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,13125147.0
+KRDMD,2025/3,4BA,Kıdem Tazminatı,Severance Payments,705610.0
+KRDMD,2025/3,4BB,Finansman Giderleri,Financial Expenses,-5540330.0
+KRDMD,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,265868697.0
+KRDMD,2025/3,4BD,Yurtdışı Satışlar,Export Sales,8269830.0
+KRDMD,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-352133207.0
+KRDMD,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-364241585.0
+KRDMD,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-352133207.0
+KRDMD,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-41150727.0
+KRDMD,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-27964948.0
+KRDMD,2025/3,4CAA,Düzeltmeler:,Adjustments:,43524132.0
+KRDMD,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,13125147.0
+KRDMD,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,2940920.0
+KRDMD,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,24406270.0
+KRDMD,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),15559184.0
+KRDMD,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-60029055.0
+KRDMD,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-44469871.0
+KRDMD,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,3319144.0
+KRDMD,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-11632158.0
+KRDMD,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2657867.0
+KRDMD,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-14290025.0
+KRDMD,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-55440752.0
+KRDMD,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,49773169.0
+KRDMD,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+KRDMD,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KRDMD,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,2432740.0
+KRDMD,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,52205909.0
+KRDMD,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-3234843.0
+KRDMD,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+KRDMD,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KRDMD,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-3234843.0
+KRDMD,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KRDMD,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,58066792.0
+KRDMD,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,48988823.0
+KRDMD,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,592429757.0
+KRDMD,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,47993056.0
+KRDMD,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3279405.0
+KRDMD,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,97958744.0
+KRDMD,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+KRDMD,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,16772413.0
+KRDMD,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2025/6,1AF,Stoklar,Inventories,344100795.0
+KRDMD,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KRDMD,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,82325342.0
+KRDMD,2025/6,1AI,(Ara Toplam),(Subtotal),592429757.0
+KRDMD,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KRDMD,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1016507257.0
+KRDMD,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+KRDMD,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+KRDMD,2025/6,1BB,Diğer Alacaklar,Other Receivables,368931.0
+KRDMD,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2025/6,1BC,Finansal Yatırımlar,Financial Investments,89641.0
+KRDMD,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,5353062.0
+KRDMD,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KRDMD,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,123456.0
+KRDMD,2025/6,1BFA,Stoklar,Stoklar,0.0
+KRDMD,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KRDMD,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,999803681.0
+KRDMD,2025/6,1BGA,Şerefiye,Goodwill,0.0
+KRDMD,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,5441931.0
+KRDMD,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+KRDMD,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,5326555.0
+KRDMD,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1608937013.0
+KRDMD,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+KRDMD,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,423865341.0
+KRDMD,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,135022495.0
+KRDMD,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,231475350.0
+KRDMD,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,680252.0
+KRDMD,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KRDMD,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+KRDMD,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KRDMD,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,42662780.0
+KRDMD,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+KRDMD,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,3341520.0
+KRDMD,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,10682943.0
+KRDMD,2025/6,2AAGG,(Ara Toplam),(Subtotal),423865341.0
+KRDMD,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KRDMD,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,165076342.0
+KRDMD,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,34292222.0
+KRDMD,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,7248357.0
+KRDMD,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KRDMD,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KRDMD,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+KRDMD,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KRDMD,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,756892.0
+KRDMD,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,31901658.0
+KRDMD,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KRDMD,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,90877214.0
+KRDMD,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+KRDMD,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1019995330.0
+KRDMD,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1019995290.0
+KRDMD,2025/6,2OA,Ödenmiş Sermaye,Share Capital,19597563.0
+KRDMD,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,-28895948.0
+KRDMD,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,30933269.0
+KRDMD,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KRDMD,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KRDMD,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,33752812.0
+KRDMD,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),696153975.0
+KRDMD,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-4370199.0
+KRDMD,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,272823818.0
+KRDMD,2025/6,2ODA,Azınlık Payları,Minority Interests,40.0
+KRDMD,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1608937013.0
+KRDMD,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KRDMD,2025/6,3C,Satış Gelirleri,Net Sales,545894497.0
+KRDMD,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-517467581.0
+KRDMD,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KRDMD,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,28426916.0
+KRDMD,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KRDMD,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+KRDMD,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KRDMD,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),28426916.0
+KRDMD,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2656171.0
+KRDMD,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-9198485.0
+KRDMD,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+KRDMD,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,26232130.0
+KRDMD,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-50122985.0
+KRDMD,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KRDMD,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-7318596.0
+KRDMD,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,16572260.0
+KRDMD,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,767659.0
+KRDMD,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+KRDMD,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KRDMD,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,471558.0
+KRDMD,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-6079379.0
+KRDMD,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),10542339.0
+KRDMD,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-4221373.0
+KRDMD,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,767659.0
+KRDMD,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,241588.0
+KRDMD,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-4883268.0
+KRDMD,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-14235.0
+KRDMD,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-4869033.0
+KRDMD,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KRDMD,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-4641680.0
+KRDMD,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KRDMD,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KRDMD,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-4641680.0
+KRDMD,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KRDMD,2025/6,3LB,Azınlık Payları,Minority Interests,17.0
+KRDMD,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,-4641697.0
+KRDMD,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KRDMD,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KRDMD,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KRDMD,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KRDMD,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,26004435.0
+KRDMD,2025/6,4BA,Kıdem Tazminatı,Severance Payments,1364987.0
+KRDMD,2025/6,4BB,Finansman Giderleri,Financial Expenses,-4221373.0
+KRDMD,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,536231438.0
+KRDMD,2025/6,4BD,Yurtdışı Satışlar,Export Sales,13211755.0
+KRDMD,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-339455759.0
+KRDMD,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-368634717.0
+KRDMD,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-339455759.0
+KRDMD,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-48611864.0
+KRDMD,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-4641680.0
+KRDMD,2025/6,4CAA,Düzeltmeler:,Adjustments:,33497500.0
+KRDMD,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,26004435.0
+KRDMD,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,6320409.0
+KRDMD,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,10126654.0
+KRDMD,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),28855819.0
+KRDMD,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-80839726.0
+KRDMD,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-51983907.0
+KRDMD,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,3372043.0
+KRDMD,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-25130082.0
+KRDMD,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2867085.0
+KRDMD,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-27997167.0
+KRDMD,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,-76609031.0
+KRDMD,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,74869937.0
+KRDMD,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+KRDMD,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KRDMD,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,3102984.0
+KRDMD,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,77972921.0
+KRDMD,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1363890.0
+KRDMD,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+KRDMD,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KRDMD,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1363890.0
+KRDMD,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KRDMD,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,59538074.0
+KRDMD,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,50974627.0
+KRDMD,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,579159135.0
+KRDMD,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,35351182.0
+KRDMD,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3393838.0
+KRDMD,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,131990306.0
+KRDMD,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+KRDMD,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,10552510.0
+KRDMD,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2025/9,1AF,Stoklar,Inventories,340954090.0
+KRDMD,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+KRDMD,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,56917208.0
+KRDMD,2025/9,1AI,(Ara Toplam),(Subtotal),579159135.0
+KRDMD,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+KRDMD,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1059229731.0
+KRDMD,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+KRDMD,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+KRDMD,2025/9,1BB,Diğer Alacaklar,Other Receivables,442350.0
+KRDMD,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+KRDMD,2025/9,1BC,Finansal Yatırımlar,Financial Investments,92268.0
+KRDMD,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,5643658.0
+KRDMD,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+KRDMD,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,126307.0
+KRDMD,2025/9,1BFA,Stoklar,Stoklar,0.0
+KRDMD,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+KRDMD,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1041096721.0
+KRDMD,2025/9,1BGA,Şerefiye,Goodwill,0.0
+KRDMD,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,5619473.0
+KRDMD,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+KRDMD,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,6208953.0
+KRDMD,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1638388866.0
+KRDMD,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+KRDMD,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,397816082.0
+KRDMD,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,115927981.0
+KRDMD,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,200271555.0
+KRDMD,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,641015.0
+KRDMD,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+KRDMD,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+KRDMD,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+KRDMD,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,69745834.0
+KRDMD,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+KRDMD,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,521502.0
+KRDMD,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,10708195.0
+KRDMD,2025/9,2AAGG,(Ara Toplam),(Subtotal),397816082.0
+KRDMD,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+KRDMD,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,188644284.0
+KRDMD,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,42124886.0
+KRDMD,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+KRDMD,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,7243446.0
+KRDMD,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+KRDMD,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+KRDMD,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+KRDMD,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+KRDMD,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,779066.0
+KRDMD,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,33361858.0
+KRDMD,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+KRDMD,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,105135030.0
+KRDMD,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+KRDMD,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1051928500.0
+KRDMD,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1051928459.0
+KRDMD,2025/9,2OA,Ödenmiş Sermaye,Share Capital,18763732.0
+KRDMD,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,-26914755.0
+KRDMD,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,32772700.0
+KRDMD,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+KRDMD,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+KRDMD,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,34741878.0
+KRDMD,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),716553524.0
+KRDMD,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-15720172.0
+KRDMD,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,291731552.0
+KRDMD,2025/9,2ODA,Azınlık Payları,Minority Interests,40.0
+KRDMD,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1638388866.0
+KRDMD,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+KRDMD,2025/9,3C,Satış Gelirleri,Net Sales,853790571.0
+KRDMD,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-798184190.0
+KRDMD,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+KRDMD,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,55606382.0
+KRDMD,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+KRDMD,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+KRDMD,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+KRDMD,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+KRDMD,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),55606382.0
+KRDMD,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-4171710.0
+KRDMD,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-14445413.0
+KRDMD,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+KRDMD,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,34100355.0
+KRDMD,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-68970780.0
+KRDMD,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+KRDMD,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2118834.0
+KRDMD,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,36989259.0
+KRDMD,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1241015.0
+KRDMD,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+KRDMD,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+KRDMD,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,750520.0
+KRDMD,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,4110368.0
+KRDMD,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),14426142.0
+KRDMD,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-20806774.0
+KRDMD,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1241015.0
+KRDMD,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-2270264.0
+KRDMD,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-14647878.0
+KRDMD,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-473261.0
+KRDMD,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-14174617.0
+KRDMD,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+KRDMD,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-16918142.0
+KRDMD,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+KRDMD,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+KRDMD,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-16918142.0
+KRDMD,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+KRDMD,2025/9,3LB,Azınlık Payları,Minority Interests,16.0
+KRDMD,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,-16918158.0
+KRDMD,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+KRDMD,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+KRDMD,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+KRDMD,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+KRDMD,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,38916221.0
+KRDMD,2025/9,4BA,Kıdem Tazminatı,Severance Payments,2057955.0
+KRDMD,2025/9,4BB,Finansman Giderleri,Financial Expenses,-20806774.0
+KRDMD,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,834440690.0
+KRDMD,2025/9,4BD,Yurtdışı Satışlar,Export Sales,24447397.0
+KRDMD,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-322385927.0
+KRDMD,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-368559969.0
+KRDMD,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-322385927.0
+KRDMD,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-12487975.0
+KRDMD,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-16918142.0
+KRDMD,2025/9,4CAA,Düzeltmeler:,Adjustments:,85988114.0
+KRDMD,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,38916221.0
+KRDMD,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,6393710.0
+KRDMD,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,44760159.0
+KRDMD,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),69069972.0
+KRDMD,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-84431584.0
+KRDMD,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-15361612.0
+KRDMD,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,2873637.0
+KRDMD,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-50932667.0
+KRDMD,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2630315.0
+KRDMD,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-53562982.0
+KRDMD,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,-66050957.0
+KRDMD,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,54726895.0
+KRDMD,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+KRDMD,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+KRDMD,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-136797.0
+KRDMD,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,54590097.0
+KRDMD,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-11460860.0
+KRDMD,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+KRDMD,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+KRDMD,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-11460860.0
+KRDMD,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+KRDMD,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,62095230.0
+KRDMD,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,38045187.0

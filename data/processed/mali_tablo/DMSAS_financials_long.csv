@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+DMSAS,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,65578200.0
+DMSAS,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2753160.0
+DMSAS,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,6286.0
+DMSAS,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,35104402.0
+DMSAS,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+DMSAS,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,1394858.0
+DMSAS,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2022/12,1AF,Stoklar,Inventories,19562476.0
+DMSAS,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+DMSAS,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,6757018.0
+DMSAS,2022/12,1AI,(Ara Toplam),(Subtotal),65578200.0
+DMSAS,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DMSAS,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,50572605.0
+DMSAS,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+DMSAS,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DMSAS,2022/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+DMSAS,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2022/12,1BC,Finansal Yatırımlar,Financial Investments,287435.0
+DMSAS,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+DMSAS,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DMSAS,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+DMSAS,2022/12,1BFA,Stoklar,Stoklar,0.0
+DMSAS,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,495872.0
+DMSAS,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,44349981.0
+DMSAS,2022/12,1BGA,Şerefiye,Goodwill,0.0
+DMSAS,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,190013.0
+DMSAS,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,5235338.0
+DMSAS,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,13965.0
+DMSAS,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,116150805.0
+DMSAS,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+DMSAS,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,82072769.0
+DMSAS,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,54869893.0
+DMSAS,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,24347820.0
+DMSAS,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,316422.0
+DMSAS,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DMSAS,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+DMSAS,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DMSAS,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,92135.0
+DMSAS,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+DMSAS,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,1339408.0
+DMSAS,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1107090.0
+DMSAS,2022/12,2AAGG,(Ara Toplam),(Subtotal),82072769.0
+DMSAS,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DMSAS,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,5525070.0
+DMSAS,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,460497.0
+DMSAS,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DMSAS,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+DMSAS,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DMSAS,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DMSAS,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DMSAS,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+DMSAS,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,5064572.0
+DMSAS,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DMSAS,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+DMSAS,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DMSAS,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,28552966.0
+DMSAS,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,28552966.0
+DMSAS,2022/12,2OA,Ödenmiş Sermaye,Share Capital,5338458.0
+DMSAS,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DMSAS,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+DMSAS,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DMSAS,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+DMSAS,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,3289409.0
+DMSAS,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1844370.0
+DMSAS,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-13480215.0
+DMSAS,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,31560943.0
+DMSAS,2022/12,2ODA,Azınlık Payları,Minority Interests,0.0
+DMSAS,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,116150805.0
+DMSAS,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DMSAS,2022/12,3C,Satış Gelirleri,Net Sales,165579402.0
+DMSAS,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-269832076.0
+DMSAS,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DMSAS,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,-104252674.0
+DMSAS,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DMSAS,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+DMSAS,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DMSAS,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),-104252674.0
+DMSAS,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-7070312.0
+DMSAS,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-2833866.0
+DMSAS,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1143314.0
+DMSAS,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,15445900.0
+DMSAS,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-11576815.0
+DMSAS,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DMSAS,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-111431082.0
+DMSAS,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-115300167.0
+DMSAS,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,9097.0
+DMSAS,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DMSAS,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DMSAS,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+DMSAS,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-111421985.0
+DMSAS,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),3042510.0
+DMSAS,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),86998679.0
+DMSAS,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,9097.0
+DMSAS,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-21380796.0
+DMSAS,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,6183010.0
+DMSAS,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+DMSAS,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,6183010.0
+DMSAS,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DMSAS,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-15197786.0
+DMSAS,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DMSAS,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DMSAS,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-15197786.0
+DMSAS,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DMSAS,2022/12,3LB,Azınlık Payları,Minority Interests,0.0
+DMSAS,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,-15197786.0
+DMSAS,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DMSAS,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DMSAS,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DMSAS,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DMSAS,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,9903260.0
+DMSAS,2022/12,4BA,Kıdem Tazminatı,Severance Payments,326944.0
+DMSAS,2022/12,4BB,Finansman Giderleri,Financial Expenses,86998679.0
+DMSAS,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,110883951.0
+DMSAS,2022/12,4BD,Yurtdışı Satışlar,Export Sales,57504346.0
+DMSAS,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-4858148.0
+DMSAS,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-4858148.0
+DMSAS,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-4858148.0
+DMSAS,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-27456795.0
+DMSAS,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-15197786.0
+DMSAS,2022/12,4CAA,Düzeltmeler:,Adjustments:,-14951950.0
+DMSAS,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,9903260.0
+DMSAS,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,-140488.0
+DMSAS,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-24714722.0
+DMSAS,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-30149737.0
+DMSAS,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,2692941.0
+DMSAS,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-27456795.0
+DMSAS,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,0.0
+DMSAS,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-9240524.0
+DMSAS,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+DMSAS,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-9240524.0
+DMSAS,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,-36697319.0
+DMSAS,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,28450950.0
+DMSAS,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DMSAS,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DMSAS,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,4491225.0
+DMSAS,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,32942176.0
+DMSAS,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-3755143.0
+DMSAS,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1295878.0
+DMSAS,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DMSAS,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-2459265.0
+DMSAS,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DMSAS,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,5562739.0
+DMSAS,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3103474.0
+DMSAS,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,36094850.0
+DMSAS,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3962101.0
+DMSAS,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+DMSAS,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,20572546.0
+DMSAS,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+DMSAS,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,630522.0
+DMSAS,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2022/3,1AF,Stoklar,Inventories,8385513.0
+DMSAS,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+DMSAS,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,2544168.0
+DMSAS,2022/3,1AI,(Ara Toplam),(Subtotal),36094850.0
+DMSAS,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DMSAS,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,12467488.0
+DMSAS,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+DMSAS,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DMSAS,2022/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+DMSAS,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2022/3,1BC,Finansal Yatırımlar,Financial Investments,78078.0
+DMSAS,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+DMSAS,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DMSAS,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+DMSAS,2022/3,1BFA,Stoklar,Stoklar,0.0
+DMSAS,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,319845.0
+DMSAS,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,11483656.0
+DMSAS,2022/3,1BGA,Şerefiye,Goodwill,0.0
+DMSAS,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,67770.0
+DMSAS,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,513185.0
+DMSAS,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,4953.0
+DMSAS,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,48562338.0
+DMSAS,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+DMSAS,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,28940088.0
+DMSAS,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,14375308.0
+DMSAS,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,12793845.0
+DMSAS,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,364692.0
+DMSAS,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DMSAS,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+DMSAS,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DMSAS,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,32298.0
+DMSAS,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+DMSAS,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,671194.0
+DMSAS,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,702751.0
+DMSAS,2022/3,2AAGG,(Ara Toplam),(Subtotal),28940088.0
+DMSAS,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DMSAS,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,5741743.0
+DMSAS,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,3381315.0
+DMSAS,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DMSAS,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+DMSAS,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DMSAS,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DMSAS,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DMSAS,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+DMSAS,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2360428.0
+DMSAS,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DMSAS,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+DMSAS,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DMSAS,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,13880508.0
+DMSAS,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,13880508.0
+DMSAS,2022/3,2OA,Ödenmiş Sermaye,Share Capital,3580318.0
+DMSAS,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DMSAS,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+DMSAS,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DMSAS,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+DMSAS,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,447188.0
+DMSAS,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5746365.0
+DMSAS,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),998502.0
+DMSAS,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,3108134.0
+DMSAS,2022/3,2ODA,Azınlık Payları,Minority Interests,0.0
+DMSAS,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,48562338.0
+DMSAS,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DMSAS,2022/3,3C,Satış Gelirleri,Net Sales,22135546.0
+DMSAS,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-19631173.0
+DMSAS,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DMSAS,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2504373.0
+DMSAS,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DMSAS,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+DMSAS,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DMSAS,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2504373.0
+DMSAS,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-775527.0
+DMSAS,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-318454.0
+DMSAS,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-124451.0
+DMSAS,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,2553918.0
+DMSAS,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1927012.0
+DMSAS,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DMSAS,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1912847.0
+DMSAS,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1285941.0
+DMSAS,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,710.0
+DMSAS,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DMSAS,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DMSAS,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+DMSAS,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1913557.0
+DMSAS,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),177829.0
+DMSAS,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1083506.0
+DMSAS,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,710.0
+DMSAS,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1007879.0
+DMSAS,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,39989.0
+DMSAS,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-76667.0
+DMSAS,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,116656.0
+DMSAS,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DMSAS,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1047868.0
+DMSAS,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DMSAS,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DMSAS,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1047868.0
+DMSAS,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DMSAS,2022/3,3LB,Azınlık Payları,Minority Interests,0.0
+DMSAS,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,1047868.0
+DMSAS,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DMSAS,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DMSAS,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DMSAS,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DMSAS,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,367465.0
+DMSAS,2022/3,4BA,Kıdem Tazminatı,Severance Payments,37703.0
+DMSAS,2022/3,4BB,Finansman Giderleri,Financial Expenses,-1083506.0
+DMSAS,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,14560740.0
+DMSAS,2022/3,4BD,Yurtdışı Satışlar,Export Sales,7748222.0
+DMSAS,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,1779091.0
+DMSAS,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,1779091.0
+DMSAS,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),1779091.0
+DMSAS,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-168558.0
+DMSAS,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1047868.0
+DMSAS,2022/3,4CAA,Düzeltmeler:,Adjustments:,715136.0
+DMSAS,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,367465.0
+DMSAS,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,-373299.0
+DMSAS,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,720969.0
+DMSAS,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1763004.0
+DMSAS,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1739839.0
+DMSAS,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),23165.0
+DMSAS,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-191723.0
+DMSAS,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-755101.0
+DMSAS,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+DMSAS,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-755101.0
+DMSAS,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,-923659.0
+DMSAS,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,3047024.0
+DMSAS,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DMSAS,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DMSAS,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-412117.0
+DMSAS,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,2634906.0
+DMSAS,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1711248.0
+DMSAS,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+DMSAS,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DMSAS,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1711248.0
+DMSAS,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DMSAS,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2443584.0
+DMSAS,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,4154831.0
+DMSAS,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,40069361.0
+DMSAS,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3976900.0
+DMSAS,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+DMSAS,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,23326331.0
+DMSAS,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+DMSAS,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,678577.0
+DMSAS,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2022/6,1AF,Stoklar,Inventories,9609601.0
+DMSAS,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+DMSAS,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,2477953.0
+DMSAS,2022/6,1AI,(Ara Toplam),(Subtotal),40069361.0
+DMSAS,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DMSAS,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,12267877.0
+DMSAS,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+DMSAS,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DMSAS,2022/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+DMSAS,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2022/6,1BC,Finansal Yatırımlar,Financial Investments,87177.0
+DMSAS,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+DMSAS,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DMSAS,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+DMSAS,2022/6,1BFA,Stoklar,Stoklar,0.0
+DMSAS,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,245276.0
+DMSAS,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,11224745.0
+DMSAS,2022/6,1BGA,Şerefiye,Goodwill,0.0
+DMSAS,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,58012.0
+DMSAS,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,641372.0
+DMSAS,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,11295.0
+DMSAS,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,52337238.0
+DMSAS,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+DMSAS,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,35043821.0
+DMSAS,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,19596419.0
+DMSAS,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,13656367.0
+DMSAS,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,386150.0
+DMSAS,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DMSAS,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+DMSAS,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DMSAS,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,76679.0
+DMSAS,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+DMSAS,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,748043.0
+DMSAS,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,580162.0
+DMSAS,2022/6,2AAGG,(Ara Toplam),(Subtotal),35043821.0
+DMSAS,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DMSAS,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,5329311.0
+DMSAS,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,3002002.0
+DMSAS,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DMSAS,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+DMSAS,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DMSAS,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DMSAS,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DMSAS,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+DMSAS,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2327308.0
+DMSAS,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DMSAS,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+DMSAS,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DMSAS,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,11964107.0
+DMSAS,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,11964107.0
+DMSAS,2022/6,2OA,Ödenmiş Sermaye,Share Capital,5991109.0
+DMSAS,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DMSAS,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+DMSAS,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DMSAS,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+DMSAS,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,630255.0
+DMSAS,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1432734.0
+DMSAS,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1292099.0
+DMSAS,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2617910.0
+DMSAS,2022/6,2ODA,Azınlık Payları,Minority Interests,0.0
+DMSAS,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,52337238.0
+DMSAS,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DMSAS,2022/6,3C,Satış Gelirleri,Net Sales,47682769.0
+DMSAS,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-42335410.0
+DMSAS,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DMSAS,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,5347359.0
+DMSAS,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DMSAS,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+DMSAS,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DMSAS,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),5347359.0
+DMSAS,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1938568.0
+DMSAS,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-676882.0
+DMSAS,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-183024.0
+DMSAS,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,5011771.0
+DMSAS,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-4436399.0
+DMSAS,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DMSAS,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,3124258.0
+DMSAS,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2548885.0
+DMSAS,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,4011.0
+DMSAS,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DMSAS,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DMSAS,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+DMSAS,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3128269.0
+DMSAS,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),739105.0
+DMSAS,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-2392234.0
+DMSAS,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,4011.0
+DMSAS,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1475139.0
+DMSAS,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-26390.0
+DMSAS,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-317956.0
+DMSAS,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,291566.0
+DMSAS,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DMSAS,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1448750.0
+DMSAS,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DMSAS,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DMSAS,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1448750.0
+DMSAS,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DMSAS,2022/6,3LB,Azınlık Payları,Minority Interests,0.0
+DMSAS,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,1448750.0
+DMSAS,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DMSAS,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DMSAS,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DMSAS,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DMSAS,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,705861.0
+DMSAS,2022/6,4BA,Kıdem Tazminatı,Severance Payments,72040.0
+DMSAS,2022/6,4BB,Finansman Giderleri,Financial Expenses,-2392234.0
+DMSAS,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,29128938.0
+DMSAS,2022/6,4BD,Yurtdışı Satışlar,Export Sales,18999508.0
+DMSAS,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,4352035.0
+DMSAS,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,4352035.0
+DMSAS,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),4352035.0
+DMSAS,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-5145967.0
+DMSAS,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1448750.0
+DMSAS,2022/6,4CAA,Düzeltmeler:,Adjustments:,2322339.0
+DMSAS,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,705861.0
+DMSAS,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,-12500.0
+DMSAS,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1628977.0
+DMSAS,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),3771088.0
+DMSAS,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-8450253.0
+DMSAS,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-4679165.0
+DMSAS,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-466803.0
+DMSAS,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-2301991.0
+DMSAS,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+DMSAS,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-2301991.0
+DMSAS,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-7447959.0
+DMSAS,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,11155858.0
+DMSAS,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-596846.0
+DMSAS,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DMSAS,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-953262.0
+DMSAS,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,9605750.0
+DMSAS,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,2157792.0
+DMSAS,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+DMSAS,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DMSAS,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,2157792.0
+DMSAS,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DMSAS,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2293775.0
+DMSAS,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,4451567.0
+DMSAS,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,45920836.0
+DMSAS,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3725376.0
+DMSAS,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+DMSAS,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,24667144.0
+DMSAS,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+DMSAS,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,656894.0
+DMSAS,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2022/9,1AF,Stoklar,Inventories,12887990.0
+DMSAS,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+DMSAS,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,3983432.0
+DMSAS,2022/9,1AI,(Ara Toplam),(Subtotal),45920836.0
+DMSAS,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DMSAS,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,11799972.0
+DMSAS,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+DMSAS,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DMSAS,2022/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+DMSAS,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2022/9,1BC,Finansal Yatırımlar,Financial Investments,97756.0
+DMSAS,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+DMSAS,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DMSAS,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+DMSAS,2022/9,1BFA,Stoklar,Stoklar,0.0
+DMSAS,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,189187.0
+DMSAS,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,10684284.0
+DMSAS,2022/9,1BGA,Şerefiye,Goodwill,0.0
+DMSAS,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,53131.0
+DMSAS,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,772118.0
+DMSAS,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3497.0
+DMSAS,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,57720808.0
+DMSAS,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+DMSAS,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,42377431.0
+DMSAS,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,26164981.0
+DMSAS,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,14479363.0
+DMSAS,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,195923.0
+DMSAS,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DMSAS,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+DMSAS,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DMSAS,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,73543.0
+DMSAS,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+DMSAS,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,795380.0
+DMSAS,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,668241.0
+DMSAS,2022/9,2AAGG,(Ara Toplam),(Subtotal),42377431.0
+DMSAS,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DMSAS,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3637407.0
+DMSAS,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1323231.0
+DMSAS,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DMSAS,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+DMSAS,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DMSAS,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DMSAS,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DMSAS,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+DMSAS,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2314176.0
+DMSAS,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DMSAS,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+DMSAS,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DMSAS,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,11705970.0
+DMSAS,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,11705970.0
+DMSAS,2022/9,2OA,Ödenmiş Sermaye,Share Capital,5390225.0
+DMSAS,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DMSAS,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+DMSAS,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DMSAS,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+DMSAS,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,567043.0
+DMSAS,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1289036.0
+DMSAS,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),2199310.0
+DMSAS,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2260355.0
+DMSAS,2022/9,2ODA,Azınlık Payları,Minority Interests,0.0
+DMSAS,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,57720808.0
+DMSAS,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DMSAS,2022/9,3C,Satış Gelirleri,Net Sales,71219575.0
+DMSAS,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-63213189.0
+DMSAS,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DMSAS,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,8006386.0
+DMSAS,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DMSAS,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+DMSAS,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DMSAS,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),8006386.0
+DMSAS,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2839916.0
+DMSAS,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-992455.0
+DMSAS,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-256497.0
+DMSAS,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,6074028.0
+DMSAS,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-5395658.0
+DMSAS,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DMSAS,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,4595888.0
+DMSAS,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,3917518.0
+DMSAS,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,4822.0
+DMSAS,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DMSAS,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DMSAS,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+DMSAS,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,4600711.0
+DMSAS,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1408816.0
+DMSAS,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-3899658.0
+DMSAS,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,4822.0
+DMSAS,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,2109869.0
+DMSAS,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,454167.0
+DMSAS,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-18328.0
+DMSAS,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,472495.0
+DMSAS,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DMSAS,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,2564036.0
+DMSAS,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DMSAS,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DMSAS,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,2564036.0
+DMSAS,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DMSAS,2022/9,3LB,Azınlık Payları,Minority Interests,0.0
+DMSAS,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,2564036.0
+DMSAS,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DMSAS,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DMSAS,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DMSAS,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DMSAS,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,1010149.0
+DMSAS,2022/9,4BA,Kıdem Tazminatı,Severance Payments,113963.0
+DMSAS,2022/9,4BB,Finansman Giderleri,Financial Expenses,-3899658.0
+DMSAS,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,41883634.0
+DMSAS,2022/9,4BD,Yurtdışı Satışlar,Export Sales,30364455.0
+DMSAS,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,2902734.0
+DMSAS,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,2902734.0
+DMSAS,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),2902734.0
+DMSAS,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-11239716.0
+DMSAS,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,2564036.0
+DMSAS,2022/9,4CAA,Düzeltmeler:,Adjustments:,3090858.0
+DMSAS,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1010149.0
+DMSAS,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,301462.0
+DMSAS,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1779247.0
+DMSAS,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),5654894.0
+DMSAS,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-16691898.0
+DMSAS,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-11037004.0
+DMSAS,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-202712.0
+DMSAS,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-3150101.0
+DMSAS,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+DMSAS,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-3150101.0
+DMSAS,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,-14389817.0
+DMSAS,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,18811322.0
+DMSAS,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-558344.0
+DMSAS,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DMSAS,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1667063.0
+DMSAS,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,16585915.0
+DMSAS,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,2196098.0
+DMSAS,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+DMSAS,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DMSAS,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,2196098.0
+DMSAS,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DMSAS,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2145806.0
+DMSAS,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,4341903.0
+DMSAS,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,56582868.0
+DMSAS,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,14782822.0
+DMSAS,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+DMSAS,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,28406972.0
+DMSAS,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+DMSAS,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,769281.0
+DMSAS,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2023/12,1AF,Stoklar,Inventories,11895757.0
+DMSAS,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+DMSAS,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,728037.0
+DMSAS,2023/12,1AI,(Ara Toplam),(Subtotal),56582868.0
+DMSAS,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DMSAS,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,55647520.0
+DMSAS,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+DMSAS,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DMSAS,2023/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+DMSAS,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2023/12,1BC,Finansal Yatırımlar,Financial Investments,383095.0
+DMSAS,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+DMSAS,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DMSAS,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+DMSAS,2023/12,1BFA,Stoklar,Stoklar,0.0
+DMSAS,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,357574.0
+DMSAS,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,53493182.0
+DMSAS,2023/12,1BGA,Şerefiye,Goodwill,0.0
+DMSAS,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,137948.0
+DMSAS,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1275720.0
+DMSAS,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
+DMSAS,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,112230388.0
+DMSAS,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+DMSAS,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,67530248.0
+DMSAS,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,40252955.0
+DMSAS,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,20854069.0
+DMSAS,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,315473.0
+DMSAS,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DMSAS,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+DMSAS,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DMSAS,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,177524.0
+DMSAS,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+DMSAS,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,4025806.0
+DMSAS,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1904420.0
+DMSAS,2023/12,2AAGG,(Ara Toplam),(Subtotal),67530248.0
+DMSAS,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DMSAS,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,6362228.0
+DMSAS,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,5288048.0
+DMSAS,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DMSAS,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+DMSAS,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DMSAS,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DMSAS,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DMSAS,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+DMSAS,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1074180.0
+DMSAS,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DMSAS,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+DMSAS,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DMSAS,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,38337913.0
+DMSAS,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,38337913.0
+DMSAS,2023/12,2OA,Ödenmiş Sermaye,Share Capital,3390831.0
+DMSAS,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DMSAS,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+DMSAS,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DMSAS,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+DMSAS,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,3016561.0
+DMSAS,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-10670682.0
+DMSAS,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),5903593.0
+DMSAS,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,36697610.0
+DMSAS,2023/12,2ODA,Azınlık Payları,Minority Interests,0.0
+DMSAS,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,112230388.0
+DMSAS,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DMSAS,2023/12,3C,Satış Gelirleri,Net Sales,173419225.0
+DMSAS,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-163184194.0
+DMSAS,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DMSAS,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,10235031.0
+DMSAS,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DMSAS,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+DMSAS,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DMSAS,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),10235031.0
+DMSAS,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-4783316.0
+DMSAS,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-3479806.0
+DMSAS,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-974044.0
+DMSAS,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,15799382.0
+DMSAS,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-9615620.0
+DMSAS,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DMSAS,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,7181627.0
+DMSAS,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,997865.0
+DMSAS,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,153368.0
+DMSAS,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DMSAS,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DMSAS,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+DMSAS,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,7334995.0
+DMSAS,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),5968489.0
+DMSAS,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-6521674.0
+DMSAS,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,153368.0
+DMSAS,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,6781810.0
+DMSAS,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,524750.0
+DMSAS,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+DMSAS,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,524750.0
+DMSAS,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DMSAS,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,7306560.0
+DMSAS,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DMSAS,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DMSAS,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,7306560.0
+DMSAS,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DMSAS,2023/12,3LB,Azınlık Payları,Minority Interests,0.0
+DMSAS,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,7306560.0
+DMSAS,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DMSAS,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DMSAS,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DMSAS,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DMSAS,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,3602840.0
+DMSAS,2023/12,4BA,Kıdem Tazminatı,Severance Payments,111657.0
+DMSAS,2023/12,4BB,Finansman Giderleri,Financial Expenses,-6521674.0
+DMSAS,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,137312234.0
+DMSAS,2023/12,4BD,Yurtdışı Satışlar,Export Sales,43999029.0
+DMSAS,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,7209346.0
+DMSAS,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,7209346.0
+DMSAS,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),7209346.0
+DMSAS,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,21584918.0
+DMSAS,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,7306560.0
+DMSAS,2023/12,4CAA,Düzeltmeler:,Adjustments:,-481968.0
+DMSAS,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,3602840.0
+DMSAS,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,3750214.0
+DMSAS,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-12891439.0
+DMSAS,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),6824592.0
+DMSAS,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,19325348.0
+DMSAS,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),26149940.0
+DMSAS,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-4565023.0
+DMSAS,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-12608713.0
+DMSAS,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+DMSAS,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-12608713.0
+DMSAS,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,8976205.0
+DMSAS,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-5326237.0
+DMSAS,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DMSAS,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DMSAS,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,10731668.0
+DMSAS,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,5405431.0
+DMSAS,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,14381635.0
+DMSAS,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,745494.0
+DMSAS,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DMSAS,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,15127130.0
+DMSAS,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DMSAS,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3124319.0
+DMSAS,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,18251449.0
+DMSAS,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,49518602.0
+DMSAS,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,9120703.0
+DMSAS,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3724.0
+DMSAS,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,24077637.0
+DMSAS,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+DMSAS,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,1070398.0
+DMSAS,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2023/3,1AF,Stoklar,Inventories,11216704.0
+DMSAS,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+DMSAS,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,4029437.0
+DMSAS,2023/3,1AI,(Ara Toplam),(Subtotal),49518602.0
+DMSAS,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DMSAS,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,41055716.0
+DMSAS,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+DMSAS,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DMSAS,2023/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+DMSAS,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2023/3,1BC,Finansal Yatırımlar,Financial Investments,170299.0
+DMSAS,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+DMSAS,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DMSAS,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+DMSAS,2023/3,1BFA,Stoklar,Stoklar,0.0
+DMSAS,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,144566.0
+DMSAS,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,40515687.0
+DMSAS,2023/3,1BGA,Şerefiye,Goodwill,0.0
+DMSAS,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,55119.0
+DMSAS,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,29863.0
+DMSAS,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,140182.0
+DMSAS,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,90574318.0
+DMSAS,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+DMSAS,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,60468129.0
+DMSAS,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,43824476.0
+DMSAS,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,13835093.0
+DMSAS,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,146044.0
+DMSAS,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DMSAS,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+DMSAS,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DMSAS,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,66303.0
+DMSAS,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+DMSAS,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,683278.0
+DMSAS,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1912935.0
+DMSAS,2023/3,2AAGG,(Ara Toplam),(Subtotal),60468129.0
+DMSAS,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DMSAS,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,9680295.0
+DMSAS,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,7446644.0
+DMSAS,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DMSAS,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+DMSAS,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DMSAS,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DMSAS,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DMSAS,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+DMSAS,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2233651.0
+DMSAS,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DMSAS,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+DMSAS,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DMSAS,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,20425894.0
+DMSAS,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,20425894.0
+DMSAS,2023/3,2OA,Ödenmiş Sermaye,Share Capital,5211645.0
+DMSAS,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DMSAS,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+DMSAS,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DMSAS,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+DMSAS,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,548257.0
+DMSAS,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-4306213.0
+DMSAS,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-1055065.0
+DMSAS,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,20027271.0
+DMSAS,2023/3,2ODA,Azınlık Payları,Minority Interests,0.0
+DMSAS,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,90574318.0
+DMSAS,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DMSAS,2023/3,3C,Satış Gelirleri,Net Sales,53621491.0
+DMSAS,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-56251774.0
+DMSAS,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DMSAS,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,-2630283.0
+DMSAS,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DMSAS,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+DMSAS,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DMSAS,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),-2630283.0
+DMSAS,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1543886.0
+DMSAS,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1157027.0
+DMSAS,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-270384.0
+DMSAS,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,6952490.0
+DMSAS,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-7608123.0
+DMSAS,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DMSAS,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-6257213.0
+DMSAS,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-5601579.0
+DMSAS,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,18323.0
+DMSAS,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DMSAS,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DMSAS,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+DMSAS,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-6238890.0
+DMSAS,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1151950.0
+DMSAS,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),3813128.0
+DMSAS,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,18323.0
+DMSAS,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-1273812.0
+DMSAS,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-4431738.0
+DMSAS,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+DMSAS,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-4431738.0
+DMSAS,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DMSAS,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-5705550.0
+DMSAS,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DMSAS,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DMSAS,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-5705550.0
+DMSAS,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DMSAS,2023/3,3LB,Azınlık Payları,Minority Interests,0.0
+DMSAS,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,-5705550.0
+DMSAS,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DMSAS,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DMSAS,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DMSAS,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DMSAS,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,1736675.0
+DMSAS,2023/3,4BA,Kıdem Tazminatı,Severance Payments,58158.0
+DMSAS,2023/3,4BB,Finansman Giderleri,Financial Expenses,3813128.0
+DMSAS,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,31066812.0
+DMSAS,2023/3,4BD,Yurtdışı Satışlar,Export Sales,14914145.0
+DMSAS,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-7572759.0
+DMSAS,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-7572759.0
+DMSAS,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-7572759.0
+DMSAS,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-18807614.0
+DMSAS,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-4832161.0
+DMSAS,2023/3,4CAA,Düzeltmeler:,Adjustments:,-10482865.0
+DMSAS,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1736675.0
+DMSAS,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,-2089923.0
+DMSAS,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,574477.0
+DMSAS,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-15315026.0
+DMSAS,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-3312110.0
+DMSAS,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-18627136.0
+DMSAS,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-180478.0
+DMSAS,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-11107641.0
+DMSAS,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+DMSAS,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-11107641.0
+DMSAS,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,-29915255.0
+DMSAS,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,24696827.0
+DMSAS,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DMSAS,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DMSAS,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,1107077.0
+DMSAS,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,25803904.0
+DMSAS,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-4111351.0
+DMSAS,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,3765377.0
+DMSAS,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DMSAS,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-345974.0
+DMSAS,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DMSAS,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,15943136.0
+DMSAS,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,15597162.0
+DMSAS,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,38732725.0
+DMSAS,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,9145082.0
+DMSAS,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+DMSAS,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,17671323.0
+DMSAS,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+DMSAS,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,1138054.0
+DMSAS,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2023/6,1AF,Stoklar,Inventories,9114615.0
+DMSAS,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+DMSAS,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,1663651.0
+DMSAS,2023/6,1AI,(Ara Toplam),(Subtotal),38732725.0
+DMSAS,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DMSAS,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,29963611.0
+DMSAS,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+DMSAS,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DMSAS,2023/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+DMSAS,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2023/6,1BC,Finansal Yatırımlar,Financial Investments,165803.0
+DMSAS,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+DMSAS,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DMSAS,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+DMSAS,2023/6,1BFA,Stoklar,Stoklar,0.0
+DMSAS,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,90351.0
+DMSAS,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,29569873.0
+DMSAS,2023/6,1BGA,Şerefiye,Goodwill,0.0
+DMSAS,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,33799.0
+DMSAS,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+DMSAS,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,103786.0
+DMSAS,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,68696336.0
+DMSAS,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+DMSAS,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,45812856.0
+DMSAS,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,33223206.0
+DMSAS,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,10876672.0
+DMSAS,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,111158.0
+DMSAS,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DMSAS,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+DMSAS,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DMSAS,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,83239.0
+DMSAS,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+DMSAS,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,531727.0
+DMSAS,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,986853.0
+DMSAS,2023/6,2AAGG,(Ara Toplam),(Subtotal),45812856.0
+DMSAS,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DMSAS,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,10017396.0
+DMSAS,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,7447616.0
+DMSAS,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DMSAS,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+DMSAS,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DMSAS,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DMSAS,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DMSAS,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+DMSAS,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2261341.0
+DMSAS,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DMSAS,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,308439.0
+DMSAS,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DMSAS,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,12866085.0
+DMSAS,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,12866085.0
+DMSAS,2023/6,2OA,Ödenmiş Sermaye,Share Capital,3865541.0
+DMSAS,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DMSAS,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+DMSAS,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DMSAS,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+DMSAS,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,406649.0
+DMSAS,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-3193971.0
+DMSAS,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-1506275.0
+DMSAS,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,13294141.0
+DMSAS,2023/6,2ODA,Azınlık Payları,Minority Interests,0.0
+DMSAS,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,68696336.0
+DMSAS,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DMSAS,2023/6,3C,Satış Gelirleri,Net Sales,99604465.0
+DMSAS,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-92787841.0
+DMSAS,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DMSAS,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,6816623.0
+DMSAS,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DMSAS,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+DMSAS,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DMSAS,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),6816623.0
+DMSAS,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2879158.0
+DMSAS,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-2402250.0
+DMSAS,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-779077.0
+DMSAS,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,15789533.0
+DMSAS,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-13040552.0
+DMSAS,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DMSAS,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,3505119.0
+DMSAS,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,756138.0
+DMSAS,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,18130.0
+DMSAS,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DMSAS,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DMSAS,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+DMSAS,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3523249.0
+DMSAS,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),4575147.0
+DMSAS,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-13678736.0
+DMSAS,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,18130.0
+DMSAS,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-5580341.0
+DMSAS,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,2552440.0
+DMSAS,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+DMSAS,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,2552440.0
+DMSAS,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DMSAS,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-3027900.0
+DMSAS,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DMSAS,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DMSAS,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-3027900.0
+DMSAS,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DMSAS,2023/6,3LB,Azınlık Payları,Minority Interests,0.0
+DMSAS,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,-3027900.0
+DMSAS,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DMSAS,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DMSAS,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DMSAS,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DMSAS,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,4632210.0
+DMSAS,2023/6,4BA,Kıdem Tazminatı,Severance Payments,159236.0
+DMSAS,2023/6,4BB,Finansman Giderleri,Financial Expenses,-13678736.0
+DMSAS,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,63477843.0
+DMSAS,2023/6,4BD,Yurtdışı Satışlar,Export Sales,29379360.0
+DMSAS,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-4299680.0
+DMSAS,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-4299680.0
+DMSAS,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-4299680.0
+DMSAS,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,14672534.0
+DMSAS,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-2779931.0
+DMSAS,2023/6,4CAA,Düzeltmeler:,Adjustments:,15758896.0
+DMSAS,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,4632210.0
+DMSAS,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,1310606.0
+DMSAS,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,13334792.0
+DMSAS,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),12978965.0
+DMSAS,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,3846247.0
+DMSAS,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),16825212.0
+DMSAS,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-2152678.0
+DMSAS,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-30796071.0
+DMSAS,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+DMSAS,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-30796071.0
+DMSAS,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,-16123537.0
+DMSAS,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,25995536.0
+DMSAS,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DMSAS,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DMSAS,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,2393911.0
+DMSAS,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,28389447.0
+DMSAS,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,12265910.0
+DMSAS,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,4985169.0
+DMSAS,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DMSAS,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,17251079.0
+DMSAS,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DMSAS,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3248276.0
+DMSAS,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,20499355.0
+DMSAS,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,36517587.0
+DMSAS,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,7862254.0
+DMSAS,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+DMSAS,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,18628238.0
+DMSAS,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+DMSAS,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,919698.0
+DMSAS,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2023/9,1AF,Stoklar,Inventories,8035371.0
+DMSAS,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+DMSAS,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,1072026.0
+DMSAS,2023/9,1AI,(Ara Toplam),(Subtotal),36517587.0
+DMSAS,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DMSAS,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,27993577.0
+DMSAS,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+DMSAS,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DMSAS,2023/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+DMSAS,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2023/9,1BC,Finansal Yatırımlar,Financial Investments,156394.0
+DMSAS,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+DMSAS,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DMSAS,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+DMSAS,2023/9,1BFA,Stoklar,Stoklar,0.0
+DMSAS,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,130886.0
+DMSAS,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,27541448.0
+DMSAS,2023/9,1BGA,Şerefiye,Goodwill,0.0
+DMSAS,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,30066.0
+DMSAS,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+DMSAS,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,134783.0
+DMSAS,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,64511164.0
+DMSAS,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+DMSAS,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,45992897.0
+DMSAS,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,32957590.0
+DMSAS,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,9945240.0
+DMSAS,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,137814.0
+DMSAS,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DMSAS,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+DMSAS,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DMSAS,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,126345.0
+DMSAS,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+DMSAS,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,1136122.0
+DMSAS,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1689787.0
+DMSAS,2023/9,2AAGG,(Ara Toplam),(Subtotal),45992897.0
+DMSAS,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DMSAS,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,5157975.0
+DMSAS,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,3482470.0
+DMSAS,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DMSAS,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+DMSAS,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DMSAS,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DMSAS,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DMSAS,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+DMSAS,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,927872.0
+DMSAS,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DMSAS,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,747633.0
+DMSAS,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DMSAS,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,13360293.0
+DMSAS,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,13360293.0
+DMSAS,2023/9,2OA,Ödenmiş Sermaye,Share Capital,3646175.0
+DMSAS,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DMSAS,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+DMSAS,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DMSAS,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+DMSAS,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,383572.0
+DMSAS,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-3012716.0
+DMSAS,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-374686.0
+DMSAS,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,12717948.0
+DMSAS,2023/9,2ODA,Azınlık Payları,Minority Interests,0.0
+DMSAS,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,64511164.0
+DMSAS,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DMSAS,2023/9,3C,Satış Gelirleri,Net Sales,122711219.0
+DMSAS,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-115128355.0
+DMSAS,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DMSAS,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,7582864.0
+DMSAS,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DMSAS,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+DMSAS,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DMSAS,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),7582864.0
+DMSAS,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-3453449.0
+DMSAS,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-2757695.0
+DMSAS,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-663480.0
+DMSAS,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,18243535.0
+DMSAS,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-15219372.0
+DMSAS,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DMSAS,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,3732403.0
+DMSAS,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,708239.0
+DMSAS,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,167335.0
+DMSAS,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DMSAS,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DMSAS,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+DMSAS,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3899738.0
+DMSAS,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),4601937.0
+DMSAS,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-9911794.0
+DMSAS,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,167335.0
+DMSAS,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-1410119.0
+DMSAS,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-2573037.0
+DMSAS,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+DMSAS,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-2573037.0
+DMSAS,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DMSAS,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-3983156.0
+DMSAS,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DMSAS,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DMSAS,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-3983156.0
+DMSAS,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DMSAS,2023/9,3LB,Azınlık Payları,Minority Interests,0.0
+DMSAS,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,-3983156.0
+DMSAS,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DMSAS,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DMSAS,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DMSAS,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DMSAS,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,5100551.0
+DMSAS,2023/9,4BA,Kıdem Tazminatı,Severance Payments,111031.0
+DMSAS,2023/9,4BB,Finansman Giderleri,Financial Expenses,-9911794.0
+DMSAS,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,91283579.0
+DMSAS,2023/9,4BD,Yurtdışı Satışlar,Export Sales,36862285.0
+DMSAS,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,6524732.0
+DMSAS,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,6524732.0
+DMSAS,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),6524732.0
+DMSAS,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,15638454.0
+DMSAS,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-3983156.0
+DMSAS,2023/9,4CAA,Düzeltmeler:,Adjustments:,16538094.0
+DMSAS,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,5100551.0
+DMSAS,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,1369887.0
+DMSAS,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-5683904.0
+DMSAS,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),12554938.0
+DMSAS,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,8353741.0
+DMSAS,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),20908679.0
+DMSAS,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-5270225.0
+DMSAS,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-14590715.0
+DMSAS,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+DMSAS,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-14590715.0
+DMSAS,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,1047739.0
+DMSAS,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,3867248.0
+DMSAS,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DMSAS,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DMSAS,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,6427663.0
+DMSAS,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,10294911.0
+DMSAS,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,11342649.0
+DMSAS,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+DMSAS,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DMSAS,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,11342649.0
+DMSAS,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DMSAS,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3156280.0
+DMSAS,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,14498929.0
+DMSAS,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,31933830.0
+DMSAS,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,6033175.0
+DMSAS,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+DMSAS,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,13569373.0
+DMSAS,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+DMSAS,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,1192937.0
+DMSAS,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2024/12,1AF,Stoklar,Inventories,9787689.0
+DMSAS,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+DMSAS,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,1350655.0
+DMSAS,2024/12,1AI,(Ara Toplam),(Subtotal),31933830.0
+DMSAS,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DMSAS,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,56309748.0
+DMSAS,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+DMSAS,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DMSAS,2024/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+DMSAS,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2024/12,1BC,Finansal Yatırımlar,Financial Investments,418929.0
+DMSAS,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+DMSAS,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DMSAS,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+DMSAS,2024/12,1BFA,Stoklar,Stoklar,0.0
+DMSAS,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,439605.0
+DMSAS,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,52589983.0
+DMSAS,2024/12,1BGA,Şerefiye,Goodwill,0.0
+DMSAS,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,117075.0
+DMSAS,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,2468639.0
+DMSAS,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,275517.0
+DMSAS,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,88243578.0
+DMSAS,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+DMSAS,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,41123509.0
+DMSAS,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,25023943.0
+DMSAS,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,12649422.0
+DMSAS,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,225163.0
+DMSAS,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DMSAS,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+DMSAS,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DMSAS,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,72730.0
+DMSAS,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+DMSAS,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,1001219.0
+DMSAS,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,2151033.0
+DMSAS,2024/12,2AAGG,(Ara Toplam),(Subtotal),41123509.0
+DMSAS,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DMSAS,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,6202604.0
+DMSAS,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,3717993.0
+DMSAS,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DMSAS,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+DMSAS,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DMSAS,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DMSAS,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DMSAS,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+DMSAS,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2484611.0
+DMSAS,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DMSAS,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+DMSAS,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DMSAS,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,40917465.0
+DMSAS,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,40917465.0
+DMSAS,2024/12,2OA,Ödenmiş Sermaye,Share Capital,5658701.0
+DMSAS,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DMSAS,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,20752.0
+DMSAS,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DMSAS,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+DMSAS,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,3157133.0
+DMSAS,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-4989235.0
+DMSAS,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-3020486.0
+DMSAS,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,38651616.0
+DMSAS,2024/12,2ODA,Azınlık Payları,Minority Interests,0.0
+DMSAS,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,88243578.0
+DMSAS,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DMSAS,2024/12,3C,Satış Gelirleri,Net Sales,132415206.0
+DMSAS,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-118007879.0
+DMSAS,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DMSAS,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,14407327.0
+DMSAS,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DMSAS,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+DMSAS,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DMSAS,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),14407327.0
+DMSAS,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-3924698.0
+DMSAS,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-4221792.0
+DMSAS,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1385103.0
+DMSAS,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,4947145.0
+DMSAS,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-7122034.0
+DMSAS,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DMSAS,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2700845.0
+DMSAS,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,4875733.0
+DMSAS,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,47816.0
+DMSAS,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DMSAS,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DMSAS,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+DMSAS,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,2748661.0
+DMSAS,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),6156202.0
+DMSAS,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-13699363.0
+DMSAS,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,47816.0
+DMSAS,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-4794499.0
+DMSAS,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,1547010.0
+DMSAS,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+DMSAS,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,1547010.0
+DMSAS,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DMSAS,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-3247490.0
+DMSAS,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DMSAS,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-3247490.0
+DMSAS,2024/12,3LB,Azınlık Payları,Minority Interests,0.0
+DMSAS,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,-3247490.0
+DMSAS,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DMSAS,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DMSAS,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DMSAS,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DMSAS,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,5956849.0
+DMSAS,2024/12,4BA,Kıdem Tazminatı,Severance Payments,330978.0
+DMSAS,2024/12,4BB,Finansman Giderleri,Financial Expenses,-13699363.0
+DMSAS,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,109172969.0
+DMSAS,2024/12,4BD,Yurtdışı Satışlar,Export Sales,30716959.0
+DMSAS,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,3565671.0
+DMSAS,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,3565671.0
+DMSAS,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),3565671.0
+DMSAS,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,7748795.0
+DMSAS,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-3247490.0
+DMSAS,2024/12,4CAA,Düzeltmeler:,Adjustments:,3349989.0
+DMSAS,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,5956849.0
+DMSAS,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,2728997.0
+DMSAS,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-6003454.0
+DMSAS,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),102500.0
+DMSAS,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,8709150.0
+DMSAS,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),8811649.0
+DMSAS,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-1062855.0
+DMSAS,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-2346579.0
+DMSAS,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+DMSAS,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-2346579.0
+DMSAS,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,5402216.0
+DMSAS,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-20343297.0
+DMSAS,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DMSAS,2024/12,4CBC,Sermaye Artırımı,Rights Issue,3837867.0
+DMSAS,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,6087369.0
+DMSAS,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-10418061.0
+DMSAS,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-5015845.0
+DMSAS,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-5100655.0
+DMSAS,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DMSAS,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-10116500.0
+DMSAS,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DMSAS,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,16594053.0
+DMSAS,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,6477552.0
+DMSAS,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,37646266.0
+DMSAS,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,9607975.0
+DMSAS,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+DMSAS,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,17136812.0
+DMSAS,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+DMSAS,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,681354.0
+DMSAS,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2024/3,1AF,Stoklar,Inventories,8816885.0
+DMSAS,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+DMSAS,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,1403240.0
+DMSAS,2024/3,1AI,(Ara Toplam),(Subtotal),37646266.0
+DMSAS,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DMSAS,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,40339975.0
+DMSAS,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+DMSAS,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DMSAS,2024/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+DMSAS,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2024/3,1BC,Finansal Yatırımlar,Financial Investments,273374.0
+DMSAS,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+DMSAS,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DMSAS,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+DMSAS,2024/3,1BFA,Stoklar,Stoklar,0.0
+DMSAS,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,211846.0
+DMSAS,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,38323309.0
+DMSAS,2024/3,1BGA,Şerefiye,Goodwill,0.0
+DMSAS,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,95189.0
+DMSAS,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1376281.0
+DMSAS,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,59976.0
+DMSAS,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,77986241.0
+DMSAS,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+DMSAS,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,41875838.0
+DMSAS,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,27060762.0
+DMSAS,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,11950095.0
+DMSAS,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,287006.0
+DMSAS,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DMSAS,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+DMSAS,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DMSAS,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,3858.0
+DMSAS,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+DMSAS,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,689491.0
+DMSAS,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1884627.0
+DMSAS,2024/3,2AAGG,(Ara Toplam),(Subtotal),41875838.0
+DMSAS,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DMSAS,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,4247769.0
+DMSAS,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,3133246.0
+DMSAS,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DMSAS,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+DMSAS,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DMSAS,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DMSAS,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DMSAS,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+DMSAS,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1114522.0
+DMSAS,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DMSAS,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+DMSAS,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DMSAS,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,31862634.0
+DMSAS,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,31862634.0
+DMSAS,2024/3,2OA,Ödenmiş Sermaye,Share Capital,6183604.0
+DMSAS,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DMSAS,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+DMSAS,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DMSAS,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+DMSAS,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2192064.0
+DMSAS,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-3464131.0
+DMSAS,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1228671.0
+DMSAS,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,25722426.0
+DMSAS,2024/3,2ODA,Azınlık Payları,Minority Interests,0.0
+DMSAS,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,77986241.0
+DMSAS,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DMSAS,2024/3,3C,Satış Gelirleri,Net Sales,35537436.0
+DMSAS,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-32220628.0
+DMSAS,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DMSAS,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,3316808.0
+DMSAS,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DMSAS,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+DMSAS,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DMSAS,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),3316808.0
+DMSAS,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1009956.0
+DMSAS,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-648368.0
+DMSAS,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-153973.0
+DMSAS,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,3966274.0
+DMSAS,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-4172994.0
+DMSAS,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DMSAS,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1297791.0
+DMSAS,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1504511.0
+DMSAS,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+DMSAS,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DMSAS,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DMSAS,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+DMSAS,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1297791.0
+DMSAS,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1454964.0
+DMSAS,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1665578.0
+DMSAS,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+DMSAS,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1087177.0
+DMSAS,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,685475.0
+DMSAS,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+DMSAS,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,685475.0
+DMSAS,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DMSAS,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1772652.0
+DMSAS,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DMSAS,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DMSAS,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1772652.0
+DMSAS,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DMSAS,2024/3,3LB,Azınlık Payları,Minority Interests,0.0
+DMSAS,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,1772652.0
+DMSAS,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DMSAS,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DMSAS,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DMSAS,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DMSAS,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,1402165.0
+DMSAS,2024/3,4BA,Kıdem Tazminatı,Severance Payments,35595.0
+DMSAS,2024/3,4BB,Finansman Giderleri,Financial Expenses,-1665578.0
+DMSAS,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,30375745.0
+DMSAS,2024/3,4BD,Yurtdışı Satışlar,Export Sales,8300010.0
+DMSAS,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,5208286.0
+DMSAS,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,5208286.0
+DMSAS,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),5208286.0
+DMSAS,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,2211561.0
+DMSAS,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1772652.0
+DMSAS,2024/3,4CAA,Düzeltmeler:,Adjustments:,1234806.0
+DMSAS,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1402165.0
+DMSAS,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,-2970336.0
+DMSAS,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-2802954.0
+DMSAS,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),3007458.0
+DMSAS,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-347840.0
+DMSAS,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2659618.0
+DMSAS,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-448056.0
+DMSAS,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-533682.0
+DMSAS,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+DMSAS,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-533682.0
+DMSAS,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,1677880.0
+DMSAS,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-4926023.0
+DMSAS,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DMSAS,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DMSAS,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,2058663.0
+DMSAS,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-2867360.0
+DMSAS,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-1189480.0
+DMSAS,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1800985.0
+DMSAS,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DMSAS,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,611505.0
+DMSAS,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DMSAS,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,13145039.0
+DMSAS,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,13756544.0
+DMSAS,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,37333423.0
+DMSAS,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,10178562.0
+DMSAS,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+DMSAS,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,15977948.0
+DMSAS,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+DMSAS,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,619179.0
+DMSAS,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2024/6,1AF,Stoklar,Inventories,8335146.0
+DMSAS,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+DMSAS,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,2222588.0
+DMSAS,2024/6,1AI,(Ara Toplam),(Subtotal),37333423.0
+DMSAS,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DMSAS,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,42478192.0
+DMSAS,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+DMSAS,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DMSAS,2024/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+DMSAS,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2024/6,1BC,Finansal Yatırımlar,Financial Investments,267359.0
+DMSAS,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+DMSAS,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DMSAS,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+DMSAS,2024/6,1BFA,Stoklar,Stoklar,0.0
+DMSAS,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,182329.0
+DMSAS,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,40604090.0
+DMSAS,2024/6,1BGA,Şerefiye,Goodwill,0.0
+DMSAS,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,96110.0
+DMSAS,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1266539.0
+DMSAS,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,61766.0
+DMSAS,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,79811616.0
+DMSAS,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+DMSAS,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,42554676.0
+DMSAS,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,28928274.0
+DMSAS,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,10704672.0
+DMSAS,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,272347.0
+DMSAS,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DMSAS,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+DMSAS,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DMSAS,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,51931.0
+DMSAS,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+DMSAS,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,791127.0
+DMSAS,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1806326.0
+DMSAS,2024/6,2AAGG,(Ara Toplam),(Subtotal),42554676.0
+DMSAS,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DMSAS,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,4367097.0
+DMSAS,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,3234299.0
+DMSAS,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DMSAS,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+DMSAS,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DMSAS,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DMSAS,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DMSAS,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+DMSAS,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1132799.0
+DMSAS,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DMSAS,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+DMSAS,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DMSAS,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,32889843.0
+DMSAS,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,32889843.0
+DMSAS,2024/6,2OA,Ödenmiş Sermaye,Share Capital,6081745.0
+DMSAS,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DMSAS,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+DMSAS,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DMSAS,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+DMSAS,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2337161.0
+DMSAS,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-3693429.0
+DMSAS,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),185587.0
+DMSAS,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,27978779.0
+DMSAS,2024/6,2ODA,Azınlık Payları,Minority Interests,0.0
+DMSAS,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,79811616.0
+DMSAS,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DMSAS,2024/6,3C,Satış Gelirleri,Net Sales,67727774.0
+DMSAS,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-63118418.0
+DMSAS,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DMSAS,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,4609356.0
+DMSAS,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DMSAS,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+DMSAS,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DMSAS,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),4609356.0
+DMSAS,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1954755.0
+DMSAS,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1386373.0
+DMSAS,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-543879.0
+DMSAS,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,6704771.0
+DMSAS,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-6448236.0
+DMSAS,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DMSAS,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,980884.0
+DMSAS,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,724349.0
+DMSAS,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+DMSAS,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DMSAS,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DMSAS,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+DMSAS,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,980884.0
+DMSAS,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),2904887.0
+DMSAS,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-4182657.0
+DMSAS,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+DMSAS,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-296886.0
+DMSAS,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,557533.0
+DMSAS,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+DMSAS,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,557533.0
+DMSAS,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DMSAS,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,260647.0
+DMSAS,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DMSAS,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DMSAS,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,260647.0
+DMSAS,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DMSAS,2024/6,3LB,Azınlık Payları,Minority Interests,0.0
+DMSAS,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,260647.0
+DMSAS,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DMSAS,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DMSAS,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DMSAS,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DMSAS,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,2918520.0
+DMSAS,2024/6,4BA,Kıdem Tazminatı,Severance Payments,72371.0
+DMSAS,2024/6,4BB,Finansman Giderleri,Financial Expenses,-4182657.0
+DMSAS,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,23851972.0
+DMSAS,2024/6,4BD,Yurtdışı Satışlar,Export Sales,7785412.0
+DMSAS,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,5249581.0
+DMSAS,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,5249581.0
+DMSAS,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),5249581.0
+DMSAS,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-7612960.0
+DMSAS,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,260647.0
+DMSAS,2024/6,4CAA,Düzeltmeler:,Adjustments:,-6898070.0
+DMSAS,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2918520.0
+DMSAS,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,-1353832.0
+DMSAS,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-4776590.0
+DMSAS,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-6637424.0
+DMSAS,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-485164.0
+DMSAS,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-7122587.0
+DMSAS,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-490372.0
+DMSAS,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1587412.0
+DMSAS,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+DMSAS,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1587412.0
+DMSAS,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,-9200372.0
+DMSAS,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-4250118.0
+DMSAS,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DMSAS,2024/6,4CBC,Sermaye Artırımı,Rights Issue,4292314.0
+DMSAS,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,4473398.0
+DMSAS,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,4515594.0
+DMSAS,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-4684778.0
+DMSAS,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,2817989.0
+DMSAS,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DMSAS,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-1866789.0
+DMSAS,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DMSAS,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,16085649.0
+DMSAS,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,14218859.0
+DMSAS,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,39547623.0
+DMSAS,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,16607261.0
+DMSAS,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+DMSAS,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,13558243.0
+DMSAS,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+DMSAS,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,585365.0
+DMSAS,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2024/9,1AF,Stoklar,Inventories,7267226.0
+DMSAS,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+DMSAS,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,1529528.0
+DMSAS,2024/9,1AI,(Ara Toplam),(Subtotal),39547623.0
+DMSAS,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DMSAS,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,42825781.0
+DMSAS,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+DMSAS,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DMSAS,2024/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+DMSAS,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2024/9,1BC,Finansal Yatırımlar,Financial Investments,303604.0
+DMSAS,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+DMSAS,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DMSAS,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+DMSAS,2024/9,1BFA,Stoklar,Stoklar,0.0
+DMSAS,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,131417.0
+DMSAS,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,41514760.0
+DMSAS,2024/9,1BGA,Şerefiye,Goodwill,0.0
+DMSAS,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,95702.0
+DMSAS,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,722354.0
+DMSAS,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,57944.0
+DMSAS,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,82373404.0
+DMSAS,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+DMSAS,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,45054079.0
+DMSAS,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,32499368.0
+DMSAS,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,10005882.0
+DMSAS,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,212722.0
+DMSAS,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DMSAS,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+DMSAS,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DMSAS,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,55535.0
+DMSAS,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+DMSAS,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,891322.0
+DMSAS,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1389248.0
+DMSAS,2024/9,2AAGG,(Ara Toplam),(Subtotal),45054079.0
+DMSAS,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DMSAS,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,4280272.0
+DMSAS,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,2895863.0
+DMSAS,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DMSAS,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+DMSAS,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DMSAS,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DMSAS,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DMSAS,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+DMSAS,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1384409.0
+DMSAS,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DMSAS,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+DMSAS,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DMSAS,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,33039052.0
+DMSAS,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,33039052.0
+DMSAS,2024/9,2OA,Ödenmiş Sermaye,Share Capital,5850947.0
+DMSAS,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DMSAS,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,16097.0
+DMSAS,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DMSAS,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+DMSAS,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2449006.0
+DMSAS,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-3870178.0
+DMSAS,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-1108920.0
+DMSAS,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,29702100.0
+DMSAS,2024/9,2ODA,Azınlık Payları,Minority Interests,0.0
+DMSAS,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,82373404.0
+DMSAS,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DMSAS,2024/9,3C,Satış Gelirleri,Net Sales,100618785.0
+DMSAS,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-95420810.0
+DMSAS,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DMSAS,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,5197975.0
+DMSAS,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DMSAS,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+DMSAS,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DMSAS,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),5197975.0
+DMSAS,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-3150366.0
+DMSAS,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-2599087.0
+DMSAS,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-997300.0
+DMSAS,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,11769855.0
+DMSAS,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-9932568.0
+DMSAS,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DMSAS,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,288510.0
+DMSAS,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-1548777.0
+DMSAS,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,50309.0
+DMSAS,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DMSAS,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DMSAS,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+DMSAS,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,338819.0
+DMSAS,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),5015312.0
+DMSAS,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-6616908.0
+DMSAS,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,50309.0
+DMSAS,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-1262777.0
+DMSAS,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-302463.0
+DMSAS,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+DMSAS,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-302463.0
+DMSAS,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DMSAS,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-1565240.0
+DMSAS,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DMSAS,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DMSAS,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-1565240.0
+DMSAS,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DMSAS,2024/9,3LB,Azınlık Payları,Minority Interests,0.0
+DMSAS,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,-1565240.0
+DMSAS,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DMSAS,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DMSAS,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DMSAS,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DMSAS,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,4648002.0
+DMSAS,2024/9,4BA,Kıdem Tazminatı,Severance Payments,171380.0
+DMSAS,2024/9,4BB,Finansman Giderleri,Financial Expenses,-6616908.0
+DMSAS,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,23875831.0
+DMSAS,2024/9,4BD,Yurtdışı Satışlar,Export Sales,7825800.0
+DMSAS,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,5723725.0
+DMSAS,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,5723725.0
+DMSAS,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),5723725.0
+DMSAS,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-6109452.0
+DMSAS,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-1565240.0
+DMSAS,2024/9,4CAA,Düzeltmeler:,Adjustments:,-9125071.0
+DMSAS,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,4648002.0
+DMSAS,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,-1855536.0
+DMSAS,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-5318906.0
+DMSAS,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-10690311.0
+DMSAS,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,5247729.0
+DMSAS,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-5442583.0
+DMSAS,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-666870.0
+DMSAS,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1576425.0
+DMSAS,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+DMSAS,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1576425.0
+DMSAS,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,-7685877.0
+DMSAS,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-2035644.0
+DMSAS,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DMSAS,2024/9,4CBC,Sermaye Artırımı,Rights Issue,4152027.0
+DMSAS,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,5849940.0
+DMSAS,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,7966323.0
+DMSAS,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,280446.0
+DMSAS,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,6176993.0
+DMSAS,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DMSAS,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,6457439.0
+DMSAS,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DMSAS,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,16940098.0
+DMSAS,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,23397537.0
+DMSAS,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,26223294.0
+DMSAS,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3000072.0
+DMSAS,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+DMSAS,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,12850317.0
+DMSAS,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+DMSAS,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,768235.0
+DMSAS,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2025/3,1AF,Stoklar,Inventories,8383693.0
+DMSAS,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+DMSAS,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,1220978.0
+DMSAS,2025/3,1AI,(Ara Toplam),(Subtotal),26223294.0
+DMSAS,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DMSAS,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,45830128.0
+DMSAS,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+DMSAS,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DMSAS,2025/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+DMSAS,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2025/3,1BC,Finansal Yatırımlar,Financial Investments,338600.0
+DMSAS,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+DMSAS,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DMSAS,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+DMSAS,2025/3,1BFA,Stoklar,Stoklar,0.0
+DMSAS,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,290203.0
+DMSAS,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,42154240.0
+DMSAS,2025/3,1BGA,Şerefiye,Goodwill,0.0
+DMSAS,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,119743.0
+DMSAS,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,2746005.0
+DMSAS,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,181337.0
+DMSAS,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,72053423.0
+DMSAS,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+DMSAS,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,34420664.0
+DMSAS,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,20019798.0
+DMSAS,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,11428984.0
+DMSAS,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,165124.0
+DMSAS,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DMSAS,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+DMSAS,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DMSAS,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,68232.0
+DMSAS,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+DMSAS,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,833948.0
+DMSAS,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1904578.0
+DMSAS,2025/3,2AAGG,(Ara Toplam),(Subtotal),34420664.0
+DMSAS,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DMSAS,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,4417872.0
+DMSAS,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,2543897.0
+DMSAS,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DMSAS,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+DMSAS,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DMSAS,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DMSAS,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DMSAS,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+DMSAS,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1873976.0
+DMSAS,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DMSAS,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+DMSAS,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DMSAS,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,33214887.0
+DMSAS,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,33214887.0
+DMSAS,2025/3,2OA,Ödenmiş Sermaye,Share Capital,5286292.0
+DMSAS,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DMSAS,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,17011.0
+DMSAS,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DMSAS,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+DMSAS,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2588026.0
+DMSAS,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-6565883.0
+DMSAS,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-443529.0
+DMSAS,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,32332970.0
+DMSAS,2025/3,2ODA,Azınlık Payları,Minority Interests,0.0
+DMSAS,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,72053423.0
+DMSAS,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DMSAS,2025/3,3C,Satış Gelirleri,Net Sales,19646141.0
+DMSAS,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-18983053.0
+DMSAS,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DMSAS,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,663088.0
+DMSAS,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DMSAS,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+DMSAS,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DMSAS,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),663088.0
+DMSAS,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-721580.0
+DMSAS,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1050044.0
+DMSAS,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-292971.0
+DMSAS,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,840173.0
+DMSAS,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-510710.0
+DMSAS,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DMSAS,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-1072044.0
+DMSAS,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-1401507.0
+DMSAS,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+DMSAS,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DMSAS,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DMSAS,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+DMSAS,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-1072044.0
+DMSAS,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),349697.0
+DMSAS,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-695967.0
+DMSAS,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,0.0
+DMSAS,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-1418313.0
+DMSAS,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,955480.0
+DMSAS,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+DMSAS,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,955480.0
+DMSAS,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DMSAS,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-462833.0
+DMSAS,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DMSAS,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DMSAS,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-462833.0
+DMSAS,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DMSAS,2025/3,3LB,Azınlık Payları,Minority Interests,0.0
+DMSAS,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,-462833.0
+DMSAS,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DMSAS,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DMSAS,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DMSAS,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DMSAS,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,1083021.0
+DMSAS,2025/3,4BA,Kıdem Tazminatı,Severance Payments,57907.0
+DMSAS,2025/3,4BB,Finansman Giderleri,Financial Expenses,-695967.0
+DMSAS,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,14424175.0
+DMSAS,2025/3,4BD,Yurtdışı Satışlar,Export Sales,5753706.0
+DMSAS,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,5710806.0
+DMSAS,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,5710806.0
+DMSAS,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),5710806.0
+DMSAS,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-1170592.0
+DMSAS,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-462833.0
+DMSAS,2025/3,4CAA,Düzeltmeler:,Adjustments:,-100115.0
+DMSAS,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1083021.0
+DMSAS,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,-76114.0
+DMSAS,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-2054188.0
+DMSAS,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-562949.0
+DMSAS,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-249907.0
+DMSAS,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-812856.0
+DMSAS,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-357735.0
+DMSAS,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-37175.0
+DMSAS,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+DMSAS,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-37175.0
+DMSAS,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-1207767.0
+DMSAS,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-1040603.0
+DMSAS,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DMSAS,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DMSAS,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,1165298.0
+DMSAS,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,124695.0
+DMSAS,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-1083072.0
+DMSAS,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-472515.0
+DMSAS,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DMSAS,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-1555587.0
+DMSAS,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DMSAS,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4682490.0
+DMSAS,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3126903.0
+DMSAS,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,27190339.0
+DMSAS,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,4524674.0
+DMSAS,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+DMSAS,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,13457171.0
+DMSAS,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+DMSAS,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,586467.0
+DMSAS,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2025/6,1AF,Stoklar,Inventories,6850716.0
+DMSAS,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+DMSAS,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,1771310.0
+DMSAS,2025/6,1AI,(Ara Toplam),(Subtotal),27190339.0
+DMSAS,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DMSAS,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,44808540.0
+DMSAS,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+DMSAS,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DMSAS,2025/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+DMSAS,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2025/6,1BC,Finansal Yatırımlar,Financial Investments,324157.0
+DMSAS,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+DMSAS,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DMSAS,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+DMSAS,2025/6,1BFA,Stoklar,Stoklar,0.0
+DMSAS,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,255624.0
+DMSAS,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,41172530.0
+DMSAS,2025/6,1BGA,Şerefiye,Goodwill,0.0
+DMSAS,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,255669.0
+DMSAS,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,2643432.0
+DMSAS,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,157128.0
+DMSAS,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,71998879.0
+DMSAS,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+DMSAS,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,35092934.0
+DMSAS,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,21127230.0
+DMSAS,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,11521026.0
+DMSAS,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,172335.0
+DMSAS,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DMSAS,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+DMSAS,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DMSAS,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,112783.0
+DMSAS,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+DMSAS,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,769089.0
+DMSAS,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1390470.0
+DMSAS,2025/6,2AAGG,(Ara Toplam),(Subtotal),35092934.0
+DMSAS,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DMSAS,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,4807892.0
+DMSAS,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,2735613.0
+DMSAS,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DMSAS,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+DMSAS,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DMSAS,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DMSAS,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DMSAS,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+DMSAS,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2072279.0
+DMSAS,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DMSAS,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+DMSAS,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DMSAS,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,32098054.0
+DMSAS,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,32098054.0
+DMSAS,2025/6,2OA,Ödenmiş Sermaye,Share Capital,5023560.0
+DMSAS,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DMSAS,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,17137.0
+DMSAS,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DMSAS,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+DMSAS,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2607125.0
+DMSAS,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-6614337.0
+DMSAS,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-1754087.0
+DMSAS,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,32818657.0
+DMSAS,2025/6,2ODA,Azınlık Payları,Minority Interests,0.0
+DMSAS,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,71998879.0
+DMSAS,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DMSAS,2025/6,3C,Satış Gelirleri,Net Sales,41841486.0
+DMSAS,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-37524986.0
+DMSAS,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DMSAS,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,4316501.0
+DMSAS,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DMSAS,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+DMSAS,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DMSAS,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),4316501.0
+DMSAS,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1460271.0
+DMSAS,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1937179.0
+DMSAS,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-755013.0
+DMSAS,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,2558924.0
+DMSAS,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1167320.0
+DMSAS,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DMSAS,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1555642.0
+DMSAS,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,164038.0
+DMSAS,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,46324.0
+DMSAS,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-11684.0
+DMSAS,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DMSAS,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+DMSAS,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1590281.0
+DMSAS,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),900118.0
+DMSAS,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-5276311.0
+DMSAS,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,34640.0
+DMSAS,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-2785912.0
+DMSAS,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,922852.0
+DMSAS,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+DMSAS,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,922852.0
+DMSAS,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DMSAS,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-1863060.0
+DMSAS,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DMSAS,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DMSAS,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-1863060.0
+DMSAS,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DMSAS,2025/6,3LB,Azınlık Payları,Minority Interests,0.0
+DMSAS,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,-1863060.0
+DMSAS,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DMSAS,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DMSAS,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DMSAS,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DMSAS,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,2244147.0
+DMSAS,2025/6,4BA,Kıdem Tazminatı,Severance Payments,121861.0
+DMSAS,2025/6,4BB,Finansman Giderleri,Financial Expenses,-5276311.0
+DMSAS,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,31590051.0
+DMSAS,2025/6,4BD,Yurtdışı Satışlar,Export Sales,11692372.0
+DMSAS,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,7739291.0
+DMSAS,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,7739291.0
+DMSAS,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),7739291.0
+DMSAS,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-1846451.0
+DMSAS,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-1863060.0
+DMSAS,2025/6,4CAA,Düzeltmeler:,Adjustments:,78099.0
+DMSAS,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2244147.0
+DMSAS,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,171046.0
+DMSAS,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-3467402.0
+DMSAS,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-1784960.0
+DMSAS,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,333037.0
+DMSAS,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-1451923.0
+DMSAS,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-394528.0
+DMSAS,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),96876.0
+DMSAS,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+DMSAS,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,96876.0
+DMSAS,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,-1749574.0
+DMSAS,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,136032.0
+DMSAS,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DMSAS,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DMSAS,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,2644197.0
+DMSAS,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,2780229.0
+DMSAS,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1030655.0
+DMSAS,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-755180.0
+DMSAS,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DMSAS,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,275475.0
+DMSAS,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DMSAS,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4529085.0
+DMSAS,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,4804560.0
+DMSAS,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,24022443.0
+DMSAS,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3228399.0
+DMSAS,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+DMSAS,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,11727718.0
+DMSAS,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+DMSAS,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,590630.0
+DMSAS,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2025/9,1AF,Stoklar,Inventories,6945079.0
+DMSAS,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+DMSAS,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,1530617.0
+DMSAS,2025/9,1AI,(Ara Toplam),(Subtotal),24022443.0
+DMSAS,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DMSAS,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,44837179.0
+DMSAS,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+DMSAS,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DMSAS,2025/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+DMSAS,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DMSAS,2025/9,1BC,Finansal Yatırımlar,Financial Investments,353453.0
+DMSAS,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+DMSAS,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DMSAS,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+DMSAS,2025/9,1BFA,Stoklar,Stoklar,0.0
+DMSAS,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,206951.0
+DMSAS,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,41163441.0
+DMSAS,2025/9,1BGA,Şerefiye,Goodwill,0.0
+DMSAS,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,234862.0
+DMSAS,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,2740005.0
+DMSAS,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,138467.0
+DMSAS,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,68859622.0
+DMSAS,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+DMSAS,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,32239521.0
+DMSAS,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,19137679.0
+DMSAS,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,10552099.0
+DMSAS,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,153349.0
+DMSAS,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DMSAS,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+DMSAS,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DMSAS,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,63518.0
+DMSAS,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+DMSAS,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,975599.0
+DMSAS,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1357278.0
+DMSAS,2025/9,2AAGG,(Ara Toplam),(Subtotal),32239521.0
+DMSAS,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DMSAS,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,4099721.0
+DMSAS,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,2098838.0
+DMSAS,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DMSAS,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DMSAS,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+DMSAS,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DMSAS,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DMSAS,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DMSAS,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+DMSAS,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2000883.0
+DMSAS,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DMSAS,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+DMSAS,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DMSAS,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,32520380.0
+DMSAS,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,32520380.0
+DMSAS,2025/9,2OA,Ödenmiş Sermaye,Share Capital,4809820.0
+DMSAS,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DMSAS,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,17639.0
+DMSAS,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DMSAS,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+DMSAS,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2683529.0
+DMSAS,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-6808177.0
+DMSAS,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-2249725.0
+DMSAS,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,34067295.0
+DMSAS,2025/9,2ODA,Azınlık Payları,Minority Interests,0.0
+DMSAS,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,68859622.0
+DMSAS,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DMSAS,2025/9,3C,Satış Gelirleri,Net Sales,63389414.0
+DMSAS,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-57538841.0
+DMSAS,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DMSAS,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,5850573.0
+DMSAS,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+DMSAS,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DMSAS,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+DMSAS,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DMSAS,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),5850573.0
+DMSAS,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2184141.0
+DMSAS,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-2976456.0
+DMSAS,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1146504.0
+DMSAS,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,3772509.0
+DMSAS,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1540586.0
+DMSAS,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DMSAS,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1775396.0
+DMSAS,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-456528.0
+DMSAS,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,99178.0
+DMSAS,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-12186.0
+DMSAS,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DMSAS,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+DMSAS,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1862388.0
+DMSAS,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1026697.0
+DMSAS,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-6455344.0
+DMSAS,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,86992.0
+DMSAS,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-3566259.0
+DMSAS,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,1145089.0
+DMSAS,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+DMSAS,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,1145089.0
+DMSAS,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DMSAS,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-2421170.0
+DMSAS,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DMSAS,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DMSAS,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-2421170.0
+DMSAS,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DMSAS,2025/9,3LB,Azınlık Payları,Minority Interests,0.0
+DMSAS,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,-2421170.0
+DMSAS,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DMSAS,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DMSAS,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DMSAS,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DMSAS,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,3826096.0
+DMSAS,2025/9,4BA,Kıdem Tazminatı,Severance Payments,170094.0
+DMSAS,2025/9,4BB,Finansman Giderleri,Financial Expenses,-6455344.0
+DMSAS,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,15178770.0
+DMSAS,2025/9,4BD,Yurtdışı Satışlar,Export Sales,4906747.0
+DMSAS,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,7335435.0
+DMSAS,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,7335435.0
+DMSAS,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),7335435.0
+DMSAS,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-2687100.0
+DMSAS,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-2421170.0
+DMSAS,2025/9,4CAA,Düzeltmeler:,Adjustments:,-1135196.0
+DMSAS,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,3826096.0
+DMSAS,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,-128592.0
+DMSAS,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-5204507.0
+DMSAS,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-3556366.0
+DMSAS,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,1440591.0
+DMSAS,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-2115775.0
+DMSAS,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-571325.0
+DMSAS,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),14717.0
+DMSAS,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+DMSAS,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,14717.0
+DMSAS,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,-2672383.0
+DMSAS,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-3437213.0
+DMSAS,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DMSAS,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DMSAS,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,4072194.0
+DMSAS,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,634980.0
+DMSAS,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-2037403.0
+DMSAS,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1117363.0
+DMSAS,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DMSAS,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-920040.0
+DMSAS,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DMSAS,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4393875.0
+DMSAS,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3473835.0

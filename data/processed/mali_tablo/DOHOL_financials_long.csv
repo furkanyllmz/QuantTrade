@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+DOHOL,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,2703907111.0
+DOHOL,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,620103139.0
+DOHOL,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,883519218.0
+DOHOL,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,448383995.0
+DOHOL,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,161879244.0
+DOHOL,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,18860826.0
+DOHOL,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,728860.0
+DOHOL,2022/12,1AF,Stoklar,Inventories,412403427.0
+DOHOL,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,2363816.0
+DOHOL,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,155664585.0
+DOHOL,2022/12,1AI,(Ara Toplam),(Subtotal),2703907111.0
+DOHOL,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DOHOL,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1770018044.0
+DOHOL,2022/12,1B,Ticari Alacaklar,Trade Receivables,1128123.0
+DOHOL,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DOHOL,2022/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+DOHOL,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2022/12,1BC,Finansal Yatırımlar,Financial Investments,80790519.0
+DOHOL,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,73600790.0
+DOHOL,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DOHOL,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,232310752.0
+DOHOL,2022/12,1BFA,Stoklar,Stoklar,0.0
+DOHOL,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,100349028.0
+DOHOL,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,598028080.0
+DOHOL,2022/12,1BGA,Şerefiye,Goodwill,63336590.0
+DOHOL,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,516475123.0
+DOHOL,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,55785020.0
+DOHOL,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,48214019.0
+DOHOL,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4473925155.0
+DOHOL,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+DOHOL,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1329788971.0
+DOHOL,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,818231102.0
+DOHOL,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,262492793.0
+DOHOL,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,14405403.0
+DOHOL,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DOHOL,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,18934871.0
+DOHOL,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DOHOL,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,43504378.0
+DOHOL,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),19372144.0
+DOHOL,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,130995783.0
+DOHOL,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,21852498.0
+DOHOL,2022/12,2AAGG,(Ara Toplam),(Subtotal),1329788971.0
+DOHOL,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DOHOL,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,437011104.0
+DOHOL,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,229406310.0
+DOHOL,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DOHOL,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,8418962.0
+DOHOL,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DOHOL,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DOHOL,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DOHOL,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,2996797.0
+DOHOL,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,29158072.0
+DOHOL,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DOHOL,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,166495249.0
+DOHOL,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,535714.0
+DOHOL,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2707125080.0
+DOHOL,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2202546818.0
+DOHOL,2022/12,2OA,Ödenmiş Sermaye,Share Capital,139704143.0
+DOHOL,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DOHOL,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,75454570.0
+DOHOL,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DOHOL,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,324103459.0
+DOHOL,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,433552691.0
+DOHOL,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-492489376.0
+DOHOL,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),12391896.0
+DOHOL,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1709829436.0
+DOHOL,2022/12,2ODA,Azınlık Payları,Minority Interests,504578262.0
+DOHOL,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4473925155.0
+DOHOL,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DOHOL,2022/12,3C,Satış Gelirleri,Net Sales,1561510278.0
+DOHOL,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-1309812336.0
+DOHOL,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DOHOL,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,251697942.0
+DOHOL,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",220372593.0
+DOHOL,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-176397238.0
+DOHOL,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DOHOL,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,43975355.0
+DOHOL,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DOHOL,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),295673297.0
+DOHOL,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-112964537.0
+DOHOL,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-93667168.0
+DOHOL,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-7218352.0
+DOHOL,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,288846097.0
+DOHOL,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-64379074.0
+DOHOL,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DOHOL,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,306290263.0
+DOHOL,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,81823239.0
+DOHOL,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,227331060.0
+DOHOL,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-32685624.0
+DOHOL,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DOHOL,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,22210759.0
+DOHOL,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,523146458.0
+DOHOL,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),52691751.0
+DOHOL,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-593200701.0
+DOHOL,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,194645436.0
+DOHOL,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-17362493.0
+DOHOL,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-32480208.0
+DOHOL,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-55359098.0
+DOHOL,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,22878890.0
+DOHOL,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DOHOL,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-49842700.0
+DOHOL,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DOHOL,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,127703258.0
+DOHOL,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,77860558.0
+DOHOL,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DOHOL,2022/12,3LB,Azınlık Payları,Minority Interests,63889757.0
+DOHOL,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,13970801.0
+DOHOL,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DOHOL,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DOHOL,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DOHOL,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DOHOL,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,128202325.0
+DOHOL,2022/12,4BA,Kıdem Tazminatı,Severance Payments,4544084.0
+DOHOL,2022/12,4BB,Finansman Giderleri,Financial Expenses,-593200701.0
+DOHOL,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,1474675185.0
+DOHOL,2022/12,4BD,Yurtdışı Satışlar,Export Sales,155056957.0
+DOHOL,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,864556108.0
+DOHOL,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,936219438.0
+DOHOL,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),864556108.0
+DOHOL,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-194684196.0
+DOHOL,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,77860558.0
+DOHOL,2022/12,4CAA,Düzeltmeler:,Adjustments:,-87113757.0
+DOHOL,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,128202325.0
+DOHOL,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,141808515.0
+DOHOL,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-357124597.0
+DOHOL,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-9253199.0
+DOHOL,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-147523648.0
+DOHOL,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-156776847.0
+DOHOL,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-37907348.0
+DOHOL,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-116641393.0
+DOHOL,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-283111644.0
+DOHOL,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-399753037.0
+DOHOL,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,-594437233.0
+DOHOL,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,458405904.0
+DOHOL,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-72633597.0
+DOHOL,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DOHOL,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,72835403.0
+DOHOL,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,458607709.0
+DOHOL,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-135829524.0
+DOHOL,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,77981051.0
+DOHOL,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DOHOL,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-57848473.0
+DOHOL,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DOHOL,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,755562558.0
+DOHOL,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,697714085.0
+DOHOL,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,1305446858.0
+DOHOL,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,373055819.0
+DOHOL,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,427882566.0
+DOHOL,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,152870733.0
+DOHOL,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,101816279.0
+DOHOL,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,5769291.0
+DOHOL,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2022/3,1AF,Stoklar,Inventories,188145054.0
+DOHOL,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,498721.0
+DOHOL,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,55408395.0
+DOHOL,2022/3,1AI,(Ara Toplam),(Subtotal),1305446858.0
+DOHOL,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DOHOL,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,518041259.0
+DOHOL,2022/3,1B,Ticari Alacaklar,Trade Receivables,1562997.0
+DOHOL,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DOHOL,2022/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+DOHOL,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2022/3,1BC,Finansal Yatırımlar,Financial Investments,49265728.0
+DOHOL,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,18425887.0
+DOHOL,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DOHOL,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,125505507.0
+DOHOL,2022/3,1BFA,Stoklar,Stoklar,0.0
+DOHOL,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,25700685.0
+DOHOL,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,158772258.0
+DOHOL,2022/3,1BGA,Şerefiye,Goodwill,9428036.0
+DOHOL,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,93518328.0
+DOHOL,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,15040816.0
+DOHOL,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,20821018.0
+DOHOL,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1823488117.0
+DOHOL,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+DOHOL,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,594630750.0
+DOHOL,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,380980734.0
+DOHOL,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,144042759.0
+DOHOL,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,33469499.0
+DOHOL,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DOHOL,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,3589320.0
+DOHOL,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DOHOL,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,8504723.0
+DOHOL,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),16159784.0
+DOHOL,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,4016299.0
+DOHOL,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,3867631.0
+DOHOL,2022/3,2AAGG,(Ara Toplam),(Subtotal),594630750.0
+DOHOL,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DOHOL,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,154302383.0
+DOHOL,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,112386947.0
+DOHOL,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DOHOL,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,444096.0
+DOHOL,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DOHOL,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DOHOL,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DOHOL,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1502029.0
+DOHOL,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,7940328.0
+DOHOL,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DOHOL,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,23789273.0
+DOHOL,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,8239711.0
+DOHOL,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1074554983.0
+DOHOL,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,960140894.0
+DOHOL,2022/3,2OA,Ödenmiş Sermaye,Share Capital,178466123.0
+DOHOL,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DOHOL,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,2397722.0
+DOHOL,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DOHOL,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,182639138.0
+DOHOL,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,127327173.0
+DOHOL,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),404797831.0
+DOHOL,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),67071231.0
+DOHOL,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-2558325.0
+DOHOL,2022/3,2ODA,Azınlık Payları,Minority Interests,114414089.0
+DOHOL,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1823488117.0
+DOHOL,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DOHOL,2022/3,3C,Satış Gelirleri,Net Sales,156559914.0
+DOHOL,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-104476668.0
+DOHOL,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DOHOL,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,52083246.0
+DOHOL,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",7937842.0
+DOHOL,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-4952518.0
+DOHOL,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DOHOL,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,2985324.0
+DOHOL,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DOHOL,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),55068570.0
+DOHOL,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-10196963.0
+DOHOL,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-9797541.0
+DOHOL,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-123598.0
+DOHOL,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,40693813.0
+DOHOL,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-2094228.0
+DOHOL,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DOHOL,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,73550051.0
+DOHOL,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,34950466.0
+DOHOL,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,27095357.0
+DOHOL,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2757808.0
+DOHOL,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DOHOL,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-545707.0
+DOHOL,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,97341893.0
+DOHOL,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),-1149457.0
+DOHOL,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-21130507.0
+DOHOL,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,24337549.0
+DOHOL,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,75061929.0
+DOHOL,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-9233441.0
+DOHOL,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-11441964.0
+DOHOL,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,2208523.0
+DOHOL,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DOHOL,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,65828488.0
+DOHOL,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DOHOL,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,19034203.0
+DOHOL,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,84862691.0
+DOHOL,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DOHOL,2022/3,3LB,Azınlık Payları,Minority Interests,14475381.0
+DOHOL,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,70387310.0
+DOHOL,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DOHOL,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DOHOL,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DOHOL,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DOHOL,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,8962699.0
+DOHOL,2022/3,4BA,Kıdem Tazminatı,Severance Payments,583782.0
+DOHOL,2022/3,4BB,Finansman Giderleri,Financial Expenses,-21130507.0
+DOHOL,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,501412933.0
+DOHOL,2022/3,4BD,Yurtdışı Satışlar,Export Sales,27667545.0
+DOHOL,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,375774196.0
+DOHOL,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,72069807.0
+DOHOL,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),375774196.0
+DOHOL,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-54601301.0
+DOHOL,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,84862763.0
+DOHOL,2022/3,4CAA,Düzeltmeler:,Adjustments:,-9399765.0
+DOHOL,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,8962699.0
+DOHOL,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,993653.0
+DOHOL,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-19356117.0
+DOHOL,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),75462998.0
+DOHOL,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-97658153.0
+DOHOL,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-22195155.0
+DOHOL,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-32406146.0
+DOHOL,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-8499724.0
+DOHOL,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-75100433.0
+DOHOL,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-83600157.0
+DOHOL,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,-138201458.0
+DOHOL,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,158214714.0
+DOHOL,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DOHOL,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DOHOL,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-7237547.0
+DOHOL,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,150977166.0
+DOHOL,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,12775708.0
+DOHOL,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,46199625.0
+DOHOL,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DOHOL,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,58975334.0
+DOHOL,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DOHOL,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,331931168.0
+DOHOL,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,390906502.0
+DOHOL,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,1520018453.0
+DOHOL,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,229255665.0
+DOHOL,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,508832692.0
+DOHOL,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,236622153.0
+DOHOL,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,99596439.0
+DOHOL,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,8758223.0
+DOHOL,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2022/6,1AF,Stoklar,Inventories,346716153.0
+DOHOL,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,903998.0
+DOHOL,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,89333130.0
+DOHOL,2022/6,1AI,(Ara Toplam),(Subtotal),1520018453.0
+DOHOL,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DOHOL,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,609195454.0
+DOHOL,2022/6,1B,Ticari Alacaklar,Trade Receivables,969481.0
+DOHOL,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DOHOL,2022/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+DOHOL,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2022/6,1BC,Finansal Yatırımlar,Financial Investments,50896989.0
+DOHOL,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,27147154.0
+DOHOL,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DOHOL,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,113807470.0
+DOHOL,2022/6,1BFA,Stoklar,Stoklar,0.0
+DOHOL,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,27352169.0
+DOHOL,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,184184730.0
+DOHOL,2022/6,1BGA,Şerefiye,Goodwill,24678936.0
+DOHOL,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,138240591.0
+DOHOL,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,27203470.0
+DOHOL,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,14714464.0
+DOHOL,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2129213907.0
+DOHOL,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+DOHOL,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,812055909.0
+DOHOL,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,513923577.0
+DOHOL,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,237676768.0
+DOHOL,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,8151623.0
+DOHOL,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DOHOL,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,7531004.0
+DOHOL,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DOHOL,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,19745078.0
+DOHOL,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),12254694.0
+DOHOL,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,6604060.0
+DOHOL,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,6169105.0
+DOHOL,2022/6,2AAGG,(Ara Toplam),(Subtotal),812055909.0
+DOHOL,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DOHOL,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,199774195.0
+DOHOL,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,143284985.0
+DOHOL,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DOHOL,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,340654.0
+DOHOL,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DOHOL,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DOHOL,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DOHOL,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1302707.0
+DOHOL,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,11371485.0
+DOHOL,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DOHOL,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,33532058.0
+DOHOL,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,9942306.0
+DOHOL,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1117383802.0
+DOHOL,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,949155613.0
+DOHOL,2022/6,2OA,Ödenmiş Sermaye,Share Capital,156783613.0
+DOHOL,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DOHOL,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,2106414.0
+DOHOL,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DOHOL,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,184363804.0
+DOHOL,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,111857723.0
+DOHOL,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),355819883.0
+DOHOL,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),149457805.0
+DOHOL,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-11233629.0
+DOHOL,2022/6,2ODA,Azınlık Payları,Minority Interests,168228189.0
+DOHOL,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2129213907.0
+DOHOL,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DOHOL,2022/6,3C,Satış Gelirleri,Net Sales,340665705.0
+DOHOL,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-235952254.0
+DOHOL,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DOHOL,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,104713451.0
+DOHOL,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",18147879.0
+DOHOL,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-10582882.0
+DOHOL,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DOHOL,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,7564997.0
+DOHOL,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DOHOL,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),112278448.0
+DOHOL,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-22990695.0
+DOHOL,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-19795604.0
+DOHOL,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-264399.0
+DOHOL,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,81652021.0
+DOHOL,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-5232764.0
+DOHOL,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DOHOL,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,145647008.0
+DOHOL,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,69227751.0
+DOHOL,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,64494026.0
+DOHOL,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-4458510.0
+DOHOL,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DOHOL,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,8744986.0
+DOHOL,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,214427510.0
+DOHOL,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
+DOHOL,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-49362554.0
+DOHOL,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,60035517.0
+DOHOL,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,165064956.0
+DOHOL,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-1965192.0
+DOHOL,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-18885590.0
+DOHOL,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,16920398.0
+DOHOL,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DOHOL,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,163099765.0
+DOHOL,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DOHOL,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,38162203.0
+DOHOL,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,201261968.0
+DOHOL,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DOHOL,2022/6,3LB,Azınlık Payları,Minority Interests,33684347.0
+DOHOL,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,167577621.0
+DOHOL,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DOHOL,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DOHOL,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DOHOL,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DOHOL,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,18271682.0
+DOHOL,2022/6,4BA,Kıdem Tazminatı,Severance Payments,1090243.0
+DOHOL,2022/6,4BB,Finansman Giderleri,Financial Expenses,-49362554.0
+DOHOL,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,1151855214.0
+DOHOL,2022/6,4BD,Yurtdışı Satışlar,Export Sales,52133572.0
+DOHOL,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,65014898.0
+DOHOL,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-196380594.0
+DOHOL,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),62717864.0
+DOHOL,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-11249791.0
+DOHOL,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,201262035.0
+DOHOL,2022/6,4CAA,Düzeltmeler:,Adjustments:,20917889.0
+DOHOL,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,18271682.0
+DOHOL,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,3839228.0
+DOHOL,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-1193020.0
+DOHOL,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),222179925.0
+DOHOL,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-187404259.0
+DOHOL,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),34775665.0
+DOHOL,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-46025456.0
+DOHOL,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-24619946.0
+DOHOL,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-235876079.0
+DOHOL,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-260496025.0
+DOHOL,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-271745816.0
+DOHOL,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,257857677.0
+DOHOL,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-22167605.0
+DOHOL,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DOHOL,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-24032975.0
+DOHOL,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,211657097.0
+DOHOL,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-60088719.0
+DOHOL,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,3887056.0
+DOHOL,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DOHOL,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-56201663.0
+DOHOL,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DOHOL,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,311553662.0
+DOHOL,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,255351999.0
+DOHOL,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,1541850141.0
+DOHOL,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,276819551.0
+DOHOL,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,506094674.0
+DOHOL,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,211896066.0
+DOHOL,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,90116052.0
+DOHOL,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,13201524.0
+DOHOL,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2022/9,1AF,Stoklar,Inventories,260032287.0
+DOHOL,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,886638.0
+DOHOL,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,82887113.0
+DOHOL,2022/9,1AI,(Ara Toplam),(Subtotal),1441933905.0
+DOHOL,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,99916236.0
+DOHOL,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,545446661.0
+DOHOL,2022/9,1B,Ticari Alacaklar,Trade Receivables,643862.0
+DOHOL,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DOHOL,2022/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+DOHOL,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2022/9,1BC,Finansal Yatırımlar,Financial Investments,51161001.0
+DOHOL,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,24865002.0
+DOHOL,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DOHOL,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,79960005.0
+DOHOL,2022/9,1BFA,Stoklar,Stoklar,0.0
+DOHOL,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,25703020.0
+DOHOL,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,177181397.0
+DOHOL,2022/9,1BGA,Şerefiye,Goodwill,22203740.0
+DOHOL,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,125948922.0
+DOHOL,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,28366923.0
+DOHOL,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,9412789.0
+DOHOL,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2087296802.0
+DOHOL,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+DOHOL,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,770227090.0
+DOHOL,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,484824036.0
+DOHOL,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,192353318.0
+DOHOL,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,13768792.0
+DOHOL,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DOHOL,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,16974790.0
+DOHOL,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DOHOL,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,20951267.0
+DOHOL,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),6216493.0
+DOHOL,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,22154096.0
+DOHOL,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,8459258.0
+DOHOL,2022/9,2AAGG,(Ara Toplam),(Subtotal),765702050.0
+DOHOL,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,4525040.0
+DOHOL,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,196413829.0
+DOHOL,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,133503431.0
+DOHOL,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DOHOL,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,4705128.0
+DOHOL,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DOHOL,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DOHOL,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DOHOL,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1317479.0
+DOHOL,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,10460864.0
+DOHOL,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DOHOL,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,36521634.0
+DOHOL,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,9905294.0
+DOHOL,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1120655883.0
+DOHOL,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,958991812.0
+DOHOL,2022/9,2OA,Ödenmiş Sermaye,Share Capital,141058856.0
+DOHOL,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DOHOL,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,1895149.0
+DOHOL,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DOHOL,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,178701872.0
+DOHOL,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,100638850.0
+DOHOL,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),320190383.0
+DOHOL,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),222792406.0
+DOHOL,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-6285704.0
+DOHOL,2022/9,2ODA,Azınlık Payları,Minority Interests,161664070.0
+DOHOL,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2087296802.0
+DOHOL,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DOHOL,2022/9,3C,Satış Gelirleri,Net Sales,560856031.0
+DOHOL,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-390632242.0
+DOHOL,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DOHOL,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,170223789.0
+DOHOL,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",31271601.0
+DOHOL,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-19138977.0
+DOHOL,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DOHOL,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,12132624.0
+DOHOL,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DOHOL,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),182356413.0
+DOHOL,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-35256738.0
+DOHOL,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-30290336.0
+DOHOL,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1366419.0
+DOHOL,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,137612351.0
+DOHOL,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-25644800.0
+DOHOL,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DOHOL,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,227410470.0
+DOHOL,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,115442920.0
+DOHOL,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,84545978.0
+DOHOL,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-26062066.0
+DOHOL,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DOHOL,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,8360267.0
+DOHOL,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,294254649.0
+DOHOL,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
+DOHOL,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-77573119.0
+DOHOL,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,58483912.0
+DOHOL,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,216681530.0
+DOHOL,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-11675517.0
+DOHOL,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-31153585.0
+DOHOL,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,19478068.0
+DOHOL,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DOHOL,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,205006013.0
+DOHOL,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DOHOL,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,98732755.0
+DOHOL,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,303738768.0
+DOHOL,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DOHOL,2022/9,3LB,Azınlık Payları,Minority Interests,43999331.0
+DOHOL,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,259739437.0
+DOHOL,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DOHOL,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DOHOL,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DOHOL,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DOHOL,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,31946767.0
+DOHOL,2022/9,4BA,Kıdem Tazminatı,Severance Payments,5067828.0
+DOHOL,2022/9,4BB,Finansman Giderleri,Financial Expenses,-77573119.0
+DOHOL,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,1866444571.0
+DOHOL,2022/9,4BD,Yurtdışı Satışlar,Export Sales,85694401.0
+DOHOL,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-173706008.0
+DOHOL,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-179453212.0
+DOHOL,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-173706008.0
+DOHOL,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,164629352.0
+DOHOL,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,303738768.0
+DOHOL,2022/9,4CAA,Düzeltmeler:,Adjustments:,-3975711.0
+DOHOL,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,31946767.0
+DOHOL,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,23615972.0
+DOHOL,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-59538450.0
+DOHOL,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),299763057.0
+DOHOL,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-101394079.0
+DOHOL,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),198368978.0
+DOHOL,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-33739626.0
+DOHOL,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-46742852.0
+DOHOL,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-290934246.0
+DOHOL,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-337677098.0
+DOHOL,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,-173047747.0
+DOHOL,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,262459833.0
+DOHOL,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-20737594.0
+DOHOL,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DOHOL,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-41868386.0
+DOHOL,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,199853852.0
+DOHOL,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,26806106.0
+DOHOL,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,3662133.0
+DOHOL,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DOHOL,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,30468239.0
+DOHOL,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DOHOL,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,291455640.0
+DOHOL,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,321923879.0
+DOHOL,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,2837565824.0
+DOHOL,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,593501202.0
+DOHOL,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1089027340.0
+DOHOL,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,264920773.0
+DOHOL,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,233846117.0
+DOHOL,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,27528424.0
+DOHOL,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2023/12,1AF,Stoklar,Inventories,396084845.0
+DOHOL,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,2885631.0
+DOHOL,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,229771492.0
+DOHOL,2023/12,1AI,(Ara Toplam),(Subtotal),2837565824.0
+DOHOL,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DOHOL,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1735829007.0
+DOHOL,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+DOHOL,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DOHOL,2023/12,1BB,Diğer Alacaklar,Other Receivables,2356220.0
+DOHOL,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2023/12,1BC,Finansal Yatırımlar,Financial Investments,91563207.0
+DOHOL,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,110598075.0
+DOHOL,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DOHOL,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,267012034.0
+DOHOL,2023/12,1BFA,Stoklar,Stoklar,0.0
+DOHOL,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,56118482.0
+DOHOL,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,573851983.0
+DOHOL,2023/12,1BGA,Şerefiye,Goodwill,60717466.0
+DOHOL,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,460875207.0
+DOHOL,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,46198913.0
+DOHOL,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,66537420.0
+DOHOL,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4573394832.0
+DOHOL,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+DOHOL,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1408980140.0
+DOHOL,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,768396069.0
+DOHOL,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,19117096.0
+DOHOL,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,142887801.0
+DOHOL,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,30278489.0
+DOHOL,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DOHOL,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,37944207.0
+DOHOL,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DOHOL,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,32238016.0
+DOHOL,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5189225.0
+DOHOL,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,340977509.0
+DOHOL,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,31951728.0
+DOHOL,2023/12,2AAGG,(Ara Toplam),(Subtotal),1408980140.0
+DOHOL,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DOHOL,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,457292897.0
+DOHOL,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,254209377.0
+DOHOL,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DOHOL,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,1162851.0
+DOHOL,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DOHOL,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DOHOL,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DOHOL,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,4845497.0
+DOHOL,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,25182783.0
+DOHOL,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DOHOL,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,171743870.0
+DOHOL,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,148518.0
+DOHOL,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2707121795.0
+DOHOL,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2370802033.0
+DOHOL,2023/12,2OA,Ödenmiş Sermaye,Share Capital,88737899.0
+DOHOL,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DOHOL,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,69195661.0
+DOHOL,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DOHOL,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,294760624.0
+DOHOL,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,453607369.0
+DOHOL,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-149368017.0
+DOHOL,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-7126915.0
+DOHOL,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1620995412.0
+DOHOL,2023/12,2ODA,Azınlık Payları,Minority Interests,336319762.0
+DOHOL,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4573394832.0
+DOHOL,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DOHOL,2023/12,3C,Satış Gelirleri,Net Sales,2551811706.0
+DOHOL,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2081266080.0
+DOHOL,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DOHOL,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,470545626.0
+DOHOL,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",625310112.0
+DOHOL,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-523022288.0
+DOHOL,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DOHOL,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,102287823.0
+DOHOL,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DOHOL,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),572833449.0
+DOHOL,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-170744990.0
+DOHOL,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-130084916.0
+DOHOL,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-14469249.0
+DOHOL,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,431866119.0
+DOHOL,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-40521710.0
+DOHOL,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DOHOL,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,648878703.0
+DOHOL,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,257534295.0
+DOHOL,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,468012109.0
+DOHOL,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DOHOL,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DOHOL,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,48208796.0
+DOHOL,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1165099608.0
+DOHOL,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
+DOHOL,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1056782039.0
+DOHOL,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,468012109.0
+DOHOL,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,108317569.0
+DOHOL,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-89610124.0
+DOHOL,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-107474924.0
+DOHOL,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,17864799.0
+DOHOL,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DOHOL,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,18707445.0
+DOHOL,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DOHOL,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-44522334.0
+DOHOL,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-25814889.0
+DOHOL,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DOHOL,2023/12,3LB,Azınlık Payları,Minority Interests,-16994288.0
+DOHOL,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,-8820601.0
+DOHOL,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DOHOL,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DOHOL,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DOHOL,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DOHOL,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,222121249.0
+DOHOL,2023/12,4BA,Kıdem Tazminatı,Severance Payments,7063128.0
+DOHOL,2023/12,4BB,Finansman Giderleri,Financial Expenses,-1056782039.0
+DOHOL,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,2512334500.0
+DOHOL,2023/12,4BD,Yurtdışı Satışlar,Export Sales,214007951.0
+DOHOL,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,939998444.0
+DOHOL,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,939998444.0
+DOHOL,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),939998444.0
+DOHOL,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,154865373.0
+DOHOL,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-25814889.0
+DOHOL,2023/12,4CAA,Düzeltmeler:,Adjustments:,374625462.0
+DOHOL,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,222121249.0
+DOHOL,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,274814711.0
+DOHOL,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,221143892.0
+DOHOL,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),348810573.0
+DOHOL,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-209437633.0
+DOHOL,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),139372940.0
+DOHOL,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,15492434.0
+DOHOL,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-258246466.0
+DOHOL,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-207107150.0
+DOHOL,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-465353616.0
+DOHOL,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,-310488242.0
+DOHOL,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,465069335.0
+DOHOL,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-42677697.0
+DOHOL,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DOHOL,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-42060999.0
+DOHOL,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,380330639.0
+DOHOL,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,69842396.0
+DOHOL,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,276669755.0
+DOHOL,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DOHOL,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,346512152.0
+DOHOL,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DOHOL,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,702399366.0
+DOHOL,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,733160888.0
+DOHOL,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,1723923952.0
+DOHOL,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,233549756.0
+DOHOL,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,599912861.0
+DOHOL,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,217428679.0
+DOHOL,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,117514410.0
+DOHOL,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,3399556.0
+DOHOL,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2023/3,1AF,Stoklar,Inventories,156215147.0
+DOHOL,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,1329334.0
+DOHOL,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,137380315.0
+DOHOL,2023/3,1AI,(Ara Toplam),(Subtotal),1466730058.0
+DOHOL,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,257193894.0
+DOHOL,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,593286620.0
+DOHOL,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+DOHOL,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DOHOL,2023/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+DOHOL,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2023/3,1BC,Finansal Yatırımlar,Financial Investments,48868552.0
+DOHOL,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,29148782.0
+DOHOL,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DOHOL,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,136529149.0
+DOHOL,2023/3,1BFA,Stoklar,Stoklar,0.0
+DOHOL,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,21265961.0
+DOHOL,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,152560273.0
+DOHOL,2023/3,1BGA,Şerefiye,Goodwill,22711671.0
+DOHOL,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,119708721.0
+DOHOL,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,40789147.0
+DOHOL,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,21704364.0
+DOHOL,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2317210571.0
+DOHOL,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+DOHOL,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,866664756.0
+DOHOL,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,401223225.0
+DOHOL,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,110609971.0
+DOHOL,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,29573792.0
+DOHOL,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DOHOL,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,7411063.0
+DOHOL,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DOHOL,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,25906097.0
+DOHOL,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),6539207.0
+DOHOL,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,103352286.0
+DOHOL,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,12228187.0
+DOHOL,2023/3,2AAGG,(Ara Toplam),(Subtotal),696843828.0
+DOHOL,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,169820928.0
+DOHOL,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,190147281.0
+DOHOL,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,122266388.0
+DOHOL,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DOHOL,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,5271475.0
+DOHOL,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DOHOL,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DOHOL,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DOHOL,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,337923.0
+DOHOL,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,17984657.0
+DOHOL,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DOHOL,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,34594221.0
+DOHOL,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,9692617.0
+DOHOL,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1260398534.0
+DOHOL,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1079085982.0
+DOHOL,2023/3,2OA,Ödenmiş Sermaye,Share Capital,136385516.0
+DOHOL,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DOHOL,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,1832362.0
+DOHOL,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DOHOL,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,222532755.0
+DOHOL,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,136084543.0
+DOHOL,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),578079040.0
+DOHOL,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),32943850.0
+DOHOL,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-28772084.0
+DOHOL,2023/3,2ODA,Azınlık Payları,Minority Interests,181312553.0
+DOHOL,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2317210571.0
+DOHOL,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DOHOL,2023/3,3C,Satış Gelirleri,Net Sales,506573638.0
+DOHOL,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-454705013.0
+DOHOL,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DOHOL,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,51868625.0
+DOHOL,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",183646657.0
+DOHOL,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-156832051.0
+DOHOL,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DOHOL,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,26814606.0
+DOHOL,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DOHOL,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),78683231.0
+DOHOL,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-32374080.0
+DOHOL,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-30978747.0
+DOHOL,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-3322061.0
+DOHOL,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,37152975.0
+DOHOL,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-28513638.0
+DOHOL,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DOHOL,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,20647681.0
+DOHOL,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,12008344.0
+DOHOL,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,37601961.0
+DOHOL,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DOHOL,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DOHOL,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-1472396.0
+DOHOL,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,56777246.0
+DOHOL,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
+DOHOL,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-70260316.0
+DOHOL,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,37601961.0
+DOHOL,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-13483069.0
+DOHOL,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-50465247.0
+DOHOL,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-12263932.0
+DOHOL,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-38201315.0
+DOHOL,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DOHOL,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-63948316.0
+DOHOL,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DOHOL,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-16254946.0
+DOHOL,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-80203262.0
+DOHOL,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DOHOL,2023/3,3LB,Azınlık Payları,Minority Interests,-14308794.0
+DOHOL,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,-65894468.0
+DOHOL,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DOHOL,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DOHOL,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DOHOL,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DOHOL,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,36529222.0
+DOHOL,2023/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+DOHOL,2023/3,4BB,Finansman Giderleri,Financial Expenses,-70260316.0
+DOHOL,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+DOHOL,2023/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+DOHOL,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,480668171.0
+DOHOL,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,615580741.0
+DOHOL,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),480668171.0
+DOHOL,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,300889894.0
+DOHOL,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-73984838.0
+DOHOL,2023/3,4CAA,Düzeltmeler:,Adjustments:,297408098.0
+DOHOL,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,36529222.0
+DOHOL,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,71813585.0
+DOHOL,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-1638536.0
+DOHOL,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),223423259.0
+DOHOL,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,75625756.0
+DOHOL,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),299049015.0
+DOHOL,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,1840879.0
+DOHOL,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-48179511.0
+DOHOL,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-133728101.0
+DOHOL,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-181907612.0
+DOHOL,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,118982282.0
+DOHOL,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-92853302.0
+DOHOL,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DOHOL,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DOHOL,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-153508932.0
+DOHOL,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-246362234.0
+DOHOL,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-127379951.0
+DOHOL,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-8552112.0
+DOHOL,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DOHOL,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-135932063.0
+DOHOL,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DOHOL,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,707406822.0
+DOHOL,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,399646170.0
+DOHOL,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,1600723823.0
+DOHOL,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,336193177.0
+DOHOL,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,630817330.0
+DOHOL,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,164657281.0
+DOHOL,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,98739988.0
+DOHOL,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,5348788.0
+DOHOL,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2023/6,1AF,Stoklar,Inventories,124680629.0
+DOHOL,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,1453675.0
+DOHOL,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,173820198.0
+DOHOL,2023/6,1AI,(Ara Toplam),(Subtotal),1535711066.0
+DOHOL,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,65012756.0
+DOHOL,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,492115727.0
+DOHOL,2023/6,1B,Ticari Alacaklar,Trade Receivables,6803.0
+DOHOL,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DOHOL,2023/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+DOHOL,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2023/6,1BC,Finansal Yatırımlar,Financial Investments,45362897.0
+DOHOL,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,28164564.0
+DOHOL,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DOHOL,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,106445751.0
+DOHOL,2023/6,1BFA,Stoklar,Stoklar,0.0
+DOHOL,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,19121749.0
+DOHOL,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,128048404.0
+DOHOL,2023/6,1BGA,Şerefiye,Goodwill,16765586.0
+DOHOL,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,97777971.0
+DOHOL,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,29728832.0
+DOHOL,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,20693169.0
+DOHOL,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2092839549.0
+DOHOL,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+DOHOL,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,695560735.0
+DOHOL,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,365654939.0
+DOHOL,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,118822865.0
+DOHOL,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,14948975.0
+DOHOL,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DOHOL,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,21952060.0
+DOHOL,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DOHOL,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,20238117.0
+DOHOL,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),20279556.0
+DOHOL,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,117014179.0
+DOHOL,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,12144409.0
+DOHOL,2023/6,2AAGG,(Ara Toplam),(Subtotal),691055099.0
+DOHOL,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,4505636.0
+DOHOL,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,146262370.0
+DOHOL,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,93863260.0
+DOHOL,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DOHOL,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,398035.0
+DOHOL,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DOHOL,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DOHOL,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DOHOL,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,473026.0
+DOHOL,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,13765733.0
+DOHOL,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DOHOL,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,30413922.0
+DOHOL,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,7348393.0
+DOHOL,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1251016444.0
+DOHOL,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1143863608.0
+DOHOL,2023/6,2OA,Ödenmiş Sermaye,Share Capital,101158812.0
+DOHOL,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DOHOL,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,1359086.0
+DOHOL,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DOHOL,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,303403841.0
+DOHOL,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,101791910.0
+DOHOL,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),397950297.0
+DOHOL,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),251649504.0
+DOHOL,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-13449841.0
+DOHOL,2023/6,2ODA,Azınlık Payları,Minority Interests,107152836.0
+DOHOL,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2092839549.0
+DOHOL,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DOHOL,2023/6,3C,Satış Gelirleri,Net Sales,1172750623.0
+DOHOL,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-908309900.0
+DOHOL,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DOHOL,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,264440723.0
+DOHOL,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",390434268.0
+DOHOL,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-304877861.0
+DOHOL,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DOHOL,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,85556407.0
+DOHOL,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DOHOL,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),349997130.0
+DOHOL,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-81758178.0
+DOHOL,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-65521619.0
+DOHOL,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-5641184.0
+DOHOL,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,162127525.0
+DOHOL,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-39282033.0
+DOHOL,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DOHOL,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,319921641.0
+DOHOL,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,197076149.0
+DOHOL,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,360671947.0
+DOHOL,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,76234313.0
+DOHOL,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DOHOL,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,6569075.0
+DOHOL,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,763396976.0
+DOHOL,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),-8307944.0
+DOHOL,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-225634074.0
+DOHOL,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,436906260.0
+DOHOL,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,529454958.0
+DOHOL,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-85320710.0
+DOHOL,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-63943653.0
+DOHOL,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-21377057.0
+DOHOL,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DOHOL,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,444134248.0
+DOHOL,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DOHOL,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-48775080.0
+DOHOL,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,395359168.0
+DOHOL,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DOHOL,2023/6,3LB,Azınlık Payları,Minority Interests,-7952251.0
+DOHOL,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,403311419.0
+DOHOL,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DOHOL,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DOHOL,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DOHOL,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DOHOL,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,93745265.0
+DOHOL,2023/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+DOHOL,2023/6,4BB,Finansman Giderleri,Financial Expenses,-225634074.0
+DOHOL,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+DOHOL,2023/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+DOHOL,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,416705771.0
+DOHOL,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,719692144.0
+DOHOL,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),416705771.0
+DOHOL,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,314357575.0
+DOHOL,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,362982661.0
+DOHOL,2023/6,4CAA,Düzeltmeler:,Adjustments:,31866174.0
+DOHOL,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,86068356.0
+DOHOL,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,147231971.0
+DOHOL,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-375707950.0
+DOHOL,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),394848835.0
+DOHOL,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-66954288.0
+DOHOL,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),327894547.0
+DOHOL,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-13536973.0
+DOHOL,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-97548999.0
+DOHOL,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-115173330.0
+DOHOL,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-212722329.0
+DOHOL,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,101635246.0
+DOHOL,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,140566284.0
+DOHOL,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DOHOL,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DOHOL,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-101992959.0
+DOHOL,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,38573325.0
+DOHOL,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,140208571.0
+DOHOL,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,257479997.0
+DOHOL,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DOHOL,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,397688568.0
+DOHOL,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DOHOL,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,731732056.0
+DOHOL,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,753712624.0
+DOHOL,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,1672783016.0
+DOHOL,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,329494421.0
+DOHOL,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,729994166.0
+DOHOL,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,147534857.0
+DOHOL,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,131706228.0
+DOHOL,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,11316050.0
+DOHOL,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2023/9,1AF,Stoklar,Inventories,164364144.0
+DOHOL,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,1281157.0
+DOHOL,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,157091993.0
+DOHOL,2023/9,1AI,(Ara Toplam),(Subtotal),1672783016.0
+DOHOL,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DOHOL,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,493800809.0
+DOHOL,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+DOHOL,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DOHOL,2023/9,1BB,Diğer Alacaklar,Other Receivables,1554510.0
+DOHOL,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2023/9,1BC,Finansal Yatırımlar,Financial Investments,44216692.0
+DOHOL,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,30195836.0
+DOHOL,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DOHOL,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,100920404.0
+DOHOL,2023/9,1BFA,Stoklar,Stoklar,0.0
+DOHOL,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,19876796.0
+DOHOL,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,135616204.0
+DOHOL,2023/9,1BGA,Şerefiye,Goodwill,15824437.0
+DOHOL,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,92863378.0
+DOHOL,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,33328593.0
+DOHOL,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,19403960.0
+DOHOL,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2166583826.0
+DOHOL,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+DOHOL,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,786554838.0
+DOHOL,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,406914205.0
+DOHOL,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,110394334.0
+DOHOL,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,16788923.0
+DOHOL,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DOHOL,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,18779990.0
+DOHOL,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DOHOL,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,19723656.0
+DOHOL,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),21679210.0
+DOHOL,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,173777948.0
+DOHOL,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,18496573.0
+DOHOL,2023/9,2AAGG,(Ara Toplam),(Subtotal),786554838.0
+DOHOL,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DOHOL,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,136777146.0
+DOHOL,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,86384562.0
+DOHOL,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+DOHOL,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,413877.0
+DOHOL,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DOHOL,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DOHOL,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DOHOL,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1070444.0
+DOHOL,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,13144717.0
+DOHOL,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DOHOL,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,28212718.0
+DOHOL,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,7550828.0
+DOHOL,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1243251841.0
+DOHOL,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1125935280.0
+DOHOL,2023/9,2OA,Ödenmiş Sermaye,Share Capital,95420258.0
+DOHOL,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DOHOL,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,1281959.0
+DOHOL,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DOHOL,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,291137643.0
+DOHOL,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,98692336.0
+DOHOL,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),375366988.0
+DOHOL,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),277084810.0
+DOHOL,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-13048713.0
+DOHOL,2023/9,2ODA,Azınlık Payları,Minority Interests,117316561.0
+DOHOL,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2166583826.0
+DOHOL,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DOHOL,2023/9,3C,Satış Gelirleri,Net Sales,1781526395.0
+DOHOL,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1448890403.0
+DOHOL,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DOHOL,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,332635992.0
+DOHOL,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",474061982.0
+DOHOL,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-376981190.0
+DOHOL,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DOHOL,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,97080792.0
+DOHOL,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DOHOL,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),429716784.0
+DOHOL,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-132569987.0
+DOHOL,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-90103931.0
+DOHOL,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-7847397.0
+DOHOL,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,312233815.0
+DOHOL,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-61076257.0
+DOHOL,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DOHOL,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,450353027.0
+DOHOL,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,199195469.0
+DOHOL,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,321708676.0
+DOHOL,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DOHOL,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DOHOL,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,6081142.0
+DOHOL,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,778142845.0
+DOHOL,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
+DOHOL,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-579666644.0
+DOHOL,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,321708676.0
+DOHOL,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,198476201.0
+DOHOL,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-147979407.0
+DOHOL,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-99165484.0
+DOHOL,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-48813922.0
+DOHOL,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DOHOL,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,50496794.0
+DOHOL,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DOHOL,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-44970993.0
+DOHOL,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,5525801.0
+DOHOL,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DOHOL,2023/9,3LB,Azınlık Payları,Minority Interests,-786343.0
+DOHOL,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,6312144.0
+DOHOL,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DOHOL,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DOHOL,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DOHOL,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DOHOL,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,116757395.0
+DOHOL,2023/9,4BA,Kıdem Tazminatı,Severance Payments,-9616760.0
+DOHOL,2023/9,4BB,Finansman Giderleri,Financial Expenses,-579666644.0
+DOHOL,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+DOHOL,2023/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+DOHOL,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,627972119.0
+DOHOL,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,1018070504.0
+DOHOL,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),627972119.0
+DOHOL,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,288910868.0
+DOHOL,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,5525801.0
+DOHOL,2023/9,4CAA,Düzeltmeler:,Adjustments:,408604798.0
+DOHOL,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,116757395.0
+DOHOL,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,182945424.0
+DOHOL,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-129567142.0
+DOHOL,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),414130599.0
+DOHOL,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-77952638.0
+DOHOL,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),336177961.0
+DOHOL,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-47267093.0
+DOHOL,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-136256782.0
+DOHOL,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-377800328.0
+DOHOL,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-514057110.0
+DOHOL,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,-225146242.0
+DOHOL,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,86511104.0
+DOHOL,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-19757823.0
+DOHOL,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DOHOL,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-73391837.0
+DOHOL,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-6638556.0
+DOHOL,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-231784798.0
+DOHOL,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,321300278.0
+DOHOL,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DOHOL,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,89515480.0
+DOHOL,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DOHOL,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,710899631.0
+DOHOL,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,608114021.0
+DOHOL,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,2953290639.0
+DOHOL,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,916958893.0
+DOHOL,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,959738950.0
+DOHOL,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,264231215.0
+DOHOL,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,288209681.0
+DOHOL,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,19294419.0
+DOHOL,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2024/12,1AF,Stoklar,Inventories,263025425.0
+DOHOL,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,391686.0
+DOHOL,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,241440370.0
+DOHOL,2024/12,1AI,(Ara Toplam),(Subtotal),2953290639.0
+DOHOL,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DOHOL,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,2003291452.0
+DOHOL,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+DOHOL,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DOHOL,2024/12,1BB,Diğer Alacaklar,Other Receivables,10665444.0
+DOHOL,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2024/12,1BC,Finansal Yatırımlar,Financial Investments,49706050.0
+DOHOL,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,62589094.0
+DOHOL,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DOHOL,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,254083051.0
+DOHOL,2024/12,1BFA,Stoklar,Stoklar,0.0
+DOHOL,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,64083157.0
+DOHOL,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,794148103.0
+DOHOL,2024/12,1BGA,Şerefiye,Goodwill,65942041.0
+DOHOL,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,643750171.0
+DOHOL,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,37166143.0
+DOHOL,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,21158200.0
+DOHOL,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4956582090.0
+DOHOL,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+DOHOL,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1733095200.0
+DOHOL,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,713615776.0
+DOHOL,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,33785.0
+DOHOL,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,163465800.0
+DOHOL,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,35683614.0
+DOHOL,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DOHOL,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,37543527.0
+DOHOL,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DOHOL,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,70987146.0
+DOHOL,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),12759509.0
+DOHOL,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,651565964.0
+DOHOL,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,47440078.0
+DOHOL,2024/12,2AAGG,(Ara Toplam),(Subtotal),1733095200.0
+DOHOL,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DOHOL,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,595957870.0
+DOHOL,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,368995111.0
+DOHOL,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,762043.0
+DOHOL,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,635349.0
+DOHOL,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DOHOL,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DOHOL,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DOHOL,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,535343.0
+DOHOL,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,30239228.0
+DOHOL,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DOHOL,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,194790796.0
+DOHOL,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DOHOL,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2627529020.0
+DOHOL,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2250862554.0
+DOHOL,2024/12,2OA,Ödenmiş Sermaye,Share Capital,74043991.0
+DOHOL,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DOHOL,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,72420169.0
+DOHOL,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DOHOL,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-63536032.0
+DOHOL,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,622043142.0
+DOHOL,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-316460208.0
+DOHOL,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),153213158.0
+DOHOL,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1690309252.0
+DOHOL,2024/12,2ODA,Azınlık Payları,Minority Interests,376666467.0
+DOHOL,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4956582090.0
+DOHOL,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DOHOL,2024/12,3C,Satış Gelirleri,Net Sales,2300615566.0
+DOHOL,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2044498123.0
+DOHOL,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DOHOL,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,256117443.0
+DOHOL,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",923243887.0
+DOHOL,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-780364690.0
+DOHOL,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DOHOL,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,142879197.0
+DOHOL,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DOHOL,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),398996640.0
+DOHOL,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-201815869.0
+DOHOL,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-161807405.0
+DOHOL,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-7385847.0
+DOHOL,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,361576763.0
+DOHOL,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-125623691.0
+DOHOL,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DOHOL,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,263940591.0
+DOHOL,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,27987519.0
+DOHOL,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,158957414.0
+DOHOL,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DOHOL,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DOHOL,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-54746086.0
+DOHOL,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,368151919.0
+DOHOL,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
+DOHOL,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-202526707.0
+DOHOL,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,158957414.0
+DOHOL,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,165625212.0
+DOHOL,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-33769726.0
+DOHOL,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-51921964.0
+DOHOL,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,18152238.0
+DOHOL,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DOHOL,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,131855485.0
+DOHOL,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DOHOL,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,131855485.0
+DOHOL,2024/12,3LB,Azınlık Payları,Minority Interests,-32872384.0
+DOHOL,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,164727869.0
+DOHOL,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DOHOL,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DOHOL,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DOHOL,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DOHOL,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,152868703.0
+DOHOL,2024/12,4BA,Kıdem Tazminatı,Severance Payments,8153460.0
+DOHOL,2024/12,4BB,Finansman Giderleri,Financial Expenses,-202526707.0
+DOHOL,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,2234161258.0
+DOHOL,2024/12,4BD,Yurtdışı Satışlar,Export Sales,215173366.0
+DOHOL,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,60642645.0
+DOHOL,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,60642645.0
+DOHOL,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),60642645.0
+DOHOL,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1080686182.0
+DOHOL,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,131855485.0
+DOHOL,2024/12,4CAA,Düzeltmeler:,Adjustments:,618732266.0
+DOHOL,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,152868703.0
+DOHOL,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,354920031.0
+DOHOL,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,17966840.0
+DOHOL,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),750587751.0
+DOHOL,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,98622951.0
+DOHOL,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),849210703.0
+DOHOL,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,231475479.0
+DOHOL,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-206273316.0
+DOHOL,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-161556723.0
+DOHOL,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-367830039.0
+DOHOL,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,712856143.0
+DOHOL,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,264470953.0
+DOHOL,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-5778850.0
+DOHOL,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DOHOL,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-207179358.0
+DOHOL,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,51512746.0
+DOHOL,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,764368889.0
+DOHOL,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-242257705.0
+DOHOL,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DOHOL,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,522111184.0
+DOHOL,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DOHOL,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,666583262.0
+DOHOL,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,983415120.0
+DOHOL,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,1983417987.0
+DOHOL,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,293693992.0
+DOHOL,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,842073641.0
+DOHOL,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,211916113.0
+DOHOL,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,187787043.0
+DOHOL,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,20088797.0
+DOHOL,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2024/3,1AF,Stoklar,Inventories,278613976.0
+DOHOL,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,1538573.0
+DOHOL,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,147705852.0
+DOHOL,2024/3,1AI,(Ara Toplam),(Subtotal),1983417987.0
+DOHOL,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DOHOL,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1260892510.0
+DOHOL,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+DOHOL,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DOHOL,2024/3,1BB,Diğer Alacaklar,Other Receivables,1556537.0
+DOHOL,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2024/3,1BC,Finansal Yatırımlar,Financial Investments,69070944.0
+DOHOL,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,69325740.0
+DOHOL,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DOHOL,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,194944811.0
+DOHOL,2024/3,1BFA,Stoklar,Stoklar,0.0
+DOHOL,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,39023980.0
+DOHOL,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,444095493.0
+DOHOL,2024/3,1BGA,Şerefiye,Goodwill,44121866.0
+DOHOL,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,332130221.0
+DOHOL,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,29642309.0
+DOHOL,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,36980608.0
+DOHOL,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3244310497.0
+DOHOL,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+DOHOL,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1023869606.0
+DOHOL,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,555737024.0
+DOHOL,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,19812915.0
+DOHOL,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,82489983.0
+DOHOL,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,13992196.0
+DOHOL,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DOHOL,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,35530213.0
+DOHOL,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DOHOL,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,24519039.0
+DOHOL,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),10501119.0
+DOHOL,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,258501064.0
+DOHOL,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,22786054.0
+DOHOL,2024/3,2AAGG,(Ara Toplam),(Subtotal),1023869606.0
+DOHOL,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DOHOL,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,305850555.0
+DOHOL,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,159320917.0
+DOHOL,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,186621.0
+DOHOL,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,427225.0
+DOHOL,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DOHOL,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DOHOL,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DOHOL,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,241068.0
+DOHOL,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,16791885.0
+DOHOL,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DOHOL,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,128882839.0
+DOHOL,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DOHOL,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1914590336.0
+DOHOL,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1675196206.0
+DOHOL,2024/3,2OA,Ödenmiş Sermaye,Share Capital,80912329.0
+DOHOL,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DOHOL,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,50282807.0
+DOHOL,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DOHOL,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,407281750.0
+DOHOL,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,431896913.0
+DOHOL,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-477420726.0
+DOHOL,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),29380743.0
+DOHOL,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1152862390.0
+DOHOL,2024/3,2ODA,Azınlık Payları,Minority Interests,239394131.0
+DOHOL,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3244310497.0
+DOHOL,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DOHOL,2024/3,3C,Satış Gelirleri,Net Sales,637839467.0
+DOHOL,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-558824588.0
+DOHOL,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DOHOL,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,79014879.0
+DOHOL,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",148602949.0
+DOHOL,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-114689619.0
+DOHOL,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DOHOL,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,33913330.0
+DOHOL,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DOHOL,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),112928209.0
+DOHOL,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-45519793.0
+DOHOL,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-31254322.0
+DOHOL,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-3056451.0
+DOHOL,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,74255351.0
+DOHOL,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-20483571.0
+DOHOL,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DOHOL,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,86869424.0
+DOHOL,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,33097643.0
+DOHOL,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,84640869.0
+DOHOL,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DOHOL,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DOHOL,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-15932309.0
+DOHOL,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,155577983.0
+DOHOL,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
+DOHOL,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-86355962.0
+DOHOL,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,84640869.0
+DOHOL,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,69222022.0
+DOHOL,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-26943367.0
+DOHOL,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-14231783.0
+DOHOL,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-12711584.0
+DOHOL,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DOHOL,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,42278655.0
+DOHOL,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DOHOL,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DOHOL,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,42278655.0
+DOHOL,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DOHOL,2024/3,3LB,Azınlık Payları,Minority Interests,-110044.0
+DOHOL,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,42388699.0
+DOHOL,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DOHOL,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DOHOL,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DOHOL,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DOHOL,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,38591593.0
+DOHOL,2024/3,4BA,Kıdem Tazminatı,Severance Payments,-2729000.0
+DOHOL,2024/3,4BB,Finansman Giderleri,Financial Expenses,-86355962.0
+DOHOL,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+DOHOL,2024/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+DOHOL,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,489474047.0
+DOHOL,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,519167118.0
+DOHOL,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),489474047.0
+DOHOL,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,327102390.0
+DOHOL,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,42278655.0
+DOHOL,2024/3,4CAA,Düzeltmeler:,Adjustments:,282246025.0
+DOHOL,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,38591593.0
+DOHOL,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,12860710.0
+DOHOL,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,61981972.0
+DOHOL,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),324524680.0
+DOHOL,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-23512083.0
+DOHOL,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),301012597.0
+DOHOL,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,26089793.0
+DOHOL,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-83040406.0
+DOHOL,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-212624913.0
+DOHOL,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-295665319.0
+DOHOL,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,31437072.0
+DOHOL,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,50028905.0
+DOHOL,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DOHOL,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DOHOL,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-64473056.0
+DOHOL,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-14444151.0
+DOHOL,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,16992921.0
+DOHOL,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-98598818.0
+DOHOL,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DOHOL,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-81605897.0
+DOHOL,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DOHOL,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,622227342.0
+DOHOL,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,423723231.0
+DOHOL,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,2159389788.0
+DOHOL,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,576487884.0
+DOHOL,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,693386528.0
+DOHOL,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,187268840.0
+DOHOL,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,197284258.0
+DOHOL,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,24914628.0
+DOHOL,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2024/6,1AF,Stoklar,Inventories,308877188.0
+DOHOL,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,1126126.0
+DOHOL,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,170044336.0
+DOHOL,2024/6,1AI,(Ara Toplam),(Subtotal),2159389788.0
+DOHOL,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DOHOL,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1341109554.0
+DOHOL,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+DOHOL,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DOHOL,2024/6,1BB,Diğer Alacaklar,Other Receivables,1556410.0
+DOHOL,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2024/6,1BC,Finansal Yatırımlar,Financial Investments,62203507.0
+DOHOL,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,70454732.0
+DOHOL,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DOHOL,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,206727018.0
+DOHOL,2024/6,1BFA,Stoklar,Stoklar,0.0
+DOHOL,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,42753875.0
+DOHOL,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,487095754.0
+DOHOL,2024/6,1BGA,Şerefiye,Goodwill,47042387.0
+DOHOL,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,348779607.0
+DOHOL,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,27647216.0
+DOHOL,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,46849048.0
+DOHOL,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3500499342.0
+DOHOL,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+DOHOL,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1180738750.0
+DOHOL,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,580510076.0
+DOHOL,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,20079215.0
+DOHOL,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,95728608.0
+DOHOL,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,23786433.0
+DOHOL,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DOHOL,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,34205618.0
+DOHOL,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DOHOL,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,38881962.0
+DOHOL,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3513758.0
+DOHOL,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,360883252.0
+DOHOL,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,23149827.0
+DOHOL,2024/6,2AAGG,(Ara Toplam),(Subtotal),1180738750.0
+DOHOL,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DOHOL,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,355688530.0
+DOHOL,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,185535665.0
+DOHOL,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,183547.0
+DOHOL,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,350825.0
+DOHOL,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DOHOL,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DOHOL,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DOHOL,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,8471384.0
+DOHOL,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,18028146.0
+DOHOL,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DOHOL,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,143118962.0
+DOHOL,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DOHOL,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1964072063.0
+DOHOL,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1705713009.0
+DOHOL,2024/6,2OA,Ödenmiş Sermaye,Share Capital,79579508.0
+DOHOL,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DOHOL,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,53611097.0
+DOHOL,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DOHOL,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,327334189.0
+DOHOL,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,460485019.0
+DOHOL,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-513001098.0
+DOHOL,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),56537784.0
+DOHOL,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1241166509.0
+DOHOL,2024/6,2ODA,Azınlık Payları,Minority Interests,258359054.0
+DOHOL,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3500499342.0
+DOHOL,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DOHOL,2024/6,3C,Satış Gelirleri,Net Sales,1076103112.0
+DOHOL,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-936938107.0
+DOHOL,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DOHOL,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,139165005.0
+DOHOL,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",401340244.0
+DOHOL,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-339585506.0
+DOHOL,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DOHOL,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,61754738.0
+DOHOL,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DOHOL,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),200919743.0
+DOHOL,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-82365340.0
+DOHOL,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-63398376.0
+DOHOL,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-2647972.0
+DOHOL,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,201813711.0
+DOHOL,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-44938655.0
+DOHOL,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DOHOL,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,209383110.0
+DOHOL,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,52508054.0
+DOHOL,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,70744512.0
+DOHOL,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DOHOL,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DOHOL,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-21455111.0
+DOHOL,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,258672512.0
+DOHOL,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
+DOHOL,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-146239431.0
+DOHOL,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,70744512.0
+DOHOL,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,112433081.0
+DOHOL,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-43797707.0
+DOHOL,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-20868303.0
+DOHOL,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-22929404.0
+DOHOL,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DOHOL,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,68635375.0
+DOHOL,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DOHOL,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DOHOL,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,68635375.0
+DOHOL,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DOHOL,2024/6,3LB,Azınlık Payları,Minority Interests,-10768634.0
+DOHOL,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,79404009.0
+DOHOL,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DOHOL,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DOHOL,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DOHOL,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DOHOL,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,93013267.0
+DOHOL,2024/6,4BA,Kıdem Tazminatı,Severance Payments,260421.0
+DOHOL,2024/6,4BB,Finansman Giderleri,Financial Expenses,-146239431.0
+DOHOL,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+DOHOL,2024/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+DOHOL,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,213326955.0
+DOHOL,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,277268246.0
+DOHOL,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),63941291.0
+DOHOL,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,597535133.0
+DOHOL,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,68635375.0
+DOHOL,2024/6,4CAA,Düzeltmeler:,Adjustments:,423952431.0
+DOHOL,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,93013267.0
+DOHOL,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,134833074.0
+DOHOL,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,32183583.0
+DOHOL,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),492587806.0
+DOHOL,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,23514030.0
+DOHOL,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),516101836.0
+DOHOL,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,81433297.0
+DOHOL,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-143824050.0
+DOHOL,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,45093168.0
+DOHOL,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-98730882.0
+DOHOL,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,498804251.0
+DOHOL,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,192244719.0
+DOHOL,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-5588179.0
+DOHOL,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DOHOL,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-141081365.0
+DOHOL,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,45575176.0
+DOHOL,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,544379427.0
+DOHOL,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-252478551.0
+DOHOL,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DOHOL,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,291900876.0
+DOHOL,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DOHOL,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,645804388.0
+DOHOL,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,809643599.0
+DOHOL,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,2247633614.0
+DOHOL,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,629945060.0
+DOHOL,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,720622716.0
+DOHOL,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,210808542.0
+DOHOL,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,190825247.0
+DOHOL,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,24906253.0
+DOHOL,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2024/9,1AF,Stoklar,Inventories,268971433.0
+DOHOL,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,352227.0
+DOHOL,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,201202136.0
+DOHOL,2024/9,1AI,(Ara Toplam),(Subtotal),2247633614.0
+DOHOL,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DOHOL,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1593421400.0
+DOHOL,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+DOHOL,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DOHOL,2024/9,1BB,Diğer Alacaklar,Other Receivables,1626446.0
+DOHOL,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2024/9,1BC,Finansal Yatırımlar,Financial Investments,76999020.0
+DOHOL,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,65259212.0
+DOHOL,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DOHOL,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,216188137.0
+DOHOL,2024/9,1BFA,Stoklar,Stoklar,0.0
+DOHOL,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,41874877.0
+DOHOL,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,594536152.0
+DOHOL,2024/9,1BGA,Şerefiye,Goodwill,127661376.0
+DOHOL,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,401331120.0
+DOHOL,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,38301295.0
+DOHOL,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,29643765.0
+DOHOL,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3841055014.0
+DOHOL,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+DOHOL,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1382237285.0
+DOHOL,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,624727478.0
+DOHOL,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,13737556.0
+DOHOL,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,109937629.0
+DOHOL,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,24521495.0
+DOHOL,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DOHOL,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,24475126.0
+DOHOL,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DOHOL,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,82023579.0
+DOHOL,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5663629.0
+DOHOL,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,470954582.0
+DOHOL,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,26196212.0
+DOHOL,2024/9,2AAGG,(Ara Toplam),(Subtotal),1382237285.0
+DOHOL,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DOHOL,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,352479163.0
+DOHOL,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,174482352.0
+DOHOL,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,826797.0
+DOHOL,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,401931.0
+DOHOL,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DOHOL,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DOHOL,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DOHOL,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,6574592.0
+DOHOL,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,19300783.0
+DOHOL,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DOHOL,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,150892708.0
+DOHOL,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DOHOL,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2106338565.0
+DOHOL,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1781953719.0
+DOHOL,2024/9,2OA,Ödenmiş Sermaye,Share Capital,76559526.0
+DOHOL,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DOHOL,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,56176991.0
+DOHOL,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DOHOL,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,307610912.0
+DOHOL,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,482524420.0
+DOHOL,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-537553953.0
+DOHOL,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),89194880.0
+DOHOL,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1307440942.0
+DOHOL,2024/9,2ODA,Azınlık Payları,Minority Interests,324384846.0
+DOHOL,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3841055014.0
+DOHOL,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DOHOL,2024/9,3C,Satış Gelirleri,Net Sales,1719154802.0
+DOHOL,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1547871995.0
+DOHOL,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DOHOL,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,171282807.0
+DOHOL,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",722620911.0
+DOHOL,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-609578346.0
+DOHOL,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DOHOL,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,113042565.0
+DOHOL,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DOHOL,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),284325372.0
+DOHOL,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-148963166.0
+DOHOL,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-109414529.0
+DOHOL,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-5104151.0
+DOHOL,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,250990211.0
+DOHOL,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-109830545.0
+DOHOL,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DOHOL,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,162003191.0
+DOHOL,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,20843525.0
+DOHOL,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,202428625.0
+DOHOL,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DOHOL,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DOHOL,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-19901859.0
+DOHOL,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,344529957.0
+DOHOL,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
+DOHOL,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-164506846.0
+DOHOL,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,202428625.0
+DOHOL,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,180023110.0
+DOHOL,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-62249845.0
+DOHOL,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-35425527.0
+DOHOL,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-26824318.0
+DOHOL,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DOHOL,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,117773265.0
+DOHOL,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DOHOL,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DOHOL,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,117773265.0
+DOHOL,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DOHOL,2024/9,3LB,Azınlık Payları,Minority Interests,-8125341.0
+DOHOL,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,125898606.0
+DOHOL,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DOHOL,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DOHOL,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DOHOL,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DOHOL,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,118300620.0
+DOHOL,2024/9,4BA,Kıdem Tazminatı,Severance Payments,1335874.0
+DOHOL,2024/9,4BB,Finansman Giderleri,Financial Expenses,-164506846.0
+DOHOL,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+DOHOL,2024/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+DOHOL,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,274882466.0
+DOHOL,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,328786090.0
+DOHOL,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),53903625.0
+DOHOL,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,974744424.0
+DOHOL,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,117773265.0
+DOHOL,2024/9,4CAA,Düzeltmeler:,Adjustments:,580679802.0
+DOHOL,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,118300620.0
+DOHOL,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,270516574.0
+DOHOL,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,29679492.0
+DOHOL,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),698453067.0
+DOHOL,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,137573513.0
+DOHOL,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),836026580.0
+DOHOL,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,138717844.0
+DOHOL,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-228973079.0
+DOHOL,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-52653686.0
+DOHOL,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-281626766.0
+DOHOL,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,693117658.0
+DOHOL,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,116285967.0
+DOHOL,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-5885068.0
+DOHOL,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DOHOL,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-142081444.0
+DOHOL,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-31680545.0
+DOHOL,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,661437113.0
+DOHOL,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-317518804.0
+DOHOL,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DOHOL,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,343918309.0
+DOHOL,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DOHOL,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,680114436.0
+DOHOL,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,889167565.0
+DOHOL,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,2447799343.0
+DOHOL,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,681867621.0
+DOHOL,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,804880834.0
+DOHOL,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,177831193.0
+DOHOL,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,267795563.0
+DOHOL,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,10367688.0
+DOHOL,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2025/3,1AF,Stoklar,Inventories,263836659.0
+DOHOL,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,754750.0
+DOHOL,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,240465035.0
+DOHOL,2025/3,1AI,(Ara Toplam),(Subtotal),2447799343.0
+DOHOL,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DOHOL,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1611742996.0
+DOHOL,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+DOHOL,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DOHOL,2025/3,1BB,Diğer Alacaklar,Other Receivables,9787412.0
+DOHOL,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2025/3,1BC,Finansal Yatırımlar,Financial Investments,40193003.0
+DOHOL,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,47563706.0
+DOHOL,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DOHOL,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,208332888.0
+DOHOL,2025/3,1BFA,Stoklar,Stoklar,0.0
+DOHOL,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,48111366.0
+DOHOL,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,625350468.0
+DOHOL,2025/3,1BGA,Şerefiye,Goodwill,54055168.0
+DOHOL,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,546102443.0
+DOHOL,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,18408958.0
+DOHOL,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,13837584.0
+DOHOL,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4059542339.0
+DOHOL,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+DOHOL,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1451413475.0
+DOHOL,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,568476702.0
+DOHOL,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,26352.0
+DOHOL,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,154409772.0
+DOHOL,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,26251120.0
+DOHOL,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DOHOL,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,32387105.0
+DOHOL,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DOHOL,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,40317151.0
+DOHOL,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),10439344.0
+DOHOL,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,588703907.0
+DOHOL,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,30402023.0
+DOHOL,2025/3,2AAGG,(Ara Toplam),(Subtotal),1451413475.0
+DOHOL,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DOHOL,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,481819780.0
+DOHOL,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,288828240.0
+DOHOL,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,4437975.0
+DOHOL,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,501458.0
+DOHOL,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DOHOL,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DOHOL,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DOHOL,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,163320.0
+DOHOL,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,24944771.0
+DOHOL,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DOHOL,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,162944016.0
+DOHOL,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DOHOL,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2126309084.0
+DOHOL,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1820640831.0
+DOHOL,2025/3,2OA,Ödenmiş Sermaye,Share Capital,69171030.0
+DOHOL,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DOHOL,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,59365539.0
+DOHOL,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DOHOL,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-63967257.0
+DOHOL,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,510410375.0
+DOHOL,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-134317976.0
+DOHOL,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-13738175.0
+DOHOL,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1393717294.0
+DOHOL,2025/3,2ODA,Azınlık Payları,Minority Interests,305668253.0
+DOHOL,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4059542339.0
+DOHOL,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DOHOL,2025/3,3C,Satış Gelirleri,Net Sales,306271041.0
+DOHOL,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-262718548.0
+DOHOL,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DOHOL,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,43552494.0
+DOHOL,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",218869908.0
+DOHOL,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-181173625.0
+DOHOL,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DOHOL,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,37696283.0
+DOHOL,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DOHOL,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),81248776.0
+DOHOL,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-34501695.0
+DOHOL,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-34371343.0
+DOHOL,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1642418.0
+DOHOL,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,86638026.0
+DOHOL,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-33518650.0
+DOHOL,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DOHOL,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,63852696.0
+DOHOL,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,10733320.0
+DOHOL,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,33264703.0
+DOHOL,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DOHOL,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DOHOL,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-3905786.0
+DOHOL,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,93211614.0
+DOHOL,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
+DOHOL,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-87409132.0
+DOHOL,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,33264703.0
+DOHOL,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,5802481.0
+DOHOL,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-23459265.0
+DOHOL,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-15581441.0
+DOHOL,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-7877824.0
+DOHOL,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DOHOL,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-17656784.0
+DOHOL,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DOHOL,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DOHOL,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-17656784.0
+DOHOL,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DOHOL,2025/3,3LB,Azınlık Payları,Minority Interests,-3320664.0
+DOHOL,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,-14336119.0
+DOHOL,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DOHOL,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DOHOL,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DOHOL,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DOHOL,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,38624827.0
+DOHOL,2025/3,4BA,Kıdem Tazminatı,Severance Payments,1324316.0
+DOHOL,2025/3,4BB,Finansman Giderleri,Financial Expenses,-87409132.0
+DOHOL,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+DOHOL,2025/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+DOHOL,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,240689734.0
+DOHOL,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,240689734.0
+DOHOL,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),240689734.0
+DOHOL,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,36286160.0
+DOHOL,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-17656784.0
+DOHOL,2025/3,4CAA,Düzeltmeler:,Adjustments:,101159965.0
+DOHOL,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,38624827.0
+DOHOL,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,58270208.0
+DOHOL,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-38212312.0
+DOHOL,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),83503181.0
+DOHOL,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-111406327.0
+DOHOL,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-27903146.0
+DOHOL,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,64189306.0
+DOHOL,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-26312637.0
+DOHOL,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-36651288.0
+DOHOL,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-62963926.0
+DOHOL,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-26677766.0
+DOHOL,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-3172191.0
+DOHOL,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DOHOL,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DOHOL,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-21797650.0
+DOHOL,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-24969841.0
+DOHOL,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-51647608.0
+DOHOL,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,50525687.0
+DOHOL,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DOHOL,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-1121920.0
+DOHOL,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DOHOL,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,784381395.0
+DOHOL,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,711545420.0
+DOHOL,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,2488255343.0
+DOHOL,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,734902769.0
+DOHOL,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,819301122.0
+DOHOL,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,199084255.0
+DOHOL,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,287355949.0
+DOHOL,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,11845204.0
+DOHOL,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2025/6,1AF,Stoklar,Inventories,188002833.0
+DOHOL,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,962740.0
+DOHOL,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,204456978.0
+DOHOL,2025/6,1AI,(Ara Toplam),(Subtotal),2445911852.0
+DOHOL,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,42343491.0
+DOHOL,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1581468688.0
+DOHOL,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+DOHOL,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DOHOL,2025/6,1BB,Diğer Alacaklar,Other Receivables,10453828.0
+DOHOL,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2025/6,1BC,Finansal Yatırımlar,Financial Investments,45581075.0
+DOHOL,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,49206956.0
+DOHOL,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DOHOL,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,211354327.0
+DOHOL,2025/6,1BFA,Stoklar,Stoklar,0.0
+DOHOL,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,50918558.0
+DOHOL,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,597820855.0
+DOHOL,2025/6,1BGA,Şerefiye,Goodwill,50996348.0
+DOHOL,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,537067773.0
+DOHOL,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,15717364.0
+DOHOL,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,12351604.0
+DOHOL,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4069724031.0
+DOHOL,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+DOHOL,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1469836307.0
+DOHOL,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,507533909.0
+DOHOL,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,9687535.0
+DOHOL,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,123108002.0
+DOHOL,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,42778305.0
+DOHOL,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DOHOL,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,19876596.0
+DOHOL,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DOHOL,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,43597321.0
+DOHOL,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),7439818.0
+DOHOL,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,648963941.0
+DOHOL,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,24651867.0
+DOHOL,2025/6,2AAGG,(Ara Toplam),(Subtotal),1427637294.0
+DOHOL,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,42199013.0
+DOHOL,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,463033854.0
+DOHOL,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,284350077.0
+DOHOL,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,3796707.0
+DOHOL,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,493289.0
+DOHOL,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DOHOL,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DOHOL,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DOHOL,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,258864.0
+DOHOL,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,20778175.0
+DOHOL,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DOHOL,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,153356743.0
+DOHOL,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DOHOL,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2136853870.0
+DOHOL,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1831811848.0
+DOHOL,2025/6,2OA,Ödenmiş Sermaye,Share Capital,65733189.0
+DOHOL,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DOHOL,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,59803729.0
+DOHOL,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DOHOL,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-51535878.0
+DOHOL,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,515460711.0
+DOHOL,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-157273764.0
+DOHOL,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-11945474.0
+DOHOL,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1411569335.0
+DOHOL,2025/6,2ODA,Azınlık Payları,Minority Interests,305042022.0
+DOHOL,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4069724031.0
+DOHOL,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DOHOL,2025/6,3C,Satış Gelirleri,Net Sales,664278344.0
+DOHOL,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-566428084.0
+DOHOL,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DOHOL,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,97850261.0
+DOHOL,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",456696852.0
+DOHOL,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-376447805.0
+DOHOL,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DOHOL,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,80249047.0
+DOHOL,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DOHOL,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),178099308.0
+DOHOL,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-71352172.0
+DOHOL,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-73831408.0
+DOHOL,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-2945839.0
+DOHOL,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,175478917.0
+DOHOL,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-61713855.0
+DOHOL,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DOHOL,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,143734951.0
+DOHOL,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,29969889.0
+DOHOL,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,79791569.0
+DOHOL,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DOHOL,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DOHOL,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-2632369.0
+DOHOL,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,220894151.0
+DOHOL,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
+DOHOL,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-196591175.0
+DOHOL,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,79791569.0
+DOHOL,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,24302976.0
+DOHOL,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-40553203.0
+DOHOL,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-32862638.0
+DOHOL,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-7690565.0
+DOHOL,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DOHOL,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-16250227.0
+DOHOL,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DOHOL,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DOHOL,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-16250227.0
+DOHOL,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DOHOL,2025/6,3LB,Azınlık Payları,Minority Interests,-3562640.0
+DOHOL,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,-12687587.0
+DOHOL,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DOHOL,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DOHOL,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DOHOL,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DOHOL,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,76806860.0
+DOHOL,2025/6,4BA,Kıdem Tazminatı,Severance Payments,804829.0
+DOHOL,2025/6,4BB,Finansman Giderleri,Financial Expenses,-196591175.0
+DOHOL,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+DOHOL,2025/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+DOHOL,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,249597543.0
+DOHOL,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,338192853.0
+DOHOL,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),249597543.0
+DOHOL,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,170686170.0
+DOHOL,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-16250227.0
+DOHOL,2025/6,4CAA,Düzeltmeler:,Adjustments:,183413961.0
+DOHOL,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,76806860.0
+DOHOL,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,193944959.0
+DOHOL,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-97128187.0
+DOHOL,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),167163734.0
+DOHOL,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-113395889.0
+DOHOL,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),53767846.0
+DOHOL,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,116918324.0
+DOHOL,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-8165038.0
+DOHOL,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-48104774.0
+DOHOL,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-56269812.0
+DOHOL,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,114416358.0
+DOHOL,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-36979412.0
+DOHOL,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+DOHOL,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DOHOL,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-43174207.0
+DOHOL,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-80153619.0
+DOHOL,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,34262739.0
+DOHOL,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,56976679.0
+DOHOL,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DOHOL,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,91239418.0
+DOHOL,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DOHOL,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,804255851.0
+DOHOL,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,780558632.0
+DOHOL,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,2466493281.0
+DOHOL,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,279139571.0
+DOHOL,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1325064187.0
+DOHOL,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,196070137.0
+DOHOL,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,289272924.0
+DOHOL,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,11147022.0
+DOHOL,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2025/9,1AF,Stoklar,Inventories,161476374.0
+DOHOL,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,2155208.0
+DOHOL,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,202167858.0
+DOHOL,2025/9,1AI,(Ara Toplam),(Subtotal),2466493281.0
+DOHOL,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+DOHOL,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1615729938.0
+DOHOL,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+DOHOL,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+DOHOL,2025/9,1BB,Diğer Alacaklar,Other Receivables,8225561.0
+DOHOL,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+DOHOL,2025/9,1BC,Finansal Yatırımlar,Financial Investments,43409369.0
+DOHOL,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,51301970.0
+DOHOL,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+DOHOL,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,216834706.0
+DOHOL,2025/9,1BFA,Stoklar,Stoklar,0.0
+DOHOL,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,48433851.0
+DOHOL,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,619111049.0
+DOHOL,2025/9,1BGA,Şerefiye,Goodwill,52267205.0
+DOHOL,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,530633982.0
+DOHOL,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,32783034.0
+DOHOL,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,12729212.0
+DOHOL,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4082223219.0
+DOHOL,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+DOHOL,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1450895685.0
+DOHOL,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,471838554.0
+DOHOL,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,7288079.0
+DOHOL,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,153022900.0
+DOHOL,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,25360231.0
+DOHOL,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+DOHOL,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,31081897.0
+DOHOL,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+DOHOL,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,27231660.0
+DOHOL,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),14335427.0
+DOHOL,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,698852209.0
+DOHOL,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,21884728.0
+DOHOL,2025/9,2AAGG,(Ara Toplam),(Subtotal),1450895685.0
+DOHOL,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+DOHOL,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,435986614.0
+DOHOL,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,249615335.0
+DOHOL,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+DOHOL,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,646127.0
+DOHOL,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,450464.0
+DOHOL,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+DOHOL,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+DOHOL,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+DOHOL,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,286617.0
+DOHOL,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,21298507.0
+DOHOL,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+DOHOL,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,163689565.0
+DOHOL,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+DOHOL,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2195340920.0
+DOHOL,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1879117639.0
+DOHOL,2025/9,2OA,Ödenmiş Sermaye,Share Capital,62936395.0
+DOHOL,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+DOHOL,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,61556145.0
+DOHOL,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+DOHOL,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-65646416.0
+DOHOL,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,530565346.0
+DOHOL,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-165520639.0
+DOHOL,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-9237668.0
+DOHOL,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1464464475.0
+DOHOL,2025/9,2ODA,Azınlık Payları,Minority Interests,316223281.0
+DOHOL,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4082223219.0
+DOHOL,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+DOHOL,2025/9,3C,Satış Gelirleri,Net Sales,1018676711.0
+DOHOL,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-854424530.0
+DOHOL,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+DOHOL,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,164252181.0
+DOHOL,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",715901168.0
+DOHOL,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-589462566.0
+DOHOL,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+DOHOL,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,126438603.0
+DOHOL,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+DOHOL,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),290690783.0
+DOHOL,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-105838730.0
+DOHOL,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-116144088.0
+DOHOL,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-4730159.0
+DOHOL,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,239889249.0
+DOHOL,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-76535271.0
+DOHOL,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+DOHOL,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,227331785.0
+DOHOL,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,63977807.0
+DOHOL,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,158360627.0
+DOHOL,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+DOHOL,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+DOHOL,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-2042540.0
+DOHOL,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,383649872.0
+DOHOL,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
+DOHOL,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-346846306.0
+DOHOL,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,158360627.0
+DOHOL,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,36803566.0
+DOHOL,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-47560330.0
+DOHOL,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-53265922.0
+DOHOL,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,5705592.0
+DOHOL,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+DOHOL,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-10756763.0
+DOHOL,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+DOHOL,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+DOHOL,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-10756763.0
+DOHOL,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+DOHOL,2025/9,3LB,Azınlık Payları,Minority Interests,-815122.0
+DOHOL,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,-9941642.0
+DOHOL,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+DOHOL,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+DOHOL,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+DOHOL,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+DOHOL,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,120465263.0
+DOHOL,2025/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+DOHOL,2025/9,4BB,Finansman Giderleri,Financial Expenses,-346846306.0
+DOHOL,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+DOHOL,2025/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+DOHOL,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,445889922.0
+DOHOL,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,445889922.0
+DOHOL,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),445889922.0
+DOHOL,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,439820095.0
+DOHOL,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-10756763.0
+DOHOL,2025/9,4CAA,Düzeltmeler:,Adjustments:,323256670.0
+DOHOL,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,120465263.0
+DOHOL,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,157872859.0
+DOHOL,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-105220387.0
+DOHOL,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),312499906.0
+DOHOL,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-49828456.0
+DOHOL,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),262671450.0
+DOHOL,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,177148645.0
+DOHOL,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-41734723.0
+DOHOL,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-628012119.0
+DOHOL,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-669746842.0
+DOHOL,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,-229926747.0
+DOHOL,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-112249317.0
+DOHOL,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-20705445.0
+DOHOL,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+DOHOL,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-85038195.0
+DOHOL,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-217992956.0
+DOHOL,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-447919703.0
+DOHOL,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,79591058.0
+DOHOL,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+DOHOL,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-368328645.0
+DOHOL,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+DOHOL,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,838798597.0
+DOHOL,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,300411938.0

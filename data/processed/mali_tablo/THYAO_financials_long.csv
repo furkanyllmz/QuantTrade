@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+THYAO,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,7211990177.0
+THYAO,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,4067478112.0
+THYAO,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,624866539.0
+THYAO,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,993914158.0
+THYAO,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+THYAO,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,874813154.0
+THYAO,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2022/12,1AF,Stoklar,Inventories,330770873.0
+THYAO,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+THYAO,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,320147341.0
+THYAO,2022/12,1AI,(Ara Toplam),(Subtotal),7211990177.0
+THYAO,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+THYAO,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,23674781123.0
+THYAO,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+THYAO,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+THYAO,2022/12,1BB,Diğer Alacaklar,Other Receivables,954890028.0
+THYAO,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2022/12,1BC,Finansal Yatırımlar,Financial Investments,164371130.0
+THYAO,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,276478753.0
+THYAO,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+THYAO,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,68866111.0
+THYAO,2022/12,1BFA,Stoklar,Stoklar,0.0
+THYAO,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,16546177664.0
+THYAO,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4646860987.0
+THYAO,2022/12,1BGA,Şerefiye,Goodwill,26692291.0
+THYAO,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,76446722.0
+THYAO,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1708307.0
+THYAO,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,912289131.0
+THYAO,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,30886771300.0
+THYAO,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+THYAO,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,8223361093.0
+THYAO,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,3746743540.0
+THYAO,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1200192184.0
+THYAO,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,124973308.0
+THYAO,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+THYAO,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+THYAO,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+THYAO,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2393764681.0
+THYAO,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3096306.0
+THYAO,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,44682896.0
+THYAO,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,709908179.0
+THYAO,2022/12,2AAGG,(Ara Toplam),(Subtotal),8223361093.0
+THYAO,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+THYAO,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,12978005552.0
+THYAO,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,10292494128.0
+THYAO,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+THYAO,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,23542601.0
+THYAO,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+THYAO,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+THYAO,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+THYAO,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,107943626.0
+THYAO,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,334080717.0
+THYAO,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+THYAO,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,2219944480.0
+THYAO,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+THYAO,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,9685404655.0
+THYAO,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,9685137732.0
+THYAO,2022/12,2OA,Ödenmiş Sermaye,Share Capital,73670724.0
+THYAO,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+THYAO,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+THYAO,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+THYAO,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,563474269.0
+THYAO,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,3149690.0
+THYAO,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1030909673.0
+THYAO,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),2532137519.0
+THYAO,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,5481795857.0
+THYAO,2022/12,2ODA,Azınlık Payları,Minority Interests,266923.0
+THYAO,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,30886771300.0
+THYAO,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+THYAO,2022/12,3C,Satış Gelirleri,Net Sales,18728185335.0
+THYAO,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-14175615295.0
+THYAO,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+THYAO,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,4552570040.0
+THYAO,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+THYAO,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+THYAO,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+THYAO,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),4552570040.0
+THYAO,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1396869397.0
+THYAO,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-282936923.0
+THYAO,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+THYAO,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,231296872.0
+THYAO,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-166295409.0
+THYAO,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+THYAO,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2937765184.0
+THYAO,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2872763721.0
+THYAO,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,331567647.0
+THYAO,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-20042118.0
+THYAO,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+THYAO,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,131206656.0
+THYAO,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3380497369.0
+THYAO,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),753294729.0
+THYAO,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1040023404.0
+THYAO,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,311525529.0
+THYAO,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,3093768694.0
+THYAO,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-239000749.0
+THYAO,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-34306328.0
+THYAO,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-204694421.0
+THYAO,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+THYAO,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,2854767945.0
+THYAO,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+THYAO,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+THYAO,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,2854767945.0
+THYAO,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+THYAO,2022/12,3LB,Azınlık Payları,Minority Interests,180560.0
+THYAO,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,2854587386.0
+THYAO,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+THYAO,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+THYAO,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+THYAO,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+THYAO,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,1862953960.0
+THYAO,2022/12,4BA,Kıdem Tazminatı,Severance Payments,14023464.0
+THYAO,2022/12,4BB,Finansman Giderleri,Financial Expenses,-1040023404.0
+THYAO,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,1273667551.0
+THYAO,2022/12,4BD,Yurtdışı Satışlar,Export Sales,17092856868.0
+THYAO,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-6771587568.0
+THYAO,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-7725905340.0
+THYAO,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2276977165.0
+THYAO,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,7042547369.0
+THYAO,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,2854767945.0
+THYAO,2022/12,4CAA,Düzeltmeler:,Adjustments:,3127593529.0
+THYAO,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1862953960.0
+THYAO,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,55070684.0
+THYAO,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1209568886.0
+THYAO,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),5982361475.0
+THYAO,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,1044116089.0
+THYAO,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),7026477563.0
+THYAO,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,16069806.0
+THYAO,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-919289206.0
+THYAO,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-691302594.0
+THYAO,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1610591799.0
+THYAO,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,5431955570.0
+THYAO,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-1132650488.0
+THYAO,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+THYAO,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+THYAO,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1876977423.0
+THYAO,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-3009627912.0
+THYAO,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,2422327659.0
+THYAO,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+THYAO,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+THYAO,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,2422327659.0
+THYAO,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+THYAO,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2143363048.0
+THYAO,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,4565690706.0
+THYAO,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,5579295530.0
+THYAO,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2540253009.0
+THYAO,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,574692263.0
+THYAO,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,990827565.0
+THYAO,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+THYAO,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,723156136.0
+THYAO,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2022/3,1AF,Stoklar,Inventories,285402530.0
+THYAO,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+THYAO,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,464964026.0
+THYAO,2022/3,1AI,(Ara Toplam),(Subtotal),5579295530.0
+THYAO,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+THYAO,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,21643604869.0
+THYAO,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+THYAO,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+THYAO,2022/3,1BB,Diğer Alacaklar,Other Receivables,899103215.0
+THYAO,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2022/3,1BC,Finansal Yatırımlar,Financial Investments,125959014.0
+THYAO,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,234868892.0
+THYAO,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+THYAO,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+THYAO,2022/3,1BFA,Stoklar,Stoklar,0.0
+THYAO,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,15029767791.0
+THYAO,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4387356361.0
+THYAO,2022/3,1BGA,Şerefiye,Goodwill,12411771.0
+THYAO,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,76857503.0
+THYAO,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1295734.0
+THYAO,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,875984588.0
+THYAO,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,27222900399.0
+THYAO,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+THYAO,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,7637739967.0
+THYAO,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,4208749616.0
+THYAO,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,4978348.0
+THYAO,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,868823951.0
+THYAO,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,85654857.0
+THYAO,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+THYAO,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+THYAO,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+THYAO,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1921573976.0
+THYAO,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),8251782.0
+THYAO,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,41327105.0
+THYAO,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,498380332.0
+THYAO,2022/3,2AAGG,(Ara Toplam),(Subtotal),7637739967.0
+THYAO,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+THYAO,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,12409997613.0
+THYAO,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,10165853991.0
+THYAO,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+THYAO,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,192041463.0
+THYAO,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+THYAO,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+THYAO,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+THYAO,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,88723702.0
+THYAO,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,152760255.0
+THYAO,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+THYAO,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,1810618202.0
+THYAO,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+THYAO,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,7175162819.0
+THYAO,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7174480854.0
+THYAO,2022/3,2OA,Ödenmiş Sermaye,Share Capital,94111229.0
+THYAO,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+THYAO,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+THYAO,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+THYAO,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,5219149589.0
+THYAO,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,16230777.0
+THYAO,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1304736250.0
+THYAO,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),151396324.0
+THYAO,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,388856685.0
+THYAO,2022/3,2ODA,Azınlık Payları,Minority Interests,681965.0
+THYAO,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,27222900399.0
+THYAO,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+THYAO,2022/3,3C,Satış Gelirleri,Net Sales,3049806648.0
+THYAO,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-2535374533.0
+THYAO,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+THYAO,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,514432116.0
+THYAO,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+THYAO,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+THYAO,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+THYAO,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),514432116.0
+THYAO,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-299512855.0
+THYAO,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-68991731.0
+THYAO,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+THYAO,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,29843933.0
+THYAO,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-11594046.0
+THYAO,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+THYAO,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,164177417.0
+THYAO,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,145927530.0
+THYAO,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,45517366.0
+THYAO,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-23689069.0
+THYAO,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+THYAO,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-4723500.0
+THYAO,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,181282213.0
+THYAO,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),34925274.0
+THYAO,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-97833709.0
+THYAO,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,21828297.0
+THYAO,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,118373778.0
+THYAO,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,40507593.0
+THYAO,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-8445046.0
+THYAO,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,48952639.0
+THYAO,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+THYAO,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,158881371.0
+THYAO,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+THYAO,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+THYAO,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,158881371.0
+THYAO,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+THYAO,2022/3,3LB,Azınlık Payları,Minority Interests,0.0
+THYAO,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,158881371.0
+THYAO,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+THYAO,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+THYAO,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+THYAO,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+THYAO,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,444295294.0
+THYAO,2022/3,4BA,Kıdem Tazminatı,Severance Payments,2934296.0
+THYAO,2022/3,4BB,Finansman Giderleri,Financial Expenses,-97833709.0
+THYAO,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,186506691.0
+THYAO,2022/3,4BD,Yurtdışı Satışlar,Export Sales,2780853408.0
+THYAO,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-7659370327.0
+THYAO,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-8507668028.0
+THYAO,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-7659370327.0
+THYAO,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1421702001.0
+THYAO,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,158881371.0
+THYAO,2022/3,4CAA,Düzeltmeler:,Adjustments:,709312285.0
+THYAO,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,444295294.0
+THYAO,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,21470456.0
+THYAO,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,243546535.0
+THYAO,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),868193656.0
+THYAO,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,560808300.0
+THYAO,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1429001956.0
+THYAO,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-7299955.0
+THYAO,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-171262667.0
+THYAO,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-571901369.0
+THYAO,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-743164036.0
+THYAO,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,678537965.0
+THYAO,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-105348369.0
+THYAO,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+THYAO,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+THYAO,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-460827545.0
+THYAO,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-566175914.0
+THYAO,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,112362051.0
+THYAO,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+THYAO,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+THYAO,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,112362051.0
+THYAO,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+THYAO,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2553481283.0
+THYAO,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2665843334.0
+THYAO,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,7096468840.0
+THYAO,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3514983764.0
+THYAO,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,793462502.0
+THYAO,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1147836610.0
+THYAO,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+THYAO,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,846483818.0
+THYAO,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2022/6,1AF,Stoklar,Inventories,300514037.0
+THYAO,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+THYAO,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,493188109.0
+THYAO,2022/6,1AI,(Ara Toplam),(Subtotal),7096468840.0
+THYAO,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+THYAO,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,22214254047.0
+THYAO,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+THYAO,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+THYAO,2022/6,1BB,Diğer Alacaklar,Other Receivables,831446134.0
+THYAO,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2022/6,1BC,Finansal Yatırımlar,Financial Investments,117365829.0
+THYAO,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,219274596.0
+THYAO,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+THYAO,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+THYAO,2022/6,1BFA,Stoklar,Stoklar,0.0
+THYAO,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,15638292774.0
+THYAO,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4426471117.0
+THYAO,2022/6,1BGA,Şerefiye,Goodwill,12401596.0
+THYAO,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,72732066.0
+THYAO,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1258133.0
+THYAO,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,895011802.0
+THYAO,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,29310722887.0
+THYAO,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+THYAO,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,9027163689.0
+THYAO,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,4051487592.0
+THYAO,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,4313599.0
+THYAO,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1286171322.0
+THYAO,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,133362091.0
+THYAO,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+THYAO,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+THYAO,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+THYAO,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,3033957607.0
+THYAO,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),15756617.0
+THYAO,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,39062032.0
+THYAO,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,463052830.0
+THYAO,2022/6,2AAGG,(Ara Toplam),(Subtotal),9027163689.0
+THYAO,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+THYAO,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,12197538852.0
+THYAO,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,9704518495.0
+THYAO,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+THYAO,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,173382700.0
+THYAO,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+THYAO,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+THYAO,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+THYAO,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,97295613.0
+THYAO,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,183028386.0
+THYAO,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+THYAO,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,2039313659.0
+THYAO,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+THYAO,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,8086020346.0
+THYAO,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,8085421235.0
+THYAO,2022/6,2OA,Ödenmiş Sermaye,Share Capital,82677307.0
+THYAO,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+THYAO,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+THYAO,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+THYAO,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,5429143152.0
+THYAO,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,24803192.0
+THYAO,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1135674659.0
+THYAO,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),681488671.0
+THYAO,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,731634255.0
+THYAO,2022/6,2ODA,Azınlık Payları,Minority Interests,599111.0
+THYAO,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,29310722887.0
+THYAO,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+THYAO,2022/6,3C,Satış Gelirleri,Net Sales,7697062618.0
+THYAO,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-6202495830.0
+THYAO,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+THYAO,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1494566787.0
+THYAO,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+THYAO,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+THYAO,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+THYAO,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1494566787.0
+THYAO,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-652063455.0
+THYAO,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-134013247.0
+THYAO,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+THYAO,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,71876779.0
+THYAO,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-42857369.0
+THYAO,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+THYAO,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,737509495.0
+THYAO,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,708490085.0
+THYAO,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,108285391.0
+THYAO,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-22234779.0
+THYAO,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+THYAO,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,12024246.0
+THYAO,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,835584353.0
+THYAO,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),143283337.0
+THYAO,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-192723813.0
+THYAO,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,86050611.0
+THYAO,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,786143877.0
+THYAO,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-22033256.0
+THYAO,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-24115667.0
+THYAO,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,2082411.0
+THYAO,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+THYAO,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,764110621.0
+THYAO,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+THYAO,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+THYAO,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,764110621.0
+THYAO,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+THYAO,2022/6,3LB,Azınlık Payları,Minority Interests,0.0
+THYAO,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,764110621.0
+THYAO,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+THYAO,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+THYAO,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+THYAO,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+THYAO,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,896713203.0
+THYAO,2022/6,4BA,Kıdem Tazminatı,Severance Payments,32646836.0
+THYAO,2022/6,4BB,Finansman Giderleri,Financial Expenses,-192723813.0
+THYAO,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,499174156.0
+THYAO,2022/6,4BD,Yurtdışı Satışlar,Export Sales,7016449975.0
+THYAO,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-6324820704.0
+THYAO,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-7353934965.0
+THYAO,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-6324820704.0
+THYAO,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,4118942500.0
+THYAO,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,764110621.0
+THYAO,2022/6,4CAA,Düzeltmeler:,Adjustments:,1457755128.0
+THYAO,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,896713203.0
+THYAO,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,51925935.0
+THYAO,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,509115991.0
+THYAO,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2221865749.0
+THYAO,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,1894524118.0
+THYAO,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),4116389867.0
+THYAO,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,2552633.0
+THYAO,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-402711488.0
+THYAO,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-843242253.0
+THYAO,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1245953740.0
+THYAO,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,2872988760.0
+THYAO,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-369661604.0
+THYAO,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+THYAO,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+THYAO,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-958916845.0
+THYAO,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1328578449.0
+THYAO,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1544410311.0
+THYAO,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+THYAO,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+THYAO,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1544410311.0
+THYAO,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+THYAO,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2396721129.0
+THYAO,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3941131440.0
+THYAO,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,7350758135.0
+THYAO,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3598352747.0
+THYAO,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,885829637.0
+THYAO,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1149519461.0
+THYAO,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+THYAO,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,916338312.0
+THYAO,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2022/9,1AF,Stoklar,Inventories,300990184.0
+THYAO,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+THYAO,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,499727794.0
+THYAO,2022/9,1AI,(Ara Toplam),(Subtotal),7350758135.0
+THYAO,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+THYAO,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,23061809714.0
+THYAO,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+THYAO,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+THYAO,2022/9,1BB,Diğer Alacaklar,Other Receivables,825998135.0
+THYAO,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2022/9,1BC,Finansal Yatırımlar,Financial Investments,131737108.0
+THYAO,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,278405140.0
+THYAO,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+THYAO,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+THYAO,2022/9,1BFA,Stoklar,Stoklar,0.0
+THYAO,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,16254925318.0
+THYAO,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4553338975.0
+THYAO,2022/9,1BGA,Şerefiye,Goodwill,12397518.0
+THYAO,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,71528291.0
+THYAO,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,646827.0
+THYAO,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,932832402.0
+THYAO,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,30412567849.0
+THYAO,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+THYAO,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,8261921831.0
+THYAO,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,3736935441.0
+THYAO,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,3827060.0
+THYAO,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1235277947.0
+THYAO,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,349933431.0
+THYAO,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+THYAO,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+THYAO,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+THYAO,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2330949057.0
+THYAO,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),11373376.0
+THYAO,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,48134713.0
+THYAO,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,545490807.0
+THYAO,2022/9,2AAGG,(Ara Toplam),(Subtotal),8261921831.0
+THYAO,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+THYAO,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,12365284793.0
+THYAO,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,9580047542.0
+THYAO,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+THYAO,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,149578754.0
+THYAO,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+THYAO,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+THYAO,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+THYAO,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,92604072.0
+THYAO,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,177985242.0
+THYAO,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+THYAO,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,2365069184.0
+THYAO,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+THYAO,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,9785361226.0
+THYAO,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,9784822203.0
+THYAO,2022/9,2OA,Ödenmiş Sermaye,Share Capital,74385110.0
+THYAO,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+THYAO,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+THYAO,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+THYAO,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+THYAO,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,22315533.0
+THYAO,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1021771120.0
+THYAO,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),2074859450.0
+THYAO,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,6591490990.0
+THYAO,2022/9,2ODA,Azınlık Payları,Minority Interests,539023.0
+THYAO,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,30412567849.0
+THYAO,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+THYAO,2022/9,3C,Satış Gelirleri,Net Sales,14021127411.0
+THYAO,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-10520747172.0
+THYAO,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+THYAO,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,3500380240.0
+THYAO,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+THYAO,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+THYAO,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+THYAO,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),3500380240.0
+THYAO,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1001185918.0
+THYAO,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-221892259.0
+THYAO,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+THYAO,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,89108814.0
+THYAO,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-96586917.0
+THYAO,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+THYAO,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2269823961.0
+THYAO,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2277302063.0
+THYAO,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,197572717.0
+THYAO,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-20800436.0
+THYAO,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+THYAO,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,117198829.0
+THYAO,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,2563795070.0
+THYAO,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),415380298.0
+THYAO,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-300003865.0
+THYAO,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,176772281.0
+THYAO,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,2679171504.0
+THYAO,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-260225388.0
+THYAO,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-32677421.0
+THYAO,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-227547967.0
+THYAO,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+THYAO,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,2418946116.0
+THYAO,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+THYAO,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+THYAO,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,2418946116.0
+THYAO,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+THYAO,2022/9,3LB,Azınlık Payları,Minority Interests,0.0
+THYAO,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,2418946116.0
+THYAO,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+THYAO,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+THYAO,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+THYAO,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+THYAO,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,1371069191.0
+THYAO,2022/9,4BA,Kıdem Tazminatı,Severance Payments,33305833.0
+THYAO,2022/9,4BB,Finansman Giderleri,Financial Expenses,-300003865.0
+THYAO,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,960213458.0
+THYAO,2022/9,4BD,Yurtdışı Satışlar,Export Sales,12769079444.0
+THYAO,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-6029989700.0
+THYAO,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-7275879231.0
+THYAO,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-6029989700.0
+THYAO,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,5545546928.0
+THYAO,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,2418946116.0
+THYAO,2022/9,4CAA,Düzeltmeler:,Adjustments:,1839864505.0
+THYAO,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1371069191.0
+THYAO,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,65669049.0
+THYAO,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,403126265.0
+THYAO,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),4258810621.0
+THYAO,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,1269454979.0
+THYAO,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),5528265600.0
+THYAO,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,17281329.0
+THYAO,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-563371312.0
+THYAO,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-932060603.0
+THYAO,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1495431916.0
+THYAO,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,4050115013.0
+THYAO,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-727826720.0
+THYAO,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+THYAO,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+THYAO,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1369309637.0
+THYAO,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-2097136357.0
+THYAO,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1952978656.0
+THYAO,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+THYAO,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+THYAO,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1952978656.0
+THYAO,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+THYAO,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2242110994.0
+THYAO,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,4195089650.0
+THYAO,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,8541332529.0
+THYAO,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,682065558.0
+THYAO,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,5334149393.0
+THYAO,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,854218024.0
+THYAO,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+THYAO,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,888261962.0
+THYAO,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2023/12,1AF,Stoklar,Inventories,417445145.0
+THYAO,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+THYAO,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,365192447.0
+THYAO,2023/12,1AI,(Ara Toplam),(Subtotal),8541332529.0
+THYAO,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+THYAO,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,27026546812.0
+THYAO,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+THYAO,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+THYAO,2023/12,1BB,Diğer Alacaklar,Other Receivables,1392817543.0
+THYAO,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2023/12,1BC,Finansal Yatırımlar,Financial Investments,397540970.0
+THYAO,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,495942871.0
+THYAO,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+THYAO,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,43097456.0
+THYAO,2023/12,1BFA,Stoklar,Stoklar,0.0
+THYAO,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,16896847545.0
+THYAO,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,6064466470.0
+THYAO,2023/12,1BGA,Şerefiye,Goodwill,26685836.0
+THYAO,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,86703536.0
+THYAO,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,331046783.0
+THYAO,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1291397802.0
+THYAO,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,35567879341.0
+THYAO,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+THYAO,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,9047007083.0
+THYAO,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,3723470990.0
+THYAO,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1290550094.0
+THYAO,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,242139207.0
+THYAO,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+THYAO,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+THYAO,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+THYAO,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2705068953.0
+THYAO,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+THYAO,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,55609620.0
+THYAO,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1030168219.0
+THYAO,2023/12,2AAGG,(Ara Toplam),(Subtotal),9047007083.0
+THYAO,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+THYAO,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,11020979068.0
+THYAO,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,10523849406.0
+THYAO,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+THYAO,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,25397321.0
+THYAO,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+THYAO,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+THYAO,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+THYAO,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,107997952.0
+THYAO,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,313651823.0
+THYAO,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+THYAO,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,50082567.0
+THYAO,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+THYAO,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,15499893189.0
+THYAO,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,15504809893.0
+THYAO,2023/12,2OA,Ödenmiş Sermaye,Share Capital,46793461.0
+THYAO,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+THYAO,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+THYAO,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+THYAO,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,990631135.0
+THYAO,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,24210530.0
+THYAO,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2240932071.0
+THYAO,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),5526985925.0
+THYAO,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,6675256771.0
+THYAO,2023/12,2ODA,Azınlık Payları,Minority Interests,-4916704.0
+THYAO,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,35567879341.0
+THYAO,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+THYAO,2023/12,3C,Satış Gelirleri,Net Sales,21167813977.0
+THYAO,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-16155084529.0
+THYAO,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+THYAO,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,5012729448.0
+THYAO,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+THYAO,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+THYAO,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+THYAO,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),5012729448.0
+THYAO,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1758437927.0
+THYAO,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-445768064.0
+THYAO,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+THYAO,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,523364106.0
+THYAO,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-334430964.0
+THYAO,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+THYAO,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2997456598.0
+THYAO,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2808523457.0
+THYAO,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1015211377.0
+THYAO,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-70042073.0
+THYAO,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+THYAO,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,281846952.0
+THYAO,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,4224472854.0
+THYAO,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),503723788.0
+THYAO,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-897411437.0
+THYAO,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,945169304.0
+THYAO,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,3830785204.0
+THYAO,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,3009668847.0
+THYAO,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-73021694.0
+THYAO,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,3082690541.0
+THYAO,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+THYAO,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,6840454052.0
+THYAO,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+THYAO,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+THYAO,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,6840454052.0
+THYAO,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+THYAO,2023/12,3LB,Azınlık Payları,Minority Interests,-209832.0
+THYAO,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,6840663884.0
+THYAO,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+THYAO,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+THYAO,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+THYAO,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+THYAO,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,2034283670.0
+THYAO,2023/12,4BA,Kıdem Tazminatı,Severance Payments,26354956.0
+THYAO,2023/12,4BB,Finansman Giderleri,Financial Expenses,-897411437.0
+THYAO,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,1514067052.0
+THYAO,2023/12,4BD,Yurtdışı Satışlar,Export Sales,19023787934.0
+THYAO,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-7429957346.0
+THYAO,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-8917165844.0
+THYAO,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-12588184618.0
+THYAO,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,6086484080.0
+THYAO,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,6840454052.0
+THYAO,2023/12,4CAA,Düzeltmeler:,Adjustments:,-891158430.0
+THYAO,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2034283670.0
+THYAO,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,60305847.0
+THYAO,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-2985747948.0
+THYAO,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),5949295621.0
+THYAO,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,126780768.0
+THYAO,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),6076076390.0
+THYAO,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,10407690.0
+THYAO,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1030235380.0
+THYAO,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-4441649443.0
+THYAO,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-5471884823.0
+THYAO,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,614599256.0
+THYAO,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-1025493167.0
+THYAO,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+THYAO,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+THYAO,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1935788317.0
+THYAO,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-2961281483.0
+THYAO,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-2346682227.0
+THYAO,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+THYAO,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+THYAO,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-2346682227.0
+THYAO,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+THYAO,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3183536018.0
+THYAO,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,836853791.0
+THYAO,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,7896319536.0
+THYAO,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2614994945.0
+THYAO,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2655385193.0
+THYAO,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,903542876.0
+THYAO,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+THYAO,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,948936303.0
+THYAO,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2023/3,1AF,Stoklar,Inventories,339434432.0
+THYAO,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+THYAO,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,434025787.0
+THYAO,2023/3,1AI,(Ara Toplam),(Subtotal),7896319536.0
+THYAO,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+THYAO,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,24116521957.0
+THYAO,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+THYAO,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+THYAO,2023/3,1BB,Diğer Alacaklar,Other Receivables,973274685.0
+THYAO,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2023/3,1BC,Finansal Yatırımlar,Financial Investments,279917448.0
+THYAO,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,236504446.0
+THYAO,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+THYAO,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,68897946.0
+THYAO,2023/3,1BFA,Stoklar,Stoklar,0.0
+THYAO,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,16251732872.0
+THYAO,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5193873190.0
+THYAO,2023/3,1BGA,Şerefiye,Goodwill,26683622.0
+THYAO,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,71034720.0
+THYAO,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,2605822.0
+THYAO,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1011997207.0
+THYAO,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,32012841493.0
+THYAO,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+THYAO,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,9034177967.0
+THYAO,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,4064144925.0
+THYAO,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,2970638.0
+THYAO,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1226352161.0
+THYAO,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,154525271.0
+THYAO,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+THYAO,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+THYAO,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+THYAO,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2910495210.0
+THYAO,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),6566673.0
+THYAO,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,60142382.0
+THYAO,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,608980706.0
+THYAO,2023/3,2AAGG,(Ara Toplam),(Subtotal),9034177967.0
+THYAO,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+THYAO,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,13008422018.0
+THYAO,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,10254328271.0
+THYAO,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+THYAO,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,25120128.0
+THYAO,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+THYAO,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+THYAO,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+THYAO,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,104754062.0
+THYAO,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,338496336.0
+THYAO,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+THYAO,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,2285723220.0
+THYAO,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+THYAO,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,9970241508.0
+THYAO,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,9967479336.0
+THYAO,2023/3,2OA,Ödenmiş Sermaye,Share Capital,71920700.0
+THYAO,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+THYAO,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+THYAO,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+THYAO,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+THYAO,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,18397106.0
+THYAO,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3463085919.0
+THYAO,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),230094122.0
+THYAO,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,6183981488.0
+THYAO,2023/3,2ODA,Azınlık Payları,Minority Interests,2762172.0
+THYAO,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,32012841493.0
+THYAO,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+THYAO,2023/3,3C,Satış Gelirleri,Net Sales,4343088969.0
+THYAO,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-3696418227.0
+THYAO,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+THYAO,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,646670741.0
+THYAO,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+THYAO,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+THYAO,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+THYAO,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),646670741.0
+THYAO,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-415164945.0
+THYAO,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-97598694.0
+THYAO,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+THYAO,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,129037753.0
+THYAO,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-149097355.0
+THYAO,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+THYAO,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,113847501.0
+THYAO,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,133907102.0
+THYAO,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,151108607.0
+THYAO,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-11697024.0
+THYAO,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+THYAO,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-12279228.0
+THYAO,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,240979856.0
+THYAO,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),356256405.0
+THYAO,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-321059479.0
+THYAO,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,139411584.0
+THYAO,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,276176782.0
+THYAO,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-42500950.0
+THYAO,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-4128361.0
+THYAO,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-38372589.0
+THYAO,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+THYAO,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,233675833.0
+THYAO,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+THYAO,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+THYAO,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,233675833.0
+THYAO,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+THYAO,2023/3,3LB,Azınlık Payları,Minority Interests,-158783.0
+THYAO,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,233834616.0
+THYAO,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+THYAO,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+THYAO,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+THYAO,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+THYAO,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,496356049.0
+THYAO,2023/3,4BA,Kıdem Tazminatı,Severance Payments,7515735.0
+THYAO,2023/3,4BB,Finansman Giderleri,Financial Expenses,-321059479.0
+THYAO,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,260721892.0
+THYAO,2023/3,4BD,Yurtdışı Satışlar,Export Sales,3965555624.0
+THYAO,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-5966646424.0
+THYAO,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-6877320575.0
+THYAO,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-5966646424.0
+THYAO,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1571370735.0
+THYAO,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,233675833.0
+THYAO,2023/3,4CAA,Düzeltmeler:,Adjustments:,932162800.0
+THYAO,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,496356049.0
+THYAO,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,28051685.0
+THYAO,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,407755066.0
+THYAO,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1165838633.0
+THYAO,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,396587319.0
+THYAO,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1562425952.0
+THYAO,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,8944783.0
+THYAO,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-429190787.0
+THYAO,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2105199602.0
+THYAO,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-2534390389.0
+THYAO,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,-963019654.0
+THYAO,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,42077528.0
+THYAO,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+THYAO,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+THYAO,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-456025136.0
+THYAO,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-413947607.0
+THYAO,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-1376967262.0
+THYAO,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+THYAO,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+THYAO,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-1376967262.0
+THYAO,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+THYAO,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4032667959.0
+THYAO,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2655700697.0
+THYAO,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,8526107864.0
+THYAO,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2617125893.0
+THYAO,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3213153663.0
+THYAO,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,900361815.0
+THYAO,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+THYAO,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,974696168.0
+THYAO,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2023/6,1AF,Stoklar,Inventories,356944058.0
+THYAO,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+THYAO,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,463826267.0
+THYAO,2023/6,1AI,(Ara Toplam),(Subtotal),8526107864.0
+THYAO,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+THYAO,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,24473706590.0
+THYAO,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+THYAO,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+THYAO,2023/6,1BB,Diğer Alacaklar,Other Receivables,942766800.0
+THYAO,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2023/6,1BC,Finansal Yatırımlar,Financial Investments,303908835.0
+THYAO,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,234599685.0
+THYAO,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+THYAO,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,68883941.0
+THYAO,2023/6,1BFA,Stoklar,Stoklar,0.0
+THYAO,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,16226304234.0
+THYAO,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5499543866.0
+THYAO,2023/6,1BGA,Şerefiye,Goodwill,26672233.0
+THYAO,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,77929307.0
+THYAO,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,3710919.0
+THYAO,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1089386771.0
+THYAO,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,32999814454.0
+THYAO,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+THYAO,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,9629835792.0
+THYAO,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,3909028358.0
+THYAO,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1302030182.0
+THYAO,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,186009834.0
+THYAO,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+THYAO,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+THYAO,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+THYAO,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,3548373380.0
+THYAO,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2087392.0
+THYAO,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,47584810.0
+THYAO,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,634721836.0
+THYAO,2023/6,2AAGG,(Ara Toplam),(Subtotal),9629835792.0
+THYAO,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+THYAO,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,12976118688.0
+THYAO,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,10059567987.0
+THYAO,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+THYAO,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,26517611.0
+THYAO,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+THYAO,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+THYAO,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+THYAO,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,107268763.0
+THYAO,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,316549154.0
+THYAO,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+THYAO,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,2466215171.0
+THYAO,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+THYAO,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,10393859975.0
+THYAO,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,10389182670.0
+THYAO,2023/6,2OA,Ödenmiş Sermaye,Share Capital,53344466.0
+THYAO,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+THYAO,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+THYAO,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+THYAO,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,696609147.0
+THYAO,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,24894084.0
+THYAO,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2557364629.0
+THYAO,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),702484770.0
+THYAO,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,6354485574.0
+THYAO,2023/6,2ODA,Azınlık Payları,Minority Interests,4677305.0
+THYAO,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,32999814454.0
+THYAO,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+THYAO,2023/6,3C,Satış Gelirleri,Net Sales,9579912061.0
+THYAO,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-7586660075.0
+THYAO,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+THYAO,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1993251986.0
+THYAO,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+THYAO,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+THYAO,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+THYAO,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1993251986.0
+THYAO,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-869358460.0
+THYAO,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-223425225.0
+THYAO,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+THYAO,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,328521946.0
+THYAO,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-254787582.0
+THYAO,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+THYAO,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,974202666.0
+THYAO,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,900468301.0
+THYAO,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,369328362.0
+THYAO,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-14393352.0
+THYAO,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+THYAO,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,31564368.0
+THYAO,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1360702044.0
+THYAO,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),414730549.0
+THYAO,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-548310956.0
+THYAO,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,354935010.0
+THYAO,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1227121637.0
+THYAO,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-309330810.0
+THYAO,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-3888730.0
+THYAO,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-305442080.0
+THYAO,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+THYAO,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,917790827.0
+THYAO,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+THYAO,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+THYAO,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,917790827.0
+THYAO,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+THYAO,2023/6,3LB,Azınlık Payları,Minority Interests,50503.0
+THYAO,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,917740324.0
+THYAO,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+THYAO,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+THYAO,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+THYAO,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+THYAO,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,994959394.0
+THYAO,2023/6,4BA,Kıdem Tazminatı,Severance Payments,34544045.0
+THYAO,2023/6,4BB,Finansman Giderleri,Financial Expenses,-548310956.0
+THYAO,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,656387353.0
+THYAO,2023/6,4BD,Yurtdışı Satışlar,Export Sales,8676716599.0
+THYAO,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-7786752919.0
+THYAO,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-8975340775.0
+THYAO,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-7786752919.0
+THYAO,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,3832217339.0
+THYAO,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,917790827.0
+THYAO,2023/6,4CAA,Düzeltmeler:,Adjustments:,1877246619.0
+THYAO,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,994959394.0
+THYAO,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,56967372.0
+THYAO,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,825319853.0
+THYAO,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2795037446.0
+THYAO,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,1023039056.0
+THYAO,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),3818076502.0
+THYAO,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,14140837.0
+THYAO,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-489525476.0
+THYAO,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2538987290.0
+THYAO,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-3028512766.0
+THYAO,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,803704573.0
+THYAO,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-276705879.0
+THYAO,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+THYAO,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+THYAO,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-949961231.0
+THYAO,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1226667110.0
+THYAO,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-422962536.0
+THYAO,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+THYAO,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+THYAO,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-422962536.0
+THYAO,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+THYAO,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3831358789.0
+THYAO,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3408396252.0
+THYAO,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,9269780500.0
+THYAO,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,908189309.0
+THYAO,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,5576423831.0
+THYAO,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,865857216.0
+THYAO,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+THYAO,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,916648436.0
+THYAO,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2023/9,1AF,Stoklar,Inventories,358491942.0
+THYAO,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+THYAO,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,644169766.0
+THYAO,2023/9,1AI,(Ara Toplam),(Subtotal),9269780500.0
+THYAO,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+THYAO,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,25381280537.0
+THYAO,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+THYAO,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+THYAO,2023/9,1BB,Diğer Alacaklar,Other Receivables,1069714869.0
+THYAO,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2023/9,1BC,Finansal Yatırımlar,Financial Investments,367133377.0
+THYAO,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,348683731.0
+THYAO,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+THYAO,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,68876249.0
+THYAO,2023/9,1BFA,Stoklar,Stoklar,0.0
+THYAO,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,16380842996.0
+THYAO,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5799350981.0
+THYAO,2023/9,1BGA,Şerefiye,Goodwill,26690002.0
+THYAO,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,82768176.0
+THYAO,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,7110042.0
+THYAO,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1230110114.0
+THYAO,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,34651061037.0
+THYAO,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+THYAO,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,8878618829.0
+THYAO,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,3811966747.0
+THYAO,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1323488660.0
+THYAO,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,169984686.0
+THYAO,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+THYAO,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+THYAO,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+THYAO,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2801757456.0
+THYAO,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),16261941.0
+THYAO,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,60453584.0
+THYAO,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,694705754.0
+THYAO,2023/9,2AAGG,(Ara Toplam),(Subtotal),8878618829.0
+THYAO,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+THYAO,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,13251476701.0
+THYAO,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,9831109166.0
+THYAO,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+THYAO,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,125683658.0
+THYAO,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+THYAO,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+THYAO,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+THYAO,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,103624298.0
+THYAO,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,307007949.0
+THYAO,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+THYAO,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,2884051630.0
+THYAO,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+THYAO,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,12520965507.0
+THYAO,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,12516444250.0
+THYAO,2023/9,2OA,Ödenmiş Sermaye,Share Capital,50317217.0
+THYAO,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+THYAO,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+THYAO,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+THYAO,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,693283745.0
+THYAO,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,25304456.0
+THYAO,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2410413476.0
+THYAO,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),2534164661.0
+THYAO,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,6802960694.0
+THYAO,2023/9,2ODA,Azınlık Payları,Minority Interests,4521257.0
+THYAO,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,34651061037.0
+THYAO,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+THYAO,2023/9,3C,Satış Gelirleri,Net Sales,16162068018.0
+THYAO,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-11810826910.0
+THYAO,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+THYAO,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,4351241108.0
+THYAO,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+THYAO,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+THYAO,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+THYAO,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),4351241108.0
+THYAO,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1318350422.0
+THYAO,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-324024280.0
+THYAO,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+THYAO,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,525340074.0
+THYAO,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-275598574.0
+THYAO,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+THYAO,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2958607906.0
+THYAO,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2708866406.0
+THYAO,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,808957045.0
+THYAO,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-65768865.0
+THYAO,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+THYAO,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,172080182.0
+THYAO,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3873876268.0
+THYAO,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),492545736.0
+THYAO,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-496960358.0
+THYAO,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,743188179.0
+THYAO,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,3869461645.0
+THYAO,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-738593368.0
+THYAO,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-29911320.0
+THYAO,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-708682049.0
+THYAO,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+THYAO,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,3130868277.0
+THYAO,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+THYAO,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+THYAO,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,3130868277.0
+THYAO,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+THYAO,2023/9,3LB,Azınlık Payları,Minority Interests,-45047.0
+THYAO,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,3130913324.0
+THYAO,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+THYAO,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+THYAO,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+THYAO,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+THYAO,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,1495160556.0
+THYAO,2023/9,4BA,Kıdem Tazminatı,Severance Payments,37479244.0
+THYAO,2023/9,4BB,Finansman Giderleri,Financial Expenses,-496960358.0
+THYAO,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,1182803493.0
+THYAO,2023/9,4BD,Yurtdışı Satışlar,Export Sales,14546721617.0
+THYAO,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-5820679732.0
+THYAO,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-6983482282.0
+THYAO,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-11090747927.0
+THYAO,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,5106231646.0
+THYAO,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,3130868277.0
+THYAO,2023/9,4CAA,Düzeltmeler:,Adjustments:,1652420220.0
+THYAO,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1495160556.0
+THYAO,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,72255658.0
+THYAO,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,85004006.0
+THYAO,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),4783288497.0
+THYAO,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,303617913.0
+THYAO,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),5086906410.0
+THYAO,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,19325235.0
+THYAO,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-688005398.0
+THYAO,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-4692293218.0
+THYAO,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-5380298616.0
+THYAO,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,-274066971.0
+THYAO,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-521961537.0
+THYAO,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+THYAO,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+THYAO,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1503404188.0
+THYAO,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-2025365725.0
+THYAO,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-2299432696.0
+THYAO,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+THYAO,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+THYAO,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-2299432696.0
+THYAO,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+THYAO,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3417233125.0
+THYAO,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1117800429.0
+THYAO,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,12133848192.0
+THYAO,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3406605117.0
+THYAO,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,4188699079.0
+THYAO,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1132364740.0
+THYAO,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+THYAO,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,1712848946.0
+THYAO,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2024/12,1AF,Stoklar,Inventories,839691679.0
+THYAO,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+THYAO,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,853638631.0
+THYAO,2024/12,1AI,(Ara Toplam),(Subtotal),12133848192.0
+THYAO,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+THYAO,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,37535967645.0
+THYAO,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+THYAO,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+THYAO,2024/12,1BB,Diğer Alacaklar,Other Receivables,1582819348.0
+THYAO,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2024/12,1BC,Finansal Yatırımlar,Financial Investments,1393027238.0
+THYAO,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,805835720.0
+THYAO,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+THYAO,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,54048875.0
+THYAO,2024/12,1BFA,Stoklar,Stoklar,0.0
+THYAO,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,22066526679.0
+THYAO,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,8833388961.0
+THYAO,2024/12,1BGA,Şerefiye,Goodwill,33465587.0
+THYAO,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,139930869.0
+THYAO,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,503864691.0
+THYAO,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,2123059677.0
+THYAO,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,49669815837.0
+THYAO,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+THYAO,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,12049492200.0
+THYAO,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,4628045810.0
+THYAO,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1873505056.0
+THYAO,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,396263780.0
+THYAO,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+THYAO,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+THYAO,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+THYAO,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,3692712819.0
+THYAO,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+THYAO,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,143692642.0
+THYAO,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1315272094.0
+THYAO,2024/12,2AAGG,(Ara Toplam),(Subtotal),12049492200.0
+THYAO,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+THYAO,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,13487767184.0
+THYAO,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,12759118794.0
+THYAO,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+THYAO,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,39569596.0
+THYAO,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+THYAO,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+THYAO,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+THYAO,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,164275930.0
+THYAO,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,443711807.0
+THYAO,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+THYAO,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,81091056.0
+THYAO,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+THYAO,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,24132556453.0
+THYAO,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,24128120400.0
+THYAO,2024/12,2OA,Ödenmiş Sermaye,Share Capital,39045038.0
+THYAO,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+THYAO,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+THYAO,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+THYAO,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,1452399377.0
+THYAO,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,32365446.0
+THYAO,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),8122875157.0
+THYAO,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),4022861658.0
+THYAO,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,10448644732.0
+THYAO,2024/12,2ODA,Azınlık Payları,Minority Interests,4436053.0
+THYAO,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,49669815837.0
+THYAO,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+THYAO,2024/12,3C,Satış Gelirleri,Net Sales,28442295037.0
+THYAO,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-22989561045.0
+THYAO,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+THYAO,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,5452733991.0
+THYAO,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+THYAO,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+THYAO,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+THYAO,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),5452733991.0
+THYAO,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2300131296.0
+THYAO,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-712554981.0
+THYAO,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+THYAO,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,774023580.0
+THYAO,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-146631796.0
+THYAO,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+THYAO,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,3067439498.0
+THYAO,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2440047714.0
+THYAO,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2112863834.0
+THYAO,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-96724331.0
+THYAO,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+THYAO,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,225842727.0
+THYAO,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,5309421728.0
+THYAO,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1241047568.0
+THYAO,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1917583706.0
+THYAO,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2016139503.0
+THYAO,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,4632885590.0
+THYAO,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-307686392.0
+THYAO,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-509185876.0
+THYAO,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,201499484.0
+THYAO,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+THYAO,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,4325199198.0
+THYAO,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+THYAO,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,4325199198.0
+THYAO,2024/12,3LB,Azınlık Payları,Minority Interests,-801267.0
+THYAO,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,4326000465.0
+THYAO,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+THYAO,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+THYAO,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+THYAO,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+THYAO,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,2758875528.0
+THYAO,2024/12,4BA,Kıdem Tazminatı,Severance Payments,50174554.0
+THYAO,2024/12,4BB,Finansman Giderleri,Financial Expenses,-1917583706.0
+THYAO,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,2224583298.0
+THYAO,2024/12,4BD,Yurtdışı Satışlar,Export Sales,25299422007.0
+THYAO,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-6635289094.0
+THYAO,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-8440695469.0
+THYAO,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-8941983145.0
+THYAO,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,5173130087.0
+THYAO,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,4325199198.0
+THYAO,2024/12,4CAA,Düzeltmeler:,Adjustments:,899555354.0
+THYAO,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2758875528.0
+THYAO,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,140793996.0
+THYAO,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-2000114170.0
+THYAO,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),5224754553.0
+THYAO,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,19459333.0
+THYAO,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),5244213886.0
+THYAO,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-71083798.0
+THYAO,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1659728468.0
+THYAO,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,2041398480.0
+THYAO,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,381670012.0
+THYAO,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,5554800100.0
+THYAO,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-442299188.0
+THYAO,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+THYAO,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+THYAO,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-2433103403.0
+THYAO,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-2875402592.0
+THYAO,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,2679397508.0
+THYAO,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+THYAO,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+THYAO,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,2679397508.0
+THYAO,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+THYAO,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,760859914.0
+THYAO,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3440257421.0
+THYAO,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,8520943865.0
+THYAO,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,839795199.0
+THYAO,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,4816501564.0
+THYAO,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,988479947.0
+THYAO,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+THYAO,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,834229956.0
+THYAO,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2024/3,1AF,Stoklar,Inventories,453103551.0
+THYAO,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+THYAO,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,588833649.0
+THYAO,2024/3,1AI,(Ara Toplam),(Subtotal),8520943865.0
+THYAO,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+THYAO,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,27528722839.0
+THYAO,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+THYAO,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+THYAO,2024/3,1BB,Diğer Alacaklar,Other Receivables,1318529786.0
+THYAO,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2024/3,1BC,Finansal Yatırımlar,Financial Investments,539983181.0
+THYAO,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,512218801.0
+THYAO,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+THYAO,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,43099717.0
+THYAO,2024/3,1BFA,Stoklar,Stoklar,0.0
+THYAO,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,17024666395.0
+THYAO,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,6218417245.0
+THYAO,2024/3,1BGA,Şerefiye,Goodwill,26682249.0
+THYAO,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,90589792.0
+THYAO,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,345230587.0
+THYAO,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1409305087.0
+THYAO,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,36049666704.0
+THYAO,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+THYAO,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,9478660384.0
+THYAO,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,3275578476.0
+THYAO,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1357579243.0
+THYAO,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,193144857.0
+THYAO,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+THYAO,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+THYAO,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+THYAO,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,3631012009.0
+THYAO,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),36174081.0
+THYAO,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,92815889.0
+THYAO,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,892355829.0
+THYAO,2024/3,2AAGG,(Ara Toplam),(Subtotal),9478660384.0
+THYAO,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+THYAO,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,10632118874.0
+THYAO,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,10063165510.0
+THYAO,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+THYAO,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,36668769.0
+THYAO,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+THYAO,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+THYAO,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+THYAO,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,168595951.0
+THYAO,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,295297988.0
+THYAO,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+THYAO,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,68390655.0
+THYAO,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+THYAO,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,15938887446.0
+THYAO,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,15935270038.0
+THYAO,2024/3,2OA,Ödenmiş Sermaye,Share Capital,42666865.0
+THYAO,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+THYAO,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+THYAO,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+THYAO,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,1169443105.0
+THYAO,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,22075465.0
+THYAO,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),7082885022.0
+THYAO,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),213890847.0
+THYAO,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,7404308735.0
+THYAO,2024/3,2ODA,Azınlık Payları,Minority Interests,3617408.0
+THYAO,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,36049666704.0
+THYAO,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+THYAO,2024/3,3C,Satış Gelirleri,Net Sales,4755684551.0
+THYAO,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-4234373825.0
+THYAO,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+THYAO,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,521310726.0
+THYAO,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+THYAO,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+THYAO,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+THYAO,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),521310726.0
+THYAO,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-443017219.0
+THYAO,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-107621273.0
+THYAO,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+THYAO,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,111077298.0
+THYAO,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-42893472.0
+THYAO,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+THYAO,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,38856060.0
+THYAO,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-29327766.0
+THYAO,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,309491907.0
+THYAO,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1614965.0
+THYAO,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+THYAO,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,2390148.0
+THYAO,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,349123150.0
+THYAO,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),198543806.0
+THYAO,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-383102015.0
+THYAO,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,307876942.0
+THYAO,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,164564941.0
+THYAO,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,58881627.0
+THYAO,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+THYAO,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,58881627.0
+THYAO,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+THYAO,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,223446568.0
+THYAO,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+THYAO,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+THYAO,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,223446568.0
+THYAO,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+THYAO,2024/3,3LB,Azınlık Payları,Minority Interests,-419891.0
+THYAO,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,223866459.0
+THYAO,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+THYAO,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+THYAO,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+THYAO,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+THYAO,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,529966939.0
+THYAO,2024/3,4BA,Kıdem Tazminatı,Severance Payments,8171723.0
+THYAO,2024/3,4BB,Finansman Giderleri,Financial Expenses,-383102015.0
+THYAO,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,300318905.0
+THYAO,2024/3,4BD,Yurtdışı Satışlar,Export Sales,4260891552.0
+THYAO,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-5098896928.0
+THYAO,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-6623908448.0
+THYAO,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-8941674022.0
+THYAO,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1136741616.0
+THYAO,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,223446568.0
+THYAO,2024/3,4CAA,Düzeltmeler:,Adjustments:,-4392705.0
+THYAO,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,529966939.0
+THYAO,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,50290012.0
+THYAO,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-584649656.0
+THYAO,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),219053863.0
+THYAO,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,922015860.0
+THYAO,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1141069723.0
+THYAO,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-4328106.0
+THYAO,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-235752601.0
+THYAO,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,431098777.0
+THYAO,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,195346175.0
+THYAO,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,1332087792.0
+THYAO,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-624603892.0
+THYAO,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+THYAO,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+THYAO,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-513558893.0
+THYAO,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1138162785.0
+THYAO,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,193925006.0
+THYAO,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+THYAO,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+THYAO,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,193925006.0
+THYAO,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+THYAO,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,643725078.0
+THYAO,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,837650085.0
+THYAO,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,9488434042.0
+THYAO,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1009083086.0
+THYAO,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,4780038497.0
+THYAO,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1164714933.0
+THYAO,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+THYAO,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,1152064904.0
+THYAO,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2024/6,1AF,Stoklar,Inventories,498398981.0
+THYAO,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+THYAO,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,884133640.0
+THYAO,2024/6,1AI,(Ara Toplam),(Subtotal),9488434042.0
+THYAO,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+THYAO,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,28031156778.0
+THYAO,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+THYAO,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+THYAO,2024/6,1BB,Diğer Alacaklar,Other Receivables,1317731631.0
+THYAO,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2024/6,1BC,Finansal Yatırımlar,Financial Investments,597592237.0
+THYAO,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,494780343.0
+THYAO,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+THYAO,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,43089161.0
+THYAO,2024/6,1BFA,Stoklar,Stoklar,0.0
+THYAO,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,16977372869.0
+THYAO,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,6530881579.0
+THYAO,2024/6,1BGA,Şerefiye,Goodwill,26668451.0
+THYAO,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,96943011.0
+THYAO,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,397077113.0
+THYAO,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1549020383.0
+THYAO,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,37519590820.0
+THYAO,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+THYAO,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,10083319903.0
+THYAO,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,3052883811.0
+THYAO,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1509610677.0
+THYAO,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,230315673.0
+THYAO,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+THYAO,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+THYAO,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+THYAO,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,4167302716.0
+THYAO,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),30409.0
+THYAO,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,99679796.0
+THYAO,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1023496821.0
+THYAO,2024/6,2AAGG,(Ara Toplam),(Subtotal),10083319903.0
+THYAO,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+THYAO,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,10475288351.0
+THYAO,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,9888704071.0
+THYAO,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+THYAO,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,40930142.0
+THYAO,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+THYAO,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+THYAO,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+THYAO,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,160132339.0
+THYAO,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,334587186.0
+THYAO,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+THYAO,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,50934612.0
+THYAO,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+THYAO,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,16960982567.0
+THYAO,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,16957363929.0
+THYAO,2024/6,2OA,Ödenmiş Sermaye,Share Capital,41964039.0
+THYAO,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+THYAO,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+THYAO,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+THYAO,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,1173290193.0
+THYAO,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,21711829.0
+THYAO,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),6966212867.0
+THYAO,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1134519071.0
+THYAO,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,7619665930.0
+THYAO,2024/6,2ODA,Azınlık Payları,Minority Interests,3618638.0
+THYAO,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,37519590820.0
+THYAO,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+THYAO,2024/6,3C,Satış Gelirleri,Net Sales,10439369216.0
+THYAO,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-8814357700.0
+THYAO,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+THYAO,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1625011516.0
+THYAO,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+THYAO,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+THYAO,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+THYAO,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1625011516.0
+THYAO,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-912025301.0
+THYAO,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-219531194.0
+THYAO,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+THYAO,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,216590197.0
+THYAO,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-67864296.0
+THYAO,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+THYAO,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,642180922.0
+THYAO,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,493455021.0
+THYAO,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,753337958.0
+THYAO,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2087159.0
+THYAO,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+THYAO,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,19733141.0
+THYAO,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1413164862.0
+THYAO,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),373980971.0
+THYAO,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-750586703.0
+THYAO,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,751250799.0
+THYAO,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1036559130.0
+THYAO,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,143286638.0
+THYAO,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+THYAO,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,143286638.0
+THYAO,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+THYAO,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1179845768.0
+THYAO,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+THYAO,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+THYAO,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1179845768.0
+THYAO,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+THYAO,2024/6,3LB,Azınlık Payları,Minority Interests,-537602.0
+THYAO,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,1180383370.0
+THYAO,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+THYAO,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+THYAO,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+THYAO,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+THYAO,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,1073969877.0
+THYAO,2024/6,4BA,Kıdem Tazminatı,Severance Payments,14673361.0
+THYAO,2024/6,4BB,Finansman Giderleri,Financial Expenses,-750586703.0
+THYAO,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,769339512.0
+THYAO,2024/6,4BD,Yurtdışı Satışlar,Export Sales,9297123936.0
+THYAO,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-4432019206.0
+THYAO,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-6079072388.0
+THYAO,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-8005014304.0
+THYAO,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,2651830570.0
+THYAO,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1179845768.0
+THYAO,2024/6,4CAA,Düzeltmeler:,Adjustments:,485011513.0
+THYAO,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1073969877.0
+THYAO,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,61697689.0
+THYAO,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-650656053.0
+THYAO,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1664857281.0
+THYAO,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,995922774.0
+THYAO,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2660780055.0
+THYAO,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-8949485.0
+THYAO,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-535862300.0
+THYAO,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,265954673.0
+THYAO,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-269907626.0
+THYAO,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,2381922944.0
+THYAO,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-930999475.0
+THYAO,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+THYAO,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+THYAO,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1085449252.0
+THYAO,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-2016448727.0
+THYAO,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,365474216.0
+THYAO,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+THYAO,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+THYAO,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,365474216.0
+THYAO,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+THYAO,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,629310107.0
+THYAO,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,994784324.0
+THYAO,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,9913903313.0
+THYAO,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1832633658.0
+THYAO,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,4391867184.0
+THYAO,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1157200322.0
+THYAO,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+THYAO,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,1345893366.0
+THYAO,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2024/9,1AF,Stoklar,Inventories,456315366.0
+THYAO,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+THYAO,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,729993418.0
+THYAO,2024/9,1AI,(Ara Toplam),(Subtotal),9913903313.0
+THYAO,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+THYAO,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,29687325386.0
+THYAO,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+THYAO,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+THYAO,2024/9,1BB,Diğer Alacaklar,Other Receivables,1227938273.0
+THYAO,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2024/9,1BC,Finansal Yatırımlar,Financial Investments,1134615666.0
+THYAO,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,616894610.0
+THYAO,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+THYAO,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,43092226.0
+THYAO,2024/9,1BFA,Stoklar,Stoklar,0.0
+THYAO,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,17416953119.0
+THYAO,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,6939779127.0
+THYAO,2024/9,1BGA,Şerefiye,Goodwill,26680319.0
+THYAO,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,105872888.0
+THYAO,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,503561764.0
+THYAO,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1671937395.0
+THYAO,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,39601228699.0
+THYAO,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+THYAO,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,10181291597.0
+THYAO,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,3738287135.0
+THYAO,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,29255.0
+THYAO,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1404578366.0
+THYAO,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,379814232.0
+THYAO,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+THYAO,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+THYAO,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+THYAO,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,3366605719.0
+THYAO,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),15826812.0
+THYAO,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,119096029.0
+THYAO,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1157054048.0
+THYAO,2024/9,2AAGG,(Ara Toplam),(Subtotal),10181291597.0
+THYAO,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+THYAO,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,11320295473.0
+THYAO,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,10741724567.0
+THYAO,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+THYAO,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,40810356.0
+THYAO,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+THYAO,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+THYAO,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+THYAO,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,145630074.0
+THYAO,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,340437358.0
+THYAO,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+THYAO,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,51693118.0
+THYAO,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+THYAO,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,18099641629.0
+THYAO,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,18096569882.0
+THYAO,2024/9,2OA,Ödenmiş Sermaye,Share Capital,40371535.0
+THYAO,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+THYAO,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+THYAO,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+THYAO,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,1164543260.0
+THYAO,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,20887881.0
+THYAO,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),6701850362.0
+THYAO,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),2598727419.0
+THYAO,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,7570189424.0
+THYAO,2024/9,2ODA,Azınlık Payları,Minority Interests,3071747.0
+THYAO,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,39601228699.0
+THYAO,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+THYAO,2024/9,3C,Satış Gelirleri,Net Sales,17098141264.0
+THYAO,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-13618432466.0
+THYAO,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+THYAO,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,3479708798.0
+THYAO,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+THYAO,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+THYAO,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+THYAO,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),3479708798.0
+THYAO,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1351796778.0
+THYAO,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-388258984.0
+THYAO,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+THYAO,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,362081784.0
+THYAO,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-77106568.0
+THYAO,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+THYAO,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2024628253.0
+THYAO,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1739653036.0
+THYAO,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1291140025.0
+THYAO,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-32527881.0
+THYAO,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+THYAO,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,137298637.0
+THYAO,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3420539033.0
+THYAO,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),922242875.0
+THYAO,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1571251549.0
+THYAO,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1258612144.0
+THYAO,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,2771530359.0
+THYAO,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-19640644.0
+THYAO,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-164993804.0
+THYAO,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,145353160.0
+THYAO,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+THYAO,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,2751889715.0
+THYAO,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+THYAO,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+THYAO,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,2751889715.0
+THYAO,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+THYAO,2024/9,3LB,Azınlık Payları,Minority Interests,-1084263.0
+THYAO,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,2752973978.0
+THYAO,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+THYAO,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+THYAO,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+THYAO,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+THYAO,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,1626301115.0
+THYAO,2024/9,4BA,Kıdem Tazminatı,Severance Payments,32094176.0
+THYAO,2024/9,4BB,Finansman Giderleri,Financial Expenses,-1571251549.0
+THYAO,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,1374442379.0
+THYAO,2024/9,4BD,Yurtdışı Satışlar,Export Sales,15182249071.0
+THYAO,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-5358271375.0
+THYAO,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-7205978934.0
+THYAO,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-8811679058.0
+THYAO,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,4909138786.0
+THYAO,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,2751889715.0
+THYAO,2024/9,4CAA,Düzeltmeler:,Adjustments:,2249163569.0
+THYAO,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1626301115.0
+THYAO,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,106040892.0
+THYAO,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,516821561.0
+THYAO,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),5001053284.0
+THYAO,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-63723668.0
+THYAO,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),4937329616.0
+THYAO,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-28190830.0
+THYAO,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-921375465.0
+THYAO,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,611741016.0
+THYAO,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-309634449.0
+THYAO,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,4599504337.0
+THYAO,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-1718153656.0
+THYAO,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+THYAO,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+THYAO,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1667998761.0
+THYAO,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-3386152416.0
+THYAO,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1213351921.0
+THYAO,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+THYAO,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+THYAO,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1213351921.0
+THYAO,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+THYAO,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,617750929.0
+THYAO,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1831102850.0
+THYAO,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,9321742256.0
+THYAO,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2347668877.0
+THYAO,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3173784219.0
+THYAO,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1078403645.0
+THYAO,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+THYAO,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,1337696287.0
+THYAO,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2025/3,1AF,Stoklar,Inventories,731147099.0
+THYAO,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+THYAO,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,653042129.0
+THYAO,2025/3,1AI,(Ara Toplam),(Subtotal),9321742256.0
+THYAO,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+THYAO,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,31249124458.0
+THYAO,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+THYAO,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+THYAO,2025/3,1BB,Diğer Alacaklar,Other Receivables,1355669681.0
+THYAO,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2025/3,1BC,Finansal Yatırımlar,Financial Investments,1774211880.0
+THYAO,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,605703381.0
+THYAO,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+THYAO,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,43109714.0
+THYAO,2025/3,1BFA,Stoklar,Stoklar,0.0
+THYAO,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,17766462175.0
+THYAO,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,7161128835.0
+THYAO,2025/3,1BGA,Şerefiye,Goodwill,26669345.0
+THYAO,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,123725673.0
+THYAO,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,593095574.0
+THYAO,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1799348200.0
+THYAO,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,40570866714.0
+THYAO,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+THYAO,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,10388304607.0
+THYAO,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,3666783846.0
+THYAO,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1525756138.0
+THYAO,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,224535269.0
+THYAO,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+THYAO,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+THYAO,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+THYAO,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,3743990146.0
+THYAO,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+THYAO,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,132289467.0
+THYAO,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1094949741.0
+THYAO,2025/3,2AAGG,(Ara Toplam),(Subtotal),10388304607.0
+THYAO,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+THYAO,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,11219679809.0
+THYAO,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,10544620272.0
+THYAO,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+THYAO,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,29391786.0
+THYAO,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+THYAO,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+THYAO,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+THYAO,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,116774199.0
+THYAO,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,340146483.0
+THYAO,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+THYAO,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,188747069.0
+THYAO,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+THYAO,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,18962882298.0
+THYAO,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,18960503466.0
+THYAO,2025/3,2OA,Ödenmiş Sermaye,Share Capital,36475417.0
+THYAO,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+THYAO,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+THYAO,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+THYAO,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,1216190856.0
+THYAO,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,25929264.0
+THYAO,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),9044211906.0
+THYAO,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-49003930.0
+THYAO,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,8686699953.0
+THYAO,2025/3,2ODA,Azınlık Payları,Minority Interests,2378832.0
+THYAO,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,40570866714.0
+THYAO,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+THYAO,2025/3,3C,Satış Gelirleri,Net Sales,4874047825.0
+THYAO,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-4550484880.0
+THYAO,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+THYAO,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,323562944.0
+THYAO,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+THYAO,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+THYAO,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+THYAO,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),323562944.0
+THYAO,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-435628092.0
+THYAO,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-170538717.0
+THYAO,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+THYAO,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,228626140.0
+THYAO,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-25430486.0
+THYAO,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+THYAO,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-79408210.0
+THYAO,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-282603864.0
+THYAO,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,357240411.0
+THYAO,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-37125200.0
+THYAO,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+THYAO,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-43275958.0
+THYAO,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,197431042.0
+THYAO,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),192686960.0
+THYAO,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-443323434.0
+THYAO,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,320115210.0
+THYAO,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-53205432.0
+THYAO,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,2068640.0
+THYAO,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-4247608.0
+THYAO,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,6316249.0
+THYAO,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+THYAO,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-51136791.0
+THYAO,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+THYAO,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+THYAO,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-51136791.0
+THYAO,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+THYAO,2025/3,3LB,Azınlık Payları,Minority Interests,-992947.0
+THYAO,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,-50143844.0
+THYAO,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+THYAO,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+THYAO,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+THYAO,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+THYAO,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,563028760.0
+THYAO,2025/3,4BA,Kıdem Tazminatı,Severance Payments,13570281.0
+THYAO,2025/3,4BB,Finansman Giderleri,Financial Expenses,-443323434.0
+THYAO,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,359033232.0
+THYAO,2025/3,4BD,Yurtdışı Satışlar,Export Sales,4319266045.0
+THYAO,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-5050599390.0
+THYAO,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-6451068958.0
+THYAO,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-6359276487.0
+THYAO,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,891970170.0
+THYAO,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-51136791.0
+THYAO,2025/3,4CAA,Düzeltmeler:,Adjustments:,730781708.0
+THYAO,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,563028760.0
+THYAO,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,38118148.0
+THYAO,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,129634800.0
+THYAO,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),679644916.0
+THYAO,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,238776269.0
+THYAO,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),918421185.0
+THYAO,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-26451016.0
+THYAO,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-303345432.0
+THYAO,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-325300602.0
+THYAO,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-628646034.0
+THYAO,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,263324135.0
+THYAO,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-8605544.0
+THYAO,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+THYAO,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+THYAO,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-488971433.0
+THYAO,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-497576977.0
+THYAO,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-234252842.0
+THYAO,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+THYAO,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+THYAO,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-234252842.0
+THYAO,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+THYAO,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2486891938.0
+THYAO,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2252639096.0
+THYAO,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,9973676543.0
+THYAO,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2481412826.0
+THYAO,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3781736343.0
+THYAO,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1023851865.0
+THYAO,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+THYAO,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,1260034562.0
+THYAO,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2025/6,1AF,Stoklar,Inventories,802187258.0
+THYAO,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+THYAO,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,624453688.0
+THYAO,2025/6,1AI,(Ara Toplam),(Subtotal),9973676543.0
+THYAO,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+THYAO,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,31535727562.0
+THYAO,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+THYAO,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+THYAO,2025/6,1BB,Diğer Alacaklar,Other Receivables,1429529493.0
+THYAO,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2025/6,1BC,Finansal Yatırımlar,Financial Investments,1385598457.0
+THYAO,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,616189931.0
+THYAO,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+THYAO,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,43102149.0
+THYAO,2025/6,1BFA,Stoklar,Stoklar,0.0
+THYAO,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,17786468537.0
+THYAO,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,7591227859.0
+THYAO,2025/6,1BGA,Şerefiye,Goodwill,26675106.0
+THYAO,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,147290794.0
+THYAO,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,635631110.0
+THYAO,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1874014126.0
+THYAO,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,41509404105.0
+THYAO,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+THYAO,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,10842501331.0
+THYAO,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,3474394912.0
+THYAO,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1650139153.0
+THYAO,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,315379128.0
+THYAO,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+THYAO,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+THYAO,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+THYAO,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,4060016477.0
+THYAO,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+THYAO,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,140031749.0
+THYAO,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1202539912.0
+THYAO,2025/6,2AAGG,(Ara Toplam),(Subtotal),10842501331.0
+THYAO,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+THYAO,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,11775301162.0
+THYAO,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,11209271483.0
+THYAO,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+THYAO,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,28408235.0
+THYAO,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+THYAO,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+THYAO,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+THYAO,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,104490058.0
+THYAO,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,374556671.0
+THYAO,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+THYAO,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,58574715.0
+THYAO,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+THYAO,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,18891601612.0
+THYAO,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,18890421075.0
+THYAO,2025/6,2OA,Ödenmiş Sermaye,Share Capital,34662567.0
+THYAO,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+THYAO,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+THYAO,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+THYAO,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,1447111955.0
+THYAO,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,29513418.0
+THYAO,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),8351217209.0
+THYAO,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),628271594.0
+THYAO,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,8399644332.0
+THYAO,2025/6,2ODA,Azınlık Payları,Minority Interests,1180537.0
+THYAO,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,41509404105.0
+THYAO,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+THYAO,2025/6,3C,Satış Gelirleri,Net Sales,10885685167.0
+THYAO,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-9387808315.0
+THYAO,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+THYAO,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1497876853.0
+THYAO,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+THYAO,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+THYAO,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+THYAO,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1497876853.0
+THYAO,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-883423469.0
+THYAO,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-260032873.0
+THYAO,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+THYAO,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,334625251.0
+THYAO,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-34655043.0
+THYAO,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+THYAO,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,654390719.0
+THYAO,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,354420511.0
+THYAO,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,635369129.0
+THYAO,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-52369399.0
+THYAO,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+THYAO,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-25877900.0
+THYAO,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1211512550.0
+THYAO,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),492507117.0
+THYAO,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-930750679.0
+THYAO,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,582999730.0
+THYAO,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,773268987.0
+THYAO,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-108046900.0
+THYAO,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-130936836.0
+THYAO,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,22889936.0
+THYAO,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+THYAO,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,665222087.0
+THYAO,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+THYAO,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+THYAO,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,665222087.0
+THYAO,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+THYAO,2025/6,3LB,Azınlık Payları,Minority Interests,-2080903.0
+THYAO,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,667302991.0
+THYAO,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+THYAO,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+THYAO,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+THYAO,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+THYAO,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,1145910741.0
+THYAO,2025/6,4BA,Kıdem Tazminatı,Severance Payments,17527608.0
+THYAO,2025/6,4BB,Finansman Giderleri,Financial Expenses,-930750679.0
+THYAO,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,884117103.0
+THYAO,2025/6,4BD,Yurtdışı Satışlar,Export Sales,9565565474.0
+THYAO,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-5425955253.0
+THYAO,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-6708805435.0
+THYAO,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-5853047308.0
+THYAO,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,2878022601.0
+THYAO,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,665222087.0
+THYAO,2025/6,4CAA,Düzeltmeler:,Adjustments:,1651943729.0
+THYAO,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1145910741.0
+THYAO,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,57491622.0
+THYAO,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,448541366.0
+THYAO,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2317165816.0
+THYAO,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,651696216.0
+THYAO,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2968862032.0
+THYAO,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-90839431.0
+THYAO,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-944623368.0
+THYAO,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-228179046.0
+THYAO,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1172802414.0
+THYAO,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,1705220188.0
+THYAO,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-572408466.0
+THYAO,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-119011660.0
+THYAO,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+THYAO,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-943742985.0
+THYAO,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1635163111.0
+THYAO,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,70057076.0
+THYAO,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+THYAO,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+THYAO,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,70057076.0
+THYAO,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+THYAO,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2405417457.0
+THYAO,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2475474533.0
+THYAO,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,10236667180.0
+THYAO,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2412725821.0
+THYAO,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3824480058.0
+THYAO,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1148681147.0
+THYAO,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+THYAO,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,1150172192.0
+THYAO,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2025/9,1AF,Stoklar,Inventories,895925121.0
+THYAO,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+THYAO,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,804682840.0
+THYAO,2025/9,1AI,(Ara Toplam),(Subtotal),10236667180.0
+THYAO,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+THYAO,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,32918141678.0
+THYAO,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+THYAO,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+THYAO,2025/9,1BB,Diğer Alacaklar,Other Receivables,1315966678.0
+THYAO,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+THYAO,2025/9,1BC,Finansal Yatırımlar,Financial Investments,1619730842.0
+THYAO,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,741289416.0
+THYAO,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+THYAO,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,43168132.0
+THYAO,2025/9,1BFA,Stoklar,Stoklar,0.0
+THYAO,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,18339169248.0
+THYAO,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,8065779095.0
+THYAO,2025/9,1BGA,Şerefiye,Goodwill,26670450.0
+THYAO,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,156535583.0
+THYAO,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,685230968.0
+THYAO,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1924601266.0
+THYAO,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,43154808858.0
+THYAO,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+THYAO,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,10422903400.0
+THYAO,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,3628768494.0
+THYAO,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1737739770.0
+THYAO,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,210261269.0
+THYAO,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+THYAO,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+THYAO,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+THYAO,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,3509028032.0
+THYAO,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+THYAO,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,151509321.0
+THYAO,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1185596514.0
+THYAO,2025/9,2AAGG,(Ara Toplam),(Subtotal),10422903400.0
+THYAO,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+THYAO,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,12435644612.0
+THYAO,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,11873641226.0
+THYAO,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+THYAO,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+THYAO,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,29363949.0
+THYAO,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+THYAO,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+THYAO,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+THYAO,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,89222156.0
+THYAO,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,384737480.0
+THYAO,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+THYAO,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,58679801.0
+THYAO,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+THYAO,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,20296260846.0
+THYAO,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,20295972257.0
+THYAO,2025/9,2OA,Ödenmiş Sermaye,Share Capital,33187756.0
+THYAO,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+THYAO,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,1082209.0
+THYAO,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+THYAO,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,1171383497.0
+THYAO,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,27199531.0
+THYAO,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),7996950574.0
+THYAO,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1949516132.0
+THYAO,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,9116652558.0
+THYAO,2025/9,2ODA,Azınlık Payları,Minority Interests,288589.0
+THYAO,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,43154808858.0
+THYAO,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+THYAO,2025/9,3C,Satış Gelirleri,Net Sales,17879798880.0
+THYAO,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-14807964928.0
+THYAO,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+THYAO,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,3071833952.0
+THYAO,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+THYAO,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+THYAO,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+THYAO,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+THYAO,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),3071833952.0
+THYAO,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1351651455.0
+THYAO,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-399899790.0
+THYAO,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+THYAO,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,477726382.0
+THYAO,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-48217805.0
+THYAO,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+THYAO,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1749791283.0
+THYAO,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1320282706.0
+THYAO,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,958817398.0
+THYAO,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-63281017.0
+THYAO,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+THYAO,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,109712977.0
+THYAO,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,2755040642.0
+THYAO,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),666404750.0
+THYAO,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-987002686.0
+THYAO,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,895536382.0
+THYAO,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,2434442706.0
+THYAO,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-339284600.0
+THYAO,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-418767627.0
+THYAO,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,79483027.0
+THYAO,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+THYAO,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,2095158107.0
+THYAO,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+THYAO,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+THYAO,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,2095158107.0
+THYAO,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+THYAO,2025/9,3LB,Azınlık Payları,Minority Interests,-2924644.0
+THYAO,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,2098082751.0
+THYAO,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+THYAO,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+THYAO,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+THYAO,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+THYAO,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,1753802963.0
+THYAO,2025/9,4BA,Kıdem Tazminatı,Severance Payments,25933570.0
+THYAO,2025/9,4BB,Finansman Giderleri,Financial Expenses,-987002686.0
+THYAO,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,1556195371.0
+THYAO,2025/9,4BD,Yurtdışı Satışlar,Export Sales,15670527889.0
+THYAO,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-5689597493.0
+THYAO,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-6930423053.0
+THYAO,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-5731474255.0
+THYAO,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,3627309280.0
+THYAO,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,2095158107.0
+THYAO,2025/9,4CAA,Düzeltmeler:,Adjustments:,1742777313.0
+THYAO,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1753802963.0
+THYAO,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,84064107.0
+THYAO,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-95089757.0
+THYAO,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),3837935420.0
+THYAO,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-63565716.0
+THYAO,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),3774369704.0
+THYAO,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-147060424.0
+THYAO,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1337131762.0
+THYAO,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-151046222.0
+THYAO,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1488177984.0
+THYAO,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,2139131296.0
+THYAO,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-247378305.0
+THYAO,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-231668049.0
+THYAO,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+THYAO,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1480206388.0
+THYAO,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1959252742.0
+THYAO,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,179878554.0
+THYAO,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+THYAO,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+THYAO,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,179878554.0
+THYAO,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+THYAO,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2333607189.0
+THYAO,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2513485743.0

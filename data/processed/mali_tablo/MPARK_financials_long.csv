@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+MPARK,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,371800182.0
+MPARK,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,67369261.0
+MPARK,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,18839900.0
+MPARK,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,160681935.0
+MPARK,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MPARK,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,10874226.0
+MPARK,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2022/12,1AF,Stoklar,Inventories,62662503.0
+MPARK,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MPARK,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,51372357.0
+MPARK,2022/12,1AI,(Ara Toplam),(Subtotal),371800182.0
+MPARK,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MPARK,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,835549167.0
+MPARK,2022/12,1B,Ticari Alacaklar,Trade Receivables,92622.0
+MPARK,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MPARK,2022/12,1BB,Diğer Alacaklar,Other Receivables,216208.0
+MPARK,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2022/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+MPARK,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MPARK,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MPARK,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MPARK,2022/12,1BFA,Stoklar,Stoklar,0.0
+MPARK,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,239476137.0
+MPARK,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,187378337.0
+MPARK,2022/12,1BGA,Şerefiye,Goodwill,27347801.0
+MPARK,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,210657485.0
+MPARK,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,73320361.0
+MPARK,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,97060218.0
+MPARK,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1207349349.0
+MPARK,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+MPARK,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,425370009.0
+MPARK,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,144812300.0
+MPARK,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,210932202.0
+MPARK,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,9849829.0
+MPARK,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MPARK,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MPARK,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MPARK,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,34068546.0
+MPARK,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4492740.0
+MPARK,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,6657591.0
+MPARK,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,14556801.0
+MPARK,2022/12,2AAGG,(Ara Toplam),(Subtotal),425370009.0
+MPARK,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MPARK,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,253632127.0
+MPARK,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,121942451.0
+MPARK,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MPARK,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,25868887.0
+MPARK,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MPARK,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MPARK,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MPARK,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,6033739.0
+MPARK,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,5402893.0
+MPARK,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MPARK,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,94384155.0
+MPARK,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MPARK,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,528347213.0
+MPARK,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,528062140.0
+MPARK,2022/12,2OA,Ödenmiş Sermaye,Share Capital,11105968.0
+MPARK,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MPARK,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,141249306.0
+MPARK,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MPARK,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MPARK,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,3447096.0
+MPARK,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),39184444.0
+MPARK,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),253128176.0
+MPARK,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,79947149.0
+MPARK,2022/12,2ODA,Azınlık Payları,Minority Interests,285074.0
+MPARK,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1207349349.0
+MPARK,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MPARK,2022/12,3C,Satış Gelirleri,Net Sales,1137698394.0
+MPARK,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-843546552.0
+MPARK,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MPARK,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,294151842.0
+MPARK,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MPARK,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MPARK,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MPARK,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),294151842.0
+MPARK,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),0.0
+MPARK,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-112515787.0
+MPARK,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MPARK,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,54039929.0
+MPARK,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-56612121.0
+MPARK,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MPARK,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,179063863.0
+MPARK,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,181636055.0
+MPARK,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,60182868.0
+MPARK,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-10634901.0
+MPARK,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MPARK,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MPARK,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,228611830.0
+MPARK,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),9415582.0
+MPARK,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),49698192.0
+MPARK,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,49547967.0
+MPARK,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,287725604.0
+MPARK,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,6673484.0
+MPARK,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-6380195.0
+MPARK,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,13053678.0
+MPARK,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MPARK,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,294399088.0
+MPARK,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MPARK,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MPARK,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,294399088.0
+MPARK,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MPARK,2022/12,3LB,Azınlık Payları,Minority Interests,9018772.0
+MPARK,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,285380316.0
+MPARK,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MPARK,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MPARK,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MPARK,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MPARK,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,75938801.0
+MPARK,2022/12,4BA,Kıdem Tazminatı,Severance Payments,1283659.0
+MPARK,2022/12,4BB,Finansman Giderleri,Financial Expenses,49698192.0
+MPARK,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+MPARK,2022/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MPARK,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,42083151.0
+MPARK,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,31638439.0
+MPARK,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),42083151.0
+MPARK,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,218265463.0
+MPARK,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,294399088.0
+MPARK,2022/12,4CAA,Düzeltmeler:,Adjustments:,-125695014.0
+MPARK,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,75938801.0
+MPARK,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,3554918.0
+MPARK,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-205188733.0
+MPARK,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),168704074.0
+MPARK,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,53376854.0
+MPARK,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),222080928.0
+MPARK,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-3815465.0
+MPARK,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-65899326.0
+MPARK,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-66248407.0
+MPARK,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-132147733.0
+MPARK,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,86117730.0
+MPARK,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1640083.0
+MPARK,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-3087569.0
+MPARK,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MPARK,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-119533898.0
+MPARK,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-120981385.0
+MPARK,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-34863655.0
+MPARK,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+MPARK,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MPARK,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-34863655.0
+MPARK,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MPARK,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,110816721.0
+MPARK,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,75953066.0
+MPARK,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,211567088.0
+MPARK,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,44307225.0
+MPARK,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+MPARK,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,111440175.0
+MPARK,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MPARK,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,8681693.0
+MPARK,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2022/3,1AF,Stoklar,Inventories,23330378.0
+MPARK,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MPARK,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,23807618.0
+MPARK,2022/3,1AI,(Ara Toplam),(Subtotal),211567088.0
+MPARK,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MPARK,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,215785658.0
+MPARK,2022/3,1B,Ticari Alacaklar,Trade Receivables,71811.0
+MPARK,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MPARK,2022/3,1BB,Diğer Alacaklar,Other Receivables,300065.0
+MPARK,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2022/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+MPARK,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MPARK,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MPARK,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MPARK,2022/3,1BFA,Stoklar,Stoklar,0.0
+MPARK,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,41323490.0
+MPARK,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,72079995.0
+MPARK,2022/3,1BGA,Şerefiye,Goodwill,2636547.0
+MPARK,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,45088212.0
+MPARK,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,30317455.0
+MPARK,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,23968084.0
+MPARK,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,427352747.0
+MPARK,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+MPARK,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,255520306.0
+MPARK,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,85873700.0
+MPARK,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,121723463.0
+MPARK,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,5379548.0
+MPARK,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MPARK,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MPARK,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MPARK,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,25628670.0
+MPARK,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2683057.0
+MPARK,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,5191394.0
+MPARK,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,9040475.0
+MPARK,2022/3,2AAGG,(Ara Toplam),(Subtotal),255520306.0
+MPARK,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MPARK,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,112926723.0
+MPARK,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,93763153.0
+MPARK,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MPARK,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,6087292.0
+MPARK,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MPARK,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MPARK,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MPARK,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1071913.0
+MPARK,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,3197804.0
+MPARK,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MPARK,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,8806561.0
+MPARK,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MPARK,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,58905718.0
+MPARK,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,47961946.0
+MPARK,2022/3,2OA,Ödenmiş Sermaye,Share Capital,14187404.0
+MPARK,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MPARK,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MPARK,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MPARK,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MPARK,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,699697.0
+MPARK,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-13365022.0
+MPARK,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),11595935.0
+MPARK,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,34843932.0
+MPARK,2022/3,2ODA,Azınlık Payları,Minority Interests,10943772.0
+MPARK,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,427352747.0
+MPARK,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MPARK,2022/3,3C,Satış Gelirleri,Net Sales,156505522.0
+MPARK,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-114225472.0
+MPARK,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MPARK,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,42280051.0
+MPARK,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MPARK,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MPARK,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MPARK,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),42280051.0
+MPARK,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),0.0
+MPARK,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-14152322.0
+MPARK,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MPARK,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,8260615.0
+MPARK,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-10593952.0
+MPARK,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MPARK,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,25794391.0
+MPARK,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,28127728.0
+MPARK,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1235696.0
+MPARK,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-411803.0
+MPARK,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MPARK,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MPARK,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,26618284.0
+MPARK,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1543082.0
+MPARK,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-13150296.0
+MPARK,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,823893.0
+MPARK,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,15011069.0
+MPARK,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-701010.0
+MPARK,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-2815707.0
+MPARK,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,2114697.0
+MPARK,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MPARK,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,14310059.0
+MPARK,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MPARK,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MPARK,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,14310059.0
+MPARK,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MPARK,2022/3,3LB,Azınlık Payları,Minority Interests,2140819.0
+MPARK,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,12169240.0
+MPARK,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MPARK,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MPARK,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MPARK,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MPARK,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,7792630.0
+MPARK,2022/3,4BA,Kıdem Tazminatı,Severance Payments,1403023.0
+MPARK,2022/3,4BB,Finansman Giderleri,Financial Expenses,-13150296.0
+MPARK,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+MPARK,2022/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MPARK,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-6527949.0
+MPARK,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-12496020.0
+MPARK,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-6527949.0
+MPARK,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,34492215.0
+MPARK,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,14310059.0
+MPARK,2022/3,4CAA,Düzeltmeler:,Adjustments:,22083509.0
+MPARK,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,7792630.0
+MPARK,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,1442671.0
+MPARK,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,12848207.0
+MPARK,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),36393567.0
+MPARK,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,929671.0
+MPARK,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),37323238.0
+MPARK,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-2831023.0
+MPARK,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-6565307.0
+MPARK,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-406650.0
+MPARK,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-6971958.0
+MPARK,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,27520257.0
+MPARK,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-12077775.0
+MPARK,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,-266520.0
+MPARK,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MPARK,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-17361798.0
+MPARK,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-29706093.0
+MPARK,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-2185836.0
+MPARK,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+MPARK,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MPARK,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-2185836.0
+MPARK,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MPARK,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,48683614.0
+MPARK,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,46497778.0
+MPARK,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,203869538.0
+MPARK,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,69398373.0
+MPARK,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,11158441.0
+MPARK,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,64911451.0
+MPARK,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MPARK,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,7124807.0
+MPARK,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2022/6,1AF,Stoklar,Inventories,26106917.0
+MPARK,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MPARK,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,25169548.0
+MPARK,2022/6,1AI,(Ara Toplam),(Subtotal),203869538.0
+MPARK,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MPARK,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,192330661.0
+MPARK,2022/6,1B,Ticari Alacaklar,Trade Receivables,63086.0
+MPARK,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MPARK,2022/6,1BB,Diğer Alacaklar,Other Receivables,149598.0
+MPARK,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2022/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+MPARK,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MPARK,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MPARK,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MPARK,2022/6,1BFA,Stoklar,Stoklar,0.0
+MPARK,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,32973328.0
+MPARK,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,63956648.0
+MPARK,2022/6,1BGA,Şerefiye,Goodwill,2316223.0
+MPARK,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,42361935.0
+MPARK,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,26133877.0
+MPARK,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,24375966.0
+MPARK,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,396200199.0
+MPARK,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+MPARK,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,242465581.0
+MPARK,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,91930695.0
+MPARK,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,114353679.0
+MPARK,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,4817331.0
+MPARK,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MPARK,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MPARK,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MPARK,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,18314461.0
+MPARK,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2452880.0
+MPARK,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,3628755.0
+MPARK,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,6967780.0
+MPARK,2022/6,2AAGG,(Ara Toplam),(Subtotal),242465581.0
+MPARK,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MPARK,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,86523899.0
+MPARK,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,69164180.0
+MPARK,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MPARK,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,5137196.0
+MPARK,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MPARK,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MPARK,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MPARK,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,703117.0
+MPARK,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2765556.0
+MPARK,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MPARK,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,8753849.0
+MPARK,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MPARK,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,67210719.0
+MPARK,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,68782247.0
+MPARK,2022/6,2OA,Ödenmiş Sermaye,Share Capital,12463724.0
+MPARK,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MPARK,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+MPARK,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MPARK,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MPARK,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2930132.0
+MPARK,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-9334627.0
+MPARK,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),34557616.0
+MPARK,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,28165403.0
+MPARK,2022/6,2ODA,Azınlık Payları,Minority Interests,-1571528.0
+MPARK,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,396200199.0
+MPARK,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MPARK,2022/6,3C,Satış Gelirleri,Net Sales,296699485.0
+MPARK,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-214219605.0
+MPARK,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MPARK,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,82479881.0
+MPARK,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MPARK,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MPARK,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MPARK,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),82479881.0
+MPARK,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),0.0
+MPARK,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-26779944.0
+MPARK,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MPARK,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,13837556.0
+MPARK,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-16889565.0
+MPARK,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MPARK,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,52647927.0
+MPARK,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,55699936.0
+MPARK,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,9671995.0
+MPARK,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-582202.0
+MPARK,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MPARK,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MPARK,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,61737720.0
+MPARK,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),3502817.0
+MPARK,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-21063524.0
+MPARK,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,9089793.0
+MPARK,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,44177014.0
+MPARK,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-3583964.0
+MPARK,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-4468049.0
+MPARK,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,884084.0
+MPARK,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MPARK,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,40593049.0
+MPARK,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MPARK,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MPARK,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,40593049.0
+MPARK,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MPARK,2022/6,3LB,Azınlık Payları,Minority Interests,1845755.0
+MPARK,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,38747294.0
+MPARK,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MPARK,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MPARK,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MPARK,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MPARK,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,14328401.0
+MPARK,2022/6,4BA,Kıdem Tazminatı,Severance Payments,1124032.0
+MPARK,2022/6,4BB,Finansman Giderleri,Financial Expenses,-21063524.0
+MPARK,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+MPARK,2022/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MPARK,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,36725541.0
+MPARK,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,30646109.0
+MPARK,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),36725541.0
+MPARK,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,53613494.0
+MPARK,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,40593049.0
+MPARK,2022/6,4CAA,Düzeltmeler:,Adjustments:,28352501.0
+MPARK,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,14328401.0
+MPARK,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,1750435.0
+MPARK,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,12273665.0
+MPARK,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),68945550.0
+MPARK,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-11273839.0
+MPARK,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),57671711.0
+MPARK,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-4058217.0
+MPARK,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-19001601.0
+MPARK,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,24826307.0
+MPARK,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,5824706.0
+MPARK,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,59438200.0
+MPARK,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,3336560.0
+MPARK,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-250158.0
+MPARK,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MPARK,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-30407438.0
+MPARK,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-27321036.0
+MPARK,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,32117165.0
+MPARK,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+MPARK,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MPARK,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,32117165.0
+MPARK,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MPARK,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,45694890.0
+MPARK,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,77812055.0
+MPARK,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,200040534.0
+MPARK,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,53577115.0
+MPARK,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,11544731.0
+MPARK,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,70223587.0
+MPARK,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MPARK,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,7056021.0
+MPARK,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2022/9,1AF,Stoklar,Inventories,29054447.0
+MPARK,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MPARK,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,28584635.0
+MPARK,2022/9,1AI,(Ara Toplam),(Subtotal),200040534.0
+MPARK,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MPARK,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,186805699.0
+MPARK,2022/9,1B,Ticari Alacaklar,Trade Receivables,56759.0
+MPARK,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MPARK,2022/9,1BB,Diğer Alacaklar,Other Receivables,134594.0
+MPARK,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2022/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+MPARK,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MPARK,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MPARK,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MPARK,2022/9,1BFA,Stoklar,Stoklar,0.0
+MPARK,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,29556600.0
+MPARK,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,61415258.0
+MPARK,2022/9,1BGA,Şerefiye,Goodwill,2083915.0
+MPARK,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,36358525.0
+MPARK,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,26480398.0
+MPARK,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,30719649.0
+MPARK,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,386846233.0
+MPARK,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+MPARK,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,236207437.0
+MPARK,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,84110801.0
+MPARK,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,113702330.0
+MPARK,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,4592526.0
+MPARK,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MPARK,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MPARK,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MPARK,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,18719498.0
+MPARK,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4079161.0
+MPARK,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,3691280.0
+MPARK,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,7311841.0
+MPARK,2022/9,2AAGG,(Ara Toplam),(Subtotal),236207437.0
+MPARK,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MPARK,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,70900761.0
+MPARK,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,59257874.0
+MPARK,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MPARK,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,4484182.0
+MPARK,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MPARK,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MPARK,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MPARK,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,489864.0
+MPARK,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2807984.0
+MPARK,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MPARK,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,3860857.0
+MPARK,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MPARK,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,79738035.0
+MPARK,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,80428092.0
+MPARK,2022/9,2OA,Ödenmiş Sermaye,Share Capital,11213663.0
+MPARK,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MPARK,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,29978385.0
+MPARK,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MPARK,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MPARK,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,8677293.0
+MPARK,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-14439444.0
+MPARK,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),55978730.0
+MPARK,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-10980536.0
+MPARK,2022/9,2ODA,Azınlık Payları,Minority Interests,-690057.0
+MPARK,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,386846233.0
+MPARK,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MPARK,2022/9,3C,Satış Gelirleri,Net Sales,433140477.0
+MPARK,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-310335900.0
+MPARK,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MPARK,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,122804577.0
+MPARK,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MPARK,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MPARK,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MPARK,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),122804577.0
+MPARK,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),0.0
+MPARK,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-40332736.0
+MPARK,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MPARK,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,20721507.0
+MPARK,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-22164655.0
+MPARK,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MPARK,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,81028694.0
+MPARK,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,82471842.0
+MPARK,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,8105446.0
+MPARK,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-818444.0
+MPARK,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MPARK,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MPARK,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,88315696.0
+MPARK,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),5416534.0
+MPARK,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-28416851.0
+MPARK,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,7287002.0
+MPARK,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,65315378.0
+MPARK,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,2517230.0
+MPARK,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-6362608.0
+MPARK,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,8879838.0
+MPARK,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MPARK,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,67832608.0
+MPARK,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MPARK,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MPARK,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,67832608.0
+MPARK,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MPARK,2022/9,3LB,Azınlık Payları,Minority Interests,2570582.0
+MPARK,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,65262026.0
+MPARK,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MPARK,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MPARK,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MPARK,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MPARK,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,20098939.0
+MPARK,2022/9,4BA,Kıdem Tazminatı,Severance Payments,1674278.0
+MPARK,2022/9,4BB,Finansman Giderleri,Financial Expenses,-28416851.0
+MPARK,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+MPARK,2022/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MPARK,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,43221860.0
+MPARK,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,36826951.0
+MPARK,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),43221860.0
+MPARK,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,77550245.0
+MPARK,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,67832608.0
+MPARK,2022/9,4CAA,Düzeltmeler:,Adjustments:,36723703.0
+MPARK,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,20098939.0
+MPARK,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,2729130.0
+MPARK,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,13895634.0
+MPARK,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),104556311.0
+MPARK,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-22506574.0
+MPARK,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),82049737.0
+MPARK,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-4499492.0
+MPARK,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-27781338.0
+MPARK,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,13660545.0
+MPARK,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-14120794.0
+MPARK,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,63429451.0
+MPARK,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1767660.0
+MPARK,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-234021.0
+MPARK,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MPARK,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-45248111.0
+MPARK,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-43714472.0
+MPARK,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,19714980.0
+MPARK,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+MPARK,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MPARK,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,19714980.0
+MPARK,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MPARK,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,42747157.0
+MPARK,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,62462137.0
+MPARK,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,414148851.0
+MPARK,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,137683690.0
+MPARK,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+MPARK,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,179043243.0
+MPARK,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MPARK,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,10426770.0
+MPARK,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2023/12,1AF,Stoklar,Inventories,52706256.0
+MPARK,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MPARK,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,34288892.0
+MPARK,2023/12,1AI,(Ara Toplam),(Subtotal),414148851.0
+MPARK,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MPARK,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,976952152.0
+MPARK,2023/12,1B,Ticari Alacaklar,Trade Receivables,51608.0
+MPARK,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MPARK,2023/12,1BB,Diğer Alacaklar,Other Receivables,10894705.0
+MPARK,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2023/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+MPARK,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MPARK,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MPARK,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MPARK,2023/12,1BFA,Stoklar,Stoklar,0.0
+MPARK,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,354515230.0
+MPARK,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,189257510.0
+MPARK,2023/12,1BGA,Şerefiye,Goodwill,25079328.0
+MPARK,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,194861807.0
+MPARK,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,88572901.0
+MPARK,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,113719063.0
+MPARK,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1391101003.0
+MPARK,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+MPARK,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,435073768.0
+MPARK,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,149925571.0
+MPARK,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,199850837.0
+MPARK,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,9056061.0
+MPARK,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MPARK,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MPARK,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MPARK,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,41962714.0
+MPARK,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),11202456.0
+MPARK,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,6142354.0
+MPARK,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,16933774.0
+MPARK,2023/12,2AAGG,(Ara Toplam),(Subtotal),435073768.0
+MPARK,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MPARK,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,324865604.0
+MPARK,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,146539352.0
+MPARK,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MPARK,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,13327456.0
+MPARK,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MPARK,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MPARK,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MPARK,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1648893.0
+MPARK,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,5523392.0
+MPARK,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MPARK,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,157826512.0
+MPARK,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MPARK,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,631161631.0
+MPARK,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,620523782.0
+MPARK,2023/12,2OA,Ödenmiş Sermaye,Share Capital,7054182.0
+MPARK,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MPARK,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,129532845.0
+MPARK,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MPARK,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MPARK,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,3207183.0
+MPARK,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),247861471.0
+MPARK,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),221752585.0
+MPARK,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,11115515.0
+MPARK,2023/12,2ODA,Azınlık Payları,Minority Interests,10637849.0
+MPARK,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1391101003.0
+MPARK,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MPARK,2023/12,3C,Satış Gelirleri,Net Sales,1360221590.0
+MPARK,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-970600200.0
+MPARK,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MPARK,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,389621390.0
+MPARK,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MPARK,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MPARK,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MPARK,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),389621390.0
+MPARK,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),0.0
+MPARK,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-132629470.0
+MPARK,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MPARK,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,57754410.0
+MPARK,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-49862864.0
+MPARK,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MPARK,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,264883467.0
+MPARK,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,256991920.0
+MPARK,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,4733904.0
+MPARK,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-649725.0
+MPARK,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MPARK,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MPARK,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,268967645.0
+MPARK,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),14777451.0
+MPARK,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),99326668.0
+MPARK,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,4084179.0
+MPARK,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,383071764.0
+MPARK,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-95391218.0
+MPARK,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-32390745.0
+MPARK,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-63000474.0
+MPARK,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MPARK,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,287680546.0
+MPARK,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MPARK,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MPARK,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,287680546.0
+MPARK,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MPARK,2023/12,3LB,Azınlık Payları,Minority Interests,13229265.0
+MPARK,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,274451281.0
+MPARK,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MPARK,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MPARK,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MPARK,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MPARK,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,93448296.0
+MPARK,2023/12,4BA,Kıdem Tazminatı,Severance Payments,368256.0
+MPARK,2023/12,4BB,Finansman Giderleri,Financial Expenses,99326668.0
+MPARK,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+MPARK,2023/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MPARK,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,48943336.0
+MPARK,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,32961783.0
+MPARK,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),49386082.0
+MPARK,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,284195438.0
+MPARK,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,287680546.0
+MPARK,2023/12,4CAA,Düzeltmeler:,Adjustments:,-12098016.0
+MPARK,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,93448296.0
+MPARK,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,5310314.0
+MPARK,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,149985174.0
+MPARK,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),275582530.0
+MPARK,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,37504152.0
+MPARK,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),313086681.0
+MPARK,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-28891243.0
+MPARK,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-82693837.0
+MPARK,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-27677152.0
+MPARK,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-110370989.0
+MPARK,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,173824449.0
+MPARK,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,110624845.0
+MPARK,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-2724087.0
+MPARK,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MPARK,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-160697625.0
+MPARK,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-52796867.0
+MPARK,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,121027582.0
+MPARK,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+MPARK,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MPARK,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,121027582.0
+MPARK,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MPARK,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,76463030.0
+MPARK,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,170403718.0
+MPARK,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,223936460.0
+MPARK,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,48830090.0
+MPARK,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,13907379.0
+MPARK,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,89030843.0
+MPARK,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MPARK,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,6609304.0
+MPARK,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2023/3,1AF,Stoklar,Inventories,33935469.0
+MPARK,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MPARK,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,31623375.0
+MPARK,2023/3,1AI,(Ara Toplam),(Subtotal),223936460.0
+MPARK,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MPARK,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,273983781.0
+MPARK,2023/3,1B,Ticari Alacaklar,Trade Receivables,54879.0
+MPARK,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MPARK,2023/3,1BB,Diğer Alacaklar,Other Receivables,129249.0
+MPARK,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2023/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+MPARK,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MPARK,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MPARK,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MPARK,2023/3,1BFA,Stoklar,Stoklar,0.0
+MPARK,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,74697047.0
+MPARK,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,70869928.0
+MPARK,2023/3,1BGA,Şerefiye,Goodwill,1721771.0
+MPARK,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,52487883.0
+MPARK,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,37028007.0
+MPARK,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,36995018.0
+MPARK,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,497920241.0
+MPARK,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+MPARK,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,290948780.0
+MPARK,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,104098594.0
+MPARK,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,132518215.0
+MPARK,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,6464524.0
+MPARK,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MPARK,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MPARK,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MPARK,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,21273830.0
+MPARK,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),9243842.0
+MPARK,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,5343656.0
+MPARK,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,12006118.0
+MPARK,2023/3,2AAGG,(Ara Toplam),(Subtotal),290948780.0
+MPARK,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MPARK,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,109267295.0
+MPARK,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,86286078.0
+MPARK,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MPARK,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,15058006.0
+MPARK,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MPARK,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MPARK,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MPARK,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,3506603.0
+MPARK,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,4251243.0
+MPARK,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MPARK,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,165365.0
+MPARK,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MPARK,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,97704166.0
+MPARK,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,96905013.0
+MPARK,2023/3,2OA,Ödenmiş Sermaye,Share Capital,10842150.0
+MPARK,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MPARK,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,28985189.0
+MPARK,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MPARK,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MPARK,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,569372.0
+MPARK,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),76099032.0
+MPARK,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),12757377.0
+MPARK,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-32348107.0
+MPARK,2023/3,2ODA,Azınlık Payları,Minority Interests,799154.0
+MPARK,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,497920241.0
+MPARK,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MPARK,2023/3,3C,Satış Gelirleri,Net Sales,344818675.0
+MPARK,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-258952518.0
+MPARK,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MPARK,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,85866156.0
+MPARK,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MPARK,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MPARK,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MPARK,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),85866156.0
+MPARK,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),0.0
+MPARK,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-35639878.0
+MPARK,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MPARK,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,4715171.0
+MPARK,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-4945300.0
+MPARK,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MPARK,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,49996148.0
+MPARK,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,50226278.0
+MPARK,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,989378.0
+MPARK,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-241668.0
+MPARK,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MPARK,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MPARK,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,50743858.0
+MPARK,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),686631.0
+MPARK,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),9900710.0
+MPARK,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,747710.0
+MPARK,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,61331199.0
+MPARK,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-31769751.0
+MPARK,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-17306937.0
+MPARK,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-14462814.0
+MPARK,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MPARK,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,29561448.0
+MPARK,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MPARK,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MPARK,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,29561448.0
+MPARK,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MPARK,2023/3,3LB,Azınlık Payları,Minority Interests,1237238.0
+MPARK,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,28324210.0
+MPARK,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MPARK,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MPARK,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MPARK,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MPARK,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,26060439.0
+MPARK,2023/3,4BA,Kıdem Tazminatı,Severance Payments,4198967.0
+MPARK,2023/3,4BB,Finansman Giderleri,Financial Expenses,9900710.0
+MPARK,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+MPARK,2023/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MPARK,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,19100604.0
+MPARK,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,11684850.0
+MPARK,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),19100604.0
+MPARK,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,102390081.0
+MPARK,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,18163572.0
+MPARK,2023/3,4CAA,Düzeltmeler:,Adjustments:,29046462.0
+MPARK,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,24039977.0
+MPARK,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,-784547.0
+MPARK,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,5791032.0
+MPARK,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),47210034.0
+MPARK,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,78984919.0
+MPARK,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),126194953.0
+MPARK,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-23804872.0
+MPARK,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-11046701.0
+MPARK,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-17518278.0
+MPARK,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-28564978.0
+MPARK,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,73825103.0
+MPARK,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,3233989.0
+MPARK,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+MPARK,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MPARK,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-34038180.0
+MPARK,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-30804191.0
+MPARK,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,43020912.0
+MPARK,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-36317882.0
+MPARK,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MPARK,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,6703030.0
+MPARK,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MPARK,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,76854049.0
+MPARK,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,83557079.0
+MPARK,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,172752497.0
+MPARK,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,30462048.0
+MPARK,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3836549.0
+MPARK,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,79749126.0
+MPARK,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MPARK,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,5756332.0
+MPARK,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2023/6,1AF,Stoklar,Inventories,26143930.0
+MPARK,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MPARK,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,26804512.0
+MPARK,2023/6,1AI,(Ara Toplam),(Subtotal),172752497.0
+MPARK,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MPARK,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,213851934.0
+MPARK,2023/6,1B,Ticari Alacaklar,Trade Receivables,40704.0
+MPARK,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MPARK,2023/6,1BB,Diğer Alacaklar,Other Receivables,95286.0
+MPARK,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2023/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+MPARK,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MPARK,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MPARK,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MPARK,2023/6,1BFA,Stoklar,Stoklar,0.0
+MPARK,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,52447545.0
+MPARK,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,53291392.0
+MPARK,2023/6,1BGA,Şerefiye,Goodwill,1277059.0
+MPARK,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,39292915.0
+MPARK,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,32050901.0
+MPARK,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,35356132.0
+MPARK,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,386604431.0
+MPARK,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+MPARK,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,215638201.0
+MPARK,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,70849839.0
+MPARK,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,101440996.0
+MPARK,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,5126326.0
+MPARK,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MPARK,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MPARK,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MPARK,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,17892894.0
+MPARK,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5140590.0
+MPARK,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,3930753.0
+MPARK,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,11256803.0
+MPARK,2023/6,2AAGG,(Ara Toplam),(Subtotal),215638201.0
+MPARK,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MPARK,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,79264465.0
+MPARK,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,62794245.0
+MPARK,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MPARK,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,10890891.0
+MPARK,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MPARK,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MPARK,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MPARK,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,2120017.0
+MPARK,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,3002791.0
+MPARK,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MPARK,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,456520.0
+MPARK,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MPARK,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,91701766.0
+MPARK,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,89657397.0
+MPARK,2023/6,2OA,Ödenmiş Sermaye,Share Capital,8041756.0
+MPARK,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MPARK,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,21498670.0
+MPARK,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MPARK,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MPARK,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,422310.0
+MPARK,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),55540093.0
+MPARK,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),36023557.0
+MPARK,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-31868989.0
+MPARK,2023/6,2ODA,Azınlık Payları,Minority Interests,2044369.0
+MPARK,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,386604431.0
+MPARK,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MPARK,2023/6,3C,Satış Gelirleri,Net Sales,657071113.0
+MPARK,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-488493044.0
+MPARK,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MPARK,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,168578070.0
+MPARK,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MPARK,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MPARK,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MPARK,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),168578070.0
+MPARK,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),0.0
+MPARK,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-66141947.0
+MPARK,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MPARK,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,28755544.0
+MPARK,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-16222419.0
+MPARK,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MPARK,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,114969247.0
+MPARK,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,102436122.0
+MPARK,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,4351439.0
+MPARK,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-261252.0
+MPARK,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MPARK,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MPARK,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,119059434.0
+MPARK,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),2284604.0
+MPARK,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),4848539.0
+MPARK,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,4090187.0
+MPARK,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,126192577.0
+MPARK,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-39957056.0
+MPARK,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-20521132.0
+MPARK,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-19435924.0
+MPARK,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MPARK,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,86235521.0
+MPARK,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MPARK,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MPARK,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,86235521.0
+MPARK,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MPARK,2023/6,3LB,Azınlık Payları,Minority Interests,4412295.0
+MPARK,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,81823226.0
+MPARK,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MPARK,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MPARK,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MPARK,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MPARK,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,49115369.0
+MPARK,2023/6,4BA,Kıdem Tazminatı,Severance Payments,-1574734.0
+MPARK,2023/6,4BB,Finansman Giderleri,Financial Expenses,4848539.0
+MPARK,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+MPARK,2023/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MPARK,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,23452326.0
+MPARK,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,11123233.0
+MPARK,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),23452326.0
+MPARK,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,142837100.0
+MPARK,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,86235521.0
+MPARK,2023/6,4CAA,Düzeltmeler:,Adjustments:,34848224.0
+MPARK,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,49115369.0
+MPARK,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,-1545644.0
+MPARK,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,58006269.0
+MPARK,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),121083745.0
+MPARK,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,33924222.0
+MPARK,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),155007967.0
+MPARK,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-12170867.0
+MPARK,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-28394700.0
+MPARK,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-11012581.0
+MPARK,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-39407281.0
+MPARK,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,103429819.0
+MPARK,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-3702677.0
+MPARK,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-2426063.0
+MPARK,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MPARK,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-67687339.0
+MPARK,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-73816078.0
+MPARK,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-11203937.0
+MPARK,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+MPARK,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MPARK,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-11203937.0
+MPARK,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MPARK,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,79496806.0
+MPARK,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,68292869.0
+MPARK,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,205175527.0
+MPARK,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,42932765.0
+MPARK,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+MPARK,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,94502990.0
+MPARK,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MPARK,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,7186429.0
+MPARK,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2023/9,1AF,Stoklar,Inventories,30891016.0
+MPARK,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MPARK,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,29662328.0
+MPARK,2023/9,1AI,(Ara Toplam),(Subtotal),205175527.0
+MPARK,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MPARK,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,228185736.0
+MPARK,2023/9,1B,Ticari Alacaklar,Trade Receivables,38394.0
+MPARK,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MPARK,2023/9,1BB,Diğer Alacaklar,Other Receivables,87508.0
+MPARK,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2023/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+MPARK,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MPARK,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MPARK,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MPARK,2023/9,1BFA,Stoklar,Stoklar,0.0
+MPARK,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,52340006.0
+MPARK,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,68536899.0
+MPARK,2023/9,1BGA,Şerefiye,Goodwill,5384052.0
+MPARK,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,37084263.0
+MPARK,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,34626960.0
+MPARK,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,30087654.0
+MPARK,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,433361263.0
+MPARK,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+MPARK,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,260823999.0
+MPARK,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,94007985.0
+MPARK,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,121003610.0
+MPARK,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,5786516.0
+MPARK,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MPARK,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MPARK,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MPARK,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,19625757.0
+MPARK,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3858237.0
+MPARK,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,4268687.0
+MPARK,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,12273208.0
+MPARK,2023/9,2AAGG,(Ara Toplam),(Subtotal),260823999.0
+MPARK,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MPARK,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,76739007.0
+MPARK,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,60972034.0
+MPARK,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MPARK,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,10131736.0
+MPARK,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MPARK,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MPARK,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MPARK,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1608656.0
+MPARK,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,3675272.0
+MPARK,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MPARK,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,351309.0
+MPARK,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MPARK,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,95798257.0
+MPARK,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,91175673.0
+MPARK,2023/9,2OA,Ödenmiş Sermaye,Share Capital,7585393.0
+MPARK,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MPARK,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,20278641.0
+MPARK,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MPARK,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MPARK,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,413330.0
+MPARK,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),40232407.0
+MPARK,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),59104755.0
+MPARK,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-36438854.0
+MPARK,2023/9,2ODA,Azınlık Payları,Minority Interests,4622584.0
+MPARK,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,433361263.0
+MPARK,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MPARK,2023/9,3C,Satış Gelirleri,Net Sales,985612938.0
+MPARK,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-721372692.0
+MPARK,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MPARK,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,264240246.0
+MPARK,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MPARK,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MPARK,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MPARK,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),264240246.0
+MPARK,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),0.0
+MPARK,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-97670819.0
+MPARK,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MPARK,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,42295867.0
+MPARK,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-32888352.0
+MPARK,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MPARK,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,175976942.0
+MPARK,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,166569427.0
+MPARK,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,4728872.0
+MPARK,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-656788.0
+MPARK,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MPARK,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MPARK,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,180049026.0
+MPARK,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),4507194.0
+MPARK,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),14459330.0
+MPARK,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,4072084.0
+MPARK,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,199015551.0
+MPARK,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-60689031.0
+MPARK,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-26761216.0
+MPARK,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-33927815.0
+MPARK,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MPARK,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,138326519.0
+MPARK,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MPARK,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MPARK,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,138326519.0
+MPARK,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MPARK,2023/9,3LB,Azınlık Payları,Minority Interests,5806895.0
+MPARK,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,132519624.0
+MPARK,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MPARK,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MPARK,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MPARK,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MPARK,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,66266682.0
+MPARK,2023/9,4BA,Kıdem Tazminatı,Severance Payments,3435702.0
+MPARK,2023/9,4BB,Finansman Giderleri,Financial Expenses,14459330.0
+MPARK,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+MPARK,2023/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MPARK,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,13945342.0
+MPARK,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,1607283.0
+MPARK,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),13945342.0
+MPARK,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,193114597.0
+MPARK,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,138326519.0
+MPARK,2023/9,4CAA,Düzeltmeler:,Adjustments:,26556387.0
+MPARK,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,66266682.0
+MPARK,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,280103.0
+MPARK,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,81499066.0
+MPARK,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),164882906.0
+MPARK,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,45273170.0
+MPARK,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),210156076.0
+MPARK,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-17041479.0
+MPARK,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-69711799.0
+MPARK,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-11460450.0
+MPARK,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-81172249.0
+MPARK,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,111942348.0
+MPARK,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,23697513.0
+MPARK,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-2356958.0
+MPARK,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MPARK,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-88547056.0
+MPARK,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-67206501.0
+MPARK,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,2002977.0
+MPARK,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+MPARK,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MPARK,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,2002977.0
+MPARK,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MPARK,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,77233505.0
+MPARK,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,79236482.0
+MPARK,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,397039557.0
+MPARK,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,96798980.0
+MPARK,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+MPARK,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,216019690.0
+MPARK,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MPARK,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,12664862.0
+MPARK,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2024/12,1AF,Stoklar,Inventories,35619451.0
+MPARK,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MPARK,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,35936575.0
+MPARK,2024/12,1AI,(Ara Toplam),(Subtotal),397039557.0
+MPARK,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MPARK,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1281257537.0
+MPARK,2024/12,1B,Ticari Alacaklar,Trade Receivables,37369.0
+MPARK,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MPARK,2024/12,1BB,Diğer Alacaklar,Other Receivables,26459142.0
+MPARK,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2024/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+MPARK,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MPARK,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MPARK,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MPARK,2024/12,1BFA,Stoklar,Stoklar,0.0
+MPARK,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,446235531.0
+MPARK,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,275461138.0
+MPARK,2024/12,1BGA,Şerefiye,Goodwill,26248022.0
+MPARK,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,300106147.0
+MPARK,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,86538495.0
+MPARK,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,120171693.0
+MPARK,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1678297093.0
+MPARK,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+MPARK,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,467689279.0
+MPARK,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,144553734.0
+MPARK,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,212601267.0
+MPARK,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,14528394.0
+MPARK,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MPARK,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MPARK,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MPARK,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,57231974.0
+MPARK,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),12251279.0
+MPARK,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,8031670.0
+MPARK,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,18490961.0
+MPARK,2024/12,2AAGG,(Ara Toplam),(Subtotal),467689279.0
+MPARK,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MPARK,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,375439774.0
+MPARK,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,138960722.0
+MPARK,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MPARK,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,34501601.0
+MPARK,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MPARK,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MPARK,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MPARK,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,37369.0
+MPARK,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,7226260.0
+MPARK,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MPARK,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,194713822.0
+MPARK,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MPARK,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,835168040.0
+MPARK,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,802992032.0
+MPARK,2024/12,2OA,Ödenmiş Sermaye,Share Capital,5404399.0
+MPARK,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MPARK,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,135569057.0
+MPARK,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MPARK,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MPARK,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,3356637.0
+MPARK,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),390874968.0
+MPARK,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),184895203.0
+MPARK,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,81517450.0
+MPARK,2024/12,2ODA,Azınlık Payları,Minority Interests,32176009.0
+MPARK,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1678297093.0
+MPARK,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MPARK,2024/12,3C,Satış Gelirleri,Net Sales,1514391137.0
+MPARK,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-1100073324.0
+MPARK,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MPARK,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,414317813.0
+MPARK,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MPARK,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MPARK,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MPARK,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),414317813.0
+MPARK,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),0.0
+MPARK,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-128465670.0
+MPARK,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MPARK,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,29791971.0
+MPARK,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-43601878.0
+MPARK,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MPARK,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,272042236.0
+MPARK,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,285852143.0
+MPARK,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,70404553.0
+MPARK,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-229849.0
+MPARK,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MPARK,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MPARK,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,342216940.0
+MPARK,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),26084930.0
+MPARK,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-72837847.0
+MPARK,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,70174704.0
+MPARK,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,295464023.0
+MPARK,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-74703577.0
+MPARK,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-35973171.0
+MPARK,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-38730406.0
+MPARK,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MPARK,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,220760446.0
+MPARK,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MPARK,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,220760446.0
+MPARK,2024/12,3LB,Azınlık Payları,Minority Interests,21969472.0
+MPARK,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,198790973.0
+MPARK,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MPARK,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MPARK,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MPARK,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MPARK,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,103454436.0
+MPARK,2024/12,4BA,Kıdem Tazminatı,Severance Payments,543335.0
+MPARK,2024/12,4BB,Finansman Giderleri,Financial Expenses,-72837847.0
+MPARK,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+MPARK,2024/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MPARK,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,46204392.0
+MPARK,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,38484646.0
+MPARK,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),46204392.0
+MPARK,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,291608633.0
+MPARK,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,220760446.0
+MPARK,2024/12,4CAA,Düzeltmeler:,Adjustments:,83699436.0
+MPARK,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,103454436.0
+MPARK,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,1780071.0
+MPARK,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,73820696.0
+MPARK,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),304459882.0
+MPARK,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,24137776.0
+MPARK,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),328597658.0
+MPARK,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-36989025.0
+MPARK,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-133937748.0
+MPARK,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1138753.0
+MPARK,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-135076501.0
+MPARK,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,156532132.0
+MPARK,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-14671002.0
+MPARK,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-7485586.0
+MPARK,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MPARK,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-137609381.0
+MPARK,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-159765968.0
+MPARK,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-3233836.0
+MPARK,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+MPARK,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MPARK,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-3233836.0
+MPARK,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MPARK,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,154929523.0
+MPARK,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,104073892.0
+MPARK,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,285941485.0
+MPARK,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,79043551.0
+MPARK,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+MPARK,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,137296436.0
+MPARK,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MPARK,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,7144195.0
+MPARK,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2024/3,1AF,Stoklar,Inventories,39650719.0
+MPARK,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MPARK,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,22806583.0
+MPARK,2024/3,1AI,(Ara Toplam),(Subtotal),285941485.0
+MPARK,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MPARK,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,731061910.0
+MPARK,2024/3,1B,Ticari Alacaklar,Trade Receivables,32557.0
+MPARK,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MPARK,2024/3,1BB,Diğer Alacaklar,Other Receivables,9217187.0
+MPARK,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2024/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+MPARK,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MPARK,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MPARK,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MPARK,2024/3,1BFA,Stoklar,Stoklar,0.0
+MPARK,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,296512355.0
+MPARK,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,134212209.0
+MPARK,2024/3,1BGA,Şerefiye,Goodwill,18224533.0
+MPARK,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,141088407.0
+MPARK,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,41603934.0
+MPARK,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,90170729.0
+MPARK,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1017003395.0
+MPARK,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+MPARK,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,299875740.0
+MPARK,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,82654559.0
+MPARK,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,145832128.0
+MPARK,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,12644356.0
+MPARK,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MPARK,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MPARK,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MPARK,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,29601652.0
+MPARK,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),7334372.0
+MPARK,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,5268214.0
+MPARK,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,16540459.0
+MPARK,2024/3,2AAGG,(Ara Toplam),(Subtotal),299875740.0
+MPARK,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MPARK,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,248370620.0
+MPARK,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,108385616.0
+MPARK,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MPARK,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,8253472.0
+MPARK,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MPARK,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MPARK,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MPARK,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,712351.0
+MPARK,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,5152457.0
+MPARK,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MPARK,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,125866725.0
+MPARK,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MPARK,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,468757034.0
+MPARK,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,461464401.0
+MPARK,2024/3,2OA,Ödenmiş Sermaye,Share Capital,6432092.0
+MPARK,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MPARK,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,94128297.0
+MPARK,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MPARK,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MPARK,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2330569.0
+MPARK,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),341256817.0
+MPARK,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),21116635.0
+MPARK,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-3800010.0
+MPARK,2024/3,2ODA,Azınlık Payları,Minority Interests,7292633.0
+MPARK,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1017003395.0
+MPARK,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MPARK,2024/3,3C,Satış Gelirleri,Net Sales,355079561.0
+MPARK,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-262496326.0
+MPARK,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MPARK,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,92583235.0
+MPARK,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MPARK,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MPARK,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MPARK,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),92583235.0
+MPARK,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),0.0
+MPARK,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-28936072.0
+MPARK,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MPARK,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,12838649.0
+MPARK,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-12305291.0
+MPARK,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MPARK,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,64180521.0
+MPARK,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,63647162.0
+MPARK,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,9625.0
+MPARK,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+MPARK,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MPARK,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MPARK,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,64190146.0
+MPARK,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),5568077.0
+MPARK,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),20837022.0
+MPARK,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,9625.0
+MPARK,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,90595245.0
+MPARK,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-57054391.0
+MPARK,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-7751412.0
+MPARK,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-49302978.0
+MPARK,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MPARK,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,33540854.0
+MPARK,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MPARK,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MPARK,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,33540854.0
+MPARK,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MPARK,2024/3,3LB,Azınlık Payları,Minority Interests,3075087.0
+MPARK,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,30465767.0
+MPARK,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MPARK,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MPARK,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MPARK,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MPARK,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,27074114.0
+MPARK,2024/3,4BA,Kıdem Tazminatı,Severance Payments,1018365.0
+MPARK,2024/3,4BB,Finansman Giderleri,Financial Expenses,20837022.0
+MPARK,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+MPARK,2024/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MPARK,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,32025145.0
+MPARK,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,23535823.0
+MPARK,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),32025145.0
+MPARK,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,82301689.0
+MPARK,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,33540854.0
+MPARK,2024/3,4CAA,Düzeltmeler:,Adjustments:,48909637.0
+MPARK,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,27074114.0
+MPARK,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,1558506.0
+MPARK,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,44078275.0
+MPARK,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),82450491.0
+MPARK,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,10938514.0
+MPARK,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),93389005.0
+MPARK,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-11087317.0
+MPARK,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-5902536.0
+MPARK,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-10844426.0
+MPARK,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-16746962.0
+MPARK,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,65554727.0
+MPARK,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-24062754.0
+MPARK,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+MPARK,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MPARK,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-52903413.0
+MPARK,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-76966167.0
+MPARK,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-30308760.0
+MPARK,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+MPARK,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MPARK,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-30308760.0
+MPARK,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MPARK,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,144347710.0
+MPARK,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,114038950.0
+MPARK,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,281776690.0
+MPARK,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,72097350.0
+MPARK,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+MPARK,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,149968588.0
+MPARK,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MPARK,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,8237541.0
+MPARK,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2024/6,1AF,Stoklar,Inventories,29570021.0
+MPARK,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MPARK,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,21903191.0
+MPARK,2024/6,1AI,(Ara Toplam),(Subtotal),281776690.0
+MPARK,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MPARK,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,801284586.0
+MPARK,2024/6,1B,Ticari Alacaklar,Trade Receivables,32020.0
+MPARK,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MPARK,2024/6,1BB,Diğer Alacaklar,Other Receivables,12142629.0
+MPARK,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2024/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+MPARK,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MPARK,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MPARK,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MPARK,2024/6,1BFA,Stoklar,Stoklar,0.0
+MPARK,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,300784636.0
+MPARK,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,145955396.0
+MPARK,2024/6,1BGA,Şerefiye,Goodwill,19430840.0
+MPARK,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,176288737.0
+MPARK,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,59527175.0
+MPARK,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,87123152.0
+MPARK,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1083061277.0
+MPARK,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+MPARK,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,316672738.0
+MPARK,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,116859265.0
+MPARK,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,142358987.0
+MPARK,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,8763186.0
+MPARK,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MPARK,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MPARK,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MPARK,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,21532387.0
+MPARK,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5026592.0
+MPARK,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,5661192.0
+MPARK,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,16471128.0
+MPARK,2024/6,2AAGG,(Ara Toplam),(Subtotal),316672738.0
+MPARK,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MPARK,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,232048392.0
+MPARK,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,76773543.0
+MPARK,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MPARK,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,10060787.0
+MPARK,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MPARK,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MPARK,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MPARK,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,390935.0
+MPARK,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,5386297.0
+MPARK,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MPARK,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,139436830.0
+MPARK,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MPARK,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,534340146.0
+MPARK,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,518063025.0
+MPARK,2024/6,2OA,Ödenmiş Sermaye,Share Capital,6326140.0
+MPARK,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MPARK,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,100358823.0
+MPARK,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MPARK,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MPARK,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2484849.0
+MPARK,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),363624325.0
+MPARK,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),54467042.0
+MPARK,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-9198152.0
+MPARK,2024/6,2ODA,Azınlık Payları,Minority Interests,16277121.0
+MPARK,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1083061277.0
+MPARK,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MPARK,2024/6,3C,Satış Gelirleri,Net Sales,697433274.0
+MPARK,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-519405587.0
+MPARK,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MPARK,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,178027687.0
+MPARK,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MPARK,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MPARK,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MPARK,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),178027687.0
+MPARK,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),0.0
+MPARK,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-57173076.0
+MPARK,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MPARK,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,15852606.0
+MPARK,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-21695924.0
+MPARK,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MPARK,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,115011292.0
+MPARK,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,120854610.0
+MPARK,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,35063515.0
+MPARK,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-240940.0
+MPARK,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MPARK,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MPARK,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,149833866.0
+MPARK,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),11278976.0
+MPARK,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-24758957.0
+MPARK,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,34822574.0
+MPARK,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,136353886.0
+MPARK,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-48573127.0
+MPARK,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-11872963.0
+MPARK,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-36700164.0
+MPARK,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MPARK,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,87780759.0
+MPARK,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MPARK,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MPARK,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,87780759.0
+MPARK,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MPARK,2024/6,3LB,Azınlık Payları,Minority Interests,11284985.0
+MPARK,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,76495774.0
+MPARK,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MPARK,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MPARK,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MPARK,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MPARK,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,54324199.0
+MPARK,2024/6,4BA,Kıdem Tazminatı,Severance Payments,578396.0
+MPARK,2024/6,4BB,Finansman Giderleri,Financial Expenses,-24758957.0
+MPARK,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+MPARK,2024/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MPARK,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,38017541.0
+MPARK,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,26431024.0
+MPARK,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),38017541.0
+MPARK,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,115535896.0
+MPARK,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,87780759.0
+MPARK,2024/6,4CAA,Düzeltmeler:,Adjustments:,61973131.0
+MPARK,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,54324199.0
+MPARK,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,1585008.0
+MPARK,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,50067880.0
+MPARK,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),149753890.0
+MPARK,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-16114640.0
+MPARK,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),133639251.0
+MPARK,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-18103354.0
+MPARK,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-32617048.0
+MPARK,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,1474515.0
+MPARK,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-31142533.0
+MPARK,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,84393363.0
+MPARK,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-14905510.0
+MPARK,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-310354.0
+MPARK,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MPARK,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-88029858.0
+MPARK,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-103245723.0
+MPARK,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-18852360.0
+MPARK,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+MPARK,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MPARK,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-18852360.0
+MPARK,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MPARK,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,149817232.0
+MPARK,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,101256407.0
+MPARK,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,334911314.0
+MPARK,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,99227792.0
+MPARK,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+MPARK,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,170593023.0
+MPARK,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MPARK,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,9674366.0
+MPARK,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2024/9,1AF,Stoklar,Inventories,28461142.0
+MPARK,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MPARK,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,26954992.0
+MPARK,2024/9,1AI,(Ara Toplam),(Subtotal),334911314.0
+MPARK,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MPARK,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,939916361.0
+MPARK,2024/9,1B,Ticari Alacaklar,Trade Receivables,30805.0
+MPARK,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MPARK,2024/9,1BB,Diğer Alacaklar,Other Receivables,14257529.0
+MPARK,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2024/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+MPARK,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MPARK,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MPARK,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MPARK,2024/9,1BFA,Stoklar,Stoklar,0.0
+MPARK,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,303940145.0
+MPARK,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,193851357.0
+MPARK,2024/9,1BGA,Şerefiye,Goodwill,20360828.0
+MPARK,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,238563914.0
+MPARK,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,72181877.0
+MPARK,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,96729906.0
+MPARK,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1274827675.0
+MPARK,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+MPARK,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,384488203.0
+MPARK,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,128613501.0
+MPARK,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,166501777.0
+MPARK,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,12624355.0
+MPARK,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MPARK,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MPARK,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MPARK,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,47676413.0
+MPARK,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),8398332.0
+MPARK,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,5950501.0
+MPARK,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,14723323.0
+MPARK,2024/9,2AAGG,(Ara Toplam),(Subtotal),384488203.0
+MPARK,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MPARK,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,269982944.0
+MPARK,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,81096643.0
+MPARK,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MPARK,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,29215417.0
+MPARK,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MPARK,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MPARK,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MPARK,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,74892.0
+MPARK,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,5599210.0
+MPARK,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MPARK,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,153996782.0
+MPARK,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MPARK,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,620356527.0
+MPARK,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,599913113.0
+MPARK,2024/9,2OA,Ödenmiş Sermaye,Share Capital,6086067.0
+MPARK,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MPARK,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,105162115.0
+MPARK,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MPARK,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MPARK,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2603759.0
+MPARK,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),377605412.0
+MPARK,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),118239187.0
+MPARK,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-9783427.0
+MPARK,2024/9,2ODA,Azınlık Payları,Minority Interests,20443414.0
+MPARK,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1274827675.0
+MPARK,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MPARK,2024/9,3C,Satış Gelirleri,Net Sales,1138430204.0
+MPARK,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-829960409.0
+MPARK,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MPARK,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,308469796.0
+MPARK,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MPARK,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MPARK,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MPARK,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),308469796.0
+MPARK,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),0.0
+MPARK,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-94854616.0
+MPARK,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MPARK,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,25998017.0
+MPARK,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-32919238.0
+MPARK,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MPARK,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,206693959.0
+MPARK,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,213615180.0
+MPARK,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,71726332.0
+MPARK,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-241945.0
+MPARK,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MPARK,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MPARK,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,278178346.0
+MPARK,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
+MPARK,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-34409851.0
+MPARK,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,71484387.0
+MPARK,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,243768494.0
+MPARK,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-60208271.0
+MPARK,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-23945601.0
+MPARK,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-36262670.0
+MPARK,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MPARK,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,183560223.0
+MPARK,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MPARK,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MPARK,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,183560223.0
+MPARK,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MPARK,2024/9,3LB,Azınlık Payları,Minority Interests,16665551.0
+MPARK,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,166894672.0
+MPARK,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MPARK,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MPARK,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MPARK,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MPARK,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,79064684.0
+MPARK,2024/9,4BA,Kıdem Tazminatı,Severance Payments,-271561.0
+MPARK,2024/9,4BB,Finansman Giderleri,Financial Expenses,-34409851.0
+MPARK,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+MPARK,2024/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MPARK,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,21806815.0
+MPARK,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,24955793.0
+MPARK,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),21806815.0
+MPARK,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,248429833.0
+MPARK,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,183560223.0
+MPARK,2024/9,4CAA,Düzeltmeler:,Adjustments:,28985347.0
+MPARK,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,79064684.0
+MPARK,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,1422088.0
+MPARK,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,29116419.0
+MPARK,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),212545570.0
+MPARK,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,60571221.0
+MPARK,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),273116791.0
+MPARK,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-24686958.0
+MPARK,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-101219021.0
+MPARK,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-6114746.0
+MPARK,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-107333767.0
+MPARK,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,141096066.0
+MPARK,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,4705204.0
+MPARK,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-5157497.0
+MPARK,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MPARK,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-116715304.0
+MPARK,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-117167596.0
+MPARK,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,23928470.0
+MPARK,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+MPARK,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MPARK,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,23928470.0
+MPARK,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MPARK,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,157776673.0
+MPARK,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,140060037.0
+MPARK,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,365154532.0
+MPARK,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,95543233.0
+MPARK,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+MPARK,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,202410602.0
+MPARK,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MPARK,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,11177363.0
+MPARK,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2025/3,1AF,Stoklar,Inventories,23845646.0
+MPARK,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MPARK,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,32177688.0
+MPARK,2025/3,1AI,(Ara Toplam),(Subtotal),365154532.0
+MPARK,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MPARK,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1119447926.0
+MPARK,2025/3,1B,Ticari Alacaklar,Trade Receivables,27832.0
+MPARK,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MPARK,2025/3,1BB,Diğer Alacaklar,Other Receivables,26063695.0
+MPARK,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2025/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+MPARK,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MPARK,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MPARK,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MPARK,2025/3,1BFA,Stoklar,Stoklar,0.0
+MPARK,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,408052900.0
+MPARK,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,232227908.0
+MPARK,2025/3,1BGA,Şerefiye,Goodwill,21516479.0
+MPARK,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,246601443.0
+MPARK,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,69450807.0
+MPARK,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,115506863.0
+MPARK,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1484602458.0
+MPARK,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+MPARK,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,371018986.0
+MPARK,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,84708633.0
+MPARK,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,172596230.0
+MPARK,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,10495986.0
+MPARK,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MPARK,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MPARK,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MPARK,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,52680230.0
+MPARK,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),19598242.0
+MPARK,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,7462712.0
+MPARK,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,23476953.0
+MPARK,2025/3,2AAGG,(Ara Toplam),(Subtotal),371018986.0
+MPARK,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MPARK,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,394156823.0
+MPARK,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,194281791.0
+MPARK,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MPARK,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,26984963.0
+MPARK,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MPARK,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MPARK,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MPARK,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,27806.0
+MPARK,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,6995113.0
+MPARK,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MPARK,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,165867150.0
+MPARK,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MPARK,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,719426649.0
+MPARK,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,690251654.0
+MPARK,2025/3,2OA,Ödenmiş Sermaye,Share Capital,5048726.0
+MPARK,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MPARK,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,111131055.0
+MPARK,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MPARK,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+MPARK,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2753920.0
+MPARK,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),471978131.0
+MPARK,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),30918625.0
+MPARK,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,68421196.0
+MPARK,2025/3,2ODA,Azınlık Payları,Minority Interests,29174995.0
+MPARK,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1484602458.0
+MPARK,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MPARK,2025/3,3C,Satış Gelirleri,Net Sales,324204416.0
+MPARK,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-235048165.0
+MPARK,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MPARK,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,89156251.0
+MPARK,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MPARK,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MPARK,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MPARK,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),89156251.0
+MPARK,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),0.0
+MPARK,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-29726473.0
+MPARK,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MPARK,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,14294581.0
+MPARK,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-11474307.0
+MPARK,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MPARK,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,62250052.0
+MPARK,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,59429778.0
+MPARK,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,6123.0
+MPARK,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-57756.0
+MPARK,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MPARK,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MPARK,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,62198418.0
+MPARK,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),6467287.0
+MPARK,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-15016261.0
+MPARK,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-51633.0
+MPARK,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,53649445.0
+MPARK,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-18464160.0
+MPARK,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-10925455.0
+MPARK,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-7538705.0
+MPARK,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MPARK,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,35185284.0
+MPARK,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MPARK,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MPARK,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,35185284.0
+MPARK,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MPARK,2025/3,3LB,Azınlık Payları,Minority Interests,2920948.0
+MPARK,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,32264336.0
+MPARK,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MPARK,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MPARK,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MPARK,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MPARK,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,21768441.0
+MPARK,2025/3,4BA,Kıdem Tazminatı,Severance Payments,1617484.0
+MPARK,2025/3,4BB,Finansman Giderleri,Financial Expenses,-15016261.0
+MPARK,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+MPARK,2025/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MPARK,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-4992043.0
+MPARK,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-39503392.0
+MPARK,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-4992236.0
+MPARK,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,64197994.0
+MPARK,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,35185284.0
+MPARK,2025/3,4CAA,Düzeltmeler:,Adjustments:,48233413.0
+MPARK,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,21768441.0
+MPARK,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,2571927.0
+MPARK,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,29191688.0
+MPARK,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),83418697.0
+MPARK,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-7953233.0
+MPARK,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),75465465.0
+MPARK,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-11267471.0
+MPARK,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-21278946.0
+MPARK,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-17615770.0
+MPARK,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-38894715.0
+MPARK,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,25303279.0
+MPARK,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,31140320.0
+MPARK,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+MPARK,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MPARK,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-31494995.0
+MPARK,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-354675.0
+MPARK,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,17378069.0
+MPARK,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-479759.0
+MPARK,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MPARK,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,16898310.0
+MPARK,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MPARK,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,82803373.0
+MPARK,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,99701683.0
+MPARK,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,484714888.0
+MPARK,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,220696090.0
+MPARK,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+MPARK,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,191544092.0
+MPARK,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MPARK,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,12439014.0
+MPARK,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2025/6,1AF,Stoklar,Inventories,28240699.0
+MPARK,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MPARK,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,31794994.0
+MPARK,2025/6,1AI,(Ara Toplam),(Subtotal),484714888.0
+MPARK,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MPARK,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1169120626.0
+MPARK,2025/6,1B,Ticari Alacaklar,Trade Receivables,26449.0
+MPARK,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MPARK,2025/6,1BB,Diğer Alacaklar,Other Receivables,32358511.0
+MPARK,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2025/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+MPARK,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MPARK,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MPARK,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MPARK,2025/6,1BFA,Stoklar,Stoklar,0.0
+MPARK,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,405754639.0
+MPARK,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,258013760.0
+MPARK,2025/6,1BGA,Şerefiye,Goodwill,21675307.0
+MPARK,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,249009203.0
+MPARK,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,66758095.0
+MPARK,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,135524661.0
+MPARK,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1653835514.0
+MPARK,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+MPARK,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,309797199.0
+MPARK,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,46516035.0
+MPARK,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,175381866.0
+MPARK,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,10409470.0
+MPARK,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MPARK,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MPARK,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MPARK,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,46076222.0
+MPARK,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),6355834.0
+MPARK,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,7401689.0
+MPARK,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,17656082.0
+MPARK,2025/6,2AAGG,(Ara Toplam),(Subtotal),309797199.0
+MPARK,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MPARK,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,597170454.0
+MPARK,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,395175297.0
+MPARK,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MPARK,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,26732375.0
+MPARK,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MPARK,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MPARK,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MPARK,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,26449.0
+MPARK,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,7117858.0
+MPARK,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MPARK,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,168118476.0
+MPARK,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MPARK,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,746867860.0
+MPARK,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,715224252.0
+MPARK,2025/6,2OA,Ödenmiş Sermaye,Share Capital,4797802.0
+MPARK,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MPARK,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,111951327.0
+MPARK,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MPARK,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1004134.0
+MPARK,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2775593.0
+MPARK,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),470216365.0
+MPARK,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),57381595.0
+MPARK,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,69105706.0
+MPARK,2025/6,2ODA,Azınlık Payları,Minority Interests,31643609.0
+MPARK,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1653835514.0
+MPARK,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MPARK,2025/6,3C,Satış Gelirleri,Net Sales,649111121.0
+MPARK,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-476235120.0
+MPARK,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MPARK,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,172876001.0
+MPARK,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MPARK,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MPARK,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MPARK,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),172876001.0
+MPARK,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),0.0
+MPARK,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-57973084.0
+MPARK,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MPARK,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,32325258.0
+MPARK,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-27784194.0
+MPARK,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MPARK,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,119443981.0
+MPARK,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,114902916.0
+MPARK,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,7523.0
+MPARK,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-48848.0
+MPARK,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MPARK,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MPARK,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,119402656.0
+MPARK,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),13717394.0
+MPARK,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-36969754.0
+MPARK,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-41325.0
+MPARK,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,96150296.0
+MPARK,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-29815662.0
+MPARK,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-17389335.0
+MPARK,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-12426327.0
+MPARK,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MPARK,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,66334634.0
+MPARK,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MPARK,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MPARK,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,66334634.0
+MPARK,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MPARK,2025/6,3LB,Azınlık Payları,Minority Interests,5388206.0
+MPARK,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,60946428.0
+MPARK,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MPARK,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MPARK,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MPARK,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MPARK,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,45633435.0
+MPARK,2025/6,4BA,Kıdem Tazminatı,Severance Payments,1054644.0
+MPARK,2025/6,4BB,Finansman Giderleri,Financial Expenses,-36969754.0
+MPARK,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+MPARK,2025/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MPARK,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-18159563.0
+MPARK,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-71071517.0
+MPARK,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-18159589.0
+MPARK,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,102013535.0
+MPARK,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,66334634.0
+MPARK,2025/6,4CAA,Düzeltmeler:,Adjustments:,80069342.0
+MPARK,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,45633435.0
+MPARK,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,2661795.0
+MPARK,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,48330606.0
+MPARK,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),146403976.0
+MPARK,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-24294225.0
+MPARK,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),122109751.0
+MPARK,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-20096217.0
+MPARK,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-61796211.0
+MPARK,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-38365640.0
+MPARK,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-100161851.0
+MPARK,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,1851684.0
+MPARK,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,223923039.0
+MPARK,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-5569991.0
+MPARK,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MPARK,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-57495811.0
+MPARK,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,160857237.0
+MPARK,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,162708921.0
+MPARK,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-1070198.0
+MPARK,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MPARK,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,161638723.0
+MPARK,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MPARK,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,84901413.0
+MPARK,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,234406843.0
+MPARK,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,479622814.0
+MPARK,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,188689108.0
+MPARK,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+MPARK,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,203287367.0
+MPARK,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+MPARK,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,14782235.0
+MPARK,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2025/9,1AF,Stoklar,Inventories,24171893.0
+MPARK,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+MPARK,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,48692210.0
+MPARK,2025/9,1AI,(Ara Toplam),(Subtotal),479622814.0
+MPARK,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+MPARK,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1279223767.0
+MPARK,2025/9,1B,Ticari Alacaklar,Trade Receivables,25324.0
+MPARK,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+MPARK,2025/9,1BB,Diğer Alacaklar,Other Receivables,36474306.0
+MPARK,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+MPARK,2025/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+MPARK,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+MPARK,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+MPARK,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+MPARK,2025/9,1BFA,Stoklar,Stoklar,0.0
+MPARK,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,417818747.0
+MPARK,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,308861756.0
+MPARK,2025/9,1BGA,Şerefiye,Goodwill,22310469.0
+MPARK,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,283433321.0
+MPARK,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,72081161.0
+MPARK,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,138218683.0
+MPARK,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1758846581.0
+MPARK,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+MPARK,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,301157387.0
+MPARK,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,55273150.0
+MPARK,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,175724142.0
+MPARK,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,9670816.0
+MPARK,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+MPARK,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+MPARK,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+MPARK,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,31626873.0
+MPARK,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),6674298.0
+MPARK,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,6795794.0
+MPARK,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,15392313.0
+MPARK,2025/9,2AAGG,(Ara Toplam),(Subtotal),301157387.0
+MPARK,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+MPARK,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,646100294.0
+MPARK,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,427104657.0
+MPARK,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+MPARK,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+MPARK,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,26627787.0
+MPARK,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+MPARK,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+MPARK,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+MPARK,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,25324.0
+MPARK,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,6706428.0
+MPARK,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+MPARK,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,185636099.0
+MPARK,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+MPARK,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,811588900.0
+MPARK,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,773905045.0
+MPARK,2025/9,2OA,Ödenmiş Sermaye,Share Capital,4593666.0
+MPARK,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+MPARK,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,115231881.0
+MPARK,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+MPARK,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1286002.0
+MPARK,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2853089.0
+MPARK,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),483420816.0
+MPARK,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),97996133.0
+MPARK,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,71095460.0
+MPARK,2025/9,2ODA,Azınlık Payları,Minority Interests,37683855.0
+MPARK,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1758846581.0
+MPARK,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+MPARK,2025/9,3C,Satış Gelirleri,Net Sales,1015111181.0
+MPARK,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-731818350.0
+MPARK,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+MPARK,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,283292831.0
+MPARK,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+MPARK,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+MPARK,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+MPARK,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+MPARK,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),283292831.0
+MPARK,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),0.0
+MPARK,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-88095224.0
+MPARK,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+MPARK,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,39692002.0
+MPARK,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-41282853.0
+MPARK,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+MPARK,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,193606756.0
+MPARK,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,195197607.0
+MPARK,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,10767194.0
+MPARK,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-52902.0
+MPARK,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+MPARK,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+MPARK,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,204321047.0
+MPARK,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
+MPARK,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-39024355.0
+MPARK,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,10714291.0
+MPARK,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,165296693.0
+MPARK,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-48710310.0
+MPARK,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-25686683.0
+MPARK,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-23023627.0
+MPARK,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+MPARK,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,116586383.0
+MPARK,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+MPARK,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+MPARK,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,116586383.0
+MPARK,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+MPARK,2025/9,3LB,Azınlık Payları,Minority Interests,11122266.0
+MPARK,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,105464116.0
+MPARK,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+MPARK,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+MPARK,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+MPARK,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+MPARK,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,75395384.0
+MPARK,2025/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+MPARK,2025/9,4BB,Finansman Giderleri,Financial Expenses,-39024355.0
+MPARK,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+MPARK,2025/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+MPARK,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-84518333.0
+MPARK,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-146834217.0
+MPARK,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-84518333.0
+MPARK,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,133508503.0
+MPARK,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,116586383.0
+MPARK,2025/9,4CAA,Düzeltmeler:,Adjustments:,105502861.0
+MPARK,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,75395384.0
+MPARK,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,2768706.0
+MPARK,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,49843416.0
+MPARK,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),222089244.0
+MPARK,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-59654743.0
+MPARK,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),162434501.0
+MPARK,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-28925999.0
+MPARK,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-147778851.0
+MPARK,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-38455913.0
+MPARK,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-186234764.0
+MPARK,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,-52726261.0
+MPARK,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,271817693.0
+MPARK,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-6431525.0
+MPARK,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+MPARK,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-78799282.0
+MPARK,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,186586885.0
+MPARK,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,133860625.0
+MPARK,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-1387834.0
+MPARK,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+MPARK,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,132472791.0
+MPARK,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+MPARK,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,88547949.0
+MPARK,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,203068523.0

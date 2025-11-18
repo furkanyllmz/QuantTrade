@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+ULKER,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,2230045590.0
+ULKER,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,814086056.0
+ULKER,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,18516015.0
+ULKER,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,649903000.0
+ULKER,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ULKER,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,137011691.0
+ULKER,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2022/12,1AF,Stoklar,Inventories,454643605.0
+ULKER,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ULKER,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,155885223.0
+ULKER,2022/12,1AI,(Ara Toplam),(Subtotal),2230045590.0
+ULKER,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ULKER,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1301300342.0
+ULKER,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+ULKER,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ULKER,2022/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+ULKER,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2022/12,1BC,Finansal Yatırımlar,Financial Investments,236375400.0
+ULKER,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ULKER,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ULKER,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ULKER,2022/12,1BFA,Stoklar,Stoklar,0.0
+ULKER,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ULKER,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,784912076.0
+ULKER,2022/12,1BGA,Şerefiye,Goodwill,98713432.0
+ULKER,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,79014841.0
+ULKER,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,90945921.0
+ULKER,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,11338672.0
+ULKER,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3531345932.0
+ULKER,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ULKER,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1485467542.0
+ULKER,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1002912823.0
+ULKER,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,366038917.0
+ULKER,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,266069.0
+ULKER,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ULKER,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ULKER,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ULKER,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,7235853.0
+ULKER,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),23042281.0
+ULKER,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,53673713.0
+ULKER,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,32297886.0
+ULKER,2022/12,2AAGG,(Ara Toplam),(Subtotal),1485467542.0
+ULKER,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ULKER,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1210777226.0
+ULKER,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,1086270767.0
+ULKER,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ULKER,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ULKER,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ULKER,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ULKER,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ULKER,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ULKER,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,67183643.0
+ULKER,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ULKER,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,57322817.0
+ULKER,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ULKER,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,835101164.0
+ULKER,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,642529255.0
+ULKER,2022/12,2OA,Ödenmiş Sermaye,Share Capital,18257527.0
+ULKER,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ULKER,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ULKER,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ULKER,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-56849829.0
+ULKER,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,75099509.0
+ULKER,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),866684284.0
+ULKER,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),52572763.0
+ULKER,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-313234999.0
+ULKER,2022/12,2ODA,Azınlık Payları,Minority Interests,192571909.0
+ULKER,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3531345932.0
+ULKER,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ULKER,2022/12,3C,Satış Gelirleri,Net Sales,3128569033.0
+ULKER,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2446764477.0
+ULKER,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ULKER,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,681804556.0
+ULKER,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ULKER,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ULKER,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ULKER,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),681804556.0
+ULKER,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-264197302.0
+ULKER,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-74556858.0
+ULKER,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-9909654.0
+ULKER,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,144553082.0
+ULKER,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-52896806.0
+ULKER,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ULKER,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,424797018.0
+ULKER,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,333140742.0
+ULKER,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,470154376.0
+ULKER,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-195456510.0
+ULKER,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ULKER,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ULKER,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,699494884.0
+ULKER,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),20443261.0
+ULKER,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-637302328.0
+ULKER,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,274697867.0
+ULKER,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,82635818.0
+ULKER,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,3401202.0
+ULKER,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-78285776.0
+ULKER,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,81686977.0
+ULKER,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ULKER,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,86037019.0
+ULKER,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ULKER,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ULKER,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,86037019.0
+ULKER,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ULKER,2022/12,3LB,Azınlık Payları,Minority Interests,26765737.0
+ULKER,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,59271283.0
+ULKER,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ULKER,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ULKER,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ULKER,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ULKER,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,70283855.0
+ULKER,2022/12,4BA,Kıdem Tazminatı,Severance Payments,9908390.0
+ULKER,2022/12,4BB,Finansman Giderleri,Financial Expenses,-637302328.0
+ULKER,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,3452899729.0
+ULKER,2022/12,4BD,Yurtdışı Satışlar,Export Sales,670267639.0
+ULKER,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1209537529.0
+ULKER,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1256625912.0
+ULKER,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-659846400.0
+ULKER,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,242057322.0
+ULKER,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,86037019.0
+ULKER,2022/12,4CAA,Düzeltmeler:,Adjustments:,551464887.0
+ULKER,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,70283855.0
+ULKER,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,27503684.0
+ULKER,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,453677348.0
+ULKER,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),637501906.0
+ULKER,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-300628335.0
+ULKER,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),336873572.0
+ULKER,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-94816249.0
+ULKER,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-68999895.0
+ULKER,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,691129497.0
+ULKER,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,622129602.0
+ULKER,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,864186924.0
+ULKER,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-120389691.0
+ULKER,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-11963158.0
+ULKER,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ULKER,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-242746939.0
+ULKER,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-375099788.0
+ULKER,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,489087136.0
+ULKER,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-60786419.0
+ULKER,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ULKER,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,428300717.0
+ULKER,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ULKER,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,489511511.0
+ULKER,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,917812228.0
+ULKER,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,1429028677.0
+ULKER,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,203574385.0
+ULKER,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,432714427.0
+ULKER,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,399363931.0
+ULKER,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ULKER,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,64712313.0
+ULKER,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2022/3,1AF,Stoklar,Inventories,255388754.0
+ULKER,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ULKER,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,73274866.0
+ULKER,2022/3,1AI,(Ara Toplam),(Subtotal),1429028677.0
+ULKER,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ULKER,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,532350530.0
+ULKER,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+ULKER,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ULKER,2022/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+ULKER,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2022/3,1BC,Finansal Yatırımlar,Financial Investments,128105705.0
+ULKER,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ULKER,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ULKER,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ULKER,2022/3,1BFA,Stoklar,Stoklar,0.0
+ULKER,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ULKER,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,251000511.0
+ULKER,2022/3,1BGA,Şerefiye,Goodwill,65272070.0
+ULKER,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,48424523.0
+ULKER,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,34142872.0
+ULKER,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,5404849.0
+ULKER,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1961379207.0
+ULKER,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ULKER,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,494918266.0
+ULKER,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,204906400.0
+ULKER,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,201152112.0
+ULKER,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,2107751.0
+ULKER,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ULKER,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ULKER,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ULKER,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,4165922.0
+ULKER,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),18257033.0
+ULKER,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,47605892.0
+ULKER,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,16723156.0
+ULKER,2022/3,2AAGG,(Ara Toplam),(Subtotal),494918266.0
+ULKER,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ULKER,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1187209193.0
+ULKER,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,1150169264.0
+ULKER,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ULKER,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ULKER,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ULKER,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ULKER,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ULKER,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ULKER,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,27771951.0
+ULKER,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ULKER,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,9267978.0
+ULKER,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ULKER,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,279251748.0
+ULKER,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,176503700.0
+ULKER,2022/3,2OA,Ödenmiş Sermaye,Share Capital,23323218.0
+ULKER,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ULKER,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ULKER,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ULKER,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,44522317.0
+ULKER,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,10743479.0
+ULKER,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),267351178.0
+ULKER,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-32100454.0
+ULKER,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-137336038.0
+ULKER,2022/3,2ODA,Azınlık Payları,Minority Interests,102748048.0
+ULKER,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1961379207.0
+ULKER,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ULKER,2022/3,3C,Satış Gelirleri,Net Sales,421251627.0
+ULKER,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-288915611.0
+ULKER,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ULKER,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,132336016.0
+ULKER,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ULKER,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ULKER,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ULKER,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),132336016.0
+ULKER,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-38450008.0
+ULKER,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-9503969.0
+ULKER,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-893457.0
+ULKER,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,30238274.0
+ULKER,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-18212386.0
+ULKER,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ULKER,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,95514471.0
+ULKER,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,83488582.0
+ULKER,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,77504695.0
+ULKER,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-52933333.0
+ULKER,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ULKER,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ULKER,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,120085833.0
+ULKER,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),2019583.0
+ULKER,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-144931659.0
+ULKER,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,24571362.0
+ULKER,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-22826243.0
+ULKER,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-866834.0
+ULKER,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-13619211.0
+ULKER,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,12752377.0
+ULKER,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ULKER,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-23693077.0
+ULKER,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ULKER,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ULKER,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-23693077.0
+ULKER,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ULKER,2022/3,3LB,Azınlık Payları,Minority Interests,9994426.0
+ULKER,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,-33687503.0
+ULKER,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ULKER,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ULKER,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ULKER,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ULKER,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,5586970.0
+ULKER,2022/3,4BA,Kıdem Tazminatı,Severance Payments,4442881.0
+ULKER,2022/3,4BB,Finansman Giderleri,Financial Expenses,-144931659.0
+ULKER,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,472958424.0
+ULKER,2022/3,4BD,Yurtdışı Satışlar,Export Sales,85323734.0
+ULKER,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-604521074.0
+ULKER,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-624433848.0
+ULKER,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-429692522.0
+ULKER,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,25793532.0
+ULKER,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-23693077.0
+ULKER,2022/3,4CAA,Düzeltmeler:,Adjustments:,149619232.0
+ULKER,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,5586970.0
+ULKER,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,24349930.0
+ULKER,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,119682331.0
+ULKER,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),125926154.0
+ULKER,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-82252385.0
+ULKER,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),43673769.0
+ULKER,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-17880238.0
+ULKER,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-5359741.0
+ULKER,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-17344335.0
+ULKER,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-22704076.0
+ULKER,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,3089455.0
+ULKER,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-16397416.0
+ULKER,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ULKER,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ULKER,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-5316085.0
+ULKER,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-21713501.0
+ULKER,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-18624046.0
+ULKER,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,17212650.0
+ULKER,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ULKER,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-1411396.0
+ULKER,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ULKER,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,215050517.0
+ULKER,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,213639120.0
+ULKER,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,1347252178.0
+ULKER,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,199147585.0
+ULKER,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,381401560.0
+ULKER,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,346862516.0
+ULKER,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ULKER,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,71300730.0
+ULKER,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2022/6,1AF,Stoklar,Inventories,256405634.0
+ULKER,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ULKER,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,92134153.0
+ULKER,2022/6,1AI,(Ara Toplam),(Subtotal),1347252178.0
+ULKER,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ULKER,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,529813017.0
+ULKER,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+ULKER,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ULKER,2022/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+ULKER,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2022/6,1BC,Finansal Yatırımlar,Financial Investments,140675378.0
+ULKER,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ULKER,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ULKER,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ULKER,2022/6,1BFA,Stoklar,Stoklar,0.0
+ULKER,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ULKER,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,231802006.0
+ULKER,2022/6,1BGA,Şerefiye,Goodwill,60315013.0
+ULKER,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,47684975.0
+ULKER,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,43774159.0
+ULKER,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,5561487.0
+ULKER,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1877065195.0
+ULKER,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ULKER,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,904183232.0
+ULKER,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,639743221.0
+ULKER,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,195911607.0
+ULKER,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1855506.0
+ULKER,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ULKER,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ULKER,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ULKER,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,4244102.0
+ULKER,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),13549912.0
+ULKER,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,38236936.0
+ULKER,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,10641947.0
+ULKER,2022/6,2AAGG,(Ara Toplam),(Subtotal),904183232.0
+ULKER,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ULKER,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,719271900.0
+ULKER,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,683731263.0
+ULKER,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ULKER,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ULKER,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ULKER,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ULKER,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ULKER,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ULKER,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,27654481.0
+ULKER,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ULKER,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,7886157.0
+ULKER,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ULKER,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,253610063.0
+ULKER,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,150788610.0
+ULKER,2022/6,2OA,Ödenmiş Sermaye,Share Capital,20489593.0
+ULKER,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ULKER,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ULKER,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ULKER,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,45916939.0
+ULKER,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,9438214.0
+ULKER,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),234869693.0
+ULKER,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-67060882.0
+ULKER,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-92864948.0
+ULKER,2022/6,2ODA,Azınlık Payları,Minority Interests,102821453.0
+ULKER,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1877065195.0
+ULKER,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ULKER,2022/6,3C,Satış Gelirleri,Net Sales,797836281.0
+ULKER,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-559581551.0
+ULKER,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ULKER,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,238254730.0
+ULKER,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ULKER,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ULKER,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ULKER,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),238254730.0
+ULKER,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-68603296.0
+ULKER,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-18699718.0
+ULKER,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1996025.0
+ULKER,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,45682866.0
+ULKER,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-18660488.0
+ULKER,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ULKER,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,175978068.0
+ULKER,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,148955691.0
+ULKER,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,160367439.0
+ULKER,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-100657182.0
+ULKER,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ULKER,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ULKER,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,235688326.0
+ULKER,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),440396.0
+ULKER,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-298123116.0
+ULKER,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,59710257.0
+ULKER,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-61994394.0
+ULKER,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,2498491.0
+ULKER,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-24469946.0
+ULKER,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,26968436.0
+ULKER,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ULKER,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-59495903.0
+ULKER,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ULKER,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ULKER,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-59495903.0
+ULKER,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ULKER,2022/6,3LB,Azınlık Payları,Minority Interests,15695269.0
+ULKER,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,-75191172.0
+ULKER,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ULKER,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ULKER,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ULKER,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ULKER,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,10852319.0
+ULKER,2022/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+ULKER,2022/6,4BB,Finansman Giderleri,Financial Expenses,-298123116.0
+ULKER,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,857811810.0
+ULKER,2022/6,4BD,Yurtdışı Satışlar,Export Sales,182155508.0
+ULKER,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-676440095.0
+ULKER,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-692663087.0
+ULKER,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-381599464.0
+ULKER,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,49665578.0
+ULKER,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-59495903.0
+ULKER,2022/6,4CAA,Düzeltmeler:,Adjustments:,272838612.0
+ULKER,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,10852319.0
+ULKER,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,26001862.0
+ULKER,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,235984431.0
+ULKER,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),213342708.0
+ULKER,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-135477384.0
+ULKER,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),77865324.0
+ULKER,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-28199746.0
+ULKER,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-12103244.0
+ULKER,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-15229212.0
+ULKER,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-27332455.0
+ULKER,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,22333123.0
+ULKER,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,11389379.0
+ULKER,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ULKER,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ULKER,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-54410789.0
+ULKER,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-43021410.0
+ULKER,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-20688287.0
+ULKER,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,42131615.0
+ULKER,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ULKER,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,21443329.0
+ULKER,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ULKER,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,201848402.0
+ULKER,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,223291731.0
+ULKER,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,1351520636.0
+ULKER,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,202964139.0
+ULKER,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,308393443.0
+ULKER,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,379616755.0
+ULKER,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ULKER,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,75411786.0
+ULKER,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2022/9,1AF,Stoklar,Inventories,291187251.0
+ULKER,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ULKER,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,93947262.0
+ULKER,2022/9,1AI,(Ara Toplam),(Subtotal),1351520636.0
+ULKER,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ULKER,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,513915244.0
+ULKER,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+ULKER,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ULKER,2022/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+ULKER,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2022/9,1BC,Finansal Yatırımlar,Financial Investments,140673724.0
+ULKER,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ULKER,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ULKER,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ULKER,2022/9,1BFA,Stoklar,Stoklar,0.0
+ULKER,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ULKER,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,220184939.0
+ULKER,2022/9,1BGA,Şerefiye,Goodwill,55358800.0
+ULKER,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,46976515.0
+ULKER,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,44716339.0
+ULKER,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,6004927.0
+ULKER,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1865435881.0
+ULKER,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ULKER,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,891462853.0
+ULKER,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,616241126.0
+ULKER,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,204723832.0
+ULKER,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,113788.0
+ULKER,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ULKER,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ULKER,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ULKER,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,764657.0
+ULKER,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),15388069.0
+ULKER,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,38707047.0
+ULKER,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,15524334.0
+ULKER,2022/9,2AAGG,(Ara Toplam),(Subtotal),891462853.0
+ULKER,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ULKER,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,728671956.0
+ULKER,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,689772694.0
+ULKER,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ULKER,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ULKER,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ULKER,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ULKER,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ULKER,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ULKER,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,31187790.0
+ULKER,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ULKER,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,7711472.0
+ULKER,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ULKER,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,245301071.0
+ULKER,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,147383585.0
+ULKER,2022/9,2OA,Ödenmiş Sermaye,Share Capital,18434571.0
+ULKER,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ULKER,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ULKER,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ULKER,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,44126757.0
+ULKER,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,8491599.0
+ULKER,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),211313221.0
+ULKER,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-72035942.0
+ULKER,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-62946621.0
+ULKER,2022/9,2ODA,Azınlık Payları,Minority Interests,97917486.0
+ULKER,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1865435881.0
+ULKER,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ULKER,2022/9,3C,Satış Gelirleri,Net Sales,1205223736.0
+ULKER,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-855342690.0
+ULKER,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ULKER,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,349881047.0
+ULKER,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ULKER,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ULKER,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ULKER,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),349881047.0
+ULKER,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-104419443.0
+ULKER,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-29735197.0
+ULKER,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-3176308.0
+ULKER,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,65694814.0
+ULKER,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-16474573.0
+ULKER,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ULKER,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,261770339.0
+ULKER,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,212550099.0
+ULKER,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,232169434.0
+ULKER,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-119614067.0
+ULKER,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ULKER,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ULKER,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,374325706.0
+ULKER,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),6835928.0
+ULKER,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-441093533.0
+ULKER,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,112555367.0
+ULKER,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-59931899.0
+ULKER,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-2016511.0
+ULKER,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-35704356.0
+ULKER,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,33687845.0
+ULKER,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ULKER,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-61948410.0
+ULKER,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ULKER,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ULKER,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-61948410.0
+ULKER,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ULKER,2022/9,3LB,Azınlık Payları,Minority Interests,22033694.0
+ULKER,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,-83982104.0
+ULKER,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ULKER,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ULKER,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ULKER,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ULKER,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,15736001.0
+ULKER,2022/9,4BA,Kıdem Tazminatı,Severance Payments,14092892.0
+ULKER,2022/9,4BB,Finansman Giderleri,Financial Expenses,-441093533.0
+ULKER,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,1321973188.0
+ULKER,2022/9,4BD,Yurtdışı Satışlar,Export Sales,258013378.0
+ULKER,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-739283424.0
+ULKER,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-759769088.0
+ULKER,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-403565840.0
+ULKER,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,35369475.0
+ULKER,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-61948410.0
+ULKER,2022/9,4CAA,Düzeltmeler:,Adjustments:,377338376.0
+ULKER,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,15736001.0
+ULKER,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,37044130.0
+ULKER,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,324558245.0
+ULKER,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),315389966.0
+ULKER,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-243928090.0
+ULKER,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),71461876.0
+ULKER,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-36092400.0
+ULKER,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-20403468.0
+ULKER,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,40302886.0
+ULKER,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,19899418.0
+ULKER,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,55268894.0
+ULKER,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-4333592.0
+ULKER,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-7515179.0
+ULKER,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ULKER,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-53908822.0
+ULKER,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-65757592.0
+ULKER,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-10488698.0
+ULKER,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,58284266.0
+ULKER,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ULKER,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,47795568.0
+ULKER,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ULKER,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,188827359.0
+ULKER,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,236622927.0
+ULKER,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,1810762327.0
+ULKER,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,570695561.0
+ULKER,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,207078.0
+ULKER,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,590747542.0
+ULKER,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ULKER,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,105949924.0
+ULKER,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2023/12,1AF,Stoklar,Inventories,410806238.0
+ULKER,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ULKER,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,132355983.0
+ULKER,2023/12,1AI,(Ara Toplam),(Subtotal),1810762327.0
+ULKER,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ULKER,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1204444565.0
+ULKER,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+ULKER,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ULKER,2023/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+ULKER,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2023/12,1BC,Finansal Yatırımlar,Financial Investments,196297383.0
+ULKER,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ULKER,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ULKER,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ULKER,2023/12,1BFA,Stoklar,Stoklar,0.0
+ULKER,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ULKER,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,796732426.0
+ULKER,2023/12,1BGA,Şerefiye,Goodwill,91467246.0
+ULKER,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,69496089.0
+ULKER,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,39608868.0
+ULKER,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,10842554.0
+ULKER,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3015206892.0
+ULKER,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ULKER,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,756253471.0
+ULKER,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,267333688.0
+ULKER,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,373784913.0
+ULKER,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,260857.0
+ULKER,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ULKER,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ULKER,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ULKER,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,3959337.0
+ULKER,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),24588302.0
+ULKER,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,51906562.0
+ULKER,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,34419812.0
+ULKER,2023/12,2AAGG,(Ara Toplam),(Subtotal),756253471.0
+ULKER,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ULKER,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1289520197.0
+ULKER,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,1228932397.0
+ULKER,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ULKER,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ULKER,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ULKER,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ULKER,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ULKER,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ULKER,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,50545720.0
+ULKER,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ULKER,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,10042080.0
+ULKER,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ULKER,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,969433223.0
+ULKER,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,879816522.0
+ULKER,2023/12,2OA,Ödenmiş Sermaye,Share Capital,12521523.0
+ULKER,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ULKER,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,163272524.0
+ULKER,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ULKER,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-17124.0
+ULKER,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,74804976.0
+ULKER,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),843005734.0
+ULKER,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),165417699.0
+ULKER,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-379188812.0
+ULKER,2023/12,2ODA,Azınlık Payları,Minority Interests,89616701.0
+ULKER,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3015206892.0
+ULKER,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ULKER,2023/12,3C,Satış Gelirleri,Net Sales,3383151058.0
+ULKER,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2403001929.0
+ULKER,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ULKER,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,980149129.0
+ULKER,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ULKER,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ULKER,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ULKER,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),980149129.0
+ULKER,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-311018027.0
+ULKER,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-84116669.0
+ULKER,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-14463289.0
+ULKER,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,166360205.0
+ULKER,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-70842878.0
+ULKER,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ULKER,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,666068471.0
+ULKER,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,570551144.0
+ULKER,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,461920631.0
+ULKER,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-25374661.0
+ULKER,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ULKER,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ULKER,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1102614441.0
+ULKER,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),19289394.0
+ULKER,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-832453688.0
+ULKER,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,436545970.0
+ULKER,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,289450147.0
+ULKER,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-33589895.0
+ULKER,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-78586199.0
+ULKER,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,44996303.0
+ULKER,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ULKER,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,255860251.0
+ULKER,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ULKER,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ULKER,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,255860251.0
+ULKER,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ULKER,2023/12,3LB,Azınlık Payları,Minority Interests,51131637.0
+ULKER,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,204728615.0
+ULKER,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+ULKER,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+ULKER,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+ULKER,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+ULKER,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,71745954.0
+ULKER,2023/12,4BA,Kıdem Tazminatı,Severance Payments,9310728.0
+ULKER,2023/12,4BB,Finansman Giderleri,Financial Expenses,-832453688.0
+ULKER,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,3869025574.0
+ULKER,2023/12,4BD,Yurtdışı Satışlar,Export Sales,670448934.0
+ULKER,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-849887534.0
+ULKER,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-864113587.0
+ULKER,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-258007089.0
+ULKER,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,445404928.0
+ULKER,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,255860251.0
+ULKER,2023/12,4CAA,Düzeltmeler:,Adjustments:,573395465.0
+ULKER,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,71745954.0
+ULKER,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,49615849.0
+ULKER,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,685047859.0
+ULKER,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),829255716.0
+ULKER,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-259404405.0
+ULKER,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),569851311.0
+ULKER,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-124446382.0
+ULKER,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-67328981.0
+ULKER,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,41343624.0
+ULKER,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-25985357.0
+ULKER,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,419419571.0
+ULKER,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-418007524.0
+ULKER,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-12106703.0
+ULKER,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ULKER,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-197707075.0
+ULKER,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-627821303.0
+ULKER,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-571620408.0
+ULKER,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,353964184.0
+ULKER,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ULKER,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-217656224.0
+ULKER,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ULKER,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,923975512.0
+ULKER,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,706319288.0
+ULKER,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,1485740783.0
+ULKER,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,513945945.0
+ULKER,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,166773.0
+ULKER,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,496402871.0
+ULKER,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ULKER,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,91488394.0
+ULKER,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2023/3,1AF,Stoklar,Inventories,287715475.0
+ULKER,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ULKER,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,96021326.0
+ULKER,2023/3,1AI,(Ara Toplam),(Subtotal),1485740783.0
+ULKER,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ULKER,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,667865779.0
+ULKER,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+ULKER,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ULKER,2023/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+ULKER,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2023/3,1BC,Finansal Yatırımlar,Financial Investments,142914456.0
+ULKER,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ULKER,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ULKER,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ULKER,2023/3,1BFA,Stoklar,Stoklar,0.0
+ULKER,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ULKER,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,355624511.0
+ULKER,2023/3,1BGA,Şerefiye,Goodwill,61530973.0
+ULKER,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,47948540.0
+ULKER,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,58073515.0
+ULKER,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1773783.0
+ULKER,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2153606563.0
+ULKER,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ULKER,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,978981123.0
+ULKER,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,644846621.0
+ULKER,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,201726097.0
+ULKER,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,203567.0
+ULKER,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ULKER,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ULKER,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ULKER,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,3388716.0
+ULKER,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),28228770.0
+ULKER,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,69034543.0
+ULKER,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,31552810.0
+ULKER,2023/3,2AAGG,(Ara Toplam),(Subtotal),978981123.0
+ULKER,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ULKER,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,720042735.0
+ULKER,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,668673324.0
+ULKER,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ULKER,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ULKER,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ULKER,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ULKER,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ULKER,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ULKER,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,43321850.0
+ULKER,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ULKER,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,8047561.0
+ULKER,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ULKER,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,454582704.0
+ULKER,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,339374186.0
+ULKER,2023/3,2OA,Ödenmiş Sermaye,Share Capital,17823826.0
+ULKER,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ULKER,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ULKER,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ULKER,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,43910193.0
+ULKER,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,8210269.0
+ULKER,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),185909953.0
+ULKER,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),46677941.0
+ULKER,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,36842004.0
+ULKER,2023/3,2ODA,Azınlık Payları,Minority Interests,115208518.0
+ULKER,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2153606563.0
+ULKER,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ULKER,2023/3,3C,Satış Gelirleri,Net Sales,995296982.0
+ULKER,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-689388854.0
+ULKER,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ULKER,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,305908129.0
+ULKER,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ULKER,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ULKER,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ULKER,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),305908129.0
+ULKER,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-97088842.0
+ULKER,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-20584115.0
+ULKER,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-3985298.0
+ULKER,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,23160530.0
+ULKER,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-20696851.0
+ULKER,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ULKER,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,186713553.0
+ULKER,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,184249874.0
+ULKER,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,51314207.0
+ULKER,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3528584.0
+ULKER,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ULKER,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ULKER,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,234499176.0
+ULKER,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),12975016.0
+ULKER,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-62490581.0
+ULKER,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,47785623.0
+ULKER,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,184983611.0
+ULKER,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-42104574.0
+ULKER,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-28063488.0
+ULKER,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-14041086.0
+ULKER,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ULKER,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,142879037.0
+ULKER,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ULKER,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ULKER,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,142879037.0
+ULKER,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ULKER,2023/3,3LB,Azınlık Payları,Minority Interests,15168023.0
+ULKER,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,127711014.0
+ULKER,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ULKER,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ULKER,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ULKER,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ULKER,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,19098223.0
+ULKER,2023/3,4BA,Kıdem Tazminatı,Severance Payments,3281253.0
+ULKER,2023/3,4BB,Finansman Giderleri,Financial Expenses,-62490581.0
+ULKER,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,1063232501.0
+ULKER,2023/3,4BD,Yurtdışı Satışlar,Export Sales,160527358.0
+ULKER,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-699060175.0
+ULKER,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-719371977.0
+ULKER,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-352915555.0
+ULKER,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,9987406.0
+ULKER,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,131801320.0
+ULKER,2023/3,4CAA,Düzeltmeler:,Adjustments:,163569484.0
+ULKER,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,19098223.0
+ULKER,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,77379780.0
+ULKER,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,67091481.0
+ULKER,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),295370804.0
+ULKER,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-257364846.0
+ULKER,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),38005958.0
+ULKER,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-28018553.0
+ULKER,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-13501964.0
+ULKER,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,36370863.0
+ULKER,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,22868898.0
+ULKER,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,32856304.0
+ULKER,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,14640810.0
+ULKER,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ULKER,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ULKER,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-7902742.0
+ULKER,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,6738068.0
+ULKER,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,39594372.0
+ULKER,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-88839529.0
+ULKER,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ULKER,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-49245157.0
+ULKER,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ULKER,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,928700323.0
+ULKER,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,879455165.0
+ULKER,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,1124844605.0
+ULKER,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,338544624.0
+ULKER,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,152959.0
+ULKER,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,382408696.0
+ULKER,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ULKER,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,82216733.0
+ULKER,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2023/6,1AF,Stoklar,Inventories,253392360.0
+ULKER,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ULKER,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,68129233.0
+ULKER,2023/6,1AI,(Ara Toplam),(Subtotal),1124844605.0
+ULKER,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ULKER,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,611790982.0
+ULKER,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+ULKER,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ULKER,2023/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+ULKER,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2023/6,1BC,Finansal Yatırımlar,Financial Investments,143057682.0
+ULKER,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ULKER,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ULKER,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ULKER,2023/6,1BFA,Stoklar,Stoklar,0.0
+ULKER,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ULKER,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,287848053.0
+ULKER,2023/6,1BGA,Şerefiye,Goodwill,63282733.0
+ULKER,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,48055246.0
+ULKER,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,64869770.0
+ULKER,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,4677498.0
+ULKER,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1736635588.0
+ULKER,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ULKER,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,461264650.0
+ULKER,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,204454418.0
+ULKER,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,171156377.0
+ULKER,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,187440.0
+ULKER,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ULKER,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ULKER,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ULKER,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2617899.0
+ULKER,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),19536870.0
+ULKER,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,44768763.0
+ULKER,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,18542884.0
+ULKER,2023/6,2AAGG,(Ara Toplam),(Subtotal),461264650.0
+ULKER,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ULKER,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,941414324.0
+ULKER,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,901329823.0
+ULKER,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ULKER,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ULKER,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ULKER,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ULKER,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ULKER,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ULKER,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,36973359.0
+ULKER,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ULKER,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,3111142.0
+ULKER,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ULKER,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,333956613.0
+ULKER,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,228386523.0
+ULKER,2023/6,2OA,Ödenmiş Sermaye,Share Capital,13220150.0
+ULKER,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ULKER,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ULKER,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ULKER,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,59883299.0
+ULKER,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,6089657.0
+ULKER,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),137891695.0
+ULKER,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-30798737.0
+ULKER,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,42100458.0
+ULKER,2023/6,2ODA,Azınlık Payları,Minority Interests,105570090.0
+ULKER,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1736635588.0
+ULKER,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ULKER,2023/6,3C,Satış Gelirleri,Net Sales,1936297593.0
+ULKER,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1371666091.0
+ULKER,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ULKER,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,564631502.0
+ULKER,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ULKER,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ULKER,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ULKER,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),564631502.0
+ULKER,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-185068558.0
+ULKER,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-43931793.0
+ULKER,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-7931242.0
+ULKER,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,128062753.0
+ULKER,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-28123499.0
+ULKER,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ULKER,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,427639164.0
+ULKER,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,327699909.0
+ULKER,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,360323022.0
+ULKER,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-17259952.0
+ULKER,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ULKER,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ULKER,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,770702233.0
+ULKER,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),14187249.0
+ULKER,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-737930187.0
+ULKER,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,343063070.0
+ULKER,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,46959296.0
+ULKER,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-12617414.0
+ULKER,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-52149993.0
+ULKER,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,39532579.0
+ULKER,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ULKER,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,34341881.0
+ULKER,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ULKER,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ULKER,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,34341881.0
+ULKER,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ULKER,2023/6,3LB,Azınlık Payları,Minority Interests,37556902.0
+ULKER,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,-3215020.0
+ULKER,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ULKER,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ULKER,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ULKER,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ULKER,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,39216379.0
+ULKER,2023/6,4BA,Kıdem Tazminatı,Severance Payments,9683746.0
+ULKER,2023/6,4BB,Finansman Giderleri,Financial Expenses,-737930187.0
+ULKER,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,2009002151.0
+ULKER,2023/6,4BD,Yurtdışı Satışlar,Export Sales,339989559.0
+ULKER,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-729278823.0
+ULKER,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-747331420.0
+ULKER,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-350554582.0
+ULKER,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,145228972.0
+ULKER,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,31529673.0
+ULKER,2023/6,4CAA,Düzeltmeler:,Adjustments:,532066467.0
+ULKER,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,39216379.0
+ULKER,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,68514426.0
+ULKER,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,493802979.0
+ULKER,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),563596140.0
+ULKER,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-338412351.0
+ULKER,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),225183790.0
+ULKER,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-79954818.0
+ULKER,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-25995707.0
+ULKER,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,8933726.0
+ULKER,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-17061980.0
+ULKER,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,128166992.0
+ULKER,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-347203052.0
+ULKER,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-17316010.0
+ULKER,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ULKER,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-59194958.0
+ULKER,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-423714021.0
+ULKER,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-454142526.0
+ULKER,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,252491766.0
+ULKER,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ULKER,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-201650760.0
+ULKER,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ULKER,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,960635088.0
+ULKER,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,758984328.0
+ULKER,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,1140741012.0
+ULKER,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,353057318.0
+ULKER,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,129986.0
+ULKER,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,397183585.0
+ULKER,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ULKER,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,85554401.0
+ULKER,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2023/9,1AF,Stoklar,Inventories,242993692.0
+ULKER,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ULKER,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,61822030.0
+ULKER,2023/9,1AI,(Ara Toplam),(Subtotal),1140741012.0
+ULKER,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ULKER,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,611636258.0
+ULKER,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+ULKER,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ULKER,2023/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+ULKER,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2023/9,1BC,Finansal Yatırımlar,Financial Investments,142843433.0
+ULKER,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ULKER,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ULKER,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ULKER,2023/9,1BFA,Stoklar,Stoklar,0.0
+ULKER,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ULKER,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,279913914.0
+ULKER,2023/9,1BGA,Şerefiye,Goodwill,60917815.0
+ULKER,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,47656676.0
+ULKER,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,75522351.0
+ULKER,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,4782068.0
+ULKER,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1752377270.0
+ULKER,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ULKER,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,466587618.0
+ULKER,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,181653249.0
+ULKER,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,199762707.0
+ULKER,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,182564.0
+ULKER,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ULKER,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ULKER,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ULKER,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1967586.0
+ULKER,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),12468643.0
+ULKER,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,44900496.0
+ULKER,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,25652374.0
+ULKER,2023/9,2AAGG,(Ara Toplam),(Subtotal),466587618.0
+ULKER,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ULKER,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,902611573.0
+ULKER,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,860219791.0
+ULKER,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ULKER,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ULKER,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ULKER,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ULKER,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ULKER,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ULKER,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,39450631.0
+ULKER,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ULKER,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,2941151.0
+ULKER,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ULKER,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,383178079.0
+ULKER,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,324378582.0
+ULKER,2023/9,2OA,Ödenmiş Sermaye,Share Capital,13464450.0
+ULKER,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ULKER,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ULKER,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ULKER,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,57999052.0
+ULKER,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,6310800.0
+ULKER,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),130066470.0
+ULKER,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),24039415.0
+ULKER,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,92498396.0
+ULKER,2023/9,2ODA,Azınlık Payları,Minority Interests,58799497.0
+ULKER,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1752377270.0
+ULKER,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ULKER,2023/9,3C,Satış Gelirleri,Net Sales,2529383308.0
+ULKER,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1782461890.0
+ULKER,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ULKER,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,746921418.0
+ULKER,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ULKER,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ULKER,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ULKER,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),746921418.0
+ULKER,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-232334959.0
+ULKER,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-63647279.0
+ULKER,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-10746407.0
+ULKER,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,140703613.0
+ULKER,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-56262922.0
+ULKER,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ULKER,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,524633464.0
+ULKER,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,440192773.0
+ULKER,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,389118474.0
+ULKER,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-26016632.0
+ULKER,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ULKER,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ULKER,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,887735307.0
+ULKER,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),9952856.0
+ULKER,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-642394375.0
+ULKER,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,363101843.0
+ULKER,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,255293789.0
+ULKER,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-71978798.0
+ULKER,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-68320427.0
+ULKER,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-3658371.0
+ULKER,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ULKER,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,183314991.0
+ULKER,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ULKER,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ULKER,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,183314991.0
+ULKER,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ULKER,2023/9,3LB,Azınlık Payları,Minority Interests,48680583.0
+ULKER,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,134634408.0
+ULKER,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ULKER,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ULKER,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ULKER,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ULKER,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,55418558.0
+ULKER,2023/9,4BA,Kıdem Tazminatı,Severance Payments,14037193.0
+ULKER,2023/9,4BB,Finansman Giderleri,Financial Expenses,-642394375.0
+ULKER,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,2875172353.0
+ULKER,2023/9,4BD,Yurtdışı Satışlar,Export Sales,488772495.0
+ULKER,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-631029515.0
+ULKER,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-641978544.0
+ULKER,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-184421034.0
+ULKER,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,263924736.0
+ULKER,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,183314991.0
+ULKER,2023/9,4CAA,Düzeltmeler:,Adjustments:,515538216.0
+ULKER,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,55418558.0
+ULKER,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,63453036.0
+ULKER,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,614671176.0
+ULKER,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),698853207.0
+ULKER,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-317805068.0
+ULKER,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),381048139.0
+ULKER,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-117123403.0
+ULKER,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-44062392.0
+ULKER,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,38614568.0
+ULKER,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-5447824.0
+ULKER,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,258476912.0
+ULKER,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-439367419.0
+ULKER,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-13446039.0
+ULKER,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ULKER,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-59915752.0
+ULKER,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-512729210.0
+ULKER,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-564746031.0
+ULKER,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,283061854.0
+ULKER,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ULKER,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-281684177.0
+ULKER,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ULKER,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,933285787.0
+ULKER,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,651601611.0
+ULKER,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,2310664316.0
+ULKER,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,933634657.0
+ULKER,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,193164.0
+ULKER,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,777185380.0
+ULKER,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ULKER,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,94186002.0
+ULKER,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2024/12,1AF,Stoklar,Inventories,419851340.0
+ULKER,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ULKER,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,85613773.0
+ULKER,2024/12,1AI,(Ara Toplam),(Subtotal),2310664316.0
+ULKER,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ULKER,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1147237088.0
+ULKER,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+ULKER,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ULKER,2024/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+ULKER,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2024/12,1BC,Finansal Yatırımlar,Financial Investments,174122336.0
+ULKER,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ULKER,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ULKER,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ULKER,2024/12,1BFA,Stoklar,Stoklar,0.0
+ULKER,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ULKER,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,825358187.0
+ULKER,2024/12,1BGA,Şerefiye,Goodwill,78285483.0
+ULKER,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,60202071.0
+ULKER,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,5467276.0
+ULKER,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3801733.0
+ULKER,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3457901403.0
+ULKER,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ULKER,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1009447129.0
+ULKER,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,542065180.0
+ULKER,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,364412526.0
+ULKER,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,312653.0
+ULKER,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ULKER,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ULKER,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ULKER,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,3582557.0
+ULKER,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),9449433.0
+ULKER,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,51549993.0
+ULKER,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,38074788.0
+ULKER,2024/12,2AAGG,(Ara Toplam),(Subtotal),1009447129.0
+ULKER,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ULKER,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1260440167.0
+ULKER,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,1161711717.0
+ULKER,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ULKER,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ULKER,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ULKER,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ULKER,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ULKER,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ULKER,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,59514199.0
+ULKER,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ULKER,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,39214251.0
+ULKER,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ULKER,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1188014107.0
+ULKER,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1110176204.0
+ULKER,2024/12,2OA,Ödenmiş Sermaye,Share Capital,10448113.0
+ULKER,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ULKER,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,170881001.0
+ULKER,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ULKER,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-62532667.0
+ULKER,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,78290878.0
+ULKER,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),366207850.0
+ULKER,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),262632745.0
+ULKER,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,281591373.0
+ULKER,2024/12,2ODA,Azınlık Payları,Minority Interests,77837903.0
+ULKER,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3457901403.0
+ULKER,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ULKER,2024/12,3C,Satış Gelirleri,Net Sales,3208802317.0
+ULKER,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2252381451.0
+ULKER,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ULKER,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,956420867.0
+ULKER,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ULKER,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ULKER,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ULKER,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),956420867.0
+ULKER,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-328152116.0
+ULKER,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-86823995.0
+ULKER,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-15839439.0
+ULKER,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,79287509.0
+ULKER,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-60099921.0
+ULKER,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ULKER,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,544792906.0
+ULKER,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,525605317.0
+ULKER,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,233068092.0
+ULKER,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-10040634.0
+ULKER,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ULKER,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ULKER,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,767820364.0
+ULKER,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),9931776.0
+ULKER,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-359369731.0
+ULKER,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,223027458.0
+ULKER,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,418382409.0
+ULKER,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-112523439.0
+ULKER,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-23970388.0
+ULKER,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-88553052.0
+ULKER,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ULKER,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,305858970.0
+ULKER,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ULKER,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,305858970.0
+ULKER,2024/12,3LB,Azınlık Payları,Minority Interests,23488102.0
+ULKER,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,282370868.0
+ULKER,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+ULKER,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+ULKER,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+ULKER,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+ULKER,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,69466995.0
+ULKER,2024/12,4BA,Kıdem Tazminatı,Severance Payments,7147260.0
+ULKER,2024/12,4BB,Finansman Giderleri,Financial Expenses,-359369731.0
+ULKER,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,2907052968.0
+ULKER,2024/12,4BD,Yurtdışı Satışlar,Export Sales,595505797.0
+ULKER,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-690438877.0
+ULKER,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-746932564.0
+ULKER,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-159883297.0
+ULKER,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,220846448.0
+ULKER,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,305858970.0
+ULKER,2024/12,4CAA,Düzeltmeler:,Adjustments:,389593128.0
+ULKER,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,69466995.0
+ULKER,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,41791168.0
+ULKER,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,382782094.0
+ULKER,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),695452097.0
+ULKER,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-406020200.0
+ULKER,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),289431897.0
+ULKER,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-68585449.0
+ULKER,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-97270413.0
+ULKER,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,110366315.0
+ULKER,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,13095902.0
+ULKER,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,233942350.0
+ULKER,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,419878527.0
+ULKER,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-13918040.0
+ULKER,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ULKER,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-181710525.0
+ULKER,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,224249962.0
+ULKER,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,260800961.0
+ULKER,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,100821741.0
+ULKER,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ULKER,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,361622702.0
+ULKER,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ULKER,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,642179121.0
+ULKER,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1003801824.0
+ULKER,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,1345681495.0
+ULKER,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,391499184.0
+ULKER,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,142037.0
+ULKER,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,505721194.0
+ULKER,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ULKER,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,88502548.0
+ULKER,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2024/3,1AF,Stoklar,Inventories,278232943.0
+ULKER,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ULKER,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,81583590.0
+ULKER,2024/3,1AI,(Ara Toplam),(Subtotal),1345681495.0
+ULKER,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ULKER,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,826422352.0
+ULKER,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+ULKER,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ULKER,2024/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+ULKER,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2024/3,1BC,Finansal Yatırımlar,Financial Investments,135919162.0
+ULKER,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ULKER,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ULKER,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ULKER,2024/3,1BFA,Stoklar,Stoklar,0.0
+ULKER,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ULKER,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,566028612.0
+ULKER,2024/3,1BGA,Şerefiye,Goodwill,62740635.0
+ULKER,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,48116351.0
+ULKER,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,7578872.0
+ULKER,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,6038722.0
+ULKER,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2172103847.0
+ULKER,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ULKER,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,528774533.0
+ULKER,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,199061886.0
+ULKER,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,214771423.0
+ULKER,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,174347.0
+ULKER,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ULKER,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ULKER,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ULKER,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2847611.0
+ULKER,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),20527523.0
+ULKER,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,53559591.0
+ULKER,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,37832152.0
+ULKER,2024/3,2AAGG,(Ara Toplam),(Subtotal),528774533.0
+ULKER,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ULKER,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,917175175.0
+ULKER,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,861870973.0
+ULKER,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ULKER,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ULKER,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ULKER,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ULKER,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ULKER,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ULKER,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,39635075.0
+ULKER,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ULKER,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,15669128.0
+ULKER,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ULKER,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,726154139.0
+ULKER,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,661872210.0
+ULKER,2024/3,2OA,Ödenmiş Sermaye,Share Capital,11417282.0
+ULKER,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ULKER,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ULKER,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ULKER,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-30964580.0
+ULKER,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,54358884.0
+ULKER,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),732796164.0
+ULKER,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),67008836.0
+ULKER,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-172744376.0
+ULKER,2024/3,2ODA,Azınlık Payları,Minority Interests,64281929.0
+ULKER,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2172103847.0
+ULKER,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ULKER,2024/3,3C,Satış Gelirleri,Net Sales,874330560.0
+ULKER,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-594868509.0
+ULKER,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ULKER,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,279462051.0
+ULKER,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ULKER,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ULKER,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ULKER,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),279462051.0
+ULKER,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-91036001.0
+ULKER,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-21469023.0
+ULKER,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-3462098.0
+ULKER,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,60277409.0
+ULKER,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-36901726.0
+ULKER,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ULKER,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,186870613.0
+ULKER,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,163494930.0
+ULKER,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,59246092.0
+ULKER,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-168602.0
+ULKER,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ULKER,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ULKER,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,245948102.0
+ULKER,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),622085.0
+ULKER,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-84715480.0
+ULKER,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,59077490.0
+ULKER,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,161854707.0
+ULKER,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-51182087.0
+ULKER,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-9100974.0
+ULKER,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-42081113.0
+ULKER,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ULKER,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,110672620.0
+ULKER,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ULKER,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ULKER,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,110672620.0
+ULKER,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ULKER,2024/3,3LB,Azınlık Payları,Minority Interests,13996482.0
+ULKER,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,96676137.0
+ULKER,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ULKER,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ULKER,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ULKER,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ULKER,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,16816761.0
+ULKER,2024/3,4BA,Kıdem Tazminatı,Severance Payments,5577734.0
+ULKER,2024/3,4BB,Finansman Giderleri,Financial Expenses,-84715480.0
+ULKER,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,813575703.0
+ULKER,2024/3,4BD,Yurtdışı Satışlar,Export Sales,147385944.0
+ULKER,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-536518367.0
+ULKER,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-537177499.0
+ULKER,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-187296511.0
+ULKER,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-40744277.0
+ULKER,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,110672620.0
+ULKER,2024/3,4CAA,Düzeltmeler:,Adjustments:,138235164.0
+ULKER,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,16816761.0
+ULKER,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,41122502.0
+ULKER,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,134928491.0
+ULKER,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),248907784.0
+ULKER,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-273043695.0
+ULKER,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-24135911.0
+ULKER,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-16608365.0
+ULKER,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-12044183.0
+ULKER,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,3974978.0
+ULKER,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-8069205.0
+ULKER,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-48813482.0
+ULKER,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,18501880.0
+ULKER,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ULKER,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ULKER,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-6598004.0
+ULKER,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,11903875.0
+ULKER,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-115238740.0
+ULKER,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,81751309.0
+ULKER,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ULKER,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-33487431.0
+ULKER,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ULKER,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,598317848.0
+ULKER,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,564830417.0
+ULKER,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,1456144964.0
+ULKER,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,508581190.0
+ULKER,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,141826.0
+ULKER,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,460120510.0
+ULKER,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ULKER,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,71574047.0
+ULKER,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2024/6,1AF,Stoklar,Inventories,316703360.0
+ULKER,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ULKER,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,99024032.0
+ULKER,2024/6,1AI,(Ara Toplam),(Subtotal),1456144964.0
+ULKER,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ULKER,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,862598304.0
+ULKER,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+ULKER,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ULKER,2024/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+ULKER,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2024/6,1BC,Finansal Yatırımlar,Financial Investments,135868792.0
+ULKER,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ULKER,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ULKER,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ULKER,2024/6,1BFA,Stoklar,Stoklar,0.0
+ULKER,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ULKER,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,595707869.0
+ULKER,2024/6,1BGA,Şerefiye,Goodwill,62875540.0
+ULKER,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,48083521.0
+ULKER,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,12385716.0
+ULKER,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,7676865.0
+ULKER,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2318743268.0
+ULKER,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ULKER,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,500722359.0
+ULKER,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,190580655.0
+ULKER,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,220551584.0
+ULKER,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,174668.0
+ULKER,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ULKER,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ULKER,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ULKER,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1998826.0
+ULKER,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),13621709.0
+ULKER,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,49664105.0
+ULKER,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,24130812.0
+ULKER,2024/6,2AAGG,(Ara Toplam),(Subtotal),500722359.0
+ULKER,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ULKER,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1027100650.0
+ULKER,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,957233992.0
+ULKER,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ULKER,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ULKER,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ULKER,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ULKER,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ULKER,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ULKER,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,44215653.0
+ULKER,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ULKER,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,25651005.0
+ULKER,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ULKER,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,790920259.0
+ULKER,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,733700650.0
+ULKER,2024/6,2OA,Ödenmiş Sermaye,Share Capital,11229212.0
+ULKER,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ULKER,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ULKER,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ULKER,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-44438214.0
+ULKER,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,57956990.0
+ULKER,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),781301372.0
+ULKER,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),109769897.0
+ULKER,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-182118606.0
+ULKER,2024/6,2ODA,Azınlık Payları,Minority Interests,57219609.0
+ULKER,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2318743268.0
+ULKER,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ULKER,2024/6,3C,Satış Gelirleri,Net Sales,1561279921.0
+ULKER,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1071476228.0
+ULKER,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ULKER,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,489803694.0
+ULKER,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ULKER,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ULKER,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ULKER,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),489803694.0
+ULKER,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-164496602.0
+ULKER,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-39402118.0
+ULKER,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-6524744.0
+ULKER,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,62699083.0
+ULKER,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-38383584.0
+ULKER,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ULKER,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,303695729.0
+ULKER,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,279380230.0
+ULKER,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,88312985.0
+ULKER,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-407344.0
+ULKER,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ULKER,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ULKER,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,391601370.0
+ULKER,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),2167610.0
+ULKER,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-151831246.0
+ULKER,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,87905641.0
+ULKER,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,241937733.0
+ULKER,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-70079784.0
+ULKER,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-19531098.0
+ULKER,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-50548686.0
+ULKER,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ULKER,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,171857949.0
+ULKER,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ULKER,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ULKER,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,171857949.0
+ULKER,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ULKER,2024/6,3LB,Azınlık Payları,Minority Interests,17692532.0
+ULKER,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,154165417.0
+ULKER,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ULKER,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ULKER,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ULKER,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ULKER,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,33112780.0
+ULKER,2024/6,4BA,Kıdem Tazminatı,Severance Payments,9528799.0
+ULKER,2024/6,4BB,Finansman Giderleri,Financial Expenses,-151831246.0
+ULKER,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,1082047246.0
+ULKER,2024/6,4BD,Yurtdışı Satışlar,Export Sales,479232676.0
+ULKER,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-557559268.0
+ULKER,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-560193832.0
+ULKER,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-278594762.0
+ULKER,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,94983514.0
+ULKER,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,171857949.0
+ULKER,2024/6,4CAA,Düzeltmeler:,Adjustments:,207261197.0
+ULKER,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,33112780.0
+ULKER,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,44188828.0
+ULKER,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,229402129.0
+ULKER,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),379119146.0
+ULKER,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-237933708.0
+ULKER,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),141185438.0
+ULKER,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-46201924.0
+ULKER,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-26200235.0
+ULKER,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,28999938.0
+ULKER,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,2799703.0
+ULKER,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,97783216.0
+ULKER,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,173521858.0
+ULKER,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-14596453.0
+ULKER,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ULKER,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-85181108.0
+ULKER,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,73744298.0
+ULKER,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,48386800.0
+ULKER,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,44896880.0
+ULKER,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ULKER,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,93283681.0
+ULKER,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ULKER,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,620988951.0
+ULKER,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,714272632.0
+ULKER,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,1722019337.0
+ULKER,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,682493410.0
+ULKER,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,141154.0
+ULKER,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,539497023.0
+ULKER,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ULKER,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,73692152.0
+ULKER,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2024/9,1AF,Stoklar,Inventories,321765026.0
+ULKER,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ULKER,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,104430571.0
+ULKER,2024/9,1AI,(Ara Toplam),(Subtotal),1722019337.0
+ULKER,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ULKER,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,907331442.0
+ULKER,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+ULKER,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ULKER,2024/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+ULKER,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2024/9,1BC,Finansal Yatırımlar,Financial Investments,136832268.0
+ULKER,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ULKER,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ULKER,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ULKER,2024/9,1BFA,Stoklar,Stoklar,0.0
+ULKER,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ULKER,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,627189673.0
+ULKER,2024/9,1BGA,Şerefiye,Goodwill,66480977.0
+ULKER,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,48529862.0
+ULKER,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,22123279.0
+ULKER,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,6175382.0
+ULKER,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2629350779.0
+ULKER,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ULKER,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,517601229.0
+ULKER,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,223905098.0
+ULKER,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,205722899.0
+ULKER,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,178249.0
+ULKER,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ULKER,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ULKER,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ULKER,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2237753.0
+ULKER,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),8036949.0
+ULKER,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,48205310.0
+ULKER,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,29314971.0
+ULKER,2024/9,2AAGG,(Ara Toplam),(Subtotal),517601229.0
+ULKER,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ULKER,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1261989819.0
+ULKER,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1166853448.0
+ULKER,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ULKER,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ULKER,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ULKER,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ULKER,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ULKER,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ULKER,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,45056067.0
+ULKER,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ULKER,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,50080304.0
+ULKER,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ULKER,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,849759731.0
+ULKER,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,790328794.0
+ULKER,2024/9,2OA,Ödenmiş Sermaye,Share Capital,10803072.0
+ULKER,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ULKER,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,132553909.0
+ULKER,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ULKER,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-39228670.0
+ULKER,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,60730900.0
+ULKER,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),818695444.0
+ULKER,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),128787420.0
+ULKER,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-322013282.0
+ULKER,2024/9,2ODA,Azınlık Payları,Minority Interests,59430937.0
+ULKER,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2629350779.0
+ULKER,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ULKER,2024/9,3C,Satış Gelirleri,Net Sales,2395612361.0
+ULKER,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1676173234.0
+ULKER,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ULKER,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,719439126.0
+ULKER,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ULKER,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ULKER,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ULKER,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),719439126.0
+ULKER,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-245853872.0
+ULKER,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-65061710.0
+ULKER,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-10149535.0
+ULKER,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,71594176.0
+ULKER,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-49326084.0
+ULKER,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ULKER,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,420642100.0
+ULKER,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,398374009.0
+ULKER,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,179539901.0
+ULKER,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-5016233.0
+ULKER,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ULKER,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ULKER,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,595165768.0
+ULKER,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),3083736.0
+ULKER,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-291723327.0
+ULKER,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,174523668.0
+ULKER,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,306526177.0
+ULKER,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-104520756.0
+ULKER,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-19521004.0
+ULKER,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-84999752.0
+ULKER,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ULKER,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,202005421.0
+ULKER,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ULKER,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ULKER,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,202005421.0
+ULKER,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ULKER,2024/9,3LB,Azınlık Payları,Minority Interests,20221964.0
+ULKER,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,181783457.0
+ULKER,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ULKER,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ULKER,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ULKER,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ULKER,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,50553903.0
+ULKER,2024/9,4BA,Kıdem Tazminatı,Severance Payments,13409170.0
+ULKER,2024/9,4BB,Finansman Giderleri,Financial Expenses,-291723327.0
+ULKER,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,2200591047.0
+ULKER,2024/9,4BD,Yurtdışı Satışlar,Export Sales,425585688.0
+ULKER,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-643106413.0
+ULKER,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-655151983.0
+ULKER,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-212961865.0
+ULKER,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,51616264.0
+ULKER,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,202005421.0
+ULKER,2024/9,4CAA,Düzeltmeler:,Adjustments:,330166419.0
+ULKER,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,50553903.0
+ULKER,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,48334820.0
+ULKER,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,347789126.0
+ULKER,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),532171840.0
+ULKER,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-420730545.0
+ULKER,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),111441295.0
+ULKER,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-59825031.0
+ULKER,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-52814808.0
+ULKER,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,61957156.0
+ULKER,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,9142348.0
+ULKER,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,60758612.0
+ULKER,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,458586090.0
+ULKER,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-14113104.0
+ULKER,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ULKER,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-112993030.0
+ULKER,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,331479957.0
+ULKER,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,219620291.0
+ULKER,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,89738631.0
+ULKER,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ULKER,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,309358922.0
+ULKER,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ULKER,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,653980638.0
+ULKER,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,963339560.0
+ULKER,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,2042752784.0
+ULKER,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,632688000.0
+ULKER,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,152457.0
+ULKER,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,723665621.0
+ULKER,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ULKER,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,79205972.0
+ULKER,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2025/3,1AF,Stoklar,Inventories,504815601.0
+ULKER,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ULKER,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,102225133.0
+ULKER,2025/3,1AI,(Ara Toplam),(Subtotal),2042752784.0
+ULKER,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ULKER,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,924962216.0
+ULKER,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+ULKER,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ULKER,2025/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+ULKER,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2025/3,1BC,Finansal Yatırımlar,Financial Investments,139501846.0
+ULKER,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ULKER,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ULKER,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ULKER,2025/3,1BFA,Stoklar,Stoklar,0.0
+ULKER,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ULKER,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,666071492.0
+ULKER,2025/3,1BGA,Şerefiye,Goodwill,64358892.0
+ULKER,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,48279735.0
+ULKER,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,2920280.0
+ULKER,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3829972.0
+ULKER,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2967715000.0
+ULKER,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ULKER,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,898208819.0
+ULKER,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,525975466.0
+ULKER,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,260642972.0
+ULKER,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,59312.0
+ULKER,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ULKER,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ULKER,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ULKER,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1567095.0
+ULKER,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),11192773.0
+ULKER,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,67045570.0
+ULKER,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,31725631.0
+ULKER,2025/3,2AAGG,(Ara Toplam),(Subtotal),898208819.0
+ULKER,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ULKER,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1034012877.0
+ULKER,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,938886813.0
+ULKER,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ULKER,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ULKER,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ULKER,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ULKER,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ULKER,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ULKER,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,47659071.0
+ULKER,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ULKER,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,47466994.0
+ULKER,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ULKER,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1035493304.0
+ULKER,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,968731105.0
+ULKER,2025/3,2OA,Ödenmiş Sermaye,Share Capital,9760505.0
+ULKER,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ULKER,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,140077576.0
+ULKER,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ULKER,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-47409162.0
+ULKER,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,64177968.0
+ULKER,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),515484317.0
+ULKER,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),63788844.0
+ULKER,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,222851056.0
+ULKER,2025/3,2ODA,Azınlık Payları,Minority Interests,66762199.0
+ULKER,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2967715000.0
+ULKER,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ULKER,2025/3,3C,Satış Gelirleri,Net Sales,743671185.0
+ULKER,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-495007864.0
+ULKER,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ULKER,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,248663322.0
+ULKER,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ULKER,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ULKER,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ULKER,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),248663322.0
+ULKER,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-89678128.0
+ULKER,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-18213689.0
+ULKER,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-3869682.0
+ULKER,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,31213991.0
+ULKER,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-19874146.0
+ULKER,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ULKER,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,148241669.0
+ULKER,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,136901823.0
+ULKER,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,93490301.0
+ULKER,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-15862169.0
+ULKER,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ULKER,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ULKER,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,225869801.0
+ULKER,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),33209.0
+ULKER,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-130519130.0
+ULKER,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,77628132.0
+ULKER,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,95383879.0
+ULKER,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-24248989.0
+ULKER,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-7916990.0
+ULKER,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-16331999.0
+ULKER,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ULKER,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,71134890.0
+ULKER,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ULKER,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ULKER,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,71134890.0
+ULKER,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ULKER,2025/3,3LB,Azınlık Payları,Minority Interests,4569682.0
+ULKER,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,66565208.0
+ULKER,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ULKER,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ULKER,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ULKER,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ULKER,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,14369852.0
+ULKER,2025/3,4BA,Kıdem Tazminatı,Severance Payments,4634389.0
+ULKER,2025/3,4BB,Finansman Giderleri,Financial Expenses,-130519130.0
+ULKER,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,704977404.0
+ULKER,2025/3,4BD,Yurtdışı Satışlar,Export Sales,108126511.0
+ULKER,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-710858687.0
+ULKER,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-747416528.0
+ULKER,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-285179487.0
+ULKER,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-158356300.0
+ULKER,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,71134890.0
+ULKER,2025/3,4CAA,Düzeltmeler:,Adjustments:,135259930.0
+ULKER,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,14369852.0
+ULKER,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,42225861.0
+ULKER,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,97099692.0
+ULKER,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),206394820.0
+ULKER,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-351682167.0
+ULKER,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-145287347.0
+ULKER,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-13068953.0
+ULKER,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-4850052.0
+ULKER,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,20029432.0
+ULKER,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,15179380.0
+ULKER,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-143176920.0
+ULKER,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,87861806.0
+ULKER,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ULKER,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ULKER,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-62396622.0
+ULKER,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,25465184.0
+ULKER,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-190729971.0
+ULKER,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,52309159.0
+ULKER,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ULKER,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-138420812.0
+ULKER,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ULKER,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,798646105.0
+ULKER,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,660225292.0
+ULKER,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,2126679075.0
+ULKER,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,688011474.0
+ULKER,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,151234.0
+ULKER,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,666174935.0
+ULKER,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ULKER,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,66597743.0
+ULKER,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2025/6,1AF,Stoklar,Inventories,592054536.0
+ULKER,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ULKER,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,113689152.0
+ULKER,2025/6,1AI,(Ara Toplam),(Subtotal),2126679075.0
+ULKER,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ULKER,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,930545885.0
+ULKER,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+ULKER,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ULKER,2025/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+ULKER,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2025/6,1BC,Finansal Yatırımlar,Financial Investments,140491606.0
+ULKER,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ULKER,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ULKER,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ULKER,2025/6,1BFA,Stoklar,Stoklar,0.0
+ULKER,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ULKER,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,663913931.0
+ULKER,2025/6,1BGA,Şerefiye,Goodwill,68155826.0
+ULKER,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,48784374.0
+ULKER,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,5538576.0
+ULKER,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3661573.0
+ULKER,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3057224960.0
+ULKER,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ULKER,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1468354206.0
+ULKER,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1115437954.0
+ULKER,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,251924149.0
+ULKER,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,57796.0
+ULKER,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ULKER,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ULKER,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ULKER,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2011609.0
+ULKER,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5638193.0
+ULKER,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,56992043.0
+ULKER,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,36292462.0
+ULKER,2025/6,2AAGG,(Ara Toplam),(Subtotal),1468354206.0
+ULKER,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ULKER,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,625011378.0
+ULKER,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,524441681.0
+ULKER,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ULKER,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ULKER,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ULKER,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ULKER,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ULKER,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ULKER,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,52418744.0
+ULKER,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ULKER,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,48150953.0
+ULKER,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ULKER,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,963859375.0
+ULKER,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,907171032.0
+ULKER,2025/6,2OA,Ödenmiş Sermaye,Share Capital,9275402.0
+ULKER,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ULKER,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,141111538.0
+ULKER,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ULKER,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-45876260.0
+ULKER,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,72090253.0
+ULKER,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),436999578.0
+ULKER,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),82384207.0
+ULKER,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,211186314.0
+ULKER,2025/6,2ODA,Azınlık Payları,Minority Interests,56688343.0
+ULKER,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3057224960.0
+ULKER,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ULKER,2025/6,3C,Satış Gelirleri,Net Sales,1377652747.0
+ULKER,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-955112134.0
+ULKER,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ULKER,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,422540613.0
+ULKER,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ULKER,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ULKER,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ULKER,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),422540613.0
+ULKER,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-162513049.0
+ULKER,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-35873465.0
+ULKER,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-7533937.0
+ULKER,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,43417753.0
+ULKER,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-30130545.0
+ULKER,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ULKER,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,229907370.0
+ULKER,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,216620162.0
+ULKER,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,178536884.0
+ULKER,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-16459091.0
+ULKER,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ULKER,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ULKER,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,391985163.0
+ULKER,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),67523.0
+ULKER,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-268681800.0
+ULKER,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,162077793.0
+ULKER,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,123370885.0
+ULKER,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-30260122.0
+ULKER,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-8736326.0
+ULKER,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-21523796.0
+ULKER,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ULKER,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,93110763.0
+ULKER,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ULKER,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ULKER,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,93110763.0
+ULKER,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ULKER,2025/6,3LB,Azınlık Payları,Minority Interests,5608434.0
+ULKER,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,87502329.0
+ULKER,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ULKER,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ULKER,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ULKER,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ULKER,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,28438878.0
+ULKER,2025/6,4BA,Kıdem Tazminatı,Severance Payments,9168353.0
+ULKER,2025/6,4BB,Finansman Giderleri,Financial Expenses,-268681800.0
+ULKER,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,993079147.0
+ULKER,2025/6,4BD,Yurtdışı Satışlar,Export Sales,384573599.0
+ULKER,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-879815823.0
+ULKER,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-887766368.0
+ULKER,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-298026325.0
+ULKER,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-119535674.0
+ULKER,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,93110763.0
+ULKER,2025/6,4CAA,Düzeltmeler:,Adjustments:,227957963.0
+ULKER,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,28438878.0
+ULKER,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,43577316.0
+ULKER,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,179757814.0
+ULKER,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),321068727.0
+ULKER,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-412365396.0
+ULKER,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-91296669.0
+ULKER,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-28239004.0
+ULKER,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-12147219.0
+ULKER,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,57607112.0
+ULKER,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,45459893.0
+ULKER,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,-74075781.0
+ULKER,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,214497667.0
+ULKER,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-91675100.0
+ULKER,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ULKER,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-117672358.0
+ULKER,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,5150209.0
+ULKER,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-185952423.0
+ULKER,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,97824623.0
+ULKER,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ULKER,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-88127800.0
+ULKER,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ULKER,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,818882013.0
+ULKER,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,730754213.0
+ULKER,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,2166429118.0
+ULKER,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,711138003.0
+ULKER,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,150187.0
+ULKER,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,712294140.0
+ULKER,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ULKER,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,60859779.0
+ULKER,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2025/9,1AF,Stoklar,Inventories,554240457.0
+ULKER,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ULKER,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,127746551.0
+ULKER,2025/9,1AI,(Ara Toplam),(Subtotal),2166429118.0
+ULKER,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ULKER,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,940920960.0
+ULKER,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+ULKER,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ULKER,2025/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+ULKER,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ULKER,2025/9,1BC,Finansal Yatırımlar,Financial Investments,140495411.0
+ULKER,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ULKER,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ULKER,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ULKER,2025/9,1BFA,Stoklar,Stoklar,0.0
+ULKER,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ULKER,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,679811022.0
+ULKER,2025/9,1BGA,Şerefiye,Goodwill,66843989.0
+ULKER,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,48739635.0
+ULKER,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,1940161.0
+ULKER,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3090742.0
+ULKER,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3107350078.0
+ULKER,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ULKER,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1463038531.0
+ULKER,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1129329487.0
+ULKER,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,233907281.0
+ULKER,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,53341.0
+ULKER,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ULKER,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ULKER,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ULKER,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,1829559.0
+ULKER,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),15312278.0
+ULKER,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,55001154.0
+ULKER,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,27605431.0
+ULKER,2025/9,2AAGG,(Ara Toplam),(Subtotal),1463038531.0
+ULKER,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ULKER,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,620214879.0
+ULKER,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,517390673.0
+ULKER,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ULKER,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ULKER,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ULKER,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ULKER,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ULKER,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ULKER,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ULKER,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,51802288.0
+ULKER,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ULKER,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,51021918.0
+ULKER,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ULKER,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1024096668.0
+ULKER,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,965605147.0
+ULKER,2025/9,2OA,Ödenmiş Sermaye,Share Capital,8880755.0
+ULKER,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ULKER,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,145246551.0
+ULKER,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ULKER,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-55481583.0
+ULKER,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,74202869.0
+ULKER,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),449805010.0
+ULKER,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),110469919.0
+ULKER,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,232481626.0
+ULKER,2025/9,2ODA,Azınlık Payları,Minority Interests,58491520.0
+ULKER,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3107350078.0
+ULKER,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ULKER,2025/9,3C,Satış Gelirleri,Net Sales,2094508862.0
+ULKER,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1461518015.0
+ULKER,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ULKER,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,632990846.0
+ULKER,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ULKER,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ULKER,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ULKER,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ULKER,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),632990846.0
+ULKER,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-239348734.0
+ULKER,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-55512308.0
+ULKER,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-11720809.0
+ULKER,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,62631694.0
+ULKER,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-43462205.0
+ULKER,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ULKER,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,345578486.0
+ULKER,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,326408996.0
+ULKER,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,255072164.0
+ULKER,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-19128078.0
+ULKER,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ULKER,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ULKER,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,581522571.0
+ULKER,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),104977.0
+ULKER,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-403810246.0
+ULKER,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,235944086.0
+ULKER,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,177817301.0
+ULKER,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-52160303.0
+ULKER,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-26320581.0
+ULKER,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-25839723.0
+ULKER,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ULKER,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,125656998.0
+ULKER,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ULKER,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ULKER,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,125656998.0
+ULKER,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ULKER,2025/9,3LB,Azınlık Payları,Minority Interests,6768506.0
+ULKER,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,118888492.0
+ULKER,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ULKER,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ULKER,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ULKER,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ULKER,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,45836265.0
+ULKER,2025/9,4BA,Kıdem Tazminatı,Severance Payments,13360810.0
+ULKER,2025/9,4BB,Finansman Giderleri,Financial Expenses,-403810246.0
+ULKER,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,1939657005.0
+ULKER,2025/9,4BD,Yurtdışı Satışlar,Export Sales,379646034.0
+ULKER,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-936681129.0
+ULKER,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-948297738.0
+ULKER,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-346538985.0
+ULKER,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-61232497.0
+ULKER,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,125656998.0
+ULKER,2025/9,4CAA,Düzeltmeler:,Adjustments:,334003158.0
+ULKER,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,45836265.0
+ULKER,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,50311773.0
+ULKER,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,284956643.0
+ULKER,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),459660156.0
+ULKER,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-480992381.0
+ULKER,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-21332225.0
+ULKER,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-39900273.0
+ULKER,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-28109402.0
+ULKER,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,99012558.0
+ULKER,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,70903157.0
+ULKER,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,9670659.0
+ULKER,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,208158258.0
+ULKER,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-95251492.0
+ULKER,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ULKER,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-169412055.0
+ULKER,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-56505289.0
+ULKER,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-219985286.0
+ULKER,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,131263981.0
+ULKER,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ULKER,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-88721305.0
+ULKER,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ULKER,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,854052945.0
+ULKER,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,765331640.0

@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+SAHOL,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,63371364083.0
+SAHOL,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,5704015748.0
+SAHOL,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,5732407858.0
+SAHOL,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,579762385.0
+SAHOL,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,36020781390.0
+SAHOL,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,676497971.0
+SAHOL,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2022/12,1AF,Stoklar,Inventories,1214550075.0
+SAHOL,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SAHOL,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,13379459481.0
+SAHOL,2022/12,1AI,(Ara Toplam),(Subtotal),63307474909.0
+SAHOL,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,63889174.0
+SAHOL,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,50296439569.0
+SAHOL,2022/12,1B,Ticari Alacaklar,Trade Receivables,124760.0
+SAHOL,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,17377318332.0
+SAHOL,2022/12,1BB,Diğer Alacaklar,Other Receivables,140172913.0
+SAHOL,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2022/12,1BC,Finansal Yatırımlar,Financial Investments,20452740604.0
+SAHOL,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,3529480301.0
+SAHOL,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SAHOL,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,129247491.0
+SAHOL,2022/12,1BFA,Stoklar,Stoklar,0.0
+SAHOL,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,412626628.0
+SAHOL,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2539904228.0
+SAHOL,2022/12,1BGA,Şerefiye,Goodwill,598670937.0
+SAHOL,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1490682789.0
+SAHOL,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,9466314.0
+SAHOL,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3616004271.0
+SAHOL,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,113667803652.0
+SAHOL,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+SAHOL,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,79382342729.0
+SAHOL,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,5594137732.0
+SAHOL,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1362430387.0
+SAHOL,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,3085988896.0
+SAHOL,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SAHOL,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,65906727578.0
+SAHOL,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SAHOL,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,44989056.0
+SAHOL,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),895956492.0
+SAHOL,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,1588239804.0
+SAHOL,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,902650918.0
+SAHOL,2022/12,2AAGG,(Ara Toplam),(Subtotal),79381120863.0
+SAHOL,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,1221866.0
+SAHOL,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,12899271034.0
+SAHOL,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,6762683536.0
+SAHOL,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SAHOL,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,1414029362.0
+SAHOL,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SAHOL,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,2167403374.0
+SAHOL,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,2527974.0
+SAHOL,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,44525464.0
+SAHOL,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1184344704.0
+SAHOL,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SAHOL,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,457261745.0
+SAHOL,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,866494875.0
+SAHOL,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,21386189889.0
+SAHOL,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,11631976564.0
+SAHOL,2022/12,2OA,Ödenmiş Sermaye,Share Capital,108926116.0
+SAHOL,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SAHOL,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,18892003.0
+SAHOL,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SAHOL,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SAHOL,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,562577354.0
+SAHOL,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4640524130.0
+SAHOL,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),2104499840.0
+SAHOL,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,4196557122.0
+SAHOL,2022/12,2ODA,Azınlık Payları,Minority Interests,9754213325.0
+SAHOL,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,113667803652.0
+SAHOL,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SAHOL,2022/12,3C,Satış Gelirleri,Net Sales,7438642149.0
+SAHOL,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-6342968284.0
+SAHOL,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SAHOL,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1095673865.0
+SAHOL,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",18795061428.0
+SAHOL,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-7606154710.0
+SAHOL,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SAHOL,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,11188906718.0
+SAHOL,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SAHOL,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),12284580583.0
+SAHOL,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-722435345.0
+SAHOL,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-3027467022.0
+SAHOL,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-10888828.0
+SAHOL,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1013538076.0
+SAHOL,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-349236428.0
+SAHOL,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SAHOL,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,9188091036.0
+SAHOL,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,8523789388.0
+SAHOL,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,560716761.0
+SAHOL,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-27279188.0
+SAHOL,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SAHOL,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1074734125.0
+SAHOL,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,10796262734.0
+SAHOL,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),136650168.0
+SAHOL,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-5002371375.0
+SAHOL,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,533437574.0
+SAHOL,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,5930541526.0
+SAHOL,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-2242770868.0
+SAHOL,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-2569430362.0
+SAHOL,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,326659494.0
+SAHOL,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SAHOL,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,3687770658.0
+SAHOL,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SAHOL,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-239603.0
+SAHOL,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,3687531056.0
+SAHOL,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SAHOL,2022/12,3LB,Azınlık Payları,Minority Interests,1314887927.0
+SAHOL,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,2372643128.0
+SAHOL,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+SAHOL,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+SAHOL,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+SAHOL,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+SAHOL,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,657918504.0
+SAHOL,2022/12,4BA,Kıdem Tazminatı,Severance Payments,41829464.0
+SAHOL,2022/12,4BB,Finansman Giderleri,Financial Expenses,-5002371375.0
+SAHOL,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,6505344586.0
+SAHOL,2022/12,4BD,Yurtdışı Satışlar,Export Sales,1186878861.0
+SAHOL,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-5295759871.0
+SAHOL,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,1066954834.0
+SAHOL,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),1066954834.0
+SAHOL,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-4268137482.0
+SAHOL,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,3687531056.0
+SAHOL,2022/12,4CAA,Düzeltmeler:,Adjustments:,-4533135927.0
+SAHOL,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,657918504.0
+SAHOL,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,2034300584.0
+SAHOL,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-7225355016.0
+SAHOL,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-845604871.0
+SAHOL,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1570488665.0
+SAHOL,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-2416093537.0
+SAHOL,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-1852043946.0
+SAHOL,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-659131143.0
+SAHOL,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,3696136407.0
+SAHOL,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,3037005264.0
+SAHOL,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,-1231132218.0
+SAHOL,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1423280996.0
+SAHOL,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-339203453.0
+SAHOL,2022/12,4CBC,Sermaye Artırımı,Rights Issue,70518582.0
+SAHOL,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-169915268.0
+SAHOL,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,984680858.0
+SAHOL,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-246451361.0
+SAHOL,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-2828979217.0
+SAHOL,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SAHOL,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-3075430578.0
+SAHOL,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SAHOL,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,8434668590.0
+SAHOL,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,5359238013.0
+SAHOL,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,34355644014.0
+SAHOL,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,4190629386.0
+SAHOL,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2130551915.0
+SAHOL,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,374876667.0
+SAHOL,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,18803419102.0
+SAHOL,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,397229515.0
+SAHOL,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2022/3,1AF,Stoklar,Inventories,654052443.0
+SAHOL,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SAHOL,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,7778488083.0
+SAHOL,2022/3,1AI,(Ara Toplam),(Subtotal),34329247110.0
+SAHOL,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,26396904.0
+SAHOL,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,28134678146.0
+SAHOL,2022/3,1B,Ticari Alacaklar,Trade Receivables,75971.0
+SAHOL,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,12025160023.0
+SAHOL,2022/3,1BB,Diğer Alacaklar,Other Receivables,58020800.0
+SAHOL,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2022/3,1BC,Finansal Yatırımlar,Financial Investments,11040528591.0
+SAHOL,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,589630920.0
+SAHOL,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SAHOL,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,28293927.0
+SAHOL,2022/3,1BFA,Stoklar,Stoklar,0.0
+SAHOL,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,151407918.0
+SAHOL,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,772960753.0
+SAHOL,2022/3,1BGA,Şerefiye,Goodwill,183479592.0
+SAHOL,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,586341937.0
+SAHOL,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,483402871.0
+SAHOL,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,2215374842.0
+SAHOL,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,62490322160.0
+SAHOL,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+SAHOL,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,46617339516.0
+SAHOL,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,3868843455.0
+SAHOL,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,657405190.0
+SAHOL,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1396235073.0
+SAHOL,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SAHOL,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,37967757561.0
+SAHOL,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SAHOL,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,26165308.0
+SAHOL,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),804365261.0
+SAHOL,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,854470420.0
+SAHOL,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1041807208.0
+SAHOL,2022/3,2AAGG,(Ara Toplam),(Subtotal),46617049477.0
+SAHOL,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,290040.0
+SAHOL,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,7488440959.0
+SAHOL,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,4371870427.0
+SAHOL,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SAHOL,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,689339107.0
+SAHOL,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SAHOL,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,1116788352.0
+SAHOL,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SAHOL,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,12160603.0
+SAHOL,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,525755243.0
+SAHOL,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SAHOL,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,76203362.0
+SAHOL,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,696323865.0
+SAHOL,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,8384541685.0
+SAHOL,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4193715757.0
+SAHOL,2022/3,2OA,Ödenmiş Sermaye,Share Capital,139148498.0
+SAHOL,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SAHOL,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SAHOL,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SAHOL,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,524137484.0
+SAHOL,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,135446449.0
+SAHOL,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2692840863.0
+SAHOL,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),562670781.0
+SAHOL,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,139471681.0
+SAHOL,2022/3,2ODA,Azınlık Payları,Minority Interests,4190825928.0
+SAHOL,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,62490322160.0
+SAHOL,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SAHOL,2022/3,3C,Satış Gelirleri,Net Sales,891945276.0
+SAHOL,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-711938980.0
+SAHOL,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SAHOL,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,180006296.0
+SAHOL,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",1859100556.0
+SAHOL,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-784569595.0
+SAHOL,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SAHOL,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,1074530961.0
+SAHOL,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SAHOL,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1254537256.0
+SAHOL,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-83318823.0
+SAHOL,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-327777350.0
+SAHOL,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1216373.0
+SAHOL,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,102990412.0
+SAHOL,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-68956805.0
+SAHOL,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SAHOL,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,876258317.0
+SAHOL,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,842224710.0
+SAHOL,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,238813516.0
+SAHOL,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-212200.0
+SAHOL,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SAHOL,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,88887901.0
+SAHOL,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1203747534.0
+SAHOL,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),12921421.0
+SAHOL,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-37062229.0
+SAHOL,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,238601316.0
+SAHOL,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1179606726.0
+SAHOL,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-219260944.0
+SAHOL,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-820409940.0
+SAHOL,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,601148996.0
+SAHOL,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SAHOL,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,960345782.0
+SAHOL,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SAHOL,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-3364.0
+SAHOL,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,960342418.0
+SAHOL,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SAHOL,2022/3,3LB,Azınlık Payları,Minority Interests,369853145.0
+SAHOL,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,590489273.0
+SAHOL,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SAHOL,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SAHOL,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SAHOL,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SAHOL,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,51896596.0
+SAHOL,2022/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+SAHOL,2022/3,4BB,Finansman Giderleri,Financial Expenses,-37062229.0
+SAHOL,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,751955901.0
+SAHOL,2022/3,4BD,Yurtdışı Satışlar,Export Sales,172142741.0
+SAHOL,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-3415052377.0
+SAHOL,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,947614732.0
+SAHOL,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),947614732.0
+SAHOL,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,551465861.0
+SAHOL,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,960342418.0
+SAHOL,2022/3,4CAA,Düzeltmeler:,Adjustments:,-336107172.0
+SAHOL,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,51896596.0
+SAHOL,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,130712563.0
+SAHOL,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-518716331.0
+SAHOL,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),624235246.0
+SAHOL,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,12515272.0
+SAHOL,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),636750518.0
+SAHOL,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-85284657.0
+SAHOL,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-72557401.0
+SAHOL,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1015971653.0
+SAHOL,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1088529053.0
+SAHOL,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,-537063193.0
+SAHOL,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-41606379.0
+SAHOL,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,-57336494.0
+SAHOL,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SAHOL,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-46923180.0
+SAHOL,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-145866053.0
+SAHOL,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-682929246.0
+SAHOL,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,313703610.0
+SAHOL,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SAHOL,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-369225636.0
+SAHOL,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SAHOL,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3705487453.0
+SAHOL,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3336261817.0
+SAHOL,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,37017581869.0
+SAHOL,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3784262974.0
+SAHOL,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2506880549.0
+SAHOL,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,376688954.0
+SAHOL,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,19433147549.0
+SAHOL,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,389331991.0
+SAHOL,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2022/6,1AF,Stoklar,Inventories,667362953.0
+SAHOL,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SAHOL,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,9829485783.0
+SAHOL,2022/6,1AI,(Ara Toplam),(Subtotal),36987160753.0
+SAHOL,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,30421115.0
+SAHOL,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,26340485280.0
+SAHOL,2022/6,1B,Ticari Alacaklar,Trade Receivables,75847.0
+SAHOL,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,10882539212.0
+SAHOL,2022/6,1BB,Diğer Alacaklar,Other Receivables,69239848.0
+SAHOL,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2022/6,1BC,Finansal Yatırımlar,Financial Investments,10769806907.0
+SAHOL,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,594727704.0
+SAHOL,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SAHOL,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,27743748.0
+SAHOL,2022/6,1BFA,Stoklar,Stoklar,0.0
+SAHOL,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,152047581.0
+SAHOL,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,745516314.0
+SAHOL,2022/6,1BGA,Şerefiye,Goodwill,219218100.0
+SAHOL,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,548943468.0
+SAHOL,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,70096816.0
+SAHOL,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,2260529734.0
+SAHOL,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,63358067148.0
+SAHOL,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+SAHOL,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,47741420552.0
+SAHOL,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,4193472746.0
+SAHOL,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,678323628.0
+SAHOL,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1657578693.0
+SAHOL,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SAHOL,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,39073712930.0
+SAHOL,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SAHOL,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,35750147.0
+SAHOL,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),44847227.0
+SAHOL,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,867986628.0
+SAHOL,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1189365302.0
+SAHOL,2022/6,2AAGG,(Ara Toplam),(Subtotal),47741037301.0
+SAHOL,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,383251.0
+SAHOL,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,7290151036.0
+SAHOL,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,4242660712.0
+SAHOL,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SAHOL,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,653971986.0
+SAHOL,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SAHOL,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,873361492.0
+SAHOL,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SAHOL,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,15180991.0
+SAHOL,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,569958601.0
+SAHOL,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SAHOL,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,353768587.0
+SAHOL,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,581248667.0
+SAHOL,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,8326495561.0
+SAHOL,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4158219382.0
+SAHOL,2022/6,2OA,Ödenmiş Sermaye,Share Capital,122242832.0
+SAHOL,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SAHOL,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SAHOL,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SAHOL,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,524319110.0
+SAHOL,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,158593228.0
+SAHOL,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2326041734.0
+SAHOL,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),979073834.0
+SAHOL,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,47948644.0
+SAHOL,2022/6,2ODA,Azınlık Payları,Minority Interests,4168276178.0
+SAHOL,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,63358067148.0
+SAHOL,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SAHOL,2022/6,3C,Satış Gelirleri,Net Sales,1884272743.0
+SAHOL,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1493578112.0
+SAHOL,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SAHOL,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,390694631.0
+SAHOL,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",4142001982.0
+SAHOL,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-1684941036.0
+SAHOL,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SAHOL,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,2457060946.0
+SAHOL,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SAHOL,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2847755577.0
+SAHOL,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-165287842.0
+SAHOL,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-664106711.0
+SAHOL,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-2611680.0
+SAHOL,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,330852644.0
+SAHOL,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-158757265.0
+SAHOL,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SAHOL,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2187844723.0
+SAHOL,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2015749344.0
+SAHOL,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,237673938.0
+SAHOL,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-207166.0
+SAHOL,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SAHOL,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,167405452.0
+SAHOL,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,2592716948.0
+SAHOL,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),32246812.0
+SAHOL,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-72140305.0
+SAHOL,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,237466772.0
+SAHOL,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,2552823454.0
+SAHOL,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-532575497.0
+SAHOL,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-339985764.0
+SAHOL,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-192589732.0
+SAHOL,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SAHOL,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,2020247957.0
+SAHOL,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SAHOL,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-160816.0
+SAHOL,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,2020087142.0
+SAHOL,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SAHOL,2022/6,3LB,Azınlık Payları,Minority Interests,922312890.0
+SAHOL,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,1097774252.0
+SAHOL,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+SAHOL,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+SAHOL,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+SAHOL,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+SAHOL,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,102249622.0
+SAHOL,2022/6,4BA,Kıdem Tazminatı,Severance Payments,11457830.0
+SAHOL,2022/6,4BB,Finansman Giderleri,Financial Expenses,-72140305.0
+SAHOL,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,1620296068.0
+SAHOL,2022/6,4BD,Yurtdışı Satışlar,Export Sales,334871295.0
+SAHOL,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-4890505400.0
+SAHOL,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,389543796.0
+SAHOL,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),389543796.0
+SAHOL,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,491595925.0
+SAHOL,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,2020087142.0
+SAHOL,2022/6,4CAA,Düzeltmeler:,Adjustments:,65469804.0
+SAHOL,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,102249622.0
+SAHOL,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,1110661557.0
+SAHOL,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-1147441375.0
+SAHOL,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2085556946.0
+SAHOL,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-810629205.0
+SAHOL,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1274927740.0
+SAHOL,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-783331815.0
+SAHOL,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-153026604.0
+SAHOL,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2316833112.0
+SAHOL,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-2469859715.0
+SAHOL,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-1978263790.0
+SAHOL,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1206831545.0
+SAHOL,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-164809156.0
+SAHOL,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SAHOL,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-83592023.0
+SAHOL,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,958430367.0
+SAHOL,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-1019833423.0
+SAHOL,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,590519802.0
+SAHOL,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SAHOL,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-429313621.0
+SAHOL,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SAHOL,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3478004765.0
+SAHOL,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3048691144.0
+SAHOL,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,35100931323.0
+SAHOL,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3581130815.0
+SAHOL,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2282251282.0
+SAHOL,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,364095547.0
+SAHOL,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,18887234491.0
+SAHOL,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,351801845.0
+SAHOL,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2022/9,1AF,Stoklar,Inventories,744666803.0
+SAHOL,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SAHOL,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,8875055708.0
+SAHOL,2022/9,1AI,(Ara Toplam),(Subtotal),35086236491.0
+SAHOL,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,14694832.0
+SAHOL,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,27022309280.0
+SAHOL,2022/9,1B,Ticari Alacaklar,Trade Receivables,75679.0
+SAHOL,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,10727589491.0
+SAHOL,2022/9,1BB,Diğer Alacaklar,Other Receivables,63836277.0
+SAHOL,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2022/9,1BC,Finansal Yatırımlar,Financial Investments,11533487691.0
+SAHOL,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,636294759.0
+SAHOL,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SAHOL,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,27343050.0
+SAHOL,2022/9,1BFA,Stoklar,Stoklar,0.0
+SAHOL,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,146171862.0
+SAHOL,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,744369155.0
+SAHOL,2022/9,1BGA,Şerefiye,Goodwill,237188458.0
+SAHOL,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,501015734.0
+SAHOL,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,61066833.0
+SAHOL,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,2343870290.0
+SAHOL,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,62123240603.0
+SAHOL,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+SAHOL,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,45627363479.0
+SAHOL,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,4392062085.0
+SAHOL,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,779542693.0
+SAHOL,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1597389729.0
+SAHOL,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SAHOL,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,36801934121.0
+SAHOL,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SAHOL,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,23883927.0
+SAHOL,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),175402192.0
+SAHOL,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,804712297.0
+SAHOL,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1051995515.0
+SAHOL,2022/9,2AAGG,(Ara Toplam),(Subtotal),45626922559.0
+SAHOL,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,440920.0
+SAHOL,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,7613523968.0
+SAHOL,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,4025855132.0
+SAHOL,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SAHOL,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,781689135.0
+SAHOL,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SAHOL,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,1365802200.0
+SAHOL,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,1584672.0
+SAHOL,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,16071604.0
+SAHOL,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,604559322.0
+SAHOL,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SAHOL,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,195668631.0
+SAHOL,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,622293271.0
+SAHOL,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,8882353157.0
+SAHOL,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4394804793.0
+SAHOL,2022/9,2OA,Ödenmiş Sermaye,Share Capital,109982374.0
+SAHOL,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SAHOL,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,1198624.0
+SAHOL,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SAHOL,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SAHOL,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,165191596.0
+SAHOL,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2070244932.0
+SAHOL,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1466969022.0
+SAHOL,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,581218245.0
+SAHOL,2022/9,2ODA,Azınlık Payları,Minority Interests,4487548364.0
+SAHOL,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,62123240603.0
+SAHOL,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SAHOL,2022/9,3C,Satış Gelirleri,Net Sales,2923188137.0
+SAHOL,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-2328382968.0
+SAHOL,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SAHOL,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,594805169.0
+SAHOL,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",6781120700.0
+SAHOL,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-2739297331.0
+SAHOL,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SAHOL,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,4041823369.0
+SAHOL,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SAHOL,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),4636628538.0
+SAHOL,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-257807448.0
+SAHOL,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1043553011.0
+SAHOL,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-4245363.0
+SAHOL,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,511659922.0
+SAHOL,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-244110141.0
+SAHOL,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SAHOL,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,3598572497.0
+SAHOL,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,3331022717.0
+SAHOL,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,347631018.0
+SAHOL,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-199269.0
+SAHOL,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SAHOL,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,281940603.0
+SAHOL,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,4227944849.0
+SAHOL,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),61432232.0
+SAHOL,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-122565215.0
+SAHOL,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,347431748.0
+SAHOL,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,4166811866.0
+SAHOL,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-873720911.0
+SAHOL,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-866701676.0
+SAHOL,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-7019236.0
+SAHOL,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SAHOL,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,3293090954.0
+SAHOL,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SAHOL,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-154652.0
+SAHOL,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,3292936302.0
+SAHOL,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SAHOL,2022/9,3LB,Azınlık Payları,Minority Interests,1582690811.0
+SAHOL,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,1710245491.0
+SAHOL,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+SAHOL,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+SAHOL,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+SAHOL,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+SAHOL,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,151687836.0
+SAHOL,2022/9,4BA,Kıdem Tazminatı,Severance Payments,16416759.0
+SAHOL,2022/9,4BB,Finansman Giderleri,Financial Expenses,-122565215.0
+SAHOL,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,2526943611.0
+SAHOL,2022/9,4BD,Yurtdışı Satışlar,Export Sales,507265060.0
+SAHOL,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,5603200080.0
+SAHOL,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,751979230.0
+SAHOL,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),751979230.0
+SAHOL,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,788074835.0
+SAHOL,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,3292936302.0
+SAHOL,2022/9,4CAA,Düzeltmeler:,Adjustments:,-842977742.0
+SAHOL,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,151687836.0
+SAHOL,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,1126479509.0
+SAHOL,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-2121145087.0
+SAHOL,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2449958560.0
+SAHOL,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-896557779.0
+SAHOL,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1553400781.0
+SAHOL,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-765325946.0
+SAHOL,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-109758431.0
+SAHOL,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-3172006655.0
+SAHOL,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-3281765086.0
+SAHOL,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,-2493690250.0
+SAHOL,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,2007774041.0
+SAHOL,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-158763943.0
+SAHOL,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SAHOL,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-94531632.0
+SAHOL,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,1754478466.0
+SAHOL,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-739211785.0
+SAHOL,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,747350034.0
+SAHOL,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SAHOL,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,8138249.0
+SAHOL,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SAHOL,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3253642080.0
+SAHOL,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3261780329.0
+SAHOL,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,63841668492.0
+SAHOL,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,4672996782.0
+SAHOL,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,4936478792.0
+SAHOL,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,468398748.0
+SAHOL,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,34875878039.0
+SAHOL,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,663523480.0
+SAHOL,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2023/12,1AF,Stoklar,Inventories,1159403722.0
+SAHOL,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SAHOL,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,17031858141.0
+SAHOL,2023/12,1AI,(Ara Toplam),(Subtotal),63808537704.0
+SAHOL,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,33130788.0
+SAHOL,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,43487136884.0
+SAHOL,2023/12,1B,Ticari Alacaklar,Trade Receivables,126342.0
+SAHOL,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,11940543957.0
+SAHOL,2023/12,1BB,Diğer Alacaklar,Other Receivables,80737506.0
+SAHOL,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2023/12,1BC,Finansal Yatırımlar,Financial Investments,19379332413.0
+SAHOL,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,3771059601.0
+SAHOL,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SAHOL,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,128713621.0
+SAHOL,2023/12,1BFA,Stoklar,Stoklar,0.0
+SAHOL,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,456400769.0
+SAHOL,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3105769091.0
+SAHOL,2023/12,1BGA,Şerefiye,Goodwill,526653657.0
+SAHOL,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1371948982.0
+SAHOL,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,81623869.0
+SAHOL,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,2644227077.0
+SAHOL,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,107328805377.0
+SAHOL,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+SAHOL,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,79571896424.0
+SAHOL,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,5925026296.0
+SAHOL,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1323023671.0
+SAHOL,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,2754397941.0
+SAHOL,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SAHOL,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,66344854110.0
+SAHOL,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,286390.0
+SAHOL,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,112108249.0
+SAHOL,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),466874366.0
+SAHOL,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,1908957252.0
+SAHOL,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,734920705.0
+SAHOL,2023/12,2AAGG,(Ara Toplam),(Subtotal),79570448980.0
+SAHOL,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,1447444.0
+SAHOL,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,8901064483.0
+SAHOL,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,4717497058.0
+SAHOL,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,2953888.0
+SAHOL,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,962183051.0
+SAHOL,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SAHOL,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,1079493546.0
+SAHOL,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,1333580.0
+SAHOL,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,64225212.0
+SAHOL,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1222466897.0
+SAHOL,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SAHOL,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,388907373.0
+SAHOL,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,462003879.0
+SAHOL,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,18855844469.0
+SAHOL,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,10804314764.0
+SAHOL,2023/12,2OA,Ödenmiş Sermaye,Share Capital,69186641.0
+SAHOL,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SAHOL,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,17325008.0
+SAHOL,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SAHOL,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-54990421.0
+SAHOL,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,529652236.0
+SAHOL,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5930468681.0
+SAHOL,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),755267147.0
+SAHOL,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,3557405472.0
+SAHOL,2023/12,2ODA,Azınlık Payları,Minority Interests,8051529705.0
+SAHOL,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,107328805377.0
+SAHOL,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SAHOL,2023/12,3C,Satış Gelirleri,Net Sales,8301494386.0
+SAHOL,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-7024362167.0
+SAHOL,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SAHOL,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1277132219.0
+SAHOL,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",23858026595.0
+SAHOL,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-13872941896.0
+SAHOL,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SAHOL,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,9985084699.0
+SAHOL,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SAHOL,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),11262216918.0
+SAHOL,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1766755811.0
+SAHOL,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-3550110755.0
+SAHOL,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-16357195.0
+SAHOL,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1393072413.0
+SAHOL,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-611281847.0
+SAHOL,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SAHOL,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,6710783722.0
+SAHOL,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,5928993157.0
+SAHOL,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,68547143.0
+SAHOL,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-38482978.0
+SAHOL,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SAHOL,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,828149773.0
+SAHOL,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,7568997660.0
+SAHOL,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),229024065.0
+SAHOL,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-4892519667.0
+SAHOL,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,30064164.0
+SAHOL,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,2905502058.0
+SAHOL,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-1702809161.0
+SAHOL,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1173975521.0
+SAHOL,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-528833640.0
+SAHOL,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SAHOL,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1202692897.0
+SAHOL,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SAHOL,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-148310.0
+SAHOL,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1202544587.0
+SAHOL,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SAHOL,2023/12,3LB,Azınlık Payları,Minority Interests,267790947.0
+SAHOL,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,934753640.0
+SAHOL,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SAHOL,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SAHOL,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SAHOL,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SAHOL,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,733249815.0
+SAHOL,2023/12,4BA,Kıdem Tazminatı,Severance Payments,62041329.0
+SAHOL,2023/12,4BB,Finansman Giderleri,Financial Expenses,-4892519667.0
+SAHOL,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,7512419318.0
+SAHOL,2023/12,4BD,Yurtdışı Satışlar,Export Sales,1050453618.0
+SAHOL,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,2043908727.0
+SAHOL,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,2043908727.0
+SAHOL,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),2043908727.0
+SAHOL,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1369942498.0
+SAHOL,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1202544587.0
+SAHOL,2023/12,4CAA,Düzeltmeler:,Adjustments:,201101997.0
+SAHOL,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,733249815.0
+SAHOL,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,988349801.0
+SAHOL,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-68460062.0
+SAHOL,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1403646584.0
+SAHOL,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,1568179778.0
+SAHOL,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2971826362.0
+SAHOL,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-1601883864.0
+SAHOL,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1299317216.0
+SAHOL,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-388298942.0
+SAHOL,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1687616159.0
+SAHOL,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,-317673661.0
+SAHOL,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,3452453807.0
+SAHOL,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-819081864.0
+SAHOL,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SAHOL,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-198171099.0
+SAHOL,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,2435200845.0
+SAHOL,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,2117527184.0
+SAHOL,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1291713979.0
+SAHOL,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SAHOL,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,3409241164.0
+SAHOL,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SAHOL,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,5395234875.0
+SAHOL,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,5171628431.0
+SAHOL,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,43180130552.0
+SAHOL,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3740057953.0
+SAHOL,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,4395890774.0
+SAHOL,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,368860474.0
+SAHOL,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,24741132595.0
+SAHOL,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,574986085.0
+SAHOL,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2023/3,1AF,Stoklar,Inventories,805644941.0
+SAHOL,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SAHOL,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,8525223058.0
+SAHOL,2023/3,1AI,(Ara Toplam),(Subtotal),43151795881.0
+SAHOL,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,28334671.0
+SAHOL,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,28483617611.0
+SAHOL,2023/3,1B,Ticari Alacaklar,Trade Receivables,76663.0
+SAHOL,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,10036662254.0
+SAHOL,2023/3,1BB,Diğer Alacaklar,Other Receivables,103528231.0
+SAHOL,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2023/3,1BC,Finansal Yatırımlar,Financial Investments,13299512190.0
+SAHOL,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,926752363.0
+SAHOL,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SAHOL,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,33831706.0
+SAHOL,2023/3,1BFA,Stoklar,Stoklar,0.0
+SAHOL,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,191693368.0
+SAHOL,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,941117637.0
+SAHOL,2023/3,1BGA,Şerefiye,Goodwill,218085294.0
+SAHOL,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,584967844.0
+SAHOL,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,150146916.0
+SAHOL,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1997243144.0
+SAHOL,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,71663748163.0
+SAHOL,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+SAHOL,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,54239788720.0
+SAHOL,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,3411947800.0
+SAHOL,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,802435610.0
+SAHOL,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1901796454.0
+SAHOL,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SAHOL,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,45195615391.0
+SAHOL,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SAHOL,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,43768176.0
+SAHOL,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),689899519.0
+SAHOL,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,1266560471.0
+SAHOL,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,926809327.0
+SAHOL,2023/3,2AAGG,(Ara Toplam),(Subtotal),54238832748.0
+SAHOL,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,955972.0
+SAHOL,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,6920222589.0
+SAHOL,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,4040524865.0
+SAHOL,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SAHOL,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,814831560.0
+SAHOL,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SAHOL,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,781865196.0
+SAHOL,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,1180907.0
+SAHOL,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,18943131.0
+SAHOL,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,749615172.0
+SAHOL,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SAHOL,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,51131240.0
+SAHOL,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,462130520.0
+SAHOL,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,10503736854.0
+SAHOL,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5321804688.0
+SAHOL,2023/3,2OA,Ödenmiş Sermaye,Share Capital,106338611.0
+SAHOL,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SAHOL,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,1158913.0
+SAHOL,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SAHOL,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,613339361.0
+SAHOL,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,215400463.0
+SAHOL,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4096247772.0
+SAHOL,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),317235900.0
+SAHOL,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-27916332.0
+SAHOL,2023/3,2ODA,Azınlık Payları,Minority Interests,5181932165.0
+SAHOL,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,71663748163.0
+SAHOL,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SAHOL,2023/3,3C,Satış Gelirleri,Net Sales,2140406161.0
+SAHOL,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1822151162.0
+SAHOL,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SAHOL,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,318254999.0
+SAHOL,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",5563320825.0
+SAHOL,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-2992145255.0
+SAHOL,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SAHOL,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,2571175570.0
+SAHOL,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SAHOL,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2889430569.0
+SAHOL,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-236792798.0
+SAHOL,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1226317961.0
+SAHOL,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-3892568.0
+SAHOL,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,197369595.0
+SAHOL,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-138251885.0
+SAHOL,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SAHOL,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1481544951.0
+SAHOL,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1422427241.0
+SAHOL,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,11050670.0
+SAHOL,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-596866.0
+SAHOL,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SAHOL,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,65561711.0
+SAHOL,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1557560467.0
+SAHOL,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),30056587.0
+SAHOL,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1651245157.0
+SAHOL,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,10453805.0
+SAHOL,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-63628103.0
+SAHOL,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-235670678.0
+SAHOL,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-444605877.0
+SAHOL,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,208935199.0
+SAHOL,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SAHOL,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-299298781.0
+SAHOL,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SAHOL,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-4605.0
+SAHOL,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-299303386.0
+SAHOL,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SAHOL,2023/3,3LB,Azınlık Payları,Minority Interests,-164093098.0
+SAHOL,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,-135210288.0
+SAHOL,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SAHOL,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SAHOL,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SAHOL,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SAHOL,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,187018470.0
+SAHOL,2023/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+SAHOL,2023/3,4BB,Finansman Giderleri,Financial Expenses,-1651245157.0
+SAHOL,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,1722073016.0
+SAHOL,2023/3,4BD,Yurtdışı Satışlar,Export Sales,307369357.0
+SAHOL,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2656661547.0
+SAHOL,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,145304079.0
+SAHOL,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),145304079.0
+SAHOL,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1936051696.0
+SAHOL,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-276097444.0
+SAHOL,2023/3,4CAA,Düzeltmeler:,Adjustments:,-768429294.0
+SAHOL,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,187018470.0
+SAHOL,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,289306136.0
+SAHOL,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-1244753899.0
+SAHOL,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-1044526738.0
+SAHOL,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,3215257247.0
+SAHOL,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2170730509.0
+SAHOL,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-234678813.0
+SAHOL,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-181847274.0
+SAHOL,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-505925591.0
+SAHOL,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-687772865.0
+SAHOL,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,1248278832.0
+SAHOL,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,338849593.0
+SAHOL,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,-825350080.0
+SAHOL,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SAHOL,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-125970804.0
+SAHOL,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-612471291.0
+SAHOL,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,635807541.0
+SAHOL,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-621264383.0
+SAHOL,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SAHOL,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,14543158.0
+SAHOL,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SAHOL,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,5422835338.0
+SAHOL,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,5437378496.0
+SAHOL,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,40094971666.0
+SAHOL,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,4535230502.0
+SAHOL,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3505177506.0
+SAHOL,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,331543047.0
+SAHOL,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,21495716439.0
+SAHOL,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,526890675.0
+SAHOL,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2023/6,1AF,Stoklar,Inventories,709669883.0
+SAHOL,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SAHOL,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,8971800453.0
+SAHOL,2023/6,1AI,(Ara Toplam),(Subtotal),40076028504.0
+SAHOL,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,18943161.0
+SAHOL,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,24167259022.0
+SAHOL,2023/6,1B,Ticari Alacaklar,Trade Receivables,75455.0
+SAHOL,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,8461884219.0
+SAHOL,2023/6,1BB,Diğer Alacaklar,Other Receivables,60733834.0
+SAHOL,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2023/6,1BC,Finansal Yatırımlar,Financial Investments,11019937069.0
+SAHOL,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,782311052.0
+SAHOL,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SAHOL,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,30959002.0
+SAHOL,2023/6,1BFA,Stoklar,Stoklar,0.0
+SAHOL,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,166805092.0
+SAHOL,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,951100442.0
+SAHOL,2023/6,1BGA,Şerefiye,Goodwill,212072239.0
+SAHOL,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,492540627.0
+SAHOL,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,61349847.0
+SAHOL,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1927490143.0
+SAHOL,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,64262230688.0
+SAHOL,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+SAHOL,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,49187367451.0
+SAHOL,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,3057376264.0
+SAHOL,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,671765083.0
+SAHOL,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1639706876.0
+SAHOL,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SAHOL,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,41973592325.0
+SAHOL,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SAHOL,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,43221503.0
+SAHOL,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),58981585.0
+SAHOL,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,1085518330.0
+SAHOL,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,656302765.0
+SAHOL,2023/6,2AAGG,(Ara Toplam),(Subtotal),49186464731.0
+SAHOL,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,902720.0
+SAHOL,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,6192036754.0
+SAHOL,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,3508825378.0
+SAHOL,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SAHOL,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,585499467.0
+SAHOL,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SAHOL,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,747263661.0
+SAHOL,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,1154676.0
+SAHOL,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,20431433.0
+SAHOL,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,736241148.0
+SAHOL,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SAHOL,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,139919829.0
+SAHOL,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,452701163.0
+SAHOL,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,8882826484.0
+SAHOL,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4556006471.0
+SAHOL,2023/6,2OA,Ödenmiş Sermaye,Share Capital,78872654.0
+SAHOL,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SAHOL,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,859580.0
+SAHOL,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SAHOL,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,743290271.0
+SAHOL,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,177758179.0
+SAHOL,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3023374231.0
+SAHOL,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),749914533.0
+SAHOL,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-218062977.0
+SAHOL,2023/6,2ODA,Azınlık Payları,Minority Interests,4326820013.0
+SAHOL,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,64262230688.0
+SAHOL,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SAHOL,2023/6,3C,Satış Gelirleri,Net Sales,4216908710.0
+SAHOL,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-3535739692.0
+SAHOL,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SAHOL,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,681169019.0
+SAHOL,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",10700228158.0
+SAHOL,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-5507582097.0
+SAHOL,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SAHOL,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,5192646061.0
+SAHOL,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SAHOL,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),5873815080.0
+SAHOL,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-452230786.0
+SAHOL,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-2297744256.0
+SAHOL,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-7410758.0
+SAHOL,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,982056386.0
+SAHOL,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-349165649.0
+SAHOL,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SAHOL,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,3749320016.0
+SAHOL,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,3116429279.0
+SAHOL,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,34953371.0
+SAHOL,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-929811.0
+SAHOL,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SAHOL,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,207395122.0
+SAHOL,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3990738698.0
+SAHOL,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),77533502.0
+SAHOL,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-2259030533.0
+SAHOL,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,34023561.0
+SAHOL,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1809241667.0
+SAHOL,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-765912530.0
+SAHOL,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-240791486.0
+SAHOL,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-525121044.0
+SAHOL,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SAHOL,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1043329138.0
+SAHOL,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SAHOL,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-8485.0
+SAHOL,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1043320653.0
+SAHOL,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SAHOL,2023/6,3LB,Azınlık Payları,Minority Interests,497316219.0
+SAHOL,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,546004434.0
+SAHOL,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SAHOL,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SAHOL,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SAHOL,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SAHOL,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,376003594.0
+SAHOL,2023/6,4BA,Kıdem Tazminatı,Severance Payments,39417179.0
+SAHOL,2023/6,4BB,Finansman Giderleri,Financial Expenses,-2259030533.0
+SAHOL,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,3779975734.0
+SAHOL,2023/6,4BD,Yurtdışı Satışlar,Export Sales,563912845.0
+SAHOL,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-3385269216.0
+SAHOL,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1049548682.0
+SAHOL,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1049548682.0
+SAHOL,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,5894424491.0
+SAHOL,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1043320653.0
+SAHOL,2023/6,4CAA,Düzeltmeler:,Adjustments:,-1301922927.0
+SAHOL,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,376003594.0
+SAHOL,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,666568605.0
+SAHOL,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-1125596588.0
+SAHOL,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-258602274.0
+SAHOL,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,7451500793.0
+SAHOL,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),7192898519.0
+SAHOL,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-1298474028.0
+SAHOL,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-629347093.0
+SAHOL,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2828992474.0
+SAHOL,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-3458339568.0
+SAHOL,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,2436084924.0
+SAHOL,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1995551185.0
+SAHOL,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-864476235.0
+SAHOL,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SAHOL,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-209929665.0
+SAHOL,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,921145286.0
+SAHOL,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,3357230209.0
+SAHOL,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1208148623.0
+SAHOL,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SAHOL,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,4565378832.0
+SAHOL,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SAHOL,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,5609315672.0
+SAHOL,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,8904173679.0
+SAHOL,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,43376887698.0
+SAHOL,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3423420550.0
+SAHOL,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3617728579.0
+SAHOL,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,314261248.0
+SAHOL,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,24452078684.0
+SAHOL,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,698128418.0
+SAHOL,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2023/9,1AF,Stoklar,Inventories,743634690.0
+SAHOL,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SAHOL,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,10111637789.0
+SAHOL,2023/9,1AI,(Ara Toplam),(Subtotal),43360889958.0
+SAHOL,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,15997739.0
+SAHOL,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,24887144607.0
+SAHOL,2023/9,1B,Ticari Alacaklar,Trade Receivables,75439.0
+SAHOL,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,7017323379.0
+SAHOL,2023/9,1BB,Diğer Alacaklar,Other Receivables,82544082.0
+SAHOL,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2023/9,1BC,Finansal Yatırımlar,Financial Investments,12842248779.0
+SAHOL,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,1006403741.0
+SAHOL,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SAHOL,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,31469810.0
+SAHOL,2023/9,1BFA,Stoklar,Stoklar,0.0
+SAHOL,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,167239991.0
+SAHOL,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1063727849.0
+SAHOL,2023/9,1BGA,Şerefiye,Goodwill,209767155.0
+SAHOL,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,473581820.0
+SAHOL,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,76845548.0
+SAHOL,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1915917013.0
+SAHOL,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,68264032305.0
+SAHOL,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+SAHOL,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,52070602239.0
+SAHOL,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,3320121673.0
+SAHOL,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,826961606.0
+SAHOL,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1679845694.0
+SAHOL,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SAHOL,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,44270897105.0
+SAHOL,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,253993.0
+SAHOL,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,59614855.0
+SAHOL,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),246873879.0
+SAHOL,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,1079695727.0
+SAHOL,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,585333771.0
+SAHOL,2023/9,2AAGG,(Ara Toplam),(Subtotal),52069598301.0
+SAHOL,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,1003938.0
+SAHOL,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,6539184241.0
+SAHOL,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,3565420623.0
+SAHOL,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,1998432.0
+SAHOL,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,703752169.0
+SAHOL,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SAHOL,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,774761722.0
+SAHOL,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,1154671.0
+SAHOL,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,28529607.0
+SAHOL,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,770516225.0
+SAHOL,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SAHOL,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,199255597.0
+SAHOL,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,493795194.0
+SAHOL,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,9654245825.0
+SAHOL,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5078912091.0
+SAHOL,2023/9,2OA,Ödenmiş Sermaye,Share Capital,74396704.0
+SAHOL,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SAHOL,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,810800.0
+SAHOL,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SAHOL,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,772979727.0
+SAHOL,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,99029899.0
+SAHOL,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2955709764.0
+SAHOL,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1337215452.0
+SAHOL,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-161230256.0
+SAHOL,2023/9,2ODA,Azınlık Payları,Minority Interests,4575333734.0
+SAHOL,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,68264032305.0
+SAHOL,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SAHOL,2023/9,3C,Satış Gelirleri,Net Sales,6264249285.0
+SAHOL,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-5327285983.0
+SAHOL,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SAHOL,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,936963303.0
+SAHOL,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",17186831089.0
+SAHOL,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-9641579494.0
+SAHOL,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SAHOL,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,7545251596.0
+SAHOL,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SAHOL,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),8482214898.0
+SAHOL,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-673244387.0
+SAHOL,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-3314863480.0
+SAHOL,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-11386843.0
+SAHOL,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1216924876.0
+SAHOL,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-471655517.0
+SAHOL,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SAHOL,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,5227989546.0
+SAHOL,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,4482720188.0
+SAHOL,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,50614007.0
+SAHOL,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-905989.0
+SAHOL,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SAHOL,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,402075346.0
+SAHOL,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,5679772911.0
+SAHOL,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),97720732.0
+SAHOL,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-4565814644.0
+SAHOL,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,49708018.0
+SAHOL,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1211678998.0
+SAHOL,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-1372228772.0
+SAHOL,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-562287672.0
+SAHOL,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-809941100.0
+SAHOL,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SAHOL,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-160549774.0
+SAHOL,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SAHOL,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-174603.0
+SAHOL,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-160724377.0
+SAHOL,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SAHOL,2023/9,3LB,Azınlık Payları,Minority Interests,-284429531.0
+SAHOL,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,123705154.0
+SAHOL,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SAHOL,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SAHOL,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SAHOL,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SAHOL,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,547591709.0
+SAHOL,2023/9,4BA,Kıdem Tazminatı,Severance Payments,61497583.0
+SAHOL,2023/9,4BB,Finansman Giderleri,Financial Expenses,-4565814644.0
+SAHOL,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,5676726010.0
+SAHOL,2023/9,4BD,Yurtdışı Satışlar,Export Sales,792598301.0
+SAHOL,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-4352657526.0
+SAHOL,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,1230859406.0
+SAHOL,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),1230859406.0
+SAHOL,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,2635201088.0
+SAHOL,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-160724377.0
+SAHOL,2023/9,4CAA,Düzeltmeler:,Adjustments:,806835954.0
+SAHOL,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,547591709.0
+SAHOL,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,758450295.0
+SAHOL,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,287461386.0
+SAHOL,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),646111577.0
+SAHOL,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,3369594528.0
+SAHOL,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),4015706105.0
+SAHOL,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-1380505018.0
+SAHOL,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-774583353.0
+SAHOL,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-518405829.0
+SAHOL,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1292989181.0
+SAHOL,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,1342211907.0
+SAHOL,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1756358858.0
+SAHOL,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-837769979.0
+SAHOL,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SAHOL,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-51883797.0
+SAHOL,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,866705082.0
+SAHOL,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,2208916988.0
+SAHOL,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1087633332.0
+SAHOL,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SAHOL,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,3296550320.0
+SAHOL,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SAHOL,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,5449647155.0
+SAHOL,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,5628964570.0
+SAHOL,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,64803656623.0
+SAHOL,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3966853183.0
+SAHOL,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,4917753528.0
+SAHOL,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,528762307.0
+SAHOL,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,34585128725.0
+SAHOL,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,912402002.0
+SAHOL,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2024/12,1AF,Stoklar,Inventories,1112669159.0
+SAHOL,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SAHOL,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,18619932563.0
+SAHOL,2024/12,1AI,(Ara Toplam),(Subtotal),64643501467.0
+SAHOL,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,160155156.0
+SAHOL,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,44276374862.0
+SAHOL,2024/12,1B,Ticari Alacaklar,Trade Receivables,94506.0
+SAHOL,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,13592039139.0
+SAHOL,2024/12,1BB,Diğer Alacaklar,Other Receivables,56871411.0
+SAHOL,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2024/12,1BC,Finansal Yatırımlar,Financial Investments,18377965474.0
+SAHOL,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,3923406902.0
+SAHOL,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SAHOL,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,121618699.0
+SAHOL,2024/12,1BFA,Stoklar,Stoklar,0.0
+SAHOL,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,473631000.0
+SAHOL,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3566561183.0
+SAHOL,2024/12,1BGA,Şerefiye,Goodwill,572670896.0
+SAHOL,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1631355628.0
+SAHOL,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,55301013.0
+SAHOL,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1904859011.0
+SAHOL,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,109080031484.0
+SAHOL,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+SAHOL,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,83423743773.0
+SAHOL,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,7086296806.0
+SAHOL,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1329231290.0
+SAHOL,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,2956833306.0
+SAHOL,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SAHOL,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,69037492226.0
+SAHOL,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,247425.0
+SAHOL,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,177255077.0
+SAHOL,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),67185591.0
+SAHOL,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,1720617220.0
+SAHOL,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1046949241.0
+SAHOL,2024/12,2AAGG,(Ara Toplam),(Subtotal),83422108182.0
+SAHOL,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,1635591.0
+SAHOL,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,8859229434.0
+SAHOL,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,5134866722.0
+SAHOL,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SAHOL,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,549669888.0
+SAHOL,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SAHOL,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,787785880.0
+SAHOL,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,1152203.0
+SAHOL,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,134269365.0
+SAHOL,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1345827346.0
+SAHOL,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SAHOL,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,377091405.0
+SAHOL,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,528566624.0
+SAHOL,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,16797058278.0
+SAHOL,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,10052395502.0
+SAHOL,2024/12,2OA,Ödenmiş Sermaye,Share Capital,59427000.0
+SAHOL,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SAHOL,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,18132351.0
+SAHOL,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SAHOL,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-488119079.0
+SAHOL,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,603520951.0
+SAHOL,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),6886980987.0
+SAHOL,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-549167798.0
+SAHOL,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,3506509051.0
+SAHOL,2024/12,2ODA,Azınlık Payları,Minority Interests,6744662776.0
+SAHOL,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,109080031484.0
+SAHOL,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SAHOL,2024/12,3C,Satış Gelirleri,Net Sales,7443877256.0
+SAHOL,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-6181312054.0
+SAHOL,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SAHOL,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1262565202.0
+SAHOL,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",27162695097.0
+SAHOL,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-21239816108.0
+SAHOL,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SAHOL,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,5922878989.0
+SAHOL,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SAHOL,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),7185444191.0
+SAHOL,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1718902620.0
+SAHOL,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-3723009311.0
+SAHOL,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-11929716.0
+SAHOL,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,918946923.0
+SAHOL,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-530231220.0
+SAHOL,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SAHOL,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2120318246.0
+SAHOL,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1731602544.0
+SAHOL,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,33096128.0
+SAHOL,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-96842003.0
+SAHOL,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SAHOL,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,65824093.0
+SAHOL,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,2122396465.0
+SAHOL,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),233196982.0
+SAHOL,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-2956540379.0
+SAHOL,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-63745875.0
+SAHOL,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-600946932.0
+SAHOL,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-571182738.0
+SAHOL,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-367977281.0
+SAHOL,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-203205457.0
+SAHOL,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SAHOL,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-1172129670.0
+SAHOL,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-10340.0
+SAHOL,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-1172140010.0
+SAHOL,2024/12,3LB,Azınlık Payları,Minority Interests,-581699591.0
+SAHOL,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,-590440418.0
+SAHOL,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SAHOL,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SAHOL,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SAHOL,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SAHOL,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,765246658.0
+SAHOL,2024/12,4BA,Kıdem Tazminatı,Severance Payments,39722985.0
+SAHOL,2024/12,4BB,Finansman Giderleri,Financial Expenses,-2956540379.0
+SAHOL,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,6956549134.0
+SAHOL,2024/12,4BD,Yurtdışı Satışlar,Export Sales,734474012.0
+SAHOL,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-3712422213.0
+SAHOL,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,952387786.0
+SAHOL,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),952387786.0
+SAHOL,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-3464936320.0
+SAHOL,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-1172140010.0
+SAHOL,2024/12,4CAA,Düzeltmeler:,Adjustments:,452695051.0
+SAHOL,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,765246658.0
+SAHOL,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,1014537919.0
+SAHOL,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,733841775.0
+SAHOL,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-719444959.0
+SAHOL,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1829428044.0
+SAHOL,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-2548873003.0
+SAHOL,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-916063317.0
+SAHOL,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1041848940.0
+SAHOL,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,1433020105.0
+SAHOL,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,391171165.0
+SAHOL,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,-3073765155.0
+SAHOL,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,4427243558.0
+SAHOL,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-625586683.0
+SAHOL,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SAHOL,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-307089181.0
+SAHOL,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,3494567694.0
+SAHOL,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,420802540.0
+SAHOL,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,426211929.0
+SAHOL,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SAHOL,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,847014469.0
+SAHOL,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SAHOL,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4701997891.0
+SAHOL,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3788455245.0
+SAHOL,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,43109353504.0
+SAHOL,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3039906226.0
+SAHOL,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3587705327.0
+SAHOL,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,345884317.0
+SAHOL,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,23972684457.0
+SAHOL,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,481973342.0
+SAHOL,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2024/3,1AF,Stoklar,Inventories,861363917.0
+SAHOL,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SAHOL,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,10699099389.0
+SAHOL,2024/3,1AI,(Ara Toplam),(Subtotal),42988616975.0
+SAHOL,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,120736529.0
+SAHOL,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,31510726975.0
+SAHOL,2024/3,1B,Ticari Alacaklar,Trade Receivables,1589495.0
+SAHOL,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,8525894953.0
+SAHOL,2024/3,1BB,Diğer Alacaklar,Other Receivables,69597076.0
+SAHOL,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2024/3,1BC,Finansal Yatırımlar,Financial Investments,14275976298.0
+SAHOL,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,2757629175.0
+SAHOL,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SAHOL,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,92297982.0
+SAHOL,2024/3,1BFA,Stoklar,Stoklar,0.0
+SAHOL,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,342767441.0
+SAHOL,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2255033515.0
+SAHOL,2024/3,1BGA,Şerefiye,Goodwill,375725213.0
+SAHOL,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,976160631.0
+SAHOL,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,49993322.0
+SAHOL,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1788061873.0
+SAHOL,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,74620080480.0
+SAHOL,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+SAHOL,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,55165157156.0
+SAHOL,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,4564966176.0
+SAHOL,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,797186584.0
+SAHOL,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1964283691.0
+SAHOL,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SAHOL,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,45513260058.0
+SAHOL,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,195433.0
+SAHOL,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,88352008.0
+SAHOL,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),333731990.0
+SAHOL,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,1399114044.0
+SAHOL,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,503737339.0
+SAHOL,2024/3,2AAGG,(Ara Toplam),(Subtotal),55164827323.0
+SAHOL,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,329833.0
+SAHOL,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,6543019330.0
+SAHOL,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,3353687530.0
+SAHOL,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SAHOL,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,754215301.0
+SAHOL,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SAHOL,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,713666722.0
+SAHOL,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,910103.0
+SAHOL,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,64425945.0
+SAHOL,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,963527684.0
+SAHOL,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SAHOL,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,320276314.0
+SAHOL,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,372309731.0
+SAHOL,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,12911903993.0
+SAHOL,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7705316910.0
+SAHOL,2024/3,2OA,Ödenmiş Sermaye,Share Capital,64939463.0
+SAHOL,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SAHOL,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,12589631.0
+SAHOL,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SAHOL,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SAHOL,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,405034164.0
+SAHOL,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5012001354.0
+SAHOL,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-165911061.0
+SAHOL,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2376663358.0
+SAHOL,2024/3,2ODA,Azınlık Payları,Minority Interests,5206587084.0
+SAHOL,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,74620080480.0
+SAHOL,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SAHOL,2024/3,3C,Satış Gelirleri,Net Sales,1743127119.0
+SAHOL,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1470484904.0
+SAHOL,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SAHOL,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,272642215.0
+SAHOL,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",5918836305.0
+SAHOL,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-4157186376.0
+SAHOL,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SAHOL,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,1761649929.0
+SAHOL,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SAHOL,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2034292144.0
+SAHOL,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-232045158.0
+SAHOL,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1069644695.0
+SAHOL,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-3020017.0
+SAHOL,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,256255068.0
+SAHOL,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-153725941.0
+SAHOL,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SAHOL,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,832111400.0
+SAHOL,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,729582274.0
+SAHOL,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,10793425.0
+SAHOL,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-139533.0
+SAHOL,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SAHOL,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,4153981.0
+SAHOL,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,846919273.0
+SAHOL,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),42135117.0
+SAHOL,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1112904764.0
+SAHOL,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,10653892.0
+SAHOL,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-223850373.0
+SAHOL,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-252910217.0
+SAHOL,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-92325454.0
+SAHOL,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-160584763.0
+SAHOL,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SAHOL,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-476760590.0
+SAHOL,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SAHOL,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SAHOL,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-476760590.0
+SAHOL,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SAHOL,2024/3,3LB,Azınlık Payları,Minority Interests,-237394246.0
+SAHOL,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,-239366344.0
+SAHOL,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SAHOL,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SAHOL,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SAHOL,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SAHOL,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,180076777.0
+SAHOL,2024/3,4BA,Kıdem Tazminatı,Severance Payments,10947525.0
+SAHOL,2024/3,4BB,Finansman Giderleri,Financial Expenses,-1112904764.0
+SAHOL,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,1584027156.0
+SAHOL,2024/3,4BD,Yurtdışı Satışlar,Export Sales,209403057.0
+SAHOL,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,4357309198.0
+SAHOL,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,1188001351.0
+SAHOL,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),4357309198.0
+SAHOL,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-856903827.0
+SAHOL,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-476760590.0
+SAHOL,2024/3,4CAA,Düzeltmeler:,Adjustments:,-580734238.0
+SAHOL,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,180076777.0
+SAHOL,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,173165018.0
+SAHOL,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-234884687.0
+SAHOL,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-1057494828.0
+SAHOL,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,311447759.0
+SAHOL,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-746047069.0
+SAHOL,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-110856758.0
+SAHOL,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-190713034.0
+SAHOL,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-34976946.0
+SAHOL,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-225689980.0
+SAHOL,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-1082593808.0
+SAHOL,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1494015947.0
+SAHOL,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,-271557023.0
+SAHOL,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SAHOL,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-86635996.0
+SAHOL,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,1135822927.0
+SAHOL,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,53229120.0
+SAHOL,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,245709895.0
+SAHOL,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SAHOL,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,298939014.0
+SAHOL,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SAHOL,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4305429801.0
+SAHOL,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3965769152.0
+SAHOL,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,47229706313.0
+SAHOL,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3601956528.0
+SAHOL,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3698817922.0
+SAHOL,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,356965149.0
+SAHOL,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,25800160619.0
+SAHOL,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,534691914.0
+SAHOL,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2024/6,1AF,Stoklar,Inventories,878751874.0
+SAHOL,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SAHOL,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,12231698479.0
+SAHOL,2024/6,1AI,(Ara Toplam),(Subtotal),47103042484.0
+SAHOL,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,126663829.0
+SAHOL,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,33245280809.0
+SAHOL,2024/6,1B,Ticari Alacaklar,Trade Receivables,337902.0
+SAHOL,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,9934062727.0
+SAHOL,2024/6,1BB,Diğer Alacaklar,Other Receivables,65536881.0
+SAHOL,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2024/6,1BC,Finansal Yatırımlar,Financial Investments,14262468519.0
+SAHOL,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,2871256215.0
+SAHOL,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SAHOL,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,96784004.0
+SAHOL,2024/6,1BFA,Stoklar,Stoklar,0.0
+SAHOL,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,361304504.0
+SAHOL,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2416726379.0
+SAHOL,2024/6,1BGA,Şerefiye,Goodwill,391309947.0
+SAHOL,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1013293447.0
+SAHOL,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,72188911.0
+SAHOL,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1760011373.0
+SAHOL,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,80474987122.0
+SAHOL,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+SAHOL,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,60460786887.0
+SAHOL,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,4607162927.0
+SAHOL,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,819731156.0
+SAHOL,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1933910471.0
+SAHOL,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SAHOL,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,50664463484.0
+SAHOL,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,191393.0
+SAHOL,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,116000645.0
+SAHOL,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),312725473.0
+SAHOL,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,1439046170.0
+SAHOL,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,566284662.0
+SAHOL,2024/6,2AAGG,(Ara Toplam),(Subtotal),60459516380.0
+SAHOL,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,1270507.0
+SAHOL,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,6850457347.0
+SAHOL,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,3882801556.0
+SAHOL,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SAHOL,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,494670111.0
+SAHOL,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SAHOL,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,707878475.0
+SAHOL,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,891219.0
+SAHOL,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,80691434.0
+SAHOL,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1034832646.0
+SAHOL,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SAHOL,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,152300177.0
+SAHOL,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,496391731.0
+SAHOL,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,13163742888.0
+SAHOL,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7823516313.0
+SAHOL,2024/6,2OA,Ödenmiş Sermaye,Share Capital,63869753.0
+SAHOL,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SAHOL,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,13422988.0
+SAHOL,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SAHOL,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SAHOL,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,435067401.0
+SAHOL,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5133659295.0
+SAHOL,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-232057029.0
+SAHOL,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2409553904.0
+SAHOL,2024/6,2ODA,Azınlık Payları,Minority Interests,5340226575.0
+SAHOL,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,80474987122.0
+SAHOL,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SAHOL,2024/6,3C,Satış Gelirleri,Net Sales,3555646758.0
+SAHOL,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2962761879.0
+SAHOL,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SAHOL,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,592884879.0
+SAHOL,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",12526929068.0
+SAHOL,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-9180087847.0
+SAHOL,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SAHOL,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,3346841222.0
+SAHOL,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SAHOL,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),3939726101.0
+SAHOL,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-830585648.0
+SAHOL,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1846078480.0
+SAHOL,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-5785827.0
+SAHOL,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,419063419.0
+SAHOL,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-282878878.0
+SAHOL,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SAHOL,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1393460688.0
+SAHOL,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1257276147.0
+SAHOL,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,30063124.0
+SAHOL,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-274620.0
+SAHOL,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SAHOL,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,17788383.0
+SAHOL,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1441037576.0
+SAHOL,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),76805591.0
+SAHOL,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1810153980.0
+SAHOL,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,29788505.0
+SAHOL,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-292310813.0
+SAHOL,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-336317141.0
+SAHOL,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-403457382.0
+SAHOL,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,67140241.0
+SAHOL,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SAHOL,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-628627954.0
+SAHOL,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SAHOL,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SAHOL,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-628627954.0
+SAHOL,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SAHOL,2024/6,3LB,Azınlık Payları,Minority Interests,-302716566.0
+SAHOL,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,-325911387.0
+SAHOL,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SAHOL,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SAHOL,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SAHOL,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SAHOL,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,362503778.0
+SAHOL,2024/6,4BA,Kıdem Tazminatı,Severance Payments,22245258.0
+SAHOL,2024/6,4BB,Finansman Giderleri,Financial Expenses,-1810153980.0
+SAHOL,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,3220202429.0
+SAHOL,2024/6,4BD,Yurtdışı Satışlar,Export Sales,448185899.0
+SAHOL,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2441642955.0
+SAHOL,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,752433554.0
+SAHOL,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),752433554.0
+SAHOL,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-1050969320.0
+SAHOL,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-628627954.0
+SAHOL,2024/6,4CAA,Düzeltmeler:,Adjustments:,845234406.0
+SAHOL,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,362503778.0
+SAHOL,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,325748273.0
+SAHOL,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1474069210.0
+SAHOL,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),216606452.0
+SAHOL,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-773348154.0
+SAHOL,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-556741702.0
+SAHOL,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-494227617.0
+SAHOL,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-428281010.0
+SAHOL,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,700832719.0
+SAHOL,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,272551709.0
+SAHOL,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,-778417611.0
+SAHOL,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,2397073758.0
+SAHOL,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-580185022.0
+SAHOL,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SAHOL,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-140866893.0
+SAHOL,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,1676021844.0
+SAHOL,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,897604233.0
+SAHOL,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,274278897.0
+SAHOL,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SAHOL,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1171883130.0
+SAHOL,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SAHOL,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4468574376.0
+SAHOL,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,4605519086.0
+SAHOL,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,47863799898.0
+SAHOL,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3212558707.0
+SAHOL,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3904820391.0
+SAHOL,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,382763315.0
+SAHOL,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,26919926395.0
+SAHOL,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,774024808.0
+SAHOL,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2024/9,1AF,Stoklar,Inventories,855003086.0
+SAHOL,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SAHOL,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,11684624150.0
+SAHOL,2024/9,1AI,(Ara Toplam),(Subtotal),47733720851.0
+SAHOL,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,130079046.0
+SAHOL,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,34465494420.0
+SAHOL,2024/9,1B,Ticari Alacaklar,Trade Receivables,345732.0
+SAHOL,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,10507194851.0
+SAHOL,2024/9,1BB,Diğer Alacaklar,Other Receivables,64772003.0
+SAHOL,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2024/9,1BC,Finansal Yatırımlar,Financial Investments,14535711753.0
+SAHOL,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,3031473766.0
+SAHOL,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SAHOL,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,96638309.0
+SAHOL,2024/9,1BFA,Stoklar,Stoklar,0.0
+SAHOL,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,376732568.0
+SAHOL,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2609566474.0
+SAHOL,2024/9,1BGA,Şerefiye,Goodwill,441325854.0
+SAHOL,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1047792730.0
+SAHOL,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,65516858.0
+SAHOL,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1688423521.0
+SAHOL,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,82329294317.0
+SAHOL,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+SAHOL,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,61959351686.0
+SAHOL,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,5119807884.0
+SAHOL,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,904882381.0
+SAHOL,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,2424547473.0
+SAHOL,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SAHOL,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,50910338390.0
+SAHOL,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,193900.0
+SAHOL,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,129359614.0
+SAHOL,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),68609610.0
+SAHOL,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,1430071001.0
+SAHOL,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,970262444.0
+SAHOL,2024/9,2AAGG,(Ara Toplam),(Subtotal),61958072698.0
+SAHOL,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,1278988.0
+SAHOL,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,6874896102.0
+SAHOL,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,3716415651.0
+SAHOL,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SAHOL,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,459783281.0
+SAHOL,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SAHOL,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,718743977.0
+SAHOL,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,903006.0
+SAHOL,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,100672771.0
+SAHOL,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1082503035.0
+SAHOL,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SAHOL,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,347328633.0
+SAHOL,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,448545747.0
+SAHOL,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,13495046530.0
+SAHOL,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,8037536781.0
+SAHOL,2024/9,2OA,Ödenmiş Sermaye,Share Capital,61445945.0
+SAHOL,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SAHOL,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,14065355.0
+SAHOL,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SAHOL,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-273118057.0
+SAHOL,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,466607562.0
+SAHOL,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5339195553.0
+SAHOL,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-325560506.0
+SAHOL,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2754900929.0
+SAHOL,2024/9,2ODA,Azınlık Payları,Minority Interests,5457509749.0
+SAHOL,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,82329294317.0
+SAHOL,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SAHOL,2024/9,3C,Satış Gelirleri,Net Sales,5597574566.0
+SAHOL,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-4628840025.0
+SAHOL,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SAHOL,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,968734542.0
+SAHOL,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",20232943432.0
+SAHOL,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-15515432342.0
+SAHOL,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SAHOL,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,4717511090.0
+SAHOL,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SAHOL,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),5686245632.0
+SAHOL,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1316727664.0
+SAHOL,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-2849282373.0
+SAHOL,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-9185595.0
+SAHOL,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,648319207.0
+SAHOL,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-396595663.0
+SAHOL,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SAHOL,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1762773544.0
+SAHOL,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1511050000.0
+SAHOL,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,32016047.0
+SAHOL,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-4306258.0
+SAHOL,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SAHOL,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,33450682.0
+SAHOL,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1823934015.0
+SAHOL,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),133196221.0
+SAHOL,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-2416166853.0
+SAHOL,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,27709789.0
+SAHOL,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-459036617.0
+SAHOL,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-490429895.0
+SAHOL,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-244093030.0
+SAHOL,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-246336865.0
+SAHOL,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SAHOL,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-949466512.0
+SAHOL,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SAHOL,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-8550.0
+SAHOL,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-949475062.0
+SAHOL,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SAHOL,2024/9,3LB,Azınlık Payları,Minority Interests,-489946406.0
+SAHOL,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,-459528656.0
+SAHOL,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SAHOL,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SAHOL,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SAHOL,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SAHOL,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,577420291.0
+SAHOL,2024/9,4BA,Kıdem Tazminatı,Severance Payments,42888321.0
+SAHOL,2024/9,4BB,Finansman Giderleri,Financial Expenses,-2416166853.0
+SAHOL,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,5152516605.0
+SAHOL,2024/9,4BD,Yurtdışı Satışlar,Export Sales,621296871.0
+SAHOL,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2741068928.0
+SAHOL,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,887141791.0
+SAHOL,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),887141791.0
+SAHOL,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-2583202169.0
+SAHOL,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-949475062.0
+SAHOL,2024/9,4CAA,Düzeltmeler:,Adjustments:,473949133.0
+SAHOL,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,577420291.0
+SAHOL,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,692288631.0
+SAHOL,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1029432218.0
+SAHOL,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-475525929.0
+SAHOL,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1388882652.0
+SAHOL,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-1864408581.0
+SAHOL,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-718793587.0
+SAHOL,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-732008055.0
+SAHOL,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,1500115737.0
+SAHOL,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,768107683.0
+SAHOL,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,-1815094486.0
+SAHOL,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,3075477323.0
+SAHOL,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-609128656.0
+SAHOL,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SAHOL,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-240462020.0
+SAHOL,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,2225886648.0
+SAHOL,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,410792162.0
+SAHOL,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,476197243.0
+SAHOL,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SAHOL,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,886989405.0
+SAHOL,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SAHOL,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4705939498.0
+SAHOL,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,4076822677.0
+SAHOL,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,52768467187.0
+SAHOL,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,4833399694.0
+SAHOL,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,4941104703.0
+SAHOL,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,426011175.0
+SAHOL,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,27164250681.0
+SAHOL,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,669977771.0
+SAHOL,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2025/3,1AF,Stoklar,Inventories,869366359.0
+SAHOL,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SAHOL,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,13731992536.0
+SAHOL,2025/3,1AI,(Ara Toplam),(Subtotal),52636102919.0
+SAHOL,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,132364268.0
+SAHOL,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,34543334699.0
+SAHOL,2025/3,1B,Ticari Alacaklar,Trade Receivables,75435.0
+SAHOL,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,10589153797.0
+SAHOL,2025/3,1BB,Diğer Alacaklar,Other Receivables,44269368.0
+SAHOL,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2025/3,1BC,Finansal Yatırımlar,Financial Investments,14032732722.0
+SAHOL,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,3079686153.0
+SAHOL,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SAHOL,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,99089833.0
+SAHOL,2025/3,1BFA,Stoklar,Stoklar,0.0
+SAHOL,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,404031221.0
+SAHOL,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2892113962.0
+SAHOL,2025/3,1BGA,Şerefiye,Goodwill,464611761.0
+SAHOL,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1310224826.0
+SAHOL,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,51670336.0
+SAHOL,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1575675284.0
+SAHOL,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,87311801886.0
+SAHOL,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+SAHOL,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,66934410142.0
+SAHOL,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,5930495960.0
+SAHOL,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,892858008.0
+SAHOL,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,3069545379.0
+SAHOL,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SAHOL,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,54848602278.0
+SAHOL,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,193954.0
+SAHOL,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,135152813.0
+SAHOL,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),87182036.0
+SAHOL,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,1311958281.0
+SAHOL,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,657117887.0
+SAHOL,2025/3,2AAGG,(Ara Toplam),(Subtotal),66933106595.0
+SAHOL,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,1303547.0
+SAHOL,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,7420507933.0
+SAHOL,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,4335591259.0
+SAHOL,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SAHOL,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,510696601.0
+SAHOL,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SAHOL,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,623992789.0
+SAHOL,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,903216.0
+SAHOL,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,89269038.0
+SAHOL,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1158462244.0
+SAHOL,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SAHOL,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,290918414.0
+SAHOL,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,410674372.0
+SAHOL,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,12956883810.0
+SAHOL,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7794150162.0
+SAHOL,2025/3,2OA,Ödenmiş Sermaye,Share Capital,55516008.0
+SAHOL,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SAHOL,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,14863812.0
+SAHOL,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SAHOL,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-453129802.0
+SAHOL,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,521049170.0
+SAHOL,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4995976682.0
+SAHOL,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-77702551.0
+SAHOL,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2737576843.0
+SAHOL,2025/3,2ODA,Azınlık Payları,Minority Interests,5162733648.0
+SAHOL,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,87311801886.0
+SAHOL,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SAHOL,2025/3,3C,Satış Gelirleri,Net Sales,1399370817.0
+SAHOL,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1180096421.0
+SAHOL,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SAHOL,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,219274396.0
+SAHOL,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",5513065498.0
+SAHOL,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-4224243322.0
+SAHOL,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SAHOL,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,1288822176.0
+SAHOL,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SAHOL,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1508096571.0
+SAHOL,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-189841118.0
+SAHOL,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-888372556.0
+SAHOL,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-2519825.0
+SAHOL,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,190695025.0
+SAHOL,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-98592258.0
+SAHOL,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SAHOL,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,519465841.0
+SAHOL,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,427363073.0
+SAHOL,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,982852.0
+SAHOL,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-112948.0
+SAHOL,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SAHOL,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-13767519.0
+SAHOL,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,506568226.0
+SAHOL,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),47017053.0
+SAHOL,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-506478392.0
+SAHOL,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,869905.0
+SAHOL,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,47106887.0
+SAHOL,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-170331411.0
+SAHOL,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-60373464.0
+SAHOL,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-109957947.0
+SAHOL,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SAHOL,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-123224525.0
+SAHOL,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SAHOL,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-1876.0
+SAHOL,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-123226400.0
+SAHOL,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SAHOL,2025/3,3LB,Azınlık Payları,Minority Interests,-42141901.0
+SAHOL,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,-81084499.0
+SAHOL,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SAHOL,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SAHOL,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SAHOL,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SAHOL,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,162736412.0
+SAHOL,2025/3,4BA,Kıdem Tazminatı,Severance Payments,7656314.0
+SAHOL,2025/3,4BB,Finansman Giderleri,Financial Expenses,-506478392.0
+SAHOL,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,1304118200.0
+SAHOL,2025/3,4BD,Yurtdışı Satışlar,Export Sales,147439340.0
+SAHOL,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2999517832.0
+SAHOL,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,433464266.0
+SAHOL,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),3432982099.0
+SAHOL,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,960303955.0
+SAHOL,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-123226400.0
+SAHOL,2025/3,4CAA,Düzeltmeler:,Adjustments:,-604835349.0
+SAHOL,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,162736412.0
+SAHOL,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,282627833.0
+SAHOL,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-557241697.0
+SAHOL,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-728061749.0
+SAHOL,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,1719317116.0
+SAHOL,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),991255367.0
+SAHOL,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-30951412.0
+SAHOL,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-157184291.0
+SAHOL,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,133181222.0
+SAHOL,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-24003069.0
+SAHOL,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,936300886.0
+SAHOL,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1063646197.0
+SAHOL,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,-313650019.0
+SAHOL,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SAHOL,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-69427462.0
+SAHOL,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,680568716.0
+SAHOL,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1616869602.0
+SAHOL,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,339104006.0
+SAHOL,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SAHOL,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1955973607.0
+SAHOL,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SAHOL,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3015051557.0
+SAHOL,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,4613405613.0
+SAHOL,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,50732205418.0
+SAHOL,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,4088605560.0
+SAHOL,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,4259604570.0
+SAHOL,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,468190915.0
+SAHOL,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,27298751846.0
+SAHOL,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,820281043.0
+SAHOL,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2025/6,1AF,Stoklar,Inventories,851722755.0
+SAHOL,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SAHOL,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,12810310180.0
+SAHOL,2025/6,1AI,(Ara Toplam),(Subtotal),50597466870.0
+SAHOL,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,134738549.0
+SAHOL,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,36366094433.0
+SAHOL,2025/6,1B,Ticari Alacaklar,Trade Receivables,75404.0
+SAHOL,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,11271146075.0
+SAHOL,2025/6,1BB,Diğer Alacaklar,Other Receivables,49099250.0
+SAHOL,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2025/6,1BC,Finansal Yatırımlar,Financial Investments,14963999382.0
+SAHOL,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,3136421165.0
+SAHOL,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SAHOL,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,99953984.0
+SAHOL,2025/6,1BFA,Stoklar,Stoklar,0.0
+SAHOL,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,412374788.0
+SAHOL,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3035058801.0
+SAHOL,2025/6,1BGA,Şerefiye,Goodwill,467962720.0
+SAHOL,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1356634566.0
+SAHOL,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,92271855.0
+SAHOL,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1481096442.0
+SAHOL,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,87098299851.0
+SAHOL,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+SAHOL,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,65188315876.0
+SAHOL,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,6037160206.0
+SAHOL,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,952993515.0
+SAHOL,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,2429113668.0
+SAHOL,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SAHOL,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,53129625242.0
+SAHOL,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SAHOL,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,143291437.0
+SAHOL,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),105052371.0
+SAHOL,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,1303530910.0
+SAHOL,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1086249937.0
+SAHOL,2025/6,2AAGG,(Ara Toplam),(Subtotal),65187017286.0
+SAHOL,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,1298590.0
+SAHOL,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,8687394128.0
+SAHOL,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,5494158177.0
+SAHOL,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SAHOL,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,279805638.0
+SAHOL,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SAHOL,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,977703931.0
+SAHOL,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SAHOL,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,94425104.0
+SAHOL,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1204920301.0
+SAHOL,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SAHOL,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,235419995.0
+SAHOL,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,400960982.0
+SAHOL,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,13222589846.0
+SAHOL,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7968942365.0
+SAHOL,2025/6,2OA,Ödenmiş Sermaye,Share Capital,52756830.0
+SAHOL,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SAHOL,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,14973501.0
+SAHOL,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SAHOL,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-343621937.0
+SAHOL,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,525803569.0
+SAHOL,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5011285831.0
+SAHOL,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-34288513.0
+SAHOL,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2742033085.0
+SAHOL,2025/6,2ODA,Azınlık Payları,Minority Interests,5253647482.0
+SAHOL,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,87098299851.0
+SAHOL,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SAHOL,2025/6,3C,Satış Gelirleri,Net Sales,2900162532.0
+SAHOL,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2412491114.0
+SAHOL,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SAHOL,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,487671418.0
+SAHOL,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",11218929712.0
+SAHOL,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-8745312625.0
+SAHOL,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SAHOL,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,2473617087.0
+SAHOL,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SAHOL,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2961288505.0
+SAHOL,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-692778182.0
+SAHOL,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1537621571.0
+SAHOL,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-3835478.0
+SAHOL,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,385744081.0
+SAHOL,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-213607974.0
+SAHOL,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SAHOL,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,899189379.0
+SAHOL,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,727053273.0
+SAHOL,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3887207.0
+SAHOL,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-9782646.0
+SAHOL,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SAHOL,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,27203355.0
+SAHOL,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,920497295.0
+SAHOL,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),100801942.0
+SAHOL,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-900396703.0
+SAHOL,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-5895439.0
+SAHOL,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,120902534.0
+SAHOL,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-192037892.0
+SAHOL,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-156263536.0
+SAHOL,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-35774355.0
+SAHOL,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SAHOL,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-71135358.0
+SAHOL,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SAHOL,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-3682.0
+SAHOL,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-71139039.0
+SAHOL,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SAHOL,2025/6,3LB,Azınlık Payları,Minority Interests,-34720351.0
+SAHOL,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,-36418688.0
+SAHOL,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SAHOL,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SAHOL,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SAHOL,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SAHOL,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,332836315.0
+SAHOL,2025/6,4BA,Kıdem Tazminatı,Severance Payments,20107635.0
+SAHOL,2025/6,4BB,Finansman Giderleri,Financial Expenses,-900396703.0
+SAHOL,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,2690503631.0
+SAHOL,2025/6,4BD,Yurtdışı Satışlar,Export Sales,318606458.0
+SAHOL,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-4318009339.0
+SAHOL,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-19797287.0
+SAHOL,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-4318009339.0
+SAHOL,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,151103590.0
+SAHOL,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-71139039.0
+SAHOL,2025/6,4CAA,Düzeltmeler:,Adjustments:,504331102.0
+SAHOL,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,332836315.0
+SAHOL,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,559016973.0
+SAHOL,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,762061963.0
+SAHOL,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),433192063.0
+SAHOL,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-149229203.0
+SAHOL,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),283962860.0
+SAHOL,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-132859270.0
+SAHOL,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-359015705.0
+SAHOL,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1106356638.0
+SAHOL,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1465372343.0
+SAHOL,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,-1314268753.0
+SAHOL,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,2804827549.0
+SAHOL,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-305493166.0
+SAHOL,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SAHOL,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-125306472.0
+SAHOL,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,2374027911.0
+SAHOL,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1059759158.0
+SAHOL,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,347695618.0
+SAHOL,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SAHOL,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1407454776.0
+SAHOL,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SAHOL,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3091441454.0
+SAHOL,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,4043997064.0
+SAHOL,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,52405109592.0
+SAHOL,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3349489414.0
+SAHOL,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,4584585105.0
+SAHOL,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,456094859.0
+SAHOL,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,29108758417.0
+SAHOL,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,818285251.0
+SAHOL,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2025/9,1AF,Stoklar,Inventories,878278205.0
+SAHOL,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SAHOL,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,13068959299.0
+SAHOL,2025/9,1AI,(Ara Toplam),(Subtotal),52264450550.0
+SAHOL,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,140659041.0
+SAHOL,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,37887468399.0
+SAHOL,2025/9,1B,Ticari Alacaklar,Trade Receivables,75370.0
+SAHOL,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,12165280052.0
+SAHOL,2025/9,1BB,Diğer Alacaklar,Other Receivables,68693990.0
+SAHOL,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SAHOL,2025/9,1BC,Finansal Yatırımlar,Financial Investments,15249799911.0
+SAHOL,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,3269790604.0
+SAHOL,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SAHOL,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,102244118.0
+SAHOL,2025/9,1BFA,Stoklar,Stoklar,0.0
+SAHOL,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,436200315.0
+SAHOL,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3124168238.0
+SAHOL,2025/9,1BGA,Şerefiye,Goodwill,476249375.0
+SAHOL,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1378981569.0
+SAHOL,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,106611891.0
+SAHOL,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1509372968.0
+SAHOL,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,90292577991.0
+SAHOL,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+SAHOL,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,67991109770.0
+SAHOL,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,7040281783.0
+SAHOL,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,987266219.0
+SAHOL,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,2704278142.0
+SAHOL,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SAHOL,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,54686838938.0
+SAHOL,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SAHOL,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,98105268.0
+SAHOL,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),62776613.0
+SAHOL,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,1294411639.0
+SAHOL,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1115868533.0
+SAHOL,2025/9,2AAGG,(Ara Toplam),(Subtotal),67989827135.0
+SAHOL,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,1282635.0
+SAHOL,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,8703471295.0
+SAHOL,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,5699589843.0
+SAHOL,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SAHOL,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SAHOL,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,301509177.0
+SAHOL,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SAHOL,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,673893164.0
+SAHOL,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SAHOL,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,26959256.0
+SAHOL,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1269181441.0
+SAHOL,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SAHOL,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,347521404.0
+SAHOL,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,384817010.0
+SAHOL,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,13597996927.0
+SAHOL,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,8200099082.0
+SAHOL,2025/9,2OA,Ödenmiş Sermaye,Share Capital,50512150.0
+SAHOL,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SAHOL,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,15412298.0
+SAHOL,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SAHOL,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-392253064.0
+SAHOL,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,541176121.0
+SAHOL,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5159686857.0
+SAHOL,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-18968558.0
+SAHOL,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2844533279.0
+SAHOL,2025/9,2ODA,Azınlık Payları,Minority Interests,5397897844.0
+SAHOL,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,90292577991.0
+SAHOL,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SAHOL,2025/9,3C,Satış Gelirleri,Net Sales,4541164571.0
+SAHOL,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-3764670730.0
+SAHOL,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SAHOL,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,776493842.0
+SAHOL,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",17376496459.0
+SAHOL,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-13589996549.0
+SAHOL,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SAHOL,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,3786499911.0
+SAHOL,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SAHOL,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),4562993753.0
+SAHOL,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1065468040.0
+SAHOL,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-2402922730.0
+SAHOL,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-6094958.0
+SAHOL,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,597199932.0
+SAHOL,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-340701499.0
+SAHOL,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SAHOL,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1345006457.0
+SAHOL,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1088508024.0
+SAHOL,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,41939293.0
+SAHOL,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-16026454.0
+SAHOL,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SAHOL,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,83683696.0
+SAHOL,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1454602992.0
+SAHOL,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),152667821.0
+SAHOL,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1348975044.0
+SAHOL,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,25912839.0
+SAHOL,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,258295769.0
+SAHOL,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-323897581.0
+SAHOL,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-203867935.0
+SAHOL,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-120029646.0
+SAHOL,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SAHOL,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-65601812.0
+SAHOL,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SAHOL,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,-4892.0
+SAHOL,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-65606704.0
+SAHOL,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SAHOL,2025/9,3LB,Azınlık Payları,Minority Interests,-45192610.0
+SAHOL,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,-20414094.0
+SAHOL,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SAHOL,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SAHOL,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SAHOL,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SAHOL,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,518456606.0
+SAHOL,2025/9,4BA,Kıdem Tazminatı,Severance Payments,36761664.0
+SAHOL,2025/9,4BB,Finansman Giderleri,Financial Expenses,-1348975044.0
+SAHOL,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,4208142799.0
+SAHOL,2025/9,4BD,Yurtdışı Satışlar,Export Sales,500272852.0
+SAHOL,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-6266453056.0
+SAHOL,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-81379128.0
+SAHOL,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),6185073928.0
+SAHOL,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-1765540077.0
+SAHOL,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-65606704.0
+SAHOL,2025/9,4CAA,Düzeltmeler:,Adjustments:,737008869.0
+SAHOL,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,518456606.0
+SAHOL,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,958204906.0
+SAHOL,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,675986169.0
+SAHOL,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),671402165.0
+SAHOL,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-2195324554.0
+SAHOL,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-1523922389.0
+SAHOL,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-241617688.0
+SAHOL,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-512033130.0
+SAHOL,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-830362422.0
+SAHOL,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1342395552.0
+SAHOL,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,-3107935629.0
+SAHOL,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,4356828342.0
+SAHOL,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-296225867.0
+SAHOL,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SAHOL,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-204863375.0
+SAHOL,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,3855739100.0
+SAHOL,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,747803471.0
+SAHOL,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,362630092.0
+SAHOL,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SAHOL,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1110433564.0
+SAHOL,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SAHOL,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3224227322.0
+SAHOL,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3355824194.0

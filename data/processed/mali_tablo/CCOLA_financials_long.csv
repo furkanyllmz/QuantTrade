@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+CCOLA,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,2483685191.0
+CCOLA,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1232277386.0
+CCOLA,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,66881433.0
+CCOLA,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,326857944.0
+CCOLA,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+CCOLA,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,7142644.0
+CCOLA,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2022/12,1AF,Stoklar,Inventories,597528828.0
+CCOLA,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+CCOLA,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,252996957.0
+CCOLA,2022/12,1AI,(Ara Toplam),(Subtotal),2483685191.0
+CCOLA,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+CCOLA,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,3242304025.0
+CCOLA,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+CCOLA,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+CCOLA,2022/12,1BB,Diğer Alacaklar,Other Receivables,9329757.0
+CCOLA,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2022/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+CCOLA,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+CCOLA,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+CCOLA,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+CCOLA,2022/12,1BFA,Stoklar,Stoklar,0.0
+CCOLA,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,34908979.0
+CCOLA,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1797890348.0
+CCOLA,2022/12,1BGA,Şerefiye,Goodwill,282313101.0
+CCOLA,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1067990124.0
+CCOLA,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,20552744.0
+CCOLA,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,29318973.0
+CCOLA,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5725989216.0
+CCOLA,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+CCOLA,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1515295430.0
+CCOLA,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,509162129.0
+CCOLA,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,728709588.0
+CCOLA,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,150648463.0
+CCOLA,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+CCOLA,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+CCOLA,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+CCOLA,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,16029415.0
+CCOLA,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),14558456.0
+CCOLA,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,68615044.0
+CCOLA,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,27572336.0
+CCOLA,2022/12,2AAGG,(Ara Toplam),(Subtotal),1515295430.0
+CCOLA,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+CCOLA,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1693594544.0
+CCOLA,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,1324356823.0
+CCOLA,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,143818.0
+CCOLA,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+CCOLA,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+CCOLA,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+CCOLA,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+CCOLA,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,4822069.0
+CCOLA,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,47866592.0
+CCOLA,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+CCOLA,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,268675529.0
+CCOLA,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,47729714.0
+CCOLA,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2517099242.0
+CCOLA,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2177923980.0
+CCOLA,2022/12,2OA,Ödenmiş Sermaye,Share Capital,13579490.0
+CCOLA,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+CCOLA,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,149491565.0
+CCOLA,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+CCOLA,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,1066866111.0
+CCOLA,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,116424301.0
+CCOLA,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),756885277.0
+CCOLA,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),740803758.0
+CCOLA,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-666126521.0
+CCOLA,2022/12,2ODA,Azınlık Payları,Minority Interests,339175262.0
+CCOLA,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5725989216.0
+CCOLA,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+CCOLA,2022/12,3C,Satış Gelirleri,Net Sales,5608758044.0
+CCOLA,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-3894731765.0
+CCOLA,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+CCOLA,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1714026280.0
+CCOLA,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+CCOLA,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+CCOLA,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+CCOLA,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1714026280.0
+CCOLA,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-775931549.0
+CCOLA,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-213447590.0
+CCOLA,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+CCOLA,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,89339034.0
+CCOLA,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-123409972.0
+CCOLA,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+CCOLA,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,690576202.0
+CCOLA,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,724647140.0
+CCOLA,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,28380602.0
+CCOLA,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-841649.0
+CCOLA,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+CCOLA,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-312067.0
+CCOLA,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,717803088.0
+CCOLA,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),312006780.0
+CCOLA,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),113915244.0
+CCOLA,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,27538953.0
+CCOLA,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1143725113.0
+CCOLA,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-277807284.0
+CCOLA,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-177261396.0
+CCOLA,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-100545888.0
+CCOLA,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+CCOLA,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,865917829.0
+CCOLA,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+CCOLA,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+CCOLA,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,865917829.0
+CCOLA,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+CCOLA,2022/12,3LB,Azınlık Payları,Minority Interests,30725108.0
+CCOLA,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,835192721.0
+CCOLA,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+CCOLA,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+CCOLA,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+CCOLA,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+CCOLA,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,239804600.0
+CCOLA,2022/12,4BA,Kıdem Tazminatı,Severance Payments,4009206.0
+CCOLA,2022/12,4BB,Finansman Giderleri,Financial Expenses,113915244.0
+CCOLA,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,2237426484.0
+CCOLA,2022/12,4BD,Yurtdışı Satışlar,Export Sales,3385607748.0
+CCOLA,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1569915810.0
+CCOLA,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1573868621.0
+CCOLA,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-90366779.0
+CCOLA,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,418424407.0
+CCOLA,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,865917829.0
+CCOLA,2022/12,4CAA,Düzeltmeler:,Adjustments:,-93774420.0
+CCOLA,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,239804600.0
+CCOLA,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,61654188.0
+CCOLA,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-395233209.0
+CCOLA,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),772143408.0
+CCOLA,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-183021549.0
+CCOLA,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),589121859.0
+CCOLA,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-170697452.0
+CCOLA,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-314431275.0
+CCOLA,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-81757215.0
+CCOLA,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-396188490.0
+CCOLA,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,22235917.0
+CCOLA,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,831687216.0
+CCOLA,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-77632270.0
+CCOLA,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+CCOLA,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-145780526.0
+CCOLA,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,608274420.0
+CCOLA,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,630510337.0
+CCOLA,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,84074577.0
+CCOLA,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+CCOLA,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,714584914.0
+CCOLA,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+CCOLA,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,674702183.0
+CCOLA,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1389287097.0
+CCOLA,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,1320704129.0
+CCOLA,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,533511167.0
+CCOLA,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,37624101.0
+CCOLA,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,270462986.0
+CCOLA,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+CCOLA,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,1921642.0
+CCOLA,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2022/3,1AF,Stoklar,Inventories,342475944.0
+CCOLA,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+CCOLA,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,134708289.0
+CCOLA,2022/3,1AI,(Ara Toplam),(Subtotal),1320704129.0
+CCOLA,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+CCOLA,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1629266069.0
+CCOLA,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+CCOLA,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+CCOLA,2022/3,1BB,Diğer Alacaklar,Other Receivables,6776963.0
+CCOLA,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2022/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+CCOLA,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+CCOLA,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+CCOLA,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+CCOLA,2022/3,1BFA,Stoklar,Stoklar,0.0
+CCOLA,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,17847444.0
+CCOLA,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,897088212.0
+CCOLA,2022/3,1BGA,Şerefiye,Goodwill,362468033.0
+CCOLA,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,309065298.0
+CCOLA,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,27098851.0
+CCOLA,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,8921267.0
+CCOLA,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2949970198.0
+CCOLA,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+CCOLA,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,778095475.0
+CCOLA,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,153530535.0
+CCOLA,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,463392437.0
+CCOLA,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,95530330.0
+CCOLA,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+CCOLA,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+CCOLA,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+CCOLA,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+CCOLA,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),16077539.0
+CCOLA,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,14492925.0
+CCOLA,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,35071709.0
+CCOLA,2022/3,2AAGG,(Ara Toplam),(Subtotal),778095475.0
+CCOLA,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+CCOLA,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1054618679.0
+CCOLA,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,891771814.0
+CCOLA,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,146623.0
+CCOLA,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+CCOLA,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+CCOLA,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+CCOLA,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+CCOLA,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+CCOLA,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,0.0
+CCOLA,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+CCOLA,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,101037269.0
+CCOLA,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,61662973.0
+CCOLA,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1117256044.0
+CCOLA,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,971889453.0
+CCOLA,2022/3,2OA,Ödenmiş Sermaye,Share Capital,17347223.0
+CCOLA,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+CCOLA,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+CCOLA,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+CCOLA,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,811203123.0
+CCOLA,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,19269956.0
+CCOLA,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),350145463.0
+CCOLA,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),42959730.0
+CCOLA,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-269036042.0
+CCOLA,2022/3,2ODA,Azınlık Payları,Minority Interests,145366591.0
+CCOLA,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2949970198.0
+CCOLA,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+CCOLA,2022/3,3C,Satış Gelirleri,Net Sales,620168814.0
+CCOLA,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-416643495.0
+CCOLA,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+CCOLA,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,203525319.0
+CCOLA,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+CCOLA,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+CCOLA,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+CCOLA,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),203525319.0
+CCOLA,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-82549679.0
+CCOLA,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-26063630.0
+CCOLA,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+CCOLA,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,18046634.0
+CCOLA,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-17916523.0
+CCOLA,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+CCOLA,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,95042121.0
+CCOLA,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,94912010.0
+CCOLA,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2681946.0
+CCOLA,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-22401.0
+CCOLA,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+CCOLA,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-14671.0
+CCOLA,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,97686995.0
+CCOLA,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),81256371.0
+CCOLA,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-96221708.0
+CCOLA,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2659545.0
+CCOLA,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,82721658.0
+CCOLA,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-32558729.0
+CCOLA,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-28561932.0
+CCOLA,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-3996797.0
+CCOLA,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+CCOLA,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,50162928.0
+CCOLA,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+CCOLA,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+CCOLA,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,50162928.0
+CCOLA,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+CCOLA,2022/3,3LB,Azınlık Payları,Minority Interests,5079266.0
+CCOLA,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,45083663.0
+CCOLA,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+CCOLA,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+CCOLA,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+CCOLA,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+CCOLA,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,28255477.0
+CCOLA,2022/3,4BA,Kıdem Tazminatı,Severance Payments,5140814.0
+CCOLA,2022/3,4BB,Finansman Giderleri,Financial Expenses,-96221708.0
+CCOLA,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,211021586.0
+CCOLA,2022/3,4BD,Yurtdışı Satışlar,Export Sales,410527850.0
+CCOLA,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-934189471.0
+CCOLA,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-934199920.0
+CCOLA,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-212920647.0
+CCOLA,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,3352254.0
+CCOLA,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,50162928.0
+CCOLA,2022/3,4CAA,Düzeltmeler:,Adjustments:,75650649.0
+CCOLA,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,28255477.0
+CCOLA,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,5140814.0
+CCOLA,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,42254358.0
+CCOLA,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),125813578.0
+CCOLA,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-115457160.0
+CCOLA,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),10356417.0
+CCOLA,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-7004164.0
+CCOLA,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-59563266.0
+CCOLA,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-34213672.0
+CCOLA,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-93776938.0
+CCOLA,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,-90424684.0
+CCOLA,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,334376438.0
+CCOLA,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+CCOLA,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+CCOLA,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-28125867.0
+CCOLA,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,306250571.0
+CCOLA,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,215825886.0
+CCOLA,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,47655108.0
+CCOLA,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+CCOLA,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,263480994.0
+CCOLA,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+CCOLA,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,296407011.0
+CCOLA,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,559888005.0
+CCOLA,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,1449930084.0
+CCOLA,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,606706867.0
+CCOLA,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,56228717.0
+CCOLA,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,363012090.0
+CCOLA,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+CCOLA,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,2377032.0
+CCOLA,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2022/6,1AF,Stoklar,Inventories,324864841.0
+CCOLA,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+CCOLA,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,96740537.0
+CCOLA,2022/6,1AI,(Ara Toplam),(Subtotal),1449930084.0
+CCOLA,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+CCOLA,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1655811316.0
+CCOLA,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+CCOLA,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+CCOLA,2022/6,1BB,Diğer Alacaklar,Other Receivables,6167727.0
+CCOLA,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2022/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+CCOLA,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+CCOLA,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+CCOLA,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+CCOLA,2022/6,1BFA,Stoklar,Stoklar,0.0
+CCOLA,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,16321938.0
+CCOLA,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,889451454.0
+CCOLA,2022/6,1BGA,Şerefiye,Goodwill,164527361.0
+CCOLA,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,538123704.0
+CCOLA,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,33454773.0
+CCOLA,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,7764358.0
+CCOLA,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3105741400.0
+CCOLA,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+CCOLA,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1009262315.0
+CCOLA,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,340424830.0
+CCOLA,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,482960327.0
+CCOLA,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,109183951.0
+CCOLA,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+CCOLA,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+CCOLA,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+CCOLA,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+CCOLA,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),23733420.0
+CCOLA,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,30188540.0
+CCOLA,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,22771247.0
+CCOLA,2022/6,2AAGG,(Ara Toplam),(Subtotal),1009262315.0
+CCOLA,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+CCOLA,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,969915286.0
+CCOLA,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,775179494.0
+CCOLA,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,140851.0
+CCOLA,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+CCOLA,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+CCOLA,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+CCOLA,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+CCOLA,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+CCOLA,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,15582516.0
+CCOLA,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+CCOLA,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,132878488.0
+CCOLA,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,46133937.0
+CCOLA,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1126563799.0
+CCOLA,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,981149454.0
+CCOLA,2022/6,2OA,Ödenmiş Sermaye,Share Capital,15239644.0
+CCOLA,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+CCOLA,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+CCOLA,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+CCOLA,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,889372971.0
+CCOLA,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,20449753.0
+CCOLA,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),268106630.0
+CCOLA,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),111622033.0
+CCOLA,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-323641576.0
+CCOLA,2022/6,2ODA,Azınlık Payları,Minority Interests,145414345.0
+CCOLA,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3105741400.0
+CCOLA,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+CCOLA,2022/6,3C,Satış Gelirleri,Net Sales,1569127056.0
+CCOLA,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1064927101.0
+CCOLA,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+CCOLA,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,504199955.0
+CCOLA,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+CCOLA,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+CCOLA,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+CCOLA,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),504199955.0
+CCOLA,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-201726480.0
+CCOLA,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-54354967.0
+CCOLA,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+CCOLA,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,42592500.0
+CCOLA,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-37203287.0
+CCOLA,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+CCOLA,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,253507721.0
+CCOLA,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,248118508.0
+CCOLA,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,13962635.0
+CCOLA,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-77519.0
+CCOLA,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+CCOLA,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-112114.0
+CCOLA,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,267280723.0
+CCOLA,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),113931077.0
+CCOLA,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-149803971.0
+CCOLA,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,13885116.0
+CCOLA,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,231407828.0
+CCOLA,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-92111100.0
+CCOLA,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-75235373.0
+CCOLA,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-16875727.0
+CCOLA,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+CCOLA,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,139296728.0
+CCOLA,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+CCOLA,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+CCOLA,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,139296728.0
+CCOLA,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+CCOLA,2022/6,3LB,Azınlık Payları,Minority Interests,14141924.0
+CCOLA,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,125154804.0
+CCOLA,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+CCOLA,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+CCOLA,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+CCOLA,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+CCOLA,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,57562216.0
+CCOLA,2022/6,4BA,Kıdem Tazminatı,Severance Payments,8039115.0
+CCOLA,2022/6,4BB,Finansman Giderleri,Financial Expenses,-149803971.0
+CCOLA,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,548809035.0
+CCOLA,2022/6,4BD,Yurtdışı Satışlar,Export Sales,1025044355.0
+CCOLA,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-968396922.0
+CCOLA,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-972327843.0
+CCOLA,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-111232742.0
+CCOLA,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,134646905.0
+CCOLA,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,139296728.0
+CCOLA,2022/6,4CAA,Düzeltmeler:,Adjustments:,177216969.0
+CCOLA,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,57562216.0
+CCOLA,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,8039115.0
+CCOLA,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,111615637.0
+CCOLA,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),316513697.0
+CCOLA,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-162621347.0
+CCOLA,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),153892349.0
+CCOLA,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-19245444.0
+CCOLA,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-103916223.0
+CCOLA,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-58098740.0
+CCOLA,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-162014963.0
+CCOLA,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-27368058.0
+CCOLA,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,386435159.0
+CCOLA,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-40369694.0
+CCOLA,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+CCOLA,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-44042127.0
+CCOLA,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,302023338.0
+CCOLA,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,274655280.0
+CCOLA,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,127396822.0
+CCOLA,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+CCOLA,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,402052102.0
+CCOLA,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+CCOLA,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,278210360.0
+CCOLA,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,680262462.0
+CCOLA,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,1475543146.0
+CCOLA,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,688205594.0
+CCOLA,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,47642639.0
+CCOLA,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,288204300.0
+CCOLA,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+CCOLA,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,2163421.0
+CCOLA,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2022/9,1AF,Stoklar,Inventories,322186222.0
+CCOLA,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+CCOLA,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,127140971.0
+CCOLA,2022/9,1AI,(Ara Toplam),(Subtotal),1475543146.0
+CCOLA,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+CCOLA,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1602799845.0
+CCOLA,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+CCOLA,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+CCOLA,2022/9,1BB,Diğer Alacaklar,Other Receivables,5587993.0
+CCOLA,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2022/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+CCOLA,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+CCOLA,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+CCOLA,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+CCOLA,2022/9,1BFA,Stoklar,Stoklar,0.0
+CCOLA,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,16348661.0
+CCOLA,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,860831658.0
+CCOLA,2022/9,1BGA,Şerefiye,Goodwill,155826241.0
+CCOLA,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,526813514.0
+CCOLA,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,29972294.0
+CCOLA,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,7419484.0
+CCOLA,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3078342991.0
+CCOLA,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+CCOLA,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,934588861.0
+CCOLA,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,329917476.0
+CCOLA,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,435590257.0
+CCOLA,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,98015319.0
+CCOLA,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+CCOLA,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+CCOLA,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+CCOLA,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+CCOLA,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),22073889.0
+CCOLA,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,26773950.0
+CCOLA,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,22217970.0
+CCOLA,2022/9,2AAGG,(Ara Toplam),(Subtotal),934588861.0
+CCOLA,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+CCOLA,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,957813455.0
+CCOLA,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,766910485.0
+CCOLA,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,133731.0
+CCOLA,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+CCOLA,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+CCOLA,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+CCOLA,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+CCOLA,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+CCOLA,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,15290560.0
+CCOLA,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+CCOLA,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,135528539.0
+CCOLA,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,39950140.0
+CCOLA,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1185940675.0
+CCOLA,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1045975766.0
+CCOLA,2022/9,2OA,Ödenmiş Sermaye,Share Capital,13711170.0
+CCOLA,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+CCOLA,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,5325111.0
+CCOLA,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+CCOLA,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,927702524.0
+CCOLA,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,18398726.0
+CCOLA,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),241216628.0
+CCOLA,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),198467505.0
+CCOLA,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-358845899.0
+CCOLA,2022/9,2ODA,Azınlık Payları,Minority Interests,139964910.0
+CCOLA,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3078342991.0
+CCOLA,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+CCOLA,2022/9,3C,Satış Gelirleri,Net Sales,2562131727.0
+CCOLA,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1720124756.0
+CCOLA,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+CCOLA,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,842006971.0
+CCOLA,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+CCOLA,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+CCOLA,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+CCOLA,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),842006971.0
+CCOLA,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-320442838.0
+CCOLA,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-84045385.0
+CCOLA,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+CCOLA,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,41093491.0
+CCOLA,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-37590597.0
+CCOLA,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+CCOLA,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,441021643.0
+CCOLA,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,437518749.0
+CCOLA,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,13591294.0
+CCOLA,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-162947.0
+CCOLA,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+CCOLA,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-174699.0
+CCOLA,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,454275290.0
+CCOLA,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),152112705.0
+CCOLA,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-207950563.0
+CCOLA,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,13428346.0
+CCOLA,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,398437433.0
+CCOLA,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-147461954.0
+CCOLA,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-105976836.0
+CCOLA,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-41485118.0
+CCOLA,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+CCOLA,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,250975478.0
+CCOLA,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+CCOLA,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+CCOLA,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,250975478.0
+CCOLA,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+CCOLA,2022/9,3LB,Azınlık Payları,Minority Interests,19594890.0
+CCOLA,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,231380588.0
+CCOLA,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+CCOLA,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+CCOLA,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+CCOLA,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+CCOLA,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,82754501.0
+CCOLA,2022/9,4BA,Kıdem Tazminatı,Severance Payments,12123889.0
+CCOLA,2022/9,4BB,Finansman Giderleri,Financial Expenses,-207950563.0
+CCOLA,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,919711806.0
+CCOLA,2022/9,4BD,Yurtdışı Satışlar,Export Sales,1648652448.0
+CCOLA,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1006843699.0
+CCOLA,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1006868458.0
+CCOLA,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-84129529.0
+CCOLA,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,280285429.0
+CCOLA,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,250975478.0
+CCOLA,2022/9,4CAA,Düzeltmeler:,Adjustments:,290564489.0
+CCOLA,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,82754501.0
+CCOLA,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,12123889.0
+CCOLA,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,195686098.0
+CCOLA,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),541539967.0
+CCOLA,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-145505142.0
+CCOLA,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),396034825.0
+CCOLA,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-115749396.0
+CCOLA,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-141176703.0
+CCOLA,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-50915633.0
+CCOLA,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-192092336.0
+CCOLA,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,88193093.0
+CCOLA,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,363802382.0
+CCOLA,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-37765359.0
+CCOLA,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+CCOLA,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-73744708.0
+CCOLA,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,252292316.0
+CCOLA,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,340485408.0
+CCOLA,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,201586258.0
+CCOLA,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+CCOLA,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,542071667.0
+CCOLA,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+CCOLA,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,260263281.0
+CCOLA,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,802334948.0
+CCOLA,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,2362366698.0
+CCOLA,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1065031145.0
+CCOLA,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,18396408.0
+CCOLA,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,431526721.0
+CCOLA,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+CCOLA,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,5901130.0
+CCOLA,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2023/12,1AF,Stoklar,Inventories,635578221.0
+CCOLA,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+CCOLA,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,205933072.0
+CCOLA,2023/12,1AI,(Ara Toplam),(Subtotal),2362366698.0
+CCOLA,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+CCOLA,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,3030578577.0
+CCOLA,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+CCOLA,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+CCOLA,2023/12,1BB,Diğer Alacaklar,Other Receivables,6604660.0
+CCOLA,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2023/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+CCOLA,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+CCOLA,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+CCOLA,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+CCOLA,2023/12,1BFA,Stoklar,Stoklar,0.0
+CCOLA,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,26542913.0
+CCOLA,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1724958072.0
+CCOLA,2023/12,1BGA,Şerefiye,Goodwill,227403743.0
+CCOLA,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,944870487.0
+CCOLA,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,28427909.0
+CCOLA,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,71770793.0
+CCOLA,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5392945275.0
+CCOLA,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+CCOLA,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2032080783.0
+CCOLA,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,884316799.0
+CCOLA,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,910406594.0
+CCOLA,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,122083733.0
+CCOLA,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+CCOLA,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+CCOLA,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+CCOLA,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,10054491.0
+CCOLA,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),20022210.0
+CCOLA,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,47311580.0
+CCOLA,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,37885376.0
+CCOLA,2023/12,2AAGG,(Ara Toplam),(Subtotal),2032080783.0
+CCOLA,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+CCOLA,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1160038011.0
+CCOLA,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,929010522.0
+CCOLA,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,244479.0
+CCOLA,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+CCOLA,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+CCOLA,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+CCOLA,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+CCOLA,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,2169114.0
+CCOLA,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,35825209.0
+CCOLA,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+CCOLA,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,192643288.0
+CCOLA,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,145399.0
+CCOLA,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2200826481.0
+CCOLA,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1923331932.0
+CCOLA,2023/12,2OA,Ödenmiş Sermaye,Share Capital,8625289.0
+CCOLA,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+CCOLA,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,133255570.0
+CCOLA,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+CCOLA,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,689984097.0
+CCOLA,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,99930793.0
+CCOLA,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),922376565.0
+CCOLA,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1007515301.0
+CCOLA,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-938355685.0
+CCOLA,2023/12,2ODA,Azınlık Payları,Minority Interests,277494549.0
+CCOLA,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5392945275.0
+CCOLA,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+CCOLA,2023/12,3C,Satış Gelirleri,Net Sales,6122238481.0
+CCOLA,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-4120334644.0
+CCOLA,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+CCOLA,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2001903837.0
+CCOLA,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+CCOLA,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+CCOLA,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+CCOLA,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2001903837.0
+CCOLA,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-880697821.0
+CCOLA,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-258980964.0
+CCOLA,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+CCOLA,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,163674182.0
+CCOLA,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-148850442.0
+CCOLA,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+CCOLA,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,877048792.0
+CCOLA,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,862225053.0
+CCOLA,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,11491894.0
+CCOLA,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-13091992.0
+CCOLA,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+CCOLA,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-1020793.0
+CCOLA,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,874427901.0
+CCOLA,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),407442125.0
+CCOLA,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),290838860.0
+CCOLA,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-1600098.0
+CCOLA,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1572708885.0
+CCOLA,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-290574513.0
+CCOLA,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-210007664.0
+CCOLA,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-80566849.0
+CCOLA,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+CCOLA,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1282134373.0
+CCOLA,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+CCOLA,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+CCOLA,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1282134373.0
+CCOLA,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+CCOLA,2023/12,3LB,Azınlık Payları,Minority Interests,35186720.0
+CCOLA,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,1246947652.0
+CCOLA,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+CCOLA,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+CCOLA,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+CCOLA,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+CCOLA,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,223413691.0
+CCOLA,2023/12,4BA,Kıdem Tazminatı,Severance Payments,20977244.0
+CCOLA,2023/12,4BB,Finansman Giderleri,Financial Expenses,290838860.0
+CCOLA,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,2830626159.0
+CCOLA,2023/12,4BD,Yurtdışı Satışlar,Export Sales,3295910236.0
+CCOLA,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-278924279.0
+CCOLA,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1475985944.0
+CCOLA,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-278924279.0
+CCOLA,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,759976678.0
+CCOLA,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1282134373.0
+CCOLA,2023/12,4CAA,Düzeltmeler:,Adjustments:,-72123443.0
+CCOLA,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,223413691.0
+CCOLA,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,29466729.0
+CCOLA,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,553572677.0
+CCOLA,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1210010930.0
+CCOLA,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-222710627.0
+CCOLA,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),987300303.0
+CCOLA,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-227323625.0
+CCOLA,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-357773146.0
+CCOLA,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-161888424.0
+CCOLA,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-519661570.0
+CCOLA,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,240315108.0
+CCOLA,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,160544783.0
+CCOLA,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-66642871.0
+CCOLA,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+CCOLA,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-345517546.0
+CCOLA,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-251615635.0
+CCOLA,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-11300527.0
+CCOLA,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,4978653.0
+CCOLA,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+CCOLA,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-6321874.0
+CCOLA,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+CCOLA,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1398618621.0
+CCOLA,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1318131927.0
+CCOLA,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,1842550840.0
+CCOLA,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,692391051.0
+CCOLA,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,74051845.0
+CCOLA,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,422761129.0
+CCOLA,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+CCOLA,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,2595034.0
+CCOLA,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2023/3,1AF,Stoklar,Inventories,472247730.0
+CCOLA,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+CCOLA,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,178504049.0
+CCOLA,2023/3,1AI,(Ara Toplam),(Subtotal),1842550840.0
+CCOLA,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+CCOLA,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1592475479.0
+CCOLA,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+CCOLA,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+CCOLA,2023/3,1BB,Diğer Alacaklar,Other Receivables,4587290.0
+CCOLA,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2023/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+CCOLA,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+CCOLA,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+CCOLA,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+CCOLA,2023/3,1BFA,Stoklar,Stoklar,0.0
+CCOLA,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,23252796.0
+CCOLA,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,843464128.0
+CCOLA,2023/3,1BGA,Şerefiye,Goodwill,143256913.0
+CCOLA,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,518506238.0
+CCOLA,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,34628253.0
+CCOLA,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,24779860.0
+CCOLA,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3435026319.0
+CCOLA,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+CCOLA,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1227438216.0
+CCOLA,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,389934646.0
+CCOLA,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,631999812.0
+CCOLA,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,129999375.0
+CCOLA,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+CCOLA,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+CCOLA,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+CCOLA,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,6341894.0
+CCOLA,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),21588353.0
+CCOLA,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,36479169.0
+CCOLA,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,11094967.0
+CCOLA,2023/3,2AAGG,(Ara Toplam),(Subtotal),1227438216.0
+CCOLA,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+CCOLA,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,984881696.0
+CCOLA,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,800915008.0
+CCOLA,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,69680.0
+CCOLA,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+CCOLA,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+CCOLA,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+CCOLA,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+CCOLA,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,2527283.0
+CCOLA,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,26762474.0
+CCOLA,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+CCOLA,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,127922482.0
+CCOLA,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,26684768.0
+CCOLA,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1222706407.0
+CCOLA,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1096292592.0
+CCOLA,2023/3,2OA,Ödenmiş Sermaye,Share Capital,13256913.0
+CCOLA,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+CCOLA,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,5148688.0
+CCOLA,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+CCOLA,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,908925828.0
+CCOLA,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,17789168.0
+CCOLA,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),458944017.0
+CCOLA,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),53914727.0
+CCOLA,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-361686749.0
+CCOLA,2023/3,2ODA,Azınlık Payları,Minority Interests,126413815.0
+CCOLA,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3435026319.0
+CCOLA,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+CCOLA,2023/3,3C,Satış Gelirleri,Net Sales,1517626987.0
+CCOLA,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1050759028.0
+CCOLA,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+CCOLA,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,466867959.0
+CCOLA,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+CCOLA,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+CCOLA,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+CCOLA,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),466867959.0
+CCOLA,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-225147591.0
+CCOLA,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-62828683.0
+CCOLA,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+CCOLA,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,27684949.0
+CCOLA,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-25606637.0
+CCOLA,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+CCOLA,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,180969997.0
+CCOLA,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,178891685.0
+CCOLA,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2436898.0
+CCOLA,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-982127.0
+CCOLA,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+CCOLA,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-912262.0
+CCOLA,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,181512506.0
+CCOLA,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),109257292.0
+CCOLA,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-22351054.0
+CCOLA,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1454771.0
+CCOLA,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,268418745.0
+CCOLA,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-82128137.0
+CCOLA,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-83141702.0
+CCOLA,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,1013566.0
+CCOLA,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+CCOLA,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,186290608.0
+CCOLA,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+CCOLA,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+CCOLA,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,186290608.0
+CCOLA,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+CCOLA,2023/3,3LB,Azınlık Payları,Minority Interests,3816194.0
+CCOLA,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,182474414.0
+CCOLA,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+CCOLA,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+CCOLA,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+CCOLA,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+CCOLA,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,61817870.0
+CCOLA,2023/3,4BA,Kıdem Tazminatı,Severance Payments,9407318.0
+CCOLA,2023/3,4BB,Finansman Giderleri,Financial Expenses,-22351054.0
+CCOLA,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,516671398.0
+CCOLA,2023/3,4BD,Yurtdışı Satışlar,Export Sales,884851992.0
+CCOLA,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-931532484.0
+CCOLA,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-931560854.0
+CCOLA,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-99670708.0
+CCOLA,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-104388420.0
+CCOLA,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,171847007.0
+CCOLA,2023/3,4CAA,Düzeltmeler:,Adjustments:,-12021788.0
+CCOLA,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,61817870.0
+CCOLA,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,9407318.0
+CCOLA,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-83246976.0
+CCOLA,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),159825219.0
+CCOLA,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-148369122.0
+CCOLA,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),11456097.0
+CCOLA,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-115844516.0
+CCOLA,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-108008939.0
+CCOLA,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-58297330.0
+CCOLA,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-166306270.0
+CCOLA,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,-270694689.0
+CCOLA,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,148158047.0
+CCOLA,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+CCOLA,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+CCOLA,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-63698232.0
+CCOLA,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,84459814.0
+CCOLA,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-186234875.0
+CCOLA,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-34730104.0
+CCOLA,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+CCOLA,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-220964979.0
+CCOLA,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+CCOLA,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1405769568.0
+CCOLA,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1184804589.0
+CCOLA,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,1860730471.0
+CCOLA,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,657697722.0
+CCOLA,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,56419929.0
+CCOLA,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,518466463.0
+CCOLA,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+CCOLA,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,3536274.0
+CCOLA,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2023/6,1AF,Stoklar,Inventories,495524902.0
+CCOLA,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+CCOLA,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,129085181.0
+CCOLA,2023/6,1AI,(Ara Toplam),(Subtotal),1860730471.0
+CCOLA,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+CCOLA,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1649713641.0
+CCOLA,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+CCOLA,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+CCOLA,2023/6,1BB,Diğer Alacaklar,Other Receivables,4455036.0
+CCOLA,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2023/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+CCOLA,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+CCOLA,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+CCOLA,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+CCOLA,2023/6,1BFA,Stoklar,Stoklar,0.0
+CCOLA,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,19719516.0
+CCOLA,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,898248137.0
+CCOLA,2023/6,1BGA,Şerefiye,Goodwill,142891115.0
+CCOLA,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,518231940.0
+CCOLA,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,39483370.0
+CCOLA,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,26684525.0
+CCOLA,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3510444112.0
+CCOLA,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+CCOLA,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1272469462.0
+CCOLA,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,383706474.0
+CCOLA,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,659687935.0
+CCOLA,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,135896148.0
+CCOLA,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+CCOLA,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+CCOLA,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+CCOLA,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,7162616.0
+CCOLA,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),28970490.0
+CCOLA,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,42457827.0
+CCOLA,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,14587972.0
+CCOLA,2023/6,2AAGG,(Ara Toplam),(Subtotal),1272469462.0
+CCOLA,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+CCOLA,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1022915778.0
+CCOLA,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,849525080.0
+CCOLA,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,43255.0
+CCOLA,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+CCOLA,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+CCOLA,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+CCOLA,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+CCOLA,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1593337.0
+CCOLA,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,24482945.0
+CCOLA,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+CCOLA,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,132879557.0
+CCOLA,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,14391602.0
+CCOLA,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1215058872.0
+CCOLA,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1078176972.0
+CCOLA,2023/6,2OA,Ödenmiş Sermaye,Share Capital,9832815.0
+CCOLA,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+CCOLA,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,3818845.0
+CCOLA,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+CCOLA,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,1073321118.0
+CCOLA,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,9420323.0
+CCOLA,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),257206644.0
+CCOLA,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),132307380.0
+CCOLA,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-407730154.0
+CCOLA,2023/6,2ODA,Azınlık Payları,Minority Interests,136881900.0
+CCOLA,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3510444112.0
+CCOLA,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+CCOLA,2023/6,3C,Satış Gelirleri,Net Sales,3433612193.0
+CCOLA,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2327783232.0
+CCOLA,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+CCOLA,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1105828961.0
+CCOLA,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+CCOLA,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+CCOLA,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+CCOLA,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1105828961.0
+CCOLA,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-470152429.0
+CCOLA,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-130687192.0
+CCOLA,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+CCOLA,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,103762836.0
+CCOLA,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-82537238.0
+CCOLA,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+CCOLA,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,526214939.0
+CCOLA,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,504989340.0
+CCOLA,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,6601094.0
+CCOLA,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-10633707.0
+CCOLA,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+CCOLA,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-959254.0
+CCOLA,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,521223072.0
+CCOLA,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),264280730.0
+CCOLA,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-168434389.0
+CCOLA,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-4032613.0
+CCOLA,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,617069413.0
+CCOLA,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-197970961.0
+CCOLA,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-142660895.0
+CCOLA,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-55310066.0
+CCOLA,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+CCOLA,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,419098452.0
+CCOLA,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+CCOLA,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+CCOLA,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,419098452.0
+CCOLA,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+CCOLA,2023/6,3LB,Azınlık Payları,Minority Interests,17688319.0
+CCOLA,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,401410133.0
+CCOLA,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+CCOLA,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+CCOLA,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+CCOLA,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+CCOLA,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,126973707.0
+CCOLA,2023/6,4BA,Kıdem Tazminatı,Severance Payments,21201609.0
+CCOLA,2023/6,4BB,Finansman Giderleri,Financial Expenses,-168434389.0
+CCOLA,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,1382813970.0
+CCOLA,2023/6,4BD,Yurtdışı Satışlar,Export Sales,2052473458.0
+CCOLA,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-199837703.0
+CCOLA,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-199837703.0
+CCOLA,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1116196669.0
+CCOLA,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,132494896.0
+CCOLA,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,419098452.0
+CCOLA,2023/6,4CAA,Düzeltmeler:,Adjustments:,179269249.0
+CCOLA,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,126973707.0
+CCOLA,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,21201609.0
+CCOLA,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,334597456.0
+CCOLA,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),598367701.0
+CCOLA,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-338244176.0
+CCOLA,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),260123525.0
+CCOLA,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-127628630.0
+CCOLA,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-213948945.0
+CCOLA,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-257245663.0
+CCOLA,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-471194608.0
+CCOLA,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,-338699713.0
+CCOLA,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,243535415.0
+CCOLA,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-67651532.0
+CCOLA,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+CCOLA,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-80022997.0
+CCOLA,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,95860886.0
+CCOLA,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-256255754.0
+CCOLA,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,276643710.0
+CCOLA,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+CCOLA,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,20387956.0
+CCOLA,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+CCOLA,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1454105454.0
+CCOLA,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1474493410.0
+CCOLA,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,1834593853.0
+CCOLA,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,770113724.0
+CCOLA,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,27764384.0
+CCOLA,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,457990411.0
+CCOLA,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+CCOLA,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,2857580.0
+CCOLA,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2023/9,1AF,Stoklar,Inventories,440682965.0
+CCOLA,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+CCOLA,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,135184788.0
+CCOLA,2023/9,1AI,(Ara Toplam),(Subtotal),1834593853.0
+CCOLA,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+CCOLA,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1667295632.0
+CCOLA,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+CCOLA,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+CCOLA,2023/9,1BB,Diğer Alacaklar,Other Receivables,4504339.0
+CCOLA,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2023/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+CCOLA,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+CCOLA,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+CCOLA,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+CCOLA,2023/9,1BFA,Stoklar,Stoklar,0.0
+CCOLA,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,19098374.0
+CCOLA,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,919721760.0
+CCOLA,2023/9,1BGA,Şerefiye,Goodwill,139052797.0
+CCOLA,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,507140013.0
+CCOLA,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,41229381.0
+CCOLA,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,36548968.0
+CCOLA,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3501889484.0
+CCOLA,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+CCOLA,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1317270729.0
+CCOLA,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,526884307.0
+CCOLA,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,554314628.0
+CCOLA,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,111671808.0
+CCOLA,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+CCOLA,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+CCOLA,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+CCOLA,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,5354445.0
+CCOLA,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),39412929.0
+CCOLA,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,51128236.0
+CCOLA,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,28504375.0
+CCOLA,2023/9,2AAGG,(Ara Toplam),(Subtotal),1317270729.0
+CCOLA,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+CCOLA,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,806042733.0
+CCOLA,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,648806570.0
+CCOLA,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,177897.0
+CCOLA,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+CCOLA,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+CCOLA,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+CCOLA,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+CCOLA,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1238715.0
+CCOLA,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,23400642.0
+CCOLA,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+CCOLA,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,132418909.0
+CCOLA,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+CCOLA,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1378576023.0
+CCOLA,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1233765843.0
+CCOLA,2023/9,2OA,Ödenmiş Sermaye,Share Capital,9274812.0
+CCOLA,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+CCOLA,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,3602129.0
+CCOLA,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+CCOLA,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,1083968351.0
+CCOLA,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,8885729.0
+CCOLA,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),242610406.0
+CCOLA,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),282554437.0
+CCOLA,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-397130023.0
+CCOLA,2023/9,2ODA,Azınlık Payları,Minority Interests,144810180.0
+CCOLA,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3501889484.0
+CCOLA,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+CCOLA,2023/9,3C,Satış Gelirleri,Net Sales,5159222251.0
+CCOLA,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-3444529186.0
+CCOLA,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+CCOLA,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1714693065.0
+CCOLA,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+CCOLA,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+CCOLA,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+CCOLA,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1714693065.0
+CCOLA,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-693910361.0
+CCOLA,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-192095765.0
+CCOLA,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+CCOLA,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,133437325.0
+CCOLA,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-112836759.0
+CCOLA,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+CCOLA,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,849287504.0
+CCOLA,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,828686939.0
+CCOLA,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,8700545.0
+CCOLA,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-10237510.0
+CCOLA,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+CCOLA,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-981533.0
+CCOLA,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,846769007.0
+CCOLA,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),330042672.0
+CCOLA,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),196891306.0
+CCOLA,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-1536964.0
+CCOLA,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1373702985.0
+CCOLA,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-347165641.0
+CCOLA,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-208638707.0
+CCOLA,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-138526934.0
+CCOLA,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+CCOLA,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1026537344.0
+CCOLA,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+CCOLA,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+CCOLA,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1026537344.0
+CCOLA,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+CCOLA,2023/9,3LB,Azınlık Payları,Minority Interests,33496849.0
+CCOLA,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,993040495.0
+CCOLA,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+CCOLA,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+CCOLA,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+CCOLA,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+CCOLA,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,171604259.0
+CCOLA,2023/9,4BA,Kıdem Tazminatı,Severance Payments,23283485.0
+CCOLA,2023/9,4BB,Finansman Giderleri,Financial Expenses,196891306.0
+CCOLA,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,2359970909.0
+CCOLA,2023/9,4BD,Yurtdışı Satışlar,Export Sales,2802016112.0
+CCOLA,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1035259692.0
+CCOLA,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1060825447.0
+CCOLA,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-202363862.0
+CCOLA,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,616095388.0
+CCOLA,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1026537344.0
+CCOLA,2023/9,4CAA,Düzeltmeler:,Adjustments:,43384162.0
+CCOLA,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,171604259.0
+CCOLA,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,31394182.0
+CCOLA,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,535989540.0
+CCOLA,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1069921506.0
+CCOLA,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-299083150.0
+CCOLA,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),770838356.0
+CCOLA,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-154742969.0
+CCOLA,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-287225789.0
+CCOLA,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-190094545.0
+CCOLA,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-477320334.0
+CCOLA,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,138775054.0
+CCOLA,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,148084592.0
+CCOLA,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-65126673.0
+CCOLA,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+CCOLA,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-146759349.0
+CCOLA,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-63801430.0
+CCOLA,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,21889410.0
+CCOLA,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-13277247.0
+CCOLA,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+CCOLA,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,8612163.0
+CCOLA,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+CCOLA,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1412707661.0
+CCOLA,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1421319824.0
+CCOLA,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,2156178471.0
+CCOLA,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,825234723.0
+CCOLA,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3397627.0
+CCOLA,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,458833178.0
+CCOLA,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+CCOLA,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,20926993.0
+CCOLA,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2024/12,1AF,Stoklar,Inventories,545862832.0
+CCOLA,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+CCOLA,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,301923119.0
+CCOLA,2024/12,1AI,(Ara Toplam),(Subtotal),2156178471.0
+CCOLA,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+CCOLA,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,3107713242.0
+CCOLA,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+CCOLA,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+CCOLA,2024/12,1BB,Diğer Alacaklar,Other Receivables,6537181.0
+CCOLA,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2024/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+CCOLA,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+CCOLA,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+CCOLA,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+CCOLA,2024/12,1BFA,Stoklar,Stoklar,0.0
+CCOLA,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,25508904.0
+CCOLA,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1925447693.0
+CCOLA,2024/12,1BGA,Şerefiye,Goodwill,195777020.0
+CCOLA,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,858452069.0
+CCOLA,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,37648430.0
+CCOLA,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,58341945.0
+CCOLA,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5263891714.0
+CCOLA,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+CCOLA,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1880451987.0
+CCOLA,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,759657539.0
+CCOLA,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,909147855.0
+CCOLA,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,122178883.0
+CCOLA,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+CCOLA,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+CCOLA,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+CCOLA,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,14937257.0
+CCOLA,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),19437792.0
+CCOLA,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,29134224.0
+CCOLA,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,25958436.0
+CCOLA,2024/12,2AAGG,(Ara Toplam),(Subtotal),1880451987.0
+CCOLA,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+CCOLA,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1195465186.0
+CCOLA,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,984404933.0
+CCOLA,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,127900.0
+CCOLA,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+CCOLA,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+CCOLA,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+CCOLA,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+CCOLA,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,12705.0
+CCOLA,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,31431852.0
+CCOLA,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+CCOLA,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,179487796.0
+CCOLA,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+CCOLA,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2187974541.0
+CCOLA,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1905876748.0
+CCOLA,2024/12,2OA,Ödenmiş Sermaye,Share Capital,79167464.0
+CCOLA,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+CCOLA,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,139465261.0
+CCOLA,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+CCOLA,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,300029989.0
+CCOLA,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,112991001.0
+CCOLA,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1909776784.0
+CCOLA,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),525703418.0
+CCOLA,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-1181389127.0
+CCOLA,2024/12,2ODA,Azınlık Payları,Minority Interests,282097793.0
+CCOLA,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5263891714.0
+CCOLA,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+CCOLA,2024/12,3C,Satış Gelirleri,Net Sales,5253376599.0
+CCOLA,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-3399406826.0
+CCOLA,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+CCOLA,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1853969773.0
+CCOLA,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+CCOLA,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+CCOLA,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+CCOLA,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1853969773.0
+CCOLA,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-868400161.0
+CCOLA,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-284806681.0
+CCOLA,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+CCOLA,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,116951735.0
+CCOLA,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-97131832.0
+CCOLA,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+CCOLA,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,720582834.0
+CCOLA,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,700762931.0
+CCOLA,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3882328.0
+CCOLA,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-6727244.0
+CCOLA,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+CCOLA,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-182880.0
+CCOLA,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,717555038.0
+CCOLA,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),154799947.0
+CCOLA,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-111452413.0
+CCOLA,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-2844916.0
+CCOLA,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,760902571.0
+CCOLA,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-192709321.0
+CCOLA,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-142253256.0
+CCOLA,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-50456066.0
+CCOLA,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+CCOLA,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,568193250.0
+CCOLA,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+CCOLA,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,568193250.0
+CCOLA,2024/12,3LB,Azınlık Payları,Minority Interests,2980674.0
+CCOLA,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,565212576.0
+CCOLA,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+CCOLA,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+CCOLA,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+CCOLA,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+CCOLA,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,220418686.0
+CCOLA,2024/12,4BA,Kıdem Tazminatı,Severance Payments,2563595.0
+CCOLA,2024/12,4BB,Finansman Giderleri,Financial Expenses,-111452413.0
+CCOLA,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,2380554772.0
+CCOLA,2024/12,4BD,Yurtdışı Satışlar,Export Sales,2880679429.0
+CCOLA,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-988125500.0
+CCOLA,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1017650230.0
+CCOLA,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-166011193.0
+CCOLA,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,638974322.0
+CCOLA,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,568193250.0
+CCOLA,2024/12,4CAA,Düzeltmeler:,Adjustments:,188132105.0
+CCOLA,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,220418686.0
+CCOLA,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,-5602075.0
+CCOLA,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,537643204.0
+CCOLA,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),756325355.0
+CCOLA,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,140195641.0
+CCOLA,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),896520996.0
+CCOLA,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-257546674.0
+CCOLA,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-467596550.0
+CCOLA,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-27288547.0
+CCOLA,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-494885097.0
+CCOLA,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,144089224.0
+CCOLA,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,141978917.0
+CCOLA,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-94447284.0
+CCOLA,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+CCOLA,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-447467396.0
+CCOLA,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-399935763.0
+CCOLA,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-255846539.0
+CCOLA,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,2764370.0
+CCOLA,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+CCOLA,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-253082169.0
+CCOLA,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+CCOLA,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1198433651.0
+CCOLA,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,887255110.0
+CCOLA,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,1788107261.0
+CCOLA,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,580683536.0
+CCOLA,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,14966701.0
+CCOLA,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,537443265.0
+CCOLA,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+CCOLA,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,4953345.0
+CCOLA,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2024/3,1AF,Stoklar,Inventories,441219314.0
+CCOLA,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+CCOLA,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,208841100.0
+CCOLA,2024/3,1AI,(Ara Toplam),(Subtotal),1788107261.0
+CCOLA,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+CCOLA,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2281836778.0
+CCOLA,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+CCOLA,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+CCOLA,2024/3,1BB,Diğer Alacaklar,Other Receivables,4807195.0
+CCOLA,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2024/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+CCOLA,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+CCOLA,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+CCOLA,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+CCOLA,2024/3,1BFA,Stoklar,Stoklar,0.0
+CCOLA,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,17162035.0
+CCOLA,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1357016442.0
+CCOLA,2024/3,1BGA,Şerefiye,Goodwill,167496414.0
+CCOLA,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,664969608.0
+CCOLA,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,33105808.0
+CCOLA,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,37279276.0
+CCOLA,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4069944038.0
+CCOLA,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+CCOLA,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1697663402.0
+CCOLA,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,639011613.0
+CCOLA,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,742542698.0
+CCOLA,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,194458718.0
+CCOLA,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+CCOLA,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+CCOLA,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+CCOLA,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,7245637.0
+CCOLA,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),40137152.0
+CCOLA,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,42889938.0
+CCOLA,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,31377645.0
+CCOLA,2024/3,2AAGG,(Ara Toplam),(Subtotal),1697663402.0
+CCOLA,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+CCOLA,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,792762587.0
+CCOLA,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,630673085.0
+CCOLA,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,107409.0
+CCOLA,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+CCOLA,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+CCOLA,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+CCOLA,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+CCOLA,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1148172.0
+CCOLA,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,24322772.0
+CCOLA,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+CCOLA,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,136327311.0
+CCOLA,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,183839.0
+CCOLA,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1579518050.0
+CCOLA,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1373526509.0
+CCOLA,2024/3,2OA,Ödenmiş Sermaye,Share Capital,7864647.0
+CCOLA,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+CCOLA,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,96833779.0
+CCOLA,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+CCOLA,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,436439605.0
+CCOLA,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,72617365.0
+CCOLA,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1402406844.0
+CCOLA,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),83969441.0
+CCOLA,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-726605171.0
+CCOLA,2024/3,2ODA,Azınlık Payları,Minority Interests,205991541.0
+CCOLA,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4069944038.0
+CCOLA,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+CCOLA,2024/3,3C,Satış Gelirleri,Net Sales,1214633901.0
+CCOLA,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-810966566.0
+CCOLA,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+CCOLA,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,403667335.0
+CCOLA,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+CCOLA,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+CCOLA,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+CCOLA,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),403667335.0
+CCOLA,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-195782636.0
+CCOLA,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-66877868.0
+CCOLA,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+CCOLA,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,29596722.0
+CCOLA,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-27340777.0
+CCOLA,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+CCOLA,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,143262777.0
+CCOLA,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,141006832.0
+CCOLA,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,198738.0
+CCOLA,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-930317.0
+CCOLA,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+CCOLA,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-96381.0
+CCOLA,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,142434816.0
+CCOLA,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),56496129.0
+CCOLA,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),5591913.0
+CCOLA,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-731579.0
+CCOLA,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,204522859.0
+CCOLA,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-83648408.0
+CCOLA,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-6516061.0
+CCOLA,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-77132347.0
+CCOLA,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+CCOLA,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,120874451.0
+CCOLA,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+CCOLA,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+CCOLA,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,120874451.0
+CCOLA,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+CCOLA,2024/3,3LB,Azınlık Payları,Minority Interests,-271508.0
+CCOLA,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,121145959.0
+CCOLA,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+CCOLA,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+CCOLA,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+CCOLA,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+CCOLA,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,54182853.0
+CCOLA,2024/3,4BA,Kıdem Tazminatı,Severance Payments,9043675.0
+CCOLA,2024/3,4BB,Finansman Giderleri,Financial Expenses,5591913.0
+CCOLA,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,476669506.0
+CCOLA,2024/3,4BD,Yurtdışı Satışlar,Export Sales,740197859.0
+CCOLA,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-114182133.0
+CCOLA,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-820746471.0
+CCOLA,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-114182133.0
+CCOLA,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-28113861.0
+CCOLA,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,120874451.0
+CCOLA,2024/3,4CAA,Düzeltmeler:,Adjustments:,35806457.0
+CCOLA,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,54182853.0
+CCOLA,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,9043675.0
+CCOLA,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,139423165.0
+CCOLA,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),156680908.0
+CCOLA,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-84415807.0
+CCOLA,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),72265101.0
+CCOLA,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-100378962.0
+CCOLA,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-98393071.0
+CCOLA,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-40752513.0
+CCOLA,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-139145585.0
+CCOLA,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-167259446.0
+CCOLA,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-30724000.0
+CCOLA,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,-48126.0
+CCOLA,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+CCOLA,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-96732177.0
+CCOLA,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-127504303.0
+CCOLA,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-294763748.0
+CCOLA,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,36226186.0
+CCOLA,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+CCOLA,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-258537562.0
+CCOLA,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+CCOLA,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1116583105.0
+CCOLA,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,837774728.0
+CCOLA,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,2117418603.0
+CCOLA,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,691850006.0
+CCOLA,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,84247186.0
+CCOLA,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,682749466.0
+CCOLA,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+CCOLA,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,8739346.0
+CCOLA,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2024/6,1AF,Stoklar,Inventories,492015277.0
+CCOLA,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+CCOLA,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,157817323.0
+CCOLA,2024/6,1AI,(Ara Toplam),(Subtotal),2117418603.0
+CCOLA,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+CCOLA,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2383199515.0
+CCOLA,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+CCOLA,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+CCOLA,2024/6,1BB,Diğer Alacaklar,Other Receivables,4822793.0
+CCOLA,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2024/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+CCOLA,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+CCOLA,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+CCOLA,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+CCOLA,2024/6,1BFA,Stoklar,Stoklar,0.0
+CCOLA,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,16175100.0
+CCOLA,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1432774340.0
+CCOLA,2024/6,1BGA,Şerefiye,Goodwill,166806476.0
+CCOLA,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,674016719.0
+CCOLA,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,46267025.0
+CCOLA,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,42337062.0
+CCOLA,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4500618118.0
+CCOLA,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+CCOLA,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1894354256.0
+CCOLA,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,639700869.0
+CCOLA,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,945488775.0
+CCOLA,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,178017990.0
+CCOLA,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+CCOLA,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+CCOLA,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+CCOLA,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,8796149.0
+CCOLA,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),55547828.0
+CCOLA,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,36081137.0
+CCOLA,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,30721508.0
+CCOLA,2024/6,2AAGG,(Ara Toplam),(Subtotal),1894354256.0
+CCOLA,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+CCOLA,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,940089371.0
+CCOLA,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,780138998.0
+CCOLA,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,106309.0
+CCOLA,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+CCOLA,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+CCOLA,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+CCOLA,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+CCOLA,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,768611.0
+CCOLA,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,25734143.0
+CCOLA,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+CCOLA,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,133341311.0
+CCOLA,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+CCOLA,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1666174491.0
+CCOLA,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1444013587.0
+CCOLA,2024/6,2OA,Ödenmiş Sermaye,Share Capital,7735097.0
+CCOLA,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+CCOLA,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,103243394.0
+CCOLA,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+CCOLA,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,348871502.0
+CCOLA,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,83644942.0
+CCOLA,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1425095255.0
+CCOLA,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),253979985.0
+CCOLA,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-778556589.0
+CCOLA,2024/6,2ODA,Azınlık Payları,Minority Interests,222160905.0
+CCOLA,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4500618118.0
+CCOLA,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+CCOLA,2024/6,3C,Satış Gelirleri,Net Sales,2823759672.0
+CCOLA,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1808464425.0
+CCOLA,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+CCOLA,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1015295248.0
+CCOLA,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+CCOLA,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+CCOLA,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+CCOLA,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1015295248.0
+CCOLA,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-437271574.0
+CCOLA,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-141673991.0
+CCOLA,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+CCOLA,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,64825424.0
+CCOLA,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-57977897.0
+CCOLA,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+CCOLA,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,443197209.0
+CCOLA,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,436349682.0
+CCOLA,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,255740.0
+CCOLA,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1375470.0
+CCOLA,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+CCOLA,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-147334.0
+CCOLA,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,441930145.0
+CCOLA,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),80202537.0
+CCOLA,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-20613100.0
+CCOLA,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-1119729.0
+CCOLA,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,501519582.0
+CCOLA,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-142879547.0
+CCOLA,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-154426312.0
+CCOLA,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,11546765.0
+CCOLA,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+CCOLA,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,358640035.0
+CCOLA,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+CCOLA,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+CCOLA,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,358640035.0
+CCOLA,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+CCOLA,2024/6,3LB,Azınlık Payları,Minority Interests,1939002.0
+CCOLA,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,356701033.0
+CCOLA,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+CCOLA,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+CCOLA,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+CCOLA,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+CCOLA,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,109225529.0
+CCOLA,2024/6,4BA,Kıdem Tazminatı,Severance Payments,16250495.0
+CCOLA,2024/6,4BB,Finansman Giderleri,Financial Expenses,-20613100.0
+CCOLA,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,1166133670.0
+CCOLA,2024/6,4BD,Yurtdışı Satışlar,Export Sales,1661889436.0
+CCOLA,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-772219855.0
+CCOLA,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-791250572.0
+CCOLA,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-96250830.0
+CCOLA,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,261806792.0
+CCOLA,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,358640035.0
+CCOLA,2024/6,4CAA,Düzeltmeler:,Adjustments:,93898001.0
+CCOLA,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,109225529.0
+CCOLA,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,16250495.0
+CCOLA,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,312252797.0
+CCOLA,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),452538036.0
+CCOLA,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-90918297.0
+CCOLA,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),361619740.0
+CCOLA,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-99812947.0
+CCOLA,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-227162322.0
+CCOLA,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-143554269.0
+CCOLA,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-370716591.0
+CCOLA,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,-108909799.0
+CCOLA,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,171243091.0
+CCOLA,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-89865705.0
+CCOLA,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+CCOLA,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-145864501.0
+CCOLA,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-64487114.0
+CCOLA,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-173396913.0
+CCOLA,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,17932334.0
+CCOLA,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+CCOLA,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-155464579.0
+CCOLA,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+CCOLA,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1158893536.0
+CCOLA,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,971665431.0
+CCOLA,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,1800758692.0
+CCOLA,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,529129847.0
+CCOLA,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,25176977.0
+CCOLA,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,580503415.0
+CCOLA,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+CCOLA,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,13255174.0
+CCOLA,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2024/9,1AF,Stoklar,Inventories,456289300.0
+CCOLA,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+CCOLA,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,196403979.0
+CCOLA,2024/9,1AI,(Ara Toplam),(Subtotal),1800758692.0
+CCOLA,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+CCOLA,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,2453396855.0
+CCOLA,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+CCOLA,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+CCOLA,2024/9,1BB,Diğer Alacaklar,Other Receivables,4854443.0
+CCOLA,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2024/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+CCOLA,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+CCOLA,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+CCOLA,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+CCOLA,2024/9,1BFA,Stoklar,Stoklar,0.0
+CCOLA,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,20949082.0
+CCOLA,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1499893601.0
+CCOLA,2024/9,1BGA,Şerefiye,Goodwill,166827880.0
+CCOLA,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,680894405.0
+CCOLA,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,28976465.0
+CCOLA,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,51000980.0
+CCOLA,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4254155547.0
+CCOLA,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+CCOLA,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1517451708.0
+CCOLA,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,479295429.0
+CCOLA,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,812480129.0
+CCOLA,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,143379887.0
+CCOLA,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+CCOLA,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+CCOLA,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+CCOLA,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,16563710.0
+CCOLA,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),19878710.0
+CCOLA,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,29331646.0
+CCOLA,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,16522197.0
+CCOLA,2024/9,2AAGG,(Ara Toplam),(Subtotal),1517451708.0
+CCOLA,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+CCOLA,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,954053097.0
+CCOLA,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,798085248.0
+CCOLA,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,104059.0
+CCOLA,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+CCOLA,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+CCOLA,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+CCOLA,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+CCOLA,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,328063.0
+CCOLA,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,26026212.0
+CCOLA,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+CCOLA,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,129509515.0
+CCOLA,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+CCOLA,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1782650742.0
+CCOLA,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1565670796.0
+CCOLA,2024/9,2OA,Ödenmiş Sermaye,Share Capital,81857061.0
+CCOLA,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+CCOLA,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,108184071.0
+CCOLA,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+CCOLA,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,291643531.0
+CCOLA,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,87647831.0
+CCOLA,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1482429606.0
+CCOLA,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),417457705.0
+CCOLA,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-903549009.0
+CCOLA,2024/9,2ODA,Azınlık Payları,Minority Interests,216979946.0
+CCOLA,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4254155547.0
+CCOLA,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+CCOLA,2024/9,3C,Satış Gelirleri,Net Sales,4489689436.0
+CCOLA,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-2867865892.0
+CCOLA,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+CCOLA,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1621823544.0
+CCOLA,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+CCOLA,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+CCOLA,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+CCOLA,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1621823544.0
+CCOLA,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-695730050.0
+CCOLA,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-214537732.0
+CCOLA,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+CCOLA,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,91312206.0
+CCOLA,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-69987268.0
+CCOLA,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+CCOLA,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,732880700.0
+CCOLA,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,711555762.0
+CCOLA,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,273141.0
+CCOLA,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-9044950.0
+CCOLA,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+CCOLA,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-165335.0
+CCOLA,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,723943556.0
+CCOLA,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),130348141.0
+CCOLA,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-66998265.0
+CCOLA,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-8771809.0
+CCOLA,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,787293432.0
+CCOLA,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-195153779.0
+CCOLA,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-171633333.0
+CCOLA,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-23520446.0
+CCOLA,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+CCOLA,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,592139653.0
+CCOLA,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+CCOLA,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+CCOLA,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,592139653.0
+CCOLA,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+CCOLA,2024/9,3LB,Azınlık Payları,Minority Interests,2898017.0
+CCOLA,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,589241636.0
+CCOLA,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+CCOLA,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+CCOLA,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+CCOLA,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+CCOLA,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,167751487.0
+CCOLA,2024/9,4BA,Kıdem Tazminatı,Severance Payments,20936958.0
+CCOLA,2024/9,4BB,Finansman Giderleri,Financial Expenses,-66998265.0
+CCOLA,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,1989761338.0
+CCOLA,2024/9,4BD,Yurtdışı Satışlar,Export Sales,2507564839.0
+CCOLA,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-734956753.0
+CCOLA,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-751838538.0
+CCOLA,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-120773048.0
+CCOLA,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,513482962.0
+CCOLA,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,592139653.0
+CCOLA,2024/9,4CAA,Düzeltmeler:,Adjustments:,125316481.0
+CCOLA,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,167751487.0
+CCOLA,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,-5479027.0
+CCOLA,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,466253346.0
+CCOLA,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),717456134.0
+CCOLA,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-12556722.0
+CCOLA,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),704899411.0
+CCOLA,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-191416450.0
+CCOLA,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-371696809.0
+CCOLA,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-61488011.0
+CCOLA,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-433184820.0
+CCOLA,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,80298141.0
+CCOLA,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-10372522.0
+CCOLA,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-96760192.0
+CCOLA,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+CCOLA,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-429593494.0
+CCOLA,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-536726208.0
+CCOLA,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-456428067.0
+CCOLA,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,28534077.0
+CCOLA,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+CCOLA,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-427893990.0
+CCOLA,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+CCOLA,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1220452509.0
+CCOLA,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,746866791.0
+CCOLA,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,1929746152.0
+CCOLA,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,577574702.0
+CCOLA,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,6720596.0
+CCOLA,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,639118722.0
+CCOLA,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+CCOLA,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,14694307.0
+CCOLA,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2025/3,1AF,Stoklar,Inventories,449827508.0
+CCOLA,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+CCOLA,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,241810317.0
+CCOLA,2025/3,1AI,(Ara Toplam),(Subtotal),1929746152.0
+CCOLA,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+CCOLA,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2557893730.0
+CCOLA,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+CCOLA,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+CCOLA,2025/3,1BB,Diğer Alacaklar,Other Receivables,5203192.0
+CCOLA,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2025/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+CCOLA,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+CCOLA,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+CCOLA,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+CCOLA,2025/3,1BFA,Stoklar,Stoklar,0.0
+CCOLA,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,18411707.0
+CCOLA,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1585495550.0
+CCOLA,2025/3,1BGA,Şerefiye,Goodwill,158544710.0
+CCOLA,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,701807040.0
+CCOLA,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,29512762.0
+CCOLA,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,58918768.0
+CCOLA,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4487639882.0
+CCOLA,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+CCOLA,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1760936017.0
+CCOLA,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,708666031.0
+CCOLA,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,832982553.0
+CCOLA,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,148077983.0
+CCOLA,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+CCOLA,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+CCOLA,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+CCOLA,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,9429028.0
+CCOLA,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),18201498.0
+CCOLA,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,21988545.0
+CCOLA,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,21590381.0
+CCOLA,2025/3,2AAGG,(Ara Toplam),(Subtotal),1760936017.0
+CCOLA,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+CCOLA,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,953706352.0
+CCOLA,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,788408112.0
+CCOLA,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,97929.0
+CCOLA,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+CCOLA,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+CCOLA,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+CCOLA,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+CCOLA,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+CCOLA,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,25638624.0
+CCOLA,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+CCOLA,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,139561687.0
+CCOLA,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+CCOLA,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1772997513.0
+CCOLA,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1538791342.0
+CCOLA,2025/3,2OA,Ödenmiş Sermaye,Share Capital,73957318.0
+CCOLA,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+CCOLA,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,114325165.0
+CCOLA,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+CCOLA,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,217564605.0
+CCOLA,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,92623164.0
+CCOLA,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1996458924.0
+CCOLA,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),33707779.0
+CCOLA,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-989845614.0
+CCOLA,2025/3,2ODA,Azınlık Payları,Minority Interests,234206171.0
+CCOLA,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4487639882.0
+CCOLA,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+CCOLA,2025/3,3C,Satış Gelirleri,Net Sales,997302499.0
+CCOLA,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-693962280.0
+CCOLA,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+CCOLA,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,303340219.0
+CCOLA,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+CCOLA,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+CCOLA,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+CCOLA,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),303340219.0
+CCOLA,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-175916740.0
+CCOLA,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-55272748.0
+CCOLA,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+CCOLA,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,30717269.0
+CCOLA,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-23623570.0
+CCOLA,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+CCOLA,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,79244429.0
+CCOLA,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,72150730.0
+CCOLA,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,108149.0
+CCOLA,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-989141.0
+CCOLA,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+CCOLA,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,87710.0
+CCOLA,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,78451147.0
+CCOLA,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),20504116.0
+CCOLA,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-26655949.0
+CCOLA,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-880993.0
+CCOLA,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,72299314.0
+CCOLA,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-36515779.0
+CCOLA,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-6491752.0
+CCOLA,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-30024026.0
+CCOLA,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+CCOLA,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,35783535.0
+CCOLA,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+CCOLA,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+CCOLA,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,35783535.0
+CCOLA,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+CCOLA,2025/3,3LB,Azınlık Payları,Minority Interests,608649.0
+CCOLA,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,35174886.0
+CCOLA,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+CCOLA,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+CCOLA,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+CCOLA,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+CCOLA,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,45983394.0
+CCOLA,2025/3,4BA,Kıdem Tazminatı,Severance Payments,5300988.0
+CCOLA,2025/3,4BB,Finansman Giderleri,Financial Expenses,-26655949.0
+CCOLA,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,396328806.0
+CCOLA,2025/3,4BD,Yurtdışı Satışlar,Export Sales,600975790.0
+CCOLA,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-910595877.0
+CCOLA,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-941762262.0
+CCOLA,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-281683374.0
+CCOLA,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-77828679.0
+CCOLA,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,35783535.0
+CCOLA,2025/3,4CAA,Düzeltmeler:,Adjustments:,64343350.0
+CCOLA,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,45983394.0
+CCOLA,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,-1174271.0
+CCOLA,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,106495071.0
+CCOLA,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),100126886.0
+CCOLA,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-140401301.0
+CCOLA,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-40274416.0
+CCOLA,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-37554264.0
+CCOLA,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-77807055.0
+CCOLA,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-4106720.0
+CCOLA,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-81913775.0
+CCOLA,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-159742455.0
+CCOLA,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,129667154.0
+CCOLA,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,-46834.0
+CCOLA,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+CCOLA,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-66386450.0
+CCOLA,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,63233870.0
+CCOLA,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-96508585.0
+CCOLA,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1938757.0
+CCOLA,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+CCOLA,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-94569828.0
+CCOLA,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+CCOLA,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,705920566.0
+CCOLA,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,602713227.0
+CCOLA,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,1989886744.0
+CCOLA,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,564262064.0
+CCOLA,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,8159091.0
+CCOLA,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,735696014.0
+CCOLA,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+CCOLA,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,12877747.0
+CCOLA,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2025/6,1AF,Stoklar,Inventories,459781726.0
+CCOLA,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+CCOLA,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,209110101.0
+CCOLA,2025/6,1AI,(Ara Toplam),(Subtotal),1989886744.0
+CCOLA,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+CCOLA,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2611287589.0
+CCOLA,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+CCOLA,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+CCOLA,2025/6,1BB,Diğer Alacaklar,Other Receivables,5171931.0
+CCOLA,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2025/6,1BC,Finansal Yatırımlar,Financial Investments,12509.0
+CCOLA,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+CCOLA,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+CCOLA,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+CCOLA,2025/6,1BFA,Stoklar,Stoklar,0.0
+CCOLA,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,17141142.0
+CCOLA,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1627469834.0
+CCOLA,2025/6,1BGA,Şerefiye,Goodwill,158123047.0
+CCOLA,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,708233791.0
+CCOLA,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,27835498.0
+CCOLA,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,67299836.0
+CCOLA,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4601174333.0
+CCOLA,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+CCOLA,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1843021446.0
+CCOLA,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,662906004.0
+CCOLA,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,935225884.0
+CCOLA,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,157026228.0
+CCOLA,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+CCOLA,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+CCOLA,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+CCOLA,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,12309783.0
+CCOLA,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),29361003.0
+CCOLA,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,27069757.0
+CCOLA,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,19122786.0
+CCOLA,2025/6,2AAGG,(Ara Toplam),(Subtotal),1843021446.0
+CCOLA,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+CCOLA,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,952898243.0
+CCOLA,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,795791613.0
+CCOLA,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,94744.0
+CCOLA,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+CCOLA,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+CCOLA,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+CCOLA,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+CCOLA,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,9017.0
+CCOLA,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,26469818.0
+CCOLA,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+CCOLA,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,130533050.0
+CCOLA,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+CCOLA,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1805254644.0
+CCOLA,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1568487180.0
+CCOLA,2025/6,2OA,Ödenmiş Sermaye,Share Capital,70281596.0
+CCOLA,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+CCOLA,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,115168842.0
+CCOLA,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+CCOLA,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,209886769.0
+CCOLA,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,113385930.0
+CCOLA,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1913538119.0
+CCOLA,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),160824718.0
+CCOLA,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-1014598793.0
+CCOLA,2025/6,2ODA,Azınlık Payları,Minority Interests,236767464.0
+CCOLA,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4601174333.0
+CCOLA,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+CCOLA,2025/6,3C,Satış Gelirleri,Net Sales,2306923690.0
+CCOLA,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1541128320.0
+CCOLA,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+CCOLA,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,765795370.0
+CCOLA,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+CCOLA,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+CCOLA,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+CCOLA,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),765795370.0
+CCOLA,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-377742394.0
+CCOLA,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-121587391.0
+CCOLA,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+CCOLA,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,45412192.0
+CCOLA,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-37231788.0
+CCOLA,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+CCOLA,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,274645989.0
+CCOLA,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,266465585.0
+CCOLA,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,131844.0
+CCOLA,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1490327.0
+CCOLA,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+CCOLA,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,170367.0
+CCOLA,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,273457874.0
+CCOLA,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),50930374.0
+CCOLA,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-93829982.0
+CCOLA,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-1358483.0
+CCOLA,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,230558265.0
+CCOLA,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-57659001.0
+CCOLA,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-51224422.0
+CCOLA,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-6434580.0
+CCOLA,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+CCOLA,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,172899264.0
+CCOLA,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+CCOLA,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+CCOLA,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,172899264.0
+CCOLA,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+CCOLA,2025/6,3LB,Azınlık Payları,Minority Interests,2083304.0
+CCOLA,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,170815960.0
+CCOLA,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+CCOLA,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+CCOLA,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+CCOLA,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+CCOLA,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,93156036.0
+CCOLA,2025/6,4BA,Kıdem Tazminatı,Severance Payments,9378764.0
+CCOLA,2025/6,4BB,Finansman Giderleri,Financial Expenses,-93829982.0
+CCOLA,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,949614334.0
+CCOLA,2025/6,4BD,Yurtdışı Satışlar,Export Sales,1357311517.0
+CCOLA,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-960826054.0
+CCOLA,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-974607423.0
+CCOLA,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-280655131.0
+CCOLA,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,166181922.0
+CCOLA,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,172899264.0
+CCOLA,2025/6,4CAA,Düzeltmeler:,Adjustments:,154266883.0
+CCOLA,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,93156036.0
+CCOLA,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,2641013.0
+CCOLA,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,207397946.0
+CCOLA,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),327166147.0
+CCOLA,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-143644459.0
+CCOLA,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),183521688.0
+CCOLA,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-17339767.0
+CCOLA,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-172179592.0
+CCOLA,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-5698820.0
+CCOLA,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-177878412.0
+CCOLA,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,-11696490.0
+CCOLA,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,109168667.0
+CCOLA,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-84096904.0
+CCOLA,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+CCOLA,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-142200312.0
+CCOLA,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-117128549.0
+CCOLA,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-128825039.0
+CCOLA,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,16941621.0
+CCOLA,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+CCOLA,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-111883419.0
+CCOLA,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+CCOLA,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,723805890.0
+CCOLA,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,599316866.0
+CCOLA,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,2001625623.0
+CCOLA,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,729281918.0
+CCOLA,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,44031615.0
+CCOLA,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,627454667.0
+CCOLA,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+CCOLA,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,6091565.0
+CCOLA,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2025/9,1AF,Stoklar,Inventories,401215514.0
+CCOLA,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+CCOLA,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,193550344.0
+CCOLA,2025/9,1AI,(Ara Toplam),(Subtotal),2001625623.0
+CCOLA,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+CCOLA,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,2674970251.0
+CCOLA,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+CCOLA,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+CCOLA,2025/9,1BB,Diğer Alacaklar,Other Receivables,5190830.0
+CCOLA,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+CCOLA,2025/9,1BC,Finansal Yatırımlar,Financial Investments,12025.0
+CCOLA,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+CCOLA,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+CCOLA,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+CCOLA,2025/9,1BFA,Stoklar,Stoklar,0.0
+CCOLA,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,21763472.0
+CCOLA,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1678864522.0
+CCOLA,2025/9,1BGA,Şerefiye,Goodwill,160135252.0
+CCOLA,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,724650975.0
+CCOLA,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,33403765.0
+CCOLA,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,50949410.0
+CCOLA,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4676595874.0
+CCOLA,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+CCOLA,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1735907733.0
+CCOLA,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,571044116.0
+CCOLA,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,906722012.0
+CCOLA,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,138099376.0
+CCOLA,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+CCOLA,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+CCOLA,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+CCOLA,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,19392303.0
+CCOLA,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),48135497.0
+CCOLA,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,28956510.0
+CCOLA,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,23557920.0
+CCOLA,2025/9,2AAGG,(Ara Toplam),(Subtotal),1735907733.0
+CCOLA,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+CCOLA,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,942062210.0
+CCOLA,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,783951026.0
+CCOLA,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+CCOLA,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,65125.0
+CCOLA,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+CCOLA,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+CCOLA,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+CCOLA,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+CCOLA,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+CCOLA,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,27578929.0
+CCOLA,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+CCOLA,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,130467130.0
+CCOLA,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+CCOLA,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1998625931.0
+CCOLA,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1752374079.0
+CCOLA,2025/9,2OA,Ödenmiş Sermaye,Share Capital,67291278.0
+CCOLA,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+CCOLA,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,118543971.0
+CCOLA,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+CCOLA,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,200132294.0
+CCOLA,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,116708857.0
+CCOLA,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1969613699.0
+CCOLA,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),338244993.0
+CCOLA,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-1058161014.0
+CCOLA,2025/9,2ODA,Azınlık Payları,Minority Interests,246251852.0
+CCOLA,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4676595874.0
+CCOLA,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+CCOLA,2025/9,3C,Satış Gelirleri,Net Sales,3757054232.0
+CCOLA,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-2443399494.0
+CCOLA,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+CCOLA,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1313654738.0
+CCOLA,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+CCOLA,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+CCOLA,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+CCOLA,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+CCOLA,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1313654738.0
+CCOLA,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-593368958.0
+CCOLA,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-184112430.0
+CCOLA,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+CCOLA,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,65634708.0
+CCOLA,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-61324430.0
+CCOLA,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+CCOLA,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,540483628.0
+CCOLA,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,536173350.0
+CCOLA,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,169293.0
+CCOLA,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2353795.0
+CCOLA,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+CCOLA,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,140590.0
+CCOLA,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,538439716.0
+CCOLA,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),86544386.0
+CCOLA,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-150021432.0
+CCOLA,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-2184502.0
+CCOLA,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,474962671.0
+CCOLA,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-107586606.0
+CCOLA,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-101076270.0
+CCOLA,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-6510335.0
+CCOLA,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+CCOLA,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,367376065.0
+CCOLA,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+CCOLA,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+CCOLA,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,367376065.0
+CCOLA,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+CCOLA,2025/9,3LB,Azınlık Payları,Minority Interests,3354463.0
+CCOLA,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,364021602.0
+CCOLA,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+CCOLA,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+CCOLA,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+CCOLA,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+CCOLA,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,142775768.0
+CCOLA,2025/9,4BA,Kıdem Tazminatı,Severance Payments,10877140.0
+CCOLA,2025/9,4BB,Finansman Giderleri,Financial Expenses,-150021432.0
+CCOLA,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,1621217534.0
+CCOLA,2025/9,4BD,Yurtdışı Satışlar,Export Sales,2135840346.0
+CCOLA,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-835608664.0
+CCOLA,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-856978262.0
+CCOLA,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-147146584.0
+CCOLA,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,598372895.0
+CCOLA,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,367376065.0
+CCOLA,2025/9,4CAA,Düzeltmeler:,Adjustments:,237958285.0
+CCOLA,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,142775768.0
+CCOLA,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,4262811.0
+CCOLA,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,326955853.0
+CCOLA,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),605334350.0
+CCOLA,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-22998677.0
+CCOLA,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),582335674.0
+CCOLA,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,16037221.0
+CCOLA,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-262501666.0
+CCOLA,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-44291587.0
+CCOLA,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-306793253.0
+CCOLA,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,291579642.0
+CCOLA,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,19692172.0
+CCOLA,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-87587863.0
+CCOLA,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+CCOLA,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-214047689.0
+CCOLA,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-281943380.0
+CCOLA,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,9636262.0
+CCOLA,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,41006901.0
+CCOLA,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+CCOLA,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,50643163.0
+CCOLA,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+CCOLA,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,754895345.0
+CCOLA,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,784858246.0

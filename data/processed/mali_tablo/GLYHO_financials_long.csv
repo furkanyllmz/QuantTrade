@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+GLYHO,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,457270826.0
+GLYHO,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,162620877.0
+GLYHO,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,33386740.0
+GLYHO,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,119867338.0
+GLYHO,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,49251657.0
+GLYHO,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,19057566.0
+GLYHO,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2022/12,1AF,Stoklar,Inventories,30442011.0
+GLYHO,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+GLYHO,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,42644637.0
+GLYHO,2022/12,1AI,(Ara Toplam),(Subtotal),457270826.0
+GLYHO,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+GLYHO,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1758972793.0
+GLYHO,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+GLYHO,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+GLYHO,2022/12,1BB,Diğer Alacaklar,Other Receivables,17073611.0
+GLYHO,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2022/12,1BC,Finansal Yatırımlar,Financial Investments,1497717.0
+GLYHO,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,26735874.0
+GLYHO,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+GLYHO,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,198185716.0
+GLYHO,2022/12,1BFA,Stoklar,Stoklar,0.0
+GLYHO,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,143104669.0
+GLYHO,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,445093538.0
+GLYHO,2022/12,1BGA,Şerefiye,Goodwill,33211587.0
+GLYHO,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,874208438.0
+GLYHO,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,6256887.0
+GLYHO,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,13604756.0
+GLYHO,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2216243619.0
+GLYHO,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+GLYHO,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,483633209.0
+GLYHO,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,286533189.0
+GLYHO,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,74904165.0
+GLYHO,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,24200296.0
+GLYHO,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+GLYHO,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,29680381.0
+GLYHO,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+GLYHO,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,423881.0
+GLYHO,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),8302713.0
+GLYHO,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,26357858.0
+GLYHO,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,33230725.0
+GLYHO,2022/12,2AAGG,(Ara Toplam),(Subtotal),483633209.0
+GLYHO,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+GLYHO,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1241730695.0
+GLYHO,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,1040699424.0
+GLYHO,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+GLYHO,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,9170722.0
+GLYHO,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+GLYHO,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+GLYHO,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+GLYHO,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1454508.0
+GLYHO,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,19655085.0
+GLYHO,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+GLYHO,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,169586234.0
+GLYHO,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,1164723.0
+GLYHO,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,490879715.0
+GLYHO,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,309199022.0
+GLYHO,2022/12,2OA,Ödenmiş Sermaye,Share Capital,34699979.0
+GLYHO,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+GLYHO,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,90230339.0
+GLYHO,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+GLYHO,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-21389857.0
+GLYHO,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,9236672.0
+GLYHO,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-49411739.0
+GLYHO,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),60945283.0
+GLYHO,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,184888344.0
+GLYHO,2022/12,2ODA,Azınlık Payları,Minority Interests,181680693.0
+GLYHO,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2216243619.0
+GLYHO,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+GLYHO,2022/12,3C,Satış Gelirleri,Net Sales,922015589.0
+GLYHO,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-679598865.0
+GLYHO,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+GLYHO,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,242416724.0
+GLYHO,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",79453614.0
+GLYHO,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-1268207.0
+GLYHO,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+GLYHO,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,78185407.0
+GLYHO,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+GLYHO,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),320602131.0
+GLYHO,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-35497643.0
+GLYHO,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-110977413.0
+GLYHO,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+GLYHO,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,7407865.0
+GLYHO,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-26457723.0
+GLYHO,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+GLYHO,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,155077217.0
+GLYHO,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,174127075.0
+GLYHO,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,87055623.0
+GLYHO,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-199788.0
+GLYHO,2022/12,3HAB,Diğer Gelir ve Giderler,nan,-1197418.0
+GLYHO,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,5871502.0
+GLYHO,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,246607136.0
+GLYHO,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),24002786.0
+GLYHO,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-75746449.0
+GLYHO,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,85658417.0
+GLYHO,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,194863473.0
+GLYHO,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-73854530.0
+GLYHO,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-24994067.0
+GLYHO,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-48860464.0
+GLYHO,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+GLYHO,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,121008943.0
+GLYHO,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+GLYHO,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+GLYHO,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,121008943.0
+GLYHO,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+GLYHO,2022/12,3LB,Azınlık Payları,Minority Interests,52298362.0
+GLYHO,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,68710581.0
+GLYHO,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+GLYHO,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+GLYHO,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+GLYHO,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+GLYHO,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,99730081.0
+GLYHO,2022/12,4BA,Kıdem Tazminatı,Severance Payments,900787.0
+GLYHO,2022/12,4BB,Finansman Giderleri,Financial Expenses,-75746449.0
+GLYHO,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+GLYHO,2022/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+GLYHO,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-83584336.0
+GLYHO,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-83584336.0
+GLYHO,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-83584336.0
+GLYHO,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,205938593.0
+GLYHO,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,121008943.0
+GLYHO,2022/12,4CAA,Düzeltmeler:,Adjustments:,117902283.0
+GLYHO,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,99730081.0
+GLYHO,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,4927836.0
+GLYHO,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,13244366.0
+GLYHO,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),238911226.0
+GLYHO,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-21635820.0
+GLYHO,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),217275407.0
+GLYHO,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-11336814.0
+GLYHO,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-266689202.0
+GLYHO,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,43342382.0
+GLYHO,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-223346820.0
+GLYHO,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,-17408227.0
+GLYHO,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,34886051.0
+GLYHO,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-1673654.0
+GLYHO,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+GLYHO,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,21384895.0
+GLYHO,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,54597292.0
+GLYHO,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,37189066.0
+GLYHO,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-89106898.0
+GLYHO,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+GLYHO,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-51917833.0
+GLYHO,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+GLYHO,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,200816495.0
+GLYHO,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,148898662.0
+GLYHO,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,264678829.0
+GLYHO,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,136550954.0
+GLYHO,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,12692698.0
+GLYHO,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,35079723.0
+GLYHO,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,20541093.0
+GLYHO,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,11256854.0
+GLYHO,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2022/3,1AF,Stoklar,Inventories,10292351.0
+GLYHO,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+GLYHO,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,38265157.0
+GLYHO,2022/3,1AI,(Ara Toplam),(Subtotal),264678829.0
+GLYHO,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+GLYHO,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,891880241.0
+GLYHO,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+GLYHO,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+GLYHO,2022/3,1BB,Diğer Alacaklar,Other Receivables,10427534.0
+GLYHO,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2022/3,1BC,Finansal Yatırımlar,Financial Investments,297156.0
+GLYHO,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,14054128.0
+GLYHO,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+GLYHO,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,79005081.0
+GLYHO,2022/3,1BFA,Stoklar,Stoklar,0.0
+GLYHO,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,88499815.0
+GLYHO,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,214668423.0
+GLYHO,2022/3,1BGA,Şerefiye,Goodwill,14752754.0
+GLYHO,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,449669176.0
+GLYHO,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,14307128.0
+GLYHO,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,6199046.0
+GLYHO,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1156559070.0
+GLYHO,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+GLYHO,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,261617880.0
+GLYHO,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,171154222.0
+GLYHO,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,29088327.0
+GLYHO,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,10683004.0
+GLYHO,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+GLYHO,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,12688858.0
+GLYHO,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+GLYHO,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,655016.0
+GLYHO,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1487040.0
+GLYHO,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,11257851.0
+GLYHO,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,24603561.0
+GLYHO,2022/3,2AAGG,(Ara Toplam),(Subtotal),261617880.0
+GLYHO,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+GLYHO,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,717354529.0
+GLYHO,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,628092309.0
+GLYHO,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+GLYHO,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,6633990.0
+GLYHO,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+GLYHO,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+GLYHO,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+GLYHO,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,985668.0
+GLYHO,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,15580878.0
+GLYHO,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+GLYHO,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,64724810.0
+GLYHO,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,1336875.0
+GLYHO,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,177586661.0
+GLYHO,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,151112640.0
+GLYHO,2022/3,2OA,Ödenmiş Sermaye,Share Capital,44327753.0
+GLYHO,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+GLYHO,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+GLYHO,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+GLYHO,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,76187596.0
+GLYHO,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,453590.0
+GLYHO,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-9847624.0
+GLYHO,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),5240347.0
+GLYHO,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,34750979.0
+GLYHO,2022/3,2ODA,Azınlık Payları,Minority Interests,26474021.0
+GLYHO,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1156559070.0
+GLYHO,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+GLYHO,2022/3,3C,Satış Gelirleri,Net Sales,71415258.0
+GLYHO,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-61047045.0
+GLYHO,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+GLYHO,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,10368213.0
+GLYHO,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",4512681.0
+GLYHO,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-120918.0
+GLYHO,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+GLYHO,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,4391763.0
+GLYHO,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+GLYHO,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),14759976.0
+GLYHO,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-3834744.0
+GLYHO,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-11623637.0
+GLYHO,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+GLYHO,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1504288.0
+GLYHO,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-3446020.0
+GLYHO,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+GLYHO,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-2640137.0
+GLYHO,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-698405.0
+GLYHO,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,10753053.0
+GLYHO,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+GLYHO,2022/3,3HAB,Diğer Gelir ve Giderler,nan,-427137.0
+GLYHO,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,118762.0
+GLYHO,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,7804541.0
+GLYHO,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),5093893.0
+GLYHO,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-10781584.0
+GLYHO,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,10325916.0
+GLYHO,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,2116850.0
+GLYHO,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-1941798.0
+GLYHO,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1215207.0
+GLYHO,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-726590.0
+GLYHO,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+GLYHO,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,175052.0
+GLYHO,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+GLYHO,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+GLYHO,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,175052.0
+GLYHO,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+GLYHO,2022/3,3LB,Azınlık Payları,Minority Interests,-5324378.0
+GLYHO,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,5499430.0
+GLYHO,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+GLYHO,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+GLYHO,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+GLYHO,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+GLYHO,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,12339837.0
+GLYHO,2022/3,4BA,Kıdem Tazminatı,Severance Payments,430711.0
+GLYHO,2022/3,4BB,Finansman Giderleri,Financial Expenses,-10781584.0
+GLYHO,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+GLYHO,2022/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+GLYHO,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-63123734.0
+GLYHO,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-63123734.0
+GLYHO,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-63123734.0
+GLYHO,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,26699299.0
+GLYHO,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,175052.0
+GLYHO,2022/3,4CAA,Düzeltmeler:,Adjustments:,22023731.0
+GLYHO,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,12339837.0
+GLYHO,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,1955392.0
+GLYHO,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,7728502.0
+GLYHO,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),22198783.0
+GLYHO,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,4533735.0
+GLYHO,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),26732518.0
+GLYHO,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-33220.0
+GLYHO,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-19736450.0
+GLYHO,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1230133.0
+GLYHO,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-20966583.0
+GLYHO,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,5732715.0
+GLYHO,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,12251484.0
+GLYHO,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+GLYHO,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+GLYHO,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-374217.0
+GLYHO,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,11877267.0
+GLYHO,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,17609983.0
+GLYHO,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,5574978.0
+GLYHO,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+GLYHO,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,23184960.0
+GLYHO,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+GLYHO,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,88222018.0
+GLYHO,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,111406978.0
+GLYHO,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,265657905.0
+GLYHO,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,107152138.0
+GLYHO,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,20059916.0
+GLYHO,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,54451863.0
+GLYHO,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,17448589.0
+GLYHO,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,12712417.0
+GLYHO,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2022/6,1AF,Stoklar,Inventories,9529020.0
+GLYHO,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+GLYHO,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,44303964.0
+GLYHO,2022/6,1AI,(Ara Toplam),(Subtotal),265657905.0
+GLYHO,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+GLYHO,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,872635651.0
+GLYHO,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+GLYHO,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+GLYHO,2022/6,1BB,Diğer Alacaklar,Other Receivables,10023878.0
+GLYHO,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2022/6,1BC,Finansal Yatırımlar,Financial Investments,261053.0
+GLYHO,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,13058799.0
+GLYHO,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+GLYHO,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,69744648.0
+GLYHO,2022/6,1BFA,Stoklar,Stoklar,0.0
+GLYHO,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,84693390.0
+GLYHO,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,208362724.0
+GLYHO,2022/6,1BGA,Şerefiye,Goodwill,14594756.0
+GLYHO,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,451591129.0
+GLYHO,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,12453254.0
+GLYHO,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,7852019.0
+GLYHO,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1138293556.0
+GLYHO,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+GLYHO,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,250918815.0
+GLYHO,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,154182176.0
+GLYHO,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,42340350.0
+GLYHO,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,9134921.0
+GLYHO,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+GLYHO,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,11303302.0
+GLYHO,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+GLYHO,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,690104.0
+GLYHO,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3138391.0
+GLYHO,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,12137455.0
+GLYHO,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,17992116.0
+GLYHO,2022/6,2AAGG,(Ara Toplam),(Subtotal),250918815.0
+GLYHO,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+GLYHO,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,703134625.0
+GLYHO,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,620505288.0
+GLYHO,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+GLYHO,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,6492593.0
+GLYHO,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+GLYHO,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+GLYHO,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+GLYHO,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,900540.0
+GLYHO,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,13559332.0
+GLYHO,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+GLYHO,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,60782177.0
+GLYHO,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,894694.0
+GLYHO,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,184240116.0
+GLYHO,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,150019465.0
+GLYHO,2022/6,2OA,Ödenmiş Sermaye,Share Capital,38942210.0
+GLYHO,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+GLYHO,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,37757739.0
+GLYHO,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+GLYHO,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,62647565.0
+GLYHO,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,810622.0
+GLYHO,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4889020.0
+GLYHO,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),4871866.0
+GLYHO,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,100445.0
+GLYHO,2022/6,2ODA,Azınlık Payları,Minority Interests,34220651.0
+GLYHO,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1138293556.0
+GLYHO,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+GLYHO,2022/6,3C,Satış Gelirleri,Net Sales,182650874.0
+GLYHO,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-139048880.0
+GLYHO,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+GLYHO,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,43601995.0
+GLYHO,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",9151399.0
+GLYHO,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-274725.0
+GLYHO,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+GLYHO,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,8876674.0
+GLYHO,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+GLYHO,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),52478669.0
+GLYHO,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-7130892.0
+GLYHO,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-21215830.0
+GLYHO,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+GLYHO,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1965904.0
+GLYHO,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-5407941.0
+GLYHO,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+GLYHO,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,20689909.0
+GLYHO,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,24131946.0
+GLYHO,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,12301070.0
+GLYHO,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+GLYHO,2022/6,3HAB,Diğer Gelir ve Giderler,nan,-559217.0
+GLYHO,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,300838.0
+GLYHO,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,32732599.0
+GLYHO,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),7375310.0
+GLYHO,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-29310270.0
+GLYHO,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,11741852.0
+GLYHO,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,10797639.0
+GLYHO,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-5877265.0
+GLYHO,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-4516693.0
+GLYHO,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-1360572.0
+GLYHO,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+GLYHO,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,4920375.0
+GLYHO,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+GLYHO,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+GLYHO,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,4920375.0
+GLYHO,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+GLYHO,2022/6,3LB,Azınlık Payları,Minority Interests,-542143.0
+GLYHO,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,5462518.0
+GLYHO,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+GLYHO,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+GLYHO,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+GLYHO,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+GLYHO,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,22801113.0
+GLYHO,2022/6,4BA,Kıdem Tazminatı,Severance Payments,458812.0
+GLYHO,2022/6,4BB,Finansman Giderleri,Financial Expenses,-29310270.0
+GLYHO,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+GLYHO,2022/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+GLYHO,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-78729723.0
+GLYHO,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-78729723.0
+GLYHO,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-78729723.0
+GLYHO,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,42305329.0
+GLYHO,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,4920375.0
+GLYHO,2022/6,4CAA,Düzeltmeler:,Adjustments:,51875809.0
+GLYHO,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,22801113.0
+GLYHO,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,2002296.0
+GLYHO,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,27072400.0
+GLYHO,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),56796184.0
+GLYHO,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-13347833.0
+GLYHO,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),43448351.0
+GLYHO,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-1143021.0
+GLYHO,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-46463594.0
+GLYHO,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,7543207.0
+GLYHO,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-38920387.0
+GLYHO,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,3384942.0
+GLYHO,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,2634498.0
+GLYHO,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-1108640.0
+GLYHO,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+GLYHO,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-7066126.0
+GLYHO,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-5540267.0
+GLYHO,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-2155325.0
+GLYHO,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,16745242.0
+GLYHO,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+GLYHO,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,14589917.0
+GLYHO,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+GLYHO,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,82806001.0
+GLYHO,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,97395918.0
+GLYHO,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,257800087.0
+GLYHO,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,103382213.0
+GLYHO,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,16981205.0
+GLYHO,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,66421909.0
+GLYHO,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,17824002.0
+GLYHO,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,11910628.0
+GLYHO,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2022/9,1AF,Stoklar,Inventories,9011956.0
+GLYHO,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+GLYHO,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,32268173.0
+GLYHO,2022/9,1AI,(Ara Toplam),(Subtotal),257800087.0
+GLYHO,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+GLYHO,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,871298477.0
+GLYHO,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+GLYHO,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+GLYHO,2022/9,1BB,Diğer Alacaklar,Other Receivables,9226026.0
+GLYHO,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2022/9,1BC,Finansal Yatırımlar,Financial Investments,301489.0
+GLYHO,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,13168159.0
+GLYHO,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+GLYHO,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,56078400.0
+GLYHO,2022/9,1BFA,Stoklar,Stoklar,0.0
+GLYHO,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,81046401.0
+GLYHO,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,201352047.0
+GLYHO,2022/9,1BGA,Şerefiye,Goodwill,14274628.0
+GLYHO,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,469737698.0
+GLYHO,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,14643185.0
+GLYHO,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,11470444.0
+GLYHO,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1129098564.0
+GLYHO,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+GLYHO,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,265935318.0
+GLYHO,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,155058182.0
+GLYHO,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,59837809.0
+GLYHO,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,10365256.0
+GLYHO,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+GLYHO,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,9111347.0
+GLYHO,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+GLYHO,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,766207.0
+GLYHO,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3845970.0
+GLYHO,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,13251905.0
+GLYHO,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,13698643.0
+GLYHO,2022/9,2AAGG,(Ara Toplam),(Subtotal),265935318.0
+GLYHO,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+GLYHO,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,688562416.0
+GLYHO,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,612982072.0
+GLYHO,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+GLYHO,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,6235056.0
+GLYHO,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+GLYHO,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+GLYHO,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+GLYHO,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,828705.0
+GLYHO,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,11862920.0
+GLYHO,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+GLYHO,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,55927177.0
+GLYHO,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,726488.0
+GLYHO,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,174600829.0
+GLYHO,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,138727947.0
+GLYHO,2022/9,2OA,Ödenmiş Sermaye,Share Capital,35036465.0
+GLYHO,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+GLYHO,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,33619763.0
+GLYHO,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+GLYHO,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,50984764.0
+GLYHO,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,704060.0
+GLYHO,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3892674.0
+GLYHO,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),14135635.0
+GLYHO,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,354585.0
+GLYHO,2022/9,2ODA,Azınlık Payları,Minority Interests,35872882.0
+GLYHO,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1129098564.0
+GLYHO,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+GLYHO,2022/9,3C,Satış Gelirleri,Net Sales,341508464.0
+GLYHO,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-245881983.0
+GLYHO,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+GLYHO,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,95626480.0
+GLYHO,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",14809864.0
+GLYHO,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-438043.0
+GLYHO,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+GLYHO,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,14371821.0
+GLYHO,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+GLYHO,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),109998302.0
+GLYHO,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-10990671.0
+GLYHO,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-32030121.0
+GLYHO,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+GLYHO,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,2602747.0
+GLYHO,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-6883179.0
+GLYHO,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+GLYHO,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,62697078.0
+GLYHO,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,66977510.0
+GLYHO,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,12905612.0
+GLYHO,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-222347.0
+GLYHO,2022/9,3HAB,Diğer Gelir ve Giderler,nan,-976152.0
+GLYHO,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1360861.0
+GLYHO,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,75765052.0
+GLYHO,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),8533000.0
+GLYHO,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-51657387.0
+GLYHO,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,11707113.0
+GLYHO,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,32640665.0
+GLYHO,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-5441545.0
+GLYHO,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-8687052.0
+GLYHO,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,3245508.0
+GLYHO,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+GLYHO,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,27199120.0
+GLYHO,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+GLYHO,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+GLYHO,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,27199120.0
+GLYHO,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+GLYHO,2022/9,3LB,Azınlık Payları,Minority Interests,10719286.0
+GLYHO,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,16479834.0
+GLYHO,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+GLYHO,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+GLYHO,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+GLYHO,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+GLYHO,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,33269155.0
+GLYHO,2022/9,4BA,Kıdem Tazminatı,Severance Payments,655491.0
+GLYHO,2022/9,4BB,Finansman Giderleri,Financial Expenses,-51657387.0
+GLYHO,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+GLYHO,2022/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+GLYHO,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-80008213.0
+GLYHO,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-80008213.0
+GLYHO,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-80008213.0
+GLYHO,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,91473156.0
+GLYHO,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,27199120.0
+GLYHO,2022/9,4CAA,Düzeltmeler:,Adjustments:,76491171.0
+GLYHO,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,33269155.0
+GLYHO,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,2485269.0
+GLYHO,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,40736748.0
+GLYHO,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),103690292.0
+GLYHO,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-9396970.0
+GLYHO,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),94293321.0
+GLYHO,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-2820165.0
+GLYHO,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-88794997.0
+GLYHO,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,13795303.0
+GLYHO,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-74999695.0
+GLYHO,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,16473462.0
+GLYHO,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-3119408.0
+GLYHO,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-1037122.0
+GLYHO,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+GLYHO,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-9103648.0
+GLYHO,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-13260178.0
+GLYHO,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,3213284.0
+GLYHO,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,21730080.0
+GLYHO,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+GLYHO,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,24943364.0
+GLYHO,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+GLYHO,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,77464267.0
+GLYHO,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,102407631.0
+GLYHO,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,433734838.0
+GLYHO,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,215211621.0
+GLYHO,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,34230788.0
+GLYHO,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,75857458.0
+GLYHO,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,21847148.0
+GLYHO,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,17134280.0
+GLYHO,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2023/12,1AF,Stoklar,Inventories,28321514.0
+GLYHO,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+GLYHO,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,41132030.0
+GLYHO,2023/12,1AI,(Ara Toplam),(Subtotal),433734838.0
+GLYHO,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+GLYHO,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1745878485.0
+GLYHO,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+GLYHO,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+GLYHO,2023/12,1BB,Diğer Alacaklar,Other Receivables,17846962.0
+GLYHO,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2023/12,1BC,Finansal Yatırımlar,Financial Investments,1363355.0
+GLYHO,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,27226146.0
+GLYHO,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+GLYHO,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,210879466.0
+GLYHO,2023/12,1BFA,Stoklar,Stoklar,0.0
+GLYHO,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,123720560.0
+GLYHO,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,419922845.0
+GLYHO,2023/12,1BGA,Şerefiye,Goodwill,29551368.0
+GLYHO,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,852837773.0
+GLYHO,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,49730867.0
+GLYHO,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,12799143.0
+GLYHO,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2179613323.0
+GLYHO,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+GLYHO,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,434570426.0
+GLYHO,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,258162428.0
+GLYHO,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,55632212.0
+GLYHO,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,19590044.0
+GLYHO,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+GLYHO,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,33355873.0
+GLYHO,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+GLYHO,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,283480.0
+GLYHO,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),8145775.0
+GLYHO,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,34443725.0
+GLYHO,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,24956889.0
+GLYHO,2023/12,2AAGG,(Ara Toplam),(Subtotal),434570426.0
+GLYHO,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+GLYHO,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1226771524.0
+GLYHO,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,1115516149.0
+GLYHO,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+GLYHO,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,3494160.0
+GLYHO,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+GLYHO,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+GLYHO,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+GLYHO,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1296756.0
+GLYHO,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,17721482.0
+GLYHO,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+GLYHO,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,88098652.0
+GLYHO,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,644325.0
+GLYHO,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,518271373.0
+GLYHO,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,332317781.0
+GLYHO,2023/12,2OA,Ödenmiş Sermaye,Share Capital,22040398.0
+GLYHO,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+GLYHO,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,82745839.0
+GLYHO,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+GLYHO,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-55506314.0
+GLYHO,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,10761106.0
+GLYHO,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),-2851459.0
+GLYHO,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),98295503.0
+GLYHO,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,176832708.0
+GLYHO,2023/12,2ODA,Azınlık Payları,Minority Interests,185953592.0
+GLYHO,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2179613323.0
+GLYHO,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+GLYHO,2023/12,3C,Satış Gelirleri,Net Sales,705424983.0
+GLYHO,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-463463741.0
+GLYHO,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+GLYHO,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,241961241.0
+GLYHO,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",87421705.0
+GLYHO,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-3352222.0
+GLYHO,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+GLYHO,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,84069483.0
+GLYHO,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+GLYHO,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),326030724.0
+GLYHO,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-35532325.0
+GLYHO,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-133243705.0
+GLYHO,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+GLYHO,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,10657960.0
+GLYHO,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-52369739.0
+GLYHO,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+GLYHO,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,115542914.0
+GLYHO,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,157254694.0
+GLYHO,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,43543721.0
+GLYHO,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+GLYHO,2023/12,3HAB,Diğer Gelir ve Giderler,nan,-234092.0
+GLYHO,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,12651002.0
+GLYHO,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,171503545.0
+GLYHO,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),63674617.0
+GLYHO,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-150403353.0
+GLYHO,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,43309629.0
+GLYHO,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,84774809.0
+GLYHO,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,69680824.0
+GLYHO,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-21145941.0
+GLYHO,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,90826765.0
+GLYHO,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+GLYHO,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,154455633.0
+GLYHO,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+GLYHO,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+GLYHO,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,154455633.0
+GLYHO,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+GLYHO,2023/12,3LB,Azınlık Payları,Minority Interests,32800561.0
+GLYHO,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,121655072.0
+GLYHO,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+GLYHO,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+GLYHO,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+GLYHO,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+GLYHO,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,101867699.0
+GLYHO,2023/12,4BA,Kıdem Tazminatı,Severance Payments,545151.0
+GLYHO,2023/12,4BB,Finansman Giderleri,Financial Expenses,-150403353.0
+GLYHO,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+GLYHO,2023/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+GLYHO,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-136026339.0
+GLYHO,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-136026339.0
+GLYHO,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-136026339.0
+GLYHO,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,140168289.0
+GLYHO,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,154455633.0
+GLYHO,2023/12,4CAA,Düzeltmeler:,Adjustments:,-44661383.0
+GLYHO,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,101867699.0
+GLYHO,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,-6599348.0
+GLYHO,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,40758434.0
+GLYHO,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),109794250.0
+GLYHO,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,29362157.0
+GLYHO,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),139156407.0
+GLYHO,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,1011882.0
+GLYHO,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-193970858.0
+GLYHO,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,39713082.0
+GLYHO,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-154257777.0
+GLYHO,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,-14089488.0
+GLYHO,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,243927173.0
+GLYHO,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-9888220.0
+GLYHO,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+GLYHO,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-155118981.0
+GLYHO,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,78919973.0
+GLYHO,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,64830485.0
+GLYHO,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-3911323.0
+GLYHO,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+GLYHO,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,60919162.0
+GLYHO,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+GLYHO,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,149898545.0
+GLYHO,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,175055920.0
+GLYHO,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,293588969.0
+GLYHO,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,154013688.0
+GLYHO,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,19691857.0
+GLYHO,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,44317399.0
+GLYHO,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,21734314.0
+GLYHO,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,12340846.0
+GLYHO,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2023/3,1AF,Stoklar,Inventories,13679520.0
+GLYHO,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+GLYHO,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,27811345.0
+GLYHO,2023/3,1AI,(Ara Toplam),(Subtotal),293588969.0
+GLYHO,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+GLYHO,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1031985004.0
+GLYHO,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+GLYHO,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+GLYHO,2023/3,1BB,Diğer Alacaklar,Other Receivables,10972581.0
+GLYHO,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2023/3,1BC,Finansal Yatırımlar,Financial Investments,296338.0
+GLYHO,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,17790132.0
+GLYHO,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+GLYHO,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,130510012.0
+GLYHO,2023/3,1BFA,Stoklar,Stoklar,0.0
+GLYHO,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,84470798.0
+GLYHO,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,218702319.0
+GLYHO,2023/3,1BGA,Şerefiye,Goodwill,14252987.0
+GLYHO,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,531212096.0
+GLYHO,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,15621059.0
+GLYHO,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,8156681.0
+GLYHO,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1325573973.0
+GLYHO,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+GLYHO,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,299351478.0
+GLYHO,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,195053085.0
+GLYHO,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,43638819.0
+GLYHO,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,10546100.0
+GLYHO,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+GLYHO,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,10882169.0
+GLYHO,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+GLYHO,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,375394.0
+GLYHO,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),6777832.0
+GLYHO,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,16421999.0
+GLYHO,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,15656082.0
+GLYHO,2023/3,2AAGG,(Ara Toplam),(Subtotal),299351478.0
+GLYHO,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+GLYHO,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,768017759.0
+GLYHO,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,677305160.0
+GLYHO,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+GLYHO,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,5210677.0
+GLYHO,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+GLYHO,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+GLYHO,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+GLYHO,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,841240.0
+GLYHO,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,12273655.0
+GLYHO,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+GLYHO,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,71735042.0
+GLYHO,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,651984.0
+GLYHO,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,258204736.0
+GLYHO,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,215581907.0
+GLYHO,2023/3,2OA,Ödenmiş Sermaye,Share Capital,33875692.0
+GLYHO,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+GLYHO,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,32397135.0
+GLYHO,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+GLYHO,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,72135768.0
+GLYHO,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,6219583.0
+GLYHO,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),59404461.0
+GLYHO,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),12342472.0
+GLYHO,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-793203.0
+GLYHO,2023/3,2ODA,Azınlık Payları,Minority Interests,42622829.0
+GLYHO,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1325573973.0
+GLYHO,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+GLYHO,2023/3,3C,Satış Gelirleri,Net Sales,188923191.0
+GLYHO,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-148921517.0
+GLYHO,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+GLYHO,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,40001674.0
+GLYHO,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",17730347.0
+GLYHO,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-411083.0
+GLYHO,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+GLYHO,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,17319264.0
+GLYHO,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+GLYHO,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),57320938.0
+GLYHO,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-11050917.0
+GLYHO,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-30288305.0
+GLYHO,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+GLYHO,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,2402638.0
+GLYHO,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-9860782.0
+GLYHO,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+GLYHO,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,8523571.0
+GLYHO,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,15981716.0
+GLYHO,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,18392133.0
+GLYHO,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+GLYHO,2023/3,3HAB,Diğer Gelir ve Giderler,nan,-808405.0
+GLYHO,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,2544444.0
+GLYHO,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,28651744.0
+GLYHO,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),11440414.0
+GLYHO,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-10865656.0
+GLYHO,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,17583728.0
+GLYHO,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,29226502.0
+GLYHO,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-18321029.0
+GLYHO,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-2349882.0
+GLYHO,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-15971147.0
+GLYHO,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+GLYHO,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,10905473.0
+GLYHO,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+GLYHO,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+GLYHO,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,10905473.0
+GLYHO,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+GLYHO,2023/3,3LB,Azınlık Payları,Minority Interests,1090475.0
+GLYHO,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,9814998.0
+GLYHO,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+GLYHO,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+GLYHO,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+GLYHO,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+GLYHO,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,24034039.0
+GLYHO,2023/3,4BA,Kıdem Tazminatı,Severance Payments,728898.0
+GLYHO,2023/3,4BB,Finansman Giderleri,Financial Expenses,-10865656.0
+GLYHO,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+GLYHO,2023/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+GLYHO,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-88541999.0
+GLYHO,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-88541999.0
+GLYHO,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-88541999.0
+GLYHO,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,88294682.0
+GLYHO,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,10059946.0
+GLYHO,2023/3,4CAA,Düzeltmeler:,Adjustments:,46187557.0
+GLYHO,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,24034039.0
+GLYHO,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,2217166.0
+GLYHO,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,19800090.0
+GLYHO,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),56247503.0
+GLYHO,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,29753542.0
+GLYHO,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),86001045.0
+GLYHO,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,2293637.0
+GLYHO,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-49700277.0
+GLYHO,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,1903646.0
+GLYHO,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-47796631.0
+GLYHO,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,40498051.0
+GLYHO,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,98770442.0
+GLYHO,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+GLYHO,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+GLYHO,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-22416981.0
+GLYHO,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,76353461.0
+GLYHO,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,116851512.0
+GLYHO,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-6489957.0
+GLYHO,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+GLYHO,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,110361555.0
+GLYHO,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+GLYHO,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,133898792.0
+GLYHO,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,229359855.0
+GLYHO,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,213494062.0
+GLYHO,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,88191397.0
+GLYHO,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,15161277.0
+GLYHO,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,45321911.0
+GLYHO,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,19750768.0
+GLYHO,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,10817950.0
+GLYHO,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2023/6,1AF,Stoklar,Inventories,8557372.0
+GLYHO,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+GLYHO,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,25693386.0
+GLYHO,2023/6,1AI,(Ara Toplam),(Subtotal),213494062.0
+GLYHO,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+GLYHO,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1029767386.0
+GLYHO,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+GLYHO,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+GLYHO,2023/6,1BB,Diğer Alacaklar,Other Receivables,11804963.0
+GLYHO,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2023/6,1BC,Finansal Yatırımlar,Financial Investments,181419.0
+GLYHO,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,17006016.0
+GLYHO,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+GLYHO,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,97668953.0
+GLYHO,2023/6,1BFA,Stoklar,Stoklar,0.0
+GLYHO,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,82562140.0
+GLYHO,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,215345652.0
+GLYHO,2023/6,1BGA,Şerefiye,Goodwill,14051798.0
+GLYHO,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,569280609.0
+GLYHO,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,13343749.0
+GLYHO,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,8522087.0
+GLYHO,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1243261448.0
+GLYHO,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+GLYHO,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,258149947.0
+GLYHO,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,173665988.0
+GLYHO,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,34968208.0
+GLYHO,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,11536627.0
+GLYHO,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+GLYHO,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,8833251.0
+GLYHO,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+GLYHO,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,525445.0
+GLYHO,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1526603.0
+GLYHO,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,14678194.0
+GLYHO,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,12415631.0
+GLYHO,2023/6,2AAGG,(Ara Toplam),(Subtotal),258149947.0
+GLYHO,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+GLYHO,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,784637801.0
+GLYHO,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,699996466.0
+GLYHO,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+GLYHO,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,5007572.0
+GLYHO,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+GLYHO,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+GLYHO,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+GLYHO,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1029047.0
+GLYHO,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,11086463.0
+GLYHO,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+GLYHO,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,66824190.0
+GLYHO,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,694063.0
+GLYHO,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,200473700.0
+GLYHO,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,163547554.0
+GLYHO,2023/6,2OA,Ödenmiş Sermaye,Share Capital,25126017.0
+GLYHO,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+GLYHO,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,21099130.0
+GLYHO,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+GLYHO,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,56564647.0
+GLYHO,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,4619248.0
+GLYHO,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),46985134.0
+GLYHO,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),12082229.0
+GLYHO,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-2928851.0
+GLYHO,2023/6,2ODA,Azınlık Payları,Minority Interests,36926146.0
+GLYHO,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1243261448.0
+GLYHO,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+GLYHO,2023/6,3C,Satış Gelirleri,Net Sales,363322897.0
+GLYHO,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-255980307.0
+GLYHO,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+GLYHO,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,107342590.0
+GLYHO,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",28699284.0
+GLYHO,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-1045666.0
+GLYHO,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+GLYHO,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,27653618.0
+GLYHO,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+GLYHO,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),134996208.0
+GLYHO,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-19719427.0
+GLYHO,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-57699936.0
+GLYHO,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+GLYHO,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,5397171.0
+GLYHO,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-20797414.0
+GLYHO,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+GLYHO,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,42176602.0
+GLYHO,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,57576845.0
+GLYHO,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,22686733.0
+GLYHO,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+GLYHO,2023/6,3HAB,Diğer Gelir ve Giderler,nan,-1582359.0
+GLYHO,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,6420061.0
+GLYHO,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,69701036.0
+GLYHO,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),48907514.0
+GLYHO,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-50478160.0
+GLYHO,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,21104373.0
+GLYHO,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,68130390.0
+GLYHO,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-32952689.0
+GLYHO,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-5684548.0
+GLYHO,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-27268141.0
+GLYHO,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+GLYHO,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,35177701.0
+GLYHO,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+GLYHO,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+GLYHO,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,35177701.0
+GLYHO,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+GLYHO,2023/6,3LB,Azınlık Payları,Minority Interests,18972161.0
+GLYHO,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,16205541.0
+GLYHO,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+GLYHO,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+GLYHO,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+GLYHO,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+GLYHO,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,49200531.0
+GLYHO,2023/6,4BA,Kıdem Tazminatı,Severance Payments,915140.0
+GLYHO,2023/6,4BB,Finansman Giderleri,Financial Expenses,-50478160.0
+GLYHO,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+GLYHO,2023/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+GLYHO,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-127609940.0
+GLYHO,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-127609940.0
+GLYHO,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-127609940.0
+GLYHO,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,159182077.0
+GLYHO,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,35177701.0
+GLYHO,2023/6,4CAA,Düzeltmeler:,Adjustments:,130809929.0
+GLYHO,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,49200531.0
+GLYHO,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,1012634.0
+GLYHO,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,91654225.0
+GLYHO,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),165987630.0
+GLYHO,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-4098693.0
+GLYHO,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),161888938.0
+GLYHO,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-2706861.0
+GLYHO,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-154054803.0
+GLYHO,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-5616239.0
+GLYHO,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-159671042.0
+GLYHO,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,-488966.0
+GLYHO,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,96697784.0
+GLYHO,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-10988173.0
+GLYHO,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+GLYHO,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-51922618.0
+GLYHO,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,33786993.0
+GLYHO,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,33298027.0
+GLYHO,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,8635026.0
+GLYHO,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+GLYHO,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,41933053.0
+GLYHO,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+GLYHO,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,130116616.0
+GLYHO,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,150568139.0
+GLYHO,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,304252892.0
+GLYHO,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,160981518.0
+GLYHO,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,21222592.0
+GLYHO,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,46164739.0
+GLYHO,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,25564023.0
+GLYHO,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,11225069.0
+GLYHO,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2023/9,1AF,Stoklar,Inventories,10294826.0
+GLYHO,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+GLYHO,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,28800125.0
+GLYHO,2023/9,1AI,(Ara Toplam),(Subtotal),304252892.0
+GLYHO,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+GLYHO,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1024029127.0
+GLYHO,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+GLYHO,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+GLYHO,2023/9,1BB,Diğer Alacaklar,Other Receivables,11548940.0
+GLYHO,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2023/9,1BC,Finansal Yatırımlar,Financial Investments,171124.0
+GLYHO,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,18120356.0
+GLYHO,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+GLYHO,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,92527450.0
+GLYHO,2023/9,1BFA,Stoklar,Stoklar,0.0
+GLYHO,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,80117935.0
+GLYHO,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,223258044.0
+GLYHO,2023/9,1BGA,Şerefiye,Goodwill,14018174.0
+GLYHO,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,563488496.0
+GLYHO,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,13597804.0
+GLYHO,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,7180804.0
+GLYHO,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1328282019.0
+GLYHO,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+GLYHO,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,268271609.0
+GLYHO,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,180018212.0
+GLYHO,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,30101329.0
+GLYHO,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,9951746.0
+GLYHO,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+GLYHO,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,14611881.0
+GLYHO,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+GLYHO,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,530694.0
+GLYHO,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),6026291.0
+GLYHO,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,15008790.0
+GLYHO,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,12022666.0
+GLYHO,2023/9,2AAGG,(Ara Toplam),(Subtotal),268271609.0
+GLYHO,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+GLYHO,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,845554408.0
+GLYHO,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,761275517.0
+GLYHO,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+GLYHO,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,4956701.0
+GLYHO,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+GLYHO,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+GLYHO,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+GLYHO,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,968767.0
+GLYHO,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,11370751.0
+GLYHO,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+GLYHO,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,66462493.0
+GLYHO,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,520179.0
+GLYHO,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,214456002.0
+GLYHO,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,167294399.0
+GLYHO,2023/9,2OA,Ödenmiş Sermaye,Share Capital,23700139.0
+GLYHO,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+GLYHO,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,19543720.0
+GLYHO,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+GLYHO,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,53326156.0
+GLYHO,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,3958141.0
+GLYHO,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),52175641.0
+GLYHO,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),19333580.0
+GLYHO,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-4742978.0
+GLYHO,2023/9,2ODA,Azınlık Payları,Minority Interests,47161603.0
+GLYHO,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1328282019.0
+GLYHO,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+GLYHO,2023/9,3C,Satış Gelirleri,Net Sales,536093272.0
+GLYHO,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-346418621.0
+GLYHO,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+GLYHO,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,189674651.0
+GLYHO,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",48348454.0
+GLYHO,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-1936333.0
+GLYHO,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+GLYHO,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,46412121.0
+GLYHO,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+GLYHO,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),236086772.0
+GLYHO,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-29482703.0
+GLYHO,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-84138127.0
+GLYHO,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+GLYHO,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,5735530.0
+GLYHO,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-26172140.0
+GLYHO,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+GLYHO,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,102029330.0
+GLYHO,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,122465941.0
+GLYHO,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,28039833.0
+GLYHO,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+GLYHO,2023/9,3HAB,Diğer Gelir ve Giderler,nan,-855025.0
+GLYHO,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,9456564.0
+GLYHO,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,138670703.0
+GLYHO,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),56598417.0
+GLYHO,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-50658504.0
+GLYHO,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,27184809.0
+GLYHO,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,144610617.0
+GLYHO,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-79241830.0
+GLYHO,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-15594679.0
+GLYHO,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-63647151.0
+GLYHO,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+GLYHO,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,65368786.0
+GLYHO,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+GLYHO,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+GLYHO,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,65368786.0
+GLYHO,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+GLYHO,2023/9,3LB,Azınlık Payları,Minority Interests,38494432.0
+GLYHO,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,26874354.0
+GLYHO,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+GLYHO,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+GLYHO,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+GLYHO,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+GLYHO,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,71855433.0
+GLYHO,2023/9,4BA,Kıdem Tazminatı,Severance Payments,480891.0
+GLYHO,2023/9,4BB,Finansman Giderleri,Financial Expenses,-50658504.0
+GLYHO,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+GLYHO,2023/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+GLYHO,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-113404659.0
+GLYHO,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-113404659.0
+GLYHO,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-113404659.0
+GLYHO,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,213923408.0
+GLYHO,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,65368786.0
+GLYHO,2023/9,4CAA,Düzeltmeler:,Adjustments:,165851876.0
+GLYHO,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,71855433.0
+GLYHO,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,391324.0
+GLYHO,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,128568884.0
+GLYHO,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),231220663.0
+GLYHO,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-17549000.0
+GLYHO,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),213671662.0
+GLYHO,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,251745.0
+GLYHO,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-176117974.0
+GLYHO,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,19747597.0
+GLYHO,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-156370377.0
+GLYHO,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,57553030.0
+GLYHO,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,225348038.0
+GLYHO,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-12098781.0
+GLYHO,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+GLYHO,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-106023131.0
+GLYHO,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,107226126.0
+GLYHO,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,164779156.0
+GLYHO,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-1228275.0
+GLYHO,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+GLYHO,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,163550881.0
+GLYHO,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+GLYHO,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,101036910.0
+GLYHO,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,230973947.0
+GLYHO,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,532896063.0
+GLYHO,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,281540820.0
+GLYHO,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,37353115.0
+GLYHO,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,87837076.0
+GLYHO,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,32930289.0
+GLYHO,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,13631669.0
+GLYHO,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2024/12,1AF,Stoklar,Inventories,22351837.0
+GLYHO,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+GLYHO,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,57251257.0
+GLYHO,2024/12,1AI,(Ara Toplam),(Subtotal),532896063.0
+GLYHO,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+GLYHO,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1898107047.0
+GLYHO,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+GLYHO,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+GLYHO,2024/12,1BB,Diğer Alacaklar,Other Receivables,13477280.0
+GLYHO,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2024/12,1BC,Finansal Yatırımlar,Financial Investments,1686651.0
+GLYHO,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,23567596.0
+GLYHO,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+GLYHO,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,249671583.0
+GLYHO,2024/12,1BFA,Stoklar,Stoklar,0.0
+GLYHO,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,108835864.0
+GLYHO,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,392960277.0
+GLYHO,2024/12,1BGA,Şerefiye,Goodwill,27472559.0
+GLYHO,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,980636813.0
+GLYHO,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,83357238.0
+GLYHO,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,16441183.0
+GLYHO,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2431003110.0
+GLYHO,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+GLYHO,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,424165340.0
+GLYHO,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,243468677.0
+GLYHO,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,81198104.0
+GLYHO,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,18844637.0
+GLYHO,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+GLYHO,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,43330790.0
+GLYHO,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+GLYHO,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,303457.0
+GLYHO,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),9664185.0
+GLYHO,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,11450675.0
+GLYHO,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,15904816.0
+GLYHO,2024/12,2AAGG,(Ara Toplam),(Subtotal),424165340.0
+GLYHO,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+GLYHO,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1516483422.0
+GLYHO,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,1434698703.0
+GLYHO,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+GLYHO,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,4274862.0
+GLYHO,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+GLYHO,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+GLYHO,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+GLYHO,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,946791.0
+GLYHO,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,16502460.0
+GLYHO,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+GLYHO,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,59894336.0
+GLYHO,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,166270.0
+GLYHO,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,490354348.0
+GLYHO,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,295897796.0
+GLYHO,2024/12,2OA,Ödenmiş Sermaye,Share Capital,18390779.0
+GLYHO,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+GLYHO,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,82697785.0
+GLYHO,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+GLYHO,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-157942203.0
+GLYHO,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,15731279.0
+GLYHO,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),58836562.0
+GLYHO,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),117632882.0
+GLYHO,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,155874013.0
+GLYHO,2024/12,2ODA,Azınlık Payları,Minority Interests,194456552.0
+GLYHO,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2431003110.0
+GLYHO,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+GLYHO,2024/12,3C,Satış Gelirleri,Net Sales,728156150.0
+GLYHO,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-458984847.0
+GLYHO,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+GLYHO,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,269171304.0
+GLYHO,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",68394220.0
+GLYHO,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-423882.0
+GLYHO,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+GLYHO,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,67970338.0
+GLYHO,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+GLYHO,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),337141641.0
+GLYHO,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-35962104.0
+GLYHO,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-126290016.0
+GLYHO,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+GLYHO,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,8669340.0
+GLYHO,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-17092959.0
+GLYHO,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+GLYHO,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,166465903.0
+GLYHO,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,174889522.0
+GLYHO,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,29895208.0
+GLYHO,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3452533.0
+GLYHO,2024/12,3HAB,Diğer Gelir ve Giderler,nan,-1581334.0
+GLYHO,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,7938276.0
+GLYHO,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,199265520.0
+GLYHO,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),29808508.0
+GLYHO,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-107991999.0
+GLYHO,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,24861341.0
+GLYHO,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,121082029.0
+GLYHO,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,37542296.0
+GLYHO,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-29364141.0
+GLYHO,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,66906437.0
+GLYHO,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+GLYHO,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,158624324.0
+GLYHO,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+GLYHO,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,158624324.0
+GLYHO,2024/12,3LB,Azınlık Payları,Minority Interests,32150762.0
+GLYHO,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,126473563.0
+GLYHO,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+GLYHO,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+GLYHO,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+GLYHO,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+GLYHO,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,93001492.0
+GLYHO,2024/12,4BA,Kıdem Tazminatı,Severance Payments,1024350.0
+GLYHO,2024/12,4BB,Finansman Giderleri,Financial Expenses,-107991999.0
+GLYHO,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+GLYHO,2024/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+GLYHO,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-101017282.0
+GLYHO,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-101017282.0
+GLYHO,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-101017282.0
+GLYHO,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,267206660.0
+GLYHO,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,158624324.0
+GLYHO,2024/12,4CAA,Düzeltmeler:,Adjustments:,147584077.0
+GLYHO,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,93001492.0
+GLYHO,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,-24174695.0
+GLYHO,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,21504389.0
+GLYHO,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),306208401.0
+GLYHO,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-32742577.0
+GLYHO,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),273465824.0
+GLYHO,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-6259164.0
+GLYHO,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-390548179.0
+GLYHO,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-143103742.0
+GLYHO,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-533651920.0
+GLYHO,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,-266445260.0
+GLYHO,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,511515654.0
+GLYHO,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-22896372.0
+GLYHO,2024/12,4CBC,Sermaye Artırımı,Rights Issue,7124809.0
+GLYHO,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-102986196.0
+GLYHO,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,392757895.0
+GLYHO,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,126312635.0
+GLYHO,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-15325904.0
+GLYHO,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+GLYHO,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,110986731.0
+GLYHO,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+GLYHO,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,159159262.0
+GLYHO,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,236261538.0
+GLYHO,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,355384529.0
+GLYHO,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,195282048.0
+GLYHO,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,25534777.0
+GLYHO,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,48988514.0
+GLYHO,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,24266680.0
+GLYHO,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,12562927.0
+GLYHO,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2024/3,1AF,Stoklar,Inventories,18364663.0
+GLYHO,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+GLYHO,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,30384921.0
+GLYHO,2024/3,1AI,(Ara Toplam),(Subtotal),355384529.0
+GLYHO,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+GLYHO,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1307029967.0
+GLYHO,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+GLYHO,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+GLYHO,2024/3,1BB,Diğer Alacaklar,Other Receivables,10712690.0
+GLYHO,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2024/3,1BC,Finansal Yatırımlar,Financial Investments,998343.0
+GLYHO,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,19050483.0
+GLYHO,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+GLYHO,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,155535559.0
+GLYHO,2024/3,1BFA,Stoklar,Stoklar,0.0
+GLYHO,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,83407223.0
+GLYHO,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,294137273.0
+GLYHO,2024/3,1BGA,Şerefiye,Goodwill,20812539.0
+GLYHO,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,678586823.0
+GLYHO,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,33491317.0
+GLYHO,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,10297719.0
+GLYHO,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1662414496.0
+GLYHO,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+GLYHO,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,310706620.0
+GLYHO,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,201999159.0
+GLYHO,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,34301544.0
+GLYHO,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,12355240.0
+GLYHO,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+GLYHO,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,16964211.0
+GLYHO,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+GLYHO,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,621647.0
+GLYHO,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),8216637.0
+GLYHO,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,23569667.0
+GLYHO,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,12678515.0
+GLYHO,2024/3,2AAGG,(Ara Toplam),(Subtotal),310706620.0
+GLYHO,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+GLYHO,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,973176872.0
+GLYHO,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,901650510.0
+GLYHO,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+GLYHO,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,2552999.0
+GLYHO,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+GLYHO,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+GLYHO,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+GLYHO,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,854383.0
+GLYHO,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,12507714.0
+GLYHO,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+GLYHO,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,55250106.0
+GLYHO,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,361160.0
+GLYHO,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,378531003.0
+GLYHO,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,252691423.0
+GLYHO,2024/3,2OA,Ödenmiş Sermaye,Share Capital,20096712.0
+GLYHO,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+GLYHO,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,60129339.0
+GLYHO,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+GLYHO,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-41512200.0
+GLYHO,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,10554881.0
+GLYHO,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),72134304.0
+GLYHO,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),7388200.0
+GLYHO,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,123900188.0
+GLYHO,2024/3,2ODA,Azınlık Payları,Minority Interests,125839580.0
+GLYHO,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1662414496.0
+GLYHO,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+GLYHO,2024/3,3C,Satış Gelirleri,Net Sales,145194303.0
+GLYHO,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-97075193.0
+GLYHO,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+GLYHO,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,48119110.0
+GLYHO,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",15201644.0
+GLYHO,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-1378566.0
+GLYHO,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+GLYHO,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,13823078.0
+GLYHO,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+GLYHO,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),61942188.0
+GLYHO,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-8638165.0
+GLYHO,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-27318262.0
+GLYHO,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+GLYHO,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,2807020.0
+GLYHO,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-3242241.0
+GLYHO,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+GLYHO,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,25550540.0
+GLYHO,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,25985761.0
+GLYHO,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3401525.0
+GLYHO,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-265882.0
+GLYHO,2024/3,3HAB,Diğer Gelir ve Giderler,nan,-474079.0
+GLYHO,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1831851.0
+GLYHO,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,30043955.0
+GLYHO,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),10216635.0
+GLYHO,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-24374090.0
+GLYHO,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2661564.0
+GLYHO,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,15886500.0
+GLYHO,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-191446.0
+GLYHO,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-7528885.0
+GLYHO,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,7337439.0
+GLYHO,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+GLYHO,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,15695054.0
+GLYHO,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+GLYHO,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+GLYHO,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,15695054.0
+GLYHO,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+GLYHO,2024/3,3LB,Azınlık Payları,Minority Interests,5035824.0
+GLYHO,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,10659230.0
+GLYHO,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+GLYHO,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+GLYHO,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+GLYHO,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+GLYHO,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,22019104.0
+GLYHO,2024/3,4BA,Kıdem Tazminatı,Severance Payments,362667.0
+GLYHO,2024/3,4BB,Finansman Giderleri,Financial Expenses,-24374090.0
+GLYHO,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+GLYHO,2024/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+GLYHO,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-88790131.0
+GLYHO,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-88790131.0
+GLYHO,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-88790131.0
+GLYHO,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,33412296.0
+GLYHO,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,15695054.0
+GLYHO,2024/3,4CAA,Düzeltmeler:,Adjustments:,52308953.0
+GLYHO,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,22019104.0
+GLYHO,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,-1043243.0
+GLYHO,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,27663563.0
+GLYHO,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),68004007.0
+GLYHO,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-34247533.0
+GLYHO,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),33756474.0
+GLYHO,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-344178.0
+GLYHO,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-154211650.0
+GLYHO,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2704157.0
+GLYHO,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-156915806.0
+GLYHO,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-123503510.0
+GLYHO,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,227079918.0
+GLYHO,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,-28375.0
+GLYHO,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+GLYHO,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-9899436.0
+GLYHO,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,217152108.0
+GLYHO,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,93648597.0
+GLYHO,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-1745532.0
+GLYHO,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+GLYHO,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,91903066.0
+GLYHO,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+GLYHO,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,148288579.0
+GLYHO,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,220778356.0
+GLYHO,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,389185694.0
+GLYHO,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,206855763.0
+GLYHO,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,28227955.0
+GLYHO,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,55788053.0
+GLYHO,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,34556750.0
+GLYHO,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,14489305.0
+GLYHO,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2024/6,1AF,Stoklar,Inventories,17421898.0
+GLYHO,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+GLYHO,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,31845969.0
+GLYHO,2024/6,1AI,(Ara Toplam),(Subtotal),389185694.0
+GLYHO,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+GLYHO,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1411006619.0
+GLYHO,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+GLYHO,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+GLYHO,2024/6,1BB,Diğer Alacaklar,Other Receivables,9345526.0
+GLYHO,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2024/6,1BC,Finansal Yatırımlar,Financial Investments,1165368.0
+GLYHO,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,20159892.0
+GLYHO,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+GLYHO,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,167874134.0
+GLYHO,2024/6,1BFA,Stoklar,Stoklar,0.0
+GLYHO,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,90454237.0
+GLYHO,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,298940966.0
+GLYHO,2024/6,1BGA,Şerefiye,Goodwill,20691443.0
+GLYHO,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,739671378.0
+GLYHO,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,47128287.0
+GLYHO,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,15575388.0
+GLYHO,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1800192313.0
+GLYHO,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+GLYHO,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,342014395.0
+GLYHO,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,223375227.0
+GLYHO,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,37493591.0
+GLYHO,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,13356163.0
+GLYHO,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+GLYHO,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,26393342.0
+GLYHO,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+GLYHO,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,215308.0
+GLYHO,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),6362472.0
+GLYHO,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,24130270.0
+GLYHO,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,10688022.0
+GLYHO,2024/6,2AAGG,(Ara Toplam),(Subtotal),342014395.0
+GLYHO,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+GLYHO,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1043659557.0
+GLYHO,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,970663151.0
+GLYHO,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+GLYHO,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,2308062.0
+GLYHO,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+GLYHO,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+GLYHO,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+GLYHO,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,819658.0
+GLYHO,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,13052373.0
+GLYHO,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+GLYHO,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,56533421.0
+GLYHO,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,282891.0
+GLYHO,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,414518361.0
+GLYHO,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,279924947.0
+GLYHO,2024/6,2OA,Ödenmiş Sermaye,Share Capital,19765670.0
+GLYHO,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+GLYHO,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,64109418.0
+GLYHO,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+GLYHO,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-40418926.0
+GLYHO,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,7058180.0
+GLYHO,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),80490781.0
+GLYHO,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),21056678.0
+GLYHO,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,127863146.0
+GLYHO,2024/6,2ODA,Azınlık Payları,Minority Interests,134593414.0
+GLYHO,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1800192313.0
+GLYHO,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+GLYHO,2024/6,3C,Satış Gelirleri,Net Sales,303678968.0
+GLYHO,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-184416769.0
+GLYHO,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+GLYHO,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,119262199.0
+GLYHO,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",30704760.0
+GLYHO,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-2831145.0
+GLYHO,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+GLYHO,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,27873614.0
+GLYHO,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+GLYHO,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),147135813.0
+GLYHO,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-18666971.0
+GLYHO,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-56347048.0
+GLYHO,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+GLYHO,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,5242527.0
+GLYHO,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-8304791.0
+GLYHO,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+GLYHO,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,69059530.0
+GLYHO,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,72121794.0
+GLYHO,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,7793455.0
+GLYHO,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-52389.0
+GLYHO,2024/6,3HAB,Diğer Gelir ve Giderler,nan,-1130687.0
+GLYHO,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,3589321.0
+GLYHO,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,79259231.0
+GLYHO,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),13849744.0
+GLYHO,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-47476703.0
+GLYHO,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,6610379.0
+GLYHO,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,45632271.0
+GLYHO,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,12567220.0
+GLYHO,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-13265049.0
+GLYHO,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,25832268.0
+GLYHO,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+GLYHO,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,58199491.0
+GLYHO,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+GLYHO,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+GLYHO,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,58199491.0
+GLYHO,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+GLYHO,2024/6,3LB,Azınlık Payları,Minority Interests,28626614.0
+GLYHO,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,29572877.0
+GLYHO,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+GLYHO,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+GLYHO,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+GLYHO,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+GLYHO,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,45301649.0
+GLYHO,2024/6,4BA,Kıdem Tazminatı,Severance Payments,620448.0
+GLYHO,2024/6,4BB,Finansman Giderleri,Financial Expenses,-47476703.0
+GLYHO,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+GLYHO,2024/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+GLYHO,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-105395189.0
+GLYHO,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-105395189.0
+GLYHO,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-105395189.0
+GLYHO,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,91641648.0
+GLYHO,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,58199491.0
+GLYHO,2024/6,4CAA,Düzeltmeler:,Adjustments:,87754067.0
+GLYHO,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,45301649.0
+GLYHO,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,-1659341.0
+GLYHO,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,29931833.0
+GLYHO,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),145953558.0
+GLYHO,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-52095237.0
+GLYHO,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),93858321.0
+GLYHO,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-2216673.0
+GLYHO,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-257895875.0
+GLYHO,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-8997974.0
+GLYHO,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-266893849.0
+GLYHO,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,-175252202.0
+GLYHO,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,341874810.0
+GLYHO,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-10009769.0
+GLYHO,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+GLYHO,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-40575364.0
+GLYHO,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,291289678.0
+GLYHO,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,116037476.0
+GLYHO,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-15009320.0
+GLYHO,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+GLYHO,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,101028156.0
+GLYHO,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+GLYHO,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,153907437.0
+GLYHO,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,230468042.0
+GLYHO,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,435097785.0
+GLYHO,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,244043011.0
+GLYHO,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,30225173.0
+GLYHO,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,62307065.0
+GLYHO,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,22744623.0
+GLYHO,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,13342886.0
+GLYHO,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2024/9,1AF,Stoklar,Inventories,19312038.0
+GLYHO,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+GLYHO,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,43122989.0
+GLYHO,2024/9,1AI,(Ara Toplam),(Subtotal),435097785.0
+GLYHO,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+GLYHO,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1458611407.0
+GLYHO,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+GLYHO,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+GLYHO,2024/9,1BB,Diğer Alacaklar,Other Receivables,11292441.0
+GLYHO,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2024/9,1BC,Finansal Yatırımlar,Financial Investments,1309869.0
+GLYHO,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,22083533.0
+GLYHO,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+GLYHO,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,179444520.0
+GLYHO,2024/9,1BFA,Stoklar,Stoklar,0.0
+GLYHO,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,91121300.0
+GLYHO,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,304597709.0
+GLYHO,2024/9,1BGA,Şerefiye,Goodwill,21703426.0
+GLYHO,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,774665319.0
+GLYHO,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,38207832.0
+GLYHO,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,14185456.0
+GLYHO,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1893709191.0
+GLYHO,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+GLYHO,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,339179650.0
+GLYHO,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,215080607.0
+GLYHO,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,54752192.0
+GLYHO,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,12615709.0
+GLYHO,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+GLYHO,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,12820228.0
+GLYHO,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+GLYHO,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,657914.0
+GLYHO,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),11449561.0
+GLYHO,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,20576400.0
+GLYHO,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,11227038.0
+GLYHO,2024/9,2AAGG,(Ara Toplam),(Subtotal),339179650.0
+GLYHO,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+GLYHO,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1215791429.0
+GLYHO,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1137459054.0
+GLYHO,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+GLYHO,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,3210097.0
+GLYHO,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+GLYHO,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+GLYHO,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+GLYHO,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,823453.0
+GLYHO,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,13620826.0
+GLYHO,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+GLYHO,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,60437045.0
+GLYHO,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,240954.0
+GLYHO,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,338738112.0
+GLYHO,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,209883588.0
+GLYHO,2024/9,2OA,Ödenmiş Sermaye,Share Capital,19015578.0
+GLYHO,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+GLYHO,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,67177775.0
+GLYHO,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+GLYHO,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-161068154.0
+GLYHO,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,12210413.0
+GLYHO,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),120482680.0
+GLYHO,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),32184537.0
+GLYHO,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,119880759.0
+GLYHO,2024/9,2ODA,Azınlık Payları,Minority Interests,128854525.0
+GLYHO,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1893709191.0
+GLYHO,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+GLYHO,2024/9,3C,Satış Gelirleri,Net Sales,500030894.0
+GLYHO,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-297188445.0
+GLYHO,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+GLYHO,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,202842449.0
+GLYHO,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",47745015.0
+GLYHO,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-4717316.0
+GLYHO,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+GLYHO,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,43027699.0
+GLYHO,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+GLYHO,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),245870148.0
+GLYHO,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-28528320.0
+GLYHO,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-92790284.0
+GLYHO,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+GLYHO,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,7031378.0
+GLYHO,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-9942629.0
+GLYHO,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+GLYHO,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,121640293.0
+GLYHO,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,124551544.0
+GLYHO,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,10483457.0
+GLYHO,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-421201.0
+GLYHO,2024/9,3HAB,Diğer Gelir ve Giderler,nan,-1236490.0
+GLYHO,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,5324797.0
+GLYHO,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,135790856.0
+GLYHO,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),27999006.0
+GLYHO,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-71315800.0
+GLYHO,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,8825766.0
+GLYHO,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,92474062.0
+GLYHO,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-10676643.0
+GLYHO,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-22058791.0
+GLYHO,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,11382148.0
+GLYHO,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+GLYHO,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,81797419.0
+GLYHO,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+GLYHO,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+GLYHO,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,81797419.0
+GLYHO,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+GLYHO,2024/9,3LB,Azınlık Payları,Minority Interests,36368940.0
+GLYHO,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,45428479.0
+GLYHO,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+GLYHO,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+GLYHO,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+GLYHO,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+GLYHO,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,74207584.0
+GLYHO,2024/9,4BA,Kıdem Tazminatı,Severance Payments,590578.0
+GLYHO,2024/9,4BB,Finansman Giderleri,Financial Expenses,-71315800.0
+GLYHO,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+GLYHO,2024/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+GLYHO,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-90565207.0
+GLYHO,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-90565207.0
+GLYHO,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-90565207.0
+GLYHO,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,198625655.0
+GLYHO,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,81797419.0
+GLYHO,2024/9,4CAA,Düzeltmeler:,Adjustments:,177601348.0
+GLYHO,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,74207584.0
+GLYHO,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,-8243480.0
+GLYHO,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,61868277.0
+GLYHO,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),259398767.0
+GLYHO,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-59864172.0
+GLYHO,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),199534595.0
+GLYHO,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-908940.0
+GLYHO,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-327888143.0
+GLYHO,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-154456902.0
+GLYHO,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-482345044.0
+GLYHO,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,-283719389.0
+GLYHO,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,525777035.0
+GLYHO,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-11578872.0
+GLYHO,2024/9,4CBC,Sermaye Artırımı,Rights Issue,7710678.0
+GLYHO,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-62994673.0
+GLYHO,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,458914168.0
+GLYHO,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,175194779.0
+GLYHO,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-15736897.0
+GLYHO,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+GLYHO,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,159457882.0
+GLYHO,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+GLYHO,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,162084176.0
+GLYHO,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,290052278.0
+GLYHO,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,435967131.0
+GLYHO,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,213153276.0
+GLYHO,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,31556140.0
+GLYHO,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,59445045.0
+GLYHO,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,44449042.0
+GLYHO,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,29532127.0
+GLYHO,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2025/3,1AF,Stoklar,Inventories,15885782.0
+GLYHO,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+GLYHO,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,41945721.0
+GLYHO,2025/3,1AI,(Ara Toplam),(Subtotal),435967131.0
+GLYHO,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+GLYHO,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1578730686.0
+GLYHO,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+GLYHO,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+GLYHO,2025/3,1BB,Diğer Alacaklar,Other Receivables,11045045.0
+GLYHO,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2025/3,1BC,Finansal Yatırımlar,Financial Investments,3414106.0
+GLYHO,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,19735253.0
+GLYHO,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+GLYHO,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,207655407.0
+GLYHO,2025/3,1BFA,Stoklar,Stoklar,0.0
+GLYHO,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,102356128.0
+GLYHO,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,321973219.0
+GLYHO,2025/3,1BGA,Şerefiye,Goodwill,22140780.0
+GLYHO,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,812037097.0
+GLYHO,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,65880385.0
+GLYHO,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,12493266.0
+GLYHO,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2014697818.0
+GLYHO,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+GLYHO,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,343365148.0
+GLYHO,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,206201904.0
+GLYHO,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,52632747.0
+GLYHO,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,13823449.0
+GLYHO,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+GLYHO,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,36357388.0
+GLYHO,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+GLYHO,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,648580.0
+GLYHO,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),9643973.0
+GLYHO,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,9844535.0
+GLYHO,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,14212572.0
+GLYHO,2025/3,2AAGG,(Ara Toplam),(Subtotal),343365148.0
+GLYHO,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+GLYHO,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1267970221.0
+GLYHO,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,1199609010.0
+GLYHO,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+GLYHO,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,3450537.0
+GLYHO,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+GLYHO,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+GLYHO,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+GLYHO,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,787333.0
+GLYHO,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,14211352.0
+GLYHO,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+GLYHO,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,49844099.0
+GLYHO,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,67891.0
+GLYHO,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,403362448.0
+GLYHO,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,255914050.0
+GLYHO,2025/3,2OA,Ödenmiş Sermaye,Share Capital,51541351.0
+GLYHO,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+GLYHO,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,32584308.0
+GLYHO,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+GLYHO,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-126863874.0
+GLYHO,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,12871045.0
+GLYHO,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),144634425.0
+GLYHO,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),11607174.0
+GLYHO,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,129539620.0
+GLYHO,2025/3,2ODA,Azınlık Payları,Minority Interests,147448398.0
+GLYHO,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2014697818.0
+GLYHO,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+GLYHO,2025/3,3C,Satış Gelirleri,Net Sales,154317525.0
+GLYHO,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-102261546.0
+GLYHO,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+GLYHO,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,52055979.0
+GLYHO,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",12101837.0
+GLYHO,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-69660.0
+GLYHO,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+GLYHO,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,12032177.0
+GLYHO,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+GLYHO,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),64088156.0
+GLYHO,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-6319163.0
+GLYHO,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-24345395.0
+GLYHO,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+GLYHO,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,5687863.0
+GLYHO,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-960749.0
+GLYHO,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+GLYHO,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,38150712.0
+GLYHO,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,33423598.0
+GLYHO,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2929413.0
+GLYHO,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-810782.0
+GLYHO,2025/3,3HAB,Diğer Gelir ve Giderler,nan,-437806.0
+GLYHO,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1282810.0
+GLYHO,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,41114348.0
+GLYHO,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),7360270.0
+GLYHO,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-27452602.0
+GLYHO,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1680825.0
+GLYHO,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,21022015.0
+GLYHO,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-3096947.0
+GLYHO,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-5586329.0
+GLYHO,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,2489382.0
+GLYHO,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+GLYHO,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,17925068.0
+GLYHO,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+GLYHO,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+GLYHO,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,17925068.0
+GLYHO,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+GLYHO,2025/3,3LB,Azınlık Payları,Minority Interests,5812700.0
+GLYHO,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,12112368.0
+GLYHO,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+GLYHO,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+GLYHO,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+GLYHO,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+GLYHO,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,19393920.0
+GLYHO,2025/3,4BA,Kıdem Tazminatı,Severance Payments,565434.0
+GLYHO,2025/3,4BB,Finansman Giderleri,Financial Expenses,-27452602.0
+GLYHO,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+GLYHO,2025/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+GLYHO,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-98372171.0
+GLYHO,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-98372171.0
+GLYHO,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-98372171.0
+GLYHO,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,47500694.0
+GLYHO,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,17925068.0
+GLYHO,2025/3,4CAA,Düzeltmeler:,Adjustments:,76061129.0
+GLYHO,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,19393920.0
+GLYHO,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,1546724.0
+GLYHO,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,34681685.0
+GLYHO,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),93986197.0
+GLYHO,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-41775158.0
+GLYHO,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),52211039.0
+GLYHO,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-4710344.0
+GLYHO,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-46009018.0
+GLYHO,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-8115701.0
+GLYHO,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-54124720.0
+GLYHO,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-6624025.0
+GLYHO,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,47844092.0
+GLYHO,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,-8624110.0
+GLYHO,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+GLYHO,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-34287253.0
+GLYHO,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,4932729.0
+GLYHO,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-1691296.0
+GLYHO,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-2409778.0
+GLYHO,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+GLYHO,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-4101074.0
+GLYHO,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+GLYHO,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,187974711.0
+GLYHO,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,166687574.0
+GLYHO,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,500006755.0
+GLYHO,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,295950132.0
+GLYHO,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,26200996.0
+GLYHO,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,61351320.0
+GLYHO,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,38779996.0
+GLYHO,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,18943970.0
+GLYHO,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2025/6,1AF,Stoklar,Inventories,14802051.0
+GLYHO,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+GLYHO,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,43978289.0
+GLYHO,2025/6,1AI,(Ara Toplam),(Subtotal),500006755.0
+GLYHO,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+GLYHO,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1662773948.0
+GLYHO,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+GLYHO,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+GLYHO,2025/6,1BB,Diğer Alacaklar,Other Receivables,11509813.0
+GLYHO,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2025/6,1BC,Finansal Yatırımlar,Financial Investments,3494973.0
+GLYHO,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,22853007.0
+GLYHO,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+GLYHO,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,212544593.0
+GLYHO,2025/6,1BFA,Stoklar,Stoklar,0.0
+GLYHO,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,105120465.0
+GLYHO,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,337104853.0
+GLYHO,2025/6,1BGA,Şerefiye,Goodwill,22205423.0
+GLYHO,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,862498140.0
+GLYHO,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,68317454.0
+GLYHO,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,17125226.0
+GLYHO,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2162780703.0
+GLYHO,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+GLYHO,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,348220664.0
+GLYHO,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,216168983.0
+GLYHO,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,51418330.0
+GLYHO,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,15750059.0
+GLYHO,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+GLYHO,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,30157299.0
+GLYHO,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+GLYHO,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,5498797.0
+GLYHO,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),8097105.0
+GLYHO,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,10140219.0
+GLYHO,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,10989871.0
+GLYHO,2025/6,2AAGG,(Ara Toplam),(Subtotal),348220664.0
+GLYHO,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+GLYHO,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1401365353.0
+GLYHO,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,1327850420.0
+GLYHO,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+GLYHO,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,3742373.0
+GLYHO,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+GLYHO,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+GLYHO,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+GLYHO,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,823257.0
+GLYHO,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,15469761.0
+GLYHO,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+GLYHO,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,53461640.0
+GLYHO,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,17903.0
+GLYHO,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,413194686.0
+GLYHO,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,267603895.0
+GLYHO,2025/6,2OA,Ödenmiş Sermaye,Share Capital,48979715.0
+GLYHO,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+GLYHO,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,32824821.0
+GLYHO,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+GLYHO,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-137150455.0
+GLYHO,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,16635884.0
+GLYHO,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),142388874.0
+GLYHO,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),33635681.0
+GLYHO,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,130289376.0
+GLYHO,2025/6,2ODA,Azınlık Payları,Minority Interests,145590791.0
+GLYHO,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2162780703.0
+GLYHO,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+GLYHO,2025/6,3C,Satış Gelirleri,Net Sales,308438227.0
+GLYHO,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-198634405.0
+GLYHO,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+GLYHO,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,109803822.0
+GLYHO,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",22502805.0
+GLYHO,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-146213.0
+GLYHO,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+GLYHO,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,22356592.0
+GLYHO,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+GLYHO,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),132160414.0
+GLYHO,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-13283328.0
+GLYHO,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-48306445.0
+GLYHO,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+GLYHO,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,10766570.0
+GLYHO,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-3910042.0
+GLYHO,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+GLYHO,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,77427168.0
+GLYHO,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,70570641.0
+GLYHO,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,5068985.0
+GLYHO,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-223432.0
+GLYHO,2025/6,3HAB,Diğer Gelir ve Giderler,nan,-518517.0
+GLYHO,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,2905989.0
+GLYHO,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,84660194.0
+GLYHO,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),22271009.0
+GLYHO,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-52026457.0
+GLYHO,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,4327037.0
+GLYHO,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,54904745.0
+GLYHO,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-4687656.0
+GLYHO,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-11225581.0
+GLYHO,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,6537925.0
+GLYHO,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+GLYHO,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,50217089.0
+GLYHO,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+GLYHO,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+GLYHO,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,50217089.0
+GLYHO,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+GLYHO,2025/6,3LB,Azınlık Payları,Minority Interests,14491791.0
+GLYHO,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,35725299.0
+GLYHO,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+GLYHO,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+GLYHO,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+GLYHO,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+GLYHO,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,39551611.0
+GLYHO,2025/6,4BA,Kıdem Tazminatı,Severance Payments,558686.0
+GLYHO,2025/6,4BB,Finansman Giderleri,Financial Expenses,-52026457.0
+GLYHO,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+GLYHO,2025/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+GLYHO,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-131137321.0
+GLYHO,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-131137321.0
+GLYHO,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-131137321.0
+GLYHO,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,141454403.0
+GLYHO,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,50217089.0
+GLYHO,2025/6,4CAA,Düzeltmeler:,Adjustments:,136810129.0
+GLYHO,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,39551611.0
+GLYHO,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,1964123.0
+GLYHO,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,59276205.0
+GLYHO,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),187027218.0
+GLYHO,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-39094470.0
+GLYHO,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),147932748.0
+GLYHO,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-6478345.0
+GLYHO,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-107330710.0
+GLYHO,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-7767209.0
+GLYHO,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-115097919.0
+GLYHO,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,26356484.0
+GLYHO,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,148596360.0
+GLYHO,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-13867237.0
+GLYHO,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+GLYHO,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-62600000.0
+GLYHO,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,72129123.0
+GLYHO,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,98485607.0
+GLYHO,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-2675839.0
+GLYHO,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+GLYHO,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,95809768.0
+GLYHO,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+GLYHO,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,192737568.0
+GLYHO,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,261003112.0
+GLYHO,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,485981218.0
+GLYHO,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,286713092.0
+GLYHO,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,29702694.0
+GLYHO,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,64524803.0
+GLYHO,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,27170448.0
+GLYHO,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,19975418.0
+GLYHO,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2025/9,1AF,Stoklar,Inventories,15151306.0
+GLYHO,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+GLYHO,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,42743458.0
+GLYHO,2025/9,1AI,(Ara Toplam),(Subtotal),485981218.0
+GLYHO,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+GLYHO,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1723529016.0
+GLYHO,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+GLYHO,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+GLYHO,2025/9,1BB,Diğer Alacaklar,Other Receivables,12064199.0
+GLYHO,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+GLYHO,2025/9,1BC,Finansal Yatırımlar,Financial Investments,3531668.0
+GLYHO,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,22892047.0
+GLYHO,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+GLYHO,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,221950154.0
+GLYHO,2025/9,1BFA,Stoklar,Stoklar,0.0
+GLYHO,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,103368882.0
+GLYHO,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,363514992.0
+GLYHO,2025/9,1BGA,Şerefiye,Goodwill,22458425.0
+GLYHO,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,887511142.0
+GLYHO,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,70555253.0
+GLYHO,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,15682253.0
+GLYHO,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2209510234.0
+GLYHO,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+GLYHO,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,362003601.0
+GLYHO,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,225940706.0
+GLYHO,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,61120781.0
+GLYHO,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,16736680.0
+GLYHO,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+GLYHO,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,18885120.0
+GLYHO,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+GLYHO,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,5012114.0
+GLYHO,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),13760017.0
+GLYHO,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,9673897.0
+GLYHO,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,10874287.0
+GLYHO,2025/9,2AAGG,(Ara Toplam),(Subtotal),362003601.0
+GLYHO,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+GLYHO,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1417508896.0
+GLYHO,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1342651388.0
+GLYHO,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+GLYHO,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+GLYHO,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,3723360.0
+GLYHO,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+GLYHO,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+GLYHO,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+GLYHO,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,818217.0
+GLYHO,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,15816918.0
+GLYHO,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+GLYHO,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,54482049.0
+GLYHO,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,16963.0
+GLYHO,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,429997737.0
+GLYHO,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,274632733.0
+GLYHO,2025/9,2OA,Ödenmiş Sermaye,Share Capital,46895742.0
+GLYHO,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+GLYHO,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,33786694.0
+GLYHO,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+GLYHO,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-152493937.0
+GLYHO,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,18612540.0
+GLYHO,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),141985471.0
+GLYHO,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),50149443.0
+GLYHO,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,135696781.0
+GLYHO,2025/9,2ODA,Azınlık Payları,Minority Interests,155365004.0
+GLYHO,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2209510234.0
+GLYHO,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+GLYHO,2025/9,3C,Satış Gelirleri,Net Sales,491656785.0
+GLYHO,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-307071122.0
+GLYHO,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+GLYHO,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,184585663.0
+GLYHO,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",34574026.0
+GLYHO,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-228971.0
+GLYHO,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+GLYHO,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,34345055.0
+GLYHO,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+GLYHO,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),218930718.0
+GLYHO,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-19521515.0
+GLYHO,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-73196084.0
+GLYHO,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+GLYHO,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,12735063.0
+GLYHO,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-8883531.0
+GLYHO,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+GLYHO,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,130064652.0
+GLYHO,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,126213119.0
+GLYHO,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,6655856.0
+GLYHO,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-132493.0
+GLYHO,2025/9,3HAB,Diğer Gelir ve Giderler,nan,-534849.0
+GLYHO,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,3775606.0
+GLYHO,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,139828771.0
+GLYHO,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),26120145.0
+GLYHO,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-76388303.0
+GLYHO,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,5988514.0
+GLYHO,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,89560613.0
+GLYHO,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-10606609.0
+GLYHO,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-21315482.0
+GLYHO,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,10708873.0
+GLYHO,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+GLYHO,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,78954004.0
+GLYHO,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+GLYHO,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+GLYHO,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,78954004.0
+GLYHO,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+GLYHO,2025/9,3LB,Azınlık Payları,Minority Interests,24982827.0
+GLYHO,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,53971177.0
+GLYHO,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+GLYHO,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+GLYHO,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+GLYHO,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+GLYHO,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,61227169.0
+GLYHO,2025/9,4BA,Kıdem Tazminatı,Severance Payments,665213.0
+GLYHO,2025/9,4BB,Finansman Giderleri,Financial Expenses,-76388303.0
+GLYHO,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+GLYHO,2025/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+GLYHO,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-127587620.0
+GLYHO,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-127587620.0
+GLYHO,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-127587620.0
+GLYHO,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,226948949.0
+GLYHO,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,78954004.0
+GLYHO,2025/9,4CAA,Düzeltmeler:,Adjustments:,193058711.0
+GLYHO,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,61227169.0
+GLYHO,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,1378060.0
+GLYHO,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,82356684.0
+GLYHO,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),272012715.0
+GLYHO,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-36477819.0
+GLYHO,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),235534896.0
+GLYHO,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-8585947.0
+GLYHO,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-185141415.0
+GLYHO,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-7227455.0
+GLYHO,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-192368870.0
+GLYHO,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,34580079.0
+GLYHO,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,167023667.0
+GLYHO,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-23429426.0
+GLYHO,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+GLYHO,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-74070346.0
+GLYHO,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,69523895.0
+GLYHO,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,104103974.0
+GLYHO,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-5301591.0
+GLYHO,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+GLYHO,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,98802383.0
+GLYHO,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+GLYHO,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,201015634.0
+GLYHO,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,259064118.0

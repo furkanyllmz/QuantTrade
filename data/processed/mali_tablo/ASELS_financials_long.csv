@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+ASELS,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,3892706652.0
+ASELS,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,500247117.0
+ASELS,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ASELS,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1309628070.0
+ASELS,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ASELS,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,90307015.0
+ASELS,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2022/12,1AF,Stoklar,Inventories,1475978860.0
+ASELS,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ASELS,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,516545590.0
+ASELS,2022/12,1AI,(Ara Toplam),(Subtotal),3892706652.0
+ASELS,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ASELS,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,3837521140.0
+ASELS,2022/12,1B,Ticari Alacaklar,Trade Receivables,1669009129.0
+ASELS,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ASELS,2022/12,1BB,Diğer Alacaklar,Other Receivables,526319.0
+ASELS,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2022/12,1BC,Finansal Yatırımlar,Financial Investments,377569934.0
+ASELS,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,72198057.0
+ASELS,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ASELS,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ASELS,2022/12,1BFA,Stoklar,Stoklar,0.0
+ASELS,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ASELS,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,985187593.0
+ASELS,2022/12,1BGA,Şerefiye,Goodwill,0.0
+ASELS,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,487459054.0
+ASELS,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+ASELS,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,245571055.0
+ASELS,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7730227792.0
+ASELS,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ASELS,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2758157751.0
+ASELS,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,858868567.0
+ASELS,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,859865417.0
+ASELS,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,32541480.0
+ASELS,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ASELS,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ASELS,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,6144779.0
+ASELS,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,510579329.0
+ASELS,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),16015.0
+ASELS,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,429381006.0
+ASELS,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,60761157.0
+ASELS,2022/12,2AAGG,(Ara Toplam),(Subtotal),2758157751.0
+ASELS,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ASELS,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,658275304.0
+ASELS,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,94092889.0
+ASELS,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,6396701.0
+ASELS,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,1432789.0
+ASELS,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ASELS,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ASELS,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ASELS,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,253866805.0
+ASELS,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,282414638.0
+ASELS,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ASELS,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,19643444.0
+ASELS,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,428038.0
+ASELS,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4313794736.0
+ASELS,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4262806374.0
+ASELS,2022/12,2OA,Ödenmiş Sermaye,Share Capital,121716848.0
+ASELS,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ASELS,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,776658873.0
+ASELS,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ASELS,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,17521461.0
+ASELS,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,182840380.0
+ASELS,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2267166026.0
+ASELS,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),68437060.0
+ASELS,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,828465727.0
+ASELS,2022/12,2ODA,Azınlık Payları,Minority Interests,50988362.0
+ASELS,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7730227792.0
+ASELS,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ASELS,2022/12,3C,Satış Gelirleri,Net Sales,4024082328.0
+ASELS,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2950759999.0
+ASELS,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ASELS,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1073322329.0
+ASELS,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ASELS,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ASELS,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ASELS,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1073322329.0
+ASELS,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-99085281.0
+ASELS,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-154955001.0
+ASELS,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-121471544.0
+ASELS,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1441719504.0
+ASELS,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1058747497.0
+ASELS,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ASELS,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1080782511.0
+ASELS,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,697810504.0
+ASELS,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,796208.0
+ASELS,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ASELS,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ASELS,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1919650.0
+ASELS,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1083498368.0
+ASELS,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),87167925.0
+ASELS,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1225569959.0
+ASELS,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,796208.0
+ASELS,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-54903666.0
+ASELS,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,126484059.0
+ASELS,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-173036.0
+ASELS,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,126657096.0
+ASELS,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ASELS,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,71580393.0
+ASELS,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ASELS,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ASELS,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,71580393.0
+ASELS,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ASELS,2022/12,3LB,Azınlık Payları,Minority Interests,-5576524.0
+ASELS,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,77156917.0
+ASELS,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ASELS,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ASELS,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ASELS,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ASELS,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,147206104.0
+ASELS,2022/12,4BA,Kıdem Tazminatı,Severance Payments,3468129.0
+ASELS,2022/12,4BB,Finansman Giderleri,Financial Expenses,-1225569959.0
+ASELS,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,3440545058.0
+ASELS,2022/12,4BD,Yurtdışı Satışlar,Export Sales,615505592.0
+ASELS,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,1236697728.0
+ASELS,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,1407741915.0
+ASELS,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),1236697728.0
+ASELS,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,724915271.0
+ASELS,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,71580393.0
+ASELS,2022/12,4CAA,Düzeltmeler:,Adjustments:,1010228780.0
+ASELS,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,147206104.0
+ASELS,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,431056478.0
+ASELS,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,431966198.0
+ASELS,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1081809173.0
+ASELS,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-232086218.0
+ASELS,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),849722955.0
+ASELS,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-124807684.0
+ASELS,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-725207778.0
+ASELS,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,11707425.0
+ASELS,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-713500352.0
+ASELS,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,11414919.0
+ASELS,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,313588603.0
+ASELS,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-24926797.0
+ASELS,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ASELS,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+ASELS,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,288661806.0
+ASELS,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,300076725.0
+ASELS,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-142180047.0
+ASELS,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ASELS,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,157896678.0
+ASELS,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ASELS,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,405902477.0
+ASELS,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,563799155.0
+ASELS,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,1665318853.0
+ASELS,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,146917653.0
+ASELS,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ASELS,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,679583319.0
+ASELS,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ASELS,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,46139462.0
+ASELS,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2022/3,1AF,Stoklar,Inventories,600996283.0
+ASELS,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ASELS,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,191682136.0
+ASELS,2022/3,1AI,(Ara Toplam),(Subtotal),1665318853.0
+ASELS,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ASELS,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1696881849.0
+ASELS,2022/3,1B,Ticari Alacaklar,Trade Receivables,911784226.0
+ASELS,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ASELS,2022/3,1BB,Diğer Alacaklar,Other Receivables,141576.0
+ASELS,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2022/3,1BC,Finansal Yatırımlar,Financial Investments,146603949.0
+ASELS,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,16368193.0
+ASELS,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ASELS,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ASELS,2022/3,1BFA,Stoklar,Stoklar,0.0
+ASELS,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ASELS,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,253088894.0
+ASELS,2022/3,1BGA,Şerefiye,Goodwill,0.0
+ASELS,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,176207317.0
+ASELS,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,38212432.0
+ASELS,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,154475262.0
+ASELS,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3362200702.0
+ASELS,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ASELS,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1229443312.0
+ASELS,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,481599823.0
+ASELS,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,341612848.0
+ASELS,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,6304157.0
+ASELS,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ASELS,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ASELS,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,2013298.0
+ASELS,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,171178504.0
+ASELS,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),85246.0
+ASELS,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,204371126.0
+ASELS,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,22278310.0
+ASELS,2022/3,2AAGG,(Ara Toplam),(Subtotal),1229443312.0
+ASELS,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ASELS,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,254548027.0
+ASELS,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,50346234.0
+ASELS,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,507655.0
+ASELS,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,812971.0
+ASELS,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ASELS,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ASELS,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ASELS,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,92436117.0
+ASELS,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,110144167.0
+ASELS,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ASELS,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ASELS,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,300883.0
+ASELS,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1878209363.0
+ASELS,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1860947523.0
+ASELS,2022/3,2OA,Ödenmiş Sermaye,Share Capital,155488117.0
+ASELS,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ASELS,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,190726839.0
+ASELS,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ASELS,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,11764517.0
+ASELS,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,36985781.0
+ASELS,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1192181607.0
+ASELS,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),115633375.0
+ASELS,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,158167286.0
+ASELS,2022/3,2ODA,Azınlık Payları,Minority Interests,17261841.0
+ASELS,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3362200771.0
+ASELS,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ASELS,2022/3,3C,Satış Gelirleri,Net Sales,312413450.0
+ASELS,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-218460812.0
+ASELS,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ASELS,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,93952638.0
+ASELS,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ASELS,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ASELS,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ASELS,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),93952638.0
+ASELS,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-6209614.0
+ASELS,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-13308533.0
+ASELS,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-9612323.0
+ASELS,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,194846031.0
+ASELS,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-126962963.0
+ASELS,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ASELS,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,132705236.0
+ASELS,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,64822168.0
+ASELS,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,21900.0
+ASELS,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ASELS,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ASELS,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-600457.0
+ASELS,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,132126679.0
+ASELS,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),14298966.0
+ASELS,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-48304016.0
+ASELS,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,21900.0
+ASELS,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,98121628.0
+ASELS,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,21893996.0
+ASELS,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-70709.0
+ASELS,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,21964705.0
+ASELS,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ASELS,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,120015624.0
+ASELS,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ASELS,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ASELS,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,120015624.0
+ASELS,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ASELS,2022/3,3LB,Azınlık Payları,Minority Interests,-1334675.0
+ASELS,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,121350299.0
+ASELS,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ASELS,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ASELS,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ASELS,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ASELS,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,9363552.0
+ASELS,2022/3,4BA,Kıdem Tazminatı,Severance Payments,771362.0
+ASELS,2022/3,4BB,Finansman Giderleri,Financial Expenses,-48304016.0
+ASELS,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,266045353.0
+ASELS,2022/3,4BD,Yurtdışı Satışlar,Export Sales,46368097.0
+ASELS,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,636782939.0
+ASELS,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,566457034.0
+ASELS,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),636782939.0
+ASELS,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-74956152.0
+ASELS,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,120015624.0
+ASELS,2022/3,4CAA,Düzeltmeler:,Adjustments:,65550231.0
+ASELS,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,9363552.0
+ASELS,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,12974167.0
+ASELS,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,43212512.0
+ASELS,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),185565856.0
+ASELS,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-248708462.0
+ASELS,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-63142606.0
+ASELS,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-11813546.0
+ASELS,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-77516432.0
+ASELS,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-5007483.0
+ASELS,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-82523915.0
+ASELS,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,-157480066.0
+ASELS,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,129456541.0
+ASELS,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ASELS,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ASELS,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+ASELS,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,129456541.0
+ASELS,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-28023525.0
+ASELS,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,3885079.0
+ASELS,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ASELS,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-24138446.0
+ASELS,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ASELS,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,178319720.0
+ASELS,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,154181274.0
+ASELS,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,1657182501.0
+ASELS,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,133179242.0
+ASELS,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ASELS,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,667995375.0
+ASELS,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ASELS,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,29836682.0
+ASELS,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2022/6,1AF,Stoklar,Inventories,596428520.0
+ASELS,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ASELS,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,229742682.0
+ASELS,2022/6,1AI,(Ara Toplam),(Subtotal),1657182501.0
+ASELS,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ASELS,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1555796518.0
+ASELS,2022/6,1B,Ticari Alacaklar,Trade Receivables,836430797.0
+ASELS,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ASELS,2022/6,1BB,Diğer Alacaklar,Other Receivables,137376.0
+ASELS,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2022/6,1BC,Finansal Yatırımlar,Financial Investments,129426172.0
+ASELS,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,15524821.0
+ASELS,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ASELS,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ASELS,2022/6,1BFA,Stoklar,Stoklar,0.0
+ASELS,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ASELS,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,252112705.0
+ASELS,2022/6,1BGA,Şerefiye,Goodwill,0.0
+ASELS,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,171745510.0
+ASELS,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,20573649.0
+ASELS,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,129845489.0
+ASELS,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3212979019.0
+ASELS,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ASELS,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1183950477.0
+ASELS,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,425625172.0
+ASELS,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,309518255.0
+ASELS,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,33173491.0
+ASELS,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ASELS,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ASELS,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,1793379.0
+ASELS,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,186728854.0
+ASELS,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),67759.0
+ASELS,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,203619768.0
+ASELS,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,23423799.0
+ASELS,2022/6,2AAGG,(Ara Toplam),(Subtotal),1183950477.0
+ASELS,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ASELS,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,285387565.0
+ASELS,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,80310639.0
+ASELS,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,431060.0
+ASELS,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,725044.0
+ASELS,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ASELS,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ASELS,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ASELS,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,97726913.0
+ASELS,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,105922032.0
+ASELS,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ASELS,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ASELS,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,271877.0
+ASELS,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1743640977.0
+ASELS,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1729697030.0
+ASELS,2022/6,2OA,Ödenmiş Sermaye,Share Capital,136597290.0
+ASELS,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ASELS,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,167554729.0
+ASELS,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ASELS,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,11643601.0
+ASELS,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,36670261.0
+ASELS,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1015601927.0
+ASELS,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),229795404.0
+ASELS,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,131833819.0
+ASELS,2022/6,2ODA,Azınlık Payları,Minority Interests,13943947.0
+ASELS,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3212979019.0
+ASELS,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ASELS,2022/6,3C,Satış Gelirleri,Net Sales,728253311.0
+ASELS,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-498566764.0
+ASELS,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ASELS,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,229686547.0
+ASELS,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ASELS,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ASELS,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ASELS,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),229686547.0
+ASELS,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-19264388.0
+ASELS,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-29146101.0
+ASELS,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-17574141.0
+ASELS,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,430195690.0
+ASELS,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-273577733.0
+ASELS,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ASELS,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,320319875.0
+ASELS,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,163701917.0
+ASELS,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,374162.0
+ASELS,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ASELS,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ASELS,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-370065.0
+ASELS,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,320323972.0
+ASELS,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),37117572.0
+ASELS,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-106365945.0
+ASELS,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,374162.0
+ASELS,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,251075599.0
+ASELS,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,3973510.0
+ASELS,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-75974.0
+ASELS,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,4049484.0
+ASELS,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ASELS,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,255049109.0
+ASELS,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ASELS,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ASELS,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,255049109.0
+ASELS,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ASELS,2022/6,3LB,Azınlık Payları,Minority Interests,-2606104.0
+ASELS,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,257655213.0
+ASELS,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ASELS,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ASELS,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ASELS,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ASELS,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,18024479.0
+ASELS,2022/6,4BA,Kıdem Tazminatı,Severance Payments,393710.0
+ASELS,2022/6,4BB,Finansman Giderleri,Financial Expenses,-106365945.0
+ASELS,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,620935099.0
+ASELS,2022/6,4BD,Yurtdışı Satışlar,Export Sales,107318212.0
+ASELS,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,785251127.0
+ASELS,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,741753114.0
+ASELS,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),785251127.0
+ASELS,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,26379047.0
+ASELS,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,255049109.0
+ASELS,2022/6,4CAA,Düzeltmeler:,Adjustments:,199004231.0
+ASELS,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,18024479.0
+ASELS,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,53622496.0
+ASELS,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,127357256.0
+ASELS,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),454053340.0
+ASELS,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-402416390.0
+ASELS,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),51636950.0
+ASELS,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-25257903.0
+ASELS,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-176114970.0
+ASELS,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-9269350.0
+ASELS,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-185384320.0
+ASELS,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-159005274.0
+ASELS,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,131112784.0
+ASELS,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ASELS,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ASELS,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+ASELS,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,131112784.0
+ASELS,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-27892490.0
+ASELS,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,9700947.0
+ASELS,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ASELS,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-18191543.0
+ASELS,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ASELS,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,167372470.0
+ASELS,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,149180927.0
+ASELS,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,1619829723.0
+ASELS,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,72862641.0
+ASELS,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ASELS,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,671561602.0
+ASELS,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ASELS,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,32003493.0
+ASELS,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2022/9,1AF,Stoklar,Inventories,616218703.0
+ASELS,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ASELS,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,227183284.0
+ASELS,2022/9,1AI,(Ara Toplam),(Subtotal),1619829723.0
+ASELS,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ASELS,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1531444095.0
+ASELS,2022/9,1B,Ticari Alacaklar,Trade Receivables,796195148.0
+ASELS,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ASELS,2022/9,1BB,Diğer Alacaklar,Other Receivables,345729.0
+ASELS,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2022/9,1BC,Finansal Yatırımlar,Financial Investments,116445254.0
+ASELS,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,14665402.0
+ASELS,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ASELS,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ASELS,2022/9,1BFA,Stoklar,Stoklar,0.0
+ASELS,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ASELS,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,254427962.0
+ASELS,2022/9,1BGA,Şerefiye,Goodwill,0.0
+ASELS,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,181631621.0
+ASELS,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,37040335.0
+ASELS,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,130692644.0
+ASELS,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3151273818.0
+ASELS,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ASELS,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1208839538.0
+ASELS,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,433079759.0
+ASELS,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,299432517.0
+ASELS,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,28048792.0
+ASELS,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ASELS,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ASELS,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,1322492.0
+ASELS,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,215854917.0
+ASELS,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),93251.0
+ASELS,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,198253136.0
+ASELS,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,32754675.0
+ASELS,2022/9,2AAGG,(Ara Toplam),(Subtotal),1208839538.0
+ASELS,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ASELS,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,267763757.0
+ASELS,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,51772468.0
+ASELS,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,958005.0
+ASELS,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,889495.0
+ASELS,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ASELS,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ASELS,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ASELS,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,116683772.0
+ASELS,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,96400461.0
+ASELS,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ASELS,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ASELS,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,1059557.0
+ASELS,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1674670522.0
+ASELS,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1663091941.0
+ASELS,2022/9,2OA,Ödenmiş Sermaye,Share Capital,122897138.0
+ASELS,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ASELS,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,150749673.0
+ASELS,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ASELS,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,12168326.0
+ASELS,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,32992384.0
+ASELS,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),913741194.0
+ASELS,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),312200020.0
+ASELS,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,118343206.0
+ASELS,2022/9,2ODA,Azınlık Payları,Minority Interests,11578581.0
+ASELS,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3151273818.0
+ASELS,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ASELS,2022/9,3C,Satış Gelirleri,Net Sales,1114073652.0
+ASELS,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-772077541.0
+ASELS,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ASELS,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,341996111.0
+ASELS,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ASELS,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ASELS,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ASELS,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),341996111.0
+ASELS,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-31359076.0
+ASELS,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-49291314.0
+ASELS,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-29341622.0
+ASELS,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,559013653.0
+ASELS,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-362276032.0
+ASELS,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ASELS,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,428741719.0
+ASELS,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,232004099.0
+ASELS,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,397471.0
+ASELS,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ASELS,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ASELS,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-1174376.0
+ASELS,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,427964813.0
+ASELS,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),37091890.0
+ASELS,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-129852154.0
+ASELS,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,397471.0
+ASELS,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,335204548.0
+ASELS,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,25204409.0
+ASELS,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-108715.0
+ASELS,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,25313125.0
+ASELS,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ASELS,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,360408958.0
+ASELS,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ASELS,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ASELS,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,360408958.0
+ASELS,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ASELS,2022/9,3LB,Azınlık Payları,Minority Interests,-3565107.0
+ASELS,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,363974064.0
+ASELS,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ASELS,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ASELS,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ASELS,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ASELS,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,26074131.0
+ASELS,2022/9,4BA,Kıdem Tazminatı,Severance Payments,1128251.0
+ASELS,2022/9,4BB,Finansman Giderleri,Financial Expenses,-129852154.0
+ASELS,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,912663223.0
+ASELS,2022/9,4BD,Yurtdışı Satışlar,Export Sales,201410429.0
+ASELS,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,793673483.0
+ASELS,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,711527410.0
+ASELS,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),793673483.0
+ASELS,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,35107616.0
+ASELS,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,360408958.0
+ASELS,2022/9,4CAA,Düzeltmeler:,Adjustments:,228957809.0
+ASELS,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,26074131.0
+ASELS,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,81675392.0
+ASELS,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,121208285.0
+ASELS,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),589366767.0
+ASELS,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-517564732.0
+ASELS,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),71802035.0
+ASELS,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-36694419.0
+ASELS,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-254476236.0
+ASELS,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-11333472.0
+ASELS,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-265809708.0
+ASELS,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,-230702092.0
+ASELS,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,145089008.0
+ASELS,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ASELS,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ASELS,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+ASELS,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,145089008.0
+ASELS,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-85613084.0
+ASELS,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,13983486.0
+ASELS,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ASELS,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-71629599.0
+ASELS,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ASELS,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,156575498.0
+ASELS,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,84945899.0
+ASELS,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,3568134026.0
+ASELS,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,323603198.0
+ASELS,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ASELS,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1008165323.0
+ASELS,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ASELS,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,80802779.0
+ASELS,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2023/12,1AF,Stoklar,Inventories,1575239104.0
+ASELS,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ASELS,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,580323621.0
+ASELS,2023/12,1AI,(Ara Toplam),(Subtotal),3568134026.0
+ASELS,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ASELS,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,3803616321.0
+ASELS,2023/12,1B,Ticari Alacaklar,Trade Receivables,1547479324.0
+ASELS,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ASELS,2023/12,1BB,Diğer Alacaklar,Other Receivables,356342.0
+ASELS,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2023/12,1BC,Finansal Yatırımlar,Financial Investments,289762506.0
+ASELS,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,42094380.0
+ASELS,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ASELS,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ASELS,2023/12,1BFA,Stoklar,Stoklar,0.0
+ASELS,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ASELS,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1161724882.0
+ASELS,2023/12,1BGA,Şerefiye,Goodwill,0.0
+ASELS,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,594710576.0
+ASELS,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,35180104.0
+ASELS,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,132308206.0
+ASELS,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7371750347.0
+ASELS,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ASELS,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2456562986.0
+ASELS,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,920787147.0
+ASELS,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,727691794.0
+ASELS,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,16745108.0
+ASELS,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ASELS,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ASELS,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,2813677.0
+ASELS,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,435190480.0
+ASELS,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+ASELS,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,293855985.0
+ASELS,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,59478795.0
+ASELS,2023/12,2AAGG,(Ara Toplam),(Subtotal),2456562986.0
+ASELS,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ASELS,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,588402715.0
+ASELS,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,55301224.0
+ASELS,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,3696243.0
+ASELS,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,1794055.0
+ASELS,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ASELS,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ASELS,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ASELS,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,289269785.0
+ASELS,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,238102627.0
+ASELS,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ASELS,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ASELS,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,238782.0
+ASELS,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4326784645.0
+ASELS,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4274433375.0
+ASELS,2023/12,2OA,Ödenmiş Sermaye,Share Capital,154621872.0
+ASELS,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ASELS,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,712235948.0
+ASELS,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ASELS,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,2754338.0
+ASELS,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,170470173.0
+ASELS,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1949141713.0
+ASELS,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),356915361.0
+ASELS,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,928293971.0
+ASELS,2023/12,2ODA,Azınlık Payları,Minority Interests,52351270.0
+ASELS,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7371750347.0
+ASELS,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ASELS,2023/12,3C,Satış Gelirleri,Net Sales,4459037965.0
+ASELS,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-3240850956.0
+ASELS,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ASELS,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1218187009.0
+ASELS,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ASELS,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ASELS,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ASELS,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1218187009.0
+ASELS,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-87645421.0
+ASELS,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-205266625.0
+ASELS,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-160308008.0
+ASELS,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,2030815895.0
+ASELS,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1282606118.0
+ASELS,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ASELS,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1513176732.0
+ASELS,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,764966955.0
+ASELS,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2078978.0
+ASELS,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ASELS,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ASELS,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-89263.0
+ASELS,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1515166448.0
+ASELS,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),71599743.0
+ASELS,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1149929477.0
+ASELS,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2078978.0
+ASELS,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,436836714.0
+ASELS,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,9975225.0
+ASELS,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-68421117.0
+ASELS,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,78396342.0
+ASELS,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ASELS,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,446811939.0
+ASELS,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ASELS,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ASELS,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,446811939.0
+ASELS,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ASELS,2023/12,3LB,Azınlık Payları,Minority Interests,5076938.0
+ASELS,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,441735001.0
+ASELS,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,10.0
+ASELS,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,10.0
+ASELS,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,10.0
+ASELS,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,10.0
+ASELS,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,206139528.0
+ASELS,2023/12,4BA,Kıdem Tazminatı,Severance Payments,7680539.0
+ASELS,2023/12,4BB,Finansman Giderleri,Financial Expenses,-1149929477.0
+ASELS,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,4071587249.0
+ASELS,2023/12,4BD,Yurtdışı Satışlar,Export Sales,392152725.0
+ASELS,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,1041389780.0
+ASELS,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,1253477554.0
+ASELS,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),1041389780.0
+ASELS,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,507438955.0
+ASELS,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,446811897.0
+ASELS,2023/12,4CAA,Düzeltmeler:,Adjustments:,912153216.0
+ASELS,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,206139528.0
+ASELS,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,264381673.0
+ASELS,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,441632015.0
+ASELS,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1358965113.0
+ASELS,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-672975988.0
+ASELS,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),685989125.0
+ASELS,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-178550170.0
+ASELS,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-735561832.0
+ASELS,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,27765156.0
+ASELS,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-707796676.0
+ASELS,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,-200357721.0
+ASELS,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,264811620.0
+ASELS,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-13283611.0
+ASELS,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ASELS,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+ASELS,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,251528009.0
+ASELS,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,51170288.0
+ASELS,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-218791502.0
+ASELS,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ASELS,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-167621214.0
+ASELS,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ASELS,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,567585162.0
+ASELS,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,399963948.0
+ASELS,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,2010210967.0
+ASELS,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,190193613.0
+ASELS,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ASELS,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,727315065.0
+ASELS,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ASELS,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,53640907.0
+ASELS,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2023/3,1AF,Stoklar,Inventories,756147917.0
+ASELS,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ASELS,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,282913466.0
+ASELS,2023/3,1AI,(Ara Toplam),(Subtotal),2010210967.0
+ASELS,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ASELS,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2018434682.0
+ASELS,2023/3,1B,Ticari Alacaklar,Trade Receivables,987983510.0
+ASELS,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ASELS,2023/3,1BB,Diğer Alacaklar,Other Receivables,315617.0
+ASELS,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2023/3,1BC,Finansal Yatırımlar,Financial Investments,223496232.0
+ASELS,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,15933823.0
+ASELS,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ASELS,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ASELS,2023/3,1BFA,Stoklar,Stoklar,0.0
+ASELS,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ASELS,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,350805095.0
+ASELS,2023/3,1BGA,Şerefiye,Goodwill,0.0
+ASELS,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,218686509.0
+ASELS,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,112691085.0
+ASELS,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,108522811.0
+ASELS,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4028645650.0
+ASELS,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ASELS,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1412080384.0
+ASELS,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,430195124.0
+ASELS,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,416647609.0
+ASELS,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,2885688.0
+ASELS,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ASELS,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ASELS,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,3440676.0
+ASELS,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,272527648.0
+ASELS,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),9485.0
+ASELS,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,248470278.0
+ASELS,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,37903876.0
+ASELS,2023/3,2AAGG,(Ara Toplam),(Subtotal),1412080384.0
+ASELS,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ASELS,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,420527471.0
+ASELS,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,93220015.0
+ASELS,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,2166272.0
+ASELS,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,1186327.0
+ASELS,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ASELS,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ASELS,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ASELS,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,150052221.0
+ASELS,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,173559241.0
+ASELS,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ASELS,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ASELS,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,343395.0
+ASELS,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2196037795.0
+ASELS,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2185050605.0
+ASELS,2023/3,2OA,Ödenmiş Sermaye,Share Capital,118825504.0
+ASELS,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ASELS,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,145755272.0
+ASELS,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ASELS,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,11520758.0
+ASELS,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,31899280.0
+ASELS,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1504470549.0
+ASELS,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),118172224.0
+ASELS,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,254407019.0
+ASELS,2023/3,2ODA,Azınlık Payları,Minority Interests,10987190.0
+ASELS,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4028645650.0
+ASELS,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ASELS,2023/3,3C,Satış Gelirleri,Net Sales,899983729.0
+ASELS,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-633739000.0
+ASELS,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ASELS,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,266244728.0
+ASELS,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ASELS,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ASELS,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ASELS,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),266244728.0
+ASELS,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-17022902.0
+ASELS,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-49647284.0
+ASELS,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-30956832.0
+ASELS,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,344753520.0
+ASELS,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-253417088.0
+ASELS,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ASELS,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,259954143.0
+ASELS,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,168617711.0
+ASELS,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,-63742.0
+ASELS,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ASELS,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ASELS,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-164283.0
+ASELS,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,259726118.0
+ASELS,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),30587493.0
+ASELS,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-249853170.0
+ASELS,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-63742.0
+ASELS,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,40460441.0
+ASELS,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-101718586.0
+ASELS,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-31201.0
+ASELS,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-101687386.0
+ASELS,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ASELS,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-61258146.0
+ASELS,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ASELS,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ASELS,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-61258146.0
+ASELS,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ASELS,2023/3,3LB,Azınlık Payları,Minority Interests,-1039792.0
+ASELS,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,-60218354.0
+ASELS,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,-5.0
+ASELS,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,-5.0
+ASELS,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,-5.0
+ASELS,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,-5.0
+ASELS,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,32069428.0
+ASELS,2023/3,4BA,Kıdem Tazminatı,Severance Payments,13686470.0
+ASELS,2023/3,4BB,Finansman Giderleri,Financial Expenses,-249853170.0
+ASELS,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,702871711.0
+ASELS,2023/3,4BD,Yurtdışı Satışlar,Export Sales,59347681.0
+ASELS,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,663479840.0
+ASELS,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,684679611.0
+ASELS,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),663479840.0
+ASELS,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,201162077.0
+ASELS,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-51881116.0
+ASELS,2023/3,4CAA,Düzeltmeler:,Adjustments:,170667037.0
+ASELS,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,32069428.0
+ASELS,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,28340406.0
+ASELS,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,110257203.0
+ASELS,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),118785921.0
+ASELS,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,110323468.0
+ASELS,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),229109389.0
+ASELS,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-27947312.0
+ASELS,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-297883600.0
+ASELS,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1424867.0
+ASELS,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-299308467.0
+ASELS,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,-98146390.0
+ASELS,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-95460891.0
+ASELS,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ASELS,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ASELS,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+ASELS,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-95460891.0
+ASELS,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-193607281.0
+ASELS,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-51424350.0
+ASELS,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ASELS,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-245031631.0
+ASELS,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ASELS,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,570487551.0
+ASELS,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,325455919.0
+ASELS,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,1673404227.0
+ASELS,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,49447769.0
+ASELS,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ASELS,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,682080318.0
+ASELS,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ASELS,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,30747634.0
+ASELS,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2023/6,1AF,Stoklar,Inventories,660932021.0
+ASELS,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ASELS,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,250196485.0
+ASELS,2023/6,1AI,(Ara Toplam),(Subtotal),1673404227.0
+ASELS,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ASELS,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1745991086.0
+ASELS,2023/6,1B,Ticari Alacaklar,Trade Receivables,889746034.0
+ASELS,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ASELS,2023/6,1BB,Diğer Alacaklar,Other Receivables,120760.0
+ASELS,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2023/6,1BC,Finansal Yatırımlar,Financial Investments,166026185.0
+ASELS,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,14820330.0
+ASELS,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ASELS,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ASELS,2023/6,1BFA,Stoklar,Stoklar,0.0
+ASELS,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ASELS,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,286559398.0
+ASELS,2023/6,1BGA,Şerefiye,Goodwill,0.0
+ASELS,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,189009455.0
+ASELS,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,95781806.0
+ASELS,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,103927119.0
+ASELS,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3419395313.0
+ASELS,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ASELS,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1379319201.0
+ASELS,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,497505025.0
+ASELS,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,391157188.0
+ASELS,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,20156168.0
+ASELS,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ASELS,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ASELS,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,2392847.0
+ASELS,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,229734901.0
+ASELS,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),21810078.0
+ASELS,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,184809004.0
+ASELS,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,31753989.0
+ASELS,2023/6,2AAGG,(Ara Toplam),(Subtotal),1379319201.0
+ASELS,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ASELS,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,306599677.0
+ASELS,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,87571706.0
+ASELS,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,10583581.0
+ASELS,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,803298.0
+ASELS,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ASELS,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ASELS,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ASELS,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,78895770.0
+ASELS,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,128487994.0
+ASELS,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ASELS,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ASELS,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,257329.0
+ASELS,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1733476436.0
+ASELS,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1725103326.0
+ASELS,2023/6,2OA,Ödenmiş Sermaye,Share Capital,88134335.0
+ASELS,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ASELS,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,108108475.0
+ASELS,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ASELS,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,12335096.0
+ASELS,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,24765632.0
+ASELS,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1099316572.0
+ASELS,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),209260406.0
+ASELS,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,183182809.0
+ASELS,2023/6,2ODA,Azınlık Payları,Minority Interests,8373110.0
+ASELS,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3419395313.0
+ASELS,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ASELS,2023/6,3C,Satış Gelirleri,Net Sales,1814959262.0
+ASELS,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1254901715.0
+ASELS,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ASELS,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,560057547.0
+ASELS,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ASELS,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ASELS,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ASELS,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),560057547.0
+ASELS,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-35939190.0
+ASELS,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-102085026.0
+ASELS,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-70130471.0
+ASELS,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1187888844.0
+ASELS,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-645536079.0
+ASELS,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ASELS,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,894255625.0
+ASELS,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,351902861.0
+ASELS,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1860429.0
+ASELS,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ASELS,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ASELS,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-448517.0
+ASELS,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,895667538.0
+ASELS,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),39622928.0
+ASELS,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-847920547.0
+ASELS,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1860429.0
+ASELS,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,87369919.0
+ASELS,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-1143741.0
+ASELS,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-105330095.0
+ASELS,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,104186354.0
+ASELS,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ASELS,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,86226178.0
+ASELS,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ASELS,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ASELS,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,86226178.0
+ASELS,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ASELS,2023/6,3LB,Azınlık Payları,Minority Interests,-696436.0
+ASELS,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,86922614.0
+ASELS,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,2.0
+ASELS,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,2.0
+ASELS,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,2.0
+ASELS,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,2.0
+ASELS,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,80332227.0
+ASELS,2023/6,4BA,Kıdem Tazminatı,Severance Payments,5098479.0
+ASELS,2023/6,4BB,Finansman Giderleri,Financial Expenses,-847920547.0
+ASELS,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,1476019661.0
+ASELS,2023/6,4BD,Yurtdışı Satışlar,Export Sales,190310617.0
+ASELS,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,832996863.0
+ASELS,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,775708898.0
+ASELS,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),832996863.0
+ASELS,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1365702.0
+ASELS,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,79164951.0
+ASELS,2023/6,4CAA,Düzeltmeler:,Adjustments:,620338067.0
+ASELS,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,80332227.0
+ASELS,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,41689107.0
+ASELS,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,498316734.0
+ASELS,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),699503018.0
+ASELS,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-594132268.0
+ASELS,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),105370750.0
+ASELS,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-104005048.0
+ASELS,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-526100802.0
+ASELS,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-6203282.0
+ASELS,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-532304084.0
+ASELS,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,-530938382.0
+ASELS,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,109689816.0
+ASELS,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ASELS,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ASELS,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+ASELS,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,109689816.0
+ASELS,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-421248566.0
+ASELS,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-58030965.0
+ASELS,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ASELS,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-479279531.0
+ASELS,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ASELS,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,590104099.0
+ASELS,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,110824568.0
+ASELS,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,1831804127.0
+ASELS,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,62973201.0
+ASELS,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ASELS,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,734144279.0
+ASELS,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ASELS,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,39992197.0
+ASELS,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2023/9,1AF,Stoklar,Inventories,720450230.0
+ASELS,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ASELS,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,274244221.0
+ASELS,2023/9,1AI,(Ara Toplam),(Subtotal),1831804127.0
+ASELS,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ASELS,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1790735397.0
+ASELS,2023/9,1B,Ticari Alacaklar,Trade Receivables,905008824.0
+ASELS,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ASELS,2023/9,1BB,Diğer Alacaklar,Other Receivables,261722.0
+ASELS,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2023/9,1BC,Finansal Yatırımlar,Financial Investments,156646649.0
+ASELS,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,16948407.0
+ASELS,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ASELS,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ASELS,2023/9,1BFA,Stoklar,Stoklar,0.0
+ASELS,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ASELS,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,301572304.0
+ASELS,2023/9,1BGA,Şerefiye,Goodwill,0.0
+ASELS,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,225179027.0
+ASELS,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,103496317.0
+ASELS,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,81622147.0
+ASELS,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3622539525.0
+ASELS,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ASELS,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1461123277.0
+ASELS,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,532486400.0
+ASELS,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,431119485.0
+ASELS,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,16990629.0
+ASELS,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ASELS,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ASELS,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,2450704.0
+ASELS,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,232751841.0
+ASELS,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),16849340.0
+ASELS,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,184789069.0
+ASELS,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,43685809.0
+ASELS,2023/9,2AAGG,(Ara Toplam),(Subtotal),1461123277.0
+ASELS,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ASELS,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,363470065.0
+ASELS,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,67866076.0
+ASELS,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,6137206.0
+ASELS,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,772697.0
+ASELS,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ASELS,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ASELS,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ASELS,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,164920951.0
+ASELS,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,123541785.0
+ASELS,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ASELS,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ASELS,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,231350.0
+ASELS,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1797946182.0
+ASELS,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1787527310.0
+ASELS,2023/9,2OA,Ödenmiş Sermaye,Share Capital,166265587.0
+ASELS,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ASELS,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,101973419.0
+ASELS,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ASELS,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,12302560.0
+ASELS,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,23432692.0
+ASELS,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),953726099.0
+ASELS,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),357367717.0
+ASELS,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,172459236.0
+ASELS,2023/9,2ODA,Azınlık Payları,Minority Interests,10418873.0
+ASELS,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3622539525.0
+ASELS,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ASELS,2023/9,3C,Satış Gelirleri,Net Sales,2390357611.0
+ASELS,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1721422346.0
+ASELS,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ASELS,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,668935265.0
+ASELS,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ASELS,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ASELS,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ASELS,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),668935265.0
+ASELS,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-52019298.0
+ASELS,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-119402249.0
+ASELS,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-63346634.0
+ASELS,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,1346292369.0
+ASELS,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-754378887.0
+ASELS,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ASELS,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1026080566.0
+ASELS,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,434167084.0
+ASELS,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1746479.0
+ASELS,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ASELS,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ASELS,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-402451.0
+ASELS,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1027424593.0
+ASELS,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),58366354.0
+ASELS,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-862107478.0
+ASELS,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1746479.0
+ASELS,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,223683470.0
+ASELS,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-27394850.0
+ASELS,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-75743345.0
+ASELS,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,48348495.0
+ASELS,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ASELS,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,196288620.0
+ASELS,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ASELS,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ASELS,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,196288620.0
+ASELS,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ASELS,2023/9,3LB,Azınlık Payları,Minority Interests,3308129.0
+ASELS,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,192980491.0
+ASELS,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,4.0
+ASELS,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,4.0
+ASELS,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,4.0
+ASELS,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,4.0
+ASELS,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,138557521.0
+ASELS,2023/9,4BA,Kıdem Tazminatı,Severance Payments,2073972.0
+ASELS,2023/9,4BB,Finansman Giderleri,Financial Expenses,-862107478.0
+ASELS,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,2154886514.0
+ASELS,2023/9,4BD,Yurtdışı Satışlar,Export Sales,235471098.0
+ASELS,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,850856362.0
+ASELS,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,760976450.0
+ASELS,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),850856362.0
+ASELS,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,173242624.0
+ASELS,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,196288620.0
+ASELS,2023/9,4CAA,Düzeltmeler:,Adjustments:,586900859.0
+ASELS,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,138557521.0
+ASELS,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,86250506.0
+ASELS,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,362092831.0
+ASELS,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),783189479.0
+ASELS,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-492706554.0
+ASELS,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),290482925.0
+ASELS,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-117240300.0
+ASELS,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-603337940.0
+ASELS,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-4886582.0
+ASELS,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-608224521.0
+ASELS,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,-434981897.0
+ASELS,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,145342436.0
+ASELS,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-8095697.0
+ASELS,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ASELS,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+ASELS,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,137246739.0
+ASELS,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-297735158.0
+ASELS,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-159353096.0
+ASELS,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ASELS,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-457088254.0
+ASELS,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ASELS,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,573304362.0
+ASELS,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,116216108.0
+ASELS,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,3765993511.0
+ASELS,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,590430335.0
+ASELS,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ASELS,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1006289759.0
+ASELS,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ASELS,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,88204570.0
+ASELS,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2024/12,1AF,Stoklar,Inventories,1542743473.0
+ASELS,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ASELS,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,538325374.0
+ASELS,2024/12,1AI,(Ara Toplam),(Subtotal),3765993511.0
+ASELS,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ASELS,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,4850508317.0
+ASELS,2024/12,1B,Ticari Alacaklar,Trade Receivables,1951116047.0
+ASELS,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ASELS,2024/12,1BB,Diğer Alacaklar,Other Receivables,422241.0
+ASELS,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2024/12,1BC,Finansal Yatırımlar,Financial Investments,287080262.0
+ASELS,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,47279954.0
+ASELS,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ASELS,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ASELS,2024/12,1BFA,Stoklar,Stoklar,0.0
+ASELS,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ASELS,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1327588069.0
+ASELS,2024/12,1BGA,Şerefiye,Goodwill,0.0
+ASELS,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,774761307.0
+ASELS,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,289162793.0
+ASELS,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,173097643.0
+ASELS,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8616501828.0
+ASELS,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ASELS,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2475722127.0
+ASELS,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,810398644.0
+ASELS,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,701270275.0
+ASELS,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,19467638.0
+ASELS,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ASELS,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ASELS,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,2343443.0
+ASELS,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,461510673.0
+ASELS,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+ASELS,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,353841623.0
+ASELS,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,126889830.0
+ASELS,2024/12,2AAGG,(Ara Toplam),(Subtotal),2475722127.0
+ASELS,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ASELS,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1124165813.0
+ASELS,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,345186954.0
+ASELS,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ASELS,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,684927.0
+ASELS,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ASELS,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ASELS,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ASELS,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,419774934.0
+ASELS,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,357093109.0
+ASELS,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ASELS,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ASELS,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,1425890.0
+ASELS,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,5016613888.0
+ASELS,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4978988774.0
+ASELS,2024/12,2OA,Ödenmiş Sermaye,Share Capital,129018385.0
+ASELS,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ASELS,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,745426041.0
+ASELS,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ASELS,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-4145226.0
+ASELS,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,180223968.0
+ASELS,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2393609997.0
+ASELS,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),542928329.0
+ASELS,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,959118435.0
+ASELS,2024/12,2ODA,Azınlık Payları,Minority Interests,37625115.0
+ASELS,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8616501828.0
+ASELS,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ASELS,2024/12,3C,Satış Gelirleri,Net Sales,4586511100.0
+ASELS,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-3130564162.0
+ASELS,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ASELS,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1455946939.0
+ASELS,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ASELS,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ASELS,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ASELS,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1455946939.0
+ASELS,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-100334304.0
+ASELS,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-201295313.0
+ASELS,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-126610050.0
+ASELS,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,666910827.0
+ASELS,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-652374896.0
+ASELS,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ASELS,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1042243202.0
+ASELS,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1027707271.0
+ASELS,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3247076.0
+ASELS,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ASELS,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ASELS,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-2212793.0
+ASELS,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1043277484.0
+ASELS,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),67466384.0
+ASELS,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-795355664.0
+ASELS,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,3247076.0
+ASELS,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,315388205.0
+ASELS,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,265443080.0
+ASELS,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-2063147.0
+ASELS,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,267506227.0
+ASELS,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ASELS,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,580831285.0
+ASELS,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ASELS,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,580831285.0
+ASELS,2024/12,3LB,Azınlık Payları,Minority Interests,-2900738.0
+ASELS,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,583732023.0
+ASELS,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,13.0
+ASELS,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,13.0
+ASELS,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,13.0
+ASELS,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,13.0
+ASELS,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,125895550.0
+ASELS,2024/12,4BA,Kıdem Tazminatı,Severance Payments,2316958.0
+ASELS,2024/12,4BB,Finansman Giderleri,Financial Expenses,-795355664.0
+ASELS,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,3966735089.0
+ASELS,2024/12,4BD,Yurtdışı Satışlar,Export Sales,654227921.0
+ASELS,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,972355695.0
+ASELS,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,944036528.0
+ASELS,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),972355695.0
+ASELS,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,817194300.0
+ASELS,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,580831285.0
+ASELS,2024/12,4CAA,Düzeltmeler:,Adjustments:,807424990.0
+ASELS,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,125895550.0
+ASELS,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,496326958.0
+ASELS,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,185202483.0
+ASELS,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1388256276.0
+ASELS,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-409195048.0
+ASELS,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),979061228.0
+ASELS,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-161866928.0
+ASELS,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-787322927.0
+ASELS,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-27215976.0
+ASELS,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-814538903.0
+ASELS,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,2655398.0
+ASELS,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,388690024.0
+ASELS,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-6472823.0
+ASELS,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ASELS,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+ASELS,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,382217201.0
+ASELS,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,384872599.0
+ASELS,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-113712176.0
+ASELS,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ASELS,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,271160423.0
+ASELS,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ASELS,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,363643611.0
+ASELS,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,634804034.0
+ASELS,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,2310148685.0
+ASELS,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,95033330.0
+ASELS,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ASELS,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,601768449.0
+ASELS,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ASELS,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,56304740.0
+ASELS,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2024/3,1AF,Stoklar,Inventories,1122390705.0
+ASELS,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ASELS,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,434651461.0
+ASELS,2024/3,1AI,(Ara Toplam),(Subtotal),2310148685.0
+ASELS,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ASELS,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2734696292.0
+ASELS,2024/3,1B,Ticari Alacaklar,Trade Receivables,984731910.0
+ASELS,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ASELS,2024/3,1BB,Diğer Alacaklar,Other Receivables,236399.0
+ASELS,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2024/3,1BC,Finansal Yatırımlar,Financial Investments,210567717.0
+ASELS,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,29207509.0
+ASELS,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ASELS,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ASELS,2024/3,1BFA,Stoklar,Stoklar,0.0
+ASELS,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ASELS,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,841330248.0
+ASELS,2024/3,1BGA,Şerefiye,Goodwill,0.0
+ASELS,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,469619677.0
+ASELS,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,80507643.0
+ASELS,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,118495189.0
+ASELS,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5044844977.0
+ASELS,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ASELS,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1408836153.0
+ASELS,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,677865451.0
+ASELS,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,362711232.0
+ASELS,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,3124699.0
+ASELS,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ASELS,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ASELS,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,1783691.0
+ASELS,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,147320799.0
+ASELS,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),212407.0
+ASELS,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,149088877.0
+ASELS,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,66728997.0
+ASELS,2024/3,2AAGG,(Ara Toplam),(Subtotal),1408836153.0
+ASELS,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ASELS,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,454911420.0
+ASELS,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,27392745.0
+ASELS,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,3772.0
+ASELS,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,1040855.0
+ASELS,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ASELS,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ASELS,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ASELS,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,279745452.0
+ASELS,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,146578148.0
+ASELS,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ASELS,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ASELS,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,150447.0
+ASELS,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3181097404.0
+ASELS,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3148151690.0
+ASELS,2024/3,2OA,Ödenmiş Sermaye,Share Capital,140986161.0
+ASELS,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ASELS,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,517564495.0
+ASELS,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ASELS,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,627172.0
+ASELS,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,123876408.0
+ASELS,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1675754183.0
+ASELS,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),43401508.0
+ASELS,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,645941763.0
+ASELS,2024/3,2ODA,Azınlık Payları,Minority Interests,32945714.0
+ASELS,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5044844977.0
+ASELS,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ASELS,2024/3,3C,Satış Gelirleri,Net Sales,675301231.0
+ASELS,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-479895528.0
+ASELS,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ASELS,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,195405703.0
+ASELS,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ASELS,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ASELS,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ASELS,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),195405703.0
+ASELS,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-15094723.0
+ASELS,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-46161257.0
+ASELS,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-13347493.0
+ASELS,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,258167638.0
+ASELS,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-179026598.0
+ASELS,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ASELS,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,199943270.0
+ASELS,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,120802230.0
+ASELS,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,670372.0
+ASELS,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ASELS,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ASELS,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-1211676.0
+ASELS,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,199401966.0
+ASELS,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),12011109.0
+ASELS,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-235200897.0
+ASELS,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,670372.0
+ASELS,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-23787822.0
+ASELS,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,79051701.0
+ASELS,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-216858.0
+ASELS,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,79268558.0
+ASELS,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ASELS,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,55263879.0
+ASELS,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ASELS,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ASELS,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,55263879.0
+ASELS,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ASELS,2024/3,3LB,Azınlık Payları,Minority Interests,-7353162.0
+ASELS,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,62617041.0
+ASELS,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+ASELS,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+ASELS,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+ASELS,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+ASELS,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,30769574.0
+ASELS,2024/3,4BA,Kıdem Tazminatı,Severance Payments,3605183.0
+ASELS,2024/3,4BB,Finansman Giderleri,Financial Expenses,-235200897.0
+ASELS,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,551103117.0
+ASELS,2024/3,4BD,Yurtdışı Satışlar,Export Sales,124198114.0
+ASELS,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,678803929.0
+ASELS,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,652357616.0
+ASELS,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),678803929.0
+ASELS,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-132555655.0
+ASELS,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,55263879.0
+ASELS,2024/3,4CAA,Düzeltmeler:,Adjustments:,-26056783.0
+ASELS,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,30769574.0
+ASELS,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,-27539967.0
+ASELS,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-29286390.0
+ASELS,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),29207096.0
+ASELS,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-131268496.0
+ASELS,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-102061400.0
+ASELS,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-30494255.0
+ASELS,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-110490936.0
+ASELS,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,2689466.0
+ASELS,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-107801470.0
+ASELS,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-240357125.0
+ASELS,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,81629928.0
+ASELS,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ASELS,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ASELS,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+ASELS,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,81629928.0
+ASELS,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-158727198.0
+ASELS,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-43077708.0
+ASELS,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ASELS,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-201804905.0
+ASELS,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ASELS,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,338806882.0
+ASELS,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,137001977.0
+ASELS,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,2547561707.0
+ASELS,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,58346191.0
+ASELS,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ASELS,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,777271030.0
+ASELS,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ASELS,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,41094045.0
+ASELS,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2024/6,1AF,Stoklar,Inventories,1148393811.0
+ASELS,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ASELS,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,522456630.0
+ASELS,2024/6,1AI,(Ara Toplam),(Subtotal),2547561707.0
+ASELS,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ASELS,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,3093529875.0
+ASELS,2024/6,1B,Ticari Alacaklar,Trade Receivables,1096830529.0
+ASELS,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ASELS,2024/6,1BB,Diğer Alacaklar,Other Receivables,251541.0
+ASELS,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2024/6,1BC,Finansal Yatırımlar,Financial Investments,224491125.0
+ASELS,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,31963187.0
+ASELS,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ASELS,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ASELS,2024/6,1BFA,Stoklar,Stoklar,0.0
+ASELS,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ASELS,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,911631367.0
+ASELS,2024/6,1BGA,Şerefiye,Goodwill,0.0
+ASELS,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,560145779.0
+ASELS,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,168127431.0
+ASELS,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,100088915.0
+ASELS,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5641091582.0
+ASELS,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ASELS,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1773897000.0
+ASELS,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,798490845.0
+ASELS,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,379189243.0
+ASELS,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,18161397.0
+ASELS,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ASELS,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ASELS,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,1754310.0
+ASELS,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,352765004.0
+ASELS,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),155662.0
+ASELS,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,167458226.0
+ASELS,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,55922312.0
+ASELS,2024/6,2AAGG,(Ara Toplam),(Subtotal),1773897000.0
+ASELS,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ASELS,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,423062463.0
+ASELS,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,19131010.0
+ASELS,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ASELS,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,945711.0
+ASELS,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ASELS,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ASELS,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ASELS,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,248016895.0
+ASELS,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,154348083.0
+ASELS,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ASELS,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ASELS,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,620764.0
+ASELS,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3444132120.0
+ASELS,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3408221059.0
+ASELS,2024/6,2OA,Ödenmiş Sermaye,Share Capital,138663780.0
+ASELS,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ASELS,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,551823125.0
+ASELS,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ASELS,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1088663.0
+ASELS,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,133626879.0
+ASELS,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1769616364.0
+ASELS,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),115519153.0
+ASELS,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,700060422.0
+ASELS,2024/6,2ODA,Azınlık Payları,Minority Interests,35911061.0
+ASELS,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5641091582.0
+ASELS,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ASELS,2024/6,3C,Satış Gelirleri,Net Sales,1525452159.0
+ASELS,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1038171935.0
+ASELS,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ASELS,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,487280224.0
+ASELS,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ASELS,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ASELS,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ASELS,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),487280224.0
+ASELS,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-38060201.0
+ASELS,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-94126703.0
+ASELS,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-44101546.0
+ASELS,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,363736024.0
+ASELS,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-276956121.0
+ASELS,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ASELS,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,397771676.0
+ASELS,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,310991773.0
+ASELS,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2733989.0
+ASELS,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ASELS,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ASELS,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-875974.0
+ASELS,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,399629691.0
+ASELS,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),19375794.0
+ASELS,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-460442171.0
+ASELS,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2733989.0
+ASELS,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-41436687.0
+ASELS,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,197147140.0
+ASELS,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-561383.0
+ASELS,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,197708522.0
+ASELS,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ASELS,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,155710453.0
+ASELS,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ASELS,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ASELS,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,155710453.0
+ASELS,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ASELS,2024/6,3LB,Azınlık Payları,Minority Interests,-6529867.0
+ASELS,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,162240320.0
+ASELS,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,4.0
+ASELS,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,4.0
+ASELS,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,4.0
+ASELS,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,4.0
+ASELS,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,60345179.0
+ASELS,2024/6,4BA,Kıdem Tazminatı,Severance Payments,3010822.0
+ASELS,2024/6,4BB,Finansman Giderleri,Financial Expenses,-460442171.0
+ASELS,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,1318935192.0
+ASELS,2024/6,4BD,Yurtdışı Satışlar,Export Sales,206516966.0
+ASELS,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,749313757.0
+ASELS,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,724554294.0
+ASELS,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),749313757.0
+ASELS,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-81102293.0
+ASELS,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,155710453.0
+ASELS,2024/6,4CAA,Düzeltmeler:,Adjustments:,91481893.0
+ASELS,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,60345179.0
+ASELS,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,49515289.0
+ASELS,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-18378575.0
+ASELS,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),247192346.0
+ASELS,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-265792001.0
+ASELS,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-18599656.0
+ASELS,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-62502637.0
+ASELS,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-365269359.0
+ASELS,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,6237064.0
+ASELS,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-359032295.0
+ASELS,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,-440134587.0
+ASELS,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,241907374.0
+ASELS,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ASELS,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ASELS,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+ASELS,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,241907374.0
+ASELS,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-198227213.0
+ASELS,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-71580167.0
+ASELS,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ASELS,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-269807379.0
+ASELS,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ASELS,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,351645206.0
+ASELS,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,81837826.0
+ASELS,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,2712186060.0
+ASELS,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,105224164.0
+ASELS,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ASELS,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,785666847.0
+ASELS,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ASELS,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,57341534.0
+ASELS,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2024/9,1AF,Stoklar,Inventories,1233086345.0
+ASELS,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ASELS,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,530867169.0
+ASELS,2024/9,1AI,(Ara Toplam),(Subtotal),2712186060.0
+ASELS,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ASELS,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,3498852571.0
+ASELS,2024/9,1B,Ticari Alacaklar,Trade Receivables,1250204432.0
+ASELS,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ASELS,2024/9,1BB,Diğer Alacaklar,Other Receivables,266364.0
+ASELS,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2024/9,1BC,Finansal Yatırımlar,Financial Investments,235213252.0
+ASELS,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,33730564.0
+ASELS,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ASELS,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ASELS,2024/9,1BFA,Stoklar,Stoklar,0.0
+ASELS,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ASELS,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,981078476.0
+ASELS,2024/9,1BGA,Şerefiye,Goodwill,0.0
+ASELS,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,648778205.0
+ASELS,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,237491523.0
+ASELS,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,112089754.0
+ASELS,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,6211038631.0
+ASELS,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ASELS,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1785594910.0
+ASELS,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,883298237.0
+ASELS,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,385174929.0
+ASELS,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,18387976.0
+ASELS,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ASELS,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ASELS,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,1729189.0
+ASELS,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,262162247.0
+ASELS,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+ASELS,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,168068193.0
+ASELS,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,66774139.0
+ASELS,2024/9,2AAGG,(Ara Toplam),(Subtotal),1785594910.0
+ASELS,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ASELS,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,758249631.0
+ASELS,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,93370731.0
+ASELS,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ASELS,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,836130.0
+ASELS,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ASELS,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ASELS,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ASELS,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,511439509.0
+ASELS,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,152169414.0
+ASELS,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ASELS,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ASELS,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,433848.0
+ASELS,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3667194091.0
+ASELS,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3626652907.0
+ASELS,2024/9,2OA,Ödenmiş Sermaye,Share Capital,133401594.0
+ASELS,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ASELS,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,578234067.0
+ASELS,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ASELS,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1397616.0
+ASELS,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,139889359.0
+ASELS,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1855776289.0
+ASELS,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),179674278.0
+ASELS,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,741074936.0
+ASELS,2024/9,2ODA,Azınlık Payları,Minority Interests,40541183.0
+ASELS,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,6211038631.0
+ASELS,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ASELS,2024/9,3C,Satış Gelirleri,Net Sales,2507148358.0
+ASELS,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1732029089.0
+ASELS,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ASELS,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,775119269.0
+ASELS,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ASELS,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ASELS,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ASELS,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),775119269.0
+ASELS,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-61073544.0
+ASELS,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-145918494.0
+ASELS,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-66339715.0
+ASELS,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,529462485.0
+ASELS,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-437949535.0
+ASELS,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ASELS,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,593300465.0
+ASELS,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,501787515.0
+ASELS,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2888476.0
+ASELS,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ASELS,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ASELS,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-1009077.0
+ASELS,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,595179864.0
+ASELS,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),28021871.0
+ASELS,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-664570539.0
+ASELS,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2888476.0
+ASELS,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-41368804.0
+ASELS,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,292211741.0
+ASELS,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-491543.0
+ASELS,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,292703284.0
+ASELS,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ASELS,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,250842937.0
+ASELS,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ASELS,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ASELS,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,250842937.0
+ASELS,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ASELS,2024/9,3LB,Azınlık Payları,Minority Interests,-2767348.0
+ASELS,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,253610285.0
+ASELS,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,6.0
+ASELS,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,6.0
+ASELS,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,6.0
+ASELS,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,6.0
+ASELS,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,92654864.0
+ASELS,2024/9,4BA,Kıdem Tazminatı,Severance Payments,2341016.0
+ASELS,2024/9,4BB,Finansman Giderleri,Financial Expenses,-664570539.0
+ASELS,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,2176565397.0
+ASELS,2024/9,4BD,Yurtdışı Satışlar,Export Sales,330582962.0
+ASELS,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,774390985.0
+ASELS,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,828658984.0
+ASELS,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),774390985.0
+ASELS,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,37305359.0
+ASELS,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,250842937.0
+ASELS,2024/9,4CAA,Düzeltmeler:,Adjustments:,197260037.0
+ASELS,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,92654864.0
+ASELS,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,95008364.0
+ASELS,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,9596809.0
+ASELS,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),448102974.0
+ASELS,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-309793649.0
+ASELS,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),138309325.0
+ASELS,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-101003965.0
+ASELS,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-609772367.0
+ASELS,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-372119.0
+ASELS,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-610144486.0
+ASELS,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,-572839126.0
+ASELS,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,448757063.0
+ASELS,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ASELS,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ASELS,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+ASELS,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,448757063.0
+ASELS,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-124082063.0
+ASELS,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-97720322.0
+ASELS,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ASELS,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-221802385.0
+ASELS,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ASELS,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,370326301.0
+ASELS,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,148523916.0
+ASELS,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,2951368092.0
+ASELS,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,339171559.0
+ASELS,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ASELS,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,731655297.0
+ASELS,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ASELS,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,83877231.0
+ASELS,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2025/3,1AF,Stoklar,Inventories,1229092344.0
+ASELS,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ASELS,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,567571662.0
+ASELS,2025/3,1AI,(Ara Toplam),(Subtotal),2951368092.0
+ASELS,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ASELS,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,4186336679.0
+ASELS,2025/3,1B,Ticari Alacaklar,Trade Receivables,1663313448.0
+ASELS,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ASELS,2025/3,1BB,Diğer Alacaklar,Other Receivables,334490.0
+ASELS,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2025/3,1BC,Finansal Yatırımlar,Financial Investments,235297631.0
+ASELS,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,36053730.0
+ASELS,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ASELS,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ASELS,2025/3,1BFA,Stoklar,Stoklar,0.0
+ASELS,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ASELS,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1097636049.0
+ASELS,2025/3,1BGA,Şerefiye,Goodwill,0.0
+ASELS,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,697048901.0
+ASELS,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,330520383.0
+ASELS,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,126132046.0
+ASELS,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7137704771.0
+ASELS,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ASELS,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1966596447.0
+ASELS,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,866256221.0
+ASELS,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,363039195.0
+ASELS,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,8802364.0
+ASELS,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ASELS,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ASELS,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,1745375.0
+ASELS,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,404784914.0
+ASELS,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+ASELS,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,230641782.0
+ASELS,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,91326595.0
+ASELS,2025/3,2AAGG,(Ara Toplam),(Subtotal),1966596447.0
+ASELS,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ASELS,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1002277996.0
+ASELS,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,4539075.0
+ASELS,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ASELS,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,448198.0
+ASELS,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ASELS,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ASELS,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ASELS,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,727481875.0
+ASELS,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,269237664.0
+ASELS,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ASELS,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ASELS,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,571184.0
+ASELS,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4168830329.0
+ASELS,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4141722935.0
+ASELS,2025/3,2OA,Ödenmiş Sermaye,Share Capital,120527466.0
+ASELS,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ASELS,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,611055038.0
+ASELS,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ASELS,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-3274700.0
+ASELS,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,147736674.0
+ASELS,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2407195992.0
+ASELS,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),60126712.0
+ASELS,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,798355752.0
+ASELS,2025/3,2ODA,Azınlık Payları,Minority Interests,27107394.0
+ASELS,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7137704771.0
+ASELS,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ASELS,2025/3,3C,Satış Gelirleri,Net Sales,628612191.0
+ASELS,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-440465952.0
+ASELS,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ASELS,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,188146239.0
+ASELS,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ASELS,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ASELS,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ASELS,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),188146239.0
+ASELS,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-16280366.0
+ASELS,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-39084175.0
+ASELS,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-23246912.0
+ASELS,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,282131193.0
+ASELS,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-187381422.0
+ASELS,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ASELS,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,204284558.0
+ASELS,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,109534786.0
+ASELS,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,945838.0
+ASELS,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ASELS,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ASELS,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-2780142.0
+ASELS,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,202450253.0
+ASELS,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),23299869.0
+ASELS,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-284652066.0
+ASELS,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,945838.0
+ASELS,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-58901943.0
+ASELS,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,117747620.0
+ASELS,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-2418930.0
+ASELS,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,120166550.0
+ASELS,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ASELS,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,58845676.0
+ASELS,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ASELS,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ASELS,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,58845676.0
+ASELS,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ASELS,2025/3,3LB,Azınlık Payları,Minority Interests,-3898008.0
+ASELS,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,62743685.0
+ASELS,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+ASELS,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+ASELS,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+ASELS,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+ASELS,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,32302841.0
+ASELS,2025/3,4BA,Kıdem Tazminatı,Severance Payments,11098228.0
+ASELS,2025/3,4BB,Finansman Giderleri,Financial Expenses,-284652066.0
+ASELS,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,550799344.0
+ASELS,2025/3,4BD,Yurtdışı Satışlar,Export Sales,77812847.0
+ASELS,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,371663468.0
+ASELS,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,804471506.0
+ASELS,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),371663468.0
+ASELS,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,116624431.0
+ASELS,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,58845676.0
+ASELS,2025/3,4CAA,Düzeltmeler:,Adjustments:,45122288.0
+ASELS,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,32302841.0
+ASELS,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,9154920.0
+ASELS,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,3664528.0
+ASELS,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),103967965.0
+ASELS,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,55137790.0
+ASELS,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),159105755.0
+ASELS,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-42481324.0
+ASELS,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-163063974.0
+ASELS,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,3762802.0
+ASELS,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-159301172.0
+ASELS,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-42676742.0
+ASELS,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-65876268.0
+ASELS,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ASELS,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ASELS,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+ASELS,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-65876268.0
+ASELS,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-108553010.0
+ASELS,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-43852750.0
+ASELS,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ASELS,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-152405759.0
+ASELS,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ASELS,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,505064683.0
+ASELS,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,352658924.0
+ASELS,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,3051383514.0
+ASELS,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,396654635.0
+ASELS,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ASELS,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,659627930.0
+ASELS,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ASELS,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,71918498.0
+ASELS,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2025/6,1AF,Stoklar,Inventories,1330189865.0
+ASELS,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ASELS,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,592992585.0
+ASELS,2025/6,1AI,(Ara Toplam),(Subtotal),3051383514.0
+ASELS,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ASELS,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,4239618913.0
+ASELS,2025/6,1B,Ticari Alacaklar,Trade Receivables,1516076474.0
+ASELS,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ASELS,2025/6,1BB,Diğer Alacaklar,Other Receivables,372623.0
+ASELS,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2025/6,1BC,Finansal Yatırımlar,Financial Investments,237032080.0
+ASELS,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,32766274.0
+ASELS,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ASELS,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ASELS,2025/6,1BFA,Stoklar,Stoklar,0.0
+ASELS,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ASELS,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1148321930.0
+ASELS,2025/6,1BGA,Şerefiye,Goodwill,0.0
+ASELS,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,742137098.0
+ASELS,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,428568737.0
+ASELS,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,134343697.0
+ASELS,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7291002426.0
+ASELS,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ASELS,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2278134375.0
+ASELS,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,921285705.0
+ASELS,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,454804985.0
+ASELS,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,32678110.0
+ASELS,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ASELS,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ASELS,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,1658629.0
+ASELS,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,518072837.0
+ASELS,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+ASELS,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,237068828.0
+ASELS,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,112565281.0
+ASELS,2025/6,2AAGG,(Ara Toplam),(Subtotal),2278134375.0
+ASELS,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ASELS,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,736672645.0
+ASELS,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,3879771.0
+ASELS,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,38330.0
+ASELS,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,415248.0
+ASELS,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ASELS,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ASELS,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ASELS,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,545141715.0
+ASELS,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,186625900.0
+ASELS,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ASELS,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ASELS,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,571681.0
+ASELS,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4276195406.0
+ASELS,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4244977670.0
+ASELS,2025/6,2OA,Ödenmiş Sermaye,Share Capital,114537179.0
+ASELS,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ASELS,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,615564447.0
+ASELS,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ASELS,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-3577227.0
+ASELS,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,162395560.0
+ASELS,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2384515704.0
+ASELS,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),160873095.0
+ASELS,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,810668912.0
+ASELS,2025/6,2ODA,Azınlık Payları,Minority Interests,31217736.0
+ASELS,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7291002426.0
+ASELS,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ASELS,2025/6,3C,Satış Gelirleri,Net Sales,1432893899.0
+ASELS,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-974349044.0
+ASELS,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ASELS,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,458544855.0
+ASELS,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ASELS,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ASELS,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ASELS,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),458544855.0
+ASELS,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-36461534.0
+ASELS,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-72192670.0
+ASELS,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-50528840.0
+ASELS,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,479227219.0
+ASELS,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-312837901.0
+ASELS,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ASELS,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,465751129.0
+ASELS,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,299361811.0
+ASELS,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,5423661.0
+ASELS,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ASELS,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ASELS,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-5537977.0
+ASELS,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,465636813.0
+ASELS,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),51004833.0
+ASELS,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-580278069.0
+ASELS,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,5423661.0
+ASELS,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-63636423.0
+ASELS,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,234660233.0
+ASELS,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-2994420.0
+ASELS,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,237654652.0
+ASELS,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ASELS,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,171023810.0
+ASELS,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ASELS,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ASELS,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,171023810.0
+ASELS,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ASELS,2025/6,3LB,Azınlık Payları,Minority Interests,156468.0
+ASELS,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,170867342.0
+ASELS,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,4.0
+ASELS,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,4.0
+ASELS,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,4.0
+ASELS,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,4.0
+ASELS,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,59916008.0
+ASELS,2025/6,4BA,Kıdem Tazminatı,Severance Payments,1523968.0
+ASELS,2025/6,4BB,Finansman Giderleri,Financial Expenses,-580278069.0
+ASELS,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,1271706252.0
+ASELS,2025/6,4BD,Yurtdışı Satışlar,Export Sales,161187647.0
+ASELS,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,382208252.0
+ASELS,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,909956773.0
+ASELS,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),382208252.0
+ASELS,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,363763366.0
+ASELS,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,171023810.0
+ASELS,2025/6,4CAA,Düzeltmeler:,Adjustments:,61932270.0
+ASELS,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,59916008.0
+ASELS,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,-26514683.0
+ASELS,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,28530944.0
+ASELS,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),232956080.0
+ASELS,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,192360832.0
+ASELS,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),425316911.0
+ASELS,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-61553545.0
+ASELS,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-343067476.0
+ASELS,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,1085565.0
+ASELS,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-341981911.0
+ASELS,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,21781455.0
+ASELS,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-51414317.0
+ASELS,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ASELS,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ASELS,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+ASELS,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-51414317.0
+ASELS,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-29632863.0
+ASELS,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-66931400.0
+ASELS,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ASELS,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-96564262.0
+ASELS,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ASELS,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,517861082.0
+ASELS,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,421296820.0
+ASELS,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,3355786526.0
+ASELS,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,347210449.0
+ASELS,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ASELS,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,695073326.0
+ASELS,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ASELS,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,92203835.0
+ASELS,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2025/9,1AF,Stoklar,Inventories,1575050311.0
+ASELS,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ASELS,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,646248605.0
+ASELS,2025/9,1AI,(Ara Toplam),(Subtotal),3355786526.0
+ASELS,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ASELS,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,4443801561.0
+ASELS,2025/9,1B,Ticari Alacaklar,Trade Receivables,1527311142.0
+ASELS,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ASELS,2025/9,1BB,Diğer Alacaklar,Other Receivables,387094.0
+ASELS,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ASELS,2025/9,1BC,Finansal Yatırımlar,Financial Investments,243965191.0
+ASELS,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,33379620.0
+ASELS,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ASELS,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ASELS,2025/9,1BFA,Stoklar,Stoklar,0.0
+ASELS,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ASELS,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1218397224.0
+ASELS,2025/9,1BGA,Şerefiye,Goodwill,0.0
+ASELS,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,858012150.0
+ASELS,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,414320348.0
+ASELS,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,148028792.0
+ASELS,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7799588087.0
+ASELS,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ASELS,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2366993694.0
+ASELS,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,889698256.0
+ASELS,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,519177978.0
+ASELS,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,31934870.0
+ASELS,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+ASELS,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ASELS,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,1508263.0
+ASELS,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,554955485.0
+ASELS,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+ASELS,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,251065760.0
+ASELS,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,118653082.0
+ASELS,2025/9,2AAGG,(Ara Toplam),(Subtotal),2366993694.0
+ASELS,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ASELS,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,920448468.0
+ASELS,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,29127956.0
+ASELS,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ASELS,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,72.0
+ASELS,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,300061.0
+ASELS,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ASELS,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ASELS,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ASELS,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,731301537.0
+ASELS,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,159031663.0
+ASELS,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ASELS,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ASELS,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,687179.0
+ASELS,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4512145925.0
+ASELS,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4481678338.0
+ASELS,2025/9,2OA,Ödenmiş Sermaye,Share Capital,109663890.0
+ASELS,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ASELS,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,633604166.0
+ASELS,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ASELS,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-4495474.0
+ASELS,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,166179753.0
+ASELS,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2457302389.0
+ASELS,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),280188545.0
+ASELS,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,839235070.0
+ASELS,2025/9,2ODA,Azınlık Payları,Minority Interests,30467587.0
+ASELS,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7799588087.0
+ASELS,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ASELS,2025/9,3C,Satış Gelirleri,Net Sales,2351954025.0
+ASELS,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1624982716.0
+ASELS,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ASELS,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,726971309.0
+ASELS,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ASELS,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ASELS,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ASELS,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ASELS,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),726971309.0
+ASELS,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-53743985.0
+ASELS,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-109270812.0
+ASELS,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-74275918.0
+ASELS,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,631476036.0
+ASELS,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-441143277.0
+ASELS,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ASELS,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,680013352.0
+ASELS,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,489680593.0
+ASELS,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,7820783.0
+ASELS,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ASELS,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ASELS,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-5469706.0
+ASELS,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,682364430.0
+ASELS,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),67088360.0
+ASELS,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-680770757.0
+ASELS,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,7820783.0
+ASELS,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,68682032.0
+ASELS,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,231230103.0
+ASELS,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-2380583.0
+ASELS,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,233610685.0
+ASELS,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ASELS,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,299912135.0
+ASELS,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ASELS,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ASELS,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,299912135.0
+ASELS,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ASELS,2025/9,3LB,Azınlık Payları,Minority Interests,-1628716.0
+ASELS,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,301540851.0
+ASELS,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,7.0
+ASELS,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,7.0
+ASELS,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,7.0
+ASELS,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,7.0
+ASELS,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,97012309.0
+ASELS,2025/9,4BA,Kıdem Tazminatı,Severance Payments,2205803.0
+ASELS,2025/9,4BB,Finansman Giderleri,Financial Expenses,-680770757.0
+ASELS,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,2130902175.0
+ASELS,2025/9,4BD,Yurtdışı Satışlar,Export Sales,221051849.0
+ASELS,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,445821594.0
+ASELS,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,1241444550.0
+ASELS,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),445821594.0
+ASELS,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,623609313.0
+ASELS,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,299912135.0
+ASELS,2025/9,4CAA,Düzeltmeler:,Adjustments:,257466050.0
+ASELS,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,97012309.0
+ASELS,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,12814496.0
+ASELS,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,147639244.0
+ASELS,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),557378184.0
+ASELS,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,164149197.0
+ASELS,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),721527381.0
+ASELS,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-97918069.0
+ASELS,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-617811736.0
+ASELS,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-20656037.0
+ASELS,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-638467773.0
+ASELS,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,-14858460.0
+ASELS,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-51425570.0
+ASELS,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ASELS,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ASELS,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,0.0
+ASELS,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-51425570.0
+ASELS,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-66284031.0
+ASELS,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-100150323.0
+ASELS,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ASELS,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-166434353.0
+ASELS,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ASELS,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,540104641.0
+ASELS,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,373670288.0

@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+PETKM,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,3049904121.0
+PETKM,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1165661542.0
+PETKM,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,103491779.0
+PETKM,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,416501014.0
+PETKM,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+PETKM,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,2167841.0
+PETKM,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2022/12,1AF,Stoklar,Inventories,407188821.0
+PETKM,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+PETKM,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,954893124.0
+PETKM,2022/12,1AI,(Ara Toplam),(Subtotal),3049904121.0
+PETKM,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+PETKM,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,2461351537.0
+PETKM,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+PETKM,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+PETKM,2022/12,1BB,Diğer Alacaklar,Other Receivables,1166133.0
+PETKM,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2022/12,1BC,Finansal Yatırımlar,Financial Investments,3531337.0
+PETKM,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+PETKM,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+PETKM,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,494902840.0
+PETKM,2022/12,1BFA,Stoklar,Stoklar,0.0
+PETKM,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,40000427.0
+PETKM,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1868036515.0
+PETKM,2022/12,1BGA,Şerefiye,Goodwill,0.0
+PETKM,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,19192345.0
+PETKM,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,14119368.0
+PETKM,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,20402573.0
+PETKM,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5511255659.0
+PETKM,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+PETKM,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2746066464.0
+PETKM,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,2262995302.0
+PETKM,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,387696722.0
+PETKM,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1576447.0
+PETKM,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+PETKM,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+PETKM,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+PETKM,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,30142644.0
+PETKM,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+PETKM,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,48596039.0
+PETKM,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,15059310.0
+PETKM,2022/12,2AAGG,(Ara Toplam),(Subtotal),2746066464.0
+PETKM,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+PETKM,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,387549488.0
+PETKM,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,263630952.0
+PETKM,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+PETKM,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+PETKM,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+PETKM,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+PETKM,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+PETKM,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,73685832.0
+PETKM,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,45539344.0
+PETKM,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+PETKM,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,4693359.0
+PETKM,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+PETKM,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2377639707.0
+PETKM,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2374567959.0
+PETKM,2022/12,2OA,Ödenmiş Sermaye,Share Capital,135297886.0
+PETKM,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+PETKM,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,26729660.0
+PETKM,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+PETKM,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-37917574.0
+PETKM,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,143762706.0
+PETKM,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),705537369.0
+PETKM,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-68361253.0
+PETKM,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1469519165.0
+PETKM,2022/12,2ODA,Azınlık Payları,Minority Interests,3071749.0
+PETKM,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5511255659.0
+PETKM,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+PETKM,2022/12,3C,Satış Gelirleri,Net Sales,5889690695.0
+PETKM,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-5853167938.0
+PETKM,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+PETKM,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,36522757.0
+PETKM,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+PETKM,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+PETKM,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+PETKM,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),36522757.0
+PETKM,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-61556205.0
+PETKM,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-145801952.0
+PETKM,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+PETKM,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,209638143.0
+PETKM,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-127482735.0
+PETKM,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+PETKM,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-88679991.0
+PETKM,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-170835400.0
+PETKM,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,164271095.0
+PETKM,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-14084.0
+PETKM,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+PETKM,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+PETKM,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,75577020.0
+PETKM,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),710374625.0
+PETKM,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1019783092.0
+PETKM,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,164257011.0
+PETKM,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-233831447.0
+PETKM,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,153055754.0
+PETKM,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+PETKM,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,153055754.0
+PETKM,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+PETKM,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-80775693.0
+PETKM,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+PETKM,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+PETKM,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-80775693.0
+PETKM,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+PETKM,2022/12,3LB,Azınlık Payları,Minority Interests,-3704241.0
+PETKM,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,-77071452.0
+PETKM,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+PETKM,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+PETKM,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+PETKM,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+PETKM,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,205028818.0
+PETKM,2022/12,4BA,Kıdem Tazminatı,Severance Payments,1453445.0
+PETKM,2022/12,4BB,Finansman Giderleri,Financial Expenses,-1019783092.0
+PETKM,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,3062510333.0
+PETKM,2022/12,4BD,Yurtdışı Satışlar,Export Sales,2986850858.0
+PETKM,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-288858496.0
+PETKM,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-288858496.0
+PETKM,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-80665311.0
+PETKM,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,335512453.0
+PETKM,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-80775693.0
+PETKM,2022/12,4CAA,Düzeltmeler:,Adjustments:,165784485.0
+PETKM,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,205028818.0
+PETKM,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,68056772.0
+PETKM,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-107301104.0
+PETKM,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),85008793.0
+PETKM,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,309107896.0
+PETKM,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),394116688.0
+PETKM,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-58604235.0
+PETKM,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-430149527.0
+PETKM,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-98510921.0
+PETKM,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-528660448.0
+PETKM,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,-193147995.0
+PETKM,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1276381422.0
+PETKM,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+PETKM,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+PETKM,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-81172563.0
+PETKM,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,1195208859.0
+PETKM,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1002060864.0
+PETKM,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-284989163.0
+PETKM,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+PETKM,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,717071701.0
+PETKM,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+PETKM,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,597111743.0
+PETKM,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1314183444.0
+PETKM,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,1784149419.0
+PETKM,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,386241961.0
+PETKM,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,130272991.0
+PETKM,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,387362772.0
+PETKM,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+PETKM,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,1531353.0
+PETKM,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2022/3,1AF,Stoklar,Inventories,338231527.0
+PETKM,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+PETKM,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,540508814.0
+PETKM,2022/3,1AI,(Ara Toplam),(Subtotal),1784149419.0
+PETKM,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+PETKM,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,812010161.0
+PETKM,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+PETKM,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+PETKM,2022/3,1BB,Diğer Alacaklar,Other Receivables,756027.0
+PETKM,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2022/3,1BC,Finansal Yatırımlar,Financial Investments,607631.0
+PETKM,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+PETKM,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+PETKM,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,234249531.0
+PETKM,2022/3,1BFA,Stoklar,Stoklar,0.0
+PETKM,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,17300917.0
+PETKM,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,530726702.0
+PETKM,2022/3,1BGA,Şerefiye,Goodwill,0.0
+PETKM,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,6375081.0
+PETKM,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,2416817.0
+PETKM,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,19577454.0
+PETKM,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2596159580.0
+PETKM,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+PETKM,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1359682409.0
+PETKM,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,957016947.0
+PETKM,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,309599891.0
+PETKM,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,928496.0
+PETKM,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+PETKM,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+PETKM,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+PETKM,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,48334231.0
+PETKM,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),17270843.0
+PETKM,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,21770450.0
+PETKM,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,4761551.0
+PETKM,2022/3,2AAGG,(Ara Toplam),(Subtotal),1359682409.0
+PETKM,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+PETKM,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,245196304.0
+PETKM,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,183529444.0
+PETKM,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+PETKM,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+PETKM,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+PETKM,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+PETKM,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+PETKM,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,46228117.0
+PETKM,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,15126266.0
+PETKM,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+PETKM,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+PETKM,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,312477.0
+PETKM,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,991280867.0
+PETKM,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,988720292.0
+PETKM,2022/3,2OA,Ödenmiş Sermaye,Share Capital,172837317.0
+PETKM,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+PETKM,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+PETKM,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+PETKM,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-29410918.0
+PETKM,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,28460122.0
+PETKM,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),679958332.0
+PETKM,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),119596754.0
+PETKM,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,17278685.0
+PETKM,2022/3,2ODA,Azınlık Payları,Minority Interests,2560576.0
+PETKM,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2596159580.0
+PETKM,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+PETKM,2022/3,3C,Satış Gelirleri,Net Sales,817376809.0
+PETKM,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-697503749.0
+PETKM,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+PETKM,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,119873060.0
+PETKM,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+PETKM,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+PETKM,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+PETKM,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),119873060.0
+PETKM,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-5965065.0
+PETKM,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-15900948.0
+PETKM,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+PETKM,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,30735172.0
+PETKM,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-13710317.0
+PETKM,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+PETKM,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,115031902.0
+PETKM,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,98007047.0
+PETKM,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,59184384.0
+PETKM,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2290.0
+PETKM,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+PETKM,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+PETKM,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,174213996.0
+PETKM,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),107374894.0
+PETKM,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-132286133.0
+PETKM,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,59182094.0
+PETKM,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,149302757.0
+PETKM,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-23877652.0
+PETKM,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-15787727.0
+PETKM,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-8089925.0
+PETKM,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+PETKM,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,125425106.0
+PETKM,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+PETKM,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+PETKM,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,125425106.0
+PETKM,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+PETKM,2022/3,3LB,Azınlık Payları,Minority Interests,-84522.0
+PETKM,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,125509628.0
+PETKM,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+PETKM,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+PETKM,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+PETKM,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+PETKM,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,13118520.0
+PETKM,2022/3,4BA,Kıdem Tazminatı,Severance Payments,5491427.0
+PETKM,2022/3,4BB,Finansman Giderleri,Financial Expenses,-132286133.0
+PETKM,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+PETKM,2022/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+PETKM,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-105812488.0
+PETKM,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-105812488.0
+PETKM,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),38536820.0
+PETKM,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,48409722.0
+PETKM,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,125425106.0
+PETKM,2022/3,4CAA,Düzeltmeler:,Adjustments:,-2742493.0
+PETKM,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,13118520.0
+PETKM,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,5491427.0
+PETKM,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-21352440.0
+PETKM,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),122682613.0
+PETKM,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-56402028.0
+PETKM,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),66280585.0
+PETKM,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-17870862.0
+PETKM,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-17818474.0
+PETKM,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-123831998.0
+PETKM,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-141650472.0
+PETKM,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,-93240749.0
+PETKM,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,239035950.0
+PETKM,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+PETKM,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+PETKM,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-18818926.0
+PETKM,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,220217024.0
+PETKM,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,126976274.0
+PETKM,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,16040434.0
+PETKM,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+PETKM,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,143016709.0
+PETKM,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+PETKM,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,262321088.0
+PETKM,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,405337797.0
+PETKM,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,1737954156.0
+PETKM,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,312462166.0
+PETKM,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,133561235.0
+PETKM,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,372655320.0
+PETKM,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+PETKM,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,1735684.0
+PETKM,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2022/6,1AF,Stoklar,Inventories,352474388.0
+PETKM,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+PETKM,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,565065363.0
+PETKM,2022/6,1AI,(Ara Toplam),(Subtotal),1737954156.0
+PETKM,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+PETKM,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,858101957.0
+PETKM,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+PETKM,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+PETKM,2022/6,1BB,Diğer Alacaklar,Other Receivables,686701.0
+PETKM,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2022/6,1BC,Finansal Yatırımlar,Financial Investments,533808.0
+PETKM,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+PETKM,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+PETKM,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,249605186.0
+PETKM,2022/6,1BFA,Stoklar,Stoklar,0.0
+PETKM,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,15762129.0
+PETKM,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,510262890.0
+PETKM,2022/6,1BGA,Şerefiye,Goodwill,0.0
+PETKM,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,5485220.0
+PETKM,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,50916999.0
+PETKM,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,24849024.0
+PETKM,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2596056113.0
+PETKM,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+PETKM,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1340340654.0
+PETKM,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1034198390.0
+PETKM,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,256947650.0
+PETKM,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,696826.0
+PETKM,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+PETKM,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+PETKM,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+PETKM,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,31686917.0
+PETKM,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+PETKM,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,12191608.0
+PETKM,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,4619265.0
+PETKM,2022/6,2AAGG,(Ara Toplam),(Subtotal),1340340654.0
+PETKM,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+PETKM,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,238767389.0
+PETKM,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,173597362.0
+PETKM,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+PETKM,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+PETKM,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+PETKM,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+PETKM,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+PETKM,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,45711145.0
+PETKM,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,18557401.0
+PETKM,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+PETKM,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,901482.0
+PETKM,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+PETKM,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1016948069.0
+PETKM,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1013334352.0
+PETKM,2022/6,2OA,Ödenmiş Sermaye,Share Capital,151838671.0
+PETKM,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+PETKM,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+PETKM,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+PETKM,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-30023545.0
+PETKM,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,25002396.0
+PETKM,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),597347676.0
+PETKM,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),255392178.0
+PETKM,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,13776975.0
+PETKM,2022/6,2ODA,Azınlık Payları,Minority Interests,3613717.0
+PETKM,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2596056113.0
+PETKM,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+PETKM,2022/6,3C,Satış Gelirleri,Net Sales,1732399459.0
+PETKM,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1521929471.0
+PETKM,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+PETKM,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,210469988.0
+PETKM,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+PETKM,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+PETKM,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+PETKM,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),210469988.0
+PETKM,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-14355808.0
+PETKM,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-29647223.0
+PETKM,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+PETKM,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,88282553.0
+PETKM,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-48375088.0
+PETKM,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+PETKM,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,206374422.0
+PETKM,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,166466957.0
+PETKM,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,107609615.0
+PETKM,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3224.0
+PETKM,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+PETKM,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+PETKM,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,313980813.0
+PETKM,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),234079159.0
+PETKM,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-299025808.0
+PETKM,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,107606390.0
+PETKM,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,249034164.0
+PETKM,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,37980362.0
+PETKM,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-7775187.0
+PETKM,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,45755549.0
+PETKM,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+PETKM,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,287014526.0
+PETKM,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+PETKM,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+PETKM,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,287014526.0
+PETKM,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+PETKM,2022/6,3LB,Azınlık Payları,Minority Interests,659251.0
+PETKM,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,286355275.0
+PETKM,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+PETKM,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+PETKM,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+PETKM,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+PETKM,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,25124495.0
+PETKM,2022/6,4BA,Kıdem Tazminatı,Severance Payments,13968345.0
+PETKM,2022/6,4BB,Finansman Giderleri,Financial Expenses,-299025808.0
+PETKM,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,917017587.0
+PETKM,2022/6,4BD,Yurtdışı Satışlar,Export Sales,860570669.0
+PETKM,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-179032630.0
+PETKM,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-179032630.0
+PETKM,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),24022899.0
+PETKM,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-2404446.0
+PETKM,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,287014526.0
+PETKM,2022/6,4CAA,Düzeltmeler:,Adjustments:,-39205626.0
+PETKM,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,25124495.0
+PETKM,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,14813536.0
+PETKM,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-79143656.0
+PETKM,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),247808900.0
+PETKM,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-202363564.0
+PETKM,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),45445336.0
+PETKM,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-47849783.0
+PETKM,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-45304606.0
+PETKM,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-137889757.0
+PETKM,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-183194363.0
+PETKM,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-185598809.0
+PETKM,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,311292554.0
+PETKM,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+PETKM,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+PETKM,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-24679463.0
+PETKM,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,286613091.0
+PETKM,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,101014282.0
+PETKM,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,3113003.0
+PETKM,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+PETKM,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,104127286.0
+PETKM,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+PETKM,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,246216997.0
+PETKM,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,350344283.0
+PETKM,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,1640840174.0
+PETKM,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,422045267.0
+PETKM,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,110696794.0
+PETKM,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,252845985.0
+PETKM,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+PETKM,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,1533250.0
+PETKM,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2022/9,1AF,Stoklar,Inventories,254151498.0
+PETKM,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+PETKM,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,599567381.0
+PETKM,2022/9,1AI,(Ara Toplam),(Subtotal),1640840174.0
+PETKM,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+PETKM,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,900792794.0
+PETKM,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+PETKM,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+PETKM,2022/9,1BB,Diğer Alacaklar,Other Receivables,666717.0
+PETKM,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2022/9,1BC,Finansal Yatırımlar,Financial Investments,480269.0
+PETKM,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+PETKM,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+PETKM,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,266131327.0
+PETKM,2022/9,1BFA,Stoklar,Stoklar,0.0
+PETKM,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,14334927.0
+PETKM,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,529029921.0
+PETKM,2022/9,1BGA,Şerefiye,Goodwill,0.0
+PETKM,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,5339719.0
+PETKM,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,55061044.0
+PETKM,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,29748869.0
+PETKM,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2541632969.0
+PETKM,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+PETKM,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1316981366.0
+PETKM,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1128678802.0
+PETKM,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,140400332.0
+PETKM,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,884105.0
+PETKM,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+PETKM,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+PETKM,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+PETKM,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,21718512.0
+PETKM,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+PETKM,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,19929388.0
+PETKM,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,5370228.0
+PETKM,2022/9,2AAGG,(Ara Toplam),(Subtotal),1316981366.0
+PETKM,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+PETKM,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,228704891.0
+PETKM,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,165775950.0
+PETKM,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+PETKM,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+PETKM,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+PETKM,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+PETKM,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+PETKM,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,45155481.0
+PETKM,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,17773460.0
+PETKM,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+PETKM,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+PETKM,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+PETKM,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,995946712.0
+PETKM,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,991120790.0
+PETKM,2022/9,2OA,Ödenmiş Sermaye,Share Capital,136609872.0
+PETKM,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+PETKM,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,3459878.0
+PETKM,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+PETKM,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-30459840.0
+PETKM,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,22494758.0
+PETKM,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),537436139.0
+PETKM,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),310371279.0
+PETKM,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,11208704.0
+PETKM,2022/9,2ODA,Azınlık Payları,Minority Interests,4825923.0
+PETKM,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2541632969.0
+PETKM,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+PETKM,2022/9,3C,Satış Gelirleri,Net Sales,2513037735.0
+PETKM,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-2258094463.0
+PETKM,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+PETKM,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,254943272.0
+PETKM,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+PETKM,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+PETKM,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+PETKM,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),254943272.0
+PETKM,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-22187592.0
+PETKM,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-46819015.0
+PETKM,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+PETKM,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,118325634.0
+PETKM,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-61072215.0
+PETKM,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+PETKM,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,243190083.0
+PETKM,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,185936664.0
+PETKM,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,160340629.0
+PETKM,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-5342.0
+PETKM,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+PETKM,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+PETKM,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,403525370.0
+PETKM,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),326144419.0
+PETKM,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-421534211.0
+PETKM,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,160335287.0
+PETKM,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,308135578.0
+PETKM,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,55114242.0
+PETKM,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+PETKM,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,55114242.0
+PETKM,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+PETKM,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,363249820.0
+PETKM,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+PETKM,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+PETKM,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,363249820.0
+PETKM,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+PETKM,2022/9,3LB,Azınlık Payları,Minority Interests,1407768.0
+PETKM,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,361842051.0
+PETKM,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+PETKM,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+PETKM,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+PETKM,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+PETKM,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,36438970.0
+PETKM,2022/9,4BA,Kıdem Tazminatı,Severance Payments,25105749.0
+PETKM,2022/9,4BB,Finansman Giderleri,Financial Expenses,-421534211.0
+PETKM,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+PETKM,2022/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+PETKM,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-145758518.0
+PETKM,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-145758518.0
+PETKM,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-25281390.0
+PETKM,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,120063821.0
+PETKM,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,363249820.0
+PETKM,2022/9,4CAA,Düzeltmeler:,Adjustments:,-25153634.0
+PETKM,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,36438970.0
+PETKM,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,26061877.0
+PETKM,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-87654481.0
+PETKM,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),338096186.0
+PETKM,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-171942244.0
+PETKM,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),166153942.0
+PETKM,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-46090120.0
+PETKM,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-109051216.0
+PETKM,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-132924398.0
+PETKM,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-241975614.0
+PETKM,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,-121911792.0
+PETKM,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,424040946.0
+PETKM,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+PETKM,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+PETKM,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-48701109.0
+PETKM,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,375339837.0
+PETKM,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,253428045.0
+PETKM,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,8273797.0
+PETKM,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+PETKM,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,261701842.0
+PETKM,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+PETKM,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,230333780.0
+PETKM,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,492035622.0
+PETKM,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,995482566.0
+PETKM,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,197767240.0
+PETKM,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,14635638.0
+PETKM,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,369425051.0
+PETKM,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+PETKM,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,6008179.0
+PETKM,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2023/12,1AF,Stoklar,Inventories,300635408.0
+PETKM,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+PETKM,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,107011051.0
+PETKM,2023/12,1AI,(Ara Toplam),(Subtotal),995482566.0
+PETKM,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+PETKM,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,3694086256.0
+PETKM,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+PETKM,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+PETKM,2023/12,1BB,Diğer Alacaklar,Other Receivables,915694.0
+PETKM,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2023/12,1BC,Finansal Yatırımlar,Financial Investments,3238447.0
+PETKM,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,1176313760.0
+PETKM,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+PETKM,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,823889350.0
+PETKM,2023/12,1BFA,Stoklar,Stoklar,0.0
+PETKM,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,42934628.0
+PETKM,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1583212100.0
+PETKM,2023/12,1BGA,Şerefiye,Goodwill,0.0
+PETKM,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,15312143.0
+PETKM,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,23783353.0
+PETKM,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,24486781.0
+PETKM,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4689568822.0
+PETKM,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+PETKM,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1309713509.0
+PETKM,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,825695612.0
+PETKM,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,404250033.0
+PETKM,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1194691.0
+PETKM,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+PETKM,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+PETKM,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+PETKM,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,27355864.0
+PETKM,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+PETKM,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,39012251.0
+PETKM,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,12205057.0
+PETKM,2023/12,2AAGG,(Ara Toplam),(Subtotal),1309713509.0
+PETKM,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+PETKM,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,864074151.0
+PETKM,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,667114607.0
+PETKM,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+PETKM,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+PETKM,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+PETKM,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+PETKM,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+PETKM,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,61727594.0
+PETKM,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,36948524.0
+PETKM,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+PETKM,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,98283426.0
+PETKM,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+PETKM,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2515781163.0
+PETKM,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2503533652.0
+PETKM,2023/12,2OA,Ödenmiş Sermaye,Share Capital,85937209.0
+PETKM,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+PETKM,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,24512517.0
+PETKM,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+PETKM,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-23376386.0
+PETKM,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,132074341.0
+PETKM,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),578704635.0
+PETKM,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),361788019.0
+PETKM,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1343893318.0
+PETKM,2023/12,2ODA,Azınlık Payları,Minority Interests,12247510.0
+PETKM,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4689568822.0
+PETKM,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+PETKM,2023/12,3C,Satış Gelirleri,Net Sales,3662184534.0
+PETKM,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-3803256991.0
+PETKM,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+PETKM,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,-141072457.0
+PETKM,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+PETKM,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+PETKM,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+PETKM,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),-141072457.0
+PETKM,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-70843801.0
+PETKM,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-174620008.0
+PETKM,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+PETKM,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,202627730.0
+PETKM,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-217872646.0
+PETKM,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+PETKM,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-401781181.0
+PETKM,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-386536266.0
+PETKM,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,518197401.0
+PETKM,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-209874.0
+PETKM,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+PETKM,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,601352953.0
+PETKM,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,717559299.0
+PETKM,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),702145385.0
+PETKM,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-857578355.0
+PETKM,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,517987527.0
+PETKM,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,562126329.0
+PETKM,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-112928343.0
+PETKM,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1157226.0
+PETKM,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-111771117.0
+PETKM,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+PETKM,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,449197986.0
+PETKM,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+PETKM,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+PETKM,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,449197986.0
+PETKM,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+PETKM,2023/12,3LB,Azınlık Payları,Minority Interests,1432358.0
+PETKM,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,447765627.0
+PETKM,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+PETKM,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+PETKM,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+PETKM,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+PETKM,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,258011370.0
+PETKM,2023/12,4BA,Kıdem Tazminatı,Severance Payments,5222772.0
+PETKM,2023/12,4BB,Finansman Giderleri,Financial Expenses,-857578355.0
+PETKM,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,2189274104.0
+PETKM,2023/12,4BD,Yurtdışı Satışlar,Export Sales,1551275298.0
+PETKM,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1478640367.0
+PETKM,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1478640367.0
+PETKM,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1900025606.0
+PETKM,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,99243490.0
+PETKM,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,449197986.0
+PETKM,2023/12,4CAA,Düzeltmeler:,Adjustments:,-529002262.0
+PETKM,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,258011370.0
+PETKM,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,70031707.0
+PETKM,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-857045339.0
+PETKM,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-79804276.0
+PETKM,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,220654772.0
+PETKM,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),140850496.0
+PETKM,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-41607006.0
+PETKM,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-151917647.0
+PETKM,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,84642299.0
+PETKM,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-67275348.0
+PETKM,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,31968142.0
+PETKM,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-710943869.0
+PETKM,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+PETKM,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+PETKM,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-182887868.0
+PETKM,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-893831737.0
+PETKM,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-861863595.0
+PETKM,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-216381031.0
+PETKM,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+PETKM,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-1078244626.0
+PETKM,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+PETKM,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1323010532.0
+PETKM,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,244765906.0
+PETKM,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,1357168670.0
+PETKM,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,269280585.0
+PETKM,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,43526460.0
+PETKM,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,217944423.0
+PETKM,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+PETKM,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,1456134.0
+PETKM,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2023/3,1AF,Stoklar,Inventories,227255756.0
+PETKM,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+PETKM,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,597705313.0
+PETKM,2023/3,1AI,(Ara Toplam),(Subtotal),1357168670.0
+PETKM,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+PETKM,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1137827786.0
+PETKM,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+PETKM,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+PETKM,2023/3,1BB,Diğer Alacaklar,Other Receivables,735363.0
+PETKM,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2023/3,1BC,Finansal Yatırımlar,Financial Investments,464358.0
+PETKM,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+PETKM,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+PETKM,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,351564379.0
+PETKM,2023/3,1BFA,Stoklar,Stoklar,0.0
+PETKM,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,20655469.0
+PETKM,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,630841785.0
+PETKM,2023/3,1BGA,Şerefiye,Goodwill,0.0
+PETKM,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,5233482.0
+PETKM,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,113444063.0
+PETKM,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,14888888.0
+PETKM,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2494996456.0
+PETKM,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+PETKM,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,962372237.0
+PETKM,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,711414440.0
+PETKM,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,186153441.0
+PETKM,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1116699.0
+PETKM,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+PETKM,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+PETKM,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+PETKM,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,28955586.0
+PETKM,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+PETKM,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,16869782.0
+PETKM,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,17862287.0
+PETKM,2023/3,2AAGG,(Ara Toplam),(Subtotal),962372237.0
+PETKM,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+PETKM,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,533955847.0
+PETKM,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,454947310.0
+PETKM,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+PETKM,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+PETKM,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+PETKM,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+PETKM,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+PETKM,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,44227478.0
+PETKM,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,33492688.0
+PETKM,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+PETKM,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,1288371.0
+PETKM,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+PETKM,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,998668373.0
+PETKM,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,998313564.0
+PETKM,2023/3,2OA,Ödenmiş Sermaye,Share Capital,132083928.0
+PETKM,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+PETKM,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,3345251.0
+PETKM,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+PETKM,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-30611013.0
+PETKM,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,33474395.0
+PETKM,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),850845172.0
+PETKM,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),8061112.0
+PETKM,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1114719.0
+PETKM,2023/3,2ODA,Azınlık Payları,Minority Interests,354809.0
+PETKM,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2494996456.0
+PETKM,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+PETKM,2023/3,3C,Satış Gelirleri,Net Sales,938057518.0
+PETKM,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1029155420.0
+PETKM,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+PETKM,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,-91097901.0
+PETKM,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+PETKM,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+PETKM,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+PETKM,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),-91097901.0
+PETKM,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-17533680.0
+PETKM,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-42318720.0
+PETKM,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+PETKM,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,14291381.0
+PETKM,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-16432360.0
+PETKM,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+PETKM,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-153091279.0
+PETKM,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-150950301.0
+PETKM,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,48741444.0
+PETKM,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1376.0
+PETKM,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+PETKM,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+PETKM,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-104351211.0
+PETKM,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),56926397.0
+PETKM,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-117173372.0
+PETKM,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,48740068.0
+PETKM,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-164598187.0
+PETKM,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-27556282.0
+PETKM,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1523736.0
+PETKM,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-26032546.0
+PETKM,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+PETKM,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-192154469.0
+PETKM,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+PETKM,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+PETKM,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-192154469.0
+PETKM,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+PETKM,2023/3,3LB,Azınlık Payları,Minority Interests,-2308601.0
+PETKM,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,-189845868.0
+PETKM,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+PETKM,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+PETKM,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+PETKM,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+PETKM,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,63961759.0
+PETKM,2023/3,4BA,Kıdem Tazminatı,Severance Payments,22563717.0
+PETKM,2023/3,4BB,Finansman Giderleri,Financial Expenses,-117173372.0
+PETKM,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+PETKM,2023/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+PETKM,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-223700283.0
+PETKM,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-223700283.0
+PETKM,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-181630270.0
+PETKM,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-117991264.0
+PETKM,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-177256060.0
+PETKM,2023/3,4CAA,Düzeltmeler:,Adjustments:,-17593541.0
+PETKM,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,63961759.0
+PETKM,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,22563717.0
+PETKM,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-104119017.0
+PETKM,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-194849601.0
+PETKM,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,109948369.0
+PETKM,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-84901231.0
+PETKM,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-33090033.0
+PETKM,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-29971321.0
+PETKM,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,29446489.0
+PETKM,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-524831.0
+PETKM,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,-118516095.0
+PETKM,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-597794649.0
+PETKM,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+PETKM,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+PETKM,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-45819676.0
+PETKM,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-643614325.0
+PETKM,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-762130420.0
+PETKM,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-106856174.0
+PETKM,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+PETKM,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-868986594.0
+PETKM,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+PETKM,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1329773741.0
+PETKM,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,460787147.0
+PETKM,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,1415890002.0
+PETKM,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,406349692.0
+PETKM,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,23660319.0
+PETKM,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,219256231.0
+PETKM,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+PETKM,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,3100087.0
+PETKM,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2023/6,1AF,Stoklar,Inventories,175939906.0
+PETKM,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+PETKM,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,587583766.0
+PETKM,2023/6,1AI,(Ara Toplam),(Subtotal),1415890002.0
+PETKM,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+PETKM,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,994210231.0
+PETKM,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+PETKM,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+PETKM,2023/6,1BB,Diğer Alacaklar,Other Receivables,584083.0
+PETKM,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2023/6,1BC,Finansal Yatırımlar,Financial Investments,344420.0
+PETKM,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+PETKM,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+PETKM,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,342898537.0
+PETKM,2023/6,1BFA,Stoklar,Stoklar,0.0
+PETKM,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,17329143.0
+PETKM,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,533491666.0
+PETKM,2023/6,1BGA,Şerefiye,Goodwill,0.0
+PETKM,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3738558.0
+PETKM,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,84108606.0
+PETKM,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,11715218.0
+PETKM,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2410100233.0
+PETKM,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+PETKM,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1122874957.0
+PETKM,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,722048698.0
+PETKM,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,243956265.0
+PETKM,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,78757190.0
+PETKM,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+PETKM,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+PETKM,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+PETKM,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,55817446.0
+PETKM,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+PETKM,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,15710525.0
+PETKM,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,6584833.0
+PETKM,2023/6,2AAGG,(Ara Toplam),(Subtotal),1122874957.0
+PETKM,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+PETKM,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,542443486.0
+PETKM,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,464628328.0
+PETKM,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+PETKM,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+PETKM,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+PETKM,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+PETKM,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+PETKM,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,43712736.0
+PETKM,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,25377741.0
+PETKM,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+PETKM,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,8724681.0
+PETKM,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+PETKM,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,744781790.0
+PETKM,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,740101934.0
+PETKM,2023/6,2OA,Ödenmiş Sermaye,Share Capital,97968272.0
+PETKM,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+PETKM,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,2481213.0
+PETKM,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+PETKM,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-31500294.0
+PETKM,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,24828370.0
+PETKM,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),631082313.0
+PETKM,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),11173733.0
+PETKM,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,4068327.0
+PETKM,2023/6,2ODA,Azınlık Payları,Minority Interests,4679856.0
+PETKM,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2410100233.0
+PETKM,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+PETKM,2023/6,3C,Satış Gelirleri,Net Sales,2023401564.0
+PETKM,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2149753276.0
+PETKM,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+PETKM,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,-126351712.0
+PETKM,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+PETKM,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+PETKM,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+PETKM,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),-126351712.0
+PETKM,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-38473177.0
+PETKM,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-97086644.0
+PETKM,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+PETKM,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,146375693.0
+PETKM,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-112954128.0
+PETKM,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+PETKM,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-228489968.0
+PETKM,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-261911533.0
+PETKM,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,220429691.0
+PETKM,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-22928.0
+PETKM,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+PETKM,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+PETKM,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-8083205.0
+PETKM,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),632029560.0
+PETKM,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-888100675.0
+PETKM,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,220406762.0
+PETKM,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-264154321.0
+PETKM,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-53918254.0
+PETKM,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1391155.0
+PETKM,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-52527099.0
+PETKM,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+PETKM,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-318072575.0
+PETKM,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+PETKM,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+PETKM,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-318072575.0
+PETKM,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+PETKM,2023/6,3LB,Azınlık Payları,Minority Interests,5245442.0
+PETKM,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,-323318017.0
+PETKM,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+PETKM,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+PETKM,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+PETKM,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+PETKM,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,212933936.0
+PETKM,2023/6,4BA,Kıdem Tazminatı,Severance Payments,38292175.0
+PETKM,2023/6,4BB,Finansman Giderleri,Financial Expenses,-888100675.0
+PETKM,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,1080411766.0
+PETKM,2023/6,4BD,Yurtdışı Satışlar,Export Sales,814230659.0
+PETKM,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-357236936.0
+PETKM,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-357236936.0
+PETKM,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-217455368.0
+PETKM,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,81841660.0
+PETKM,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-292024900.0
+PETKM,2023/6,4CAA,Düzeltmeler:,Adjustments:,560917209.0
+PETKM,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,128700051.0
+PETKM,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,38292175.0
+PETKM,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,393924984.0
+PETKM,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),268892309.0
+PETKM,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-144558242.0
+PETKM,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),124334067.0
+PETKM,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-42492407.0
+PETKM,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-130120498.0
+PETKM,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,54770694.0
+PETKM,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-75349804.0
+PETKM,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,6491856.0
+PETKM,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-564097231.0
+PETKM,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+PETKM,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+PETKM,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,84716997.0
+PETKM,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-479380234.0
+PETKM,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-472888378.0
+PETKM,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,8385062.0
+PETKM,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+PETKM,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-464503316.0
+PETKM,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+PETKM,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1375500026.0
+PETKM,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,910996710.0
+PETKM,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,1159960840.0
+PETKM,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,139882447.0
+PETKM,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,17819587.0
+PETKM,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,248433713.0
+PETKM,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+PETKM,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,746299.0
+PETKM,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2023/9,1AF,Stoklar,Inventories,180243820.0
+PETKM,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+PETKM,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,572834974.0
+PETKM,2023/9,1AI,(Ara Toplam),(Subtotal),1159960840.0
+PETKM,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+PETKM,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1058667505.0
+PETKM,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+PETKM,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+PETKM,2023/9,1BB,Diğer Alacaklar,Other Receivables,606906.0
+PETKM,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2023/9,1BC,Finansal Yatırımlar,Financial Investments,324874.0
+PETKM,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+PETKM,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+PETKM,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,393024211.0
+PETKM,2023/9,1BFA,Stoklar,Stoklar,0.0
+PETKM,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,16818129.0
+PETKM,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,538123569.0
+PETKM,2023/9,1BGA,Şerefiye,Goodwill,0.0
+PETKM,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3379421.0
+PETKM,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,92772333.0
+PETKM,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,13618063.0
+PETKM,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2218628345.0
+PETKM,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+PETKM,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,891190877.0
+PETKM,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,631122657.0
+PETKM,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,191260592.0
+PETKM,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,835120.0
+PETKM,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+PETKM,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+PETKM,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+PETKM,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,34620251.0
+PETKM,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+PETKM,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,25149493.0
+PETKM,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,8202764.0
+PETKM,2023/9,2AAGG,(Ara Toplam),(Subtotal),891190877.0
+PETKM,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+PETKM,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,540244731.0
+PETKM,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,455816488.0
+PETKM,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+PETKM,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+PETKM,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+PETKM,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+PETKM,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+PETKM,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,43234012.0
+PETKM,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,28735361.0
+PETKM,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+PETKM,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,12458871.0
+PETKM,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+PETKM,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,787192737.0
+PETKM,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,785138263.0
+PETKM,2023/9,2OA,Ödenmiş Sermaye,Share Capital,92408663.0
+PETKM,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+PETKM,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,2340407.0
+PETKM,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+PETKM,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-31746846.0
+PETKM,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,23559469.0
+PETKM,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),595128892.0
+PETKM,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),98697440.0
+PETKM,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,4750237.0
+PETKM,2023/9,2ODA,Azınlık Payları,Minority Interests,2054474.0
+PETKM,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2218628345.0
+PETKM,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+PETKM,2023/9,3C,Satış Gelirleri,Net Sales,2787683635.0
+PETKM,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-2901872395.0
+PETKM,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+PETKM,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,-114188760.0
+PETKM,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+PETKM,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+PETKM,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+PETKM,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),-114188760.0
+PETKM,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-52936639.0
+PETKM,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-135025508.0
+PETKM,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+PETKM,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,170015490.0
+PETKM,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-123508343.0
+PETKM,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+PETKM,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-255643760.0
+PETKM,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-302150907.0
+PETKM,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,185229766.0
+PETKM,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-21848.0
+PETKM,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+PETKM,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+PETKM,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-70435842.0
+PETKM,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),681224268.0
+PETKM,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-903966748.0
+PETKM,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,185207918.0
+PETKM,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-293178322.0
+PETKM,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-137284849.0
+PETKM,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1168884.0
+PETKM,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-136115965.0
+PETKM,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+PETKM,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-430463170.0
+PETKM,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+PETKM,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+PETKM,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-430463170.0
+PETKM,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+PETKM,2023/9,3LB,Azınlık Payları,Minority Interests,-630525.0
+PETKM,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,-429832645.0
+PETKM,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+PETKM,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+PETKM,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+PETKM,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+PETKM,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,191145991.0
+PETKM,2023/9,4BA,Kıdem Tazminatı,Severance Payments,35779569.0
+PETKM,2023/9,4BB,Finansman Giderleri,Financial Expenses,-903966748.0
+PETKM,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+PETKM,2023/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+PETKM,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-410524213.0
+PETKM,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-410524213.0
+PETKM,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-324875491.0
+PETKM,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-183165074.0
+PETKM,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-430463170.0
+PETKM,2023/9,4CAA,Düzeltmeler:,Adjustments:,544834642.0
+PETKM,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,191145991.0
+PETKM,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,61326224.0
+PETKM,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,292362428.0
+PETKM,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),114371471.0
+PETKM,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-257688046.0
+PETKM,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-143316574.0
+PETKM,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-39848500.0
+PETKM,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-219935636.0
+PETKM,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,49758967.0
+PETKM,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-170176669.0
+PETKM,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,-353341743.0
+PETKM,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-582012250.0
+PETKM,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+PETKM,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+PETKM,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-153718010.0
+PETKM,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-735730260.0
+PETKM,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-1089072003.0
+PETKM,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,10899117.0
+PETKM,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+PETKM,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-1078172886.0
+PETKM,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+PETKM,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1336339513.0
+PETKM,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,258166627.0
+PETKM,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,962880563.0
+PETKM,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,289900562.0
+PETKM,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,16985968.0
+PETKM,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,297202661.0
+PETKM,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+PETKM,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,1252529.0
+PETKM,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2024/12,1AF,Stoklar,Inventories,263873563.0
+PETKM,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+PETKM,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,93665281.0
+PETKM,2024/12,1AI,(Ara Toplam),(Subtotal),962880563.0
+PETKM,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+PETKM,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,3457298348.0
+PETKM,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+PETKM,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+PETKM,2024/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+PETKM,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2024/12,1BC,Finansal Yatırımlar,Financial Investments,3389358.0
+PETKM,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,1070885404.0
+PETKM,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+PETKM,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,864550081.0
+PETKM,2024/12,1BFA,Stoklar,Stoklar,0.0
+PETKM,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,41950018.0
+PETKM,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1421586337.0
+PETKM,2024/12,1BGA,Şerefiye,Goodwill,0.0
+PETKM,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,18707973.0
+PETKM,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,16271657.0
+PETKM,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,19957520.0
+PETKM,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4420178912.0
+PETKM,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+PETKM,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1442603684.0
+PETKM,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,882757241.0
+PETKM,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,478614675.0
+PETKM,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,897964.0
+PETKM,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+PETKM,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+PETKM,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+PETKM,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,48391345.0
+PETKM,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+PETKM,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,19033899.0
+PETKM,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,12908561.0
+PETKM,2024/12,2AAGG,(Ara Toplam),(Subtotal),1442603684.0
+PETKM,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+PETKM,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,907758625.0
+PETKM,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,691904311.0
+PETKM,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+PETKM,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+PETKM,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+PETKM,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+PETKM,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+PETKM,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,31600351.0
+PETKM,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,44314186.0
+PETKM,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+PETKM,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,139939777.0
+PETKM,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+PETKM,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2069816603.0
+PETKM,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2071413298.0
+PETKM,2024/12,2OA,Ödenmiş Sermaye,Share Capital,71707060.0
+PETKM,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+PETKM,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,25654797.0
+PETKM,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+PETKM,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-71729990.0
+PETKM,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,138228986.0
+PETKM,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),984319477.0
+PETKM,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-225126623.0
+PETKM,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1130124781.0
+PETKM,2024/12,2ODA,Azınlık Payları,Minority Interests,-1596695.0
+PETKM,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4420178912.0
+PETKM,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+PETKM,2024/12,3C,Satış Gelirleri,Net Sales,2952507146.0
+PETKM,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2999916643.0
+PETKM,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+PETKM,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,-47409498.0
+PETKM,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+PETKM,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+PETKM,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+PETKM,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),-47409498.0
+PETKM,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-54320728.0
+PETKM,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-137431614.0
+PETKM,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+PETKM,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,75700811.0
+PETKM,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-255046798.0
+PETKM,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+PETKM,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-418507827.0
+PETKM,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-239161840.0
+PETKM,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,25620844.0
+PETKM,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-53494.0
+PETKM,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+PETKM,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,68307066.0
+PETKM,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-324633410.0
+PETKM,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),80732498.0
+PETKM,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),60713080.0
+PETKM,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,25567350.0
+PETKM,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-183187832.0
+PETKM,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-76033489.0
+PETKM,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-966251.0
+PETKM,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-75067238.0
+PETKM,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+PETKM,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-259221321.0
+PETKM,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+PETKM,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-259221321.0
+PETKM,2024/12,3LB,Azınlık Payları,Minority Interests,-17175341.0
+PETKM,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,-242045980.0
+PETKM,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+PETKM,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+PETKM,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+PETKM,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+PETKM,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,197826706.0
+PETKM,2024/12,4BA,Kıdem Tazminatı,Severance Payments,3531526.0
+PETKM,2024/12,4BB,Finansman Giderleri,Financial Expenses,60713080.0
+PETKM,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,1798326574.0
+PETKM,2024/12,4BD,Yurtdışı Satışlar,Export Sales,1215329198.0
+PETKM,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1414193125.0
+PETKM,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1414193125.0
+PETKM,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1879640945.0
+PETKM,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,107961523.0
+PETKM,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-259221321.0
+PETKM,2024/12,4CAA,Düzeltmeler:,Adjustments:,172577573.0
+PETKM,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,197826706.0
+PETKM,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,39450440.0
+PETKM,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-64699573.0
+PETKM,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-86643748.0
+PETKM,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,232130610.0
+PETKM,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),145486862.0
+PETKM,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-37525339.0
+PETKM,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-185364721.0
+PETKM,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,2721559.0
+PETKM,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-182643161.0
+PETKM,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,-74681638.0
+PETKM,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,377122824.0
+PETKM,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+PETKM,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+PETKM,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-140817424.0
+PETKM,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,236305400.0
+PETKM,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,161623762.0
+PETKM,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-72474721.0
+PETKM,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+PETKM,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,89149041.0
+PETKM,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+PETKM,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,222538952.0
+PETKM,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,311687994.0
+PETKM,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,675539458.0
+PETKM,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,130650144.0
+PETKM,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,10716185.0
+PETKM,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,274855304.0
+PETKM,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+PETKM,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,2972984.0
+PETKM,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2024/3,1AF,Stoklar,Inventories,183906151.0
+PETKM,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+PETKM,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,72438690.0
+PETKM,2024/3,1AI,(Ara Toplam),(Subtotal),675539458.0
+PETKM,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+PETKM,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2635800498.0
+PETKM,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+PETKM,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+PETKM,2024/3,1BB,Diğer Alacaklar,Other Receivables,655307.0
+PETKM,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2024/3,1BC,Finansal Yatırımlar,Financial Investments,2353294.0
+PETKM,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,835038771.0
+PETKM,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+PETKM,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,598700856.0
+PETKM,2024/3,1BFA,Stoklar,Stoklar,0.0
+PETKM,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,26334947.0
+PETKM,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1128099840.0
+PETKM,2024/3,1BGA,Şerefiye,Goodwill,0.0
+PETKM,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,10638797.0
+PETKM,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,17433743.0
+PETKM,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,16544942.0
+PETKM,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3311339956.0
+PETKM,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+PETKM,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,934552647.0
+PETKM,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,631036805.0
+PETKM,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,239523832.0
+PETKM,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,870219.0
+PETKM,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+PETKM,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+PETKM,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+PETKM,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,22085822.0
+PETKM,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+PETKM,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,30552010.0
+PETKM,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,10483960.0
+PETKM,2024/3,2AAGG,(Ara Toplam),(Subtotal),934552647.0
+PETKM,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+PETKM,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,601084882.0
+PETKM,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,449828714.0
+PETKM,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+PETKM,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+PETKM,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+PETKM,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+PETKM,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+PETKM,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,42272227.0
+PETKM,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,34844050.0
+PETKM,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+PETKM,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,74139892.0
+PETKM,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+PETKM,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1775702426.0
+PETKM,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1767274577.0
+PETKM,2024/3,2OA,Ödenmiş Sermaye,Share Capital,78358624.0
+PETKM,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+PETKM,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,17812643.0
+PETKM,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+PETKM,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-28482946.0
+PETKM,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,95975278.0
+PETKM,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),683433941.0
+PETKM,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),26914846.0
+PETKM,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,893262191.0
+PETKM,2024/3,2ODA,Azınlık Payları,Minority Interests,8427850.0
+PETKM,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3311339956.0
+PETKM,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+PETKM,2024/3,3C,Satış Gelirleri,Net Sales,739040995.0
+PETKM,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-744103943.0
+PETKM,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+PETKM,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,-5062948.0
+PETKM,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+PETKM,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+PETKM,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+PETKM,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),-5062948.0
+PETKM,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-12175415.0
+PETKM,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-34957243.0
+PETKM,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+PETKM,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,29968293.0
+PETKM,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-27442100.0
+PETKM,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+PETKM,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-49669414.0
+PETKM,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-52195607.0
+PETKM,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,5139756.0
+PETKM,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-4296.0
+PETKM,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+PETKM,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,29792843.0
+PETKM,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-14741111.0
+PETKM,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),26057752.0
+PETKM,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),40042994.0
+PETKM,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,5135460.0
+PETKM,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,51359636.0
+PETKM,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-14172449.0
+PETKM,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+PETKM,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-14172449.0
+PETKM,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+PETKM,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,37187187.0
+PETKM,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+PETKM,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+PETKM,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,37187187.0
+PETKM,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+PETKM,2024/3,3LB,Azınlık Payları,Minority Interests,-1643873.0
+PETKM,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,38831060.0
+PETKM,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+PETKM,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+PETKM,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+PETKM,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+PETKM,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,52277711.0
+PETKM,2024/3,4BA,Kıdem Tazminatı,Severance Payments,11838501.0
+PETKM,2024/3,4BB,Finansman Giderleri,Financial Expenses,40042994.0
+PETKM,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+PETKM,2024/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+PETKM,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-847121015.0
+PETKM,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-847121015.0
+PETKM,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1093997593.0
+PETKM,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-53657925.0
+PETKM,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,37187187.0
+PETKM,2024/3,4CAA,Düzeltmeler:,Adjustments:,-82239739.0
+PETKM,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,52277711.0
+PETKM,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,11838501.0
+PETKM,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-146355951.0
+PETKM,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-45052551.0
+PETKM,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-6007832.0
+PETKM,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-51060383.0
+PETKM,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-2597542.0
+PETKM,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-29611289.0
+PETKM,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1274046.0
+PETKM,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-30885335.0
+PETKM,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-84543260.0
+PETKM,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,123618309.0
+PETKM,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+PETKM,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+PETKM,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-36678893.0
+PETKM,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,86939416.0
+PETKM,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,2396156.0
+PETKM,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-21242152.0
+PETKM,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+PETKM,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-18845996.0
+PETKM,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+PETKM,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,207340036.0
+PETKM,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,188494040.0
+PETKM,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,756361079.0
+PETKM,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,162129949.0
+PETKM,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,12505375.0
+PETKM,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,286118661.0
+PETKM,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+PETKM,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,1301159.0
+PETKM,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2024/6,1AF,Stoklar,Inventories,225881899.0
+PETKM,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+PETKM,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,68424037.0
+PETKM,2024/6,1AI,(Ara Toplam),(Subtotal),756361079.0
+PETKM,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+PETKM,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2754966231.0
+PETKM,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+PETKM,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+PETKM,2024/6,1BB,Diğer Alacaklar,Other Receivables,720018.0
+PETKM,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2024/6,1BC,Finansal Yatırımlar,Financial Investments,2509054.0
+PETKM,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,868366626.0
+PETKM,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+PETKM,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,580449775.0
+PETKM,2024/6,1BFA,Stoklar,Stoklar,0.0
+PETKM,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,28978814.0
+PETKM,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1174922686.0
+PETKM,2024/6,1BGA,Şerefiye,Goodwill,0.0
+PETKM,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,13121820.0
+PETKM,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,68437813.0
+PETKM,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,17459625.0
+PETKM,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3511327310.0
+PETKM,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+PETKM,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1024023743.0
+PETKM,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,675558289.0
+PETKM,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,296405810.0
+PETKM,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,615138.0
+PETKM,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+PETKM,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+PETKM,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+PETKM,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,22173129.0
+PETKM,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+PETKM,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,10688119.0
+PETKM,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,18583258.0
+PETKM,2024/6,2AAGG,(Ara Toplam),(Subtotal),1024023743.0
+PETKM,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+PETKM,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,612065543.0
+PETKM,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,471837204.0
+PETKM,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+PETKM,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+PETKM,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+PETKM,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+PETKM,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+PETKM,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,41802751.0
+PETKM,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,33241327.0
+PETKM,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+PETKM,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,65184262.0
+PETKM,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+PETKM,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1875238024.0
+PETKM,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1863428948.0
+PETKM,2024/6,2OA,Ödenmiş Sermaye,Share Capital,77067869.0
+PETKM,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+PETKM,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,18991708.0
+PETKM,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+PETKM,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-39275603.0
+PETKM,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,102328061.0
+PETKM,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),728671777.0
+PETKM,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),80163477.0
+PETKM,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,895481659.0
+PETKM,2024/6,2ODA,Azınlık Payları,Minority Interests,11809076.0
+PETKM,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3511327310.0
+PETKM,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+PETKM,2024/6,3C,Satış Gelirleri,Net Sales,1566003605.0
+PETKM,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1546514599.0
+PETKM,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+PETKM,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,19489007.0
+PETKM,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+PETKM,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+PETKM,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+PETKM,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),19489007.0
+PETKM,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-26806239.0
+PETKM,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-70499935.0
+PETKM,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+PETKM,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,43499591.0
+PETKM,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-38655547.0
+PETKM,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+PETKM,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-72973124.0
+PETKM,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-77817167.0
+PETKM,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,11247416.0
+PETKM,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-81298644.0
+PETKM,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+PETKM,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,73931351.0
+PETKM,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-69093000.0
+PETKM,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),45424426.0
+PETKM,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),63575121.0
+PETKM,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-70051228.0
+PETKM,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,39906546.0
+PETKM,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,74764191.0
+PETKM,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+PETKM,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,74764191.0
+PETKM,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+PETKM,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,114670737.0
+PETKM,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+PETKM,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+PETKM,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,114670737.0
+PETKM,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+PETKM,2024/6,3LB,Azınlık Payları,Minority Interests,2085515.0
+PETKM,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,112585223.0
+PETKM,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+PETKM,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+PETKM,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+PETKM,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+PETKM,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,102506521.0
+PETKM,2024/6,4BA,Kıdem Tazminatı,Severance Payments,31376074.0
+PETKM,2024/6,4BB,Finansman Giderleri,Financial Expenses,63575121.0
+PETKM,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,978442974.0
+PETKM,2024/6,4BD,Yurtdışı Satışlar,Export Sales,615531410.0
+PETKM,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-985941979.0
+PETKM,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-985941979.0
+PETKM,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1225427015.0
+PETKM,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-28443900.0
+PETKM,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,114670737.0
+PETKM,2024/6,4CAA,Düzeltmeler:,Adjustments:,-109282388.0
+PETKM,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,102506521.0
+PETKM,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,31376074.0
+PETKM,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,41860665.0
+PETKM,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),5388349.0
+PETKM,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,3616667.0
+PETKM,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),9005017.0
+PETKM,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-37448916.0
+PETKM,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-65763507.0
+PETKM,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-793247.0
+PETKM,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-66556754.0
+PETKM,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,-95000654.0
+PETKM,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,217343061.0
+PETKM,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+PETKM,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+PETKM,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-69494178.0
+PETKM,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,147848883.0
+PETKM,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,52848229.0
+PETKM,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,4370385.0
+PETKM,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+PETKM,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,57218614.0
+PETKM,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+PETKM,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,215196702.0
+PETKM,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,227702644.0
+PETKM,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,699075931.0
+PETKM,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,92867871.0
+PETKM,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,17563256.0
+PETKM,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,257503547.0
+PETKM,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+PETKM,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,360243.0
+PETKM,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2024/9,1AF,Stoklar,Inventories,253041644.0
+PETKM,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+PETKM,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,77739370.0
+PETKM,2024/9,1AI,(Ara Toplam),(Subtotal),699075931.0
+PETKM,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+PETKM,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,2779354494.0
+PETKM,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+PETKM,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+PETKM,2024/9,1BB,Diğer Alacaklar,Other Receivables,800439.0
+PETKM,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2024/9,1BC,Finansal Yatırımlar,Financial Investments,2629123.0
+PETKM,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,864658085.0
+PETKM,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+PETKM,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,558422146.0
+PETKM,2024/9,1BFA,Stoklar,Stoklar,0.0
+PETKM,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,33875697.0
+PETKM,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1216157976.0
+PETKM,2024/9,1BGA,Şerefiye,Goodwill,0.0
+PETKM,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,13325971.0
+PETKM,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,75330330.0
+PETKM,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,14154728.0
+PETKM,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3478430425.0
+PETKM,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+PETKM,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1058259372.0
+PETKM,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,698894171.0
+PETKM,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,291530520.0
+PETKM,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,622833.0
+PETKM,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+PETKM,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+PETKM,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+PETKM,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,39319535.0
+PETKM,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+PETKM,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,16181379.0
+PETKM,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,11710934.0
+PETKM,2024/9,2AAGG,(Ara Toplam),(Subtotal),1058259372.0
+PETKM,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+PETKM,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,598102421.0
+PETKM,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,463744080.0
+PETKM,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+PETKM,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+PETKM,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+PETKM,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+PETKM,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+PETKM,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,41327287.0
+PETKM,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,36762759.0
+PETKM,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+PETKM,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,56268295.0
+PETKM,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+PETKM,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1822068632.0
+PETKM,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1809966182.0
+PETKM,2024/9,2OA,Ödenmiş Sermaye,Share Capital,74143202.0
+PETKM,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+PETKM,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,19900563.0
+PETKM,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+PETKM,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-47827309.0
+PETKM,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,107224984.0
+PETKM,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),763542456.0
+PETKM,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-3729803.0
+PETKM,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,896712090.0
+PETKM,2024/9,2ODA,Azınlık Payları,Minority Interests,12102450.0
+PETKM,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3478430425.0
+PETKM,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+PETKM,2024/9,3C,Satış Gelirleri,Net Sales,2360228934.0
+PETKM,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-2388132342.0
+PETKM,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+PETKM,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,-27903408.0
+PETKM,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+PETKM,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+PETKM,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+PETKM,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),-27903408.0
+PETKM,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-40515799.0
+PETKM,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-101811803.0
+PETKM,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+PETKM,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,64775898.0
+PETKM,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-56548792.0
+PETKM,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+PETKM,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-162003903.0
+PETKM,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-170231010.0
+PETKM,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,16759542.0
+PETKM,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-155961524.0
+PETKM,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+PETKM,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,63951828.0
+PETKM,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-237254058.0
+PETKM,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),68512856.0
+PETKM,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),67374752.0
+PETKM,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-139201983.0
+PETKM,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-101366450.0
+PETKM,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,97482125.0
+PETKM,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+PETKM,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,97482125.0
+PETKM,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+PETKM,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-3884325.0
+PETKM,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+PETKM,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+PETKM,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-3884325.0
+PETKM,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+PETKM,2024/9,3LB,Azınlık Payları,Minority Interests,1380297.0
+PETKM,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,-5264622.0
+PETKM,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+PETKM,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+PETKM,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+PETKM,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+PETKM,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,161357590.0
+PETKM,2024/9,4BA,Kıdem Tazminatı,Severance Payments,40389839.0
+PETKM,2024/9,4BB,Finansman Giderleri,Financial Expenses,67374752.0
+PETKM,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+PETKM,2024/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+PETKM,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1080792441.0
+PETKM,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1080792441.0
+PETKM,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1369457683.0
+PETKM,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-93434851.0
+PETKM,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-3884325.0
+PETKM,2024/9,4CAA,Düzeltmeler:,Adjustments:,-73438631.0
+PETKM,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,161357590.0
+PETKM,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,40389839.0
+PETKM,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,156470818.0
+PETKM,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-77322955.0
+PETKM,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,18908891.0
+PETKM,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-58414064.0
+PETKM,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-35020787.0
+PETKM,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-115475527.0
+PETKM,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-5190613.0
+PETKM,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-120666140.0
+PETKM,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,-214100991.0
+PETKM,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,268469610.0
+PETKM,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+PETKM,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+PETKM,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-105440923.0
+PETKM,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,163028686.0
+PETKM,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-51072305.0
+PETKM,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,775341.0
+PETKM,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+PETKM,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-50296964.0
+PETKM,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+PETKM,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,226627664.0
+PETKM,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,131082993.0
+PETKM,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,762107143.0
+PETKM,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,96055289.0
+PETKM,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,13082067.0
+PETKM,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,257205243.0
+PETKM,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+PETKM,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,409899.0
+PETKM,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2025/3,1AF,Stoklar,Inventories,240831851.0
+PETKM,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+PETKM,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,154522793.0
+PETKM,2025/3,1AI,(Ara Toplam),(Subtotal),762107143.0
+PETKM,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+PETKM,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2777354660.0
+PETKM,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+PETKM,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+PETKM,2025/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+PETKM,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2025/3,1BC,Finansal Yatırımlar,Financial Investments,2778396.0
+PETKM,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,845442529.0
+PETKM,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+PETKM,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,708705704.0
+PETKM,2025/3,1BFA,Stoklar,Stoklar,0.0
+PETKM,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,33119071.0
+PETKM,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1146088355.0
+PETKM,2025/3,1BGA,Şerefiye,Goodwill,0.0
+PETKM,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,14844570.0
+PETKM,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,12118984.0
+PETKM,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,14257051.0
+PETKM,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3539461803.0
+PETKM,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+PETKM,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1171983443.0
+PETKM,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,729672964.0
+PETKM,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,370878846.0
+PETKM,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,764741.0
+PETKM,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+PETKM,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+PETKM,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+PETKM,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,39776866.0
+PETKM,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4040313.0
+PETKM,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,6368476.0
+PETKM,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,20481238.0
+PETKM,2025/3,2AAGG,(Ara Toplam),(Subtotal),1171983443.0
+PETKM,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+PETKM,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,786534386.0
+PETKM,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,621288375.0
+PETKM,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+PETKM,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+PETKM,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+PETKM,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+PETKM,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+PETKM,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,113338.0
+PETKM,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,43499129.0
+PETKM,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+PETKM,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,121633544.0
+PETKM,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+PETKM,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1580943973.0
+PETKM,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1583052490.0
+PETKM,2025/3,2OA,Ödenmiş Sermaye,Share Capital,66987897.0
+PETKM,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+PETKM,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,21030246.0
+PETKM,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+PETKM,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-57639380.0
+PETKM,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,113311730.0
+PETKM,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),622340242.0
+PETKM,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-68096644.0
+PETKM,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,885118400.0
+PETKM,2025/3,2ODA,Azınlık Payları,Minority Interests,-2108517.0
+PETKM,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3539461803.0
+PETKM,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+PETKM,2025/3,3C,Satış Gelirleri,Net Sales,487393391.0
+PETKM,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-514658844.0
+PETKM,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+PETKM,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,-27265453.0
+PETKM,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+PETKM,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+PETKM,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+PETKM,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),-27265453.0
+PETKM,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-9431980.0
+PETKM,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-24457591.0
+PETKM,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+PETKM,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,9229612.0
+PETKM,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-20637943.0
+PETKM,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+PETKM,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-72563355.0
+PETKM,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-61155024.0
+PETKM,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2622595.0
+PETKM,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-14177.0
+PETKM,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+PETKM,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-4352585.0
+PETKM,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-74307522.0
+PETKM,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),14810059.0
+PETKM,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),2077467.0
+PETKM,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2608418.0
+PETKM,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-57419997.0
+PETKM,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-14283659.0
+PETKM,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+PETKM,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-14283659.0
+PETKM,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+PETKM,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-71703656.0
+PETKM,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+PETKM,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+PETKM,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-71703656.0
+PETKM,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+PETKM,2025/3,3LB,Azınlık Payları,Minority Interests,-643154.0
+PETKM,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,-71060502.0
+PETKM,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+PETKM,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+PETKM,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+PETKM,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+PETKM,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,34772770.0
+PETKM,2025/3,4BA,Kıdem Tazminatı,Severance Payments,10063770.0
+PETKM,2025/3,4BB,Finansman Giderleri,Financial Expenses,2077467.0
+PETKM,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+PETKM,2025/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+PETKM,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1013426641.0
+PETKM,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1013426641.0
+PETKM,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1417089742.0
+PETKM,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-206246843.0
+PETKM,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-71703656.0
+PETKM,2025/3,4CAA,Düzeltmeler:,Adjustments:,32729808.0
+PETKM,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,34772770.0
+PETKM,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,10063770.0
+PETKM,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-12106732.0
+PETKM,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-38973848.0
+PETKM,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-156991687.0
+PETKM,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-195965535.0
+PETKM,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-10281308.0
+PETKM,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-26787459.0
+PETKM,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,955905.0
+PETKM,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-25831554.0
+PETKM,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-232078397.0
+PETKM,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,133723785.0
+PETKM,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+PETKM,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+PETKM,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-35434404.0
+PETKM,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,98289381.0
+PETKM,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-133789016.0
+PETKM,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-13961089.0
+PETKM,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+PETKM,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-147750105.0
+PETKM,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+PETKM,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,247986132.0
+PETKM,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,100236027.0
+PETKM,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,843990943.0
+PETKM,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,159264023.0
+PETKM,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,13622289.0
+PETKM,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,292618857.0
+PETKM,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+PETKM,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,24271282.0
+PETKM,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2025/6,1AF,Stoklar,Inventories,242785137.0
+PETKM,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+PETKM,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,111429354.0
+PETKM,2025/6,1AI,(Ara Toplam),(Subtotal),843990943.0
+PETKM,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+PETKM,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2696242653.0
+PETKM,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+PETKM,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+PETKM,2025/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+PETKM,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2025/6,1BC,Finansal Yatırımlar,Financial Investments,2798902.0
+PETKM,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,849628030.0
+PETKM,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+PETKM,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,714927661.0
+PETKM,2025/6,1BFA,Stoklar,Stoklar,0.0
+PETKM,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,22449262.0
+PETKM,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1073434131.0
+PETKM,2025/6,1BGA,Şerefiye,Goodwill,0.0
+PETKM,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,15115693.0
+PETKM,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+PETKM,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,17888974.0
+PETKM,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3540233596.0
+PETKM,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+PETKM,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1343622816.0
+PETKM,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,764665506.0
+PETKM,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,510960882.0
+PETKM,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,433282.0
+PETKM,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+PETKM,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+PETKM,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+PETKM,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,53417754.0
+PETKM,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+PETKM,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,3972958.0
+PETKM,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,10172434.0
+PETKM,2025/6,2AAGG,(Ara Toplam),(Subtotal),1343622816.0
+PETKM,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+PETKM,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,570347128.0
+PETKM,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,424794285.0
+PETKM,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+PETKM,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+PETKM,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+PETKM,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+PETKM,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+PETKM,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,106248.0
+PETKM,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,40606067.0
+PETKM,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+PETKM,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,104840527.0
+PETKM,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+PETKM,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1626263652.0
+PETKM,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1626263652.0
+PETKM,2025/6,2OA,Ödenmiş Sermaye,Share Capital,63658559.0
+PETKM,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+PETKM,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,21086471.0
+PETKM,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+PETKM,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+PETKM,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,114147954.0
+PETKM,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),626932940.0
+PETKM,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-83214878.0
+PETKM,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,883652606.0
+PETKM,2025/6,2ODA,Azınlık Payları,Minority Interests,0.0
+PETKM,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3540233596.0
+PETKM,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+PETKM,2025/6,3C,Satış Gelirleri,Net Sales,1030625792.0
+PETKM,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1070390840.0
+PETKM,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+PETKM,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,-39765048.0
+PETKM,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+PETKM,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+PETKM,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+PETKM,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),-39765048.0
+PETKM,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-19941243.0
+PETKM,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-57486553.0
+PETKM,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+PETKM,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,28317892.0
+PETKM,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-51476985.0
+PETKM,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+PETKM,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-140351936.0
+PETKM,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-117192843.0
+PETKM,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,7189494.0
+PETKM,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-190723.0
+PETKM,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+PETKM,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-4158418.0
+PETKM,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-137511583.0
+PETKM,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),26306859.0
+PETKM,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),21655480.0
+PETKM,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,6998771.0
+PETKM,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-89549244.0
+PETKM,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,549812.0
+PETKM,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+PETKM,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,549812.0
+PETKM,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+PETKM,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-88999432.0
+PETKM,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+PETKM,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+PETKM,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-88999432.0
+PETKM,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+PETKM,2025/6,3LB,Azınlık Payları,Minority Interests,-614827.0
+PETKM,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,-88384605.0
+PETKM,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+PETKM,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+PETKM,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+PETKM,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+PETKM,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,75687894.0
+PETKM,2025/6,4BA,Kıdem Tazminatı,Severance Payments,14433092.0
+PETKM,2025/6,4BB,Finansman Giderleri,Financial Expenses,21655480.0
+PETKM,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,603465200.0
+PETKM,2025/6,4BD,Yurtdışı Satışlar,Export Sales,451283276.0
+PETKM,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-876980646.0
+PETKM,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1334623162.0
+PETKM,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1334623162.0
+PETKM,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-96339658.0
+PETKM,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-88999432.0
+PETKM,2025/6,4CAA,Düzeltmeler:,Adjustments:,31406993.0
+PETKM,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,75687894.0
+PETKM,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,14433092.0
+PETKM,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,110248042.0
+PETKM,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-57592439.0
+PETKM,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-25650441.0
+PETKM,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-83242880.0
+PETKM,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-13096778.0
+PETKM,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-61487570.0
+PETKM,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,28714517.0
+PETKM,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-32773053.0
+PETKM,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,-129112711.0
+PETKM,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,131006733.0
+PETKM,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+PETKM,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+PETKM,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-77281279.0
+PETKM,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,53725454.0
+PETKM,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-75387257.0
+PETKM,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,2874955.0
+PETKM,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+PETKM,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-72512302.0
+PETKM,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+PETKM,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,254269144.0
+PETKM,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,169158307.0
+PETKM,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,840904799.0
+PETKM,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,226548594.0
+PETKM,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,14095802.0
+PETKM,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,317239115.0
+PETKM,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+PETKM,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,1085985.0
+PETKM,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2025/9,1AF,Stoklar,Inventories,216979698.0
+PETKM,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+PETKM,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,64955605.0
+PETKM,2025/9,1AI,(Ara Toplam),(Subtotal),840904799.0
+PETKM,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+PETKM,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,2805587760.0
+PETKM,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+PETKM,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+PETKM,2025/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+PETKM,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+PETKM,2025/9,1BC,Finansal Yatırımlar,Financial Investments,2880914.0
+PETKM,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,869059151.0
+PETKM,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+PETKM,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,735877335.0
+PETKM,2025/9,1BFA,Stoklar,Stoklar,0.0
+PETKM,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,23400446.0
+PETKM,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1144252241.0
+PETKM,2025/9,1BGA,Şerefiye,Goodwill,0.0
+PETKM,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,15141986.0
+PETKM,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+PETKM,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,14975686.0
+PETKM,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3646492559.0
+PETKM,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+PETKM,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1298016094.0
+PETKM,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,812148330.0
+PETKM,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,424372487.0
+PETKM,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,533361.0
+PETKM,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+PETKM,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+PETKM,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+PETKM,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,37139745.0
+PETKM,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+PETKM,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,13551042.0
+PETKM,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,10271130.0
+PETKM,2025/9,2AAGG,(Ara Toplam),(Subtotal),1298016094.0
+PETKM,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+PETKM,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,737184716.0
+PETKM,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,424821147.0
+PETKM,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+PETKM,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+PETKM,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+PETKM,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+PETKM,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+PETKM,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+PETKM,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,137443485.0
+PETKM,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,42604229.0
+PETKM,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+PETKM,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,132315856.0
+PETKM,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+PETKM,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1611291749.0
+PETKM,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1611291749.0
+PETKM,2025/9,2OA,Ödenmiş Sermaye,Share Capital,60950036.0
+PETKM,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+PETKM,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,21704432.0
+PETKM,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+PETKM,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+PETKM,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,117493170.0
+PETKM,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),645305808.0
+PETKM,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-114853685.0
+PETKM,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,880691989.0
+PETKM,2025/9,2ODA,Azınlık Payları,Minority Interests,0.0
+PETKM,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3646492559.0
+PETKM,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+PETKM,2025/9,3C,Satış Gelirleri,Net Sales,1650233653.0
+PETKM,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1689589011.0
+PETKM,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+PETKM,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,-39355357.0
+PETKM,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+PETKM,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+PETKM,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+PETKM,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+PETKM,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),-39355357.0
+PETKM,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-31666934.0
+PETKM,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-91507844.0
+PETKM,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+PETKM,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,39892016.0
+PETKM,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-104038857.0
+PETKM,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+PETKM,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-226676975.0
+PETKM,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-162530135.0
+PETKM,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,14223890.0
+PETKM,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-208297.0
+PETKM,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+PETKM,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,16023064.0
+PETKM,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-196638318.0
+PETKM,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),39331391.0
+PETKM,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),61622174.0
+PETKM,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,14015593.0
+PETKM,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-95684753.0
+PETKM,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-28562799.0
+PETKM,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+PETKM,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-28562799.0
+PETKM,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+PETKM,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-124247553.0
+PETKM,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+PETKM,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+PETKM,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-124247553.0
+PETKM,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+PETKM,2025/9,3LB,Azınlık Payları,Minority Interests,-641222.0
+PETKM,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,-123606331.0
+PETKM,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+PETKM,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+PETKM,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+PETKM,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+PETKM,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,117615184.0
+PETKM,2025/9,4BA,Kıdem Tazminatı,Severance Payments,30175417.0
+PETKM,2025/9,4BB,Finansman Giderleri,Financial Expenses,61622174.0
+PETKM,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+PETKM,2025/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+PETKM,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-773157133.0
+PETKM,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-773157133.0
+PETKM,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1214431010.0
+PETKM,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-110308854.0
+PETKM,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-124247553.0
+PETKM,2025/9,4CAA,Düzeltmeler:,Adjustments:,94639103.0
+PETKM,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,117615184.0
+PETKM,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,30175417.0
+PETKM,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,184192974.0
+PETKM,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),-29608450.0
+PETKM,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-66965421.0
+PETKM,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-96573871.0
+PETKM,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-13734983.0
+PETKM,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-142300553.0
+PETKM,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,191142938.0
+PETKM,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,48842385.0
+PETKM,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,-61466469.0
+PETKM,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,201034938.0
+PETKM,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+PETKM,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+PETKM,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-121687764.0
+PETKM,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,79347174.0
+PETKM,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,17880705.0
+PETKM,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,3008165.0
+PETKM,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+PETKM,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,20888869.0
+PETKM,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+PETKM,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,265190708.0
+PETKM,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,243813164.0

@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+ENKAI,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,3529794363.0
+ENKAI,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1024444640.0
+ENKAI,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1475460976.0
+ENKAI,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,312411061.0
+ENKAI,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ENKAI,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,7133461.0
+ENKAI,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,28204516.0
+ENKAI,2022/12,1AF,Stoklar,Inventories,371657218.0
+ENKAI,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ENKAI,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,293979714.0
+ENKAI,2022/12,1AI,(Ara Toplam),(Subtotal),3513291587.0
+ENKAI,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,16502776.0
+ENKAI,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,5035304399.0
+ENKAI,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+ENKAI,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ENKAI,2022/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+ENKAI,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ENKAI,2022/12,1BC,Finansal Yatırımlar,Financial Investments,2088928625.0
+ENKAI,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ENKAI,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ENKAI,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,2024575379.0
+ENKAI,2022/12,1BFA,Stoklar,Stoklar,0.0
+ENKAI,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,59417040.0
+ENKAI,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,818323884.0
+ENKAI,2022/12,1BGA,Şerefiye,Goodwill,0.0
+ENKAI,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,16457186.0
+ENKAI,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,21523756.0
+ENKAI,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,6078529.0
+ENKAI,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8565098761.0
+ENKAI,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ENKAI,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1479186312.0
+ENKAI,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,61144512.0
+ENKAI,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,450368407.0
+ENKAI,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,18519859.0
+ENKAI,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,780967275.0
+ENKAI,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ENKAI,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ENKAI,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),58894405.0
+ENKAI,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,52202701.0
+ENKAI,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,57089152.0
+ENKAI,2022/12,2AAGG,(Ara Toplam),(Subtotal),1479186312.0
+ENKAI,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ENKAI,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,551251602.0
+ENKAI,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,126959908.0
+ENKAI,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ENKAI,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,24629404.0
+ENKAI,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,4519859.0
+ENKAI,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ENKAI,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ENKAI,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,19183216.0
+ENKAI,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ENKAI,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,375959214.0
+ENKAI,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ENKAI,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6534660848.0
+ENKAI,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6459999146.0
+ENKAI,2022/12,2OA,Ödenmiş Sermaye,Share Capital,321465353.0
+ENKAI,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ENKAI,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ENKAI,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ENKAI,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1352265642.0
+ENKAI,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,116928198.0
+ENKAI,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4778368834.0
+ENKAI,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),104703555.0
+ENKAI,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2490798847.0
+ENKAI,2022/12,2ODA,Azınlık Payları,Minority Interests,74661702.0
+ENKAI,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8565098761.0
+ENKAI,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ENKAI,2022/12,3C,Satış Gelirleri,Net Sales,3719769253.0
+ENKAI,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2859267311.0
+ENKAI,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ENKAI,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,860501943.0
+ENKAI,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ENKAI,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ENKAI,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ENKAI,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),860501943.0
+ENKAI,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-22226528.0
+ENKAI,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-87465186.0
+ENKAI,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ENKAI,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,34745749.0
+ENKAI,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-48386427.0
+ENKAI,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ENKAI,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,737169552.0
+ENKAI,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,750810229.0
+ENKAI,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,302840972.0
+ENKAI,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-877471598.0
+ENKAI,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ENKAI,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ENKAI,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,162538926.0
+ENKAI,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),130400879.0
+ENKAI,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-65466885.0
+ENKAI,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-574630626.0
+ENKAI,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,227472920.0
+ENKAI,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-100202704.0
+ENKAI,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-185886067.0
+ENKAI,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,85683363.0
+ENKAI,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ENKAI,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,127270216.0
+ENKAI,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ENKAI,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ENKAI,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,127270216.0
+ENKAI,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ENKAI,2022/12,3LB,Azınlık Payları,Minority Interests,9225934.0
+ENKAI,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,118044281.0
+ENKAI,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ENKAI,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ENKAI,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ENKAI,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ENKAI,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,90970570.0
+ENKAI,2022/12,4BA,Kıdem Tazminatı,Severance Payments,5071679.0
+ENKAI,2022/12,4BB,Finansman Giderleri,Financial Expenses,-65466885.0
+ENKAI,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,2014467916.0
+ENKAI,2022/12,4BD,Yurtdışı Satışlar,Export Sales,1705301338.0
+ENKAI,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,578616720.0
+ENKAI,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,406198113.0
+ENKAI,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),584578919.0
+ENKAI,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,179159319.0
+ENKAI,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,127270216.0
+ENKAI,2022/12,4CAA,Düzeltmeler:,Adjustments:,768816657.0
+ENKAI,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,90970570.0
+ENKAI,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,8892983.0
+ENKAI,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,668953105.0
+ENKAI,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),896086873.0
+ENKAI,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-561651097.0
+ENKAI,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),334435776.0
+ENKAI,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-155276457.0
+ENKAI,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-59844439.0
+ENKAI,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1027633644.0
+ENKAI,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1087478083.0
+ENKAI,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,-908318764.0
+ENKAI,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-3859161.0
+ENKAI,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-234120583.0
+ENKAI,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ENKAI,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,46421156.0
+ENKAI,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-191558588.0
+ENKAI,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-1099877353.0
+ENKAI,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,600895369.0
+ENKAI,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ENKAI,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-498981983.0
+ENKAI,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ENKAI,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1653955479.0
+ENKAI,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1154973495.0
+ENKAI,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,4430790807.0
+ENKAI,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1704787534.0
+ENKAI,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1854866505.0
+ENKAI,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,248981212.0
+ENKAI,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ENKAI,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,13782658.0
+ENKAI,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,18310976.0
+ENKAI,2022/3,1AF,Stoklar,Inventories,308579739.0
+ENKAI,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ENKAI,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,261317762.0
+ENKAI,2022/3,1AI,(Ara Toplam),(Subtotal),4410626385.0
+ENKAI,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,20164422.0
+ENKAI,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,4238888601.0
+ENKAI,2022/3,1B,Ticari Alacaklar,Trade Receivables,8651277.0
+ENKAI,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ENKAI,2022/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+ENKAI,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ENKAI,2022/3,1BC,Finansal Yatırımlar,Financial Investments,1416716609.0
+ENKAI,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ENKAI,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ENKAI,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1907163774.0
+ENKAI,2022/3,1BFA,Stoklar,Stoklar,0.0
+ENKAI,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ENKAI,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,832349371.0
+ENKAI,2022/3,1BGA,Şerefiye,Goodwill,0.0
+ENKAI,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,57840488.0
+ENKAI,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,14805060.0
+ENKAI,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1362021.0
+ENKAI,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8669679408.0
+ENKAI,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ENKAI,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1652169127.0
+ENKAI,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,71028199.0
+ENKAI,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,340094316.0
+ENKAI,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,14013503.0
+ENKAI,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,1075966584.0
+ENKAI,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ENKAI,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ENKAI,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),42312408.0
+ENKAI,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,52368739.0
+ENKAI,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,56385379.0
+ENKAI,2022/3,2AAGG,(Ara Toplam),(Subtotal),1652169127.0
+ENKAI,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ENKAI,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,563136154.0
+ENKAI,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,95832032.0
+ENKAI,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ENKAI,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,24266035.0
+ENKAI,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,2388788.0
+ENKAI,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ENKAI,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ENKAI,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,10008729.0
+ENKAI,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ENKAI,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,430640570.0
+ENKAI,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ENKAI,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6454374126.0
+ENKAI,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6390416749.0
+ENKAI,2022/3,2OA,Ödenmiş Sermaye,Share Capital,383379752.0
+ENKAI,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ENKAI,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ENKAI,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ENKAI,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1483701163.0
+ENKAI,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,106422614.0
+ENKAI,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5098902854.0
+ENKAI,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-33522010.0
+ENKAI,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2318934702.0
+ENKAI,2022/3,2ODA,Azınlık Payları,Minority Interests,63957377.0
+ENKAI,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8669679408.0
+ENKAI,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ENKAI,2022/3,3C,Satış Gelirleri,Net Sales,820854307.0
+ENKAI,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-626931506.0
+ENKAI,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ENKAI,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,193922801.0
+ENKAI,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ENKAI,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ENKAI,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ENKAI,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),193922801.0
+ENKAI,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-6790175.0
+ENKAI,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-22039351.0
+ENKAI,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ENKAI,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,6415229.0
+ENKAI,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-10234036.0
+ENKAI,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ENKAI,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,161274468.0
+ENKAI,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,165093275.0
+ENKAI,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,69286234.0
+ENKAI,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-263663206.0
+ENKAI,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ENKAI,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ENKAI,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-33102504.0
+ENKAI,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),34700407.0
+ENKAI,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-9320253.0
+ENKAI,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-194376973.0
+ENKAI,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-7722350.0
+ENKAI,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-28074768.0
+ENKAI,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-41536600.0
+ENKAI,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,13461833.0
+ENKAI,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ENKAI,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-35797118.0
+ENKAI,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ENKAI,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ENKAI,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-35797118.0
+ENKAI,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ENKAI,2022/3,3LB,Azınlık Payları,Minority Interests,-617777.0
+ENKAI,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,-35179341.0
+ENKAI,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ENKAI,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ENKAI,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ENKAI,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ENKAI,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,24018283.0
+ENKAI,2022/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+ENKAI,2022/3,4BB,Finansman Giderleri,Financial Expenses,-9320253.0
+ENKAI,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,440030260.0
+ENKAI,2022/3,4BD,Yurtdışı Satışlar,Export Sales,380824047.0
+ENKAI,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,592139134.0
+ENKAI,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,405993719.0
+ENKAI,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),598092032.0
+ENKAI,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,20913440.0
+ENKAI,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-35797118.0
+ENKAI,2022/3,4CAA,Düzeltmeler:,Adjustments:,252234340.0
+ENKAI,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,24018283.0
+ENKAI,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,1616367.0
+ENKAI,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,226599689.0
+ENKAI,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),216437222.0
+ENKAI,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-168653864.0
+ENKAI,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),47783358.0
+ENKAI,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-26869917.0
+ENKAI,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-10482664.0
+ENKAI,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-301173381.0
+ENKAI,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-311656044.0
+ENKAI,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,-290742604.0
+ENKAI,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,12292909.0
+ENKAI,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,-78179440.0
+ENKAI,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ENKAI,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,3228512.0
+ENKAI,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-62658018.0
+ENKAI,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-353400622.0
+ENKAI,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,175650728.0
+ENKAI,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ENKAI,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-177749894.0
+ENKAI,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ENKAI,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1965774725.0
+ENKAI,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1788024831.0
+ENKAI,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,3768781408.0
+ENKAI,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1290759493.0
+ENKAI,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1499845010.0
+ENKAI,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,322205627.0
+ENKAI,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ENKAI,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,13683933.0
+ENKAI,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,18210156.0
+ENKAI,2022/6,1AF,Stoklar,Inventories,321016332.0
+ENKAI,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ENKAI,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,283514504.0
+ENKAI,2022/6,1AI,(Ara Toplam),(Subtotal),3749235055.0
+ENKAI,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,19546353.0
+ENKAI,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,4863211115.0
+ENKAI,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+ENKAI,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ENKAI,2022/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+ENKAI,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ENKAI,2022/6,1BC,Finansal Yatırımlar,Financial Investments,1585760392.0
+ENKAI,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ENKAI,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ENKAI,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,2420313155.0
+ENKAI,2022/6,1BFA,Stoklar,Stoklar,0.0
+ENKAI,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ENKAI,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,784844351.0
+ENKAI,2022/6,1BGA,Şerefiye,Goodwill,0.0
+ENKAI,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,56270175.0
+ENKAI,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,14718598.0
+ENKAI,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1304444.0
+ENKAI,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8631992523.0
+ENKAI,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ENKAI,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1654539763.0
+ENKAI,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,70996321.0
+ENKAI,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,262780174.0
+ENKAI,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,18015685.0
+ENKAI,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,1130831626.0
+ENKAI,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ENKAI,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ENKAI,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),43850126.0
+ENKAI,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,51495501.0
+ENKAI,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,76570330.0
+ENKAI,2022/6,2AAGG,(Ara Toplam),(Subtotal),1654539763.0
+ENKAI,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ENKAI,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,590685563.0
+ENKAI,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,134363984.0
+ENKAI,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ENKAI,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,26315048.0
+ENKAI,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,3172352.0
+ENKAI,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ENKAI,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ENKAI,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,9576009.0
+ENKAI,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ENKAI,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,417258169.0
+ENKAI,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ENKAI,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6386767197.0
+ENKAI,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6325361623.0
+ENKAI,2022/6,2OA,Ödenmiş Sermaye,Share Capital,360765963.0
+ENKAI,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ENKAI,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ENKAI,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ENKAI,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1043964856.0
+ENKAI,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,131223205.0
+ENKAI,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4807281534.0
+ENKAI,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-298189187.0
+ENKAI,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2368244964.0
+ENKAI,2022/6,2ODA,Azınlık Payları,Minority Interests,61405574.0
+ENKAI,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8631992523.0
+ENKAI,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ENKAI,2022/6,3C,Satış Gelirleri,Net Sales,1615265499.0
+ENKAI,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1210219897.0
+ENKAI,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ENKAI,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,405045602.0
+ENKAI,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ENKAI,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ENKAI,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ENKAI,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),405045602.0
+ENKAI,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-10788503.0
+ENKAI,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-53509441.0
+ENKAI,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ENKAI,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,21328729.0
+ENKAI,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-25801614.0
+ENKAI,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ENKAI,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,336274773.0
+ENKAI,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,340747658.0
+ENKAI,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,149493222.0
+ENKAI,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-865964921.0
+ENKAI,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ENKAI,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ENKAI,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-380196926.0
+ENKAI,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),86638792.0
+ENKAI,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-29170956.0
+ENKAI,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-716471699.0
+ENKAI,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-322729090.0
+ENKAI,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-11054111.0
+ENKAI,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-89119884.0
+ENKAI,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,78065773.0
+ENKAI,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ENKAI,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-333783201.0
+ENKAI,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ENKAI,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ENKAI,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-333783201.0
+ENKAI,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ENKAI,2022/6,3LB,Azınlık Payları,Minority Interests,557683.0
+ENKAI,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,-334340885.0
+ENKAI,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ENKAI,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ENKAI,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ENKAI,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ENKAI,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,45988174.0
+ENKAI,2022/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+ENKAI,2022/6,4BB,Finansman Giderleri,Financial Expenses,-29170956.0
+ENKAI,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,801068385.0
+ENKAI,2022/6,4BD,Yurtdışı Satışlar,Export Sales,814197115.0
+ENKAI,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,552948869.0
+ENKAI,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,336936107.0
+ENKAI,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),562853960.0
+ENKAI,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,48503190.0
+ENKAI,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-333783201.0
+ENKAI,2022/6,4CAA,Düzeltmeler:,Adjustments:,741076733.0
+ENKAI,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,45988174.0
+ENKAI,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,3233716.0
+ENKAI,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,691854843.0
+ENKAI,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),407293532.0
+ENKAI,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-285808810.0
+ENKAI,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),121484722.0
+ENKAI,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-72981532.0
+ENKAI,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-20485554.0
+ENKAI,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-578095531.0
+ENKAI,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-598581085.0
+ENKAI,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-550077896.0
+ENKAI,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,10093851.0
+ENKAI,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-260929234.0
+ENKAI,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ENKAI,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,4126533.0
+ENKAI,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-246708850.0
+ENKAI,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-796786745.0
+ENKAI,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,398044938.0
+ENKAI,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ENKAI,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-398741807.0
+ENKAI,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ENKAI,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1845989692.0
+ENKAI,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1447247885.0
+ENKAI,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,3411140626.0
+ENKAI,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1224069243.0
+ENKAI,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1194560616.0
+ENKAI,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,331248161.0
+ENKAI,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ENKAI,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,7018181.0
+ENKAI,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,37655791.0
+ENKAI,2022/9,1AF,Stoklar,Inventories,332229343.0
+ENKAI,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ENKAI,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,265865212.0
+ENKAI,2022/9,1AI,(Ara Toplam),(Subtotal),3392646547.0
+ENKAI,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,18494079.0
+ENKAI,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,5001389331.0
+ENKAI,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+ENKAI,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ENKAI,2022/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+ENKAI,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ENKAI,2022/9,1BC,Finansal Yatırımlar,Financial Investments,1944986336.0
+ENKAI,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ENKAI,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ENKAI,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,2254777680.0
+ENKAI,2022/9,1BFA,Stoklar,Stoklar,0.0
+ENKAI,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ENKAI,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,722644445.0
+ENKAI,2022/9,1BGA,Şerefiye,Goodwill,0.0
+ENKAI,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,56144803.0
+ENKAI,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,17353831.0
+ENKAI,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,5482237.0
+ENKAI,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8412529956.0
+ENKAI,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ENKAI,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1554983533.0
+ENKAI,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,65592035.0
+ENKAI,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,337066639.0
+ENKAI,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,16178600.0
+ENKAI,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,955880736.0
+ENKAI,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ENKAI,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ENKAI,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),64373952.0
+ENKAI,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,50444586.0
+ENKAI,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,65446984.0
+ENKAI,2022/9,2AAGG,(Ara Toplam),(Subtotal),1554983533.0
+ENKAI,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ENKAI,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,553852502.0
+ENKAI,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,122641534.0
+ENKAI,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ENKAI,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,25464449.0
+ENKAI,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,5122116.0
+ENKAI,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ENKAI,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ENKAI,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,11353000.0
+ENKAI,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ENKAI,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,389271403.0
+ENKAI,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ENKAI,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6303693921.0
+ENKAI,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6244467257.0
+ENKAI,2022/9,2OA,Ödenmiş Sermaye,Share Capital,324582608.0
+ENKAI,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ENKAI,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ENKAI,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ENKAI,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1215155050.0
+ENKAI,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,118062052.0
+ENKAI,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4780996814.0
+ENKAI,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-167331030.0
+ENKAI,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2403311862.0
+ENKAI,2022/9,2ODA,Azınlık Payları,Minority Interests,59226664.0
+ENKAI,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8412529956.0
+ENKAI,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ENKAI,2022/9,3C,Satış Gelirleri,Net Sales,2780324776.0
+ENKAI,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-2114656294.0
+ENKAI,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ENKAI,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,665668483.0
+ENKAI,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ENKAI,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ENKAI,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ENKAI,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),665668483.0
+ENKAI,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-16166903.0
+ENKAI,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-69717593.0
+ENKAI,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ENKAI,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,21465735.0
+ENKAI,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-32423292.0
+ENKAI,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ENKAI,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,568826431.0
+ENKAI,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,579783987.0
+ENKAI,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,201535671.0
+ENKAI,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-987724077.0
+ENKAI,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ENKAI,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ENKAI,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-217361975.0
+ENKAI,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),128904446.0
+ENKAI,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-40705573.0
+ENKAI,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-786188406.0
+ENKAI,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-129163101.0
+ENKAI,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-62280966.0
+ENKAI,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-146190739.0
+ENKAI,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,83909774.0
+ENKAI,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ENKAI,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-191444066.0
+ENKAI,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ENKAI,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ENKAI,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-191444066.0
+ENKAI,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ENKAI,2022/9,3LB,Azınlık Payları,Minority Interests,3636494.0
+ENKAI,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,-195080561.0
+ENKAI,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ENKAI,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ENKAI,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ENKAI,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ENKAI,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,69018924.0
+ENKAI,2022/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+ENKAI,2022/9,4BB,Finansman Giderleri,Financial Expenses,-40705573.0
+ENKAI,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,1520466214.0
+ENKAI,2022/9,4BD,Yurtdışı Satışlar,Export Sales,1259858563.0
+ENKAI,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,498573306.0
+ENKAI,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,275933362.0
+ENKAI,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),507420215.0
+ENKAI,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,140118646.0
+ENKAI,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-191444066.0
+ENKAI,2022/9,4CAA,Düzeltmeler:,Adjustments:,889424298.0
+ENKAI,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,69018924.0
+ENKAI,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,4819417.0
+ENKAI,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,815585957.0
+ENKAI,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),697980231.0
+ENKAI,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-448110381.0
+ENKAI,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),249869851.0
+ENKAI,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-109751204.0
+ENKAI,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-25534137.0
+ENKAI,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-783889235.0
+ENKAI,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-809423372.0
+ENKAI,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,-669304726.0
+ENKAI,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,7783259.0
+ENKAI,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-244443576.0
+ENKAI,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ENKAI,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,24263237.0
+ENKAI,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-212397080.0
+ENKAI,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-881701806.0
+ENKAI,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,581859255.0
+ENKAI,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ENKAI,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-299842551.0
+ENKAI,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ENKAI,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1726906703.0
+ENKAI,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1427064152.0
+ENKAI,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,4040352884.0
+ENKAI,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1227871474.0
+ENKAI,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1801666085.0
+ENKAI,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,362628063.0
+ENKAI,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ENKAI,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,13410701.0
+ENKAI,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,62412915.0
+ENKAI,2023/12,1AF,Stoklar,Inventories,285367515.0
+ENKAI,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ENKAI,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,272846806.0
+ENKAI,2023/12,1AI,(Ara Toplam),(Subtotal),4026203558.0
+ENKAI,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,14149325.0
+ENKAI,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,5350235222.0
+ENKAI,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+ENKAI,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ENKAI,2023/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+ENKAI,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ENKAI,2023/12,1BC,Finansal Yatırımlar,Financial Investments,2155764615.0
+ENKAI,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ENKAI,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ENKAI,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1818681238.0
+ENKAI,2023/12,1BFA,Stoklar,Stoklar,0.0
+ENKAI,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,59655661.0
+ENKAI,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1287318972.0
+ENKAI,2023/12,1BGA,Şerefiye,Goodwill,0.0
+ENKAI,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,14983809.0
+ENKAI,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,3220373.0
+ENKAI,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,10610553.0
+ENKAI,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9390588106.0
+ENKAI,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ENKAI,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1417501806.0
+ENKAI,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,4469623.0
+ENKAI,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,290298393.0
+ENKAI,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,17414017.0
+ENKAI,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,933012007.0
+ENKAI,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ENKAI,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ENKAI,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),34886933.0
+ENKAI,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,56782000.0
+ENKAI,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,80638832.0
+ENKAI,2023/12,2AAGG,(Ara Toplam),(Subtotal),1417501806.0
+ENKAI,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ENKAI,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,562977658.0
+ENKAI,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,117150482.0
+ENKAI,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ENKAI,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,22641457.0
+ENKAI,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,1075741.0
+ENKAI,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ENKAI,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ENKAI,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,18998789.0
+ENKAI,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ENKAI,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,403111189.0
+ENKAI,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ENKAI,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,7410108642.0
+ENKAI,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7312640541.0
+ENKAI,2023/12,2OA,Ödenmiş Sermaye,Share Capital,204185268.0
+ENKAI,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ENKAI,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ENKAI,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ENKAI,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1334174011.0
+ENKAI,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,82000590.0
+ENKAI,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5185933309.0
+ENKAI,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),575396235.0
+ENKAI,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2599299149.0
+ENKAI,2023/12,2ODA,Azınlık Payları,Minority Interests,97468101.0
+ENKAI,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9390588106.0
+ENKAI,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ENKAI,2023/12,3C,Satış Gelirleri,Net Sales,3219035011.0
+ENKAI,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2552751755.0
+ENKAI,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ENKAI,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,666283256.0
+ENKAI,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ENKAI,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ENKAI,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ENKAI,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),666283256.0
+ENKAI,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-24354120.0
+ENKAI,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-136258523.0
+ENKAI,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ENKAI,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,100405333.0
+ENKAI,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-62141461.0
+ENKAI,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ENKAI,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,543934485.0
+ENKAI,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,505670613.0
+ENKAI,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,571195203.0
+ENKAI,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-206427209.0
+ENKAI,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ENKAI,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ENKAI,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,908702480.0
+ENKAI,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),79039814.0
+ENKAI,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-93905982.0
+ENKAI,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,364767995.0
+ENKAI,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,893836312.0
+ENKAI,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-151594799.0
+ENKAI,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-168077642.0
+ENKAI,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,16482843.0
+ENKAI,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ENKAI,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,742241513.0
+ENKAI,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ENKAI,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ENKAI,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,742241513.0
+ENKAI,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ENKAI,2023/12,3LB,Azınlık Payları,Minority Interests,30104452.0
+ENKAI,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,712137061.0
+ENKAI,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ENKAI,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ENKAI,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ENKAI,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ENKAI,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,126379527.0
+ENKAI,2023/12,4BA,Kıdem Tazminatı,Severance Payments,8754042.0
+ENKAI,2023/12,4BB,Finansman Giderleri,Financial Expenses,-93905982.0
+ENKAI,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,1617983888.0
+ENKAI,2023/12,4BD,Yurtdışı Satışlar,Export Sales,1601051123.0
+ENKAI,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,870837752.0
+ENKAI,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,617597636.0
+ENKAI,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),873204368.0
+ENKAI,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,472494718.0
+ENKAI,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,742241513.0
+ENKAI,2023/12,4CAA,Düzeltmeler:,Adjustments:,-96888457.0
+ENKAI,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,126379527.0
+ENKAI,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,5208461.0
+ENKAI,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-228476445.0
+ENKAI,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),645353056.0
+ENKAI,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,25097976.0
+ENKAI,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),670451032.0
+ENKAI,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-197956314.0
+ENKAI,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-128775688.0
+ENKAI,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-72232136.0
+ENKAI,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-201007824.0
+ENKAI,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,271486894.0
+ENKAI,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-75051067.0
+ENKAI,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-102164358.0
+ENKAI,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ENKAI,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,30909370.0
+ENKAI,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-146306056.0
+ENKAI,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,125180838.0
+ENKAI,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,589157197.0
+ENKAI,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ENKAI,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,714338035.0
+ENKAI,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ENKAI,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,805332634.0
+ENKAI,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1519670669.0
+ENKAI,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,3506892869.0
+ENKAI,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1057330700.0
+ENKAI,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1468059131.0
+ENKAI,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,278249825.0
+ENKAI,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ENKAI,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,7385578.0
+ENKAI,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,27154598.0
+ENKAI,2023/3,1AF,Stoklar,Inventories,336097937.0
+ENKAI,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ENKAI,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,317627816.0
+ENKAI,2023/3,1AI,(Ara Toplam),(Subtotal),3491905586.0
+ENKAI,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,14987284.0
+ENKAI,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,5003394501.0
+ENKAI,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+ENKAI,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ENKAI,2023/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+ENKAI,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ENKAI,2023/3,1BC,Finansal Yatırımlar,Financial Investments,2172395950.0
+ENKAI,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ENKAI,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ENKAI,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1925581880.0
+ENKAI,2023/3,1BFA,Stoklar,Stoklar,0.0
+ENKAI,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,58959547.0
+ENKAI,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,803236327.0
+ENKAI,2023/3,1BGA,Şerefiye,Goodwill,0.0
+ENKAI,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,15904429.0
+ENKAI,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,22414242.0
+ENKAI,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,4902125.0
+ENKAI,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8510287370.0
+ENKAI,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ENKAI,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1321689928.0
+ENKAI,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,53093059.0
+ENKAI,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,334650090.0
+ENKAI,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,18152785.0
+ENKAI,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,743442031.0
+ENKAI,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ENKAI,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ENKAI,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),57947550.0
+ENKAI,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,51098823.0
+ENKAI,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,63305590.0
+ENKAI,2023/3,2AAGG,(Ara Toplam),(Subtotal),1321689928.0
+ENKAI,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ENKAI,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,515419329.0
+ENKAI,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,118015406.0
+ENKAI,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ENKAI,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,22700883.0
+ENKAI,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,2140058.0
+ENKAI,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ENKAI,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ENKAI,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,21175278.0
+ENKAI,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ENKAI,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,351387705.0
+ENKAI,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ENKAI,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6673178113.0
+ENKAI,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6596914133.0
+ENKAI,2023/3,2OA,Ödenmiş Sermaye,Share Capital,313829048.0
+ENKAI,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ENKAI,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ENKAI,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ENKAI,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1401876609.0
+ENKAI,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,114150606.0
+ENKAI,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4874437976.0
+ENKAI,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),198773387.0
+ENKAI,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2497599725.0
+ENKAI,2023/3,2ODA,Azınlık Payları,Minority Interests,76263980.0
+ENKAI,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8510287370.0
+ENKAI,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ENKAI,2023/3,3C,Satış Gelirleri,Net Sales,925666401.0
+ENKAI,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-744818084.0
+ENKAI,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ENKAI,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,180848316.0
+ENKAI,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ENKAI,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ENKAI,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ENKAI,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),180848316.0
+ENKAI,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-6301361.0
+ENKAI,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-68613470.0
+ENKAI,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ENKAI,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,21884919.0
+ENKAI,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-9269759.0
+ENKAI,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ENKAI,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,118548646.0
+ENKAI,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,105933485.0
+ENKAI,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,233050809.0
+ENKAI,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-103574603.0
+ENKAI,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ENKAI,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ENKAI,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,248024852.0
+ENKAI,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),10707434.0
+ENKAI,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-25215766.0
+ENKAI,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,129476206.0
+ENKAI,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,233516520.0
+ENKAI,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-22659781.0
+ENKAI,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-28995810.0
+ENKAI,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,6336029.0
+ENKAI,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ENKAI,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,210856739.0
+ENKAI,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ENKAI,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ENKAI,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,210856739.0
+ENKAI,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ENKAI,2023/3,3LB,Azınlık Payları,Minority Interests,8989189.0
+ENKAI,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,201867550.0
+ENKAI,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ENKAI,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ENKAI,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ENKAI,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ENKAI,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,19121034.0
+ENKAI,2023/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+ENKAI,2023/3,4BB,Finansman Giderleri,Financial Expenses,-25215766.0
+ENKAI,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,543235709.0
+ENKAI,2023/3,4BD,Yurtdışı Satışlar,Export Sales,382430692.0
+ENKAI,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,662600552.0
+ENKAI,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,380562926.0
+ENKAI,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),668886776.0
+ENKAI,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-81423881.0
+ENKAI,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,210856739.0
+ENKAI,2023/3,4CAA,Düzeltmeler:,Adjustments:,-155173032.0
+ENKAI,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,19121034.0
+ENKAI,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,2651943.0
+ENKAI,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-176946009.0
+ENKAI,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),55683707.0
+ENKAI,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-105772214.0
+ENKAI,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-50088507.0
+ENKAI,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-31335373.0
+ENKAI,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-8664425.0
+ENKAI,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,118825616.0
+ENKAI,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,110161192.0
+ENKAI,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,28737311.0
+ENKAI,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-8861792.0
+ENKAI,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,-8710842.0
+ENKAI,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ENKAI,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,4610321.0
+ENKAI,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-12962313.0
+ENKAI,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,15774998.0
+ENKAI,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,42337139.0
+ENKAI,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ENKAI,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,58112136.0
+ENKAI,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ENKAI,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1015677273.0
+ENKAI,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1073789409.0
+ENKAI,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,3537929848.0
+ENKAI,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1089329638.0
+ENKAI,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1522303128.0
+ENKAI,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,310694444.0
+ENKAI,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ENKAI,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,7580249.0
+ENKAI,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,23861366.0
+ENKAI,2023/6,1AF,Stoklar,Inventories,287734290.0
+ENKAI,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ENKAI,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,281887428.0
+ENKAI,2023/6,1AI,(Ara Toplam),(Subtotal),3523390543.0
+ENKAI,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,14539305.0
+ENKAI,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,4770337500.0
+ENKAI,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+ENKAI,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ENKAI,2023/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+ENKAI,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ENKAI,2023/6,1BC,Finansal Yatırımlar,Financial Investments,2112224542.0
+ENKAI,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ENKAI,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ENKAI,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1826735125.0
+ENKAI,2023/6,1BFA,Stoklar,Stoklar,0.0
+ENKAI,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,58267117.0
+ENKAI,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,730080442.0
+ENKAI,2023/6,1BGA,Şerefiye,Goodwill,0.0
+ENKAI,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,15337346.0
+ENKAI,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,23312653.0
+ENKAI,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,4380276.0
+ENKAI,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8308267349.0
+ENKAI,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ENKAI,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1338963223.0
+ENKAI,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,30510638.0
+ENKAI,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,312345997.0
+ENKAI,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,17573986.0
+ENKAI,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,831293449.0
+ENKAI,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ENKAI,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ENKAI,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),28406469.0
+ENKAI,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,55464831.0
+ENKAI,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,63367853.0
+ENKAI,2023/6,2AAGG,(Ara Toplam),(Subtotal),1338963223.0
+ENKAI,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ENKAI,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,511277020.0
+ENKAI,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,107436451.0
+ENKAI,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ENKAI,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,22911680.0
+ENKAI,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,2071466.0
+ENKAI,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ENKAI,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ENKAI,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,15462860.0
+ENKAI,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ENKAI,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,363394564.0
+ENKAI,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ENKAI,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6458027105.0
+ENKAI,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6381235002.0
+ENKAI,2023/6,2OA,Ödenmiş Sermaye,Share Capital,232770858.0
+ENKAI,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ENKAI,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ENKAI,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ENKAI,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1469717854.0
+ENKAI,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,93480533.0
+ENKAI,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4715958306.0
+ENKAI,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),242449400.0
+ENKAI,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2566293758.0
+ENKAI,2023/6,2ODA,Azınlık Payları,Minority Interests,76792103.0
+ENKAI,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8308267349.0
+ENKAI,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ENKAI,2023/6,3C,Satış Gelirleri,Net Sales,1635305786.0
+ENKAI,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1271982887.0
+ENKAI,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ENKAI,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,363322900.0
+ENKAI,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ENKAI,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ENKAI,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ENKAI,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),363322900.0
+ENKAI,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-13121182.0
+ENKAI,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-91442228.0
+ENKAI,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ENKAI,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,56356892.0
+ENKAI,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-40786467.0
+ENKAI,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ENKAI,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,274329915.0
+ENKAI,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,258759490.0
+ENKAI,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,294346826.0
+ENKAI,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-129464009.0
+ENKAI,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ENKAI,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ENKAI,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,439212732.0
+ENKAI,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),37583567.0
+ENKAI,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-36050852.0
+ENKAI,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,164882816.0
+ENKAI,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,440745447.0
+ENKAI,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-113757125.0
+ENKAI,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-93177106.0
+ENKAI,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-20580019.0
+ENKAI,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ENKAI,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,326988322.0
+ENKAI,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ENKAI,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ENKAI,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,326988322.0
+ENKAI,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ENKAI,2023/6,3LB,Azınlık Payları,Minority Interests,10230088.0
+ENKAI,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,316758234.0
+ENKAI,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ENKAI,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ENKAI,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ENKAI,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ENKAI,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,46813595.0
+ENKAI,2023/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+ENKAI,2023/6,4BB,Finansman Giderleri,Financial Expenses,-36050852.0
+ENKAI,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,846116933.0
+ENKAI,2023/6,4BD,Yurtdışı Satışlar,Export Sales,789188853.0
+ENKAI,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,858667886.0
+ENKAI,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,540103362.0
+ENKAI,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),875410081.0
+ENKAI,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,221382783.0
+ENKAI,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,326988322.0
+ENKAI,2023/6,4CAA,Düzeltmeler:,Adjustments:,-2093652.0
+ENKAI,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,46813595.0
+ENKAI,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,2317279.0
+ENKAI,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-51224526.0
+ENKAI,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),324894670.0
+ENKAI,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,25633449.0
+ENKAI,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),350528119.0
+ENKAI,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-129145335.0
+ENKAI,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-40513599.0
+ENKAI,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,89368777.0
+ENKAI,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,48855178.0
+ENKAI,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,270237961.0
+ENKAI,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-40606676.0
+ENKAI,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-121275859.0
+ENKAI,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ENKAI,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,10128223.0
+ENKAI,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-151754312.0
+ENKAI,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,118483649.0
+ENKAI,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,335569790.0
+ENKAI,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ENKAI,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,454053439.0
+ENKAI,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ENKAI,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,969147165.0
+ENKAI,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1423200604.0
+ENKAI,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,3633312514.0
+ENKAI,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1123012215.0
+ENKAI,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1602496135.0
+ENKAI,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,299835266.0
+ENKAI,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ENKAI,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,8039051.0
+ENKAI,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,28601692.0
+ENKAI,2023/9,1AF,Stoklar,Inventories,291829104.0
+ENKAI,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ENKAI,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,265358455.0
+ENKAI,2023/9,1AI,(Ara Toplam),(Subtotal),3619171917.0
+ENKAI,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,14140597.0
+ENKAI,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,4667121345.0
+ENKAI,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+ENKAI,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ENKAI,2023/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+ENKAI,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ENKAI,2023/9,1BC,Finansal Yatırımlar,Financial Investments,2112262853.0
+ENKAI,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ENKAI,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ENKAI,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1737848574.0
+ENKAI,2023/9,1BFA,Stoklar,Stoklar,0.0
+ENKAI,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,57782907.0
+ENKAI,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,714209509.0
+ENKAI,2023/9,1BGA,Şerefiye,Goodwill,0.0
+ENKAI,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,15181543.0
+ENKAI,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,25646467.0
+ENKAI,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,4189492.0
+ENKAI,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8300433858.0
+ENKAI,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ENKAI,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1322338511.0
+ENKAI,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,21077955.0
+ENKAI,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,337623678.0
+ENKAI,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,17573653.0
+ENKAI,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,789305805.0
+ENKAI,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ENKAI,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ENKAI,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),46282579.0
+ENKAI,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,59759352.0
+ENKAI,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,50715489.0
+ENKAI,2023/9,2AAGG,(Ara Toplam),(Subtotal),1322338511.0
+ENKAI,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ENKAI,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,489588930.0
+ENKAI,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,98966893.0
+ENKAI,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ENKAI,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,22880515.0
+ENKAI,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,1308649.0
+ENKAI,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ENKAI,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ENKAI,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,14594946.0
+ENKAI,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ENKAI,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,351837928.0
+ENKAI,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ENKAI,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6488506417.0
+ENKAI,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6406530336.0
+ENKAI,2023/9,2OA,Ödenmiş Sermaye,Share Capital,219561329.0
+ENKAI,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ENKAI,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ENKAI,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ENKAI,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1554522497.0
+ENKAI,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,88175600.0
+ENKAI,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4710162546.0
+ENKAI,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),365580362.0
+ENKAI,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2577572996.0
+ENKAI,2023/9,2ODA,Azınlık Payları,Minority Interests,81976081.0
+ENKAI,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8300433858.0
+ENKAI,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ENKAI,2023/9,3C,Satış Gelirleri,Net Sales,2508067438.0
+ENKAI,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1961490507.0
+ENKAI,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ENKAI,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,546576931.0
+ENKAI,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ENKAI,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ENKAI,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ENKAI,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),546576931.0
+ENKAI,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-20657325.0
+ENKAI,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-115827936.0
+ENKAI,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ENKAI,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,78861915.0
+ENKAI,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-51749691.0
+ENKAI,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ENKAI,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,437203894.0
+ENKAI,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,410091670.0
+ENKAI,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,323981575.0
+ENKAI,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-131782517.0
+ENKAI,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ENKAI,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ENKAI,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,629402952.0
+ENKAI,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),59145535.0
+ENKAI,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-61431184.0
+ENKAI,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,192199058.0
+ENKAI,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,627117304.0
+ENKAI,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-157836358.0
+ENKAI,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-142053407.0
+ENKAI,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-15782951.0
+ENKAI,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ENKAI,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,469280946.0
+ENKAI,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ENKAI,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ENKAI,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,469280946.0
+ENKAI,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ENKAI,2023/9,3LB,Azınlık Payları,Minority Interests,17619704.0
+ENKAI,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,451661242.0
+ENKAI,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ENKAI,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ENKAI,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ENKAI,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ENKAI,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,64076849.0
+ENKAI,2023/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+ENKAI,2023/9,4BB,Finansman Giderleri,Financial Expenses,-61431184.0
+ENKAI,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,595053630.0
+ENKAI,2023/9,4BD,Yurtdışı Satışlar,Export Sales,454369567.0
+ENKAI,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,862660026.0
+ENKAI,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,555304775.0
+ENKAI,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),867406286.0
+ENKAI,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,317445366.0
+ENKAI,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,469280946.0
+ENKAI,2023/9,4CAA,Düzeltmeler:,Adjustments:,-10969030.0
+ENKAI,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,64076849.0
+ENKAI,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,2499802.0
+ENKAI,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-77545682.0
+ENKAI,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),458311915.0
+ENKAI,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,18733496.0
+ENKAI,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),477045411.0
+ENKAI,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-159600044.0
+ENKAI,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-64659939.0
+ENKAI,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,48691214.0
+ENKAI,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-15968726.0
+ENKAI,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,301476641.0
+ENKAI,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-47689950.0
+ENKAI,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-108814273.0
+ENKAI,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ENKAI,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,24823512.0
+ENKAI,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-131680711.0
+ENKAI,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,169795930.0
+ENKAI,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,353194304.0
+ENKAI,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ENKAI,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,522990234.0
+ENKAI,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ENKAI,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,864450516.0
+ENKAI,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1387440750.0
+ENKAI,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,5668300655.0
+ENKAI,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1501650643.0
+ENKAI,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2673751703.0
+ENKAI,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,549891762.0
+ENKAI,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ENKAI,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,5617889.0
+ENKAI,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,90854810.0
+ENKAI,2024/12,1AF,Stoklar,Inventories,488381055.0
+ENKAI,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ENKAI,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,338685723.0
+ENKAI,2024/12,1AI,(Ara Toplam),(Subtotal),5648833585.0
+ENKAI,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,19467070.0
+ENKAI,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,7232128762.0
+ENKAI,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+ENKAI,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ENKAI,2024/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+ENKAI,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ENKAI,2024/12,1BC,Finansal Yatırımlar,Financial Investments,2735513420.0
+ENKAI,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ENKAI,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ENKAI,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,2270152253.0
+ENKAI,2024/12,1BFA,Stoklar,Stoklar,0.0
+ENKAI,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,51198657.0
+ENKAI,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2109128447.0
+ENKAI,2024/12,1BGA,Şerefiye,Goodwill,0.0
+ENKAI,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,61807000.0
+ENKAI,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,3289422.0
+ENKAI,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1039563.0
+ENKAI,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,12900429417.0
+ENKAI,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ENKAI,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1951108026.0
+ENKAI,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,5403965.0
+ENKAI,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,445999817.0
+ENKAI,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,27598960.0
+ENKAI,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,1257890253.0
+ENKAI,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ENKAI,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ENKAI,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),41291140.0
+ENKAI,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,67386420.0
+ENKAI,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,105537473.0
+ENKAI,2024/12,2AAGG,(Ara Toplam),(Subtotal),1951108026.0
+ENKAI,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ENKAI,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,897864558.0
+ENKAI,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,140193128.0
+ENKAI,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ENKAI,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,32030151.0
+ENKAI,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ENKAI,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ENKAI,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ENKAI,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,25426748.0
+ENKAI,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ENKAI,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,700214530.0
+ENKAI,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ENKAI,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,10051456833.0
+ENKAI,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,9916103013.0
+ENKAI,2024/12,2OA,Ödenmiş Sermaye,Share Capital,170374691.0
+ENKAI,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ENKAI,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ENKAI,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ENKAI,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1859781362.0
+ENKAI,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,122478015.0
+ENKAI,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),7146439044.0
+ENKAI,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),876240111.0
+ENKAI,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,3417026933.0
+ENKAI,2024/12,2ODA,Azınlık Payları,Minority Interests,135353820.0
+ENKAI,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,12900429417.0
+ENKAI,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ENKAI,2024/12,3C,Satış Gelirleri,Net Sales,3836213064.0
+ENKAI,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-2871173583.0
+ENKAI,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ENKAI,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,965039481.0
+ENKAI,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ENKAI,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ENKAI,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ENKAI,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),965039481.0
+ENKAI,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-38154753.0
+ENKAI,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-210778647.0
+ENKAI,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ENKAI,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,65270723.0
+ENKAI,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-44571945.0
+ENKAI,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ENKAI,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,736804859.0
+ENKAI,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,716106081.0
+ENKAI,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,736827370.0
+ENKAI,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-79513085.0
+ENKAI,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ENKAI,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ENKAI,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1394119144.0
+ENKAI,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),76993025.0
+ENKAI,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-138812464.0
+ENKAI,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,657314285.0
+ENKAI,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1332299705.0
+ENKAI,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-334581556.0
+ENKAI,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-172095859.0
+ENKAI,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-162485696.0
+ENKAI,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ENKAI,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,997718150.0
+ENKAI,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ENKAI,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,997718150.0
+ENKAI,2024/12,3LB,Azınlık Payları,Minority Interests,55624350.0
+ENKAI,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,942093799.0
+ENKAI,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ENKAI,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ENKAI,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ENKAI,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ENKAI,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,158482911.0
+ENKAI,2024/12,4BA,Kıdem Tazminatı,Severance Payments,6149073.0
+ENKAI,2024/12,4BB,Finansman Giderleri,Financial Expenses,-138812464.0
+ENKAI,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,1463886003.0
+ENKAI,2024/12,4BD,Yurtdışı Satışlar,Export Sales,2372327061.0
+ENKAI,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,764682528.0
+ENKAI,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,522938053.0
+ENKAI,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),772661541.0
+ENKAI,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,593121457.0
+ENKAI,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,997718150.0
+ENKAI,2024/12,4CAA,Düzeltmeler:,Adjustments:,-194329101.0
+ENKAI,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,158482911.0
+ENKAI,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,7372149.0
+ENKAI,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-360184162.0
+ENKAI,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),803389049.0
+ENKAI,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-32564774.0
+ENKAI,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),770824275.0
+ENKAI,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-177702818.0
+ENKAI,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-316345375.0
+ENKAI,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,71247829.0
+ENKAI,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-245097547.0
+ENKAI,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,348023910.0
+ENKAI,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-96266.0
+ENKAI,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-433306916.0
+ENKAI,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ENKAI,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,47600809.0
+ENKAI,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-385802373.0
+ENKAI,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-200921885.0
+ENKAI,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,433757991.0
+ENKAI,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ENKAI,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,232836106.0
+ENKAI,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ENKAI,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1381670856.0
+ENKAI,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1614506962.0
+ENKAI,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,4249053723.0
+ENKAI,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1227447347.0
+ENKAI,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2025791285.0
+ENKAI,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,283699619.0
+ENKAI,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ENKAI,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,16002300.0
+ENKAI,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,46517518.0
+ENKAI,2024/3,1AF,Stoklar,Inventories,367487695.0
+ENKAI,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ENKAI,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,267964049.0
+ENKAI,2024/3,1AI,(Ara Toplam),(Subtotal),4234909812.0
+ENKAI,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,14143911.0
+ENKAI,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,5274717038.0
+ENKAI,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+ENKAI,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ENKAI,2024/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+ENKAI,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ENKAI,2024/3,1BC,Finansal Yatırımlar,Financial Investments,2045127537.0
+ENKAI,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ENKAI,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ENKAI,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1798548430.0
+ENKAI,2024/3,1BFA,Stoklar,Stoklar,0.0
+ENKAI,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,59142056.0
+ENKAI,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1350755327.0
+ENKAI,2024/3,1BGA,Şerefiye,Goodwill,0.0
+ENKAI,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,15218683.0
+ENKAI,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,2359014.0
+ENKAI,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3565991.0
+ENKAI,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9523770761.0
+ENKAI,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ENKAI,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1489695581.0
+ENKAI,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,5704714.0
+ENKAI,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,295585989.0
+ENKAI,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,17248853.0
+ENKAI,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,1002590064.0
+ENKAI,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ENKAI,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ENKAI,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),37555467.0
+ENKAI,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,46019862.0
+ENKAI,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,84990632.0
+ENKAI,2024/3,2AAGG,(Ara Toplam),(Subtotal),1489695581.0
+ENKAI,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ENKAI,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,575276964.0
+ENKAI,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,112928895.0
+ENKAI,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ENKAI,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,23048455.0
+ENKAI,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ENKAI,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ENKAI,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ENKAI,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,18850159.0
+ENKAI,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ENKAI,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,420449455.0
+ENKAI,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ENKAI,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,7458798217.0
+ENKAI,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7359170655.0
+ENKAI,2024/3,2OA,Ödenmiş Sermaye,Share Capital,186178688.0
+ENKAI,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ENKAI,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ENKAI,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ENKAI,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1514267243.0
+ENKAI,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,74769166.0
+ENKAI,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5849516133.0
+ENKAI,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),145060568.0
+ENKAI,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2617913343.0
+ENKAI,2024/3,2ODA,Azınlık Payları,Minority Interests,99627562.0
+ENKAI,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9523770761.0
+ENKAI,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ENKAI,2024/3,3C,Satış Gelirleri,Net Sales,588670467.0
+ENKAI,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-449000019.0
+ENKAI,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ENKAI,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,139670448.0
+ENKAI,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ENKAI,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ENKAI,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ENKAI,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),139670448.0
+ENKAI,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-7626996.0
+ENKAI,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-63450912.0
+ENKAI,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ENKAI,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,20369587.0
+ENKAI,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-11863114.0
+ENKAI,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ENKAI,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,77099014.0
+ENKAI,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,68592541.0
+ENKAI,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,141430663.0
+ENKAI,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-24052030.0
+ENKAI,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ENKAI,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ENKAI,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,194477647.0
+ENKAI,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),15448465.0
+ENKAI,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-13985953.0
+ENKAI,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,117378633.0
+ENKAI,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,195940159.0
+ENKAI,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-39469973.0
+ENKAI,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-24246633.0
+ENKAI,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-15223339.0
+ENKAI,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ENKAI,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,156470187.0
+ENKAI,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ENKAI,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ENKAI,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,156470187.0
+ENKAI,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ENKAI,2024/3,3LB,Azınlık Payları,Minority Interests,4928938.0
+ENKAI,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,151541249.0
+ENKAI,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ENKAI,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ENKAI,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ENKAI,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ENKAI,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,27604889.0
+ENKAI,2024/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+ENKAI,2024/3,4BB,Finansman Giderleri,Financial Expenses,-13985953.0
+ENKAI,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,178090564.0
+ENKAI,2024/3,4BD,Yurtdışı Satışlar,Export Sales,410579903.0
+ENKAI,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,613290836.0
+ENKAI,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,326101596.0
+ENKAI,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),540222128.0
+ENKAI,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,176120953.0
+ENKAI,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,156470187.0
+ENKAI,2024/3,4CAA,Düzeltmeler:,Adjustments:,-53605342.0
+ENKAI,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,27604889.0
+ENKAI,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,798277.0
+ENKAI,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-82008508.0
+ENKAI,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),102864845.0
+ENKAI,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,95587845.0
+ENKAI,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),198452690.0
+ENKAI,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-22331737.0
+ENKAI,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-66480619.0
+ENKAI,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-3427150.0
+ENKAI,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-69907768.0
+ENKAI,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,106213184.0
+ENKAI,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-30038.0
+ENKAI,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,-95086107.0
+ENKAI,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ENKAI,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,5814617.0
+ENKAI,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-89301529.0
+ENKAI,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,16911656.0
+ENKAI,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,95765749.0
+ENKAI,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ENKAI,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,112677405.0
+ENKAI,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ENKAI,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1169606995.0
+ENKAI,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1282284400.0
+ENKAI,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,4138827075.0
+ENKAI,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1126335992.0
+ENKAI,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1922959012.0
+ENKAI,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,344476833.0
+ENKAI,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ENKAI,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,5258672.0
+ENKAI,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,56976643.0
+ENKAI,2024/6,1AF,Stoklar,Inventories,393575701.0
+ENKAI,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ENKAI,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,275430846.0
+ENKAI,2024/6,1AI,(Ara Toplam),(Subtotal),4125013699.0
+ENKAI,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,13813376.0
+ENKAI,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,5453835696.0
+ENKAI,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+ENKAI,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ENKAI,2024/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+ENKAI,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ENKAI,2024/6,1BC,Finansal Yatırımlar,Financial Investments,2067530568.0
+ENKAI,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ENKAI,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ENKAI,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1863268330.0
+ENKAI,2024/6,1BFA,Stoklar,Stoklar,0.0
+ENKAI,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,58501306.0
+ENKAI,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1445899080.0
+ENKAI,2024/6,1BGA,Şerefiye,Goodwill,0.0
+ENKAI,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,14836660.0
+ENKAI,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,2889802.0
+ENKAI,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,909951.0
+ENKAI,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9592662770.0
+ENKAI,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ENKAI,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1476359680.0
+ENKAI,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,5965735.0
+ENKAI,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,293336111.0
+ENKAI,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,19100571.0
+ENKAI,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,1004283829.0
+ENKAI,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ENKAI,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ENKAI,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),16616452.0
+ENKAI,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,44438123.0
+ENKAI,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,92618860.0
+ENKAI,2024/6,2AAGG,(Ara Toplam),(Subtotal),1476359680.0
+ENKAI,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ENKAI,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,602890319.0
+ENKAI,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,120299374.0
+ENKAI,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ENKAI,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,23755569.0
+ENKAI,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ENKAI,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ENKAI,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ENKAI,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,18608101.0
+ENKAI,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ENKAI,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,440227275.0
+ENKAI,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ENKAI,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,7513412771.0
+ENKAI,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7434524727.0
+ENKAI,2024/6,2OA,Ödenmiş Sermaye,Share Capital,183111877.0
+ENKAI,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ENKAI,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ENKAI,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ENKAI,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1452419774.0
+ENKAI,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,73537538.0
+ENKAI,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5668963367.0
+ENKAI,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),336137089.0
+ENKAI,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2625194631.0
+ENKAI,2024/6,2ODA,Azınlık Payları,Minority Interests,78888044.0
+ENKAI,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9592662770.0
+ENKAI,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ENKAI,2024/6,3C,Satış Gelirleri,Net Sales,1325207390.0
+ENKAI,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-992346585.0
+ENKAI,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ENKAI,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,332860805.0
+ENKAI,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ENKAI,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ENKAI,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ENKAI,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),332860805.0
+ENKAI,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-15915600.0
+ENKAI,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-87942640.0
+ENKAI,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ENKAI,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,31267541.0
+ENKAI,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-18274976.0
+ENKAI,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ENKAI,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,241995130.0
+ENKAI,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,229002564.0
+ENKAI,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,230173271.0
+ENKAI,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-35518199.0
+ENKAI,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ENKAI,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ENKAI,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,436650202.0
+ENKAI,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),27576812.0
+ENKAI,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-36259299.0
+ENKAI,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,194655072.0
+ENKAI,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,427967714.0
+ENKAI,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-67249469.0
+ENKAI,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-47202432.0
+ENKAI,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-20047037.0
+ENKAI,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ENKAI,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,360718245.0
+ENKAI,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ENKAI,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ENKAI,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,360718245.0
+ENKAI,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ENKAI,2024/6,3LB,Azınlık Payları,Minority Interests,11151691.0
+ENKAI,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,349566554.0
+ENKAI,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ENKAI,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ENKAI,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ENKAI,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ENKAI,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,53518397.0
+ENKAI,2024/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+ENKAI,2024/6,4BB,Finansman Giderleri,Financial Expenses,-36259299.0
+ENKAI,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,417547983.0
+ENKAI,2024/6,4BD,Yurtdışı Satışlar,Export Sales,907659407.0
+ENKAI,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,448083248.0
+ENKAI,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,245203157.0
+ENKAI,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),450426812.0
+ENKAI,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,207645171.0
+ENKAI,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,360718245.0
+ENKAI,2024/6,4CAA,Düzeltmeler:,Adjustments:,-95793585.0
+ENKAI,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,53518397.0
+ENKAI,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,3320828.0
+ENKAI,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-152632810.0
+ENKAI,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),264924660.0
+ENKAI,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,9339531.0
+ENKAI,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),274264192.0
+ENKAI,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-66619021.0
+ENKAI,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-138009098.0
+ENKAI,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,172216150.0
+ENKAI,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,34207052.0
+ENKAI,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,241852223.0
+ENKAI,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-60369.0
+ENKAI,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-357001805.0
+ENKAI,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ENKAI,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,14954400.0
+ENKAI,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-342107774.0
+ENKAI,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-134711829.0
+ENKAI,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,160907953.0
+ENKAI,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ENKAI,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,26196124.0
+ENKAI,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ENKAI,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1145139664.0
+ENKAI,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1171335788.0
+ENKAI,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,4422103650.0
+ENKAI,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1124182111.0
+ENKAI,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2060561545.0
+ENKAI,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,399388722.0
+ENKAI,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ENKAI,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,5574490.0
+ENKAI,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,76703606.0
+ENKAI,2024/9,1AF,Stoklar,Inventories,441201521.0
+ENKAI,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ENKAI,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,300669056.0
+ENKAI,2024/9,1AI,(Ara Toplam),(Subtotal),4408281050.0
+ENKAI,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,13822599.0
+ENKAI,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,5532961720.0
+ENKAI,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+ENKAI,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ENKAI,2024/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+ENKAI,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ENKAI,2024/9,1BC,Finansal Yatırımlar,Financial Investments,2130262561.0
+ENKAI,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ENKAI,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ENKAI,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1798655423.0
+ENKAI,2024/9,1BFA,Stoklar,Stoklar,0.0
+ENKAI,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,57995231.0
+ENKAI,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1527117531.0
+ENKAI,2024/9,1BGA,Şerefiye,Goodwill,0.0
+ENKAI,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,14960901.0
+ENKAI,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,3012389.0
+ENKAI,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,957683.0
+ENKAI,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9955065370.0
+ENKAI,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ENKAI,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1543730944.0
+ENKAI,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,5087399.0
+ENKAI,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,343815373.0
+ENKAI,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,15290339.0
+ENKAI,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,1030685819.0
+ENKAI,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ENKAI,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ENKAI,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),20975382.0
+ENKAI,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,44467491.0
+ENKAI,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,83409142.0
+ENKAI,2024/9,2AAGG,(Ara Toplam),(Subtotal),1543730944.0
+ENKAI,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ENKAI,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,647511036.0
+ENKAI,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,112887325.0
+ENKAI,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ENKAI,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,25219250.0
+ENKAI,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ENKAI,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ENKAI,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ENKAI,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,18428289.0
+ENKAI,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ENKAI,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,490976172.0
+ENKAI,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ENKAI,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,7763823389.0
+ENKAI,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7668739999.0
+ENKAI,2024/9,2OA,Ödenmiş Sermaye,Share Capital,176162920.0
+ENKAI,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ENKAI,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ENKAI,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ENKAI,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1425668017.0
+ENKAI,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,70746844.0
+ENKAI,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5706917370.0
+ENKAI,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),507882133.0
+ENKAI,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2632698749.0
+ENKAI,2024/9,2ODA,Azınlık Payları,Minority Interests,95083391.0
+ENKAI,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9955065370.0
+ENKAI,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ENKAI,2024/9,3C,Satış Gelirleri,Net Sales,2132756599.0
+ENKAI,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-1619145291.0
+ENKAI,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ENKAI,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,513611307.0
+ENKAI,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ENKAI,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ENKAI,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ENKAI,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),513611307.0
+ENKAI,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-27585378.0
+ENKAI,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-120298110.0
+ENKAI,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ENKAI,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,36849721.0
+ENKAI,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-25605173.0
+ENKAI,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ENKAI,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,376972367.0
+ENKAI,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,365727819.0
+ENKAI,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,388203656.0
+ENKAI,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-40799226.0
+ENKAI,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ENKAI,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ENKAI,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,724376797.0
+ENKAI,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),42579213.0
+ENKAI,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-63595756.0
+ENKAI,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,347404430.0
+ENKAI,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,703360254.0
+ENKAI,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-142176363.0
+ENKAI,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-70285533.0
+ENKAI,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-71890830.0
+ENKAI,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ENKAI,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,561183891.0
+ENKAI,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ENKAI,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ENKAI,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,561183891.0
+ENKAI,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ENKAI,2024/9,3LB,Azınlık Payları,Minority Interests,23368494.0
+ENKAI,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,537815397.0
+ENKAI,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ENKAI,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ENKAI,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ENKAI,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ENKAI,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,92195415.0
+ENKAI,2024/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+ENKAI,2024/9,4BB,Finansman Giderleri,Financial Expenses,-63595756.0
+ENKAI,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,770776580.0
+ENKAI,2024/9,4BD,Yurtdışı Satışlar,Export Sales,1361980019.0
+ENKAI,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,568043556.0
+ENKAI,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,337190025.0
+ENKAI,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),568043556.0
+ENKAI,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,255895818.0
+ENKAI,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,561183891.0
+ENKAI,2024/9,4CAA,Düzeltmeler:,Adjustments:,-140228222.0
+ENKAI,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,92195415.0
+ENKAI,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,4398234.0
+ENKAI,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-236821871.0
+ENKAI,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),420955669.0
+ENKAI,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-78476053.0
+ENKAI,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),342479616.0
+ENKAI,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-86583798.0
+ENKAI,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-166534634.0
+ENKAI,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,113670074.0
+ENKAI,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-52864560.0
+ENKAI,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,203031258.0
+ENKAI,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-93061.0
+ENKAI,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-350823978.0
+ENKAI,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ENKAI,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,26833891.0
+ENKAI,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-324083147.0
+ENKAI,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-213732280.0
+ENKAI,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,282376301.0
+ENKAI,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ENKAI,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,68644021.0
+ENKAI,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ENKAI,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1121794486.0
+ENKAI,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1190438507.0
+ENKAI,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,4445781988.0
+ENKAI,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1096471030.0
+ENKAI,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2171971840.0
+ENKAI,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,351780635.0
+ENKAI,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ENKAI,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,12771920.0
+ENKAI,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,107473179.0
+ENKAI,2025/3,1AF,Stoklar,Inventories,417547874.0
+ENKAI,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ENKAI,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,272238295.0
+ENKAI,2025/3,1AI,(Ara Toplam),(Subtotal),4430254773.0
+ENKAI,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,15527215.0
+ENKAI,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,6090622223.0
+ENKAI,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+ENKAI,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ENKAI,2025/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+ENKAI,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ENKAI,2025/3,1BC,Finansal Yatırımlar,Financial Investments,2275042541.0
+ENKAI,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ENKAI,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ENKAI,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1983244911.0
+ENKAI,2025/3,1BFA,Stoklar,Stoklar,0.0
+ENKAI,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,40467705.0
+ENKAI,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1773141274.0
+ENKAI,2025/3,1BGA,Şerefiye,Goodwill,0.0
+ENKAI,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,14938692.0
+ENKAI,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,2631860.0
+ENKAI,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1155240.0
+ENKAI,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,10536404211.0
+ENKAI,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+ENKAI,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1484976648.0
+ENKAI,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,5229755.0
+ENKAI,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,278443108.0
+ENKAI,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,25164285.0
+ENKAI,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,995208029.0
+ENKAI,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ENKAI,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ENKAI,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),43544644.0
+ENKAI,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,44564766.0
+ENKAI,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,92822061.0
+ENKAI,2025/3,2AAGG,(Ara Toplam),(Subtotal),1484976648.0
+ENKAI,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ENKAI,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,765442687.0
+ENKAI,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,129341196.0
+ENKAI,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ENKAI,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,27745370.0
+ENKAI,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ENKAI,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ENKAI,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ENKAI,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,19746945.0
+ENKAI,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ENKAI,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,588609176.0
+ENKAI,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ENKAI,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,8285984876.0
+ENKAI,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,8198828637.0
+ENKAI,2025/3,2OA,Ödenmiş Sermaye,Share Capital,159162043.0
+ENKAI,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ENKAI,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ENKAI,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ENKAI,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1370916432.0
+ENKAI,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,91220526.0
+ENKAI,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),6480990255.0
+ENKAI,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),102135292.0
+ENKAI,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2736236953.0
+ENKAI,2025/3,2ODA,Azınlık Payları,Minority Interests,87156239.0
+ENKAI,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,10536404211.0
+ENKAI,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ENKAI,2025/3,3C,Satış Gelirleri,Net Sales,823788691.0
+ENKAI,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-602447034.0
+ENKAI,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ENKAI,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,221341657.0
+ENKAI,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ENKAI,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ENKAI,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ENKAI,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),221341657.0
+ENKAI,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-10986246.0
+ENKAI,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-61940418.0
+ENKAI,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ENKAI,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,7890732.0
+ENKAI,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-7249123.0
+ENKAI,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ENKAI,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,149056603.0
+ENKAI,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,148414993.0
+ENKAI,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,59441197.0
+ENKAI,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-64653674.0
+ENKAI,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ENKAI,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ENKAI,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,143844126.0
+ENKAI,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),26561205.0
+ENKAI,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-19539826.0
+ENKAI,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-5212477.0
+ENKAI,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,150865505.0
+ENKAI,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-33360661.0
+ENKAI,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-30703065.0
+ENKAI,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-2657596.0
+ENKAI,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ENKAI,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,117504844.0
+ENKAI,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ENKAI,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ENKAI,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,117504844.0
+ENKAI,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ENKAI,2025/3,3LB,Azınlık Payları,Minority Interests,10924187.0
+ENKAI,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,106580657.0
+ENKAI,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ENKAI,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ENKAI,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ENKAI,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ENKAI,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,30712746.0
+ENKAI,2025/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+ENKAI,2025/3,4BB,Finansman Giderleri,Financial Expenses,-19539826.0
+ENKAI,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,362331086.0
+ENKAI,2025/3,4BD,Yurtdışı Satışlar,Export Sales,461457605.0
+ENKAI,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,586993353.0
+ENKAI,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,377661201.0
+ENKAI,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),585476322.0
+ENKAI,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,75351138.0
+ENKAI,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,117504844.0
+ENKAI,2025/3,4CAA,Düzeltmeler:,Adjustments:,52747049.0
+ENKAI,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,30712746.0
+ENKAI,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,1685942.0
+ENKAI,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,20348361.0
+ENKAI,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),170251893.0
+ENKAI,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-73921183.0
+ENKAI,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),96330710.0
+ENKAI,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-20979572.0
+ENKAI,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-47321336.0
+ENKAI,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-137483360.0
+ENKAI,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-184804695.0
+ENKAI,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-109453558.0
+ENKAI,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-50751.0
+ENKAI,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,-37754232.0
+ENKAI,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ENKAI,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,11802752.0
+ENKAI,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-26002231.0
+ENKAI,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-164611676.0
+ENKAI,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,141711661.0
+ENKAI,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ENKAI,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-22900015.0
+ENKAI,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ENKAI,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1167094161.0
+ENKAI,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1144194146.0
+ENKAI,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,4664924295.0
+ENKAI,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1073708367.0
+ENKAI,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2235738639.0
+ENKAI,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,399788232.0
+ENKAI,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ENKAI,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,5231084.0
+ENKAI,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,153083336.0
+ENKAI,2025/6,1AF,Stoklar,Inventories,468893109.0
+ENKAI,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ENKAI,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,313839708.0
+ENKAI,2025/6,1AI,(Ara Toplam),(Subtotal),4650282475.0
+ENKAI,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,14641820.0
+ENKAI,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,6201963810.0
+ENKAI,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+ENKAI,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ENKAI,2025/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+ENKAI,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ENKAI,2025/6,1BC,Finansal Yatırımlar,Financial Investments,2273378194.0
+ENKAI,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ENKAI,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ENKAI,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,2048453246.0
+ENKAI,2025/6,1BFA,Stoklar,Stoklar,0.0
+ENKAI,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,40101451.0
+ENKAI,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1818434206.0
+ENKAI,2025/6,1BGA,Şerefiye,Goodwill,0.0
+ENKAI,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,15342607.0
+ENKAI,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,3584436.0
+ENKAI,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,2669671.0
+ENKAI,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,10866888105.0
+ENKAI,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+ENKAI,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1635995368.0
+ENKAI,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,5549753.0
+ENKAI,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,310056339.0
+ENKAI,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,27350323.0
+ENKAI,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,1072395761.0
+ENKAI,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ENKAI,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ENKAI,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),42196150.0
+ENKAI,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,52558123.0
+ENKAI,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,125888919.0
+ENKAI,2025/6,2AAGG,(Ara Toplam),(Subtotal),1635995368.0
+ENKAI,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ENKAI,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,875076685.0
+ENKAI,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,136090891.0
+ENKAI,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ENKAI,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,28037144.0
+ENKAI,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ENKAI,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ENKAI,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ENKAI,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,21505209.0
+ENKAI,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ENKAI,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,689443440.0
+ENKAI,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ENKAI,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,8355816052.0
+ENKAI,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,8248987778.0
+ENKAI,2025/6,2OA,Ödenmiş Sermaye,Share Capital,151251595.0
+ENKAI,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ENKAI,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ENKAI,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ENKAI,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1255368353.0
+ENKAI,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,116443922.0
+ENKAI,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),6112793075.0
+ENKAI,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),391008957.0
+ENKAI,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2732858582.0
+ENKAI,2025/6,2ODA,Azınlık Payları,Minority Interests,106828275.0
+ENKAI,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,10866888105.0
+ENKAI,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ENKAI,2025/6,3C,Satış Gelirleri,Net Sales,1717114978.0
+ENKAI,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1249863624.0
+ENKAI,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ENKAI,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,467251354.0
+ENKAI,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ENKAI,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ENKAI,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ENKAI,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),467251354.0
+ENKAI,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-19232215.0
+ENKAI,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-96486682.0
+ENKAI,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ENKAI,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,21645076.0
+ENKAI,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-15954846.0
+ENKAI,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ENKAI,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,357222687.0
+ENKAI,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,351532457.0
+ENKAI,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,334440451.0
+ENKAI,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-106877673.0
+ENKAI,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ENKAI,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ENKAI,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,584785465.0
+ENKAI,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),56852812.0
+ENKAI,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-42754852.0
+ENKAI,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,227562779.0
+ENKAI,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,598883425.0
+ENKAI,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-160624096.0
+ENKAI,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-69842050.0
+ENKAI,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-90782046.0
+ENKAI,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ENKAI,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,438259329.0
+ENKAI,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ENKAI,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ENKAI,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,438259329.0
+ENKAI,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ENKAI,2025/6,3LB,Azınlık Payları,Minority Interests,22958926.0
+ENKAI,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,415300403.0
+ENKAI,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ENKAI,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ENKAI,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ENKAI,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ENKAI,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,64124982.0
+ENKAI,2025/6,4BA,Kıdem Tazminatı,Severance Payments,0.0
+ENKAI,2025/6,4BB,Finansman Giderleri,Financial Expenses,-42754852.0
+ENKAI,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,733292515.0
+ENKAI,2025/6,4BD,Yurtdışı Satışlar,Export Sales,983822463.0
+ENKAI,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,434362785.0
+ENKAI,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,186844811.0
+ENKAI,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),433770234.0
+ENKAI,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,237860635.0
+ENKAI,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,438259329.0
+ENKAI,2025/6,4CAA,Düzeltmeler:,Adjustments:,-30517380.0
+ENKAI,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,64124982.0
+ENKAI,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,3063837.0
+ENKAI,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-97706198.0
+ENKAI,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),407741949.0
+ENKAI,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-108022249.0
+ENKAI,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),299719700.0
+ENKAI,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-61859065.0
+ENKAI,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-94116960.0
+ENKAI,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,37813854.0
+ENKAI,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-56303106.0
+ENKAI,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,181557529.0
+ENKAI,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-503045.0
+ENKAI,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-404695160.0
+ENKAI,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ENKAI,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,27265168.0
+ENKAI,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-377933037.0
+ENKAI,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-252040524.0
+ENKAI,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,263594739.0
+ENKAI,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ENKAI,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,11554215.0
+ENKAI,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ENKAI,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1128858325.0
+ENKAI,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1140412541.0
+ENKAI,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,5077193109.0
+ENKAI,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1308749880.0
+ENKAI,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2368210915.0
+ENKAI,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,476006527.0
+ENKAI,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ENKAI,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,4068915.0
+ENKAI,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,85375022.0
+ENKAI,2025/9,1AF,Stoklar,Inventories,469289782.0
+ENKAI,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ENKAI,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,350849943.0
+ENKAI,2025/9,1AI,(Ara Toplam),(Subtotal),5062550984.0
+ENKAI,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,14642125.0
+ENKAI,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,6172468039.0
+ENKAI,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+ENKAI,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ENKAI,2025/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+ENKAI,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ENKAI,2025/9,1BC,Finansal Yatırımlar,Financial Investments,2241870563.0
+ENKAI,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ENKAI,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ENKAI,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,1993234363.0
+ENKAI,2025/9,1BFA,Stoklar,Stoklar,0.0
+ENKAI,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,40646488.0
+ENKAI,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1875340030.0
+ENKAI,2025/9,1BGA,Şerefiye,Goodwill,0.0
+ENKAI,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,15186597.0
+ENKAI,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,3518960.0
+ENKAI,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,2671037.0
+ENKAI,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,11249661148.0
+ENKAI,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+ENKAI,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1681722396.0
+ENKAI,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,6138172.0
+ENKAI,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,399118889.0
+ENKAI,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,28019340.0
+ENKAI,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,1057901572.0
+ENKAI,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ENKAI,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ENKAI,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),55071354.0
+ENKAI,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,50064644.0
+ENKAI,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,85408426.0
+ENKAI,2025/9,2AAGG,(Ara Toplam),(Subtotal),1681722396.0
+ENKAI,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ENKAI,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,920854032.0
+ENKAI,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,130278633.0
+ENKAI,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ENKAI,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ENKAI,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,27884521.0
+ENKAI,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,18226259.0
+ENKAI,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ENKAI,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ENKAI,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ENKAI,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,21519927.0
+ENKAI,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ENKAI,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,722944692.0
+ENKAI,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ENKAI,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,8647084720.0
+ENKAI,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,8522872761.0
+ENKAI,2025/9,2OA,Ödenmiş Sermaye,Share Capital,144816193.0
+ENKAI,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ENKAI,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ENKAI,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ENKAI,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1246349659.0
+ENKAI,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,111489505.0
+ENKAI,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),6140015969.0
+ENKAI,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),631954206.0
+ENKAI,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2740946548.0
+ENKAI,2025/9,2ODA,Azınlık Payları,Minority Interests,124211959.0
+ENKAI,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,11249661148.0
+ENKAI,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ENKAI,2025/9,3C,Satış Gelirleri,Net Sales,2820251432.0
+ENKAI,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-2142692555.0
+ENKAI,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ENKAI,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,677558877.0
+ENKAI,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ENKAI,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ENKAI,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ENKAI,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ENKAI,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),677558877.0
+ENKAI,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-29739671.0
+ENKAI,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-127726740.0
+ENKAI,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ENKAI,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,35389617.0
+ENKAI,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-20823777.0
+ENKAI,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ENKAI,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,534658307.0
+ENKAI,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,520092466.0
+ENKAI,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,519467058.0
+ENKAI,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-104777291.0
+ENKAI,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ENKAI,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ENKAI,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,949348074.0
+ENKAI,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),74168716.0
+ENKAI,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-65309141.0
+ENKAI,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,414689767.0
+ENKAI,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,958207649.0
+ENKAI,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-238481978.0
+ENKAI,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-112514062.0
+ENKAI,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-125967916.0
+ENKAI,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ENKAI,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,719725671.0
+ENKAI,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ENKAI,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ENKAI,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,719725671.0
+ENKAI,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ENKAI,2025/9,3LB,Azınlık Payları,Minority Interests,39612182.0
+ENKAI,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,680113489.0
+ENKAI,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ENKAI,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ENKAI,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ENKAI,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ENKAI,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,100802052.0
+ENKAI,2025/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+ENKAI,2025/9,4BB,Finansman Giderleri,Financial Expenses,-65309141.0
+ENKAI,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,1354288190.0
+ENKAI,2025/9,4BD,Yurtdışı Satışlar,Export Sales,1465963241.0
+ENKAI,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,769783518.0
+ENKAI,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,501246862.0
+ENKAI,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),775875318.0
+ENKAI,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,427300393.0
+ENKAI,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,719725671.0
+ENKAI,2025/9,4CAA,Düzeltmeler:,Adjustments:,-101507513.0
+ENKAI,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,100802052.0
+ENKAI,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,7176456.0
+ENKAI,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-209486021.0
+ENKAI,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),618218158.0
+ENKAI,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-97266184.0
+ENKAI,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),520951975.0
+ENKAI,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-93651582.0
+ENKAI,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-155935062.0
+ENKAI,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,107155104.0
+ENKAI,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-48779958.0
+ENKAI,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,378520435.0
+ENKAI,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,844705.0
+ENKAI,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-394270238.0
+ENKAI,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ENKAI,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,43761191.0
+ENKAI,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-349664343.0
+ENKAI,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-67916810.0
+ENKAI,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,381244598.0
+ENKAI,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ENKAI,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,313327788.0
+ENKAI,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ENKAI,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1095157889.0
+ENKAI,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1408485676.0

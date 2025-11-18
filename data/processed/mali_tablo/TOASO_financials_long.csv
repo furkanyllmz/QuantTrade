@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+TOASO,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,2946734679.0
+TOASO,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1057248665.0
+TOASO,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+TOASO,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1315557816.0
+TOASO,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,266792975.0
+TOASO,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,25144.0
+TOASO,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2022/12,1AF,Stoklar,Inventories,296474963.0
+TOASO,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TOASO,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,10635116.0
+TOASO,2022/12,1AI,(Ara Toplam),(Subtotal),2946734679.0
+TOASO,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TOASO,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,992999146.0
+TOASO,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+TOASO,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,156186366.0
+TOASO,2022/12,1BB,Diğer Alacaklar,Other Receivables,40466.0
+TOASO,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2022/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TOASO,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TOASO,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TOASO,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,8628764.0
+TOASO,2022/12,1BFA,Stoklar,Stoklar,0.0
+TOASO,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,1760517.0
+TOASO,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,492923767.0
+TOASO,2022/12,1BGA,Şerefiye,Goodwill,0.0
+TOASO,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,298742686.0
+TOASO,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,31267190.0
+TOASO,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3449391.0
+TOASO,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3939733824.0
+TOASO,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TOASO,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2295897982.0
+TOASO,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,446045911.0
+TOASO,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,8252562.0
+TOASO,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1671455744.0
+TOASO,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,5016656.0
+TOASO,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,9481903.0
+TOASO,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TOASO,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,740017.0
+TOASO,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,6605701.0
+TOASO,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),38498665.0
+TOASO,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,71025998.0
+TOASO,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,38774824.0
+TOASO,2022/12,2AAGG,(Ara Toplam),(Subtotal),2295897982.0
+TOASO,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TOASO,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,263894138.0
+TOASO,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,166157378.0
+TOASO,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TOASO,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TOASO,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TOASO,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TOASO,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,740017.0
+TOASO,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TOASO,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,96996744.0
+TOASO,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TOASO,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TOASO,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TOASO,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1379941704.0
+TOASO,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1379941704.0
+TOASO,2022/12,2OA,Ödenmiş Sermaye,Share Capital,26692291.0
+TOASO,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TOASO,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TOASO,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TOASO,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TOASO,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,117545911.0
+TOASO,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),248779522.0
+TOASO,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),500429159.0
+TOASO,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,486494822.0
+TOASO,2022/12,2ODA,Azınlık Payları,Minority Interests,0.0
+TOASO,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3939733824.0
+TOASO,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TOASO,2022/12,3C,Satış Gelirleri,Net Sales,7464277823.0
+TOASO,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-6557721140.0
+TOASO,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TOASO,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,906556683.0
+TOASO,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",228440960.0
+TOASO,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-171415719.0
+TOASO,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TOASO,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,57025242.0
+TOASO,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TOASO,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),963581925.0
+TOASO,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-157028367.0
+TOASO,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-109074140.0
+TOASO,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-46169095.0
+TOASO,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,628052258.0
+TOASO,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-722602122.0
+TOASO,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TOASO,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,556760460.0
+TOASO,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,651310323.0
+TOASO,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,8332947.0
+TOASO,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1558892.0
+TOASO,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TOASO,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TOASO,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,563534515.0
+TOASO,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),409955920.0
+TOASO,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-324778785.0
+TOASO,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,6774055.0
+TOASO,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,648711649.0
+TOASO,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-84520680.0
+TOASO,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-73377022.0
+TOASO,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-11143658.0
+TOASO,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TOASO,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,564190969.0
+TOASO,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TOASO,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TOASO,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,564190969.0
+TOASO,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TOASO,2022/12,3LB,Azınlık Payları,Minority Interests,0.0
+TOASO,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,564190969.0
+TOASO,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+TOASO,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+TOASO,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+TOASO,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+TOASO,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,438975943.0
+TOASO,2022/12,4BA,Kıdem Tazminatı,Severance Payments,7971346.0
+TOASO,2022/12,4BB,Finansman Giderleri,Financial Expenses,-324778785.0
+TOASO,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,3876312637.0
+TOASO,2022/12,4BD,Yurtdışı Satışlar,Export Sales,3405394795.0
+TOASO,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,161737482.0
+TOASO,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-115783374.0
+TOASO,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),161737482.0
+TOASO,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1201292815.0
+TOASO,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,564190969.0
+TOASO,2022/12,4CAA,Düzeltmeler:,Adjustments:,224380716.0
+TOASO,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,438975943.0
+TOASO,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,79841658.0
+TOASO,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-294436885.0
+TOASO,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),788571685.0
+TOASO,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,500727092.0
+TOASO,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1289298777.0
+TOASO,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-88005962.0
+TOASO,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-89911648.0
+TOASO,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,39121.0
+TOASO,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-89872527.0
+TOASO,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,1111420288.0
+TOASO,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-210207508.0
+TOASO,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-447665856.0
+TOASO,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TOASO,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,66402726.0
+TOASO,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-591470639.0
+TOASO,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,519949650.0
+TOASO,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-26192821.0
+TOASO,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TOASO,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,493756829.0
+TOASO,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TOASO,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,683553938.0
+TOASO,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1177310767.0
+TOASO,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,1165266342.0
+TOASO,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,293294029.0
+TOASO,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,29256.0
+TOASO,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,503633375.0
+TOASO,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,151107512.0
+TOASO,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,123163.0
+TOASO,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2022/3,1AF,Stoklar,Inventories,208531046.0
+TOASO,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TOASO,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,8547959.0
+TOASO,2022/3,1AI,(Ara Toplam),(Subtotal),1165266342.0
+TOASO,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TOASO,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,494636683.0
+TOASO,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+TOASO,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,159876837.0
+TOASO,2022/3,1BB,Diğer Alacaklar,Other Receivables,24210.0
+TOASO,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2022/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TOASO,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TOASO,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TOASO,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,4724997.0
+TOASO,2022/3,1BFA,Stoklar,Stoklar,0.0
+TOASO,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,602721.0
+TOASO,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,124343165.0
+TOASO,2022/3,1BGA,Şerefiye,Goodwill,0.0
+TOASO,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,129112354.0
+TOASO,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,73569680.0
+TOASO,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,2382719.0
+TOASO,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1659903025.0
+TOASO,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TOASO,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1129353360.0
+TOASO,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,349987725.0
+TOASO,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,710370171.0
+TOASO,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,13362362.0
+TOASO,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,2936339.0
+TOASO,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TOASO,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,307976.0
+TOASO,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,7312511.0
+TOASO,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1083643.0
+TOASO,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,31675862.0
+TOASO,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,12316773.0
+TOASO,2022/3,2AAGG,(Ara Toplam),(Subtotal),1129353360.0
+TOASO,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TOASO,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,281261022.0
+TOASO,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,256323320.0
+TOASO,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TOASO,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TOASO,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TOASO,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TOASO,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,68538.0
+TOASO,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TOASO,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,24710608.0
+TOASO,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TOASO,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TOASO,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,158557.0
+TOASO,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,249288642.0
+TOASO,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,249288642.0
+TOASO,2022/3,2OA,Ödenmiş Sermaye,Share Capital,34098271.0
+TOASO,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TOASO,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TOASO,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TOASO,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TOASO,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,48806765.0
+TOASO,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),206174174.0
+TOASO,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),77002012.0
+TOASO,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-116792580.0
+TOASO,2022/3,2ODA,Azınlık Payları,Minority Interests,0.0
+TOASO,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1659903025.0
+TOASO,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TOASO,2022/3,3C,Satış Gelirleri,Net Sales,761078913.0
+TOASO,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-639091084.0
+TOASO,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TOASO,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,121987829.0
+TOASO,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",19176695.0
+TOASO,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-14813111.0
+TOASO,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TOASO,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,4363584.0
+TOASO,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TOASO,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),126351413.0
+TOASO,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-13395274.0
+TOASO,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-9513845.0
+TOASO,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-4079744.0
+TOASO,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,57452935.0
+TOASO,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-64651335.0
+TOASO,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TOASO,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,92164149.0
+TOASO,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,99362549.0
+TOASO,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,341452.0
+TOASO,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TOASO,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TOASO,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TOASO,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,92505601.0
+TOASO,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),33554672.0
+TOASO,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-38282180.0
+TOASO,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,341452.0
+TOASO,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,87778093.0
+TOASO,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-6969095.0
+TOASO,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1871580.0
+TOASO,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-5097516.0
+TOASO,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TOASO,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,80808998.0
+TOASO,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TOASO,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TOASO,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,80808998.0
+TOASO,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TOASO,2022/3,3LB,Azınlık Payları,Minority Interests,0.0
+TOASO,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,80808998.0
+TOASO,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TOASO,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TOASO,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TOASO,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TOASO,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,25038130.0
+TOASO,2022/3,4BA,Kıdem Tazminatı,Severance Payments,2727392.0
+TOASO,2022/3,4BB,Finansman Giderleri,Financial Expenses,-38282180.0
+TOASO,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,322604116.0
+TOASO,2022/3,4BD,Yurtdışı Satışlar,Export Sales,423148542.0
+TOASO,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-189681957.0
+TOASO,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-261827196.0
+TOASO,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-189681957.0
+TOASO,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,177457610.0
+TOASO,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,80808998.0
+TOASO,2022/3,4CAA,Düzeltmeler:,Adjustments:,42584001.0
+TOASO,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,25038130.0
+TOASO,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,6952134.0
+TOASO,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,10593737.0
+TOASO,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),123392998.0
+TOASO,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,63481624.0
+TOASO,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),186874623.0
+TOASO,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-9417013.0
+TOASO,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-16899467.0
+TOASO,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,13295365.0
+TOASO,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-3604102.0
+TOASO,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,173853507.0
+TOASO,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,51494383.0
+TOASO,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,-229018193.0
+TOASO,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TOASO,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1875301.0
+TOASO,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-179399111.0
+TOASO,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-5545604.0
+TOASO,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,12974095.0
+TOASO,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TOASO,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,7428491.0
+TOASO,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TOASO,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,300296670.0
+TOASO,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,307725162.0
+TOASO,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,1399915286.0
+TOASO,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,385973735.0
+TOASO,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,10844.0
+TOASO,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,651276166.0
+TOASO,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,146325293.0
+TOASO,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,189139.0
+TOASO,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2022/6,1AF,Stoklar,Inventories,210267323.0
+TOASO,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TOASO,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,5872785.0
+TOASO,2022/6,1AI,(Ara Toplam),(Subtotal),1399915286.0
+TOASO,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TOASO,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,427577914.0
+TOASO,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+TOASO,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,139459003.0
+TOASO,2022/6,1BB,Diğer Alacaklar,Other Receivables,23305.0
+TOASO,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2022/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TOASO,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TOASO,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TOASO,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,4150940.0
+TOASO,2022/6,1BFA,Stoklar,Stoklar,0.0
+TOASO,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,780821.0
+TOASO,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,108327941.0
+TOASO,2022/6,1BGA,Şerefiye,Goodwill,0.0
+TOASO,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,106019807.0
+TOASO,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,66669542.0
+TOASO,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,2146555.0
+TOASO,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1827493200.0
+TOASO,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TOASO,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1278226092.0
+TOASO,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,301437806.0
+TOASO,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,908147070.0
+TOASO,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1428041.0
+TOASO,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,2631295.0
+TOASO,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TOASO,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,167212.0
+TOASO,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,6268018.0
+TOASO,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4733815.0
+TOASO,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,31447632.0
+TOASO,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,21965204.0
+TOASO,2022/6,2AAGG,(Ara Toplam),(Subtotal),1278226092.0
+TOASO,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TOASO,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,210866914.0
+TOASO,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,189374289.0
+TOASO,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TOASO,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TOASO,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TOASO,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TOASO,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,95918.0
+TOASO,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TOASO,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,21353991.0
+TOASO,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TOASO,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TOASO,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,42717.0
+TOASO,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,338400194.0
+TOASO,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,338400194.0
+TOASO,2022/6,2OA,Ödenmiş Sermaye,Share Capital,29955546.0
+TOASO,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TOASO,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TOASO,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TOASO,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TOASO,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,42877050.0
+TOASO,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),181125310.0
+TOASO,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),180058533.0
+TOASO,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-95616245.0
+TOASO,2022/6,2ODA,Azınlık Payları,Minority Interests,0.0
+TOASO,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1827493200.0
+TOASO,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TOASO,2022/6,3C,Satış Gelirleri,Net Sales,1749864039.0
+TOASO,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1455173005.0
+TOASO,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TOASO,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,294691033.0
+TOASO,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",38692076.0
+TOASO,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-29997673.0
+TOASO,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TOASO,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,8694403.0
+TOASO,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TOASO,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),303385437.0
+TOASO,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-33090323.0
+TOASO,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-20718851.0
+TOASO,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-8883029.0
+TOASO,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,151942137.0
+TOASO,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-172650711.0
+TOASO,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TOASO,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,219984660.0
+TOASO,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,240693233.0
+TOASO,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2252766.0
+TOASO,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TOASO,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TOASO,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TOASO,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,222237426.0
+TOASO,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),106226692.0
+TOASO,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-118315896.0
+TOASO,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2252766.0
+TOASO,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,210148222.0
+TOASO,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-8259851.0
+TOASO,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-8007812.0
+TOASO,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-252039.0
+TOASO,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TOASO,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,201888371.0
+TOASO,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TOASO,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TOASO,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,201888371.0
+TOASO,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TOASO,2022/6,3LB,Azınlık Payları,Minority Interests,0.0
+TOASO,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,201888371.0
+TOASO,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TOASO,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TOASO,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TOASO,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TOASO,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,48809237.0
+TOASO,2022/6,4BA,Kıdem Tazminatı,Severance Payments,4857795.0
+TOASO,2022/6,4BB,Finansman Giderleri,Financial Expenses,-118315896.0
+TOASO,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,850695942.0
+TOASO,2022/6,4BD,Yurtdışı Satışlar,Export Sales,873610058.0
+TOASO,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-178554347.0
+TOASO,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-229738809.0
+TOASO,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-178554347.0
+TOASO,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,369545191.0
+TOASO,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,201888371.0
+TOASO,2022/6,4CAA,Düzeltmeler:,Adjustments:,80459874.0
+TOASO,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,48809237.0
+TOASO,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,16699596.0
+TOASO,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,14951042.0
+TOASO,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),282348245.0
+TOASO,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,103748085.0
+TOASO,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),386096330.0
+TOASO,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-16551140.0
+TOASO,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-29521808.0
+TOASO,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,3963.0
+TOASO,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-29517845.0
+TOASO,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,340027345.0
+TOASO,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-21212248.0
+TOASO,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-214958592.0
+TOASO,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TOASO,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,9782094.0
+TOASO,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-226388747.0
+TOASO,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,113638599.0
+TOASO,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,32261792.0
+TOASO,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TOASO,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,145900390.0
+TOASO,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TOASO,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,281861230.0
+TOASO,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,427761620.0
+TOASO,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,1489774257.0
+TOASO,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,462237860.0
+TOASO,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,9756.0
+TOASO,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,608753241.0
+TOASO,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,140241913.0
+TOASO,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,235984.0
+TOASO,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2022/9,1AF,Stoklar,Inventories,270797699.0
+TOASO,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TOASO,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,7497803.0
+TOASO,2022/9,1AI,(Ara Toplam),(Subtotal),1489774257.0
+TOASO,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TOASO,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,364435616.0
+TOASO,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+TOASO,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,98099514.0
+TOASO,2022/9,1BB,Diğer Alacaklar,Other Receivables,24418.0
+TOASO,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2022/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TOASO,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TOASO,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TOASO,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,3734618.0
+TOASO,2022/9,1BFA,Stoklar,Stoklar,0.0
+TOASO,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,659171.0
+TOASO,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,95651436.0
+TOASO,2022/9,1BGA,Şerefiye,Goodwill,0.0
+TOASO,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,88290167.0
+TOASO,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,76277995.0
+TOASO,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1698298.0
+TOASO,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1854209874.0
+TOASO,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TOASO,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1260892567.0
+TOASO,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,282318336.0
+TOASO,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,909202462.0
+TOASO,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,729998.0
+TOASO,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,2381994.0
+TOASO,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TOASO,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,103977.0
+TOASO,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,6555808.0
+TOASO,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),11669568.0
+TOASO,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,32545372.0
+TOASO,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,15385051.0
+TOASO,2022/9,2AAGG,(Ara Toplam),(Subtotal),1260892567.0
+TOASO,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TOASO,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,163356709.0
+TOASO,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,136241773.0
+TOASO,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TOASO,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TOASO,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TOASO,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TOASO,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,71906.0
+TOASO,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TOASO,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,27003789.0
+TOASO,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TOASO,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TOASO,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,39241.0
+TOASO,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,429960597.0
+TOASO,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,429960597.0
+TOASO,2022/9,2OA,Ödenmiş Sermaye,Share Capital,26951127.0
+TOASO,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TOASO,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TOASO,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TOASO,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TOASO,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,38576657.0
+TOASO,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),162959180.0
+TOASO,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),272978746.0
+TOASO,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-71505113.0
+TOASO,2022/9,2ODA,Azınlık Payları,Minority Interests,0.0
+TOASO,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1854209874.0
+TOASO,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TOASO,2022/9,3C,Satış Gelirleri,Net Sales,2643819059.0
+TOASO,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-2185079467.0
+TOASO,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TOASO,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,458739592.0
+TOASO,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",56879953.0
+TOASO,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-43858629.0
+TOASO,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TOASO,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,13021324.0
+TOASO,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TOASO,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),471760916.0
+TOASO,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-53916740.0
+TOASO,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-31758557.0
+TOASO,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-15030420.0
+TOASO,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,220636692.0
+TOASO,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-245595267.0
+TOASO,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TOASO,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,346096624.0
+TOASO,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,371055199.0
+TOASO,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2950268.0
+TOASO,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TOASO,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TOASO,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TOASO,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,349046893.0
+TOASO,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),150454703.0
+TOASO,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-183040313.0
+TOASO,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2950268.0
+TOASO,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,316461282.0
+TOASO,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,1787204.0
+TOASO,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-22343375.0
+TOASO,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,24130579.0
+TOASO,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TOASO,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,318248486.0
+TOASO,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TOASO,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TOASO,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,318248486.0
+TOASO,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TOASO,2022/9,3LB,Azınlık Payları,Minority Interests,0.0
+TOASO,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,318248486.0
+TOASO,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+TOASO,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+TOASO,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+TOASO,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+TOASO,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,68335778.0
+TOASO,2022/9,4BA,Kıdem Tazminatı,Severance Payments,6780062.0
+TOASO,2022/9,4BB,Finansman Giderleri,Financial Expenses,-183040313.0
+TOASO,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,1324706842.0
+TOASO,2022/9,4BD,Yurtdışı Satışlar,Export Sales,1271724551.0
+TOASO,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-29657902.0
+TOASO,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-127572716.0
+TOASO,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-29657902.0
+TOASO,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,505556973.0
+TOASO,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,318248486.0
+TOASO,2022/9,4CAA,Düzeltmeler:,Adjustments:,115914669.0
+TOASO,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,68335778.0
+TOASO,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,25460990.0
+TOASO,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,22117901.0
+TOASO,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),434163155.0
+TOASO,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,97222932.0
+TOASO,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),531386087.0
+TOASO,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-25829114.0
+TOASO,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-39328094.0
+TOASO,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,3708.0
+TOASO,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-39324386.0
+TOASO,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,466232587.0
+TOASO,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-52334021.0
+TOASO,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-201091824.0
+TOASO,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TOASO,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,22296119.0
+TOASO,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-231129726.0
+TOASO,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,235102861.0
+TOASO,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,34607212.0
+TOASO,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TOASO,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,269710073.0
+TOASO,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TOASO,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,263678638.0
+TOASO,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,533388710.0
+TOASO,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,2962054402.0
+TOASO,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1214876082.0
+TOASO,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1996826.0
+TOASO,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,901664084.0
+TOASO,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,347691251.0
+TOASO,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,565692.0
+TOASO,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2023/12,1AF,Stoklar,Inventories,475466460.0
+TOASO,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TOASO,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,19794007.0
+TOASO,2023/12,1AI,(Ara Toplam),(Subtotal),2962054402.0
+TOASO,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TOASO,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,889212785.0
+TOASO,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+TOASO,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,124469962.0
+TOASO,2023/12,1BB,Diğer Alacaklar,Other Receivables,45234.0
+TOASO,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2023/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TOASO,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TOASO,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TOASO,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,7278825.0
+TOASO,2023/12,1BFA,Stoklar,Stoklar,0.0
+TOASO,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,1461550.0
+TOASO,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,431599489.0
+TOASO,2023/12,1BGA,Şerefiye,Goodwill,0.0
+TOASO,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,208659300.0
+TOASO,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,84677346.0
+TOASO,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,31021081.0
+TOASO,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3851267187.0
+TOASO,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TOASO,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1741188961.0
+TOASO,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,329880744.0
+TOASO,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1153455663.0
+TOASO,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,2819408.0
+TOASO,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,7992221.0
+TOASO,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TOASO,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,678641.0
+TOASO,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,14402790.0
+TOASO,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),59452889.0
+TOASO,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,97850417.0
+TOASO,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,74656187.0
+TOASO,2023/12,2AAGG,(Ara Toplam),(Subtotal),1741188961.0
+TOASO,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TOASO,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,304586709.0
+TOASO,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,249311967.0
+TOASO,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TOASO,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TOASO,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TOASO,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TOASO,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TOASO,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TOASO,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,55274742.0
+TOASO,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TOASO,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TOASO,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TOASO,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1805491518.0
+TOASO,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1805491518.0
+TOASO,2023/12,2OA,Ödenmiş Sermaye,Share Capital,16954153.0
+TOASO,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TOASO,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TOASO,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TOASO,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TOASO,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,129607342.0
+TOASO,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),387445179.0
+TOASO,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),738430791.0
+TOASO,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,533054053.0
+TOASO,2023/12,2ODA,Azınlık Payları,Minority Interests,0.0
+TOASO,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3851267187.0
+TOASO,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TOASO,2023/12,3C,Satış Gelirleri,Net Sales,7731434376.0
+TOASO,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-6368562099.0
+TOASO,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TOASO,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1362872277.0
+TOASO,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",160741941.0
+TOASO,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-120375549.0
+TOASO,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TOASO,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,40366392.0
+TOASO,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TOASO,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1403238670.0
+TOASO,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-248912867.0
+TOASO,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-133950282.0
+TOASO,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-67362093.0
+TOASO,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,639136560.0
+TOASO,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-743395172.0
+TOASO,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TOASO,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,848754816.0
+TOASO,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,953013428.0
+TOASO,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,7998477.0
+TOASO,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-784899.0
+TOASO,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TOASO,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TOASO,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,855968395.0
+TOASO,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),706830985.0
+TOASO,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-452382319.0
+TOASO,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,7213578.0
+TOASO,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1110417061.0
+TOASO,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-196500874.0
+TOASO,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-281413648.0
+TOASO,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,84912773.0
+TOASO,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TOASO,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,913916187.0
+TOASO,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TOASO,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TOASO,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,913916187.0
+TOASO,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TOASO,2023/12,3LB,Azınlık Payları,Minority Interests,0.0
+TOASO,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,913916187.0
+TOASO,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,2.0
+TOASO,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,2.0
+TOASO,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,2.0
+TOASO,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,2.0
+TOASO,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,238132557.0
+TOASO,2023/12,4BA,Kıdem Tazminatı,Severance Payments,103237357.0
+TOASO,2023/12,4BB,Finansman Giderleri,Financial Expenses,-452382319.0
+TOASO,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,5908070469.0
+TOASO,2023/12,4BD,Yurtdışı Satışlar,Export Sales,1522320349.0
+TOASO,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,298575298.0
+TOASO,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,105475682.0
+TOASO,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),411397257.0
+TOASO,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,548558143.0
+TOASO,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,913916187.0
+TOASO,2023/12,4CAA,Düzeltmeler:,Adjustments:,361640778.0
+TOASO,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,238132557.0
+TOASO,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,216254292.0
+TOASO,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,25381040.0
+TOASO,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1275556965.0
+TOASO,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-420298685.0
+TOASO,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),855258280.0
+TOASO,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-306700137.0
+TOASO,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-124492881.0
+TOASO,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-36589282.0
+TOASO,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-161082164.0
+TOASO,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,387475979.0
+TOASO,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,167218294.0
+TOASO,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-272275066.0
+TOASO,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TOASO,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,200695006.0
+TOASO,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,95638233.0
+TOASO,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,483114212.0
+TOASO,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,269713642.0
+TOASO,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TOASO,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,752827854.0
+TOASO,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TOASO,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1185216749.0
+TOASO,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1466334785.0
+TOASO,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,1836901000.0
+TOASO,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,814327229.0
+TOASO,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+TOASO,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,640782372.0
+TOASO,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,184673855.0
+TOASO,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,441114.0
+TOASO,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2023/3,1AF,Stoklar,Inventories,188352391.0
+TOASO,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TOASO,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,8324039.0
+TOASO,2023/3,1AI,(Ara Toplam),(Subtotal),1836901000.0
+TOASO,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TOASO,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,376385933.0
+TOASO,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+TOASO,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,99800394.0
+TOASO,2023/3,1BB,Diğer Alacaklar,Other Receivables,25329.0
+TOASO,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2023/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TOASO,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TOASO,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TOASO,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,5112363.0
+TOASO,2023/3,1BFA,Stoklar,Stoklar,0.0
+TOASO,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,1047697.0
+TOASO,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,89200846.0
+TOASO,2023/3,1BGA,Şerefiye,Goodwill,0.0
+TOASO,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,75170004.0
+TOASO,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,103843171.0
+TOASO,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,2186129.0
+TOASO,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2213286932.0
+TOASO,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TOASO,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1487695202.0
+TOASO,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,313538394.0
+TOASO,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,995113718.0
+TOASO,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,11070628.0
+TOASO,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,3182752.0
+TOASO,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TOASO,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,55608.0
+TOASO,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,7303182.0
+TOASO,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),64173173.0
+TOASO,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,48602602.0
+TOASO,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,44655145.0
+TOASO,2023/3,2AAGG,(Ara Toplam),(Subtotal),1487695202.0
+TOASO,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TOASO,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,152195666.0
+TOASO,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,100147750.0
+TOASO,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TOASO,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TOASO,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TOASO,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TOASO,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,41693.0
+TOASO,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TOASO,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,52006223.0
+TOASO,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TOASO,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TOASO,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TOASO,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,573396064.0
+TOASO,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,573396064.0
+TOASO,2023/3,2OA,Ödenmiş Sermaye,Share Capital,26058224.0
+TOASO,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TOASO,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TOASO,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TOASO,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TOASO,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,52798132.0
+TOASO,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),431942380.0
+TOASO,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),126821261.0
+TOASO,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-64223934.0
+TOASO,2023/3,2ODA,Azınlık Payları,Minority Interests,0.0
+TOASO,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2213286932.0
+TOASO,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TOASO,2023/3,3C,Satış Gelirleri,Net Sales,1856018756.0
+TOASO,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1574235765.0
+TOASO,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TOASO,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,281782991.0
+TOASO,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",39264473.0
+TOASO,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-27392735.0
+TOASO,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TOASO,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,11871738.0
+TOASO,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TOASO,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),293654729.0
+TOASO,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-53561253.0
+TOASO,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-32823595.0
+TOASO,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-17136722.0
+TOASO,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,160005332.0
+TOASO,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-167559492.0
+TOASO,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TOASO,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,182578999.0
+TOASO,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,190133160.0
+TOASO,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,37314.0
+TOASO,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-4181.0
+TOASO,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TOASO,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TOASO,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,182612132.0
+TOASO,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),140045446.0
+TOASO,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-129625939.0
+TOASO,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,33133.0
+TOASO,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,193031640.0
+TOASO,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-46059862.0
+TOASO,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-77572649.0
+TOASO,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,31512787.0
+TOASO,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TOASO,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,146971778.0
+TOASO,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TOASO,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TOASO,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,146971778.0
+TOASO,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TOASO,2023/3,3LB,Azınlık Payları,Minority Interests,0.0
+TOASO,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,146971778.0
+TOASO,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TOASO,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TOASO,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TOASO,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TOASO,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,66087654.0
+TOASO,2023/3,4BA,Kıdem Tazminatı,Severance Payments,18085980.0
+TOASO,2023/3,4BB,Finansman Giderleri,Financial Expenses,-129625939.0
+TOASO,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,1306887430.0
+TOASO,2023/3,4BD,Yurtdışı Satışlar,Export Sales,355508060.0
+TOASO,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-37953825.0
+TOASO,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-113113764.0
+TOASO,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-37953825.0
+TOASO,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,523041565.0
+TOASO,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,144972381.0
+TOASO,2023/3,4CAA,Düzeltmeler:,Adjustments:,231059245.0
+TOASO,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,59001216.0
+TOASO,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,56121896.0
+TOASO,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,115936134.0
+TOASO,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),376031626.0
+TOASO,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,171719716.0
+TOASO,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),547751342.0
+TOASO,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-24709777.0
+TOASO,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-9322051.0
+TOASO,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+TOASO,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-9322051.0
+TOASO,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,513719513.0
+TOASO,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,47208817.0
+TOASO,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,-273667533.0
+TOASO,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TOASO,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,45634641.0
+TOASO,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-180824075.0
+TOASO,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,332895438.0
+TOASO,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-148239820.0
+TOASO,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TOASO,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,184655618.0
+TOASO,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TOASO,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1191277383.0
+TOASO,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1375933002.0
+TOASO,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,1635095788.0
+TOASO,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,636353171.0
+TOASO,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+TOASO,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,574651251.0
+TOASO,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,140037882.0
+TOASO,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,462473.0
+TOASO,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2023/6,1AF,Stoklar,Inventories,276602731.0
+TOASO,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TOASO,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,6988280.0
+TOASO,2023/6,1AI,(Ara Toplam),(Subtotal),1635095788.0
+TOASO,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TOASO,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,300184348.0
+TOASO,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+TOASO,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,62775652.0
+TOASO,2023/6,1BB,Diğer Alacaklar,Other Receivables,23502.0
+TOASO,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2023/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TOASO,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TOASO,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TOASO,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,3791902.0
+TOASO,2023/6,1BFA,Stoklar,Stoklar,0.0
+TOASO,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,725253.0
+TOASO,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,69123218.0
+TOASO,2023/6,1BGA,Şerefiye,Goodwill,0.0
+TOASO,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,58793062.0
+TOASO,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,102638618.0
+TOASO,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,2313140.0
+TOASO,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,1935280136.0
+TOASO,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TOASO,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1240165097.0
+TOASO,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,240125862.0
+TOASO,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,868662445.0
+TOASO,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,5382147.0
+TOASO,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,2686938.0
+TOASO,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TOASO,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,41245.0
+TOASO,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,6139716.0
+TOASO,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),46237746.0
+TOASO,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,46111227.0
+TOASO,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,24777770.0
+TOASO,2023/6,2AAGG,(Ara Toplam),(Subtotal),1240165097.0
+TOASO,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TOASO,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,82121216.0
+TOASO,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,44819170.0
+TOASO,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TOASO,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TOASO,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TOASO,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TOASO,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,20642.0
+TOASO,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TOASO,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,37281404.0
+TOASO,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TOASO,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TOASO,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TOASO,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,612993823.0
+TOASO,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,612993823.0
+TOASO,2023/6,2OA,Ödenmiş Sermaye,Share Capital,19327705.0
+TOASO,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TOASO,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TOASO,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TOASO,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TOASO,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,39161023.0
+TOASO,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),320376968.0
+TOASO,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),284998222.0
+TOASO,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-50870095.0
+TOASO,2023/6,2ODA,Azınlık Payları,Minority Interests,0.0
+TOASO,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,1935280136.0
+TOASO,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TOASO,2023/6,3C,Satış Gelirleri,Net Sales,3847759432.0
+TOASO,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-3160162242.0
+TOASO,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TOASO,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,687597191.0
+TOASO,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",76943476.0
+TOASO,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-54633023.0
+TOASO,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TOASO,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,22310453.0
+TOASO,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TOASO,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),709907644.0
+TOASO,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-109828346.0
+TOASO,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-62784660.0
+TOASO,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-32407768.0
+TOASO,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,376625134.0
+TOASO,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-496668064.0
+TOASO,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TOASO,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,384843940.0
+TOASO,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,504886870.0
+TOASO,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,5898648.0
+TOASO,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3990.0
+TOASO,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TOASO,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TOASO,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,390738599.0
+TOASO,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),390380684.0
+TOASO,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-187811123.0
+TOASO,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,5894658.0
+TOASO,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,593308160.0
+TOASO,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-104035552.0
+TOASO,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-160637586.0
+TOASO,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,56602033.0
+TOASO,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TOASO,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,489272608.0
+TOASO,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TOASO,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TOASO,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,489272608.0
+TOASO,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TOASO,2023/6,3LB,Azınlık Payları,Minority Interests,0.0
+TOASO,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,489272608.0
+TOASO,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+TOASO,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+TOASO,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+TOASO,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+TOASO,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,121338684.0
+TOASO,2023/6,4BA,Kıdem Tazminatı,Severance Payments,61043771.0
+TOASO,2023/6,4BB,Finansman Giderleri,Financial Expenses,-187811123.0
+TOASO,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,2994826767.0
+TOASO,2023/6,4BD,Yurtdışı Satışlar,Export Sales,761985215.0
+TOASO,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,137722460.0
+TOASO,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-196579705.0
+TOASO,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),137722460.0
+TOASO,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,675144366.0
+TOASO,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,489272608.0
+TOASO,2023/6,4CAA,Düzeltmeler:,Adjustments:,323085905.0
+TOASO,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,121338684.0
+TOASO,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,109985006.0
+TOASO,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,12115213.0
+TOASO,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),812358513.0
+TOASO,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,1536048.0
+TOASO,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),813894562.0
+TOASO,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-138750196.0
+TOASO,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-44438641.0
+TOASO,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1712960.0
+TOASO,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-46151601.0
+TOASO,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,628992764.0
+TOASO,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-48256414.0
+TOASO,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-283077993.0
+TOASO,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TOASO,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,92012457.0
+TOASO,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-239321950.0
+TOASO,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,389670814.0
+TOASO,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-15502398.0
+TOASO,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TOASO,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,374168417.0
+TOASO,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TOASO,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1232241175.0
+TOASO,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1400442543.0
+TOASO,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,1821783308.0
+TOASO,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,786881135.0
+TOASO,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+TOASO,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,550297528.0
+TOASO,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,154978415.0
+TOASO,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,719828.0
+TOASO,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2023/9,1AF,Stoklar,Inventories,322507365.0
+TOASO,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TOASO,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,6399037.0
+TOASO,2023/9,1AI,(Ara Toplam),(Subtotal),1821783308.0
+TOASO,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TOASO,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,290463137.0
+TOASO,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+TOASO,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,37062605.0
+TOASO,2023/9,1BB,Diğer Alacaklar,Other Receivables,23153.0
+TOASO,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2023/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TOASO,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TOASO,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TOASO,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,3576716.0
+TOASO,2023/9,1BFA,Stoklar,Stoklar,0.0
+TOASO,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,635273.0
+TOASO,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,67349923.0
+TOASO,2023/9,1BGA,Şerefiye,Goodwill,0.0
+TOASO,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,55210457.0
+TOASO,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,119404653.0
+TOASO,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,7200357.0
+TOASO,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2112246445.0
+TOASO,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TOASO,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1237171079.0
+TOASO,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,243916648.0
+TOASO,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,838899110.0
+TOASO,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,946766.0
+TOASO,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,2860497.0
+TOASO,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TOASO,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,38905.0
+TOASO,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,5194815.0
+TOASO,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),47488369.0
+TOASO,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,59023190.0
+TOASO,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,38802778.0
+TOASO,2023/9,2AAGG,(Ara Toplam),(Subtotal),1237171079.0
+TOASO,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TOASO,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,100972800.0
+TOASO,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,60790308.0
+TOASO,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TOASO,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TOASO,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TOASO,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TOASO,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,9735.0
+TOASO,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TOASO,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,40172756.0
+TOASO,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TOASO,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TOASO,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TOASO,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,774102567.0
+TOASO,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,774102567.0
+TOASO,2023/9,2OA,Ödenmiş Sermaye,Share Capital,18230876.0
+TOASO,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TOASO,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TOASO,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TOASO,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TOASO,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,36938671.0
+TOASO,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),302195873.0
+TOASO,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),454514293.0
+TOASO,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-37777146.0
+TOASO,2023/9,2ODA,Azınlık Payları,Minority Interests,0.0
+TOASO,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2112246445.0
+TOASO,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TOASO,2023/9,3C,Satış Gelirleri,Net Sales,5653658166.0
+TOASO,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-4638797453.0
+TOASO,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TOASO,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1014860713.0
+TOASO,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",110970140.0
+TOASO,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-79321171.0
+TOASO,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TOASO,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,31648969.0
+TOASO,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TOASO,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1046509682.0
+TOASO,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-178921946.0
+TOASO,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-93476433.0
+TOASO,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-52076598.0
+TOASO,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,502082402.0
+TOASO,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-602572723.0
+TOASO,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TOASO,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,621544383.0
+TOASO,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,722034705.0
+TOASO,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2362634.0
+TOASO,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-13920.0
+TOASO,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TOASO,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TOASO,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,623893098.0
+TOASO,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),553208009.0
+TOASO,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-389712917.0
+TOASO,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2348714.0
+TOASO,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,787388190.0
+TOASO,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-179531524.0
+TOASO,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-229257201.0
+TOASO,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,49725677.0
+TOASO,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TOASO,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,607856666.0
+TOASO,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TOASO,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TOASO,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,607856666.0
+TOASO,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TOASO,2023/9,3LB,Azınlık Payları,Minority Interests,0.0
+TOASO,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,607856666.0
+TOASO,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+TOASO,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+TOASO,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+TOASO,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+TOASO,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,177965640.0
+TOASO,2023/9,4BA,Kıdem Tazminatı,Severance Payments,83211309.0
+TOASO,2023/9,4BB,Finansman Giderleri,Financial Expenses,-389712917.0
+TOASO,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,4363652504.0
+TOASO,2023/9,4BD,Yurtdışı Satışlar,Export Sales,1135320714.0
+TOASO,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,142382161.0
+TOASO,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-69522646.0
+TOASO,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),142382161.0
+TOASO,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,778713367.0
+TOASO,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,607856666.0
+TOASO,2023/9,4CAA,Düzeltmeler:,Adjustments:,457225603.0
+TOASO,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,177965640.0
+TOASO,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,167239504.0
+TOASO,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,6447871.0
+TOASO,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1065082269.0
+TOASO,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-53971102.0
+TOASO,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1011111167.0
+TOASO,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-232397800.0
+TOASO,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-63269468.0
+TOASO,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1324297.0
+TOASO,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-64593765.0
+TOASO,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,714119602.0
+TOASO,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,28525263.0
+TOASO,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-275018772.0
+TOASO,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TOASO,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,153968968.0
+TOASO,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-92524541.0
+TOASO,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,621595061.0
+TOASO,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,13945207.0
+TOASO,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TOASO,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,635540268.0
+TOASO,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TOASO,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1197159304.0
+TOASO,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1429463271.0
+TOASO,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,2225696894.0
+TOASO,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,699683446.0
+TOASO,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2881483.0
+TOASO,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,741178751.0
+TOASO,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,435423094.0
+TOASO,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,51991.0
+TOASO,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2024/12,1AF,Stoklar,Inventories,308792507.0
+TOASO,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TOASO,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,37685622.0
+TOASO,2024/12,1AI,(Ara Toplam),(Subtotal),2225696894.0
+TOASO,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TOASO,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1027171647.0
+TOASO,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+TOASO,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,163681889.0
+TOASO,2024/12,1BB,Diğer Alacaklar,Other Receivables,36589.0
+TOASO,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2024/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TOASO,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TOASO,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TOASO,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,8338361.0
+TOASO,2024/12,1BFA,Stoklar,Stoklar,0.0
+TOASO,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,1341285.0
+TOASO,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,514031168.0
+TOASO,2024/12,1BGA,Şerefiye,Goodwill,0.0
+TOASO,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,147736974.0
+TOASO,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,128171424.0
+TOASO,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,63833957.0
+TOASO,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3252868540.0
+TOASO,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TOASO,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,941010536.0
+TOASO,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,388140798.0
+TOASO,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,402504526.0
+TOASO,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,3388364.0
+TOASO,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,8611551.0
+TOASO,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TOASO,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TOASO,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,12248192.0
+TOASO,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+TOASO,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,91347638.0
+TOASO,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,34769467.0
+TOASO,2024/12,2AAGG,(Ara Toplam),(Subtotal),941010536.0
+TOASO,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TOASO,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,640295869.0
+TOASO,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,602020358.0
+TOASO,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TOASO,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TOASO,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TOASO,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TOASO,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TOASO,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TOASO,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,38275511.0
+TOASO,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TOASO,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TOASO,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TOASO,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1671562135.0
+TOASO,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1671562135.0
+TOASO,2024/12,2OA,Ödenmiş Sermaye,Share Capital,14146753.0
+TOASO,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TOASO,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TOASO,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TOASO,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TOASO,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,178696795.0
+TOASO,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),608014460.0
+TOASO,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),185300659.0
+TOASO,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,681806008.0
+TOASO,2024/12,2ODA,Azınlık Payları,Minority Interests,0.0
+TOASO,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3252868540.0
+TOASO,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TOASO,2024/12,3C,Satış Gelirleri,Net Sales,4588837712.0
+TOASO,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-4139242151.0
+TOASO,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TOASO,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,449595561.0
+TOASO,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",345347069.0
+TOASO,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-284731400.0
+TOASO,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TOASO,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,60615669.0
+TOASO,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TOASO,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),510211230.0
+TOASO,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-174075064.0
+TOASO,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-139258617.0
+TOASO,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-79340240.0
+TOASO,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,307452575.0
+TOASO,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-267698455.0
+TOASO,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TOASO,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,157291428.0
+TOASO,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,117537308.0
+TOASO,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,15064767.0
+TOASO,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TOASO,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TOASO,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TOASO,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,172356195.0
+TOASO,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),378488297.0
+TOASO,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-364265127.0
+TOASO,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,15064767.0
+TOASO,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,186579365.0
+TOASO,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,12647536.0
+TOASO,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-44901228.0
+TOASO,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,57548764.0
+TOASO,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TOASO,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,199226901.0
+TOASO,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TOASO,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,199226901.0
+TOASO,2024/12,3LB,Azınlık Payları,Minority Interests,0.0
+TOASO,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,199226901.0
+TOASO,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TOASO,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TOASO,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TOASO,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TOASO,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,236548985.0
+TOASO,2024/12,4BA,Kıdem Tazminatı,Severance Payments,4518381.0
+TOASO,2024/12,4BB,Finansman Giderleri,Financial Expenses,-364265127.0
+TOASO,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,3577320873.0
+TOASO,2024/12,4BD,Yurtdışı Satışlar,Export Sales,785614474.0
+TOASO,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,106816628.0
+TOASO,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-18281547.0
+TOASO,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),505874889.0
+TOASO,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-280716825.0
+TOASO,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,199226901.0
+TOASO,2024/12,4CAA,Düzeltmeler:,Adjustments:,380384094.0
+TOASO,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,236548985.0
+TOASO,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,83640410.0
+TOASO,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-78512150.0
+TOASO,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),579610994.0
+TOASO,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-682761102.0
+TOASO,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-103150108.0
+TOASO,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-177566717.0
+TOASO,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-221424391.0
+TOASO,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-34790044.0
+TOASO,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-256214434.0
+TOASO,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,-536931259.0
+TOASO,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,542446645.0
+TOASO,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-478765749.0
+TOASO,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TOASO,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,225971579.0
+TOASO,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,289652474.0
+TOASO,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-247278785.0
+TOASO,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,54687326.0
+TOASO,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TOASO,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-192591459.0
+TOASO,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TOASO,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1333178351.0
+TOASO,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,720387325.0
+TOASO,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,2233331695.0
+TOASO,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,872617829.0
+TOASO,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1238205.0
+TOASO,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,720947854.0
+TOASO,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,281612282.0
+TOASO,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,221249.0
+TOASO,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2024/3,1AF,Stoklar,Inventories,330237327.0
+TOASO,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TOASO,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,26456950.0
+TOASO,2024/3,1AI,(Ara Toplam),(Subtotal),2233331695.0
+TOASO,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TOASO,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,690748927.0
+TOASO,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+TOASO,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,131656649.0
+TOASO,2024/3,1BB,Diğer Alacaklar,Other Receivables,30114.0
+TOASO,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2024/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TOASO,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TOASO,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TOASO,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,5289362.0
+TOASO,2024/3,1BFA,Stoklar,Stoklar,0.0
+TOASO,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,1081883.0
+TOASO,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,297929544.0
+TOASO,2024/3,1BGA,Şerefiye,Goodwill,0.0
+TOASO,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,129325616.0
+TOASO,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,91447736.0
+TOASO,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,33988022.0
+TOASO,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2924080622.0
+TOASO,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TOASO,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1552064334.0
+TOASO,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,271056932.0
+TOASO,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,769599921.0
+TOASO,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,310735447.0
+TOASO,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,5429328.0
+TOASO,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TOASO,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,246695.0
+TOASO,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,13510215.0
+TOASO,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),73367683.0
+TOASO,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,68397612.0
+TOASO,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,39720501.0
+TOASO,2024/3,2AAGG,(Ara Toplam),(Subtotal),1552064334.0
+TOASO,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TOASO,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,266990224.0
+TOASO,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,232197313.0
+TOASO,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TOASO,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TOASO,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TOASO,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TOASO,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TOASO,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TOASO,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,34792911.0
+TOASO,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TOASO,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TOASO,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TOASO,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1105026064.0
+TOASO,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1105026064.0
+TOASO,2024/3,2OA,Ödenmiş Sermaye,Share Capital,15459009.0
+TOASO,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TOASO,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TOASO,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TOASO,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TOASO,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,125023158.0
+TOASO,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),466646694.0
+TOASO,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),86756453.0
+TOASO,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,411140751.0
+TOASO,2024/3,2ODA,Azınlık Payları,Minority Interests,0.0
+TOASO,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2924080622.0
+TOASO,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TOASO,2024/3,3C,Satış Gelirleri,Net Sales,1501432965.0
+TOASO,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1272298716.0
+TOASO,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TOASO,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,229134249.0
+TOASO,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",71883323.0
+TOASO,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-59975184.0
+TOASO,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TOASO,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,11908139.0
+TOASO,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TOASO,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),241042387.0
+TOASO,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-49187185.0
+TOASO,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-38197768.0
+TOASO,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-18716282.0
+TOASO,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,81807412.0
+TOASO,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-72120884.0
+TOASO,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TOASO,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,144627680.0
+TOASO,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,134941152.0
+TOASO,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,32913.0
+TOASO,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-317050.0
+TOASO,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TOASO,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TOASO,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,144343543.0
+TOASO,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),115331277.0
+TOASO,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-127959464.0
+TOASO,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-284137.0
+TOASO,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,131715356.0
+TOASO,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-6548586.0
+TOASO,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-57135074.0
+TOASO,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,50586488.0
+TOASO,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TOASO,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,125166770.0
+TOASO,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TOASO,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TOASO,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,125166770.0
+TOASO,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TOASO,2024/3,3LB,Azınlık Payları,Minority Interests,0.0
+TOASO,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,125166770.0
+TOASO,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TOASO,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TOASO,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TOASO,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TOASO,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,65364032.0
+TOASO,2024/3,4BA,Kıdem Tazminatı,Severance Payments,17474665.0
+TOASO,2024/3,4BB,Finansman Giderleri,Financial Expenses,-127959464.0
+TOASO,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,1061089902.0
+TOASO,2024/3,4BD,Yurtdışı Satışlar,Export Sales,365729868.0
+TOASO,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,91290552.0
+TOASO,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-22338520.0
+TOASO,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),155871810.0
+TOASO,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-62849951.0
+TOASO,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,125166770.0
+TOASO,2024/3,4CAA,Düzeltmeler:,Adjustments:,163461791.0
+TOASO,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,65364032.0
+TOASO,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,33987424.0
+TOASO,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-65726398.0
+TOASO,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),288628561.0
+TOASO,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-327420312.0
+TOASO,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-38791752.0
+TOASO,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-24058199.0
+TOASO,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-9836978.0
+TOASO,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-61116351.0
+TOASO,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-70953329.0
+TOASO,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-133803280.0
+TOASO,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,199550672.0
+TOASO,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TOASO,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TOASO,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,73232368.0
+TOASO,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,272783040.0
+TOASO,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,138979760.0
+TOASO,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,16535466.0
+TOASO,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TOASO,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,155515226.0
+TOASO,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TOASO,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1242121382.0
+TOASO,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1230892368.0
+TOASO,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,1934770673.0
+TOASO,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,560220129.0
+TOASO,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2421842.0
+TOASO,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,613724673.0
+TOASO,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,293863641.0
+TOASO,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,575820.0
+TOASO,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2024/6,1AF,Stoklar,Inventories,450032264.0
+TOASO,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TOASO,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,13932304.0
+TOASO,2024/6,1AI,(Ara Toplam),(Subtotal),1934770673.0
+TOASO,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TOASO,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,758146497.0
+TOASO,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+TOASO,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,125068952.0
+TOASO,2024/6,1BB,Diğer Alacaklar,Other Receivables,29922.0
+TOASO,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2024/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TOASO,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TOASO,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TOASO,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,5639450.0
+TOASO,2024/6,1BFA,Stoklar,Stoklar,0.0
+TOASO,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,1021642.0
+TOASO,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,325798487.0
+TOASO,2024/6,1BGA,Şerefiye,Goodwill,0.0
+TOASO,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,122238234.0
+TOASO,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,124728921.0
+TOASO,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,53620888.0
+TOASO,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2692917170.0
+TOASO,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TOASO,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1239728237.0
+TOASO,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,346522793.0
+TOASO,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,737494534.0
+TOASO,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,3570988.0
+TOASO,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,5934262.0
+TOASO,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TOASO,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TOASO,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,12739522.0
+TOASO,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),20086543.0
+TOASO,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,64468714.0
+TOASO,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,48910881.0
+TOASO,2024/6,2AAGG,(Ara Toplam),(Subtotal),1239728237.0
+TOASO,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TOASO,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,237748721.0
+TOASO,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,195947642.0
+TOASO,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TOASO,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TOASO,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TOASO,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TOASO,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TOASO,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TOASO,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,41801078.0
+TOASO,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TOASO,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TOASO,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TOASO,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1215440212.0
+TOASO,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1215440212.0
+TOASO,2024/6,2OA,Ödenmiş Sermaye,Share Capital,15204362.0
+TOASO,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TOASO,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TOASO,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TOASO,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TOASO,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,132285337.0
+TOASO,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),484395459.0
+TOASO,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),131640703.0
+TOASO,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,451914351.0
+TOASO,2024/6,2ODA,Azınlık Payları,Minority Interests,0.0
+TOASO,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2692917170.0
+TOASO,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TOASO,2024/6,3C,Satış Gelirleri,Net Sales,2573323407.0
+TOASO,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2218927230.0
+TOASO,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TOASO,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,354396177.0
+TOASO,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",165342376.0
+TOASO,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-139655266.0
+TOASO,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TOASO,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,25687110.0
+TOASO,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TOASO,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),380083287.0
+TOASO,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-80371154.0
+TOASO,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-69397915.0
+TOASO,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-36160285.0
+TOASO,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,143096643.0
+TOASO,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-118429490.0
+TOASO,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TOASO,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,218821086.0
+TOASO,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,194153932.0
+TOASO,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3530493.0
+TOASO,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TOASO,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TOASO,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TOASO,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,222351579.0
+TOASO,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),195532343.0
+TOASO,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-247072840.0
+TOASO,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,3530493.0
+TOASO,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,170811081.0
+TOASO,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,14070615.0
+TOASO,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-75796829.0
+TOASO,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,89867444.0
+TOASO,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TOASO,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,184881696.0
+TOASO,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TOASO,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TOASO,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,184881696.0
+TOASO,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TOASO,2024/6,3LB,Azınlık Payları,Minority Interests,0.0
+TOASO,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,184881696.0
+TOASO,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TOASO,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TOASO,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TOASO,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TOASO,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,129907252.0
+TOASO,2024/6,4BA,Kıdem Tazminatı,Severance Payments,8522061.0
+TOASO,2024/6,4BB,Finansman Giderleri,Financial Expenses,-247072840.0
+TOASO,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,1879286352.0
+TOASO,2024/6,4BD,Yurtdışı Satışlar,Export Sales,571802769.0
+TOASO,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,146812071.0
+TOASO,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,32676943.0
+TOASO,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),270877649.0
+TOASO,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,22168.0
+TOASO,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,184881696.0
+TOASO,2024/6,4CAA,Düzeltmeler:,Adjustments:,341281101.0
+TOASO,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,129907252.0
+TOASO,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,28697774.0
+TOASO,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-18451657.0
+TOASO,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),526162797.0
+TOASO,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-394173192.0
+TOASO,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),131989604.0
+TOASO,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-131967436.0
+TOASO,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-58842645.0
+TOASO,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-43461737.0
+TOASO,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-102304383.0
+TOASO,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,-102282214.0
+TOASO,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,134983666.0
+TOASO,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-462967792.0
+TOASO,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TOASO,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,136610891.0
+TOASO,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-191373235.0
+TOASO,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-293655450.0
+TOASO,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,24226605.0
+TOASO,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TOASO,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-269428845.0
+TOASO,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TOASO,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1289187039.0
+TOASO,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,757620714.0
+TOASO,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,1712698340.0
+TOASO,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,603120222.0
+TOASO,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2329935.0
+TOASO,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,418930652.0
+TOASO,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,317510598.0
+TOASO,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,761940.0
+TOASO,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2024/9,1AF,Stoklar,Inventories,351424676.0
+TOASO,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TOASO,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,18620317.0
+TOASO,2024/9,1AI,(Ara Toplam),(Subtotal),1712698340.0
+TOASO,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TOASO,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,820758663.0
+TOASO,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+TOASO,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,131697799.0
+TOASO,2024/9,1BB,Diğer Alacaklar,Other Receivables,24896.0
+TOASO,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2024/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TOASO,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TOASO,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TOASO,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,5909369.0
+TOASO,2024/9,1BFA,Stoklar,Stoklar,0.0
+TOASO,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,1054545.0
+TOASO,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,364071030.0
+TOASO,2024/9,1BGA,Şerefiye,Goodwill,0.0
+TOASO,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,112457076.0
+TOASO,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,130000790.0
+TOASO,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,75543158.0
+TOASO,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2533457003.0
+TOASO,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TOASO,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,998562569.0
+TOASO,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,346093761.0
+TOASO,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,500666423.0
+TOASO,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,2013867.0
+TOASO,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,6441629.0
+TOASO,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TOASO,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TOASO,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,13025115.0
+TOASO,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),22980560.0
+TOASO,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,66140159.0
+TOASO,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,41201053.0
+TOASO,2024/9,2AAGG,(Ara Toplam),(Subtotal),998562569.0
+TOASO,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TOASO,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,244272303.0
+TOASO,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,207549448.0
+TOASO,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TOASO,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TOASO,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TOASO,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TOASO,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TOASO,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TOASO,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,36722855.0
+TOASO,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TOASO,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TOASO,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TOASO,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1290622131.0
+TOASO,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1290622131.0
+TOASO,2024/9,2OA,Ödenmiş Sermaye,Share Capital,14627368.0
+TOASO,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TOASO,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TOASO,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TOASO,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TOASO,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,138616690.0
+TOASO,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),491181657.0
+TOASO,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),147069056.0
+TOASO,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,499127360.0
+TOASO,2024/9,2ODA,Azınlık Payları,Minority Interests,0.0
+TOASO,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2533457003.0
+TOASO,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TOASO,2024/9,3C,Satış Gelirleri,Net Sales,3595677385.0
+TOASO,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-3183856475.0
+TOASO,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TOASO,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,411820911.0
+TOASO,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",261987639.0
+TOASO,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-218235564.0
+TOASO,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TOASO,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,43752076.0
+TOASO,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TOASO,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),455572986.0
+TOASO,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-129433364.0
+TOASO,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-107623389.0
+TOASO,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-57842100.0
+TOASO,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,244350341.0
+TOASO,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-219358550.0
+TOASO,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TOASO,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,185665923.0
+TOASO,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,160674133.0
+TOASO,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,9869052.0
+TOASO,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TOASO,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TOASO,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TOASO,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,195534975.0
+TOASO,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),322410843.0
+TOASO,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-316679523.0
+TOASO,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,9869052.0
+TOASO,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,201266295.0
+TOASO,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,6321716.0
+TOASO,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-91043494.0
+TOASO,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,97365211.0
+TOASO,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TOASO,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,207588011.0
+TOASO,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TOASO,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TOASO,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,207588011.0
+TOASO,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TOASO,2024/9,3LB,Azınlık Payları,Minority Interests,0.0
+TOASO,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,207588011.0
+TOASO,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TOASO,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TOASO,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TOASO,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TOASO,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,191573389.0
+TOASO,2024/9,4BA,Kıdem Tazminatı,Severance Payments,12689467.0
+TOASO,2024/9,4BB,Finansman Giderleri,Financial Expenses,-316679523.0
+TOASO,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,2763838848.0
+TOASO,2024/9,4BD,Yurtdışı Satışlar,Export Sales,654000310.0
+TOASO,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,119824164.0
+TOASO,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-87039684.0
+TOASO,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),218164529.0
+TOASO,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,102862918.0
+TOASO,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,207588011.0
+TOASO,2024/9,4CAA,Düzeltmeler:,Adjustments:,441061276.0
+TOASO,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,191573389.0
+TOASO,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,49221995.0
+TOASO,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-41421375.0
+TOASO,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),648649287.0
+TOASO,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-378544703.0
+TOASO,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),270104585.0
+TOASO,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-167241667.0
+TOASO,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-121400558.0
+TOASO,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-72354926.0
+TOASO,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-193755483.0
+TOASO,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,-90892565.0
+TOASO,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,166971406.0
+TOASO,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-487564126.0
+TOASO,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TOASO,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,177499287.0
+TOASO,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-143093432.0
+TOASO,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-233985998.0
+TOASO,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,63743897.0
+TOASO,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TOASO,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-170242100.0
+TOASO,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TOASO,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1357678501.0
+TOASO,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,819973017.0
+TOASO,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,1935471048.0
+TOASO,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,701116809.0
+TOASO,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2105081.0
+TOASO,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,551263424.0
+TOASO,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,347519804.0
+TOASO,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,592937.0
+TOASO,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2025/3,1AF,Stoklar,Inventories,298862654.0
+TOASO,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TOASO,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,34010340.0
+TOASO,2025/3,1AI,(Ara Toplam),(Subtotal),1935471048.0
+TOASO,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TOASO,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,829366993.0
+TOASO,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+TOASO,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,130734715.0
+TOASO,2025/3,1BB,Diğer Alacaklar,Other Receivables,28070.0
+TOASO,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2025/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TOASO,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TOASO,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TOASO,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,6835255.0
+TOASO,2025/3,1BFA,Stoklar,Stoklar,0.0
+TOASO,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,990387.0
+TOASO,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,423794527.0
+TOASO,2025/3,1BGA,Şerefiye,Goodwill,0.0
+TOASO,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,106075615.0
+TOASO,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,116003642.0
+TOASO,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,44904781.0
+TOASO,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2764838041.0
+TOASO,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TOASO,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1081871585.0
+TOASO,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,318600084.0
+TOASO,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,479677906.0
+TOASO,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,160407124.0
+TOASO,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,7125367.0
+TOASO,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TOASO,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TOASO,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,14224461.0
+TOASO,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+TOASO,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,71416171.0
+TOASO,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,30420472.0
+TOASO,2025/3,2AAGG,(Ara Toplam),(Subtotal),1081871585.0
+TOASO,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TOASO,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,494744236.0
+TOASO,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,465283491.0
+TOASO,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TOASO,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TOASO,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TOASO,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TOASO,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TOASO,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TOASO,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,29460745.0
+TOASO,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TOASO,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TOASO,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TOASO,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1188222220.0
+TOASO,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1188222220.0
+TOASO,2025/3,2OA,Ödenmiş Sermaye,Share Capital,13215731.0
+TOASO,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TOASO,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TOASO,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TOASO,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TOASO,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,162277282.0
+TOASO,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),476111192.0
+TOASO,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),-3712405.0
+TOASO,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,540330420.0
+TOASO,2025/3,2ODA,Azınlık Payları,Minority Interests,0.0
+TOASO,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2764838041.0
+TOASO,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TOASO,2025/3,3C,Satış Gelirleri,Net Sales,667592797.0
+TOASO,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-639219269.0
+TOASO,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TOASO,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,28373527.0
+TOASO,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",68112524.0
+TOASO,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-55151305.0
+TOASO,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TOASO,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,12961218.0
+TOASO,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TOASO,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),41334746.0
+TOASO,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-32395654.0
+TOASO,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-24529607.0
+TOASO,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-10884414.0
+TOASO,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,69732159.0
+TOASO,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-67384528.0
+TOASO,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TOASO,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-24127298.0
+TOASO,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-26474929.0
+TOASO,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,5823968.0
+TOASO,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TOASO,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TOASO,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TOASO,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-18303330.0
+TOASO,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),77628518.0
+TOASO,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-64522936.0
+TOASO,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,5823968.0
+TOASO,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-5197749.0
+TOASO,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,1323764.0
+TOASO,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-3229892.0
+TOASO,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,4553657.0
+TOASO,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TOASO,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,-3873984.0
+TOASO,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TOASO,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TOASO,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,-3873984.0
+TOASO,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TOASO,2025/3,3LB,Azınlık Payları,Minority Interests,0.0
+TOASO,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,-3873984.0
+TOASO,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TOASO,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TOASO,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TOASO,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TOASO,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,45753113.0
+TOASO,2025/3,4BA,Kıdem Tazminatı,Severance Payments,2512157.0
+TOASO,2025/3,4BB,Finansman Giderleri,Financial Expenses,-64522936.0
+TOASO,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,528876527.0
+TOASO,2025/3,4BD,Yurtdışı Satışlar,Export Sales,112150099.0
+TOASO,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-71921690.0
+TOASO,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-206336925.0
+TOASO,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),253473959.0
+TOASO,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,140072498.0
+TOASO,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,-3873984.0
+TOASO,2025/3,4CAA,Düzeltmeler:,Adjustments:,46993829.0
+TOASO,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,45753113.0
+TOASO,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,15153398.0
+TOASO,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-51341449.0
+TOASO,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),43119844.0
+TOASO,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,110147849.0
+TOASO,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),153267693.0
+TOASO,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-13195195.0
+TOASO,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-28230929.0
+TOASO,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,7886430.0
+TOASO,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-20344499.0
+TOASO,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,119727998.0
+TOASO,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,11814447.0
+TOASO,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TOASO,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TOASO,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,48584255.0
+TOASO,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,60398701.0
+TOASO,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,180126700.0
+TOASO,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,8100879.0
+TOASO,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TOASO,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,188227578.0
+TOASO,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TOASO,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,573155500.0
+TOASO,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,706661829.0
+TOASO,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,2460672303.0
+TOASO,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,401488079.0
+TOASO,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2094373.0
+TOASO,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,989911887.0
+TOASO,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,350787971.0
+TOASO,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,630381.0
+TOASO,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2025/6,1AF,Stoklar,Inventories,701755383.0
+TOASO,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TOASO,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,14004230.0
+TOASO,2025/6,1AI,(Ara Toplam),(Subtotal),2460672303.0
+TOASO,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TOASO,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1076733982.0
+TOASO,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+TOASO,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,133156253.0
+TOASO,2025/6,1BB,Diğer Alacaklar,Other Receivables,28132.0
+TOASO,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2025/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TOASO,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TOASO,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TOASO,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,6885719.0
+TOASO,2025/6,1BFA,Stoklar,Stoklar,0.0
+TOASO,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,915745.0
+TOASO,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,445329269.0
+TOASO,2025/6,1BGA,Şerefiye,Goodwill,180937823.0
+TOASO,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,107012036.0
+TOASO,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,167952874.0
+TOASO,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,34516131.0
+TOASO,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3537406285.0
+TOASO,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TOASO,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1778056711.0
+TOASO,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,395167536.0
+TOASO,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1077197481.0
+TOASO,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,133639997.0
+TOASO,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,13082557.0
+TOASO,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TOASO,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TOASO,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,15089821.0
+TOASO,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3124705.0
+TOASO,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,93910792.0
+TOASO,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,46843823.0
+TOASO,2025/6,2AAGG,(Ara Toplam),(Subtotal),1778056711.0
+TOASO,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TOASO,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,547692277.0
+TOASO,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,507415253.0
+TOASO,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TOASO,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TOASO,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,10480152.0
+TOASO,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TOASO,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TOASO,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TOASO,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,29796872.0
+TOASO,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TOASO,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TOASO,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TOASO,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1211657298.0
+TOASO,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1211657298.0
+TOASO,2025/6,2OA,Ödenmiş Sermaye,Share Capital,12558901.0
+TOASO,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TOASO,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TOASO,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TOASO,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TOASO,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,163475073.0
+TOASO,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),479844345.0
+TOASO,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),40243065.0
+TOASO,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,515535913.0
+TOASO,2025/6,2ODA,Azınlık Payları,Minority Interests,0.0
+TOASO,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3537406285.0
+TOASO,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TOASO,2025/6,3C,Satış Gelirleri,Net Sales,2537054703.0
+TOASO,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2384372802.0
+TOASO,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TOASO,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,152681902.0
+TOASO,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",138197881.0
+TOASO,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-112971278.0
+TOASO,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TOASO,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,25226603.0
+TOASO,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TOASO,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),177908505.0
+TOASO,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-111043374.0
+TOASO,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-56251270.0
+TOASO,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-20662516.0
+TOASO,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,156230695.0
+TOASO,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-163948419.0
+TOASO,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TOASO,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-17766379.0
+TOASO,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-10048655.0
+TOASO,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,7752138.0
+TOASO,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TOASO,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TOASO,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TOASO,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-10014240.0
+TOASO,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),166070113.0
+TOASO,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-122310131.0
+TOASO,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,7752138.0
+TOASO,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,33745741.0
+TOASO,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,8997426.0
+TOASO,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),1794592.0
+TOASO,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,7202833.0
+TOASO,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TOASO,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,42743167.0
+TOASO,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TOASO,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TOASO,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,42743167.0
+TOASO,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TOASO,2025/6,3LB,Azınlık Payları,Minority Interests,0.0
+TOASO,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,42743167.0
+TOASO,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TOASO,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TOASO,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TOASO,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TOASO,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,94367789.0
+TOASO,2025/6,4BA,Kıdem Tazminatı,Severance Payments,4664878.0
+TOASO,2025/6,4BB,Finansman Giderleri,Financial Expenses,-122310131.0
+TOASO,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,2130653043.0
+TOASO,2025/6,4BD,Yurtdışı Satışlar,Export Sales,291388617.0
+TOASO,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-94783036.0
+TOASO,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-434613693.0
+TOASO,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),238988805.0
+TOASO,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,355531686.0
+TOASO,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,42743167.0
+TOASO,2025/6,4CAA,Düzeltmeler:,Adjustments:,104650893.0
+TOASO,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,94367789.0
+TOASO,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,47215935.0
+TOASO,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-87521110.0
+TOASO,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),147394060.0
+TOASO,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,273000502.0
+TOASO,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),420394561.0
+TOASO,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-64862875.0
+TOASO,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-72668157.0
+TOASO,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-292743151.0
+TOASO,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-365411308.0
+TOASO,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,-9879622.0
+TOASO,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-10315438.0
+TOASO,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-169684482.0
+TOASO,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TOASO,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,44628225.0
+TOASO,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-135371694.0
+TOASO,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-145251316.0
+TOASO,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,34837175.0
+TOASO,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TOASO,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-110414141.0
+TOASO,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TOASO,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,587677974.0
+TOASO,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,389561711.0
+TOASO,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,2422684120.0
+TOASO,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,450644997.0
+TOASO,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1954831.0
+TOASO,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1001534573.0
+TOASO,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,404865061.0
+TOASO,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,749274.0
+TOASO,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2025/9,1AF,Stoklar,Inventories,530928055.0
+TOASO,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TOASO,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,26113016.0
+TOASO,2025/9,1AI,(Ara Toplam),(Subtotal),2416789806.0
+TOASO,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,5894314.0
+TOASO,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1090348087.0
+TOASO,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+TOASO,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,151638465.0
+TOASO,2025/9,1BB,Diğer Alacaklar,Other Receivables,28739.0
+TOASO,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TOASO,2025/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+TOASO,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+TOASO,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TOASO,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,6934774.0
+TOASO,2025/9,1BFA,Stoklar,Stoklar,0.0
+TOASO,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,852204.0
+TOASO,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,447648118.0
+TOASO,2025/9,1BGA,Şerefiye,Goodwill,186239875.0
+TOASO,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,95052403.0
+TOASO,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,168480650.0
+TOASO,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,33472858.0
+TOASO,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3513032207.0
+TOASO,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TOASO,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1638462469.0
+TOASO,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,361005036.0
+TOASO,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,985070296.0
+TOASO,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,128765295.0
+TOASO,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,2727072.0
+TOASO,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TOASO,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TOASO,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,28036271.0
+TOASO,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+TOASO,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,98572109.0
+TOASO,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,34286391.0
+TOASO,2025/9,2AAGG,(Ara Toplam),(Subtotal),1638462469.0
+TOASO,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TOASO,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,604926338.0
+TOASO,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,561670835.0
+TOASO,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TOASO,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TOASO,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TOASO,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,10196433.0
+TOASO,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TOASO,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TOASO,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TOASO,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,33059069.0
+TOASO,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TOASO,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TOASO,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+TOASO,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1269643400.0
+TOASO,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1269643400.0
+TOASO,2025/9,2OA,Ödenmiş Sermaye,Share Capital,12024549.0
+TOASO,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TOASO,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TOASO,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TOASO,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+TOASO,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,168265411.0
+TOASO,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),494008215.0
+TOASO,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),70481944.0
+TOASO,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,524863281.0
+TOASO,2025/9,2ODA,Azınlık Payları,Minority Interests,0.0
+TOASO,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3513032207.0
+TOASO,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TOASO,2025/9,3C,Satış Gelirleri,Net Sales,4903535225.0
+TOASO,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-4648532864.0
+TOASO,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TOASO,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,255002361.0
+TOASO,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",219395336.0
+TOASO,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",-179201227.0
+TOASO,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TOASO,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,40194109.0
+TOASO,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TOASO,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),295196469.0
+TOASO,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-197363267.0
+TOASO,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-80772795.0
+TOASO,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-31836175.0
+TOASO,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,201217508.0
+TOASO,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-198917703.0
+TOASO,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TOASO,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-12475962.0
+TOASO,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-14775768.0
+TOASO,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,10812150.0
+TOASO,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TOASO,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TOASO,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+TOASO,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-1663812.0
+TOASO,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),208982024.0
+TOASO,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-126907814.0
+TOASO,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,10812150.0
+TOASO,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,80410398.0
+TOASO,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-4557243.0
+TOASO,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-4980669.0
+TOASO,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,423426.0
+TOASO,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TOASO,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,75853156.0
+TOASO,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TOASO,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TOASO,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,75853156.0
+TOASO,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TOASO,2025/9,3LB,Azınlık Payları,Minority Interests,0.0
+TOASO,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,75853156.0
+TOASO,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TOASO,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TOASO,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TOASO,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TOASO,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,148907996.0
+TOASO,2025/9,4BA,Kıdem Tazminatı,Severance Payments,7076759.0
+TOASO,2025/9,4BB,Finansman Giderleri,Financial Expenses,-126907814.0
+TOASO,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,4225870413.0
+TOASO,2025/9,4BD,Yurtdışı Satışlar,Export Sales,509455820.0
+TOASO,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-157426838.0
+TOASO,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-400256648.0
+TOASO,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),171544121.0
+TOASO,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,473519242.0
+TOASO,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,75853156.0
+TOASO,2025/9,4CAA,Düzeltmeler:,Adjustments:,261645547.0
+TOASO,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,148907996.0
+TOASO,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,75145884.0
+TOASO,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-26499217.0
+TOASO,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),337498703.0
+TOASO,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,230782451.0
+TOASO,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),568281154.0
+TOASO,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-94761912.0
+TOASO,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-98769218.0
+TOASO,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-302881140.0
+TOASO,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-401650358.0
+TOASO,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,71868885.0
+TOASO,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,69478156.0
+TOASO,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-176972416.0
+TOASO,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TOASO,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,9551085.0
+TOASO,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-97943174.0
+TOASO,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-26074289.0
+TOASO,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-23926488.0
+TOASO,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TOASO,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-50000777.0
+TOASO,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TOASO,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,612918703.0
+TOASO,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,433155556.0

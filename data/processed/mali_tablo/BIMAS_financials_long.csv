@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+BIMAS,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,2494015909.0
+BIMAS,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,191914264.0
+BIMAS,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,177013613.0
+BIMAS,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,622283045.0
+BIMAS,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+BIMAS,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,9666186.0
+BIMAS,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2022/12,1AF,Stoklar,Inventories,1302614617.0
+BIMAS,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+BIMAS,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,190524183.0
+BIMAS,2022/12,1AI,(Ara Toplam),(Subtotal),2494015909.0
+BIMAS,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+BIMAS,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,4237830878.0
+BIMAS,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+BIMAS,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+BIMAS,2022/12,1BB,Diğer Alacaklar,Other Receivables,4850897.0
+BIMAS,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2022/12,1BC,Finansal Yatırımlar,Financial Investments,184066784.0
+BIMAS,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+BIMAS,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+BIMAS,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+BIMAS,2022/12,1BFA,Stoklar,Stoklar,0.0
+BIMAS,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,1587828796.0
+BIMAS,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2405447576.0
+BIMAS,2022/12,1BGA,Şerefiye,Goodwill,1180547.0
+BIMAS,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,9300182.0
+BIMAS,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,5049648.0
+BIMAS,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,40106449.0
+BIMAS,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,6731846786.0
+BIMAS,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+BIMAS,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2534222560.0
+BIMAS,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,215543081.0
+BIMAS,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2176674514.0
+BIMAS,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,76553.0
+BIMAS,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+BIMAS,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+BIMAS,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+BIMAS,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,12565129.0
+BIMAS,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),31245729.0
+BIMAS,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,20879618.0
+BIMAS,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,77237935.0
+BIMAS,2022/12,2AAGG,(Ara Toplam),(Subtotal),2534222560.0
+BIMAS,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+BIMAS,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1084910741.0
+BIMAS,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,832174835.0
+BIMAS,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+BIMAS,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+BIMAS,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+BIMAS,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+BIMAS,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+BIMAS,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+BIMAS,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,87553865.0
+BIMAS,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+BIMAS,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,165182041.0
+BIMAS,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+BIMAS,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3112713485.0
+BIMAS,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3082877269.0
+BIMAS,2022/12,2OA,Ödenmiş Sermaye,Share Capital,32415119.0
+BIMAS,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+BIMAS,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+BIMAS,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+BIMAS,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-40568492.0
+BIMAS,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,381108905.0
+BIMAS,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1118531817.0
+BIMAS,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),885983291.0
+BIMAS,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,705406630.0
+BIMAS,2022/12,2ODA,Azınlık Payları,Minority Interests,29836216.0
+BIMAS,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,6731846786.0
+BIMAS,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+BIMAS,2022/12,3C,Satış Gelirleri,Net Sales,16807266321.0
+BIMAS,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-14275184595.0
+BIMAS,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+BIMAS,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2532081726.0
+BIMAS,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+BIMAS,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+BIMAS,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+BIMAS,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2532081726.0
+BIMAS,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1966462590.0
+BIMAS,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-233961570.0
+BIMAS,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+BIMAS,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,39254624.0
+BIMAS,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-21737693.0
+BIMAS,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+BIMAS,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,349174496.0
+BIMAS,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,331657565.0
+BIMAS,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,43955133.0
+BIMAS,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+BIMAS,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+BIMAS,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+BIMAS,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,393129629.0
+BIMAS,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),26123486.0
+BIMAS,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),741927719.0
+BIMAS,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,43955133.0
+BIMAS,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1161180834.0
+BIMAS,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-162118463.0
+BIMAS,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-170341449.0
+BIMAS,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,8222986.0
+BIMAS,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+BIMAS,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,999062371.0
+BIMAS,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+BIMAS,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+BIMAS,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,999062371.0
+BIMAS,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+BIMAS,2022/12,3LB,Azınlık Payları,Minority Interests,192176.0
+BIMAS,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,998870195.0
+BIMAS,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,2.0
+BIMAS,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,2.0
+BIMAS,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,2.0
+BIMAS,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,2.0
+BIMAS,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,488824843.0
+BIMAS,2022/12,4BA,Kıdem Tazminatı,Severance Payments,10737279.0
+BIMAS,2022/12,4BB,Finansman Giderleri,Financial Expenses,741927719.0
+BIMAS,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+BIMAS,2022/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+BIMAS,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-16754789.0
+BIMAS,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-16771641.0
+BIMAS,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-16754789.0
+BIMAS,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1006443107.0
+BIMAS,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,999062371.0
+BIMAS,2022/12,4CAA,Düzeltmeler:,Adjustments:,436148440.0
+BIMAS,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,488824843.0
+BIMAS,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,-20642177.0
+BIMAS,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-32034226.0
+BIMAS,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1435210811.0
+BIMAS,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-118432605.0
+BIMAS,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1316778206.0
+BIMAS,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-310335099.0
+BIMAS,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-494367782.0
+BIMAS,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-80974068.0
+BIMAS,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-575341850.0
+BIMAS,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,431101257.0
+BIMAS,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-16482264.0
+BIMAS,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-210511029.0
+BIMAS,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+BIMAS,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-228052697.0
+BIMAS,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-455045990.0
+BIMAS,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-23944733.0
+BIMAS,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-4185071.0
+BIMAS,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+BIMAS,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-28129804.0
+BIMAS,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+BIMAS,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,243863400.0
+BIMAS,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,215733595.0
+BIMAS,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,1356556006.0
+BIMAS,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,135716030.0
+BIMAS,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,24250350.0
+BIMAS,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,353684796.0
+BIMAS,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+BIMAS,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,5035769.0
+BIMAS,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2022/3,1AF,Stoklar,Inventories,729989293.0
+BIMAS,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+BIMAS,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,107879769.0
+BIMAS,2022/3,1AI,(Ara Toplam),(Subtotal),1356556006.0
+BIMAS,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+BIMAS,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,1203784772.0
+BIMAS,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+BIMAS,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+BIMAS,2022/3,1BB,Diğer Alacaklar,Other Receivables,1094145.0
+BIMAS,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2022/3,1BC,Finansal Yatırımlar,Financial Investments,66665871.0
+BIMAS,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+BIMAS,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+BIMAS,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+BIMAS,2022/3,1BFA,Stoklar,Stoklar,0.0
+BIMAS,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,524333413.0
+BIMAS,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,575410168.0
+BIMAS,2022/3,1BGA,Şerefiye,Goodwill,2813244.0
+BIMAS,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3557063.0
+BIMAS,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,21595935.0
+BIMAS,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,8314932.0
+BIMAS,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2560340778.0
+BIMAS,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+BIMAS,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1438125959.0
+BIMAS,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,128975824.0
+BIMAS,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1221559791.0
+BIMAS,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,55171.0
+BIMAS,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+BIMAS,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+BIMAS,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+BIMAS,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,18380605.0
+BIMAS,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),27728305.0
+BIMAS,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,12703857.0
+BIMAS,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,28722406.0
+BIMAS,2022/3,2AAGG,(Ara Toplam),(Subtotal),1438125959.0
+BIMAS,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+BIMAS,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,501815392.0
+BIMAS,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,474033825.0
+BIMAS,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+BIMAS,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+BIMAS,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+BIMAS,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+BIMAS,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+BIMAS,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+BIMAS,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,27762812.0
+BIMAS,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+BIMAS,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,18754.0
+BIMAS,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+BIMAS,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,620399427.0
+BIMAS,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,608242030.0
+BIMAS,2022/3,2OA,Ödenmiş Sermaye,Share Capital,41408941.0
+BIMAS,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+BIMAS,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+BIMAS,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+BIMAS,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,22165377.0
+BIMAS,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,101671906.0
+BIMAS,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),223774133.0
+BIMAS,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),91492754.0
+BIMAS,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,127728919.0
+BIMAS,2022/3,2ODA,Azınlık Payları,Minority Interests,12157398.0
+BIMAS,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2560340778.0
+BIMAS,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+BIMAS,2022/3,3C,Satış Gelirleri,Net Sales,1954809119.0
+BIMAS,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1592126390.0
+BIMAS,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+BIMAS,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,362682729.0
+BIMAS,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+BIMAS,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+BIMAS,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+BIMAS,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),362682729.0
+BIMAS,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-209044586.0
+BIMAS,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-28520924.0
+BIMAS,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+BIMAS,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,4981217.0
+BIMAS,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1079821.0
+BIMAS,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+BIMAS,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,129018616.0
+BIMAS,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,125117219.0
+BIMAS,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3102266.0
+BIMAS,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-287203.0
+BIMAS,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+BIMAS,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+BIMAS,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,131833679.0
+BIMAS,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),6010368.0
+BIMAS,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-21361600.0
+BIMAS,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2815063.0
+BIMAS,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,116482446.0
+BIMAS,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-20279704.0
+BIMAS,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-22393470.0
+BIMAS,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,2113766.0
+BIMAS,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+BIMAS,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,96202742.0
+BIMAS,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+BIMAS,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+BIMAS,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,96202742.0
+BIMAS,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+BIMAS,2022/3,3LB,Azınlık Payları,Minority Interests,186578.0
+BIMAS,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,96016164.0
+BIMAS,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+BIMAS,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+BIMAS,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+BIMAS,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+BIMAS,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,39823687.0
+BIMAS,2022/3,4BA,Kıdem Tazminatı,Severance Payments,1634975.0
+BIMAS,2022/3,4BB,Finansman Giderleri,Financial Expenses,-21361600.0
+BIMAS,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+BIMAS,2022/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+BIMAS,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-4993599.0
+BIMAS,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-4993599.0
+BIMAS,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-4993599.0
+BIMAS,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,51095891.0
+BIMAS,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,96202742.0
+BIMAS,2022/3,4CAA,Düzeltmeler:,Adjustments:,117327237.0
+BIMAS,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,39823687.0
+BIMAS,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,6926798.0
+BIMAS,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,70576751.0
+BIMAS,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),213529979.0
+BIMAS,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-125206322.0
+BIMAS,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),88323657.0
+BIMAS,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-37227766.0
+BIMAS,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-55905631.0
+BIMAS,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,79921051.0
+BIMAS,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,24015420.0
+BIMAS,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,75111311.0
+BIMAS,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,2139245.0
+BIMAS,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,-2782213.0
+BIMAS,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+BIMAS,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-39170055.0
+BIMAS,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-39813024.0
+BIMAS,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,35298288.0
+BIMAS,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-1010328.0
+BIMAS,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+BIMAS,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,34287960.0
+BIMAS,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+BIMAS,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,107127769.0
+BIMAS,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,141415728.0
+BIMAS,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,1381045628.0
+BIMAS,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,99229843.0
+BIMAS,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,44841236.0
+BIMAS,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,366742035.0
+BIMAS,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+BIMAS,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,4956325.0
+BIMAS,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2022/6,1AF,Stoklar,Inventories,781307979.0
+BIMAS,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+BIMAS,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,83968211.0
+BIMAS,2022/6,1AI,(Ara Toplam),(Subtotal),1381045628.0
+BIMAS,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+BIMAS,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1164371892.0
+BIMAS,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+BIMAS,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+BIMAS,2022/6,1BB,Diğer Alacaklar,Other Receivables,2398960.0
+BIMAS,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2022/6,1BC,Finansal Yatırımlar,Financial Investments,58566387.0
+BIMAS,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+BIMAS,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+BIMAS,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+BIMAS,2022/6,1BFA,Stoklar,Stoklar,0.0
+BIMAS,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,515144026.0
+BIMAS,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,547041351.0
+BIMAS,2022/6,1BGA,Şerefiye,Goodwill,2471452.0
+BIMAS,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3108906.0
+BIMAS,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,17867824.0
+BIMAS,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,17772985.0
+BIMAS,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2545417520.0
+BIMAS,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+BIMAS,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1524600693.0
+BIMAS,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,133464958.0
+BIMAS,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1241928957.0
+BIMAS,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,62449944.0
+BIMAS,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+BIMAS,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+BIMAS,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+BIMAS,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,12667901.0
+BIMAS,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),25631283.0
+BIMAS,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,13842697.0
+BIMAS,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,34614951.0
+BIMAS,2022/6,2AAGG,(Ara Toplam),(Subtotal),1524600693.0
+BIMAS,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+BIMAS,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,481300250.0
+BIMAS,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,456284614.0
+BIMAS,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+BIMAS,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+BIMAS,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+BIMAS,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+BIMAS,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+BIMAS,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+BIMAS,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,25001018.0
+BIMAS,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+BIMAS,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,14618.0
+BIMAS,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+BIMAS,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,539516577.0
+BIMAS,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,527393328.0
+BIMAS,2022/6,2OA,Ödenmiş Sermaye,Share Capital,36378015.0
+BIMAS,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+BIMAS,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+BIMAS,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+BIMAS,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,21836035.0
+BIMAS,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,101489210.0
+BIMAS,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),76124112.0
+BIMAS,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),180793582.0
+BIMAS,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,110772374.0
+BIMAS,2022/6,2ODA,Azınlık Payları,Minority Interests,12123249.0
+BIMAS,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2545417520.0
+BIMAS,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+BIMAS,2022/6,3C,Satış Gelirleri,Net Sales,4127832315.0
+BIMAS,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-3374054014.0
+BIMAS,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+BIMAS,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,753778300.0
+BIMAS,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+BIMAS,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+BIMAS,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+BIMAS,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),753778300.0
+BIMAS,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-431522858.0
+BIMAS,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-56180033.0
+BIMAS,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+BIMAS,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,10915329.0
+BIMAS,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-3598676.0
+BIMAS,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+BIMAS,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,273392063.0
+BIMAS,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,266075410.0
+BIMAS,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,12875281.0
+BIMAS,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+BIMAS,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+BIMAS,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+BIMAS,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,286267343.0
+BIMAS,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),7979935.0
+BIMAS,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-40325224.0
+BIMAS,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,12875281.0
+BIMAS,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,253922054.0
+BIMAS,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-50540863.0
+BIMAS,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-50976423.0
+BIMAS,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,435560.0
+BIMAS,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+BIMAS,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,203381191.0
+BIMAS,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+BIMAS,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+BIMAS,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,203381191.0
+BIMAS,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+BIMAS,2022/6,3LB,Azınlık Payları,Minority Interests,668656.0
+BIMAS,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,202712536.0
+BIMAS,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+BIMAS,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+BIMAS,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+BIMAS,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+BIMAS,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,77631557.0
+BIMAS,2022/6,4BA,Kıdem Tazminatı,Severance Payments,3064168.0
+BIMAS,2022/6,4BB,Finansman Giderleri,Financial Expenses,-40325224.0
+BIMAS,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+BIMAS,2022/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+BIMAS,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-11911595.0
+BIMAS,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-11911595.0
+BIMAS,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-11911595.0
+BIMAS,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,213722782.0
+BIMAS,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,203381191.0
+BIMAS,2022/6,4CAA,Düzeltmeler:,Adjustments:,184677913.0
+BIMAS,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,77631557.0
+BIMAS,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,12341579.0
+BIMAS,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,94704777.0
+BIMAS,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),388059104.0
+BIMAS,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-60632967.0
+BIMAS,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),327426137.0
+BIMAS,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-113703355.0
+BIMAS,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-113392673.0
+BIMAS,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,46902554.0
+BIMAS,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-66490118.0
+BIMAS,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,147232663.0
+BIMAS,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,3587390.0
+BIMAS,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-62851071.0
+BIMAS,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+BIMAS,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-74896813.0
+BIMAS,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-134160494.0
+BIMAS,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,13072169.0
+BIMAS,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-2391885.0
+BIMAS,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+BIMAS,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,10680285.0
+BIMAS,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+BIMAS,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,100551114.0
+BIMAS,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,111231398.0
+BIMAS,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,1456983522.0
+BIMAS,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,60128126.0
+BIMAS,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,125764307.0
+BIMAS,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,407167437.0
+BIMAS,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+BIMAS,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,5410277.0
+BIMAS,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2022/9,1AF,Stoklar,Inventories,767903041.0
+BIMAS,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+BIMAS,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,90610335.0
+BIMAS,2022/9,1AI,(Ara Toplam),(Subtotal),1456983522.0
+BIMAS,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+BIMAS,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1144870123.0
+BIMAS,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+BIMAS,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+BIMAS,2022/9,1BB,Diğer Alacaklar,Other Receivables,2220881.0
+BIMAS,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2022/9,1BC,Finansal Yatırımlar,Financial Investments,52692418.0
+BIMAS,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+BIMAS,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+BIMAS,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+BIMAS,2022/9,1BFA,Stoklar,Stoklar,0.0
+BIMAS,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,506785755.0
+BIMAS,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,544291913.0
+BIMAS,2022/9,1BGA,Şerefiye,Goodwill,2223576.0
+BIMAS,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2730958.0
+BIMAS,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,14872979.0
+BIMAS,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,19051644.0
+BIMAS,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,2601853645.0
+BIMAS,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+BIMAS,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1546626474.0
+BIMAS,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,127314536.0
+BIMAS,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1303470658.0
+BIMAS,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,44228362.0
+BIMAS,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+BIMAS,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+BIMAS,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+BIMAS,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,8248015.0
+BIMAS,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),18414142.0
+BIMAS,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,11545432.0
+BIMAS,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,33405329.0
+BIMAS,2022/9,2AAGG,(Ara Toplam),(Subtotal),1546626474.0
+BIMAS,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+BIMAS,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,473972866.0
+BIMAS,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,451996647.0
+BIMAS,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+BIMAS,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+BIMAS,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+BIMAS,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+BIMAS,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+BIMAS,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+BIMAS,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,21976218.0
+BIMAS,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+BIMAS,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+BIMAS,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+BIMAS,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,581254305.0
+BIMAS,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,570160197.0
+BIMAS,2022/9,2OA,Ödenmiş Sermaye,Share Capital,32729448.0
+BIMAS,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+BIMAS,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+BIMAS,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+BIMAS,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,19614491.0
+BIMAS,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,91310256.0
+BIMAS,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),68489174.0
+BIMAS,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),258354472.0
+BIMAS,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,99662356.0
+BIMAS,2022/9,2ODA,Azınlık Payları,Minority Interests,11094108.0
+BIMAS,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,2601853645.0
+BIMAS,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+BIMAS,2022/9,3C,Satış Gelirleri,Net Sales,6448791576.0
+BIMAS,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-5286460914.0
+BIMAS,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+BIMAS,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1162330662.0
+BIMAS,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+BIMAS,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+BIMAS,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+BIMAS,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1162330662.0
+BIMAS,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-686263867.0
+BIMAS,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-86672775.0
+BIMAS,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+BIMAS,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,15915350.0
+BIMAS,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-4855488.0
+BIMAS,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+BIMAS,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,400453881.0
+BIMAS,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,389394019.0
+BIMAS,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,19063065.0
+BIMAS,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+BIMAS,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+BIMAS,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+BIMAS,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,419516946.0
+BIMAS,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),11305822.0
+BIMAS,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-58463237.0
+BIMAS,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,19063065.0
+BIMAS,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,372359531.0
+BIMAS,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-70390873.0
+BIMAS,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-69351920.0
+BIMAS,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-1038953.0
+BIMAS,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+BIMAS,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,301968657.0
+BIMAS,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+BIMAS,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+BIMAS,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,301968657.0
+BIMAS,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+BIMAS,2022/9,3LB,Azınlık Payları,Minority Interests,769679.0
+BIMAS,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,301198978.0
+BIMAS,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+BIMAS,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+BIMAS,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+BIMAS,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+BIMAS,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,114494332.0
+BIMAS,2022/9,4BA,Kıdem Tazminatı,Severance Payments,4297395.0
+BIMAS,2022/9,4BB,Finansman Giderleri,Financial Expenses,-58463237.0
+BIMAS,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+BIMAS,2022/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+BIMAS,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-9600501.0
+BIMAS,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-9600501.0
+BIMAS,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-9600501.0
+BIMAS,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,375336695.0
+BIMAS,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,301968657.0
+BIMAS,2022/9,4CAA,Düzeltmeler:,Adjustments:,267559898.0
+BIMAS,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,114494332.0
+BIMAS,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,13135695.0
+BIMAS,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,139929871.0
+BIMAS,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),569528556.0
+BIMAS,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-57489513.0
+BIMAS,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),512039043.0
+BIMAS,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-136702347.0
+BIMAS,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-184627556.0
+BIMAS,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-52523613.0
+BIMAS,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-237151170.0
+BIMAS,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,138185525.0
+BIMAS,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,6547110.0
+BIMAS,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-58796610.0
+BIMAS,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+BIMAS,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-107800237.0
+BIMAS,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-160049737.0
+BIMAS,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-21864211.0
+BIMAS,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-2100907.0
+BIMAS,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+BIMAS,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-23965118.0
+BIMAS,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+BIMAS,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,94064660.0
+BIMAS,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,70099541.0
+BIMAS,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,2666114210.0
+BIMAS,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,176575058.0
+BIMAS,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,165548246.0
+BIMAS,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,789423321.0
+BIMAS,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+BIMAS,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,9691265.0
+BIMAS,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2023/12,1AF,Stoklar,Inventories,1337866456.0
+BIMAS,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+BIMAS,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,187009864.0
+BIMAS,2023/12,1AI,(Ara Toplam),(Subtotal),2666114210.0
+BIMAS,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+BIMAS,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,4585930190.0
+BIMAS,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+BIMAS,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+BIMAS,2023/12,1BB,Diğer Alacaklar,Other Receivables,6719744.0
+BIMAS,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2023/12,1BC,Finansal Yatırımlar,Financial Investments,216073215.0
+BIMAS,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+BIMAS,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+BIMAS,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+BIMAS,2023/12,1BFA,Stoklar,Stoklar,0.0
+BIMAS,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,1848286952.0
+BIMAS,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2430168050.0
+BIMAS,2023/12,1BGA,Şerefiye,Goodwill,1082624.0
+BIMAS,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,7835124.0
+BIMAS,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,3409921.0
+BIMAS,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,72354559.0
+BIMAS,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7252044400.0
+BIMAS,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+BIMAS,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2647267601.0
+BIMAS,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,228079535.0
+BIMAS,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2210112982.0
+BIMAS,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,42487.0
+BIMAS,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+BIMAS,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+BIMAS,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+BIMAS,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,17007016.0
+BIMAS,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),68546148.0
+BIMAS,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,28948605.0
+BIMAS,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,94530828.0
+BIMAS,2023/12,2AAGG,(Ara Toplam),(Subtotal),2647267601.0
+BIMAS,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+BIMAS,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1190472953.0
+BIMAS,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,865506370.0
+BIMAS,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+BIMAS,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+BIMAS,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+BIMAS,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+BIMAS,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+BIMAS,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+BIMAS,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,58703279.0
+BIMAS,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+BIMAS,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,266263305.0
+BIMAS,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+BIMAS,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3414303846.0
+BIMAS,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3383473465.0
+BIMAS,2023/12,2OA,Ödenmiş Sermaye,Share Capital,20589123.0
+BIMAS,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+BIMAS,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+BIMAS,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+BIMAS,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-56754806.0
+BIMAS,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,377770292.0
+BIMAS,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1644804400.0
+BIMAS,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),755922628.0
+BIMAS,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,641141828.0
+BIMAS,2023/12,2ODA,Azınlık Payları,Minority Interests,30830380.0
+BIMAS,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7252044400.0
+BIMAS,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+BIMAS,2023/12,3C,Satış Gelirleri,Net Sales,19900527307.0
+BIMAS,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-16769038844.0
+BIMAS,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+BIMAS,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,3131488463.0
+BIMAS,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+BIMAS,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+BIMAS,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+BIMAS,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),3131488463.0
+BIMAS,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2557784880.0
+BIMAS,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-370191744.0
+BIMAS,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+BIMAS,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,91314006.0
+BIMAS,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-54881846.0
+BIMAS,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+BIMAS,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,239943998.0
+BIMAS,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,203511838.0
+BIMAS,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,70153200.0
+BIMAS,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-18750292.0
+BIMAS,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+BIMAS,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+BIMAS,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,291346906.0
+BIMAS,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),23931349.0
+BIMAS,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),1020420341.0
+BIMAS,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,51402908.0
+BIMAS,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1335698597.0
+BIMAS,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-399857647.0
+BIMAS,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-249741075.0
+BIMAS,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-150116571.0
+BIMAS,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+BIMAS,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,935840950.0
+BIMAS,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+BIMAS,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+BIMAS,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,935840950.0
+BIMAS,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+BIMAS,2023/12,3LB,Azınlık Payları,Minority Interests,276056.0
+BIMAS,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,935564895.0
+BIMAS,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,2.0
+BIMAS,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,2.0
+BIMAS,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,2.0
+BIMAS,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,2.0
+BIMAS,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,629679159.0
+BIMAS,2023/12,4BA,Kıdem Tazminatı,Severance Payments,26110585.0
+BIMAS,2023/12,4BB,Finansman Giderleri,Financial Expenses,1020420341.0
+BIMAS,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+BIMAS,2023/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+BIMAS,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,3509280.0
+BIMAS,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,3509280.0
+BIMAS,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),3509280.0
+BIMAS,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1268837248.0
+BIMAS,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,935840950.0
+BIMAS,2023/12,4CAA,Düzeltmeler:,Adjustments:,535691594.0
+BIMAS,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,629679159.0
+BIMAS,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,95550019.0
+BIMAS,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,614708075.0
+BIMAS,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1471532544.0
+BIMAS,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-116831898.0
+BIMAS,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1354700646.0
+BIMAS,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-85863398.0
+BIMAS,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-629179422.0
+BIMAS,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-106113111.0
+BIMAS,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-735292533.0
+BIMAS,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,533544715.0
+BIMAS,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,0.0
+BIMAS,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-208043506.0
+BIMAS,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+BIMAS,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-286902990.0
+BIMAS,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-494946496.0
+BIMAS,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-5282532.0
+BIMAS,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,6000201.0
+BIMAS,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+BIMAS,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,717669.0
+BIMAS,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+BIMAS,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,217819810.0
+BIMAS,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,218537479.0
+BIMAS,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,1875072286.0
+BIMAS,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,89392062.0
+BIMAS,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,120689032.0
+BIMAS,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,469704865.0
+BIMAS,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+BIMAS,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,8463451.0
+BIMAS,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2023/3,1AF,Stoklar,Inventories,1016630828.0
+BIMAS,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+BIMAS,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,170192049.0
+BIMAS,2023/3,1AI,(Ara Toplam),(Subtotal),1875072286.0
+BIMAS,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+BIMAS,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2087352901.0
+BIMAS,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+BIMAS,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+BIMAS,2023/3,1BB,Diğer Alacaklar,Other Receivables,2805845.0
+BIMAS,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2023/3,1BC,Finansal Yatırımlar,Financial Investments,109055754.0
+BIMAS,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+BIMAS,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+BIMAS,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+BIMAS,2023/3,1BFA,Stoklar,Stoklar,0.0
+BIMAS,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,678227363.0
+BIMAS,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1225433817.0
+BIMAS,2023/3,1BGA,Şerefiye,Goodwill,699455.0
+BIMAS,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2630890.0
+BIMAS,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,38723043.0
+BIMAS,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,29776733.0
+BIMAS,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3962425187.0
+BIMAS,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+BIMAS,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1938469027.0
+BIMAS,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,167934260.0
+BIMAS,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1633287714.0
+BIMAS,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,47426.0
+BIMAS,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+BIMAS,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+BIMAS,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+BIMAS,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,45606792.0
+BIMAS,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),31463117.0
+BIMAS,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,16276801.0
+BIMAS,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,43852917.0
+BIMAS,2023/3,2AAGG,(Ara Toplam),(Subtotal),1938469027.0
+BIMAS,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+BIMAS,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,651731152.0
+BIMAS,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,590156454.0
+BIMAS,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+BIMAS,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+BIMAS,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+BIMAS,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+BIMAS,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+BIMAS,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+BIMAS,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,61092100.0
+BIMAS,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+BIMAS,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,482598.0
+BIMAS,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+BIMAS,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1372225008.0
+BIMAS,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1361214470.0
+BIMAS,2023/3,2OA,Ödenmiş Sermaye,Share Capital,31645108.0
+BIMAS,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+BIMAS,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+BIMAS,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+BIMAS,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,23120629.0
+BIMAS,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,94239673.0
+BIMAS,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),486317452.0
+BIMAS,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),70571822.0
+BIMAS,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,655319787.0
+BIMAS,2023/3,2ODA,Azınlık Payları,Minority Interests,11010538.0
+BIMAS,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3962425187.0
+BIMAS,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+BIMAS,2023/3,3C,Satış Gelirleri,Net Sales,5085162645.0
+BIMAS,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-4310769616.0
+BIMAS,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+BIMAS,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,774393029.0
+BIMAS,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+BIMAS,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+BIMAS,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+BIMAS,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),774393029.0
+BIMAS,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-668785314.0
+BIMAS,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-96730680.0
+BIMAS,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+BIMAS,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,7803608.0
+BIMAS,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-16098333.0
+BIMAS,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+BIMAS,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,582311.0
+BIMAS,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,8877035.0
+BIMAS,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,6623691.0
+BIMAS,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1939430.0
+BIMAS,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+BIMAS,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+BIMAS,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,5266572.0
+BIMAS,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1932496.0
+BIMAS,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),222840472.0
+BIMAS,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,4684261.0
+BIMAS,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,230039540.0
+BIMAS,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-163850371.0
+BIMAS,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-34885658.0
+BIMAS,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-128964713.0
+BIMAS,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+BIMAS,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,66189169.0
+BIMAS,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+BIMAS,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+BIMAS,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,66189169.0
+BIMAS,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+BIMAS,2023/3,3LB,Azınlık Payları,Minority Interests,-665725.0
+BIMAS,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,66854894.0
+BIMAS,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+BIMAS,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+BIMAS,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+BIMAS,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+BIMAS,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,163991953.0
+BIMAS,2023/3,4BA,Kıdem Tazminatı,Severance Payments,12429543.0
+BIMAS,2023/3,4BB,Finansman Giderleri,Financial Expenses,222840472.0
+BIMAS,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+BIMAS,2023/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+BIMAS,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1168115.0
+BIMAS,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1168115.0
+BIMAS,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1168115.0
+BIMAS,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,108579341.0
+BIMAS,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,61057404.0
+BIMAS,2023/3,4CAA,Düzeltmeler:,Adjustments:,269284748.0
+BIMAS,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,151277288.0
+BIMAS,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,10778569.0
+BIMAS,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,257393215.0
+BIMAS,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),330342152.0
+BIMAS,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-144378849.0
+BIMAS,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),185963303.0
+BIMAS,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-77383962.0
+BIMAS,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-114534714.0
+BIMAS,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-4661502.0
+BIMAS,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-119196216.0
+BIMAS,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,-10616875.0
+BIMAS,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,22656288.0
+BIMAS,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+BIMAS,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+BIMAS,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-78856516.0
+BIMAS,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-56200229.0
+BIMAS,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-66817103.0
+BIMAS,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,866956.0
+BIMAS,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+BIMAS,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-65950148.0
+BIMAS,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+BIMAS,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,218916253.0
+BIMAS,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,152966105.0
+BIMAS,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,1521033336.0
+BIMAS,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,153898939.0
+BIMAS,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,99289166.0
+BIMAS,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,381086681.0
+BIMAS,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+BIMAS,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,21275087.0
+BIMAS,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2023/6,1AF,Stoklar,Inventories,726236857.0
+BIMAS,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+BIMAS,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,139246606.0
+BIMAS,2023/6,1AI,(Ara Toplam),(Subtotal),1521033336.0
+BIMAS,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+BIMAS,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1712457943.0
+BIMAS,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+BIMAS,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+BIMAS,2023/6,1BB,Diğer Alacaklar,Other Receivables,2420988.0
+BIMAS,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2023/6,1BC,Finansal Yatırımlar,Financial Investments,80887992.0
+BIMAS,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+BIMAS,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+BIMAS,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+BIMAS,2023/6,1BFA,Stoklar,Stoklar,0.0
+BIMAS,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,603722941.0
+BIMAS,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,963813511.0
+BIMAS,2023/6,1BGA,Şerefiye,Goodwill,518794.0
+BIMAS,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3292629.0
+BIMAS,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,28228307.0
+BIMAS,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,29572780.0
+BIMAS,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3233491279.0
+BIMAS,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+BIMAS,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1640565181.0
+BIMAS,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,126132062.0
+BIMAS,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1331088382.0
+BIMAS,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,75350257.0
+BIMAS,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+BIMAS,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+BIMAS,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+BIMAS,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,14836951.0
+BIMAS,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),19301072.0
+BIMAS,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,15210943.0
+BIMAS,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,58645514.0
+BIMAS,2023/6,2AAGG,(Ara Toplam),(Subtotal),1640565181.0
+BIMAS,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+BIMAS,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,582039923.0
+BIMAS,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,534525853.0
+BIMAS,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+BIMAS,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+BIMAS,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+BIMAS,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+BIMAS,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+BIMAS,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+BIMAS,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,47160953.0
+BIMAS,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+BIMAS,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,353117.0
+BIMAS,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+BIMAS,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1010886175.0
+BIMAS,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1002322301.0
+BIMAS,2023/6,2OA,Ödenmiş Sermaye,Share Capital,23471565.0
+BIMAS,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+BIMAS,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+BIMAS,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+BIMAS,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,18361552.0
+BIMAS,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,81517186.0
+BIMAS,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),234834555.0
+BIMAS,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),162325548.0
+BIMAS,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,481811895.0
+BIMAS,2023/6,2ODA,Azınlık Payları,Minority Interests,8563874.0
+BIMAS,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3233491279.0
+BIMAS,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+BIMAS,2023/6,3C,Satış Gelirleri,Net Sales,9978279288.0
+BIMAS,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-8435457101.0
+BIMAS,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+BIMAS,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1542822187.0
+BIMAS,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+BIMAS,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+BIMAS,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+BIMAS,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1542822187.0
+BIMAS,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1297438464.0
+BIMAS,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-193292162.0
+BIMAS,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+BIMAS,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,44953418.0
+BIMAS,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-21134895.0
+BIMAS,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+BIMAS,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,75910084.0
+BIMAS,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,52091561.0
+BIMAS,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,14089728.0
+BIMAS,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1738515.0
+BIMAS,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+BIMAS,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+BIMAS,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,88261297.0
+BIMAS,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),12744227.0
+BIMAS,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),378806662.0
+BIMAS,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,12351213.0
+BIMAS,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,479812186.0
+BIMAS,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-215549536.0
+BIMAS,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-75040877.0
+BIMAS,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-140508660.0
+BIMAS,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+BIMAS,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,264262649.0
+BIMAS,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+BIMAS,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+BIMAS,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,264262649.0
+BIMAS,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+BIMAS,2023/6,3LB,Azınlık Payları,Minority Interests,-1145862.0
+BIMAS,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,265408512.0
+BIMAS,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+BIMAS,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+BIMAS,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+BIMAS,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+BIMAS,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,345340755.0
+BIMAS,2023/6,4BA,Kıdem Tazminatı,Severance Payments,18436419.0
+BIMAS,2023/6,4BB,Finansman Giderleri,Financial Expenses,378806662.0
+BIMAS,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+BIMAS,2023/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+BIMAS,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-4390477.0
+BIMAS,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-4390477.0
+BIMAS,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-4390477.0
+BIMAS,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,911838039.0
+BIMAS,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,264262649.0
+BIMAS,2023/6,4CAA,Düzeltmeler:,Adjustments:,550541269.0
+BIMAS,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,345340755.0
+BIMAS,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,25567643.0
+BIMAS,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,385960360.0
+BIMAS,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),814803918.0
+BIMAS,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,178864923.0
+BIMAS,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),993668841.0
+BIMAS,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-81830802.0
+BIMAS,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-309864627.0
+BIMAS,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-19728892.0
+BIMAS,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-329593519.0
+BIMAS,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,582244521.0
+BIMAS,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,0.0
+BIMAS,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-261337011.0
+BIMAS,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+BIMAS,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-156990967.0
+BIMAS,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-418327978.0
+BIMAS,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,111109910.0
+BIMAS,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,7471463.0
+BIMAS,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+BIMAS,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,118581373.0
+BIMAS,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+BIMAS,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,226445152.0
+BIMAS,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,345026525.0
+BIMAS,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,1883698206.0
+BIMAS,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,118892657.0
+BIMAS,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,257948771.0
+BIMAS,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,504385619.0
+BIMAS,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+BIMAS,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,12870123.0
+BIMAS,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2023/9,1AF,Stoklar,Inventories,875970393.0
+BIMAS,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+BIMAS,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,113630642.0
+BIMAS,2023/9,1AI,(Ara Toplam),(Subtotal),1883698206.0
+BIMAS,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+BIMAS,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1741609896.0
+BIMAS,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+BIMAS,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+BIMAS,2023/9,1BB,Diğer Alacaklar,Other Receivables,2388281.0
+BIMAS,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2023/9,1BC,Finansal Yatırımlar,Financial Investments,76297674.0
+BIMAS,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+BIMAS,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+BIMAS,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+BIMAS,2023/9,1BFA,Stoklar,Stoklar,0.0
+BIMAS,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,640315686.0
+BIMAS,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,955809378.0
+BIMAS,2023/9,1BGA,Şerefiye,Goodwill,489353.0
+BIMAS,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3348538.0
+BIMAS,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,24238752.0
+BIMAS,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,38722234.0
+BIMAS,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3625308102.0
+BIMAS,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+BIMAS,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1929658572.0
+BIMAS,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,142414680.0
+BIMAS,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1577928170.0
+BIMAS,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,59807992.0
+BIMAS,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+BIMAS,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+BIMAS,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+BIMAS,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,11641508.0
+BIMAS,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),50598593.0
+BIMAS,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,18675600.0
+BIMAS,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,68592029.0
+BIMAS,2023/9,2AAGG,(Ara Toplam),(Subtotal),1929658572.0
+BIMAS,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+BIMAS,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,600226099.0
+BIMAS,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,557132830.0
+BIMAS,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+BIMAS,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+BIMAS,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+BIMAS,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+BIMAS,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+BIMAS,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+BIMAS,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,42737184.0
+BIMAS,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+BIMAS,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,356085.0
+BIMAS,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+BIMAS,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1095423430.0
+BIMAS,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1086723693.0
+BIMAS,2023/9,2OA,Ödenmiş Sermaye,Share Capital,22139576.0
+BIMAS,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+BIMAS,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+BIMAS,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+BIMAS,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,17268723.0
+BIMAS,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,76891162.0
+BIMAS,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),221507912.0
+BIMAS,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),293468679.0
+BIMAS,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,455447641.0
+BIMAS,2023/9,2ODA,Azınlık Payları,Minority Interests,8699737.0
+BIMAS,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3625308102.0
+BIMAS,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+BIMAS,2023/9,3C,Satış Gelirleri,Net Sales,14905684390.0
+BIMAS,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-12429081228.0
+BIMAS,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+BIMAS,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2476603163.0
+BIMAS,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+BIMAS,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+BIMAS,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+BIMAS,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2476603163.0
+BIMAS,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1956577978.0
+BIMAS,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-279201537.0
+BIMAS,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+BIMAS,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,62237528.0
+BIMAS,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-27117404.0
+BIMAS,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+BIMAS,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,275943771.0
+BIMAS,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,240823647.0
+BIMAS,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,34323149.0
+BIMAS,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1349974.0
+BIMAS,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+BIMAS,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+BIMAS,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,308916947.0
+BIMAS,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),14861736.0
+BIMAS,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),685588257.0
+BIMAS,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,32973176.0
+BIMAS,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1009366940.0
+BIMAS,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-410628497.0
+BIMAS,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-165320584.0
+BIMAS,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-245307913.0
+BIMAS,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+BIMAS,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,598738444.0
+BIMAS,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+BIMAS,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+BIMAS,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,598738444.0
+BIMAS,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+BIMAS,2023/9,3LB,Azınlık Payları,Minority Interests,-381144.0
+BIMAS,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,599119588.0
+BIMAS,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+BIMAS,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+BIMAS,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+BIMAS,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+BIMAS,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,500485660.0
+BIMAS,2023/9,4BA,Kıdem Tazminatı,Severance Payments,22402272.0
+BIMAS,2023/9,4BB,Finansman Giderleri,Financial Expenses,685588257.0
+BIMAS,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+BIMAS,2023/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+BIMAS,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,608272.0
+BIMAS,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,608272.0
+BIMAS,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),608272.0
+BIMAS,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1216881450.0
+BIMAS,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,598738444.0
+BIMAS,2023/9,4CAA,Düzeltmeler:,Adjustments:,610331062.0
+BIMAS,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,500485660.0
+BIMAS,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,36497351.0
+BIMAS,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,608597737.0
+BIMAS,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1209069505.0
+BIMAS,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,91127673.0
+BIMAS,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1300197179.0
+BIMAS,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-83315728.0
+BIMAS,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-401372610.0
+BIMAS,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-302374341.0
+BIMAS,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-703746951.0
+BIMAS,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,513134499.0
+BIMAS,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,0.0
+BIMAS,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-253379599.0
+BIMAS,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+BIMAS,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-219667110.0
+BIMAS,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-473046709.0
+BIMAS,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-7014159.0
+BIMAS,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,6440574.0
+BIMAS,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+BIMAS,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-573586.0
+BIMAS,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+BIMAS,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,220001540.0
+BIMAS,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,219427954.0
+BIMAS,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,2627613022.0
+BIMAS,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,99903685.0
+BIMAS,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,192508571.0
+BIMAS,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,842192904.0
+BIMAS,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+BIMAS,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,26024374.0
+BIMAS,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2024/12,1AF,Stoklar,Inventories,1316121368.0
+BIMAS,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+BIMAS,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,150862121.0
+BIMAS,2024/12,1AI,(Ara Toplam),(Subtotal),2627613022.0
+BIMAS,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+BIMAS,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,5742290513.0
+BIMAS,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+BIMAS,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+BIMAS,2024/12,1BB,Diğer Alacaklar,Other Receivables,7106416.0
+BIMAS,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2024/12,1BC,Finansal Yatırımlar,Financial Investments,193263765.0
+BIMAS,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+BIMAS,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+BIMAS,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+BIMAS,2024/12,1BFA,Stoklar,Stoklar,0.0
+BIMAS,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,2271223542.0
+BIMAS,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3196752358.0
+BIMAS,2024/12,1BGA,Şerefiye,Goodwill,1133075.0
+BIMAS,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,6580584.0
+BIMAS,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,4496242.0
+BIMAS,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,61734533.0
+BIMAS,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8369903535.0
+BIMAS,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+BIMAS,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2650032232.0
+BIMAS,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,289100724.0
+BIMAS,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2151055468.0
+BIMAS,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,66150.0
+BIMAS,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+BIMAS,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+BIMAS,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+BIMAS,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,28488051.0
+BIMAS,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),46144183.0
+BIMAS,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,34879233.0
+BIMAS,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,100298423.0
+BIMAS,2024/12,2AAGG,(Ara Toplam),(Subtotal),2650032232.0
+BIMAS,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+BIMAS,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1513119331.0
+BIMAS,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,1023118939.0
+BIMAS,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+BIMAS,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+BIMAS,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+BIMAS,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+BIMAS,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+BIMAS,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+BIMAS,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,59329730.0
+BIMAS,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+BIMAS,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,430670662.0
+BIMAS,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+BIMAS,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4206751971.0
+BIMAS,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4174862532.0
+BIMAS,2024/12,2OA,Ödenmiş Sermaye,Share Capital,17179817.0
+BIMAS,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+BIMAS,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+BIMAS,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+BIMAS,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-64836966.0
+BIMAS,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,458263588.0
+BIMAS,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2197573202.0
+BIMAS,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),659614314.0
+BIMAS,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,902699821.0
+BIMAS,2024/12,2ODA,Azınlık Payları,Minority Interests,31889439.0
+BIMAS,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8369903535.0
+BIMAS,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+BIMAS,2024/12,3C,Satış Gelirleri,Net Sales,19824353014.0
+BIMAS,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-16359174864.0
+BIMAS,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+BIMAS,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,3465178150.0
+BIMAS,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+BIMAS,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+BIMAS,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+BIMAS,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),3465178150.0
+BIMAS,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2861982329.0
+BIMAS,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-399242438.0
+BIMAS,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+BIMAS,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,40871162.0
+BIMAS,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-42534210.0
+BIMAS,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+BIMAS,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,202290334.0
+BIMAS,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,203953382.0
+BIMAS,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,160074799.0
+BIMAS,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3367991.0
+BIMAS,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+BIMAS,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+BIMAS,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,358997142.0
+BIMAS,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),4036705.0
+BIMAS,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),626475592.0
+BIMAS,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,156706809.0
+BIMAS,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,989509440.0
+BIMAS,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-279322163.0
+BIMAS,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-185247507.0
+BIMAS,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-94074656.0
+BIMAS,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+BIMAS,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,710187277.0
+BIMAS,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+BIMAS,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,710187277.0
+BIMAS,2024/12,3LB,Azınlık Payları,Minority Interests,999752.0
+BIMAS,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,709187525.0
+BIMAS,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+BIMAS,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+BIMAS,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+BIMAS,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+BIMAS,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,656755383.0
+BIMAS,2024/12,4BA,Kıdem Tazminatı,Severance Payments,15186254.0
+BIMAS,2024/12,4BB,Finansman Giderleri,Financial Expenses,626475592.0
+BIMAS,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+BIMAS,2024/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+BIMAS,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1452658.0
+BIMAS,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1452658.0
+BIMAS,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1452658.0
+BIMAS,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1190610083.0
+BIMAS,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,710187277.0
+BIMAS,2024/12,4CAA,Düzeltmeler:,Adjustments:,717711361.0
+BIMAS,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,656755383.0
+BIMAS,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,24595910.0
+BIMAS,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,604012654.0
+BIMAS,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1427898638.0
+BIMAS,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,7414197.0
+BIMAS,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1435312834.0
+BIMAS,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-244702751.0
+BIMAS,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-675675997.0
+BIMAS,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,29700474.0
+BIMAS,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-645975523.0
+BIMAS,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,544634561.0
+BIMAS,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,0.0
+BIMAS,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-273880647.0
+BIMAS,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+BIMAS,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-330405545.0
+BIMAS,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-604286192.0
+BIMAS,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-89955307.0
+BIMAS,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-1325066.0
+BIMAS,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+BIMAS,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-91280373.0
+BIMAS,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+BIMAS,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,198692303.0
+BIMAS,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,107411931.0
+BIMAS,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,2363816025.0
+BIMAS,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,148848551.0
+BIMAS,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,142964141.0
+BIMAS,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,645409664.0
+BIMAS,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+BIMAS,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,22048442.0
+BIMAS,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2024/3,1AF,Stoklar,Inventories,1189103408.0
+BIMAS,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+BIMAS,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,215441818.0
+BIMAS,2024/3,1AI,(Ara Toplam),(Subtotal),2363816025.0
+BIMAS,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+BIMAS,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,3480906053.0
+BIMAS,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+BIMAS,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+BIMAS,2024/3,1BB,Diğer Alacaklar,Other Receivables,4839907.0
+BIMAS,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2024/3,1BC,Finansal Yatırımlar,Financial Investments,157015020.0
+BIMAS,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+BIMAS,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+BIMAS,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+BIMAS,2024/3,1BFA,Stoklar,Stoklar,0.0
+BIMAS,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,1439493501.0
+BIMAS,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1806583374.0
+BIMAS,2024/3,1BGA,Şerefiye,Goodwill,786709.0
+BIMAS,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,4233635.0
+BIMAS,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,9984850.0
+BIMAS,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,57969057.0
+BIMAS,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5844722078.0
+BIMAS,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+BIMAS,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2301947000.0
+BIMAS,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,175829685.0
+BIMAS,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1886625886.0
+BIMAS,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,27733.0
+BIMAS,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+BIMAS,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+BIMAS,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+BIMAS,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,53833803.0
+BIMAS,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),73948169.0
+BIMAS,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,25071328.0
+BIMAS,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,86610396.0
+BIMAS,2024/3,2AAGG,(Ara Toplam),(Subtotal),2301947000.0
+BIMAS,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+BIMAS,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,940226382.0
+BIMAS,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,658578080.0
+BIMAS,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+BIMAS,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+BIMAS,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+BIMAS,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+BIMAS,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+BIMAS,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+BIMAS,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,36021562.0
+BIMAS,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+BIMAS,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,245626739.0
+BIMAS,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+BIMAS,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2602548696.0
+BIMAS,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2579503055.0
+BIMAS,2024/3,2OA,Ödenmiş Sermaye,Share Capital,18773420.0
+BIMAS,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+BIMAS,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+BIMAS,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+BIMAS,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-40320836.0
+BIMAS,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,274516257.0
+BIMAS,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1744548473.0
+BIMAS,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),119895775.0
+BIMAS,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,462089965.0
+BIMAS,2024/3,2ODA,Azınlık Payları,Minority Interests,23045641.0
+BIMAS,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5844722078.0
+BIMAS,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+BIMAS,2024/3,3C,Satış Gelirleri,Net Sales,4628752818.0
+BIMAS,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-3832260667.0
+BIMAS,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+BIMAS,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,796492151.0
+BIMAS,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+BIMAS,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+BIMAS,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+BIMAS,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),796492151.0
+BIMAS,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-642876382.0
+BIMAS,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-101165966.0
+BIMAS,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+BIMAS,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,10819071.0
+BIMAS,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-9705003.0
+BIMAS,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+BIMAS,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,53563870.0
+BIMAS,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,52449802.0
+BIMAS,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,20942027.0
+BIMAS,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1244008.0
+BIMAS,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+BIMAS,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+BIMAS,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,73261889.0
+BIMAS,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1068461.0
+BIMAS,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),212254730.0
+BIMAS,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,19698020.0
+BIMAS,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,286585081.0
+BIMAS,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-113587696.0
+BIMAS,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-49615668.0
+BIMAS,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-63972029.0
+BIMAS,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+BIMAS,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,172997384.0
+BIMAS,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+BIMAS,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+BIMAS,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,172997384.0
+BIMAS,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+BIMAS,2024/3,3LB,Azınlık Payları,Minority Interests,19283.0
+BIMAS,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,172978102.0
+BIMAS,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+BIMAS,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+BIMAS,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+BIMAS,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+BIMAS,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,146016130.0
+BIMAS,2024/3,4BA,Kıdem Tazminatı,Severance Payments,4008602.0
+BIMAS,2024/3,4BB,Finansman Giderleri,Financial Expenses,212254730.0
+BIMAS,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+BIMAS,2024/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+BIMAS,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2582781.0
+BIMAS,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2582781.0
+BIMAS,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2582781.0
+BIMAS,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,309303473.0
+BIMAS,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,172997384.0
+BIMAS,2024/3,4CAA,Düzeltmeler:,Adjustments:,306874727.0
+BIMAS,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,146016130.0
+BIMAS,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,4718734.0
+BIMAS,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,275372346.0
+BIMAS,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),479872111.0
+BIMAS,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-145739681.0
+BIMAS,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),334132430.0
+BIMAS,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-24828958.0
+BIMAS,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-153909951.0
+BIMAS,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-39994804.0
+BIMAS,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-193904754.0
+BIMAS,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,115398718.0
+BIMAS,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,0.0
+BIMAS,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+BIMAS,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+BIMAS,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-62096731.0
+BIMAS,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-62096731.0
+BIMAS,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,25009834.0
+BIMAS,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,4618025.0
+BIMAS,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+BIMAS,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,29627859.0
+BIMAS,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+BIMAS,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,185121476.0
+BIMAS,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,214749335.0
+BIMAS,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,2253169592.0
+BIMAS,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,142840844.0
+BIMAS,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+BIMAS,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,598869130.0
+BIMAS,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+BIMAS,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,11223373.0
+BIMAS,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2024/6,1AF,Stoklar,Inventories,1138232797.0
+BIMAS,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+BIMAS,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,362003448.0
+BIMAS,2024/6,1AI,(Ara Toplam),(Subtotal),2253169592.0
+BIMAS,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+BIMAS,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,3846240691.0
+BIMAS,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+BIMAS,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+BIMAS,2024/6,1BB,Diğer Alacaklar,Other Receivables,5061745.0
+BIMAS,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2024/6,1BC,Finansal Yatırımlar,Financial Investments,167408143.0
+BIMAS,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+BIMAS,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+BIMAS,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+BIMAS,2024/6,1BFA,Stoklar,Stoklar,0.0
+BIMAS,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,1604232499.0
+BIMAS,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1995903762.0
+BIMAS,2024/6,1BGA,Şerefiye,Goodwill,838794.0
+BIMAS,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,4480056.0
+BIMAS,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,10209455.0
+BIMAS,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,58106236.0
+BIMAS,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,6099410284.0
+BIMAS,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+BIMAS,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2389040179.0
+BIMAS,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,201827838.0
+BIMAS,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1830876957.0
+BIMAS,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,162872378.0
+BIMAS,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+BIMAS,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+BIMAS,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+BIMAS,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,26666140.0
+BIMAS,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),26606751.0
+BIMAS,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,29473351.0
+BIMAS,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,110716764.0
+BIMAS,2024/6,2AAGG,(Ara Toplam),(Subtotal),2389040179.0
+BIMAS,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+BIMAS,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,992675542.0
+BIMAS,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,730452877.0
+BIMAS,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+BIMAS,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+BIMAS,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+BIMAS,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+BIMAS,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+BIMAS,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+BIMAS,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,34707666.0
+BIMAS,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+BIMAS,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,227514999.0
+BIMAS,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+BIMAS,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2717694563.0
+BIMAS,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2695289111.0
+BIMAS,2024/6,2OA,Ödenmiş Sermaye,Share Capital,18464177.0
+BIMAS,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+BIMAS,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+BIMAS,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+BIMAS,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-48363281.0
+BIMAS,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,292687036.0
+BIMAS,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1672950528.0
+BIMAS,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),265322165.0
+BIMAS,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,494228485.0
+BIMAS,2024/6,2ODA,Azınlık Payları,Minority Interests,22405452.0
+BIMAS,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,6099410284.0
+BIMAS,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+BIMAS,2024/6,3C,Satış Gelirleri,Net Sales,9470034161.0
+BIMAS,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-7861289015.0
+BIMAS,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+BIMAS,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1608745146.0
+BIMAS,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+BIMAS,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+BIMAS,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+BIMAS,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1608745146.0
+BIMAS,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1351053726.0
+BIMAS,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-203708978.0
+BIMAS,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+BIMAS,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,21194500.0
+BIMAS,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-13547845.0
+BIMAS,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+BIMAS,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,61629098.0
+BIMAS,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,53982442.0
+BIMAS,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,55511508.0
+BIMAS,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1291161.0
+BIMAS,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+BIMAS,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+BIMAS,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,115849445.0
+BIMAS,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),3002537.0
+BIMAS,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),362445938.0
+BIMAS,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,54220347.0
+BIMAS,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,481297919.0
+BIMAS,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-108545494.0
+BIMAS,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-89897739.0
+BIMAS,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-18647755.0
+BIMAS,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+BIMAS,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,372752425.0
+BIMAS,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+BIMAS,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+BIMAS,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,372752425.0
+BIMAS,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+BIMAS,2024/6,3LB,Azınlık Payları,Minority Interests,122921.0
+BIMAS,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,372629504.0
+BIMAS,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+BIMAS,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+BIMAS,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+BIMAS,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+BIMAS,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,308176765.0
+BIMAS,2024/6,4BA,Kıdem Tazminatı,Severance Payments,8320966.0
+BIMAS,2024/6,4BB,Finansman Giderleri,Financial Expenses,362445938.0
+BIMAS,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+BIMAS,2024/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+BIMAS,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-6481167.0
+BIMAS,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-6481167.0
+BIMAS,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-6481167.0
+BIMAS,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,555742933.0
+BIMAS,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,372752425.0
+BIMAS,2024/6,4CAA,Düzeltmeler:,Adjustments:,384310100.0
+BIMAS,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,308176765.0
+BIMAS,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,21712432.0
+BIMAS,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,276691368.0
+BIMAS,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),757062526.0
+BIMAS,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-63243326.0
+BIMAS,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),693819200.0
+BIMAS,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-138076267.0
+BIMAS,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-354356489.0
+BIMAS,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-10761045.0
+BIMAS,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-365117534.0
+BIMAS,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,190625400.0
+BIMAS,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,0.0
+BIMAS,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-3414592.0
+BIMAS,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+BIMAS,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-134024363.0
+BIMAS,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-137438956.0
+BIMAS,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,9326154.0
+BIMAS,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-850517.0
+BIMAS,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+BIMAS,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,8475637.0
+BIMAS,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+BIMAS,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,192135997.0
+BIMAS,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,200611634.0
+BIMAS,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,2447570072.0
+BIMAS,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,83358122.0
+BIMAS,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,486056052.0
+BIMAS,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,667767922.0
+BIMAS,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+BIMAS,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,2802955.0
+BIMAS,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2024/9,1AF,Stoklar,Inventories,1063775909.0
+BIMAS,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+BIMAS,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,143809113.0
+BIMAS,2024/9,1AI,(Ara Toplam),(Subtotal),2447570072.0
+BIMAS,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+BIMAS,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,4103887574.0
+BIMAS,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+BIMAS,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+BIMAS,2024/9,1BB,Diğer Alacaklar,Other Receivables,5070109.0
+BIMAS,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2024/9,1BC,Finansal Yatırımlar,Financial Investments,175420522.0
+BIMAS,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+BIMAS,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+BIMAS,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+BIMAS,2024/9,1BFA,Stoklar,Stoklar,0.0
+BIMAS,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,1715872742.0
+BIMAS,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2135301865.0
+BIMAS,2024/9,1BGA,Şerefiye,Goodwill,878929.0
+BIMAS,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,5499071.0
+BIMAS,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,3371930.0
+BIMAS,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,62472405.0
+BIMAS,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,6551457646.0
+BIMAS,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+BIMAS,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2523223930.0
+BIMAS,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,219034652.0
+BIMAS,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2002845988.0
+BIMAS,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,119338375.0
+BIMAS,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+BIMAS,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+BIMAS,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+BIMAS,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,24507160.0
+BIMAS,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),45124113.0
+BIMAS,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,26498910.0
+BIMAS,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,85874731.0
+BIMAS,2024/9,2AAGG,(Ara Toplam),(Subtotal),2523223930.0
+BIMAS,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+BIMAS,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1053591545.0
+BIMAS,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,773072566.0
+BIMAS,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+BIMAS,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+BIMAS,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+BIMAS,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+BIMAS,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+BIMAS,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+BIMAS,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,30355416.0
+BIMAS,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+BIMAS,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,250163563.0
+BIMAS,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+BIMAS,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2974642171.0
+BIMAS,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2949838514.0
+BIMAS,2024/9,2OA,Ödenmiş Sermaye,Share Capital,17763475.0
+BIMAS,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+BIMAS,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+BIMAS,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+BIMAS,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-53046354.0
+BIMAS,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,325344986.0
+BIMAS,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1735001273.0
+BIMAS,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),405307745.0
+BIMAS,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,519467388.0
+BIMAS,2024/9,2ODA,Azınlık Payları,Minority Interests,24803657.0
+BIMAS,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,6551457646.0
+BIMAS,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+BIMAS,2024/9,3C,Satış Gelirleri,Net Sales,15173528377.0
+BIMAS,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-12557779678.0
+BIMAS,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+BIMAS,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2615748699.0
+BIMAS,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+BIMAS,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+BIMAS,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+BIMAS,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2615748699.0
+BIMAS,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2194325960.0
+BIMAS,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-308890861.0
+BIMAS,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+BIMAS,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,29620415.0
+BIMAS,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-40159108.0
+BIMAS,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+BIMAS,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,101993185.0
+BIMAS,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,112531877.0
+BIMAS,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,103591574.0
+BIMAS,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1764963.0
+BIMAS,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+BIMAS,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+BIMAS,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,203819796.0
+BIMAS,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),4185254.0
+BIMAS,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),561744981.0
+BIMAS,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,101826611.0
+BIMAS,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,769750031.0
+BIMAS,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-196573947.0
+BIMAS,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-149914839.0
+BIMAS,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-46659108.0
+BIMAS,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+BIMAS,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,573176084.0
+BIMAS,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+BIMAS,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+BIMAS,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,573176084.0
+BIMAS,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+BIMAS,2024/9,3LB,Azınlık Payları,Minority Interests,1084139.0
+BIMAS,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,572091945.0
+BIMAS,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+BIMAS,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+BIMAS,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+BIMAS,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+BIMAS,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,493274721.0
+BIMAS,2024/9,4BA,Kıdem Tazminatı,Severance Payments,12048358.0
+BIMAS,2024/9,4BB,Finansman Giderleri,Financial Expenses,561744981.0
+BIMAS,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+BIMAS,2024/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+BIMAS,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1010068.0
+BIMAS,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1010068.0
+BIMAS,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1010068.0
+BIMAS,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1243865706.0
+BIMAS,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,573176084.0
+BIMAS,2024/9,4CAA,Düzeltmeler:,Adjustments:,602868185.0
+BIMAS,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,493274721.0
+BIMAS,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,23780793.0
+BIMAS,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,454164343.0
+BIMAS,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1176044269.0
+BIMAS,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,245639467.0
+BIMAS,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1421683736.0
+BIMAS,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-177818030.0
+BIMAS,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-535139188.0
+BIMAS,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-501626580.0
+BIMAS,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1036765768.0
+BIMAS,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,207099938.0
+BIMAS,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,14493866.0
+BIMAS,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-53701580.0
+BIMAS,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+BIMAS,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-218072646.0
+BIMAS,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-257280359.0
+BIMAS,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-83151022.0
+BIMAS,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-1532652.0
+BIMAS,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+BIMAS,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-84683674.0
+BIMAS,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+BIMAS,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,202343680.0
+BIMAS,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,117660006.0
+BIMAS,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,2780698927.0
+BIMAS,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,210245601.0
+BIMAS,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,410619659.0
+BIMAS,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,714342901.0
+BIMAS,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+BIMAS,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,21227398.0
+BIMAS,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2025/3,1AF,Stoklar,Inventories,1270852917.0
+BIMAS,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+BIMAS,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,153410452.0
+BIMAS,2025/3,1AI,(Ara Toplam),(Subtotal),2780698927.0
+BIMAS,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+BIMAS,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,4797648208.0
+BIMAS,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+BIMAS,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+BIMAS,2025/3,1BB,Diğer Alacaklar,Other Receivables,5301623.0
+BIMAS,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2025/3,1BC,Finansal Yatırımlar,Financial Investments,158425557.0
+BIMAS,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+BIMAS,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+BIMAS,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+BIMAS,2025/3,1BFA,Stoklar,Stoklar,0.0
+BIMAS,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,1943865733.0
+BIMAS,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2643066155.0
+BIMAS,2025/3,1BGA,Şerefiye,Goodwill,928828.0
+BIMAS,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,5156065.0
+BIMAS,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,4580678.0
+BIMAS,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,36323569.0
+BIMAS,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7578347135.0
+BIMAS,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+BIMAS,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2762000888.0
+BIMAS,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,253798360.0
+BIMAS,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2212868263.0
+BIMAS,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,52836.0
+BIMAS,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+BIMAS,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+BIMAS,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+BIMAS,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,69140766.0
+BIMAS,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),76250988.0
+BIMAS,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,33287254.0
+BIMAS,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,116602421.0
+BIMAS,2025/3,2AAGG,(Ara Toplam),(Subtotal),2762000888.0
+BIMAS,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+BIMAS,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1301596328.0
+BIMAS,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,858708506.0
+BIMAS,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+BIMAS,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+BIMAS,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+BIMAS,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+BIMAS,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+BIMAS,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+BIMAS,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,46522598.0
+BIMAS,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+BIMAS,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,396365225.0
+BIMAS,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+BIMAS,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3514749919.0
+BIMAS,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3487604966.0
+BIMAS,2025/3,2OA,Ödenmiş Sermaye,Share Capital,16049184.0
+BIMAS,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+BIMAS,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+BIMAS,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+BIMAS,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-47975403.0
+BIMAS,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,387016549.0
+BIMAS,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2330783376.0
+BIMAS,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),71499985.0
+BIMAS,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,730231275.0
+BIMAS,2025/3,2ODA,Azınlık Payları,Minority Interests,27144953.0
+BIMAS,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7578347135.0
+BIMAS,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+BIMAS,2025/3,3C,Satış Gelirleri,Net Sales,4074467467.0
+BIMAS,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-3361234009.0
+BIMAS,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+BIMAS,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,713233458.0
+BIMAS,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+BIMAS,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+BIMAS,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+BIMAS,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),713233458.0
+BIMAS,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-644471630.0
+BIMAS,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-93556801.0
+BIMAS,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+BIMAS,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,9352572.0
+BIMAS,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-20349740.0
+BIMAS,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+BIMAS,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-35792141.0
+BIMAS,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-24794972.0
+BIMAS,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,30493139.0
+BIMAS,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-308751.0
+BIMAS,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+BIMAS,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+BIMAS,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-5607753.0
+BIMAS,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),635459.0
+BIMAS,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),181396707.0
+BIMAS,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,30184387.0
+BIMAS,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,176424412.0
+BIMAS,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-101666368.0
+BIMAS,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-54674084.0
+BIMAS,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-46992284.0
+BIMAS,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+BIMAS,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,74758045.0
+BIMAS,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+BIMAS,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+BIMAS,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,74758045.0
+BIMAS,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+BIMAS,2025/3,3LB,Azınlık Payları,Minority Interests,146074.0
+BIMAS,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,74611971.0
+BIMAS,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+BIMAS,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+BIMAS,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+BIMAS,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+BIMAS,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,170492655.0
+BIMAS,2025/3,4BA,Kıdem Tazminatı,Severance Payments,4398233.0
+BIMAS,2025/3,4BB,Finansman Giderleri,Financial Expenses,181396707.0
+BIMAS,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+BIMAS,2025/3,4BD,Yurtdışı Satışlar,Export Sales,0.0
+BIMAS,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,5757854.0
+BIMAS,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,5757854.0
+BIMAS,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),5757854.0
+BIMAS,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,639368680.0
+BIMAS,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,74758045.0
+BIMAS,2025/3,4CAA,Düzeltmeler:,Adjustments:,353000001.0
+BIMAS,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,170492655.0
+BIMAS,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,6505543.0
+BIMAS,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,245000698.0
+BIMAS,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),427758046.0
+BIMAS,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,272822615.0
+BIMAS,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),700580661.0
+BIMAS,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-61211980.0
+BIMAS,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-139687620.0
+BIMAS,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-248912469.0
+BIMAS,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-388600089.0
+BIMAS,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,250768591.0
+BIMAS,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,0.0
+BIMAS,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+BIMAS,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+BIMAS,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-78586767.0
+BIMAS,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-78586767.0
+BIMAS,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,135445721.0
+BIMAS,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-1508563.0
+BIMAS,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+BIMAS,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,133937158.0
+BIMAS,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+BIMAS,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,85459232.0
+BIMAS,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,219396390.0
+BIMAS,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,2492206725.0
+BIMAS,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,73373195.0
+BIMAS,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,268917799.0
+BIMAS,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,715873949.0
+BIMAS,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+BIMAS,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,15278456.0
+BIMAS,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2025/6,1AF,Stoklar,Inventories,1260843782.0
+BIMAS,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+BIMAS,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,157919543.0
+BIMAS,2025/6,1AI,(Ara Toplam),(Subtotal),2492206725.0
+BIMAS,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+BIMAS,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,4929201455.0
+BIMAS,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+BIMAS,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+BIMAS,2025/6,1BB,Diğer Alacaklar,Other Receivables,3731024.0
+BIMAS,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2025/6,1BC,Finansal Yatırımlar,Financial Investments,159594950.0
+BIMAS,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+BIMAS,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+BIMAS,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+BIMAS,2025/6,1BFA,Stoklar,Stoklar,0.0
+BIMAS,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,1991194125.0
+BIMAS,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2729883805.0
+BIMAS,2025/6,1BGA,Şerefiye,Goodwill,935688.0
+BIMAS,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,5574394.0
+BIMAS,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,5556711.0
+BIMAS,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,32730757.0
+BIMAS,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7421408179.0
+BIMAS,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+BIMAS,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2629027690.0
+BIMAS,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,258534627.0
+BIMAS,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2008956556.0
+BIMAS,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,122117782.0
+BIMAS,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+BIMAS,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+BIMAS,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+BIMAS,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,37612829.0
+BIMAS,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),43659538.0
+BIMAS,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,44584652.0
+BIMAS,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,113561704.0
+BIMAS,2025/6,2AAGG,(Ara Toplam),(Subtotal),2629027690.0
+BIMAS,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+BIMAS,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1358680135.0
+BIMAS,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,908471456.0
+BIMAS,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+BIMAS,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+BIMAS,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+BIMAS,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+BIMAS,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+BIMAS,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+BIMAS,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,43651727.0
+BIMAS,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+BIMAS,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,406556952.0
+BIMAS,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+BIMAS,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3433700355.0
+BIMAS,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3405818037.0
+BIMAS,2025/6,2OA,Ödenmiş Sermaye,Share Capital,15070681.0
+BIMAS,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+BIMAS,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+BIMAS,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+BIMAS,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-39636922.0
+BIMAS,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,397114241.0
+BIMAS,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2146639791.0
+BIMAS,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),139676910.0
+BIMAS,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,746953336.0
+BIMAS,2025/6,2ODA,Azınlık Payları,Minority Interests,27882318.0
+BIMAS,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7421408179.0
+BIMAS,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+BIMAS,2025/6,3C,Satış Gelirleri,Net Sales,8265851732.0
+BIMAS,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-6694606792.0
+BIMAS,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+BIMAS,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1571244940.0
+BIMAS,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+BIMAS,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+BIMAS,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+BIMAS,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1571244940.0
+BIMAS,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1316632766.0
+BIMAS,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-182324102.0
+BIMAS,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+BIMAS,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,23266019.0
+BIMAS,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-31479131.0
+BIMAS,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+BIMAS,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,64074960.0
+BIMAS,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,72288072.0
+BIMAS,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,74217389.0
+BIMAS,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-5326712.0
+BIMAS,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+BIMAS,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+BIMAS,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,132965637.0
+BIMAS,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1278928.0
+BIMAS,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),173339348.0
+BIMAS,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,68890677.0
+BIMAS,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,307583913.0
+BIMAS,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-159436647.0
+BIMAS,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-103974466.0
+BIMAS,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-55462181.0
+BIMAS,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+BIMAS,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,148147267.0
+BIMAS,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+BIMAS,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+BIMAS,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,148147267.0
+BIMAS,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+BIMAS,2025/6,3LB,Azınlık Payları,Minority Interests,-207077.0
+BIMAS,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,148354343.0
+BIMAS,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+BIMAS,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+BIMAS,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+BIMAS,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+BIMAS,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,328503074.0
+BIMAS,2025/6,4BA,Kıdem Tazminatı,Severance Payments,8722933.0
+BIMAS,2025/6,4BB,Finansman Giderleri,Financial Expenses,173339348.0
+BIMAS,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+BIMAS,2025/6,4BD,Yurtdışı Satışlar,Export Sales,0.0
+BIMAS,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,2762773.0
+BIMAS,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,2762773.0
+BIMAS,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),2762773.0
+BIMAS,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,594822462.0
+BIMAS,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,148147267.0
+BIMAS,2025/6,4CAA,Düzeltmeler:,Adjustments:,544999929.0
+BIMAS,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,328503074.0
+BIMAS,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,26540107.0
+BIMAS,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,356326031.0
+BIMAS,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),693147196.0
+BIMAS,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,12680678.0
+BIMAS,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),705827873.0
+BIMAS,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-111005411.0
+BIMAS,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-276386478.0
+BIMAS,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-104211769.0
+BIMAS,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-380598247.0
+BIMAS,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,214224215.0
+BIMAS,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,0.0
+BIMAS,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-63387515.0
+BIMAS,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+BIMAS,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-138521408.0
+BIMAS,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-201908923.0
+BIMAS,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-6610816.0
+BIMAS,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-3082245.0
+BIMAS,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+BIMAS,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-9693061.0
+BIMAS,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+BIMAS,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,87624569.0
+BIMAS,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,77931508.0
+BIMAS,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,2769141928.0
+BIMAS,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,86147407.0
+BIMAS,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,371533924.0
+BIMAS,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,803024535.0
+BIMAS,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+BIMAS,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,22898494.0
+BIMAS,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2025/9,1AF,Stoklar,Inventories,1333745334.0
+BIMAS,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+BIMAS,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,151792235.0
+BIMAS,2025/9,1AI,(Ara Toplam),(Subtotal),2769141928.0
+BIMAS,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+BIMAS,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,5088350881.0
+BIMAS,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+BIMAS,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+BIMAS,2025/9,1BB,Diğer Alacaklar,Other Receivables,3865869.0
+BIMAS,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+BIMAS,2025/9,1BC,Finansal Yatırımlar,Financial Investments,164271601.0
+BIMAS,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+BIMAS,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+BIMAS,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+BIMAS,2025/9,1BFA,Stoklar,Stoklar,0.0
+BIMAS,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,2023229529.0
+BIMAS,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2833844922.0
+BIMAS,2025/9,1BGA,Şerefiye,Goodwill,963094.0
+BIMAS,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,7195106.0
+BIMAS,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,5295323.0
+BIMAS,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,49685438.0
+BIMAS,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7857492809.0
+BIMAS,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+BIMAS,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2749361136.0
+BIMAS,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,270033981.0
+BIMAS,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2171480535.0
+BIMAS,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,62107807.0
+BIMAS,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+BIMAS,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+BIMAS,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+BIMAS,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,28243526.0
+BIMAS,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),65140663.0
+BIMAS,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,39628369.0
+BIMAS,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,112726254.0
+BIMAS,2025/9,2AAGG,(Ara Toplam),(Subtotal),2749361136.0
+BIMAS,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+BIMAS,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1416019008.0
+BIMAS,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,904813114.0
+BIMAS,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+BIMAS,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+BIMAS,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+BIMAS,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+BIMAS,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+BIMAS,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+BIMAS,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+BIMAS,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,48185664.0
+BIMAS,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+BIMAS,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,463020230.0
+BIMAS,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+BIMAS,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3692112665.0
+BIMAS,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3656906613.0
+BIMAS,2025/9,2OA,Ödenmiş Sermaye,Share Capital,14429459.0
+BIMAS,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+BIMAS,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+BIMAS,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+BIMAS,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-23274453.0
+BIMAS,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,411260485.0
+BIMAS,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2216454057.0
+BIMAS,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),270622270.0
+BIMAS,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,767414794.0
+BIMAS,2025/9,2ODA,Azınlık Payları,Minority Interests,35206053.0
+BIMAS,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7857492809.0
+BIMAS,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+BIMAS,2025/9,3C,Satış Gelirleri,Net Sales,13271338765.0
+BIMAS,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-10699984124.0
+BIMAS,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+BIMAS,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2571354641.0
+BIMAS,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+BIMAS,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+BIMAS,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+BIMAS,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+BIMAS,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2571354641.0
+BIMAS,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2056018138.0
+BIMAS,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-270990070.0
+BIMAS,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+BIMAS,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,32144531.0
+BIMAS,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-49931802.0
+BIMAS,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+BIMAS,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,226559161.0
+BIMAS,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,244346433.0
+BIMAS,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,109008681.0
+BIMAS,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-15905405.0
+BIMAS,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+BIMAS,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+BIMAS,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,319662438.0
+BIMAS,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1822856.0
+BIMAS,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),259658109.0
+BIMAS,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,93103276.0
+BIMAS,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,581143403.0
+BIMAS,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-286945583.0
+BIMAS,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-180683893.0
+BIMAS,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-106261690.0
+BIMAS,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+BIMAS,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,294197820.0
+BIMAS,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+BIMAS,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+BIMAS,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,294197820.0
+BIMAS,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+BIMAS,2025/9,3LB,Azınlık Payları,Minority Interests,2952260.0
+BIMAS,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,291245560.0
+BIMAS,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+BIMAS,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+BIMAS,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+BIMAS,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+BIMAS,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,516192233.0
+BIMAS,2025/9,4BA,Kıdem Tazminatı,Severance Payments,13242452.0
+BIMAS,2025/9,4BB,Finansman Giderleri,Financial Expenses,259658109.0
+BIMAS,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+BIMAS,2025/9,4BD,Yurtdışı Satışlar,Export Sales,0.0
+BIMAS,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,10697598.0
+BIMAS,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,10697598.0
+BIMAS,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),10697598.0
+BIMAS,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1008363665.0
+BIMAS,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,294197820.0
+BIMAS,2025/9,4CAA,Düzeltmeler:,Adjustments:,856577198.0
+BIMAS,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,516192233.0
+BIMAS,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,30329672.0
+BIMAS,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,564194365.0
+BIMAS,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1150775018.0
+BIMAS,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,14339996.0
+BIMAS,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1165115014.0
+BIMAS,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-156751349.0
+BIMAS,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-410780864.0
+BIMAS,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-227857703.0
+BIMAS,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-638638567.0
+BIMAS,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,369725098.0
+BIMAS,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,4669104.0
+BIMAS,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-127605173.0
+BIMAS,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+BIMAS,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-222546705.0
+BIMAS,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-345482775.0
+BIMAS,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,3426026.0
+BIMAS,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-2101629.0
+BIMAS,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+BIMAS,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1324398.0
+BIMAS,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+BIMAS,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,91388037.0
+BIMAS,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,92712435.0

@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+SISE,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,6619597694.0
+SISE,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2220617766.0
+SISE,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,336718663.0
+SISE,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1745230568.0
+SISE,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SISE,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,39732970.0
+SISE,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,9476884.0
+SISE,2022/12,1AF,Stoklar,Inventories,1837011157.0
+SISE,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SISE,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,430809684.0
+SISE,2022/12,1AI,(Ara Toplam),(Subtotal),6619597694.0
+SISE,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SISE,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,8807759022.0
+SISE,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+SISE,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SISE,2022/12,1BB,Diğer Alacaklar,Other Receivables,8944747.0
+SISE,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SISE,2022/12,1BC,Finansal Yatırımlar,Financial Investments,70718343.0
+SISE,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,166370809.0
+SISE,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SISE,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,488421631.0
+SISE,2022/12,1BFA,Stoklar,Stoklar,0.0
+SISE,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,99603940.0
+SISE,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5593481849.0
+SISE,2022/12,1BGA,Şerefiye,Goodwill,71460602.0
+SISE,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1898205264.0
+SISE,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,76224909.0
+SISE,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,334326927.0
+SISE,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,15427356716.0
+SISE,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+SISE,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3128842622.0
+SISE,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1635049434.0
+SISE,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,996759502.0
+SISE,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,57526105.0
+SISE,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,19603246.0
+SISE,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SISE,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SISE,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,121507367.0
+SISE,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),7274343.0
+SISE,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,100130899.0
+SISE,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,190991725.0
+SISE,2022/12,2AAGG,(Ara Toplam),(Subtotal),3128842622.0
+SISE,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SISE,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3038938608.0
+SISE,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,2491507260.0
+SISE,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SISE,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,449818.0
+SISE,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SISE,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SISE,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SISE,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,23435832.0
+SISE,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,326406577.0
+SISE,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SISE,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,183620115.0
+SISE,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,13519005.0
+SISE,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,9259575486.0
+SISE,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7623165599.0
+SISE,2022/12,2OA,Ödenmiş Sermaye,Share Capital,163528401.0
+SISE,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SISE,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,47721599.0
+SISE,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SISE,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-79293882.0
+SISE,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,454677877.0
+SISE,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3653423126.0
+SISE,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1213900811.0
+SISE,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2169207666.0
+SISE,2022/12,2ODA,Azınlık Payları,Minority Interests,1636409887.0
+SISE,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,15427356716.0
+SISE,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SISE,2022/12,3C,Satış Gelirleri,Net Sales,10271143783.0
+SISE,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-6986011324.0
+SISE,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SISE,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,3285132459.0
+SISE,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SISE,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SISE,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SISE,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),3285132459.0
+SISE,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1410124760.0
+SISE,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-520024462.0
+SISE,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-34096096.0
+SISE,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,608564699.0
+SISE,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-465491966.0
+SISE,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SISE,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1463959874.0
+SISE,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1320887141.0
+SISE,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,582956230.0
+SISE,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-127356764.0
+SISE,2022/12,3HAB,Diğer Gelir ve Giderler,nan,-6694549.0
+SISE,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,34983426.0
+SISE,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1947848217.0
+SISE,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1078777457.0
+SISE,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1479519780.0
+SISE,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,448904917.0
+SISE,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1547105894.0
+SISE,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-100634783.0
+SISE,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-136586310.0
+SISE,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,35951527.0
+SISE,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SISE,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1446471111.0
+SISE,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SISE,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SISE,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1446471111.0
+SISE,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SISE,2022/12,3LB,Azınlık Payları,Minority Interests,77902026.0
+SISE,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,1368569084.0
+SISE,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SISE,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SISE,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SISE,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SISE,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,712066528.0
+SISE,2022/12,4BA,Kıdem Tazminatı,Severance Payments,4094370.0
+SISE,2022/12,4BB,Finansman Giderleri,Financial Expenses,-1479519780.0
+SISE,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,4517295492.0
+SISE,2022/12,4BD,Yurtdışı Satışlar,Export Sales,5753848291.0
+SISE,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1377599653.0
+SISE,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1497805895.0
+SISE,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-431398097.0
+SISE,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1257960790.0
+SISE,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1446471111.0
+SISE,2022/12,4CAA,Düzeltmeler:,Adjustments:,345219097.0
+SISE,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,712066528.0
+SISE,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,115267876.0
+SISE,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-482115308.0
+SISE,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1791690208.0
+SISE,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-300250062.0
+SISE,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1491440146.0
+SISE,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-233479356.0
+SISE,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-666314467.0
+SISE,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,4021966.0
+SISE,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-662292501.0
+SISE,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,595668289.0
+SISE,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,812399837.0
+SISE,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-280875172.0
+SISE,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SISE,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-272812704.0
+SISE,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,258711961.0
+SISE,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,854380250.0
+SISE,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-440162340.0
+SISE,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SISE,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,414217909.0
+SISE,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SISE,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2088935939.0
+SISE,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2503153848.0
+SISE,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,2927152726.0
+SISE,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,970236028.0
+SISE,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,183732806.0
+SISE,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,822935316.0
+SISE,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SISE,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,32757050.0
+SISE,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,10184676.0
+SISE,2022/3,1AF,Stoklar,Inventories,694292290.0
+SISE,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SISE,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,213014560.0
+SISE,2022/3,1AI,(Ara Toplam),(Subtotal),2927152726.0
+SISE,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SISE,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,3861092781.0
+SISE,2022/3,1B,Ticari Alacaklar,Trade Receivables,2591.0
+SISE,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SISE,2022/3,1BB,Diğer Alacaklar,Other Receivables,10690081.0
+SISE,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SISE,2022/3,1BC,Finansal Yatırımlar,Financial Investments,80429979.0
+SISE,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,122483854.0
+SISE,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SISE,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,100168650.0
+SISE,2022/3,1BFA,Stoklar,Stoklar,0.0
+SISE,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,35829099.0
+SISE,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2204610632.0
+SISE,2022/3,1BGA,Şerefiye,Goodwill,306120231.0
+SISE,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,801070345.0
+SISE,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,105185665.0
+SISE,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,94501654.0
+SISE,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,6788245508.0
+SISE,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+SISE,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1607944556.0
+SISE,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,825392369.0
+SISE,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,413993044.0
+SISE,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,124681420.0
+SISE,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,6941590.0
+SISE,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SISE,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SISE,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,52807311.0
+SISE,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),29335834.0
+SISE,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,54673100.0
+SISE,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,100119890.0
+SISE,2022/3,2AAGG,(Ara Toplam),(Subtotal),1607944556.0
+SISE,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SISE,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1493141951.0
+SISE,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,1284166059.0
+SISE,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SISE,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,226822.0
+SISE,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SISE,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SISE,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SISE,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,17511917.0
+SISE,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,158300269.0
+SISE,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SISE,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,27636785.0
+SISE,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,5300099.0
+SISE,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3687159000.0
+SISE,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2933913049.0
+SISE,2022/3,2OA,Ödenmiş Sermaye,Share Capital,208900604.0
+SISE,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SISE,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SISE,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SISE,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,704211409.0
+SISE,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,103512258.0
+SISE,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1216092065.0
+SISE,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),243868653.0
+SISE,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,457328059.0
+SISE,2022/3,2ODA,Azınlık Payları,Minority Interests,753245951.0
+SISE,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,6788245508.0
+SISE,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SISE,2022/3,3C,Satış Gelirleri,Net Sales,1214826217.0
+SISE,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-739013153.0
+SISE,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SISE,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,475813064.0
+SISE,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SISE,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SISE,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SISE,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),475813064.0
+SISE,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-168369667.0
+SISE,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-62009682.0
+SISE,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-4273336.0
+SISE,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,100483736.0
+SISE,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-78643058.0
+SISE,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SISE,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,263001058.0
+SISE,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,241160380.0
+SISE,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,43541798.0
+SISE,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-14099934.0
+SISE,2022/3,3HAB,Diğer Gelir ve Giderler,nan,-1460707.0
+SISE,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,6504975.0
+SISE,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,297487190.0
+SISE,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),193658285.0
+SISE,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-230585679.0
+SISE,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,27981157.0
+SISE,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,260559795.0
+SISE,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,4449609.0
+SISE,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-40310494.0
+SISE,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,44760103.0
+SISE,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SISE,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,265009404.0
+SISE,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SISE,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SISE,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,265009404.0
+SISE,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SISE,2022/3,3LB,Azınlık Payları,Minority Interests,9498744.0
+SISE,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,255510660.0
+SISE,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SISE,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SISE,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SISE,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SISE,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,62055056.0
+SISE,2022/3,4BA,Kıdem Tazminatı,Severance Payments,10605260.0
+SISE,2022/3,4BB,Finansman Giderleri,Financial Expenses,-230585679.0
+SISE,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,657799652.0
+SISE,2022/3,4BD,Yurtdışı Satışlar,Export Sales,557026566.0
+SISE,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,310139514.0
+SISE,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,282532731.0
+SISE,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),480303324.0
+SISE,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-10946354.0
+SISE,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,276600516.0
+SISE,2022/3,4CAA,Düzeltmeler:,Adjustments:,40729597.0
+SISE,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,62055056.0
+SISE,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,7305967.0
+SISE,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-28631425.0
+SISE,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),317330113.0
+SISE,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-216694509.0
+SISE,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),100635604.0
+SISE,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-111581958.0
+SISE,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-84344466.0
+SISE,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,42542348.0
+SISE,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-41802118.0
+SISE,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,-52748472.0
+SISE,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,122209404.0
+SISE,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,-25357467.0
+SISE,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SISE,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-27730954.0
+SISE,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,69120983.0
+SISE,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,16372511.0
+SISE,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,81609273.0
+SISE,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SISE,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,97981784.0
+SISE,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SISE,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,917449672.0
+SISE,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1015431456.0
+SISE,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,3373906383.0
+SISE,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,927518902.0
+SISE,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,289525145.0
+SISE,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1035681668.0
+SISE,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SISE,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,29613454.0
+SISE,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,13671891.0
+SISE,2022/6,1AF,Stoklar,Inventories,786161257.0
+SISE,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SISE,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,291734067.0
+SISE,2022/6,1AI,(Ara Toplam),(Subtotal),3373906383.0
+SISE,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SISE,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,3983115257.0
+SISE,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+SISE,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SISE,2022/6,1BB,Diğer Alacaklar,Other Receivables,5883209.0
+SISE,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SISE,2022/6,1BC,Finansal Yatırımlar,Financial Investments,75415483.0
+SISE,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,127276442.0
+SISE,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SISE,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,87998790.0
+SISE,2022/6,1BFA,Stoklar,Stoklar,0.0
+SISE,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,44064848.0
+SISE,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2256690691.0
+SISE,2022/6,1BGA,Şerefiye,Goodwill,303473705.0
+SISE,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,794009190.0
+SISE,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,126332303.0
+SISE,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,161970596.0
+SISE,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7357021640.0
+SISE,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+SISE,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1954981188.0
+SISE,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1065766143.0
+SISE,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,468297087.0
+SISE,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,52927615.0
+SISE,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,9933499.0
+SISE,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SISE,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SISE,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,78694118.0
+SISE,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),44829972.0
+SISE,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,67138946.0
+SISE,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,167393808.0
+SISE,2022/6,2AAGG,(Ara Toplam),(Subtotal),1954981188.0
+SISE,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SISE,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1440504751.0
+SISE,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,1221152629.0
+SISE,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SISE,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,235331.0
+SISE,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SISE,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SISE,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SISE,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,16735145.0
+SISE,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,168100219.0
+SISE,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SISE,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,28291096.0
+SISE,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,5990330.0
+SISE,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3961535701.0
+SISE,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3210415963.0
+SISE,2022/6,2OA,Ödenmiş Sermaye,Share Capital,183520496.0
+SISE,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SISE,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SISE,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SISE,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,932474088.0
+SISE,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,90936171.0
+SISE,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1023087338.0
+SISE,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),536515092.0
+SISE,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,443882778.0
+SISE,2022/6,2ODA,Azınlık Payları,Minority Interests,751119738.0
+SISE,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7357021640.0
+SISE,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SISE,2022/6,3C,Satış Gelirleri,Net Sales,2702598943.0
+SISE,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1675655698.0
+SISE,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SISE,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1026943246.0
+SISE,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SISE,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SISE,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SISE,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1026943246.0
+SISE,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-368968699.0
+SISE,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-127200269.0
+SISE,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-5868907.0
+SISE,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,224290213.0
+SISE,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-177110631.0
+SISE,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SISE,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,572084953.0
+SISE,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,524905371.0
+SISE,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,85026199.0
+SISE,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-33043771.0
+SISE,2022/6,3HAB,Diğer Gelir ve Giderler,nan,-1118389.0
+SISE,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,26349759.0
+SISE,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,649298751.0
+SISE,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),409789134.0
+SISE,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-429227503.0
+SISE,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,50864039.0
+SISE,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,629860382.0
+SISE,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-9118543.0
+SISE,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-80378996.0
+SISE,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,71260453.0
+SISE,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SISE,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,620741838.0
+SISE,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SISE,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SISE,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,620741838.0
+SISE,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SISE,2022/6,3LB,Azınlık Payları,Minority Interests,22379406.0
+SISE,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,598362432.0
+SISE,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SISE,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SISE,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SISE,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SISE,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,147559602.0
+SISE,2022/6,4BA,Kıdem Tazminatı,Severance Payments,30796043.0
+SISE,2022/6,4BB,Finansman Giderleri,Financial Expenses,-429227503.0
+SISE,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,1509646401.0
+SISE,2022/6,4BD,Yurtdışı Satışlar,Export Sales,1192952542.0
+SISE,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,39193938.0
+SISE,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-40901784.0
+SISE,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),287148405.0
+SISE,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,302296134.0
+SISE,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,620741838.0
+SISE,2022/6,4CAA,Düzeltmeler:,Adjustments:,304693930.0
+SISE,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,147559602.0
+SISE,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,60850411.0
+SISE,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,96283917.0
+SISE,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),925435768.0
+SISE,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-531397121.0
+SISE,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),394038647.0
+SISE,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-91742513.0
+SISE,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-185284163.0
+SISE,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-90119509.0
+SISE,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-275403672.0
+SISE,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,26892462.0
+SISE,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,253920509.0
+SISE,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-108225673.0
+SISE,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SISE,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-151090633.0
+SISE,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-5395797.0
+SISE,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,21496665.0
+SISE,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,144777030.0
+SISE,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SISE,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,166273695.0
+SISE,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SISE,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,861126740.0
+SISE,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1027400436.0
+SISE,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,3477136928.0
+SISE,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,910429062.0
+SISE,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,316459053.0
+SISE,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1044551614.0
+SISE,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SISE,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,49668501.0
+SISE,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,10454881.0
+SISE,2022/9,1AF,Stoklar,Inventories,861847931.0
+SISE,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SISE,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,276314326.0
+SISE,2022/9,1AI,(Ara Toplam),(Subtotal),3469725368.0
+SISE,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,7411560.0
+SISE,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,3812606012.0
+SISE,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+SISE,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SISE,2022/9,1BB,Diğer Alacaklar,Other Receivables,4905321.0
+SISE,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SISE,2022/9,1BC,Finansal Yatırımlar,Financial Investments,51030611.0
+SISE,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,92315210.0
+SISE,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SISE,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,71761310.0
+SISE,2022/9,1BFA,Stoklar,Stoklar,0.0
+SISE,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,45443103.0
+SISE,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2146423424.0
+SISE,2022/9,1BGA,Şerefiye,Goodwill,301234793.0
+SISE,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,784085198.0
+SISE,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,127750497.0
+SISE,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,187656546.0
+SISE,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7289742940.0
+SISE,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+SISE,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1946571278.0
+SISE,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1047340355.0
+SISE,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,506128093.0
+SISE,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,47942605.0
+SISE,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,7401534.0
+SISE,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SISE,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SISE,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,58905353.0
+SISE,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),52247239.0
+SISE,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,57974515.0
+SISE,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,168631583.0
+SISE,2022/9,2AAGG,(Ara Toplam),(Subtotal),1946571278.0
+SISE,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SISE,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1393727233.0
+SISE,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1184375030.0
+SISE,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SISE,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,232642.0
+SISE,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SISE,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SISE,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SISE,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,15533929.0
+SISE,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,162053352.0
+SISE,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SISE,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,24395459.0
+SISE,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,7136820.0
+SISE,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3949444429.0
+SISE,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3188209421.0
+SISE,2022/9,2OA,Ödenmiş Sermaye,Share Capital,165114138.0
+SISE,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SISE,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,9004264.0
+SISE,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SISE,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,875711429.0
+SISE,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,61223905.0
+SISE,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),939257443.0
+SISE,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),741505220.0
+SISE,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,396393023.0
+SISE,2022/9,2ODA,Azınlık Payları,Minority Interests,761235008.0
+SISE,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7289742940.0
+SISE,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SISE,2022/9,3C,Satış Gelirleri,Net Sales,4165079774.0
+SISE,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-2596734100.0
+SISE,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SISE,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1568345674.0
+SISE,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SISE,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SISE,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SISE,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1568345674.0
+SISE,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-592020299.0
+SISE,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-205245375.0
+SISE,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-9973275.0
+SISE,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,255772084.0
+SISE,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-166037811.0
+SISE,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SISE,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,850840998.0
+SISE,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,761106725.0
+SISE,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,101907995.0
+SISE,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-30707915.0
+SISE,2022/9,3HAB,Diğer Gelir ve Giderler,nan,-3586850.0
+SISE,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,9933119.0
+SISE,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,928387347.0
+SISE,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),598551133.0
+SISE,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-604035536.0
+SISE,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,67613230.0
+SISE,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,922902944.0
+SISE,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-31118708.0
+SISE,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-107666133.0
+SISE,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,76547425.0
+SISE,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SISE,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,891784236.0
+SISE,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SISE,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SISE,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,891784236.0
+SISE,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SISE,2022/9,3LB,Azınlık Payları,Minority Interests,34006890.0
+SISE,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,857777346.0
+SISE,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SISE,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SISE,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SISE,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SISE,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,226810965.0
+SISE,2022/9,4BA,Kıdem Tazminatı,Severance Payments,30175274.0
+SISE,2022/9,4BB,Finansman Giderleri,Financial Expenses,-604035536.0
+SISE,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,2460294994.0
+SISE,2022/9,4BD,Yurtdışı Satışlar,Export Sales,2009572745.0
+SISE,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-120268747.0
+SISE,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-246359793.0
+SISE,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),77022127.0
+SISE,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,495053068.0
+SISE,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,891784236.0
+SISE,2022/9,4CAA,Düzeltmeler:,Adjustments:,396584371.0
+SISE,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,226810965.0
+SISE,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,63686723.0
+SISE,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,106086683.0
+SISE,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1288368607.0
+SISE,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-692147877.0
+SISE,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),596220730.0
+SISE,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-101167663.0
+SISE,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-287618871.0
+SISE,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-144507475.0
+SISE,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-432126346.0
+SISE,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,62926722.0
+SISE,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,312955875.0
+SISE,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-142630409.0
+SISE,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SISE,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-217552509.0
+SISE,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-47227043.0
+SISE,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,15699679.0
+SISE,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,242472939.0
+SISE,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SISE,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,258172618.0
+SISE,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SISE,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,805576297.0
+SISE,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1063748914.0
+SISE,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,5525132700.0
+SISE,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1848590805.0
+SISE,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,347252478.0
+SISE,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1344855907.0
+SISE,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SISE,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,49534371.0
+SISE,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,10340507.0
+SISE,2023/12,1AF,Stoklar,Inventories,1611140065.0
+SISE,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SISE,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,313418568.0
+SISE,2023/12,1AI,(Ara Toplam),(Subtotal),5525132700.0
+SISE,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SISE,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,8737998698.0
+SISE,2023/12,1B,Ticari Alacaklar,Trade Receivables,1729.0
+SISE,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SISE,2023/12,1BB,Diğer Alacaklar,Other Receivables,1271087.0
+SISE,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SISE,2023/12,1BC,Finansal Yatırımlar,Financial Investments,49879897.0
+SISE,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,188681238.0
+SISE,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SISE,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,536292500.0
+SISE,2023/12,1BFA,Stoklar,Stoklar,0.0
+SISE,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,125318619.0
+SISE,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5710322061.0
+SISE,2023/12,1BGA,Şerefiye,Goodwill,62387789.0
+SISE,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1668991058.0
+SISE,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,79824016.0
+SISE,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,315028703.0
+SISE,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,14263131398.0
+SISE,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+SISE,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3266467331.0
+SISE,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1921875299.0
+SISE,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,828453815.0
+SISE,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,64687993.0
+SISE,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,14202324.0
+SISE,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SISE,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SISE,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,98550827.0
+SISE,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),18624137.0
+SISE,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,88291394.0
+SISE,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,231781542.0
+SISE,2023/12,2AAGG,(Ara Toplam),(Subtotal),3266467331.0
+SISE,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SISE,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2834088392.0
+SISE,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,2252906111.0
+SISE,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SISE,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,4840817.0
+SISE,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SISE,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SISE,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SISE,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,16948795.0
+SISE,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,285185461.0
+SISE,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SISE,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,259253712.0
+SISE,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,14953495.0
+SISE,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,8162575675.0
+SISE,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6949849481.0
+SISE,2023/12,2OA,Ödenmiş Sermaye,Share Capital,103868395.0
+SISE,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SISE,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,43763212.0
+SISE,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SISE,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-334454398.0
+SISE,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,416963545.0
+SISE,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4251514684.0
+SISE,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),840536701.0
+SISE,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1627657343.0
+SISE,2023/12,2ODA,Azınlık Payları,Minority Interests,1212726194.0
+SISE,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,14263131398.0
+SISE,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SISE,2023/12,3C,Satış Gelirleri,Net Sales,9209439328.0
+SISE,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-6675892446.0
+SISE,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SISE,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2533546882.0
+SISE,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SISE,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SISE,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SISE,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2533546882.0
+SISE,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1281245564.0
+SISE,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-599270240.0
+SISE,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-29707869.0
+SISE,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,968248188.0
+SISE,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-715515363.0
+SISE,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SISE,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,876056033.0
+SISE,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,623323208.0
+SISE,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,410402315.0
+SISE,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-78987818.0
+SISE,2023/12,3HAB,Diğer Gelir ve Giderler,nan,643640.0
+SISE,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,66134867.0
+SISE,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1274249037.0
+SISE,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1106251845.0
+SISE,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-950815979.0
+SISE,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,332058137.0
+SISE,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1429684903.0
+SISE,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-276904306.0
+SISE,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-133185652.0
+SISE,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-143718654.0
+SISE,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SISE,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1152780597.0
+SISE,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SISE,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SISE,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1152780597.0
+SISE,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SISE,2023/12,3LB,Azınlık Payları,Minority Interests,112493403.0
+SISE,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,1040287194.0
+SISE,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SISE,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SISE,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SISE,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SISE,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,622341360.0
+SISE,2023/12,4BA,Kıdem Tazminatı,Severance Payments,3038206.0
+SISE,2023/12,4BB,Finansman Giderleri,Financial Expenses,-950815979.0
+SISE,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,4099859780.0
+SISE,2023/12,4BD,Yurtdışı Satışlar,Export Sales,5109579548.0
+SISE,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1891201270.0
+SISE,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2130382947.0
+SISE,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),650011672.0
+SISE,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,2287805759.0
+SISE,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1152780597.0
+SISE,2023/12,4CAA,Düzeltmeler:,Adjustments:,671540104.0
+SISE,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,622341360.0
+SISE,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,116326874.0
+SISE,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-52376111.0
+SISE,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1824320701.0
+SISE,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,604677790.0
+SISE,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2428998491.0
+SISE,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-141192733.0
+SISE,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1150546972.0
+SISE,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-98301427.0
+SISE,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1248848399.0
+SISE,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,1038957360.0
+SISE,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,335181115.0
+SISE,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-313363534.0
+SISE,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SISE,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-539613531.0
+SISE,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-517795950.0
+SISE,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,521161410.0
+SISE,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,236834113.0
+SISE,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SISE,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,757995524.0
+SISE,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SISE,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2519966987.0
+SISE,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2287193803.0
+SISE,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,3829589844.0
+SISE,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1163696620.0
+SISE,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,168760358.0
+SISE,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1075609502.0
+SISE,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SISE,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,30169170.0
+SISE,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,8151325.0
+SISE,2023/3,1AF,Stoklar,Inventories,1162615725.0
+SISE,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SISE,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,220587144.0
+SISE,2023/3,1AI,(Ara Toplam),(Subtotal),3829589844.0
+SISE,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SISE,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,4871858890.0
+SISE,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+SISE,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SISE,2023/3,1BB,Diğer Alacaklar,Other Receivables,5698934.0
+SISE,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SISE,2023/3,1BC,Finansal Yatırımlar,Financial Investments,43536935.0
+SISE,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,104117512.0
+SISE,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SISE,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,268464441.0
+SISE,2023/3,1BFA,Stoklar,Stoklar,0.0
+SISE,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,65439290.0
+SISE,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2932728348.0
+SISE,2023/3,1BGA,Şerefiye,Goodwill,43723772.0
+SISE,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1120889471.0
+SISE,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,80598349.0
+SISE,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,206661837.0
+SISE,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8701448733.0
+SISE,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+SISE,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2062480639.0
+SISE,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1073309290.0
+SISE,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,512896580.0
+SISE,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,147695932.0
+SISE,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,12345292.0
+SISE,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SISE,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SISE,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,52054170.0
+SISE,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),53258894.0
+SISE,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,81029352.0
+SISE,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,129891129.0
+SISE,2023/3,2AAGG,(Ara Toplam),(Subtotal),2062480639.0
+SISE,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SISE,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1685771584.0
+SISE,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,1437899916.0
+SISE,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SISE,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,290445.0
+SISE,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SISE,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SISE,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SISE,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,13320339.0
+SISE,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,181725940.0
+SISE,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SISE,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,44297887.0
+SISE,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,8237057.0
+SISE,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4953196510.0
+SISE,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3986330741.0
+SISE,2023/3,2OA,Ödenmiş Sermaye,Share Capital,159643836.0
+SISE,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SISE,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,8705949.0
+SISE,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SISE,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,942712401.0
+SISE,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,59195530.0
+SISE,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1892227613.0
+SISE,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),123192185.0
+SISE,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,800653228.0
+SISE,2023/3,2ODA,Azınlık Payları,Minority Interests,966865769.0
+SISE,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8701448733.0
+SISE,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SISE,2023/3,3C,Satış Gelirleri,Net Sales,2785943879.0
+SISE,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1952989886.0
+SISE,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SISE,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,832953992.0
+SISE,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SISE,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SISE,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SISE,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),832953992.0
+SISE,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-353922452.0
+SISE,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-161427076.0
+SISE,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-9622257.0
+SISE,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,120085613.0
+SISE,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-101137282.0
+SISE,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SISE,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,326930538.0
+SISE,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,307982207.0
+SISE,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,18045861.0
+SISE,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-820591.0
+SISE,2023/3,3HAB,Diğer Gelir ve Giderler,nan,3072348.0
+SISE,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,14790013.0
+SISE,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,362018169.0
+SISE,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),169153886.0
+SISE,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-8665007.0
+SISE,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,20297617.0
+SISE,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,522507048.0
+SISE,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-181075800.0
+SISE,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-115270939.0
+SISE,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-65804861.0
+SISE,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SISE,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,341431248.0
+SISE,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SISE,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SISE,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,341431248.0
+SISE,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SISE,2023/3,3LB,Azınlık Payları,Minority Interests,35961149.0
+SISE,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,305470099.0
+SISE,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SISE,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SISE,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SISE,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SISE,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,184959635.0
+SISE,2023/3,4BA,Kıdem Tazminatı,Severance Payments,-1851941.0
+SISE,2023/3,4BB,Finansman Giderleri,Financial Expenses,-8665007.0
+SISE,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,1459340666.0
+SISE,2023/3,4BD,Yurtdışı Satışlar,Export Sales,1110599836.0
+SISE,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-510567298.0
+SISE,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-673638520.0
+SISE,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),400931837.0
+SISE,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,16347570.0
+SISE,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,314959084.0
+SISE,2023/3,4CAA,Düzeltmeler:,Adjustments:,-34648436.0
+SISE,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,170794698.0
+SISE,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,35309503.0
+SISE,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-240752638.0
+SISE,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),280310648.0
+SISE,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-222802417.0
+SISE,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),57508231.0
+SISE,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-41160661.0
+SISE,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-239616227.0
+SISE,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,106253380.0
+SISE,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-133362847.0
+SISE,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,-117015277.0
+SISE,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-18557301.0
+SISE,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,-22560065.0
+SISE,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SISE,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-121974974.0
+SISE,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-163092340.0
+SISE,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-280107618.0
+SISE,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-261627167.0
+SISE,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SISE,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-541734785.0
+SISE,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SISE,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2532841619.0
+SISE,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1991106834.0
+SISE,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,3274307063.0
+SISE,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,817567840.0
+SISE,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,247389059.0
+SISE,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,997151406.0
+SISE,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SISE,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,56502690.0
+SISE,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,8952864.0
+SISE,2023/6,1AF,Stoklar,Inventories,995099344.0
+SISE,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SISE,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,151643860.0
+SISE,2023/6,1AI,(Ara Toplam),(Subtotal),3274307063.0
+SISE,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SISE,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,4530089487.0
+SISE,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+SISE,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SISE,2023/6,1BB,Diğer Alacaklar,Other Receivables,1199903.0
+SISE,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SISE,2023/6,1BC,Finansal Yatırımlar,Financial Investments,33609758.0
+SISE,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,101527198.0
+SISE,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SISE,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,199123373.0
+SISE,2023/6,1BFA,Stoklar,Stoklar,0.0
+SISE,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,75765648.0
+SISE,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2674785888.0
+SISE,2023/6,1BGA,Şerefiye,Goodwill,52378622.0
+SISE,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1103369785.0
+SISE,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,80673609.0
+SISE,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,207655704.0
+SISE,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7804396550.0
+SISE,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+SISE,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1657435407.0
+SISE,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,855453853.0
+SISE,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,473950660.0
+SISE,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,36847806.0
+SISE,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,7779865.0
+SISE,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SISE,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SISE,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,60715357.0
+SISE,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),22833248.0
+SISE,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,57662623.0
+SISE,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,142191994.0
+SISE,2023/6,2AAGG,(Ara Toplam),(Subtotal),1657435407.0
+SISE,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SISE,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1827596754.0
+SISE,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,1574735713.0
+SISE,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SISE,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,139971.0
+SISE,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SISE,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SISE,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SISE,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,10542103.0
+SISE,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,170997387.0
+SISE,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SISE,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,52505373.0
+SISE,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,18676207.0
+SISE,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4319364389.0
+SISE,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3462650254.0
+SISE,2023/6,2OA,Ödenmiş Sermaye,Share Capital,118409794.0
+SISE,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SISE,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,6457309.0
+SISE,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SISE,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,1137676849.0
+SISE,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,43906052.0
+SISE,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1400095865.0
+SISE,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),311902697.0
+SISE,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,444201688.0
+SISE,2023/6,2ODA,Azınlık Payları,Minority Interests,856714136.0
+SISE,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7804396550.0
+SISE,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SISE,2023/6,3C,Satış Gelirleri,Net Sales,5230504970.0
+SISE,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-3748550855.0
+SISE,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SISE,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1481954115.0
+SISE,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SISE,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SISE,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SISE,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1481954115.0
+SISE,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-688871432.0
+SISE,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-318386350.0
+SISE,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-17314899.0
+SISE,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,619222355.0
+SISE,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-450826601.0
+SISE,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SISE,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,625777188.0
+SISE,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,457381435.0
+SISE,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,139687835.0
+SISE,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-11128990.0
+SISE,2023/6,3HAB,Diğer Gelir ve Giderler,nan,2280361.0
+SISE,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,36469976.0
+SISE,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,793086370.0
+SISE,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),671965707.0
+SISE,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-460088647.0
+SISE,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,130839206.0
+SISE,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1004963431.0
+SISE,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-378847721.0
+SISE,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-104490736.0
+SISE,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-274356985.0
+SISE,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SISE,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,626115710.0
+SISE,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SISE,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SISE,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,626115710.0
+SISE,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SISE,2023/6,3LB,Azınlık Payları,Minority Interests,87752429.0
+SISE,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,538363281.0
+SISE,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SISE,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SISE,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SISE,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SISE,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,350250958.0
+SISE,2023/6,4BA,Kıdem Tazminatı,Severance Payments,12809275.0
+SISE,2023/6,4BB,Finansman Giderleri,Financial Expenses,-460088647.0
+SISE,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,2166835407.0
+SISE,2023/6,4BD,Yurtdışı Satışlar,Export Sales,3063669564.0
+SISE,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1201476875.0
+SISE,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1267532462.0
+SISE,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),136080406.0
+SISE,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,816677933.0
+SISE,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,626115710.0
+SISE,2023/6,4CAA,Düzeltmeler:,Adjustments:,689276516.0
+SISE,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,350250958.0
+SISE,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,77258817.0
+SISE,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,390870715.0
+SISE,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1315392226.0
+SISE,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-418884521.0
+SISE,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),896507705.0
+SISE,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-79829772.0
+SISE,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-647667659.0
+SISE,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-229392305.0
+SISE,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-877059964.0
+SISE,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,-60382031.0
+SISE,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,19507184.0
+SISE,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-277186667.0
+SISE,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SISE,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-209701694.0
+SISE,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-467381178.0
+SISE,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-527763209.0
+SISE,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,174729081.0
+SISE,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SISE,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-353034128.0
+SISE,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SISE,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2619940703.0
+SISE,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1834299130.0
+SISE,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,3629102166.0
+SISE,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1142028695.0
+SISE,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,345004084.0
+SISE,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,953744695.0
+SISE,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SISE,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,69436119.0
+SISE,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,5292751.0
+SISE,2023/9,1AF,Stoklar,Inventories,942120907.0
+SISE,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SISE,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,171474914.0
+SISE,2023/9,1AI,(Ara Toplam),(Subtotal),3629102166.0
+SISE,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SISE,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,4481438708.0
+SISE,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+SISE,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SISE,2023/9,1BB,Diğer Alacaklar,Other Receivables,895318.0
+SISE,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SISE,2023/9,1BC,Finansal Yatırımlar,Financial Investments,34164187.0
+SISE,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,112328156.0
+SISE,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SISE,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,187823306.0
+SISE,2023/9,1BFA,Stoklar,Stoklar,0.0
+SISE,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,83570043.0
+SISE,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2643497739.0
+SISE,2023/9,1BGA,Şerefiye,Goodwill,51584154.0
+SISE,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1101885802.0
+SISE,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,64879968.0
+SISE,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,200810034.0
+SISE,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8110540874.0
+SISE,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+SISE,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2049617990.0
+SISE,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1257822942.0
+SISE,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,462858966.0
+SISE,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,34503756.0
+SISE,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,9971633.0
+SISE,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SISE,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SISE,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,46235251.0
+SISE,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),17695289.0
+SISE,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,77636112.0
+SISE,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,142894042.0
+SISE,2023/9,2AAGG,(Ara Toplam),(Subtotal),2049617990.0
+SISE,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SISE,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1792965033.0
+SISE,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1550734267.0
+SISE,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SISE,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,135601.0
+SISE,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SISE,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SISE,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SISE,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,10835083.0
+SISE,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,159070517.0
+SISE,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SISE,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,54254284.0
+SISE,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,17935280.0
+SISE,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4267957850.0
+SISE,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3426205353.0
+SISE,2023/9,2OA,Ödenmiş Sermaye,Share Capital,111690148.0
+SISE,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SISE,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,6090863.0
+SISE,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SISE,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,1111248779.0
+SISE,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,41414424.0
+SISE,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1312778349.0
+SISE,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),487127033.0
+SISE,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,355855757.0
+SISE,2023/9,2ODA,Azınlık Payları,Minority Interests,841752498.0
+SISE,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8110540874.0
+SISE,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SISE,2023/9,3C,Satış Gelirleri,Net Sales,7162158315.0
+SISE,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-5097282890.0
+SISE,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SISE,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2064875425.0
+SISE,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SISE,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SISE,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SISE,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2064875425.0
+SISE,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-946746061.0
+SISE,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-454551333.0
+SISE,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-26059426.0
+SISE,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,736993383.0
+SISE,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-587377998.0
+SISE,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SISE,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,787133989.0
+SISE,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,637518605.0
+SISE,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,211536186.0
+SISE,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-29463280.0
+SISE,2023/9,3HAB,Diğer Gelir ve Giderler,nan,2479351.0
+SISE,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,47186548.0
+SISE,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1018872794.0
+SISE,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),876911013.0
+SISE,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-573074621.0
+SISE,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,184552256.0
+SISE,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1322709186.0
+SISE,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-736149019.0
+SISE,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-116602522.0
+SISE,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-619546496.0
+SISE,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SISE,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,586560167.0
+SISE,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SISE,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SISE,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,586560167.0
+SISE,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SISE,2023/9,3LB,Azınlık Payları,Minority Interests,93191059.0
+SISE,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,493369108.0
+SISE,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SISE,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SISE,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SISE,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SISE,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,448051702.0
+SISE,2023/9,4BA,Kıdem Tazminatı,Severance Payments,5537243.0
+SISE,2023/9,4BB,Finansman Giderleri,Financial Expenses,-573074621.0
+SISE,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,4584070640.0
+SISE,2023/9,4BD,Yurtdışı Satışlar,Export Sales,3064918638.0
+SISE,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1374913087.0
+SISE,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1509826518.0
+SISE,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),368341864.0
+SISE,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,929547773.0
+SISE,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,586560167.0
+SISE,2023/9,4CAA,Düzeltmeler:,Adjustments:,351569137.0
+SISE,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,448051702.0
+SISE,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,69359620.0
+SISE,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,412472683.0
+SISE,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),938129304.0
+SISE,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,118992230.0
+SISE,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1057121533.0
+SISE,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-127573760.0
+SISE,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-853349407.0
+SISE,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-216337133.0
+SISE,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1069686540.0
+SISE,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,-140138767.0
+SISE,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,946269462.0
+SISE,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-252496044.0
+SISE,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SISE,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-335616583.0
+SISE,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,358156835.0
+SISE,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,218018068.0
+SISE,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,192684216.0
+SISE,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SISE,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,410702284.0
+SISE,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SISE,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2545353340.0
+SISE,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2109108500.0
+SISE,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,4762842106.0
+SISE,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1904274410.0
+SISE,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,117338297.0
+SISE,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,926118882.0
+SISE,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SISE,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,22739423.0
+SISE,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,5170238.0
+SISE,2024/12,1AF,Stoklar,Inventories,1507397177.0
+SISE,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SISE,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,279803679.0
+SISE,2024/12,1AI,(Ara Toplam),(Subtotal),4762842106.0
+SISE,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SISE,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,9398017506.0
+SISE,2024/12,1B,Ticari Alacaklar,Trade Receivables,31798.0
+SISE,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SISE,2024/12,1BB,Diğer Alacaklar,Other Receivables,1949202.0
+SISE,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SISE,2024/12,1BC,Finansal Yatırımlar,Financial Investments,60191141.0
+SISE,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,137994798.0
+SISE,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SISE,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,563982868.0
+SISE,2024/12,1BFA,Stoklar,Stoklar,0.0
+SISE,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,107630367.0
+SISE,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,6179564790.0
+SISE,2024/12,1BGA,Şerefiye,Goodwill,52943765.0
+SISE,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1679101403.0
+SISE,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,188107758.0
+SISE,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,426519616.0
+SISE,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,14160859612.0
+SISE,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+SISE,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2823874778.0
+SISE,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1189877178.0
+SISE,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,861985332.0
+SISE,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,386369784.0
+SISE,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,8257980.0
+SISE,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SISE,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SISE,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,75730423.0
+SISE,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),9403582.0
+SISE,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,120129285.0
+SISE,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,172121215.0
+SISE,2024/12,2AAGG,(Ara Toplam),(Subtotal),2823874778.0
+SISE,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SISE,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3951473564.0
+SISE,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,3450616481.0
+SISE,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SISE,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,159237.0
+SISE,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SISE,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SISE,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SISE,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,11757422.0
+SISE,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,198356141.0
+SISE,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SISE,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,264479421.0
+SISE,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,26104861.0
+SISE,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,7385511271.0
+SISE,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,6603214528.0
+SISE,2024/12,2OA,Ödenmiş Sermaye,Share Capital,86669062.0
+SISE,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SISE,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,45802571.0
+SISE,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SISE,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-1072758590.0
+SISE,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,436393987.0
+SISE,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5229454276.0
+SISE,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),178238355.0
+SISE,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1677375281.0
+SISE,2024/12,2ODA,Azınlık Payları,Minority Interests,782296743.0
+SISE,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,14160859612.0
+SISE,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SISE,2024/12,3C,Satış Gelirleri,Net Sales,7081259762.0
+SISE,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-5477777237.0
+SISE,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SISE,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1603482525.0
+SISE,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SISE,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SISE,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SISE,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1603482525.0
+SISE,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1141947176.0
+SISE,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-583804595.0
+SISE,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-40627004.0
+SISE,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,396408396.0
+SISE,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-332831780.0
+SISE,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SISE,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-99319633.0
+SISE,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-162896250.0
+SISE,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,117063607.0
+SISE,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-85285906.0
+SISE,2024/12,3HAB,Diğer Gelir ve Giderler,nan,-272850.0
+SISE,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,22615255.0
+SISE,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-45199528.0
+SISE,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),709265477.0
+SISE,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-540924391.0
+SISE,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,31504851.0
+SISE,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,123141558.0
+SISE,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,76902787.0
+SISE,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-24022317.0
+SISE,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,100925105.0
+SISE,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SISE,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,200044345.0
+SISE,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SISE,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,200044345.0
+SISE,2024/12,3LB,Azınlık Payları,Minority Interests,8410514.0
+SISE,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,191633831.0
+SISE,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SISE,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SISE,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SISE,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SISE,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,575799827.0
+SISE,2024/12,4BA,Kıdem Tazminatı,Severance Payments,2226682.0
+SISE,2024/12,4BB,Finansman Giderleri,Financial Expenses,-540924391.0
+SISE,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,3210414275.0
+SISE,2024/12,4BD,Yurtdışı Satışlar,Export Sales,3870845487.0
+SISE,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1988162820.0
+SISE,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2119695395.0
+SISE,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-537877326.0
+SISE,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1123858620.0
+SISE,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,200044345.0
+SISE,2024/12,4CAA,Düzeltmeler:,Adjustments:,386821508.0
+SISE,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,575799827.0
+SISE,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,56200728.0
+SISE,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,150085866.0
+SISE,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),586865853.0
+SISE,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,606045544.0
+SISE,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1192911398.0
+SISE,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-69052778.0
+SISE,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1085422774.0
+SISE,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,366927316.0
+SISE,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-718495458.0
+SISE,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,405363162.0
+SISE,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1063669110.0
+SISE,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-151843082.0
+SISE,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SISE,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-780989792.0
+SISE,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,130836236.0
+SISE,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,536199398.0
+SISE,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,70637264.0
+SISE,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SISE,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,606836661.0
+SISE,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SISE,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2079495962.0
+SISE,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2046942482.0
+SISE,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,3675039451.0
+SISE,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1187028315.0
+SISE,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,129126350.0
+SISE,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,936441831.0
+SISE,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SISE,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,25963931.0
+SISE,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,6934540.0
+SISE,2024/3,1AF,Stoklar,Inventories,1118632094.0
+SISE,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SISE,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,270912391.0
+SISE,2024/3,1AI,(Ara Toplam),(Subtotal),3675039451.0
+SISE,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SISE,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,6314484133.0
+SISE,2024/3,1B,Ticari Alacaklar,Trade Receivables,1206.0
+SISE,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SISE,2024/3,1BB,Diğer Alacaklar,Other Receivables,1037949.0
+SISE,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SISE,2024/3,1BC,Finansal Yatırımlar,Financial Investments,35536335.0
+SISE,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,131649414.0
+SISE,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SISE,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,389711040.0
+SISE,2024/3,1BFA,Stoklar,Stoklar,0.0
+SISE,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,91101145.0
+SISE,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4115440922.0
+SISE,2024/3,1BGA,Şerefiye,Goodwill,42811746.0
+SISE,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1159711689.0
+SISE,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,46133640.0
+SISE,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,301349046.0
+SISE,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9989523584.0
+SISE,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+SISE,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2188203694.0
+SISE,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1205642044.0
+SISE,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,511113976.0
+SISE,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,103045487.0
+SISE,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,11068867.0
+SISE,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SISE,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SISE,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,68075508.0
+SISE,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2657404.0
+SISE,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,106102104.0
+SISE,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,180498306.0
+SISE,2024/3,2AAGG,(Ara Toplam),(Subtotal),2188203694.0
+SISE,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SISE,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2131772159.0
+SISE,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,1720563512.0
+SISE,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SISE,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,3527900.0
+SISE,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SISE,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SISE,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SISE,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,11152686.0
+SISE,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,170698036.0
+SISE,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SISE,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,218312927.0
+SISE,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,7517098.0
+SISE,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,5669547731.0
+SISE,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4842627104.0
+SISE,2024/3,2OA,Ödenmiş Sermaye,Share Capital,94708505.0
+SISE,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SISE,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,31801686.0
+SISE,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SISE,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-375204956.0
+SISE,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,302997533.0
+SISE,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3637667730.0
+SISE,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),72822908.0
+SISE,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1077833698.0
+SISE,2024/3,2ODA,Azınlık Payları,Minority Interests,826920627.0
+SISE,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9989523584.0
+SISE,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SISE,2024/3,3C,Satış Gelirleri,Net Sales,1810328174.0
+SISE,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1401714136.0
+SISE,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SISE,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,408614038.0
+SISE,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SISE,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SISE,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SISE,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),408614038.0
+SISE,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-294771920.0
+SISE,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-127275204.0
+SISE,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-8366682.0
+SISE,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,138987835.0
+SISE,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-107157390.0
+SISE,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SISE,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,10030677.0
+SISE,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-21799768.0
+SISE,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,21938784.0
+SISE,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-442662.0
+SISE,2024/3,3HAB,Diğer Gelir ve Giderler,nan,674086.0
+SISE,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,19025807.0
+SISE,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,51226692.0
+SISE,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),221693717.0
+SISE,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-70675523.0
+SISE,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,22170208.0
+SISE,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,202244886.0
+SISE,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-96123399.0
+SISE,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-11011219.0
+SISE,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-85112180.0
+SISE,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SISE,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,106121487.0
+SISE,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SISE,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SISE,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,106121487.0
+SISE,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SISE,2024/3,3LB,Azınlık Payları,Minority Interests,2980095.0
+SISE,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,103141392.0
+SISE,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SISE,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SISE,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SISE,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SISE,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,153901133.0
+SISE,2024/3,4BA,Kıdem Tazminatı,Severance Payments,655127.0
+SISE,2024/3,4BB,Finansman Giderleri,Financial Expenses,-70675523.0
+SISE,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,770030140.0
+SISE,2024/3,4BD,Yurtdışı Satışlar,Export Sales,1040298034.0
+SISE,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-851369633.0
+SISE,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1015342075.0
+SISE,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),505317275.0
+SISE,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,108906591.0
+SISE,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,106121487.0
+SISE,2024/3,4CAA,Düzeltmeler:,Adjustments:,32166196.0
+SISE,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,153901133.0
+SISE,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,72930272.0
+SISE,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,4296388.0
+SISE,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),138287683.0
+SISE,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,8320817.0
+SISE,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),146608500.0
+SISE,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-37701909.0
+SISE,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-189442735.0
+SISE,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,96723294.0
+SISE,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-92719441.0
+SISE,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,16187150.0
+SISE,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,120142904.0
+SISE,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,-15085195.0
+SISE,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SISE,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-170633205.0
+SISE,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-65575495.0
+SISE,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-49388345.0
+SISE,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,78192894.0
+SISE,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SISE,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,28804549.0
+SISE,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SISE,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1937470660.0
+SISE,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1712546076.0
+SISE,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,4546574792.0
+SISE,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2034038157.0
+SISE,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,19995287.0
+SISE,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1010452360.0
+SISE,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SISE,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,59105315.0
+SISE,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,7090220.0
+SISE,2024/6,1AF,Stoklar,Inventories,1180955837.0
+SISE,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SISE,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,234937617.0
+SISE,2024/6,1AI,(Ara Toplam),(Subtotal),4546574792.0
+SISE,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SISE,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,6676752409.0
+SISE,2024/6,1B,Ticari Alacaklar,Trade Receivables,1186.0
+SISE,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SISE,2024/6,1BB,Diğer Alacaklar,Other Receivables,1485162.0
+SISE,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SISE,2024/6,1BC,Finansal Yatırımlar,Financial Investments,78192810.0
+SISE,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,122106564.0
+SISE,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SISE,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,415506807.0
+SISE,2024/6,1BFA,Stoklar,Stoklar,0.0
+SISE,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,90843203.0
+SISE,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4382242461.0
+SISE,2024/6,1BGA,Şerefiye,Goodwill,42743840.0
+SISE,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1170327684.0
+SISE,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,73798171.0
+SISE,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,299504520.0
+SISE,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,11223327201.0
+SISE,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+SISE,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1913570744.0
+SISE,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1020534525.0
+SISE,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,519560290.0
+SISE,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,33865587.0
+SISE,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,11188555.0
+SISE,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SISE,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SISE,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,72796812.0
+SISE,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3953803.0
+SISE,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,95007861.0
+SISE,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,156663312.0
+SISE,2024/6,2AAGG,(Ara Toplam),(Subtotal),1913570744.0
+SISE,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SISE,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3423405960.0
+SISE,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,3028248640.0
+SISE,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SISE,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,3542616.0
+SISE,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SISE,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SISE,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SISE,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,10666924.0
+SISE,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,190133433.0
+SISE,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SISE,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,156416788.0
+SISE,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,34397558.0
+SISE,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,5886350497.0
+SISE,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5065102401.0
+SISE,2024/6,2OA,Ödenmiş Sermaye,Share Capital,93148428.0
+SISE,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SISE,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,33906700.0
+SISE,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SISE,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-532581001.0
+SISE,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,323053522.0
+SISE,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3870001125.0
+SISE,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),149868117.0
+SISE,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1127705510.0
+SISE,2024/6,2ODA,Azınlık Payları,Minority Interests,821248096.0
+SISE,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,11223327201.0
+SISE,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SISE,2024/6,3C,Satış Gelirleri,Net Sales,3663973069.0
+SISE,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-2825061427.0
+SISE,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SISE,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,838911642.0
+SISE,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SISE,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SISE,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SISE,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),838911642.0
+SISE,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-600139971.0
+SISE,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-301862571.0
+SISE,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-15649614.0
+SISE,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,190941004.0
+SISE,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-169914298.0
+SISE,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SISE,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-57713809.0
+SISE,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-78740514.0
+SISE,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,39675156.0
+SISE,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-6629735.0
+SISE,2024/6,3HAB,Diğer Gelir ve Giderler,nan,-2935969.0
+SISE,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,35613450.0
+SISE,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,8009094.0
+SISE,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),476330386.0
+SISE,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-305790130.0
+SISE,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,30109453.0
+SISE,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,178549350.0
+SISE,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,31592000.0
+SISE,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-14645438.0
+SISE,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,46237437.0
+SISE,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SISE,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,210141350.0
+SISE,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SISE,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SISE,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,210141350.0
+SISE,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SISE,2024/6,3LB,Azınlık Payları,Minority Interests,4343283.0
+SISE,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,205798066.0
+SISE,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SISE,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SISE,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SISE,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SISE,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,309083762.0
+SISE,2024/6,4BA,Kıdem Tazminatı,Severance Payments,14934288.0
+SISE,2024/6,4BB,Finansman Giderleri,Financial Expenses,-305790130.0
+SISE,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,1581638483.0
+SISE,2024/6,4BD,Yurtdışı Satışlar,Export Sales,2082334586.0
+SISE,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1190176890.0
+SISE,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1353854851.0
+SISE,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),29306371.0
+SISE,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,283181294.0
+SISE,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,210141350.0
+SISE,2024/6,4CAA,Düzeltmeler:,Adjustments:,68049579.0
+SISE,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,309083762.0
+SISE,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,88196483.0
+SISE,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-52127875.0
+SISE,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),278190929.0
+SISE,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,39878623.0
+SISE,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),318069551.0
+SISE,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-34888257.0
+SISE,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-453647804.0
+SISE,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,231992768.0
+SISE,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-221655037.0
+SISE,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,61526258.0
+SISE,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1607097397.0
+SISE,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-114303492.0
+SISE,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SISE,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-381809747.0
+SISE,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,1110984158.0
+SISE,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1172510416.0
+SISE,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,65294624.0
+SISE,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SISE,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1237805039.0
+SISE,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SISE,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2010886764.0
+SISE,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2849808747.0
+SISE,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,4464431215.0
+SISE,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1823243443.0
+SISE,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,24126146.0
+SISE,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1039250113.0
+SISE,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SISE,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,65436612.0
+SISE,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,4892679.0
+SISE,2024/9,1AF,Stoklar,Inventories,1252067608.0
+SISE,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SISE,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,255414613.0
+SISE,2024/9,1AI,(Ara Toplam),(Subtotal),4464431215.0
+SISE,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SISE,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,6990107599.0
+SISE,2024/9,1B,Ticari Alacaklar,Trade Receivables,1199.0
+SISE,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SISE,2024/9,1BB,Diğer Alacaklar,Other Receivables,1565713.0
+SISE,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SISE,2024/9,1BC,Finansal Yatırımlar,Financial Investments,80216953.0
+SISE,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,139700490.0
+SISE,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SISE,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,435390946.0
+SISE,2024/9,1BFA,Stoklar,Stoklar,0.0
+SISE,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,87811892.0
+SISE,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4624915088.0
+SISE,2024/9,1BGA,Şerefiye,Goodwill,42987640.0
+SISE,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1177525547.0
+SISE,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,108905610.0
+SISE,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,291086521.0
+SISE,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,11454538814.0
+SISE,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+SISE,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1740084692.0
+SISE,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,816621780.0
+SISE,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,536721276.0
+SISE,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,26550077.0
+SISE,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,11174636.0
+SISE,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SISE,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SISE,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,61387055.0
+SISE,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5836056.0
+SISE,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,126682103.0
+SISE,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,155111709.0
+SISE,2024/9,2AAGG,(Ara Toplam),(Subtotal),1740084692.0
+SISE,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SISE,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3674127463.0
+SISE,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,3261478271.0
+SISE,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SISE,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,3572442.0
+SISE,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SISE,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SISE,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SISE,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,10553587.0
+SISE,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,184008104.0
+SISE,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SISE,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,177080436.0
+SISE,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,37434623.0
+SISE,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6040326658.0
+SISE,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5222289446.0
+SISE,2024/9,2OA,Ödenmiş Sermaye,Share Capital,89613516.0
+SISE,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SISE,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,35529321.0
+SISE,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SISE,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-632754567.0
+SISE,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,338513333.0
+SISE,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4056838646.0
+SISE,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),180310510.0
+SISE,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1154238689.0
+SISE,2024/9,2ODA,Azınlık Payları,Minority Interests,818037212.0
+SISE,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,11454538814.0
+SISE,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SISE,2024/9,3C,Satış Gelirleri,Net Sales,5628744331.0
+SISE,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-4340970694.0
+SISE,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SISE,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1287773637.0
+SISE,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SISE,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SISE,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SISE,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1287773637.0
+SISE,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-897906165.0
+SISE,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-439601952.0
+SISE,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-35364901.0
+SISE,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,340198296.0
+SISE,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-309276053.0
+SISE,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SISE,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-54177138.0
+SISE,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-85099380.0
+SISE,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,41828439.0
+SISE,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-14702602.0
+SISE,2024/9,3HAB,Diğer Gelir ve Giderler,nan,-1891047.0
+SISE,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,45654802.0
+SISE,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,16712454.0
+SISE,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),728564932.0
+SISE,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-507778253.0
+SISE,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,25234789.0
+SISE,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,237499133.0
+SISE,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,29860316.0
+SISE,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-19832404.0
+SISE,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,49692720.0
+SISE,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SISE,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,267359449.0
+SISE,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SISE,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SISE,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,267359449.0
+SISE,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SISE,2024/9,3LB,Azınlık Payları,Minority Interests,14907373.0
+SISE,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,252452076.0
+SISE,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SISE,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SISE,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SISE,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SISE,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,445130979.0
+SISE,2024/9,4BA,Kıdem Tazminatı,Severance Payments,14375310.0
+SISE,2024/9,4BB,Finansman Giderleri,Financial Expenses,-507778253.0
+SISE,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,2467062980.0
+SISE,2024/9,4BD,Yurtdışı Satışlar,Export Sales,3161709232.0
+SISE,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1292404833.0
+SISE,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1409240056.0
+SISE,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-147254523.0
+SISE,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,516806010.0
+SISE,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,267359449.0
+SISE,2024/9,4CAA,Düzeltmeler:,Adjustments:,381260719.0
+SISE,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,445130979.0
+SISE,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,153392689.0
+SISE,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,198816853.0
+SISE,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),648620167.0
+SISE,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-86974597.0
+SISE,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),561645570.0
+SISE,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-44839560.0
+SISE,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-740464281.0
+SISE,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,347734077.0
+SISE,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-392730204.0
+SISE,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,124075805.0
+SISE,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1604804771.0
+SISE,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-142614901.0
+SISE,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SISE,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-584354182.0
+SISE,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,877835688.0
+SISE,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1001911493.0
+SISE,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,11884944.0
+SISE,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SISE,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1013796437.0
+SISE,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SISE,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2117702602.0
+SISE,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2572362392.0
+SISE,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,3307627750.0
+SISE,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,954855618.0
+SISE,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,21945488.0
+SISE,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,888727167.0
+SISE,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SISE,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,19822830.0
+SISE,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,8638991.0
+SISE,2025/3,1AF,Stoklar,Inventories,1202682212.0
+SISE,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SISE,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,210955444.0
+SISE,2025/3,1AI,(Ara Toplam),(Subtotal),3307627750.0
+SISE,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SISE,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,7801742177.0
+SISE,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+SISE,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SISE,2025/3,1BB,Diğer Alacaklar,Other Receivables,1149848.0
+SISE,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SISE,2025/3,1BC,Finansal Yatırımlar,Financial Investments,49169206.0
+SISE,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,124421455.0
+SISE,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SISE,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,462318938.0
+SISE,2025/3,1BFA,Stoklar,Stoklar,0.0
+SISE,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,90949603.0
+SISE,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5227984627.0
+SISE,2025/3,1BGA,Şerefiye,Goodwill,41980219.0
+SISE,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1334488353.0
+SISE,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,228451883.0
+SISE,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,240828045.0
+SISE,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,11109369927.0
+SISE,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+SISE,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2446184618.0
+SISE,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1441873171.0
+SISE,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,550811446.0
+SISE,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,70157241.0
+SISE,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,10738363.0
+SISE,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SISE,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SISE,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,79227118.0
+SISE,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1619429.0
+SISE,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,121562945.0
+SISE,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,170194906.0
+SISE,2025/3,2AAGG,(Ara Toplam),(Subtotal),2446184618.0
+SISE,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SISE,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2640971700.0
+SISE,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,2183632793.0
+SISE,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SISE,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,389071.0
+SISE,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SISE,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SISE,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SISE,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,3671621.0
+SISE,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,159419221.0
+SISE,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SISE,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,261204508.0
+SISE,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,32654485.0
+SISE,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6022213609.0
+SISE,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5383639084.0
+SISE,2025/3,2OA,Ödenmiş Sermaye,Share Capital,80965224.0
+SISE,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SISE,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,37546156.0
+SISE,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SISE,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-818319012.0
+SISE,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,499615184.0
+SISE,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4362724185.0
+SISE,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),33148516.0
+SISE,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1187958830.0
+SISE,2025/3,2ODA,Azınlık Payları,Minority Interests,638574525.0
+SISE,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,11109369927.0
+SISE,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SISE,2025/3,3C,Satış Gelirleri,Net Sales,1253986795.0
+SISE,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-957054286.0
+SISE,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SISE,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,296932509.0
+SISE,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SISE,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SISE,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SISE,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),296932509.0
+SISE,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-215767030.0
+SISE,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-116220963.0
+SISE,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-10202645.0
+SISE,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,94333810.0
+SISE,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-65908980.0
+SISE,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SISE,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-16833299.0
+SISE,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-45258129.0
+SISE,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,8541361.0
+SISE,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-7423523.0
+SISE,2025/3,3HAB,Diğer Gelir ve Giderler,nan,681879.0
+SISE,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,3398473.0
+SISE,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-11635109.0
+SISE,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),121978458.0
+SISE,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-68870253.0
+SISE,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1799717.0
+SISE,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,41473096.0
+SISE,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-4833199.0
+SISE,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-6423515.0
+SISE,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,1590316.0
+SISE,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SISE,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,36639897.0
+SISE,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SISE,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SISE,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,36639897.0
+SISE,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SISE,2025/3,3LB,Azınlık Payları,Minority Interests,2048616.0
+SISE,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,34591281.0
+SISE,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SISE,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SISE,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SISE,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SISE,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,119471046.0
+SISE,2025/3,4BA,Kıdem Tazminatı,Severance Payments,32519.0
+SISE,2025/3,4BB,Finansman Giderleri,Financial Expenses,-68870253.0
+SISE,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,510667196.0
+SISE,2025/3,4BD,Yurtdışı Satışlar,Export Sales,743319599.0
+SISE,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1987273102.0
+SISE,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2075496258.0
+SISE,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1103434013.0
+SISE,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,71968359.0
+SISE,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,36639897.0
+SISE,2025/3,4CAA,Düzeltmeler:,Adjustments:,231466659.0
+SISE,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,119471046.0
+SISE,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,34296652.0
+SISE,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,81566878.0
+SISE,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),268106556.0
+SISE,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-167659500.0
+SISE,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),100447056.0
+SISE,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-28478697.0
+SISE,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-205717961.0
+SISE,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-114146696.0
+SISE,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-319864657.0
+SISE,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-247896298.0
+SISE,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-100101676.0
+SISE,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,-2938049.0
+SISE,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SISE,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-133530988.0
+SISE,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-236570712.0
+SISE,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-484467010.0
+SISE,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-1331405.0
+SISE,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SISE,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-485798414.0
+SISE,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SISE,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1628594490.0
+SISE,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,993862047.0
+SISE,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,3329284997.0
+SISE,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,972937477.0
+SISE,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,61206132.0
+SISE,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,867926224.0
+SISE,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SISE,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,29006490.0
+SISE,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,8281566.0
+SISE,2025/6,1AF,Stoklar,Inventories,1221312807.0
+SISE,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SISE,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,168614301.0
+SISE,2025/6,1AI,(Ara Toplam),(Subtotal),3329284997.0
+SISE,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SISE,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,8094987290.0
+SISE,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+SISE,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SISE,2025/6,1BB,Diğer Alacaklar,Other Receivables,1120229.0
+SISE,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SISE,2025/6,1BC,Finansal Yatırımlar,Financial Investments,46734887.0
+SISE,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,139784339.0
+SISE,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SISE,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,510373979.0
+SISE,2025/6,1BFA,Stoklar,Stoklar,0.0
+SISE,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,98455933.0
+SISE,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5374405612.0
+SISE,2025/6,1BGA,Şerefiye,Goodwill,42753162.0
+SISE,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1410631135.0
+SISE,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,213828757.0
+SISE,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,256899258.0
+SISE,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,11424272287.0
+SISE,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+SISE,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2773574087.0
+SISE,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1824151320.0
+SISE,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,597222298.0
+SISE,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,17523259.0
+SISE,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,10690087.0
+SISE,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SISE,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SISE,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,70296264.0
+SISE,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4960565.0
+SISE,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,98425968.0
+SISE,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,150304327.0
+SISE,2025/6,2AAGG,(Ara Toplam),(Subtotal),2773574087.0
+SISE,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SISE,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2559783836.0
+SISE,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,2036930278.0
+SISE,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SISE,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,108233.0
+SISE,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SISE,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SISE,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SISE,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,4193392.0
+SISE,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,150019190.0
+SISE,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SISE,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,229171313.0
+SISE,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,139361430.0
+SISE,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6090914363.0
+SISE,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5452906733.0
+SISE,2025/6,2OA,Ödenmiş Sermaye,Share Capital,76941204.0
+SISE,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SISE,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,37823241.0
+SISE,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SISE,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-728957787.0
+SISE,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,503302062.0
+SISE,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4394919698.0
+SISE,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),99996710.0
+SISE,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1068881605.0
+SISE,2025/6,2ODA,Azınlık Payları,Minority Interests,638007631.0
+SISE,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,11424272287.0
+SISE,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SISE,2025/6,3C,Satış Gelirleri,Net Sales,2688514581.0
+SISE,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-1971102186.0
+SISE,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SISE,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,717412395.0
+SISE,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SISE,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SISE,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SISE,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),717412395.0
+SISE,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-451268176.0
+SISE,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-242066167.0
+SISE,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-16287257.0
+SISE,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,217812013.0
+SISE,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-145431261.0
+SISE,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SISE,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,80171547.0
+SISE,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,7790795.0
+SISE,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,57340597.0
+SISE,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-15314301.0
+SISE,2025/6,3HAB,Diğer Gelir ve Giderler,nan,755715.0
+SISE,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,10332832.0
+SISE,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,133286389.0
+SISE,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),415785147.0
+SISE,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-403126906.0
+SISE,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,42782010.0
+SISE,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,145944630.0
+SISE,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-37128970.0
+SISE,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-16744868.0
+SISE,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-20384101.0
+SISE,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SISE,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,108815660.0
+SISE,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SISE,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SISE,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,108815660.0
+SISE,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SISE,2025/6,3LB,Azınlık Payları,Minority Interests,2606651.0
+SISE,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,106209009.0
+SISE,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SISE,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SISE,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SISE,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SISE,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,209240745.0
+SISE,2025/6,4BA,Kıdem Tazminatı,Severance Payments,4956311.0
+SISE,2025/6,4BB,Finansman Giderleri,Financial Expenses,-403126906.0
+SISE,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,1139874974.0
+SISE,2025/6,4BD,Yurtdışı Satışlar,Export Sales,1548639607.0
+SISE,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2424856028.0
+SISE,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2500564464.0
+SISE,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-182092668.0
+SISE,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,409176839.0
+SISE,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,108815660.0
+SISE,2025/6,4CAA,Düzeltmeler:,Adjustments:,439182610.0
+SISE,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,209240745.0
+SISE,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,19914938.0
+SISE,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,260859765.0
+SISE,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),547998270.0
+SISE,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-118260987.0
+SISE,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),429737283.0
+SISE,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-20560445.0
+SISE,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-382866645.0
+SISE,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-165282064.0
+SISE,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-548148709.0
+SISE,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,-138971870.0
+SISE,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,139093577.0
+SISE,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-63094801.0
+SISE,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SISE,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-308382633.0
+SISE,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-232383858.0
+SISE,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-371355728.0
+SISE,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-26807423.0
+SISE,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SISE,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-398163151.0
+SISE,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SISE,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1669856864.0
+SISE,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1033000610.0
+SISE,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,3393168854.0
+SISE,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1018552725.0
+SISE,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,62793736.0
+SISE,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,834328742.0
+SISE,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SISE,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,74995888.0
+SISE,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,9307939.0
+SISE,2025/9,1AF,Stoklar,Inventories,1215068804.0
+SISE,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SISE,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,178121020.0
+SISE,2025/9,1AI,(Ara Toplam),(Subtotal),3393168854.0
+SISE,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SISE,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,8138188429.0
+SISE,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+SISE,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SISE,2025/9,1BB,Diğer Alacaklar,Other Receivables,1106379.0
+SISE,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SISE,2025/9,1BC,Finansal Yatırımlar,Financial Investments,1387633.0
+SISE,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,148271375.0
+SISE,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SISE,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,525327741.0
+SISE,2025/9,1BFA,Stoklar,Stoklar,0.0
+SISE,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,95221805.0
+SISE,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5466710877.0
+SISE,2025/9,1BGA,Şerefiye,Goodwill,41570238.0
+SISE,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1406269913.0
+SISE,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,216728505.0
+SISE,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,235593965.0
+SISE,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,11531357283.0
+SISE,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+SISE,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2720507797.0
+SISE,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1687085081.0
+SISE,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,577932956.0
+SISE,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,15881760.0
+SISE,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,10445005.0
+SISE,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SISE,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SISE,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,66555400.0
+SISE,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),6621029.0
+SISE,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,170986590.0
+SISE,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,184999976.0
+SISE,2025/9,2AAGG,(Ara Toplam),(Subtotal),2720507797.0
+SISE,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SISE,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2658555082.0
+SISE,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,2138566145.0
+SISE,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SISE,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SISE,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,106201.0
+SISE,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SISE,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SISE,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SISE,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,3953648.0
+SISE,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,146969862.0
+SISE,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SISE,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,248347851.0
+SISE,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,120611376.0
+SISE,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,6152294404.0
+SISE,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,5524923091.0
+SISE,2025/9,2OA,Ödenmiş Sermaye,Share Capital,73667536.0
+SISE,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SISE,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,38931691.0
+SISE,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SISE,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-811274001.0
+SISE,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,518051350.0
+SISE,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4546033221.0
+SISE,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),138107961.0
+SISE,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1021405333.0
+SISE,2025/9,2ODA,Azınlık Payları,Minority Interests,627371313.0
+SISE,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,11531357283.0
+SISE,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SISE,2025/9,3C,Satış Gelirleri,Net Sales,4200036747.0
+SISE,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-3032709926.0
+SISE,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SISE,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1167326821.0
+SISE,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SISE,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SISE,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SISE,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SISE,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1167326821.0
+SISE,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-684223675.0
+SISE,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-385498532.0
+SISE,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-30145265.0
+SISE,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,302141050.0
+SISE,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-267354712.0
+SISE,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SISE,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,102245688.0
+SISE,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,67459349.0
+SISE,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,72589098.0
+SISE,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-45380693.0
+SISE,2025/9,3HAB,Diğer Gelir ve Giderler,nan,951001.0
+SISE,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,14884963.0
+SISE,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,145290056.0
+SISE,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),508720414.0
+SISE,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-423226441.0
+SISE,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,28159405.0
+SISE,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,230784030.0
+SISE,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-84381754.0
+SISE,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-23262800.0
+SISE,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-61118954.0
+SISE,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SISE,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,146402275.0
+SISE,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SISE,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SISE,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,146402275.0
+SISE,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SISE,2025/9,3LB,Azınlık Payları,Minority Interests,-2230468.0
+SISE,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,148632743.0
+SISE,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SISE,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SISE,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SISE,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SISE,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,326909033.0
+SISE,2025/9,4BA,Kıdem Tazminatı,Severance Payments,6910882.0
+SISE,2025/9,4BB,Finansman Giderleri,Financial Expenses,-423226441.0
+SISE,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,1856860226.0
+SISE,2025/9,4BD,Yurtdışı Satışlar,Export Sales,2343176521.0
+SISE,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2440967070.0
+SISE,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2517022958.0
+SISE,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-313367050.0
+SISE,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,750101180.0
+SISE,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,146402275.0
+SISE,2025/9,4CAA,Düzeltmeler:,Adjustments:,635955685.0
+SISE,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,326909033.0
+SISE,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,106795994.0
+SISE,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,290953070.0
+SISE,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),782357960.0
+SISE,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-12415114.0
+SISE,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),769942846.0
+SISE,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-19841666.0
+SISE,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-536787680.0
+SISE,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-66987912.0
+SISE,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-603775593.0
+SISE,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,146325588.0
+SISE,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,116048999.0
+SISE,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-65233825.0
+SISE,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SISE,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-459451678.0
+SISE,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-408636504.0
+SISE,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-262310917.0
+SISE,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-30906008.0
+SISE,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SISE,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-293216925.0
+SISE,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SISE,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1741581781.0
+SISE,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1095194925.0

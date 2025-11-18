@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+TUPRS,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,10543987081.0
+TUPRS,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,4190147341.0
+TUPRS,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,187817265.0
+TUPRS,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1883956492.0
+TUPRS,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TUPRS,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,3573244.0
+TUPRS,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2022/12,1AF,Stoklar,Inventories,3173858104.0
+TUPRS,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TUPRS,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,1104634636.0
+TUPRS,2022/12,1AI,(Ara Toplam),(Subtotal),10543987081.0
+TUPRS,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TUPRS,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,8017857997.0
+TUPRS,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+TUPRS,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TUPRS,2022/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+TUPRS,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2022/12,1BC,Finansal Yatırımlar,Financial Investments,6957826.0
+TUPRS,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,404182095.0
+TUPRS,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TUPRS,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TUPRS,2022/12,1BFA,Stoklar,Stoklar,0.0
+TUPRS,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,35813047.0
+TUPRS,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,6864621717.0
+TUPRS,2022/12,1BGA,Şerefiye,Goodwill,109171.0
+TUPRS,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,149837711.0
+TUPRS,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,37715887.0
+TUPRS,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,518620542.0
+TUPRS,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,18561845078.0
+TUPRS,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TUPRS,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,6940192024.0
+TUPRS,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1055075432.0
+TUPRS,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,4635847747.0
+TUPRS,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,23081145.0
+TUPRS,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TUPRS,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TUPRS,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TUPRS,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,10225657.0
+TUPRS,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),84027440.0
+TUPRS,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,46667040.0
+TUPRS,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1085267564.0
+TUPRS,2022/12,2AAGG,(Ara Toplam),(Subtotal),6940192024.0
+TUPRS,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TUPRS,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2043788063.0
+TUPRS,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,1871372357.0
+TUPRS,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TUPRS,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TUPRS,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TUPRS,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TUPRS,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TUPRS,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,281390.0
+TUPRS,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,104686579.0
+TUPRS,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TUPRS,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,41154175.0
+TUPRS,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,26293562.0
+TUPRS,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,9577864990.0
+TUPRS,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,9496288597.0
+TUPRS,2022/12,2OA,Ödenmiş Sermaye,Share Capital,14694480.0
+TUPRS,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TUPRS,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TUPRS,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TUPRS,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,9521781.0
+TUPRS,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,159006139.0
+TUPRS,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),4738660741.0
+TUPRS,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),3273206972.0
+TUPRS,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1301198484.0
+TUPRS,2022/12,2ODA,Azınlık Payları,Minority Interests,81576393.0
+TUPRS,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,18561845078.0
+TUPRS,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TUPRS,2022/12,3C,Satış Gelirleri,Net Sales,55176073959.0
+TUPRS,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-48370197036.0
+TUPRS,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TUPRS,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,6805876923.0
+TUPRS,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TUPRS,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TUPRS,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TUPRS,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),6805876923.0
+TUPRS,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-438860746.0
+TUPRS,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-520818141.0
+TUPRS,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-12884795.0
+TUPRS,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,535187136.0
+TUPRS,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1779108814.0
+TUPRS,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TUPRS,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,4589391564.0
+TUPRS,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,5833313241.0
+TUPRS,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,-454289987.0
+TUPRS,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TUPRS,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TUPRS,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-935299.0
+TUPRS,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,4134166278.0
+TUPRS,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),826196277.0
+TUPRS,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-837091305.0
+TUPRS,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-454289987.0
+TUPRS,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,4123271250.0
+TUPRS,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-419076407.0
+TUPRS,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-321948032.0
+TUPRS,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-97128376.0
+TUPRS,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TUPRS,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,3704194843.0
+TUPRS,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TUPRS,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TUPRS,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,3704194843.0
+TUPRS,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TUPRS,2022/12,3LB,Azınlık Payları,Minority Interests,13934628.0
+TUPRS,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,3690260214.0
+TUPRS,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,3.0
+TUPRS,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TUPRS,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TUPRS,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TUPRS,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,378068790.0
+TUPRS,2022/12,4BA,Kıdem Tazminatı,Severance Payments,30326252.0
+TUPRS,2022/12,4BB,Finansman Giderleri,Financial Expenses,-837091305.0
+TUPRS,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,45140443656.0
+TUPRS,2022/12,4BD,Yurtdışı Satışlar,Export Sales,10812501604.0
+TUPRS,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-4447406521.0
+TUPRS,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-4484808182.0
+TUPRS,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-3930221299.0
+TUPRS,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,4965016840.0
+TUPRS,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,3704194843.0
+TUPRS,2022/12,4CAA,Düzeltmeler:,Adjustments:,3066161971.0
+TUPRS,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,378068790.0
+TUPRS,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,115771457.0
+TUPRS,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,2572321724.0
+TUPRS,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),6770356814.0
+TUPRS,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1561740913.0
+TUPRS,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),5208615901.0
+TUPRS,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-243599060.0
+TUPRS,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-257765467.0
+TUPRS,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-197715491.0
+TUPRS,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-455480958.0
+TUPRS,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,4509535882.0
+TUPRS,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-808419581.0
+TUPRS,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-4133672.0
+TUPRS,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TUPRS,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1491558894.0
+TUPRS,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-2304112146.0
+TUPRS,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,2205423736.0
+TUPRS,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-861988009.0
+TUPRS,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TUPRS,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1343435727.0
+TUPRS,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TUPRS,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2753981131.0
+TUPRS,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,4097416858.0
+TUPRS,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,5350072970.0
+TUPRS,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1317283254.0
+TUPRS,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,17923347.0
+TUPRS,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1308747843.0
+TUPRS,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TUPRS,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,1662836.0
+TUPRS,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2022/3,1AF,Stoklar,Inventories,2327284073.0
+TUPRS,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TUPRS,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,377171617.0
+TUPRS,2022/3,1AI,(Ara Toplam),(Subtotal),5350072970.0
+TUPRS,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TUPRS,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2605173799.0
+TUPRS,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+TUPRS,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TUPRS,2022/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+TUPRS,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2022/3,1BC,Finansal Yatırımlar,Financial Investments,557848.0
+TUPRS,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,146921063.0
+TUPRS,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TUPRS,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TUPRS,2022/3,1BFA,Stoklar,Stoklar,0.0
+TUPRS,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,12353258.0
+TUPRS,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1794494425.0
+TUPRS,2022/3,1BGA,Şerefiye,Goodwill,0.0
+TUPRS,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,4136870.0
+TUPRS,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,498140485.0
+TUPRS,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,148569850.0
+TUPRS,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7955246769.0
+TUPRS,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TUPRS,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,5505265864.0
+TUPRS,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,872359600.0
+TUPRS,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3884091452.0
+TUPRS,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,5256044.0
+TUPRS,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TUPRS,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TUPRS,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TUPRS,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,2506905.0
+TUPRS,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+TUPRS,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,23714052.0
+TUPRS,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,717337812.0
+TUPRS,2022/3,2AAGG,(Ara Toplam),(Subtotal),5505265864.0
+TUPRS,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TUPRS,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1361223310.0
+TUPRS,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,1326347257.0
+TUPRS,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TUPRS,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TUPRS,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TUPRS,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TUPRS,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TUPRS,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,574351.0
+TUPRS,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,33387322.0
+TUPRS,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TUPRS,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TUPRS,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,914379.0
+TUPRS,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1088757595.0
+TUPRS,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1067726736.0
+TUPRS,2022/3,2OA,Ödenmiş Sermaye,Share Capital,17077710.0
+TUPRS,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TUPRS,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TUPRS,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TUPRS,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,27460020.0
+TUPRS,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,34326252.0
+TUPRS,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),484442459.0
+TUPRS,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),61080983.0
+TUPRS,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,443339312.0
+TUPRS,2022/3,2ODA,Azınlık Payları,Minority Interests,21030859.0
+TUPRS,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7955246769.0
+TUPRS,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TUPRS,2022/3,3C,Satış Gelirleri,Net Sales,5556960271.0
+TUPRS,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-5149359488.0
+TUPRS,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TUPRS,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,407600783.0
+TUPRS,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TUPRS,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TUPRS,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TUPRS,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),407600783.0
+TUPRS,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-31734550.0
+TUPRS,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-44587409.0
+TUPRS,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1034518.0
+TUPRS,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,57752806.0
+TUPRS,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-166713364.0
+TUPRS,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TUPRS,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,221283748.0
+TUPRS,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,330244306.0
+TUPRS,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,159812.0
+TUPRS,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TUPRS,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TUPRS,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,14933561.0
+TUPRS,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,236377120.0
+TUPRS,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),179821220.0
+TUPRS,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-320894567.0
+TUPRS,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,159812.0
+TUPRS,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,95303774.0
+TUPRS,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-13353621.0
+TUPRS,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-2964211.0
+TUPRS,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-10389410.0
+TUPRS,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TUPRS,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,81950153.0
+TUPRS,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TUPRS,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TUPRS,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,81950153.0
+TUPRS,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TUPRS,2022/3,3LB,Azınlık Payları,Minority Interests,3029839.0
+TUPRS,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,78920313.0
+TUPRS,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TUPRS,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TUPRS,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TUPRS,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TUPRS,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,15229925.0
+TUPRS,2022/3,4BA,Kıdem Tazminatı,Severance Payments,980627.0
+TUPRS,2022/3,4BB,Finansman Giderleri,Financial Expenses,-320894567.0
+TUPRS,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,4258840638.0
+TUPRS,2022/3,4BD,Yurtdışı Satışlar,Export Sales,1376558794.0
+TUPRS,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-4132107123.0
+TUPRS,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-4138325754.0
+TUPRS,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2480460049.0
+TUPRS,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,163913545.0
+TUPRS,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,67017236.0
+TUPRS,2022/3,4CAA,Düzeltmeler:,Adjustments:,40132361.0
+TUPRS,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,15229925.0
+TUPRS,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,11339979.0
+TUPRS,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,13562457.0
+TUPRS,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),107149597.0
+TUPRS,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,62830354.0
+TUPRS,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),169979951.0
+TUPRS,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-6066406.0
+TUPRS,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-17075811.0
+TUPRS,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,17176364.0
+TUPRS,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,100553.0
+TUPRS,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,164014098.0
+TUPRS,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-87455464.0
+TUPRS,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TUPRS,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TUPRS,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-705539782.0
+TUPRS,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-792995246.0
+TUPRS,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-628981147.0
+TUPRS,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,165569132.0
+TUPRS,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TUPRS,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-463412015.0
+TUPRS,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TUPRS,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1155041018.0
+TUPRS,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,691629003.0
+TUPRS,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,7209823981.0
+TUPRS,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2230477012.0
+TUPRS,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,16393352.0
+TUPRS,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1617545263.0
+TUPRS,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TUPRS,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,1885821.0
+TUPRS,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2022/6,1AF,Stoklar,Inventories,2809883593.0
+TUPRS,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TUPRS,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,533638940.0
+TUPRS,2022/6,1AI,(Ara Toplam),(Subtotal),7209823981.0
+TUPRS,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TUPRS,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2378057503.0
+TUPRS,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+TUPRS,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TUPRS,2022/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+TUPRS,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2022/6,1BC,Finansal Yatırımlar,Financial Investments,2986867.0
+TUPRS,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,139512084.0
+TUPRS,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TUPRS,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TUPRS,2022/6,1BFA,Stoklar,Stoklar,0.0
+TUPRS,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,8187630.0
+TUPRS,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1601341949.0
+TUPRS,2022/6,1BGA,Şerefiye,Goodwill,0.0
+TUPRS,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3363109.0
+TUPRS,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,482710078.0
+TUPRS,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,139955786.0
+TUPRS,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9587881484.0
+TUPRS,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TUPRS,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,6712633452.0
+TUPRS,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,772564494.0
+TUPRS,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,5000774051.0
+TUPRS,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,4595720.0
+TUPRS,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TUPRS,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TUPRS,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TUPRS,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,41077561.0
+TUPRS,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),97204369.0
+TUPRS,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,28369040.0
+TUPRS,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,768048216.0
+TUPRS,2022/6,2AAGG,(Ara Toplam),(Subtotal),6712633452.0
+TUPRS,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TUPRS,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1188733300.0
+TUPRS,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,1150716656.0
+TUPRS,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TUPRS,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TUPRS,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TUPRS,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TUPRS,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TUPRS,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,626251.0
+TUPRS,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,37243670.0
+TUPRS,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TUPRS,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+TUPRS,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,146722.0
+TUPRS,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1686514732.0
+TUPRS,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1665398828.0
+TUPRS,2022/6,2OA,Ödenmiş Sermaye,Share Capital,15002876.0
+TUPRS,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TUPRS,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TUPRS,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TUPRS,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,31180189.0
+TUPRS,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,30155829.0
+TUPRS,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),425585751.0
+TUPRS,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),689400829.0
+TUPRS,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,474073355.0
+TUPRS,2022/6,2ODA,Azınlık Payları,Minority Interests,21115904.0
+TUPRS,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9587881484.0
+TUPRS,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TUPRS,2022/6,3C,Satış Gelirleri,Net Sales,14451267476.0
+TUPRS,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-12851639744.0
+TUPRS,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TUPRS,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1599627732.0
+TUPRS,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TUPRS,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TUPRS,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TUPRS,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1599627732.0
+TUPRS,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-116750192.0
+TUPRS,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-93768364.0
+TUPRS,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1818281.0
+TUPRS,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,158649853.0
+TUPRS,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-498609621.0
+TUPRS,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TUPRS,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1047331128.0
+TUPRS,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1387290896.0
+TUPRS,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2209909.0
+TUPRS,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TUPRS,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TUPRS,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,22450477.0
+TUPRS,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1071991513.0
+TUPRS,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),191797476.0
+TUPRS,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-423304722.0
+TUPRS,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2209909.0
+TUPRS,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,840484267.0
+TUPRS,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-34459071.0
+TUPRS,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-114439991.0
+TUPRS,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,79980920.0
+TUPRS,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TUPRS,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,806025195.0
+TUPRS,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TUPRS,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TUPRS,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,806025195.0
+TUPRS,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TUPRS,2022/6,3LB,Azınlık Payları,Minority Interests,6525337.0
+TUPRS,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,799499859.0
+TUPRS,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,3.0
+TUPRS,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TUPRS,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TUPRS,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TUPRS,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,30469977.0
+TUPRS,2022/6,4BA,Kıdem Tazminatı,Severance Payments,11271622.0
+TUPRS,2022/6,4BB,Finansman Giderleri,Financial Expenses,-423304722.0
+TUPRS,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,11079027981.0
+TUPRS,2022/6,4BD,Yurtdışı Satışlar,Export Sales,3558470887.0
+TUPRS,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-5035467160.0
+TUPRS,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-5039486819.0
+TUPRS,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-3131680208.0
+TUPRS,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,2071280269.0
+TUPRS,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,806025195.0
+TUPRS,2022/6,4CAA,Düzeltmeler:,Adjustments:,908358450.0
+TUPRS,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,30469977.0
+TUPRS,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,29972281.0
+TUPRS,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,847916191.0
+TUPRS,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1714383645.0
+TUPRS,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,368792500.0
+TUPRS,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2083176145.0
+TUPRS,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-11895876.0
+TUPRS,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-61273073.0
+TUPRS,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,16121894.0
+TUPRS,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-45151179.0
+TUPRS,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,2026129090.0
+TUPRS,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-228245653.0
+TUPRS,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TUPRS,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TUPRS,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-1043376494.0
+TUPRS,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1271622147.0
+TUPRS,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,754506943.0
+TUPRS,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,167520321.0
+TUPRS,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TUPRS,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,922027264.0
+TUPRS,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TUPRS,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1135594738.0
+TUPRS,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2057622002.0
+TUPRS,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,6565774764.0
+TUPRS,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2161133187.0
+TUPRS,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,120013206.0
+TUPRS,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1579331989.0
+TUPRS,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TUPRS,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,4484290.0
+TUPRS,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2022/9,1AF,Stoklar,Inventories,1895674075.0
+TUPRS,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TUPRS,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,805138017.0
+TUPRS,2022/9,1AI,(Ara Toplam),(Subtotal),6565774764.0
+TUPRS,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TUPRS,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,2300453426.0
+TUPRS,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+TUPRS,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TUPRS,2022/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+TUPRS,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2022/9,1BC,Finansal Yatırımlar,Financial Investments,4647021.0
+TUPRS,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,137981361.0
+TUPRS,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TUPRS,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TUPRS,2022/9,1BFA,Stoklar,Stoklar,0.0
+TUPRS,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,8028309.0
+TUPRS,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1556563624.0
+TUPRS,2022/9,1BGA,Şerefiye,Goodwill,32287.0
+TUPRS,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,28767687.0
+TUPRS,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,402141806.0
+TUPRS,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,162291331.0
+TUPRS,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8866228190.0
+TUPRS,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TUPRS,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,5104486554.0
+TUPRS,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,727543135.0
+TUPRS,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3677063513.0
+TUPRS,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,6470588.0
+TUPRS,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TUPRS,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TUPRS,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TUPRS,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,16870112.0
+TUPRS,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),108826063.0
+TUPRS,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,40924639.0
+TUPRS,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,526788504.0
+TUPRS,2022/9,2AAGG,(Ara Toplam),(Subtotal),5104486554.0
+TUPRS,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TUPRS,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1287611052.0
+TUPRS,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1241222288.0
+TUPRS,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TUPRS,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TUPRS,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TUPRS,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TUPRS,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TUPRS,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,626398.0
+TUPRS,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,36410865.0
+TUPRS,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TUPRS,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,9316412.0
+TUPRS,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,35090.0
+TUPRS,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2474130584.0
+TUPRS,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2451556212.0
+TUPRS,2022/9,2OA,Ödenmiş Sermaye,Share Capital,14836973.0
+TUPRS,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TUPRS,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,53939931.0
+TUPRS,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TUPRS,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,36581896.0
+TUPRS,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,27131322.0
+TUPRS,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),404459226.0
+TUPRS,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1264337622.0
+TUPRS,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,650269242.0
+TUPRS,2022/9,2ODA,Azınlık Payları,Minority Interests,22574372.0
+TUPRS,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8866228190.0
+TUPRS,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TUPRS,2022/9,3C,Satış Gelirleri,Net Sales,22983467244.0
+TUPRS,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-20261772171.0
+TUPRS,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TUPRS,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2721695073.0
+TUPRS,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TUPRS,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TUPRS,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TUPRS,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2721695073.0
+TUPRS,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-173847024.0
+TUPRS,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-147122235.0
+TUPRS,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-2691174.0
+TUPRS,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,238646287.0
+TUPRS,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-793880671.0
+TUPRS,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TUPRS,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1842800257.0
+TUPRS,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2398034640.0
+TUPRS,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,10204530.0
+TUPRS,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TUPRS,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TUPRS,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,32320860.0
+TUPRS,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1885325648.0
+TUPRS,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),354987019.0
+TUPRS,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-621577906.0
+TUPRS,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,10204530.0
+TUPRS,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1618734761.0
+TUPRS,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-134574482.0
+TUPRS,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-237164429.0
+TUPRS,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,102589947.0
+TUPRS,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TUPRS,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1484160279.0
+TUPRS,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TUPRS,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TUPRS,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1484160279.0
+TUPRS,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TUPRS,2022/9,3LB,Azınlık Payları,Minority Interests,10149796.0
+TUPRS,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,1474010483.0
+TUPRS,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,5.0
+TUPRS,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TUPRS,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TUPRS,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TUPRS,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,42748037.0
+TUPRS,2022/9,4BA,Kıdem Tazminatı,Severance Payments,11537581.0
+TUPRS,2022/9,4BB,Finansman Giderleri,Financial Expenses,-621577906.0
+TUPRS,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,17955888487.0
+TUPRS,2022/9,4BD,Yurtdışı Satışlar,Export Sales,5319532412.0
+TUPRS,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-3476173560.0
+TUPRS,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-3504324404.0
+TUPRS,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2333458526.0
+TUPRS,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1893819138.0
+TUPRS,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1484160279.0
+TUPRS,2022/9,4CAA,Düzeltmeler:,Adjustments:,1274544487.0
+TUPRS,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,42748037.0
+TUPRS,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,51745137.0
+TUPRS,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1180051313.0
+TUPRS,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2758704766.0
+TUPRS,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-725438566.0
+TUPRS,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2033266200.0
+TUPRS,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-139447062.0
+TUPRS,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-106759021.0
+TUPRS,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,15085343.0
+TUPRS,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-91673678.0
+TUPRS,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,1802145460.0
+TUPRS,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-231087497.0
+TUPRS,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TUPRS,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TUPRS,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-714569867.0
+TUPRS,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-945657364.0
+TUPRS,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,856488096.0
+TUPRS,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,279003406.0
+TUPRS,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TUPRS,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1135491502.0
+TUPRS,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TUPRS,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1062862162.0
+TUPRS,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2198353664.0
+TUPRS,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,9847565926.0
+TUPRS,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,4764529234.0
+TUPRS,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,34358811.0
+TUPRS,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1979771899.0
+TUPRS,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TUPRS,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,6248419.0
+TUPRS,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2023/12,1AF,Stoklar,Inventories,2176800921.0
+TUPRS,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TUPRS,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,885856642.0
+TUPRS,2023/12,1AI,(Ara Toplam),(Subtotal),9847565926.0
+TUPRS,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TUPRS,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,8109358116.0
+TUPRS,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+TUPRS,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TUPRS,2023/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+TUPRS,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2023/12,1BC,Finansal Yatırımlar,Financial Investments,17106876.0
+TUPRS,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,406039307.0
+TUPRS,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TUPRS,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TUPRS,2023/12,1BFA,Stoklar,Stoklar,0.0
+TUPRS,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,33904304.0
+TUPRS,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,6552295084.0
+TUPRS,2023/12,1BGA,Şerefiye,Goodwill,105285.0
+TUPRS,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,208215135.0
+TUPRS,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,316552000.0
+TUPRS,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,575140126.0
+TUPRS,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,17956924042.0
+TUPRS,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TUPRS,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,7601519024.0
+TUPRS,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1467129323.0
+TUPRS,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,4795588394.0
+TUPRS,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,24119181.0
+TUPRS,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TUPRS,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TUPRS,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TUPRS,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,7648222.0
+TUPRS,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),66262152.0
+TUPRS,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,60041334.0
+TUPRS,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1180730419.0
+TUPRS,2023/12,2AAGG,(Ara Toplam),(Subtotal),7601519024.0
+TUPRS,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TUPRS,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,420141092.0
+TUPRS,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,262312750.0
+TUPRS,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TUPRS,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TUPRS,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TUPRS,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TUPRS,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TUPRS,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,673724.0
+TUPRS,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,101539064.0
+TUPRS,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TUPRS,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,32071865.0
+TUPRS,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,23543689.0
+TUPRS,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,9935263925.0
+TUPRS,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,9828660520.0
+TUPRS,2023/12,2OA,Ödenmiş Sermaye,Share Capital,65334387.0
+TUPRS,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TUPRS,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TUPRS,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TUPRS,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,17594816.0
+TUPRS,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,313384625.0
+TUPRS,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5481566292.0
+TUPRS,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),2622957347.0
+TUPRS,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1327823053.0
+TUPRS,2023/12,2ODA,Azınlık Payları,Minority Interests,106603405.0
+TUPRS,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,17956924042.0
+TUPRS,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TUPRS,2023/12,3C,Satış Gelirleri,Net Sales,41597311190.0
+TUPRS,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-34948538078.0
+TUPRS,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TUPRS,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,6648773112.0
+TUPRS,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TUPRS,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TUPRS,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TUPRS,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),6648773112.0
+TUPRS,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-388739716.0
+TUPRS,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-779203206.0
+TUPRS,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-16963233.0
+TUPRS,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,773432897.0
+TUPRS,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1776134147.0
+TUPRS,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TUPRS,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,4461165708.0
+TUPRS,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,5463866957.0
+TUPRS,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,4982094.0
+TUPRS,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TUPRS,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TUPRS,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,63710253.0
+TUPRS,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,4529858054.0
+TUPRS,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1200254434.0
+TUPRS,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-2226730792.0
+TUPRS,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,4982094.0
+TUPRS,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,3503381697.0
+TUPRS,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-239224399.0
+TUPRS,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-664642912.0
+TUPRS,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,425418513.0
+TUPRS,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TUPRS,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,3264157298.0
+TUPRS,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TUPRS,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TUPRS,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,3264157298.0
+TUPRS,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TUPRS,2023/12,3LB,Azınlık Payları,Minority Interests,17863708.0
+TUPRS,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,3246293590.0
+TUPRS,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,2.0
+TUPRS,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,2.0
+TUPRS,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,2.0
+TUPRS,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,2.0
+TUPRS,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,367394342.0
+TUPRS,2023/12,4BA,Kıdem Tazminatı,Severance Payments,68788534.0
+TUPRS,2023/12,4BB,Finansman Giderleri,Financial Expenses,-2226730792.0
+TUPRS,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,34771147106.0
+TUPRS,2023/12,4BD,Yurtdışı Satışlar,Export Sales,7462430639.0
+TUPRS,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-4768765228.0
+TUPRS,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-4815736391.0
+TUPRS,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2696654936.0
+TUPRS,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,5166960666.0
+TUPRS,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,3264157298.0
+TUPRS,2023/12,4CAA,Düzeltmeler:,Adjustments:,932105303.0
+TUPRS,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,367394342.0
+TUPRS,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,230468426.0
+TUPRS,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,15614808.0
+TUPRS,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),4196262601.0
+TUPRS,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,1610807451.0
+TUPRS,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),5807070051.0
+TUPRS,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-640109385.0
+TUPRS,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-750381166.0
+TUPRS,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,171778457.0
+TUPRS,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-578602709.0
+TUPRS,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,4588357958.0
+TUPRS,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-598419705.0
+TUPRS,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-2075085507.0
+TUPRS,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TUPRS,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,566477624.0
+TUPRS,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-2107027588.0
+TUPRS,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,2481330370.0
+TUPRS,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,432079434.0
+TUPRS,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TUPRS,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,2913409804.0
+TUPRS,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TUPRS,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4124938326.0
+TUPRS,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,5213245257.0
+TUPRS,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,5254266774.0
+TUPRS,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2027592533.0
+TUPRS,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,12592168.0
+TUPRS,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,889471852.0
+TUPRS,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TUPRS,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,3296313.0
+TUPRS,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2023/3,1AF,Stoklar,Inventories,1845533620.0
+TUPRS,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TUPRS,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,475780287.0
+TUPRS,2023/3,1AI,(Ara Toplam),(Subtotal),5254266774.0
+TUPRS,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TUPRS,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2620310093.0
+TUPRS,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+TUPRS,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TUPRS,2023/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+TUPRS,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2023/3,1BC,Finansal Yatırımlar,Financial Investments,3739824.0
+TUPRS,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,155592929.0
+TUPRS,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TUPRS,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TUPRS,2023/3,1BFA,Stoklar,Stoklar,0.0
+TUPRS,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,12546879.0
+TUPRS,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1802280616.0
+TUPRS,2023/3,1BGA,Şerefiye,Goodwill,31218.0
+TUPRS,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,30941536.0
+TUPRS,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,435680797.0
+TUPRS,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,179496295.0
+TUPRS,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7874576867.0
+TUPRS,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TUPRS,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3555648120.0
+TUPRS,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,547529837.0
+TUPRS,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2117135576.0
+TUPRS,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,5601267.0
+TUPRS,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TUPRS,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TUPRS,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TUPRS,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,10522572.0
+TUPRS,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),155857837.0
+TUPRS,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,61214834.0
+TUPRS,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,657786197.0
+TUPRS,2023/3,2AAGG,(Ara Toplam),(Subtotal),3555648120.0
+TUPRS,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TUPRS,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1114120326.0
+TUPRS,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,1044034803.0
+TUPRS,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TUPRS,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TUPRS,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TUPRS,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TUPRS,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TUPRS,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,594649.0
+TUPRS,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,67140631.0
+TUPRS,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TUPRS,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,2317306.0
+TUPRS,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,32938.0
+TUPRS,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3204808420.0
+TUPRS,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3178978622.0
+TUPRS,2023/3,2OA,Ödenmiş Sermaye,Share Capital,14345417.0
+TUPRS,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TUPRS,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,52152878.0
+TUPRS,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TUPRS,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,34236859.0
+TUPRS,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,86998822.0
+TUPRS,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1817937231.0
+TUPRS,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),351685602.0
+TUPRS,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,821621812.0
+TUPRS,2023/3,2ODA,Azınlık Payları,Minority Interests,25829798.0
+TUPRS,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7874576867.0
+TUPRS,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TUPRS,2023/3,3C,Satış Gelirleri,Net Sales,9194585414.0
+TUPRS,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-7830975783.0
+TUPRS,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TUPRS,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1363609631.0
+TUPRS,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TUPRS,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TUPRS,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TUPRS,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1363609631.0
+TUPRS,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-78523654.0
+TUPRS,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-217214733.0
+TUPRS,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-5540896.0
+TUPRS,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,63367858.0
+TUPRS,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-115660275.0
+TUPRS,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TUPRS,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1010037931.0
+TUPRS,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1062330348.0
+TUPRS,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+TUPRS,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,898342.0
+TUPRS,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TUPRS,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-24596141.0
+TUPRS,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,986340132.0
+TUPRS,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),166593350.0
+TUPRS,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-437122057.0
+TUPRS,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,898342.0
+TUPRS,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,715811424.0
+TUPRS,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-550788545.0
+TUPRS,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-298788452.0
+TUPRS,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-252000093.0
+TUPRS,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TUPRS,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,165022879.0
+TUPRS,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TUPRS,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TUPRS,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,165022879.0
+TUPRS,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TUPRS,2023/3,3LB,Azınlık Payları,Minority Interests,3751251.0
+TUPRS,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,161271627.0
+TUPRS,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TUPRS,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TUPRS,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TUPRS,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TUPRS,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,122215213.0
+TUPRS,2023/3,4BA,Kıdem Tazminatı,Severance Payments,2269805.0
+TUPRS,2023/3,4BB,Finansman Giderleri,Financial Expenses,-437122057.0
+TUPRS,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,7472122373.0
+TUPRS,2023/3,4BD,Yurtdışı Satışlar,Export Sales,1144749111.0
+TUPRS,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1701512877.0
+TUPRS,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1703134424.0
+TUPRS,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1531432650.0
+TUPRS,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,640978737.0
+TUPRS,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,152228611.0
+TUPRS,2023/3,4CAA,Düzeltmeler:,Adjustments:,846717261.0
+TUPRS,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,112739830.0
+TUPRS,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,85111566.0
+TUPRS,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,648865865.0
+TUPRS,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),998945871.0
+TUPRS,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-234930801.0
+TUPRS,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),764015070.0
+TUPRS,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-123036333.0
+TUPRS,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-204491653.0
+TUPRS,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,216064402.0
+TUPRS,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,11572749.0
+TUPRS,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,652551486.0
+TUPRS,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-305183495.0
+TUPRS,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,-1114756778.0
+TUPRS,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TUPRS,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,260431266.0
+TUPRS,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1159509008.0
+TUPRS,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-506957522.0
+TUPRS,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-567402183.0
+TUPRS,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TUPRS,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-1074359705.0
+TUPRS,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TUPRS,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4146015822.0
+TUPRS,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3071656117.0
+TUPRS,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,4969700266.0
+TUPRS,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1791400872.0
+TUPRS,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2556669.0
+TUPRS,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1184044052.0
+TUPRS,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TUPRS,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,3143497.0
+TUPRS,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2023/6,1AF,Stoklar,Inventories,1524955005.0
+TUPRS,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TUPRS,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,463600172.0
+TUPRS,2023/6,1AI,(Ara Toplam),(Subtotal),4969700266.0
+TUPRS,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TUPRS,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2063735427.0
+TUPRS,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+TUPRS,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TUPRS,2023/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+TUPRS,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2023/6,1BC,Finansal Yatırımlar,Financial Investments,7611830.0
+TUPRS,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,134850597.0
+TUPRS,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TUPRS,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TUPRS,2023/6,1BFA,Stoklar,Stoklar,0.0
+TUPRS,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,9351092.0
+TUPRS,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1367818057.0
+TUPRS,2023/6,1BGA,Şerefiye,Goodwill,23155.0
+TUPRS,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,22555432.0
+TUPRS,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,377968697.0
+TUPRS,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,143556568.0
+TUPRS,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,7033435693.0
+TUPRS,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TUPRS,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3304555192.0
+TUPRS,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,392488519.0
+TUPRS,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2282478082.0
+TUPRS,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,3116245.0
+TUPRS,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TUPRS,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TUPRS,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TUPRS,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,5036916.0
+TUPRS,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),59664084.0
+TUPRS,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,56453405.0
+TUPRS,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,505317941.0
+TUPRS,2023/6,2AAGG,(Ara Toplam),(Subtotal),3304555192.0
+TUPRS,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TUPRS,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1086541539.0
+TUPRS,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,1011463417.0
+TUPRS,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TUPRS,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TUPRS,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TUPRS,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TUPRS,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TUPRS,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,445272.0
+TUPRS,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,56151081.0
+TUPRS,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TUPRS,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,1718774.0
+TUPRS,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,16762996.0
+TUPRS,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2642338962.0
+TUPRS,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2619871703.0
+TUPRS,2023/6,2OA,Ödenmiş Sermaye,Share Capital,74481090.0
+TUPRS,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TUPRS,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,38682430.0
+TUPRS,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TUPRS,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,46734546.0
+TUPRS,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,67722964.0
+TUPRS,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1333312846.0
+TUPRS,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),539835057.0
+TUPRS,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,519102769.0
+TUPRS,2023/6,2ODA,Azınlık Payları,Minority Interests,22467259.0
+TUPRS,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,7033435693.0
+TUPRS,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TUPRS,2023/6,3C,Satış Gelirleri,Net Sales,18047204328.0
+TUPRS,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-15265816073.0
+TUPRS,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TUPRS,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2781388255.0
+TUPRS,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TUPRS,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TUPRS,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TUPRS,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2781388255.0
+TUPRS,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-170908682.0
+TUPRS,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-371987950.0
+TUPRS,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-10489622.0
+TUPRS,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,355772198.0
+TUPRS,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-978833487.0
+TUPRS,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TUPRS,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1604940712.0
+TUPRS,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2228002002.0
+TUPRS,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+TUPRS,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-126864.0
+TUPRS,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TUPRS,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,46828493.0
+TUPRS,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1651642342.0
+TUPRS,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),701176586.0
+TUPRS,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1198493714.0
+TUPRS,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-126864.0
+TUPRS,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1154325214.0
+TUPRS,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-516140552.0
+TUPRS,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-316619503.0
+TUPRS,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-199521049.0
+TUPRS,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TUPRS,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,638184662.0
+TUPRS,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TUPRS,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TUPRS,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,638184662.0
+TUPRS,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TUPRS,2023/6,3LB,Azınlık Payları,Minority Interests,12198442.0
+TUPRS,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,625986220.0
+TUPRS,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TUPRS,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TUPRS,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TUPRS,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TUPRS,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,211771660.0
+TUPRS,2023/6,4BA,Kıdem Tazminatı,Severance Payments,23250011.0
+TUPRS,2023/6,4BB,Finansman Giderleri,Financial Expenses,-1198493714.0
+TUPRS,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,15709726946.0
+TUPRS,2023/6,4BD,Yurtdışı Satışlar,Export Sales,2603188457.0
+TUPRS,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2495228671.0
+TUPRS,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2496377816.0
+TUPRS,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2001468721.0
+TUPRS,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1005672240.0
+TUPRS,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,638184662.0
+TUPRS,2023/6,4CAA,Düzeltmeler:,Adjustments:,1002580447.0
+TUPRS,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,211771660.0
+TUPRS,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,142321212.0
+TUPRS,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,626340398.0
+TUPRS,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1640765109.0
+TUPRS,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-315550960.0
+TUPRS,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1325214149.0
+TUPRS,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-319541909.0
+TUPRS,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-307471189.0
+TUPRS,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,239145442.0
+TUPRS,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-68325747.0
+TUPRS,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,937346493.0
+TUPRS,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-453576438.0
+TUPRS,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-1153086931.0
+TUPRS,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TUPRS,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,131497866.0
+TUPRS,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1475165504.0
+TUPRS,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-537819010.0
+TUPRS,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,334146464.0
+TUPRS,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TUPRS,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-203672546.0
+TUPRS,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TUPRS,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4288587553.0
+TUPRS,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3427650770.0
+TUPRS,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,7170778167.0
+TUPRS,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,3043350835.0
+TUPRS,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,114991030.0
+TUPRS,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1534904251.0
+TUPRS,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TUPRS,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,5491905.0
+TUPRS,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2023/9,1AF,Stoklar,Inventories,1902664625.0
+TUPRS,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TUPRS,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,569375520.0
+TUPRS,2023/9,1AI,(Ara Toplam),(Subtotal),7170778167.0
+TUPRS,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TUPRS,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1984734704.0
+TUPRS,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+TUPRS,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TUPRS,2023/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+TUPRS,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2023/9,1BC,Finansal Yatırımlar,Financial Investments,7778240.0
+TUPRS,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,159578539.0
+TUPRS,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TUPRS,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TUPRS,2023/9,1BFA,Stoklar,Stoklar,0.0
+TUPRS,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,11828083.0
+TUPRS,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1326123569.0
+TUPRS,2023/9,1BGA,Şerefiye,Goodwill,21841.0
+TUPRS,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,20943667.0
+TUPRS,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,279486108.0
+TUPRS,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,178974659.0
+TUPRS,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9155512871.0
+TUPRS,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TUPRS,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,5566808321.0
+TUPRS,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,345287319.0
+TUPRS,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3690837490.0
+TUPRS,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,252806971.0
+TUPRS,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TUPRS,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TUPRS,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TUPRS,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,5853460.0
+TUPRS,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),158162401.0
+TUPRS,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,66226500.0
+TUPRS,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1047634179.0
+TUPRS,2023/9,2AAGG,(Ara Toplam),(Subtotal),5566808321.0
+TUPRS,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TUPRS,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,942860825.0
+TUPRS,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,870890141.0
+TUPRS,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TUPRS,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TUPRS,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TUPRS,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TUPRS,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TUPRS,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,544410.0
+TUPRS,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,53534055.0
+TUPRS,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TUPRS,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,1902137.0
+TUPRS,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,15990082.0
+TUPRS,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2645843725.0
+TUPRS,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2619914752.0
+TUPRS,2023/9,2OA,Ödenmiş Sermaye,Share Capital,70254357.0
+TUPRS,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TUPRS,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,36487238.0
+TUPRS,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TUPRS,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,48840188.0
+TUPRS,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,116749289.0
+TUPRS,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),676083643.0
+TUPRS,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1286063042.0
+TUPRS,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,385436994.0
+TUPRS,2023/9,2ODA,Azınlık Payları,Minority Interests,25928973.0
+TUPRS,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9155512871.0
+TUPRS,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TUPRS,2023/9,3C,Satış Gelirleri,Net Sales,30714763204.0
+TUPRS,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-25634176912.0
+TUPRS,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TUPRS,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,5080586293.0
+TUPRS,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TUPRS,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TUPRS,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TUPRS,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),5080586293.0
+TUPRS,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-288428053.0
+TUPRS,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-519656428.0
+TUPRS,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-13315673.0
+TUPRS,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,520153208.0
+TUPRS,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-1345363226.0
+TUPRS,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TUPRS,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,3433976121.0
+TUPRS,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,4259186139.0
+TUPRS,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,10482161.0
+TUPRS,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TUPRS,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TUPRS,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,102235359.0
+TUPRS,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3546693641.0
+TUPRS,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),934319034.0
+TUPRS,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1907875863.0
+TUPRS,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,10482161.0
+TUPRS,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,2573136811.0
+TUPRS,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-1502664874.0
+TUPRS,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-607533002.0
+TUPRS,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-895131872.0
+TUPRS,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TUPRS,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1070471937.0
+TUPRS,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TUPRS,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TUPRS,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1070471937.0
+TUPRS,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TUPRS,2023/9,3LB,Azınlık Payları,Minority Interests,16222251.0
+TUPRS,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,1054249686.0
+TUPRS,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+TUPRS,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+TUPRS,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+TUPRS,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+TUPRS,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,275958501.0
+TUPRS,2023/9,4BA,Kıdem Tazminatı,Severance Payments,13004262.0
+TUPRS,2023/9,4BB,Finansman Giderleri,Financial Expenses,-1907875863.0
+TUPRS,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,26176301246.0
+TUPRS,2023/9,4BD,Yurtdışı Satışlar,Export Sales,5006383201.0
+TUPRS,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-3646926743.0
+TUPRS,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-3655143662.0
+TUPRS,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2245145047.0
+TUPRS,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,4731187619.0
+TUPRS,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1070471937.0
+TUPRS,2023/9,4CAA,Düzeltmeler:,Adjustments:,1766786601.0
+TUPRS,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,275958501.0
+TUPRS,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,183113405.0
+TUPRS,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1314031434.0
+TUPRS,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2837258539.0
+TUPRS,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,2306303740.0
+TUPRS,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),5143562279.0
+TUPRS,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-412374660.0
+TUPRS,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-389287401.0
+TUPRS,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,31409093.0
+TUPRS,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-357878308.0
+TUPRS,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,4373309310.0
+TUPRS,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-816662408.0
+TUPRS,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-2096022523.0
+TUPRS,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TUPRS,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,282958291.0
+TUPRS,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-2629726641.0
+TUPRS,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1743582670.0
+TUPRS,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,364013012.0
+TUPRS,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TUPRS,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,2107595681.0
+TUPRS,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TUPRS,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4166493122.0
+TUPRS,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,5014934865.0
+TUPRS,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,6586334422.0
+TUPRS,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2609621489.0
+TUPRS,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,852.0
+TUPRS,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1315614948.0
+TUPRS,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TUPRS,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,6765052.0
+TUPRS,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2024/12,1AF,Stoklar,Inventories,2139159428.0
+TUPRS,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TUPRS,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,515172653.0
+TUPRS,2024/12,1AI,(Ara Toplam),(Subtotal),6586334422.0
+TUPRS,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TUPRS,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,9529937323.0
+TUPRS,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+TUPRS,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TUPRS,2024/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+TUPRS,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2024/12,1BC,Finansal Yatırımlar,Financial Investments,22830876.0
+TUPRS,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,463241976.0
+TUPRS,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TUPRS,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TUPRS,2024/12,1BFA,Stoklar,Stoklar,0.0
+TUPRS,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,31902286.0
+TUPRS,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,8026082424.0
+TUPRS,2024/12,1BGA,Şerefiye,Goodwill,110192.0
+TUPRS,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,216009221.0
+TUPRS,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,31551306.0
+TUPRS,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,738209043.0
+TUPRS,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,16116271746.0
+TUPRS,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+TUPRS,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,5279558364.0
+TUPRS,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,321309985.0
+TUPRS,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3686551673.0
+TUPRS,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,21358781.0
+TUPRS,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TUPRS,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TUPRS,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TUPRS,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,13344784.0
+TUPRS,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),28923033.0
+TUPRS,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,82036930.0
+TUPRS,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1126033178.0
+TUPRS,2024/12,2AAGG,(Ara Toplam),(Subtotal),5279558364.0
+TUPRS,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TUPRS,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,678231933.0
+TUPRS,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,352566808.0
+TUPRS,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TUPRS,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TUPRS,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TUPRS,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TUPRS,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TUPRS,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1355551.0
+TUPRS,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,59076485.0
+TUPRS,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TUPRS,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,248875373.0
+TUPRS,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,16357716.0
+TUPRS,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,10158481448.0
+TUPRS,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,10015376778.0
+TUPRS,2024/12,2OA,Ödenmiş Sermaye,Share Capital,54515813.0
+TUPRS,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TUPRS,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TUPRS,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TUPRS,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-6693543.0
+TUPRS,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,500628750.0
+TUPRS,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),6578991618.0
+TUPRS,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),649976118.0
+TUPRS,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,2224094875.0
+TUPRS,2024/12,2ODA,Azınlık Payları,Minority Interests,143104670.0
+TUPRS,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,16116271746.0
+TUPRS,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TUPRS,2024/12,3C,Satış Gelirleri,Net Sales,30920711519.0
+TUPRS,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-28324977543.0
+TUPRS,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TUPRS,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2595733976.0
+TUPRS,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TUPRS,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TUPRS,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TUPRS,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2595733976.0
+TUPRS,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-380273481.0
+TUPRS,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-635489155.0
+TUPRS,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-12238356.0
+TUPRS,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,545728748.0
+TUPRS,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-750928175.0
+TUPRS,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TUPRS,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1362533556.0
+TUPRS,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1567732984.0
+TUPRS,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+TUPRS,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-595761.0
+TUPRS,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TUPRS,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,55023553.0
+TUPRS,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1416961348.0
+TUPRS,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1134203010.0
+TUPRS,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1339897048.0
+TUPRS,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-595761.0
+TUPRS,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1211267310.0
+TUPRS,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-485028220.0
+TUPRS,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-114607267.0
+TUPRS,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-370420954.0
+TUPRS,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TUPRS,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,726239090.0
+TUPRS,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TUPRS,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,726239090.0
+TUPRS,2024/12,3LB,Azınlık Payları,Minority Interests,27414117.0
+TUPRS,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,698824972.0
+TUPRS,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TUPRS,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TUPRS,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TUPRS,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TUPRS,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,366908010.0
+TUPRS,2024/12,4BA,Kıdem Tazminatı,Severance Payments,14936144.0
+TUPRS,2024/12,4BB,Finansman Giderleri,Financial Expenses,-1339897048.0
+TUPRS,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,25672988238.0
+TUPRS,2024/12,4BD,Yurtdışı Satışlar,Export Sales,5599008919.0
+TUPRS,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2776587680.0
+TUPRS,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2792776128.0
+TUPRS,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2472182551.0
+TUPRS,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1345785748.0
+TUPRS,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,726239090.0
+TUPRS,2024/12,4CAA,Düzeltmeler:,Adjustments:,1091913874.0
+TUPRS,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,366908010.0
+TUPRS,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,141600223.0
+TUPRS,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-95786696.0
+TUPRS,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1818152963.0
+TUPRS,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-283528699.0
+TUPRS,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1534624264.0
+TUPRS,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-188838517.0
+TUPRS,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-526169066.0
+TUPRS,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,72482237.0
+TUPRS,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-453686828.0
+TUPRS,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,892098920.0
+TUPRS,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-937714305.0
+TUPRS,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-1860599224.0
+TUPRS,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TUPRS,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,595378548.0
+TUPRS,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-2202934981.0
+TUPRS,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-1310836061.0
+TUPRS,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,84344227.0
+TUPRS,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TUPRS,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-1226491834.0
+TUPRS,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TUPRS,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4739835534.0
+TUPRS,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2259356133.0
+TUPRS,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,6565290691.0
+TUPRS,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2673938028.0
+TUPRS,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,126838107.0
+TUPRS,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1198163655.0
+TUPRS,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TUPRS,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,32157367.0
+TUPRS,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2024/3,1AF,Stoklar,Inventories,1926304864.0
+TUPRS,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TUPRS,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,607888670.0
+TUPRS,2024/3,1AI,(Ara Toplam),(Subtotal),6565290691.0
+TUPRS,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TUPRS,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,5909647875.0
+TUPRS,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+TUPRS,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TUPRS,2024/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+TUPRS,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2024/3,1BC,Finansal Yatırımlar,Financial Investments,14834249.0
+TUPRS,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,281875889.0
+TUPRS,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TUPRS,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TUPRS,2024/3,1BFA,Stoklar,Stoklar,0.0
+TUPRS,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,23831979.0
+TUPRS,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4743903740.0
+TUPRS,2024/3,1BGA,Şerefiye,Goodwill,76491.0
+TUPRS,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,150297184.0
+TUPRS,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,245216302.0
+TUPRS,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,449612041.0
+TUPRS,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,12474938566.0
+TUPRS,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TUPRS,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,5110470170.0
+TUPRS,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1069195761.0
+TUPRS,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2947708326.0
+TUPRS,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,4036656.0
+TUPRS,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TUPRS,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TUPRS,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TUPRS,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,15709599.0
+TUPRS,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),13753973.0
+TUPRS,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,70774713.0
+TUPRS,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,989291143.0
+TUPRS,2024/3,2AAGG,(Ara Toplam),(Subtotal),5110470170.0
+TUPRS,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TUPRS,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,246616456.0
+TUPRS,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,134745390.0
+TUPRS,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TUPRS,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TUPRS,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TUPRS,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TUPRS,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TUPRS,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1185737.0
+TUPRS,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,68457902.0
+TUPRS,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TUPRS,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,27485623.0
+TUPRS,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,14741804.0
+TUPRS,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,7117851940.0
+TUPRS,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7035979235.0
+TUPRS,2024/3,2OA,Ödenmiş Sermaye,Share Capital,59572713.0
+TUPRS,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TUPRS,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TUPRS,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TUPRS,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,8122813.0
+TUPRS,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,227729164.0
+TUPRS,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5889365253.0
+TUPRS,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),9904432.0
+TUPRS,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,841284860.0
+TUPRS,2024/3,2ODA,Azınlık Payları,Minority Interests,81872704.0
+TUPRS,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,12474938566.0
+TUPRS,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TUPRS,2024/3,3C,Satış Gelirleri,Net Sales,7381194317.0
+TUPRS,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-6793514276.0
+TUPRS,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TUPRS,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,587680041.0
+TUPRS,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TUPRS,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TUPRS,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TUPRS,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),587680041.0
+TUPRS,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-100095083.0
+TUPRS,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-156547124.0
+TUPRS,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-4443092.0
+TUPRS,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,128736295.0
+TUPRS,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-277829580.0
+TUPRS,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TUPRS,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,177501457.0
+TUPRS,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,326594742.0
+TUPRS,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+TUPRS,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-15794.0
+TUPRS,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TUPRS,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,12577251.0
+TUPRS,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,190062914.0
+TUPRS,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),336862981.0
+TUPRS,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-442525850.0
+TUPRS,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-15794.0
+TUPRS,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,84400045.0
+TUPRS,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-65877461.0
+TUPRS,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-23438117.0
+TUPRS,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-42439344.0
+TUPRS,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TUPRS,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,18522584.0
+TUPRS,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TUPRS,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TUPRS,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,18522584.0
+TUPRS,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TUPRS,2024/3,3LB,Azınlık Payları,Minority Interests,4233114.0
+TUPRS,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,14289469.0
+TUPRS,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TUPRS,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TUPRS,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TUPRS,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TUPRS,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,95451090.0
+TUPRS,2024/3,4BA,Kıdem Tazminatı,Severance Payments,4627844.0
+TUPRS,2024/3,4BB,Finansman Giderleri,Financial Expenses,-442525850.0
+TUPRS,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,5802439409.0
+TUPRS,2024/3,4BD,Yurtdışı Satışlar,Export Sales,1651521423.0
+TUPRS,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2781691230.0
+TUPRS,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2785046352.0
+TUPRS,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2016276530.0
+TUPRS,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-694073940.0
+TUPRS,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,18522584.0
+TUPRS,2024/3,4CAA,Düzeltmeler:,Adjustments:,70927974.0
+TUPRS,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,95451090.0
+TUPRS,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,51768804.0
+TUPRS,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-338666154.0
+TUPRS,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),89450558.0
+TUPRS,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-699922278.0
+TUPRS,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-610471720.0
+TUPRS,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-83602220.0
+TUPRS,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-87680556.0
+TUPRS,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-147004489.0
+TUPRS,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-234685045.0
+TUPRS,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,-928758985.0
+TUPRS,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,32357246.0
+TUPRS,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+TUPRS,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TUPRS,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,259601211.0
+TUPRS,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,291958457.0
+TUPRS,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-636800528.0
+TUPRS,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,34969000.0
+TUPRS,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TUPRS,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-601831528.0
+TUPRS,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TUPRS,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4416114533.0
+TUPRS,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3292995212.0
+TUPRS,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,6442055417.0
+TUPRS,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2671961545.0
+TUPRS,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,4093227.0
+TUPRS,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1366930118.0
+TUPRS,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TUPRS,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,9431935.0
+TUPRS,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2024/6,1AF,Stoklar,Inventories,1982820561.0
+TUPRS,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TUPRS,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,406818031.0
+TUPRS,2024/6,1AI,(Ara Toplam),(Subtotal),6442055417.0
+TUPRS,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TUPRS,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,6272949068.0
+TUPRS,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+TUPRS,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TUPRS,2024/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+TUPRS,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2024/6,1BC,Finansal Yatırımlar,Financial Investments,17285231.0
+TUPRS,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,295439573.0
+TUPRS,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TUPRS,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TUPRS,2024/6,1BFA,Stoklar,Stoklar,0.0
+TUPRS,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,24260931.0
+TUPRS,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5064628269.0
+TUPRS,2024/6,1BGA,Şerefiye,Goodwill,81556.0
+TUPRS,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,156675323.0
+TUPRS,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,175276400.0
+TUPRS,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,539301785.0
+TUPRS,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,12715004485.0
+TUPRS,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TUPRS,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,5364135313.0
+TUPRS,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,910138056.0
+TUPRS,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3506918350.0
+TUPRS,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,6842084.0
+TUPRS,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TUPRS,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TUPRS,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TUPRS,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,17517097.0
+TUPRS,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),37142067.0
+TUPRS,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,102507777.0
+TUPRS,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,783069882.0
+TUPRS,2024/6,2AAGG,(Ara Toplam),(Subtotal),5364135313.0
+TUPRS,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TUPRS,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,195930248.0
+TUPRS,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,87330844.0
+TUPRS,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TUPRS,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TUPRS,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TUPRS,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TUPRS,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TUPRS,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1243595.0
+TUPRS,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,55720124.0
+TUPRS,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TUPRS,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,36990935.0
+TUPRS,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,14644750.0
+TUPRS,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,7154938924.0
+TUPRS,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7064265675.0
+TUPRS,2024/6,2OA,Ödenmiş Sermaye,Share Capital,58591407.0
+TUPRS,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TUPRS,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TUPRS,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TUPRS,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,2137764.0
+TUPRS,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,306392491.0
+TUPRS,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5576631504.0
+TUPRS,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),162727571.0
+TUPRS,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,957784937.0
+TUPRS,2024/6,2ODA,Azınlık Payları,Minority Interests,90673249.0
+TUPRS,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,12715004485.0
+TUPRS,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TUPRS,2024/6,3C,Satış Gelirleri,Net Sales,15805864061.0
+TUPRS,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-14451444886.0
+TUPRS,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TUPRS,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1354419175.0
+TUPRS,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TUPRS,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TUPRS,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TUPRS,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1354419175.0
+TUPRS,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-226398169.0
+TUPRS,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-329568343.0
+TUPRS,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-8040686.0
+TUPRS,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,318457257.0
+TUPRS,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-472821049.0
+TUPRS,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TUPRS,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,636048184.0
+TUPRS,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,790411977.0
+TUPRS,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+TUPRS,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-150528.0
+TUPRS,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TUPRS,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,13078076.0
+TUPRS,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,648975732.0
+TUPRS,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),610467962.0
+TUPRS,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-787849135.0
+TUPRS,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-150528.0
+TUPRS,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,471594558.0
+TUPRS,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-235787950.0
+TUPRS,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-86428501.0
+TUPRS,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-149359449.0
+TUPRS,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TUPRS,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,235806608.0
+TUPRS,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TUPRS,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TUPRS,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,235806608.0
+TUPRS,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TUPRS,2024/6,3LB,Azınlık Payları,Minority Interests,7264642.0
+TUPRS,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,228541966.0
+TUPRS,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TUPRS,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TUPRS,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TUPRS,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TUPRS,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,195019913.0
+TUPRS,2024/6,4BA,Kıdem Tazminatı,Severance Payments,6579295.0
+TUPRS,2024/6,4BB,Finansman Giderleri,Financial Expenses,-787849135.0
+TUPRS,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,12461897680.0
+TUPRS,2024/6,4BD,Yurtdışı Satışlar,Export Sales,3492766218.0
+TUPRS,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2673028960.0
+TUPRS,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2679964527.0
+TUPRS,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2131253359.0
+TUPRS,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,230622484.0
+TUPRS,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,235806608.0
+TUPRS,2024/6,4CAA,Düzeltmeler:,Adjustments:,416499154.0
+TUPRS,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,195019913.0
+TUPRS,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,98423626.0
+TUPRS,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-248650005.0
+TUPRS,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),652305763.0
+TUPRS,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-288291103.0
+TUPRS,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),364014660.0
+TUPRS,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-133392175.0
+TUPRS,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-233277572.0
+TUPRS,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,69032947.0
+TUPRS,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-164244625.0
+TUPRS,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,66377859.0
+TUPRS,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-255509675.0
+TUPRS,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-897365222.0
+TUPRS,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TUPRS,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,374511932.0
+TUPRS,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-778362965.0
+TUPRS,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-711985106.0
+TUPRS,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,56868889.0
+TUPRS,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TUPRS,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-655116217.0
+TUPRS,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TUPRS,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4583453291.0
+TUPRS,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3155143117.0
+TUPRS,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,6754311534.0
+TUPRS,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2999394368.0
+TUPRS,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,14989512.0
+TUPRS,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1180754977.0
+TUPRS,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TUPRS,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,12485921.0
+TUPRS,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2024/9,1AF,Stoklar,Inventories,1865727287.0
+TUPRS,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TUPRS,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,680959468.0
+TUPRS,2024/9,1AI,(Ara Toplam),(Subtotal),6754311534.0
+TUPRS,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TUPRS,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,6485992189.0
+TUPRS,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+TUPRS,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TUPRS,2024/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+TUPRS,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2024/9,1BC,Finansal Yatırımlar,Financial Investments,15647451.0
+TUPRS,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,325589234.0
+TUPRS,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TUPRS,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TUPRS,2024/9,1BFA,Stoklar,Stoklar,0.0
+TUPRS,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,25816953.0
+TUPRS,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5312169414.0
+TUPRS,2024/9,1BGA,Şerefiye,Goodwill,85482.0
+TUPRS,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,163377576.0
+TUPRS,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,64449996.0
+TUPRS,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,578856081.0
+TUPRS,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,13240303723.0
+TUPRS,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TUPRS,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,5579197718.0
+TUPRS,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,948216778.0
+TUPRS,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3102420215.0
+TUPRS,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,320614466.0
+TUPRS,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TUPRS,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TUPRS,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TUPRS,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,35550852.0
+TUPRS,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),33903869.0
+TUPRS,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,125255028.0
+TUPRS,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1013236510.0
+TUPRS,2024/9,2AAGG,(Ara Toplam),(Subtotal),5579197718.0
+TUPRS,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TUPRS,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,490504176.0
+TUPRS,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,379476340.0
+TUPRS,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TUPRS,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TUPRS,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TUPRS,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TUPRS,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TUPRS,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1143363.0
+TUPRS,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,55631390.0
+TUPRS,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TUPRS,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,40868310.0
+TUPRS,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,13384773.0
+TUPRS,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,7170601828.0
+TUPRS,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7071121597.0
+TUPRS,2024/9,2OA,Ödenmiş Sermaye,Share Capital,56367908.0
+TUPRS,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TUPRS,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TUPRS,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TUPRS,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-2484283.0
+TUPRS,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,388341081.0
+TUPRS,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5103355284.0
+TUPRS,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),397066657.0
+TUPRS,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1128474951.0
+TUPRS,2024/9,2ODA,Azınlık Payları,Minority Interests,99480231.0
+TUPRS,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,13240303723.0
+TUPRS,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TUPRS,2024/9,3C,Satış Gelirleri,Net Sales,24748252695.0
+TUPRS,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-22546197584.0
+TUPRS,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TUPRS,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2202055112.0
+TUPRS,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TUPRS,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TUPRS,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TUPRS,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2202055112.0
+TUPRS,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-309496623.0
+TUPRS,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-519263755.0
+TUPRS,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-13216698.0
+TUPRS,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,445233705.0
+TUPRS,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-657157683.0
+TUPRS,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TUPRS,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1148154058.0
+TUPRS,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1360078036.0
+TUPRS,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+TUPRS,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-552261.0
+TUPRS,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TUPRS,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,33884232.0
+TUPRS,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1181486029.0
+TUPRS,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),971821530.0
+TUPRS,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1183308922.0
+TUPRS,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-552261.0
+TUPRS,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,969998637.0
+TUPRS,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-397345601.0
+TUPRS,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-121602540.0
+TUPRS,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-275743061.0
+TUPRS,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TUPRS,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,572653036.0
+TUPRS,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TUPRS,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TUPRS,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,572653036.0
+TUPRS,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TUPRS,2024/9,3LB,Azınlık Payları,Minority Interests,12193494.0
+TUPRS,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,560459542.0
+TUPRS,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TUPRS,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TUPRS,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TUPRS,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TUPRS,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,297244269.0
+TUPRS,2024/9,4BA,Kıdem Tazminatı,Severance Payments,8825124.0
+TUPRS,2024/9,4BB,Finansman Giderleri,Financial Expenses,-1183308922.0
+TUPRS,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,20290254647.0
+TUPRS,2024/9,4BD,Yurtdışı Satışlar,Export Sales,4717807001.0
+TUPRS,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2358870632.0
+TUPRS,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2358870632.0
+TUPRS,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1909908519.0
+TUPRS,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,829637144.0
+TUPRS,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,572653036.0
+TUPRS,2024/9,4CAA,Düzeltmeler:,Adjustments:,1012381382.0
+TUPRS,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,297244269.0
+TUPRS,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,149659046.0
+TUPRS,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,79684944.0
+TUPRS,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1585034418.0
+TUPRS,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-566159387.0
+TUPRS,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1018875031.0
+TUPRS,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-189237887.0
+TUPRS,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-348643216.0
+TUPRS,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,58481629.0
+TUPRS,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-290161586.0
+TUPRS,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,539475558.0
+TUPRS,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,211631134.0
+TUPRS,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-1449782652.0
+TUPRS,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TUPRS,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,605355112.0
+TUPRS,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-632796406.0
+TUPRS,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-93320849.0
+TUPRS,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,83156506.0
+TUPRS,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TUPRS,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-10164343.0
+TUPRS,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TUPRS,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4826920632.0
+TUPRS,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,3701569393.0
+TUPRS,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,4735166373.0
+TUPRS,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1233581965.0
+TUPRS,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,687.0
+TUPRS,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1174499216.0
+TUPRS,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TUPRS,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,10147963.0
+TUPRS,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2025/3,1AF,Stoklar,Inventories,1745676923.0
+TUPRS,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TUPRS,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,571259618.0
+TUPRS,2025/3,1AI,(Ara Toplam),(Subtotal),4735166373.0
+TUPRS,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TUPRS,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,7843569542.0
+TUPRS,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
+TUPRS,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TUPRS,2025/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+TUPRS,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2025/3,1BC,Finansal Yatırımlar,Financial Investments,18592392.0
+TUPRS,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,361844837.0
+TUPRS,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TUPRS,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TUPRS,2025/3,1BFA,Stoklar,Stoklar,0.0
+TUPRS,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,27359946.0
+TUPRS,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,6578168088.0
+TUPRS,2025/3,1BGA,Şerefiye,Goodwill,90343.0
+TUPRS,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,204332275.0
+TUPRS,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,26227702.0
+TUPRS,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,626953959.0
+TUPRS,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,12578735915.0
+TUPRS,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+TUPRS,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4375381446.0
+TUPRS,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,260241293.0
+TUPRS,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2400471960.0
+TUPRS,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,574110647.0
+TUPRS,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TUPRS,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TUPRS,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TUPRS,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,9257884.0
+TUPRS,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),605862.0
+TUPRS,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,99685677.0
+TUPRS,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1031008122.0
+TUPRS,2025/3,2AAGG,(Ara Toplam),(Subtotal),4375381446.0
+TUPRS,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TUPRS,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,630501484.0
+TUPRS,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,296796930.0
+TUPRS,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TUPRS,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TUPRS,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TUPRS,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TUPRS,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TUPRS,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TUPRS,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,48392253.0
+TUPRS,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TUPRS,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,273093380.0
+TUPRS,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,12218921.0
+TUPRS,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,7572852986.0
+TUPRS,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7454087018.0
+TUPRS,2025/3,2OA,Ödenmiş Sermaye,Share Capital,50928035.0
+TUPRS,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TUPRS,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TUPRS,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TUPRS,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-5829353.0
+TUPRS,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,331896669.0
+TUPRS,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5229915789.0
+TUPRS,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),2565887.0
+TUPRS,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1844609991.0
+TUPRS,2025/3,2ODA,Azınlık Payları,Minority Interests,118765968.0
+TUPRS,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,12578735915.0
+TUPRS,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TUPRS,2025/3,3C,Satış Gelirleri,Net Sales,4375130010.0
+TUPRS,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-4012014413.0
+TUPRS,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TUPRS,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,363115598.0
+TUPRS,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TUPRS,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TUPRS,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TUPRS,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),363115598.0
+TUPRS,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-56962331.0
+TUPRS,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-116904194.0
+TUPRS,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-3118213.0
+TUPRS,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,65915627.0
+TUPRS,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-144726608.0
+TUPRS,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TUPRS,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,107319879.0
+TUPRS,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,186130859.0
+TUPRS,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,187253.0
+TUPRS,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TUPRS,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TUPRS,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-1546157.0
+TUPRS,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,105960976.0
+TUPRS,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),115438769.0
+TUPRS,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-151524050.0
+TUPRS,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,187253.0
+TUPRS,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,69875695.0
+TUPRS,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-66562367.0
+TUPRS,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-3724904.0
+TUPRS,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-62837463.0
+TUPRS,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TUPRS,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,3313328.0
+TUPRS,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TUPRS,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TUPRS,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,3313328.0
+TUPRS,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TUPRS,2025/3,3LB,Azınlık Payları,Minority Interests,635762.0
+TUPRS,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,2677565.0
+TUPRS,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TUPRS,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TUPRS,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TUPRS,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TUPRS,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,82831838.0
+TUPRS,2025/3,4BA,Kıdem Tazminatı,Severance Payments,2709891.0
+TUPRS,2025/3,4BB,Finansman Giderleri,Financial Expenses,-151524050.0
+TUPRS,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,3333982236.0
+TUPRS,2025/3,4BD,Yurtdışı Satışlar,Export Sales,1090881586.0
+TUPRS,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1815651604.0
+TUPRS,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1684059760.0
+TUPRS,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1737332657.0
+TUPRS,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-557735164.0
+TUPRS,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,3313328.0
+TUPRS,2025/3,4CAA,Düzeltmeler:,Adjustments:,288781045.0
+TUPRS,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,82831838.0
+TUPRS,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,43649554.0
+TUPRS,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,62333404.0
+TUPRS,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),292094373.0
+TUPRS,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-825198373.0
+TUPRS,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-533104001.0
+TUPRS,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-24631164.0
+TUPRS,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-80912360.0
+TUPRS,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-4158298.0
+TUPRS,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-85070659.0
+TUPRS,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,-642805823.0
+TUPRS,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,42240341.0
+TUPRS,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,-219836431.0
+TUPRS,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TUPRS,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,41254427.0
+TUPRS,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-136341663.0
+TUPRS,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-779147486.0
+TUPRS,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,21368449.0
+TUPRS,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TUPRS,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-757779037.0
+TUPRS,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TUPRS,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1797595628.0
+TUPRS,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,879400917.0
+TUPRS,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,5756840381.0
+TUPRS,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2269436909.0
+TUPRS,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,728.0
+TUPRS,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1340509113.0
+TUPRS,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TUPRS,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,13894490.0
+TUPRS,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2025/6,1AF,Stoklar,Inventories,1451994529.0
+TUPRS,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TUPRS,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,681004612.0
+TUPRS,2025/6,1AI,(Ara Toplam),(Subtotal),5756840381.0
+TUPRS,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TUPRS,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,7948192649.0
+TUPRS,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
+TUPRS,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TUPRS,2025/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+TUPRS,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2025/6,1BC,Finansal Yatırımlar,Financial Investments,19423772.0
+TUPRS,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,372129663.0
+TUPRS,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TUPRS,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TUPRS,2025/6,1BFA,Stoklar,Stoklar,0.0
+TUPRS,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,25177608.0
+TUPRS,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,6665686972.0
+TUPRS,2025/6,1BGA,Şerefiye,Goodwill,91027.0
+TUPRS,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,221867911.0
+TUPRS,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,19739629.0
+TUPRS,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,624076067.0
+TUPRS,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,13705033030.0
+TUPRS,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+TUPRS,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4708672499.0
+TUPRS,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,235970276.0
+TUPRS,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2765104264.0
+TUPRS,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,373125408.0
+TUPRS,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TUPRS,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TUPRS,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TUPRS,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,14475867.0
+TUPRS,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2712999.0
+TUPRS,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,96217234.0
+TUPRS,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1221066452.0
+TUPRS,2025/6,2AAGG,(Ara Toplam),(Subtotal),4708672499.0
+TUPRS,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TUPRS,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1172452578.0
+TUPRS,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,803161402.0
+TUPRS,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TUPRS,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TUPRS,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TUPRS,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TUPRS,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TUPRS,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TUPRS,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,53632888.0
+TUPRS,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TUPRS,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,303407607.0
+TUPRS,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,12250681.0
+TUPRS,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,7823907953.0
+TUPRS,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,7702060388.0
+TUPRS,2025/6,2OA,Ödenmiş Sermaye,Share Capital,48396881.0
+TUPRS,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TUPRS,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TUPRS,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TUPRS,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-6496293.0
+TUPRS,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,334345958.0
+TUPRS,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5268507827.0
+TUPRS,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),225726105.0
+TUPRS,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1831579910.0
+TUPRS,2025/6,2ODA,Azınlık Payları,Minority Interests,121847565.0
+TUPRS,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,13705033030.0
+TUPRS,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TUPRS,2025/6,3C,Satış Gelirleri,Net Sales,9372481742.0
+TUPRS,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-8524571261.0
+TUPRS,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TUPRS,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,847910481.0
+TUPRS,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TUPRS,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TUPRS,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TUPRS,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),847910481.0
+TUPRS,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-121396855.0
+TUPRS,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-247172330.0
+TUPRS,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-5769464.0
+TUPRS,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,175868206.0
+TUPRS,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-282696337.0
+TUPRS,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TUPRS,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,366743700.0
+TUPRS,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,473571831.0
+TUPRS,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,913276.0
+TUPRS,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+TUPRS,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TUPRS,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,15093485.0
+TUPRS,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,382750461.0
+TUPRS,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),268622335.0
+TUPRS,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-285759987.0
+TUPRS,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,913276.0
+TUPRS,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,365612809.0
+TUPRS,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-123655782.0
+TUPRS,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-13220192.0
+TUPRS,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-110435590.0
+TUPRS,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TUPRS,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,241957027.0
+TUPRS,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TUPRS,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TUPRS,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,241957027.0
+TUPRS,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TUPRS,2025/6,3LB,Azınlık Payları,Minority Interests,2207678.0
+TUPRS,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,239749348.0
+TUPRS,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TUPRS,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TUPRS,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TUPRS,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TUPRS,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,172747225.0
+TUPRS,2025/6,4BA,Kıdem Tazminatı,Severance Payments,8502171.0
+TUPRS,2025/6,4BB,Finansman Giderleri,Financial Expenses,-285759987.0
+TUPRS,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,7389799329.0
+TUPRS,2025/6,4BD,Yurtdışı Satışlar,Export Sales,2093125953.0
+TUPRS,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2649617644.0
+TUPRS,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2649437486.0
+TUPRS,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1546273220.0
+TUPRS,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,303165355.0
+TUPRS,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,241957027.0
+TUPRS,2025/6,4CAA,Düzeltmeler:,Adjustments:,322075377.0
+TUPRS,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,172747225.0
+TUPRS,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,51390440.0
+TUPRS,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,15406661.0
+TUPRS,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),564032404.0
+TUPRS,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-199187848.0
+TUPRS,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),364844555.0
+TUPRS,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-61679200.0
+TUPRS,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-219899532.0
+TUPRS,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-9738707.0
+TUPRS,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-229638239.0
+TUPRS,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,73527116.0
+TUPRS,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,590079283.0
+TUPRS,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-418426747.0
+TUPRS,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TUPRS,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,65525883.0
+TUPRS,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,237178419.0
+TUPRS,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,310705535.0
+TUPRS,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,49045209.0
+TUPRS,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TUPRS,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,359750744.0
+TUPRS,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TUPRS,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1843139895.0
+TUPRS,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1953877643.0
+TUPRS,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,6493079054.0
+TUPRS,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,2815933321.0
+TUPRS,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,770.0
+TUPRS,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1336473103.0
+TUPRS,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+TUPRS,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,16585677.0
+TUPRS,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2025/9,1AF,Stoklar,Inventories,1504577650.0
+TUPRS,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+TUPRS,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,819508533.0
+TUPRS,2025/9,1AI,(Ara Toplam),(Subtotal),6493079054.0
+TUPRS,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+TUPRS,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,8180248596.0
+TUPRS,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+TUPRS,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+TUPRS,2025/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+TUPRS,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+TUPRS,2025/9,1BC,Finansal Yatırımlar,Financial Investments,19898200.0
+TUPRS,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,397383073.0
+TUPRS,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+TUPRS,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+TUPRS,2025/9,1BFA,Stoklar,Stoklar,0.0
+TUPRS,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,24336269.0
+TUPRS,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,6867098164.0
+TUPRS,2025/9,1BGA,Şerefiye,Goodwill,93671.0
+TUPRS,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,225329352.0
+TUPRS,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,19938747.0
+TUPRS,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,626171119.0
+TUPRS,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,14673327650.0
+TUPRS,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+TUPRS,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,5149110809.0
+TUPRS,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,350164279.0
+TUPRS,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3030395079.0
+TUPRS,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,171337875.0
+TUPRS,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+TUPRS,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+TUPRS,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+TUPRS,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,14675025.0
+TUPRS,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2579723.0
+TUPRS,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,100347654.0
+TUPRS,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1479611174.0
+TUPRS,2025/9,2AAGG,(Ara Toplam),(Subtotal),5149110809.0
+TUPRS,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+TUPRS,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1144183581.0
+TUPRS,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,675778902.0
+TUPRS,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+TUPRS,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+TUPRS,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+TUPRS,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+TUPRS,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+TUPRS,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+TUPRS,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+TUPRS,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,54011053.0
+TUPRS,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+TUPRS,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,404096884.0
+TUPRS,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,10296742.0
+TUPRS,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,8380033260.0
+TUPRS,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,8251761765.0
+TUPRS,2025/9,2OA,Ödenmiş Sermaye,Share Capital,46337707.0
+TUPRS,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+TUPRS,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+TUPRS,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+TUPRS,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-10404289.0
+TUPRS,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,344141038.0
+TUPRS,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),5422913236.0
+TUPRS,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),524816481.0
+TUPRS,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,1923957592.0
+TUPRS,2025/9,2ODA,Azınlık Payları,Minority Interests,128271495.0
+TUPRS,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,14673327650.0
+TUPRS,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+TUPRS,2025/9,3C,Satış Gelirleri,Net Sales,15486224762.0
+TUPRS,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-13989532518.0
+TUPRS,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+TUPRS,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1496692244.0
+TUPRS,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+TUPRS,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+TUPRS,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+TUPRS,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+TUPRS,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1496692244.0
+TUPRS,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-189808601.0
+TUPRS,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-381702499.0
+TUPRS,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-9400039.0
+TUPRS,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,267769079.0
+TUPRS,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-409581553.0
+TUPRS,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+TUPRS,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,773968632.0
+TUPRS,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,915781105.0
+TUPRS,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+TUPRS,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-63592.0
+TUPRS,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+TUPRS,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,28738718.0
+TUPRS,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,802643758.0
+TUPRS,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),465800822.0
+TUPRS,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-459720720.0
+TUPRS,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-63592.0
+TUPRS,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,808723860.0
+TUPRS,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-239152757.0
+TUPRS,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-34378441.0
+TUPRS,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-204774316.0
+TUPRS,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+TUPRS,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,569571103.0
+TUPRS,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+TUPRS,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+TUPRS,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,569571103.0
+TUPRS,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+TUPRS,2025/9,3LB,Azınlık Payları,Minority Interests,4759975.0
+TUPRS,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,564811129.0
+TUPRS,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+TUPRS,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+TUPRS,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+TUPRS,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+TUPRS,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,270423466.0
+TUPRS,2025/9,4BA,Kıdem Tazminatı,Severance Payments,10111375.0
+TUPRS,2025/9,4BB,Finansman Giderleri,Financial Expenses,-459720720.0
+TUPRS,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,12913990683.0
+TUPRS,2025/9,4BD,Yurtdışı Satışlar,Export Sales,2769603842.0
+TUPRS,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1857555826.0
+TUPRS,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1869265531.0
+TUPRS,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1543016951.0
+TUPRS,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1272217888.0
+TUPRS,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,569571103.0
+TUPRS,2025/9,4CAA,Düzeltmeler:,Adjustments:,651528302.0
+TUPRS,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,270423466.0
+TUPRS,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,61896211.0
+TUPRS,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,130934764.0
+TUPRS,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1221099405.0
+TUPRS,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,124666010.0
+TUPRS,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1345765415.0
+TUPRS,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-73547527.0
+TUPRS,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-317379766.0
+TUPRS,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-11858371.0
+TUPRS,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-329238136.0
+TUPRS,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,942979752.0
+TUPRS,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,599155043.0
+TUPRS,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-633176885.0
+TUPRS,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+TUPRS,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,94352099.0
+TUPRS,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,60330258.0
+TUPRS,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1003310009.0
+TUPRS,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,95218984.0
+TUPRS,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+TUPRS,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1098528994.0
+TUPRS,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+TUPRS,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1922307757.0
+TUPRS,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2584993369.0

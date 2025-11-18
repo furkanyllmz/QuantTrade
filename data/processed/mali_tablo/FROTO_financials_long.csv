@@ -1,0 +1,2204 @@
+symbol,period,item_code,item_name_tr,item_name_en,value
+FROTO,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,4875137412.0
+FROTO,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,889723735.0
+FROTO,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+FROTO,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,2273936366.0
+FROTO,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+FROTO,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,24939195.0
+FROTO,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2022/12,1AF,Stoklar,Inventories,1242525731.0
+FROTO,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+FROTO,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,444012385.0
+FROTO,2022/12,1AI,(Ara Toplam),(Subtotal),4875137412.0
+FROTO,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+FROTO,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,4430176383.0
+FROTO,2022/12,1B,Ticari Alacaklar,Trade Receivables,1379618.0
+FROTO,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+FROTO,2022/12,1BB,Diğer Alacaklar,Other Receivables,101429052.0
+FROTO,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2022/12,1BC,Finansal Yatırımlar,Financial Investments,12837551.0
+FROTO,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+FROTO,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+FROTO,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+FROTO,2022/12,1BFA,Stoklar,Stoklar,0.0
+FROTO,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,17634903.0
+FROTO,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2557936579.0
+FROTO,2022/12,1BGA,Şerefiye,Goodwill,44328369.0
+FROTO,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,722479554.0
+FROTO,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,260874600.0
+FROTO,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,711276158.0
+FROTO,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9305313795.0
+FROTO,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+FROTO,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4068042281.0
+FROTO,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1162752990.0
+FROTO,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2651765642.0
+FROTO,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,64684337.0
+FROTO,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+FROTO,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+FROTO,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+FROTO,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,16938661.0
+FROTO,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+FROTO,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,50659086.0
+FROTO,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,121241565.0
+FROTO,2022/12,2AAGG,(Ara Toplam),(Subtotal),4068042281.0
+FROTO,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+FROTO,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2507096359.0
+FROTO,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,2172675368.0
+FROTO,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+FROTO,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+FROTO,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+FROTO,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+FROTO,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+FROTO,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,48510997.0
+FROTO,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,235484305.0
+FROTO,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+FROTO,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,49947256.0
+FROTO,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,478433.0
+FROTO,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2730175155.0
+FROTO,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2730175155.0
+FROTO,2022/12,2OA,Ödenmiş Sermaye,Share Capital,18733184.0
+FROTO,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+FROTO,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,427.0
+FROTO,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+FROTO,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,2377536.0
+FROTO,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,286367766.0
+FROTO,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1234925155.0
+FROTO,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1480350577.0
+FROTO,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-292579490.0
+FROTO,2022/12,2ODA,Azınlık Payları,Minority Interests,0.0
+FROTO,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9305313795.0
+FROTO,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+FROTO,2022/12,3C,Satış Gelirleri,Net Sales,19413556605.0
+FROTO,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-17210794920.0
+FROTO,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+FROTO,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2202761685.0
+FROTO,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+FROTO,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+FROTO,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+FROTO,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2202761685.0
+FROTO,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-315748517.0
+FROTO,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-223644093.0
+FROTO,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-171609459.0
+FROTO,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,389823342.0
+FROTO,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-240230420.0
+FROTO,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+FROTO,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1641352538.0
+FROTO,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1491759616.0
+FROTO,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2230874.0
+FROTO,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-4034183.0
+FROTO,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+FROTO,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+FROTO,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1639549229.0
+FROTO,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),801091087.0
+FROTO,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-909069170.0
+FROTO,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-1803309.0
+FROTO,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1531571146.0
+FROTO,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,137397203.0
+FROTO,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-13037127.0
+FROTO,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,150434330.0
+FROTO,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+FROTO,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1668968349.0
+FROTO,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+FROTO,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+FROTO,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1668968349.0
+FROTO,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+FROTO,2022/12,3LB,Azınlık Payları,Minority Interests,0.0
+FROTO,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,1668968349.0
+FROTO,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,5.0
+FROTO,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+FROTO,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+FROTO,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+FROTO,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,433090723.0
+FROTO,2022/12,4BA,Kıdem Tazminatı,Severance Payments,4761297.0
+FROTO,2022/12,4BB,Finansman Giderleri,Financial Expenses,-909069170.0
+FROTO,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,4569791155.0
+FROTO,2022/12,4BD,Yurtdışı Satışlar,Export Sales,15107491191.0
+FROTO,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1793067155.0
+FROTO,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1300620828.0
+FROTO,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1793067155.0
+FROTO,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,2061333067.0
+FROTO,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1668968349.0
+FROTO,2022/12,4CAA,Düzeltmeler:,Adjustments:,892564396.0
+FROTO,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,433090723.0
+FROTO,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,221679484.0
+FROTO,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,237794189.0
+FROTO,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2561532745.0
+FROTO,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-333915584.0
+FROTO,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2227617161.0
+FROTO,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-166284094.0
+FROTO,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-792122631.0
+FROTO,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-1266212605.0
+FROTO,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-2058335236.0
+FROTO,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,2997831.0
+FROTO,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,467961961.0
+FROTO,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-825909549.0
+FROTO,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+FROTO,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-23798239.0
+FROTO,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-381745827.0
+FROTO,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-378747995.0
+FROTO,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-916689869.0
+FROTO,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+FROTO,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-1295437865.0
+FROTO,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+FROTO,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2298020908.0
+FROTO,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1002583043.0
+FROTO,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,2557576772.0
+FROTO,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1034882395.0
+FROTO,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+FROTO,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,757785044.0
+FROTO,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+FROTO,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,1017833.0
+FROTO,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2022/3,1AF,Stoklar,Inventories,616078153.0
+FROTO,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+FROTO,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,147813346.0
+FROTO,2022/3,1AI,(Ara Toplam),(Subtotal),2557576772.0
+FROTO,2022/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+FROTO,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,854556279.0
+FROTO,2022/3,1B,Ticari Alacaklar,Trade Receivables,2324616.0
+FROTO,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+FROTO,2022/3,1BB,Diğer Alacaklar,Other Receivables,0.0
+FROTO,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2022/3,1BC,Finansal Yatırımlar,Financial Investments,4095202.0
+FROTO,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+FROTO,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+FROTO,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+FROTO,2022/3,1BFA,Stoklar,Stoklar,0.0
+FROTO,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,4012207.0
+FROTO,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,365498346.0
+FROTO,2022/3,1BGA,Şerefiye,Goodwill,0.0
+FROTO,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,121612030.0
+FROTO,2022/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,154948205.0
+FROTO,2022/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,202065673.0
+FROTO,2022/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3412133051.0
+FROTO,2022/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+FROTO,2022/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,1788629795.0
+FROTO,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,730556484.0
+FROTO,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,968390971.0
+FROTO,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,33434173.0
+FROTO,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+FROTO,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+FROTO,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+FROTO,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,5042998.0
+FROTO,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+FROTO,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,27483275.0
+FROTO,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,23721894.0
+FROTO,2022/3,2AAGG,(Ara Toplam),(Subtotal),1788629795.0
+FROTO,2022/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+FROTO,2022/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1057809391.0
+FROTO,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,978900672.0
+FROTO,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+FROTO,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+FROTO,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+FROTO,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+FROTO,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+FROTO,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,5756675.0
+FROTO,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,72188495.0
+FROTO,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+FROTO,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+FROTO,2022/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,963549.0
+FROTO,2022/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,565693866.0
+FROTO,2022/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,565693866.0
+FROTO,2022/3,2OA,Ödenmiş Sermaye,Share Capital,23930849.0
+FROTO,2022/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+FROTO,2022/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+FROTO,2022/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+FROTO,2022/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+FROTO,2022/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,83250520.0
+FROTO,2022/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),494942749.0
+FROTO,2022/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),191071640.0
+FROTO,2022/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-227501892.0
+FROTO,2022/3,2ODA,Azınlık Payları,Minority Interests,0.0
+FROTO,2022/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3412133051.0
+FROTO,2022/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+FROTO,2022/3,3C,Satış Gelirleri,Net Sales,1995065150.0
+FROTO,2022/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-1728894910.0
+FROTO,2022/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+FROTO,2022/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,266170240.0
+FROTO,2022/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2022/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2022/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+FROTO,2022/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+FROTO,2022/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+FROTO,2022/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),266170240.0
+FROTO,2022/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-34359814.0
+FROTO,2022/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-20441806.0
+FROTO,2022/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-19803990.0
+FROTO,2022/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,57846417.0
+FROTO,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-25919206.0
+FROTO,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+FROTO,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,223491841.0
+FROTO,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,191564629.0
+FROTO,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,257717.0
+FROTO,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1161265.0
+FROTO,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+FROTO,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+FROTO,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,222588292.0
+FROTO,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),109323123.0
+FROTO,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-168362295.0
+FROTO,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-903548.0
+FROTO,2022/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,163549120.0
+FROTO,2022/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,36969119.0
+FROTO,2022/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-2310221.0
+FROTO,2022/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,39279340.0
+FROTO,2022/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+FROTO,2022/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,200518239.0
+FROTO,2022/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+FROTO,2022/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+FROTO,2022/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,200518239.0
+FROTO,2022/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+FROTO,2022/3,3LB,Azınlık Payları,Minority Interests,0.0
+FROTO,2022/3,3Z,Ana Ortaklık Payları,Parent Shares,200518239.0
+FROTO,2022/3,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+FROTO,2022/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+FROTO,2022/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+FROTO,2022/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+FROTO,2022/3,4B,Amortisman Giderleri,Depreciation & Amortization,21061014.0
+FROTO,2022/3,4BA,Kıdem Tazminatı,Severance Payments,708597.0
+FROTO,2022/3,4BB,Finansman Giderleri,Financial Expenses,-168362295.0
+FROTO,2022/3,4BC,Yurtiçi Satışlar,Domestic Sales,417746360.0
+FROTO,2022/3,4BD,Yurtdışı Satışlar,Export Sales,1608042940.0
+FROTO,2022/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-485826813.0
+FROTO,2022/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-535427073.0
+FROTO,2022/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-485826813.0
+FROTO,2022/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,283547282.0
+FROTO,2022/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,200518239.0
+FROTO,2022/3,4CAA,Düzeltmeler:,Adjustments:,151068058.0
+FROTO,2022/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,21061014.0
+FROTO,2022/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,11954964.0
+FROTO,2022/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,118052079.0
+FROTO,2022/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),351586297.0
+FROTO,2022/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-45609975.0
+FROTO,2022/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),305976321.0
+FROTO,2022/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-22429040.0
+FROTO,2022/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-57739924.0
+FROTO,2022/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-103761416.0
+FROTO,2022/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-161501339.0
+FROTO,2022/3,4CB,Serbest Nakit Akım,Free Cash Flow,122045942.0
+FROTO,2022/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,262626899.0
+FROTO,2022/3,4CBB,Temettü Ödemeleri,Dividends Paid,-326481895.0
+FROTO,2022/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+FROTO,2022/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,17907076.0
+FROTO,2022/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-45947920.0
+FROTO,2022/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,76098022.0
+FROTO,2022/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+FROTO,2022/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+FROTO,2022/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,76098022.0
+FROTO,2022/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+FROTO,2022/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1009557998.0
+FROTO,2022/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1085656020.0
+FROTO,2022/6,1A,Dönen Varlıklar,CURRENT ASSETS,2398775597.0
+FROTO,2022/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,811300250.0
+FROTO,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+FROTO,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,725946655.0
+FROTO,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+FROTO,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,3695436.0
+FROTO,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2022/6,1AF,Stoklar,Inventories,696914279.0
+FROTO,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+FROTO,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,160918976.0
+FROTO,2022/6,1AI,(Ara Toplam),(Subtotal),2398775597.0
+FROTO,2022/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+FROTO,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,1377258528.0
+FROTO,2022/6,1B,Ticari Alacaklar,Trade Receivables,1814288.0
+FROTO,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+FROTO,2022/6,1BB,Diğer Alacaklar,Other Receivables,0.0
+FROTO,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2022/6,1BC,Finansal Yatırımlar,Financial Investments,3580826.0
+FROTO,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+FROTO,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+FROTO,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+FROTO,2022/6,1BFA,Stoklar,Stoklar,0.0
+FROTO,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,4285321.0
+FROTO,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,389242664.0
+FROTO,2022/6,1BGA,Şerefiye,Goodwill,0.0
+FROTO,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,128533676.0
+FROTO,2022/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,160569754.0
+FROTO,2022/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,689232000.0
+FROTO,2022/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,3776034125.0
+FROTO,2022/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+FROTO,2022/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2100395413.0
+FROTO,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1048993434.0
+FROTO,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,971828726.0
+FROTO,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,23331356.0
+FROTO,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+FROTO,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+FROTO,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+FROTO,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,4980349.0
+FROTO,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),723067.0
+FROTO,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,24365841.0
+FROTO,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,26172640.0
+FROTO,2022/6,2AAGG,(Ara Toplam),(Subtotal),2100395413.0
+FROTO,2022/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+FROTO,2022/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,976560205.0
+FROTO,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,888219742.0
+FROTO,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+FROTO,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+FROTO,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+FROTO,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+FROTO,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+FROTO,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,5166553.0
+FROTO,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,82327426.0
+FROTO,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+FROTO,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+FROTO,2022/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,846484.0
+FROTO,2022/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,699078507.0
+FROTO,2022/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,699078507.0
+FROTO,2022/6,2OA,Ödenmiş Sermaye,Share Capital,21023401.0
+FROTO,2022/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+FROTO,2022/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,479.0
+FROTO,2022/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+FROTO,2022/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+FROTO,2022/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,73136106.0
+FROTO,2022/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),434810321.0
+FROTO,2022/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),389780426.0
+FROTO,2022/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-219672226.0
+FROTO,2022/6,2ODA,Azınlık Payları,Minority Interests,0.0
+FROTO,2022/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,3776034125.0
+FROTO,2022/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+FROTO,2022/6,3C,Satış Gelirleri,Net Sales,4079516811.0
+FROTO,2022/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-3483516841.0
+FROTO,2022/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+FROTO,2022/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,595999970.0
+FROTO,2022/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2022/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2022/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+FROTO,2022/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+FROTO,2022/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+FROTO,2022/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),595999970.0
+FROTO,2022/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-72926382.0
+FROTO,2022/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-44965777.0
+FROTO,2022/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-39074501.0
+FROTO,2022/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,94358224.0
+FROTO,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-51803005.0
+FROTO,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+FROTO,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,481588528.0
+FROTO,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,439033310.0
+FROTO,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,349106.0
+FROTO,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1159634.0
+FROTO,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+FROTO,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+FROTO,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,480778000.0
+FROTO,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),303246251.0
+FROTO,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-404074728.0
+FROTO,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-810528.0
+FROTO,2022/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,379949522.0
+FROTO,2022/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,57086889.0
+FROTO,2022/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-3409848.0
+FROTO,2022/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,60496737.0
+FROTO,2022/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+FROTO,2022/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,437036412.0
+FROTO,2022/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+FROTO,2022/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+FROTO,2022/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,437036412.0
+FROTO,2022/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+FROTO,2022/6,3LB,Azınlık Payları,Minority Interests,0.0
+FROTO,2022/6,3Z,Ana Ortaklık Payları,Parent Shares,437036412.0
+FROTO,2022/6,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+FROTO,2022/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+FROTO,2022/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+FROTO,2022/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+FROTO,2022/6,4B,Amortisman Giderleri,Depreciation & Amortization,39245729.0
+FROTO,2022/6,4BA,Kıdem Tazminatı,Severance Payments,1330191.0
+FROTO,2022/6,4BB,Finansman Giderleri,Financial Expenses,-404074728.0
+FROTO,2022/6,4BC,Yurtiçi Satışlar,Domestic Sales,930767010.0
+FROTO,2022/6,4BD,Yurtdışı Satışlar,Export Sales,3212186365.0
+FROTO,2022/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1007386246.0
+FROTO,2022/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1081079896.0
+FROTO,2022/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1007386246.0
+FROTO,2022/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,481196228.0
+FROTO,2022/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,437036412.0
+FROTO,2022/6,4CAA,Düzeltmeler:,Adjustments:,282850644.0
+FROTO,2022/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,39245729.0
+FROTO,2022/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,37619635.0
+FROTO,2022/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,205985280.0
+FROTO,2022/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),719887055.0
+FROTO,2022/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-199448658.0
+FROTO,2022/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),520438397.0
+FROTO,2022/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-39242169.0
+FROTO,2022/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-173490393.0
+FROTO,2022/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-663247213.0
+FROTO,2022/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-836737606.0
+FROTO,2022/6,4CB,Serbest Nakit Akım,Free Cash Flow,-355541377.0
+FROTO,2022/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,614509114.0
+FROTO,2022/6,4CBB,Temettü Ödemeleri,Dividends Paid,-306438923.0
+FROTO,2022/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+FROTO,2022/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,9075283.0
+FROTO,2022/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,317145473.0
+FROTO,2022/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-38395904.0
+FROTO,2022/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+FROTO,2022/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+FROTO,2022/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-38395904.0
+FROTO,2022/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+FROTO,2022/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,947580466.0
+FROTO,2022/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,909184563.0
+FROTO,2022/9,1A,Dönen Varlıklar,CURRENT ASSETS,2586247972.0
+FROTO,2022/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,390957681.0
+FROTO,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+FROTO,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1177920936.0
+FROTO,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+FROTO,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,15672673.0
+FROTO,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2022/9,1AF,Stoklar,Inventories,823963702.0
+FROTO,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+FROTO,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,177732979.0
+FROTO,2022/9,1AI,(Ara Toplam),(Subtotal),2586247972.0
+FROTO,2022/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+FROTO,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,1711083705.0
+FROTO,2022/9,1B,Ticari Alacaklar,Trade Receivables,1073463.0
+FROTO,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+FROTO,2022/9,1BB,Diğer Alacaklar,Other Receivables,58002868.0
+FROTO,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2022/9,1BC,Finansal Yatırımlar,Financial Investments,4272832.0
+FROTO,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+FROTO,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+FROTO,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+FROTO,2022/9,1BFA,Stoklar,Stoklar,0.0
+FROTO,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,4861875.0
+FROTO,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,842085263.0
+FROTO,2022/9,1BGA,Şerefiye,Goodwill,29094496.0
+FROTO,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,317841969.0
+FROTO,2022/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,118570404.0
+FROTO,2022/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,335280534.0
+FROTO,2022/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,4297331677.0
+FROTO,2022/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+FROTO,2022/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2236356854.0
+FROTO,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,734333849.0
+FROTO,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1389040109.0
+FROTO,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,31428248.0
+FROTO,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+FROTO,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+FROTO,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+FROTO,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,6412589.0
+FROTO,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+FROTO,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,26427143.0
+FROTO,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,48714916.0
+FROTO,2022/9,2AAGG,(Ara Toplam),(Subtotal),2236356854.0
+FROTO,2022/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+FROTO,2022/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1217988368.0
+FROTO,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1114080994.0
+FROTO,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+FROTO,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+FROTO,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+FROTO,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+FROTO,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+FROTO,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,21583163.0
+FROTO,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,81874127.0
+FROTO,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+FROTO,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+FROTO,2022/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,450084.0
+FROTO,2022/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,842986454.0
+FROTO,2022/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,842986454.0
+FROTO,2022/9,2OA,Ödenmiş Sermaye,Share Capital,18914840.0
+FROTO,2022/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+FROTO,2022/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,431.0
+FROTO,2022/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+FROTO,2022/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,12410940.0
+FROTO,2022/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,65800853.0
+FROTO,2022/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),391200619.0
+FROTO,2022/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),556388279.0
+FROTO,2022/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-201729508.0
+FROTO,2022/9,2ODA,Azınlık Payları,Minority Interests,0.0
+FROTO,2022/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,4297331677.0
+FROTO,2022/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+FROTO,2022/9,3C,Satış Gelirleri,Net Sales,6966416321.0
+FROTO,2022/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-6051479692.0
+FROTO,2022/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+FROTO,2022/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,914936629.0
+FROTO,2022/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2022/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2022/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+FROTO,2022/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+FROTO,2022/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+FROTO,2022/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),914936629.0
+FROTO,2022/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-106317436.0
+FROTO,2022/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-75820101.0
+FROTO,2022/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-59010898.0
+FROTO,2022/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,119506420.0
+FROTO,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-75888975.0
+FROTO,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+FROTO,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,717405639.0
+FROTO,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,673788194.0
+FROTO,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,818821.0
+FROTO,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1385146.0
+FROTO,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+FROTO,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+FROTO,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,716839314.0
+FROTO,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),373489415.0
+FROTO,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-507716637.0
+FROTO,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-566325.0
+FROTO,2022/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,582612092.0
+FROTO,2022/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,66045467.0
+FROTO,2022/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-4619016.0
+FROTO,2022/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,70664484.0
+FROTO,2022/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+FROTO,2022/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,648657560.0
+FROTO,2022/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+FROTO,2022/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+FROTO,2022/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,648657560.0
+FROTO,2022/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+FROTO,2022/9,3LB,Azınlık Payları,Minority Interests,0.0
+FROTO,2022/9,3Z,Ana Ortaklık Payları,Parent Shares,648657560.0
+FROTO,2022/9,3ZD,Hisse Başına Kazanç,Earnings per Share,2.0
+FROTO,2022/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+FROTO,2022/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+FROTO,2022/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+FROTO,2022/9,4B,Amortisman Giderleri,Depreciation & Amortization,78607108.0
+FROTO,2022/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+FROTO,2022/9,4BB,Finansman Giderleri,Financial Expenses,-507716637.0
+FROTO,2022/9,4BC,Yurtiçi Satışlar,Domestic Sales,1538413910.0
+FROTO,2022/9,4BD,Yurtdışı Satışlar,Export Sales,5527637942.0
+FROTO,2022/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1205263389.0
+FROTO,2022/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1040337930.0
+FROTO,2022/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1205263389.0
+FROTO,2022/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,497348531.0
+FROTO,2022/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,648657560.0
+FROTO,2022/9,4CAA,Düzeltmeler:,Adjustments:,420715265.0
+FROTO,2022/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,78607108.0
+FROTO,2022/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,84878282.0
+FROTO,2022/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,257229874.0
+FROTO,2022/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1069372824.0
+FROTO,2022/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-507579957.0
+FROTO,2022/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),561792867.0
+FROTO,2022/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-64444337.0
+FROTO,2022/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-233782567.0
+FROTO,2022/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-704646614.0
+FROTO,2022/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-938429181.0
+FROTO,2022/9,4CB,Serbest Nakit Akım,Free Cash Flow,-441080650.0
+FROTO,2022/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,278793013.0
+FROTO,2022/9,4CBB,Temettü Ödemeleri,Dividends Paid,-286670848.0
+FROTO,2022/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+FROTO,2022/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,6141281.0
+FROTO,2022/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1736554.0
+FROTO,2022/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-442817204.0
+FROTO,2022/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,11903128.0
+FROTO,2022/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+FROTO,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-430914076.0
+FROTO,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+FROTO,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,886452977.0
+FROTO,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,455538901.0
+FROTO,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,5038617830.0
+FROTO,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,745337913.0
+FROTO,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+FROTO,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,2231910292.0
+FROTO,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+FROTO,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,68411667.0
+FROTO,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,55451913.0
+FROTO,2023/12,1AF,Stoklar,Inventories,1436984501.0
+FROTO,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+FROTO,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,500521544.0
+FROTO,2023/12,1AI,(Ara Toplam),(Subtotal),5038617830.0
+FROTO,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+FROTO,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,5585280676.0
+FROTO,2023/12,1B,Ticari Alacaklar,Trade Receivables,817122.0
+FROTO,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+FROTO,2023/12,1BB,Diğer Alacaklar,Other Receivables,483474448.0
+FROTO,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2023/12,1BC,Finansal Yatırımlar,Financial Investments,17038042.0
+FROTO,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+FROTO,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+FROTO,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+FROTO,2023/12,1BFA,Stoklar,Stoklar,0.0
+FROTO,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,47761882.0
+FROTO,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2800186224.0
+FROTO,2023/12,1BGA,Şerefiye,Goodwill,40098232.0
+FROTO,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,879211971.0
+FROTO,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,637088429.0
+FROTO,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,679604324.0
+FROTO,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,10623898506.0
+FROTO,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+FROTO,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4608463920.0
+FROTO,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1662750472.0
+FROTO,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2573398935.0
+FROTO,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,79759454.0
+FROTO,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+FROTO,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+FROTO,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+FROTO,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,28658859.0
+FROTO,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3613472.0
+FROTO,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,62359238.0
+FROTO,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,197923489.0
+FROTO,2023/12,2AAGG,(Ara Toplam),(Subtotal),4608463920.0
+FROTO,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+FROTO,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2441242739.0
+FROTO,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,2045948670.0
+FROTO,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+FROTO,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+FROTO,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+FROTO,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+FROTO,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+FROTO,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,184032037.0
+FROTO,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,157541343.0
+FROTO,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+FROTO,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,45731351.0
+FROTO,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,7989339.0
+FROTO,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3574191846.0
+FROTO,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3574191846.0
+FROTO,2023/12,2OA,Ödenmiş Sermaye,Share Capital,11898763.0
+FROTO,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+FROTO,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,271.0
+FROTO,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+FROTO,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-30235629.0
+FROTO,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,287983304.0
+FROTO,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1588078179.0
+FROTO,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),2401592504.0
+FROTO,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-685125545.0
+FROTO,2023/12,2ODA,Azınlık Payları,Minority Interests,0.0
+FROTO,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,10623898506.0
+FROTO,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+FROTO,2023/12,3C,Satış Gelirleri,Net Sales,24957689239.0
+FROTO,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-21610174195.0
+FROTO,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+FROTO,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,3347515045.0
+FROTO,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+FROTO,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+FROTO,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+FROTO,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),3347515045.0
+FROTO,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-415889476.0
+FROTO,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-389567883.0
+FROTO,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-321669458.0
+FROTO,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,960586827.0
+FROTO,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-513959457.0
+FROTO,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+FROTO,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2667015598.0
+FROTO,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2220388228.0
+FROTO,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,174145912.0
+FROTO,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-4488274.0
+FROTO,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+FROTO,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+FROTO,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,2836673236.0
+FROTO,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),907509666.0
+FROTO,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-870462277.0
+FROTO,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,169657638.0
+FROTO,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,2873720625.0
+FROTO,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,98601613.0
+FROTO,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-166014485.0
+FROTO,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,264616098.0
+FROTO,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+FROTO,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,2972322238.0
+FROTO,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+FROTO,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+FROTO,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,2972322238.0
+FROTO,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+FROTO,2023/12,3LB,Azınlık Payları,Minority Interests,0.0
+FROTO,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,2972322238.0
+FROTO,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,8.0
+FROTO,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,8.0
+FROTO,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,8.0
+FROTO,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,8.0
+FROTO,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,367465097.0
+FROTO,2023/12,4BA,Kıdem Tazminatı,Severance Payments,11837068.0
+FROTO,2023/12,4BB,Finansman Giderleri,Financial Expenses,-870462277.0
+FROTO,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,7155586264.0
+FROTO,2023/12,4BD,Yurtdışı Satışlar,Export Sales,18275859290.0
+FROTO,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2778281439.0
+FROTO,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-3047116134.0
+FROTO,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2778281439.0
+FROTO,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,3032852522.0
+FROTO,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,2972322238.0
+FROTO,2023/12,4CAA,Düzeltmeler:,Adjustments:,646096199.0
+FROTO,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,367465097.0
+FROTO,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,218005470.0
+FROTO,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,693903040.0
+FROTO,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),3618418436.0
+FROTO,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-304060445.0
+FROTO,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),3314357992.0
+FROTO,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-281505470.0
+FROTO,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1888929540.0
+FROTO,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-54312067.0
+FROTO,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1943241607.0
+FROTO,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,1089610914.0
+FROTO,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,685507350.0
+FROTO,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-1084925439.0
+FROTO,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+FROTO,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-88492305.0
+FROTO,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-487910395.0
+FROTO,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,601700520.0
+FROTO,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,30298379.0
+FROTO,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+FROTO,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,631998899.0
+FROTO,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+FROTO,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1009317183.0
+FROTO,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,920603715.0
+FROTO,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,3563697610.0
+FROTO,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1109316701.0
+FROTO,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+FROTO,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1314727587.0
+FROTO,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+FROTO,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,16552810.0
+FROTO,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2023/3,1AF,Stoklar,Inventories,909794088.0
+FROTO,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+FROTO,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,213306424.0
+FROTO,2023/3,1AI,(Ara Toplam),(Subtotal),3563697610.0
+FROTO,2023/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+FROTO,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,2418262646.0
+FROTO,2023/3,1B,Ticari Alacaklar,Trade Receivables,883843.0
+FROTO,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+FROTO,2023/3,1BB,Diğer Alacaklar,Other Receivables,60168128.0
+FROTO,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2023/3,1BC,Finansal Yatırımlar,Financial Investments,6723752.0
+FROTO,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+FROTO,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+FROTO,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+FROTO,2023/3,1BFA,Stoklar,Stoklar,0.0
+FROTO,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,7700205.0
+FROTO,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1127788230.0
+FROTO,2023/3,1BGA,Şerefiye,Goodwill,27401682.0
+FROTO,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,389963935.0
+FROTO,2023/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,386883593.0
+FROTO,2023/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,410749278.0
+FROTO,2023/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5981960256.0
+FROTO,2023/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+FROTO,2023/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3127042600.0
+FROTO,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,863246698.0
+FROTO,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2015161353.0
+FROTO,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,48203390.0
+FROTO,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+FROTO,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+FROTO,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+FROTO,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,9141642.0
+FROTO,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),86297960.0
+FROTO,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,32524260.0
+FROTO,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,72467297.0
+FROTO,2023/3,2AAGG,(Ara Toplam),(Subtotal),3127042600.0
+FROTO,2023/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+FROTO,2023/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1705094904.0
+FROTO,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,1516573552.0
+FROTO,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+FROTO,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+FROTO,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+FROTO,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+FROTO,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+FROTO,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,26688886.0
+FROTO,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,129942047.0
+FROTO,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+FROTO,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,30368411.0
+FROTO,2023/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,1522009.0
+FROTO,2023/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1149822752.0
+FROTO,2023/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1149822752.0
+FROTO,2023/3,2OA,Ödenmiş Sermaye,Share Capital,18288183.0
+FROTO,2023/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+FROTO,2023/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,417.0
+FROTO,2023/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+FROTO,2023/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,115393114.0
+FROTO,2023/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,100014332.0
+FROTO,2023/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),947089817.0
+FROTO,2023/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),278967208.0
+FROTO,2023/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-309930320.0
+FROTO,2023/3,2ODA,Azınlık Payları,Minority Interests,0.0
+FROTO,2023/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5981960256.0
+FROTO,2023/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+FROTO,2023/3,3C,Satış Gelirleri,Net Sales,6519405468.0
+FROTO,2023/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-5713756986.0
+FROTO,2023/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+FROTO,2023/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,805648482.0
+FROTO,2023/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2023/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2023/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+FROTO,2023/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+FROTO,2023/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+FROTO,2023/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),805648482.0
+FROTO,2023/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-78736212.0
+FROTO,2023/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-86465298.0
+FROTO,2023/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-81143258.0
+FROTO,2023/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,110756628.0
+FROTO,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-103816589.0
+FROTO,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+FROTO,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,566243754.0
+FROTO,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,559303714.0
+FROTO,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,4340.0
+FROTO,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-156401.0
+FROTO,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+FROTO,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+FROTO,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,566091693.0
+FROTO,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),164712987.0
+FROTO,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-142769159.0
+FROTO,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-152061.0
+FROTO,2023/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,588035521.0
+FROTO,2023/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-120077515.0
+FROTO,2023/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-177939568.0
+FROTO,2023/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,57862053.0
+FROTO,2023/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+FROTO,2023/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,467958005.0
+FROTO,2023/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+FROTO,2023/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+FROTO,2023/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,467958005.0
+FROTO,2023/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+FROTO,2023/3,3LB,Azınlık Payları,Minority Interests,0.0
+FROTO,2023/3,3Z,Ana Ortaklık Payları,Parent Shares,467958005.0
+FROTO,2023/3,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+FROTO,2023/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+FROTO,2023/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+FROTO,2023/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+FROTO,2023/3,4B,Amortisman Giderleri,Depreciation & Amortization,123123611.0
+FROTO,2023/3,4BA,Kıdem Tazminatı,Severance Payments,0.0
+FROTO,2023/3,4BB,Finansman Giderleri,Financial Expenses,-142769159.0
+FROTO,2023/3,4BC,Yurtiçi Satışlar,Domestic Sales,1504541881.0
+FROTO,2023/3,4BD,Yurtdışı Satışlar,Export Sales,4600427456.0
+FROTO,2023/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1436424450.0
+FROTO,2023/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1186334412.0
+FROTO,2023/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1436424450.0
+FROTO,2023/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1192278670.0
+FROTO,2023/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,431675638.0
+FROTO,2023/3,4CAA,Düzeltmeler:,Adjustments:,93930751.0
+FROTO,2023/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,113577411.0
+FROTO,2023/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,45291722.0
+FROTO,2023/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-64938382.0
+FROTO,2023/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),525606389.0
+FROTO,2023/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,734458544.0
+FROTO,2023/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1260064933.0
+FROTO,2023/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-67786263.0
+FROTO,2023/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-228332569.0
+FROTO,2023/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-13086588.0
+FROTO,2023/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-241419156.0
+FROTO,2023/3,4CB,Serbest Nakit Akım,Free Cash Flow,950859513.0
+FROTO,2023/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,526092318.0
+FROTO,2023/3,4CBB,Temettü Ödemeleri,Dividends Paid,-445944842.0
+FROTO,2023/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+FROTO,2023/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-25846929.0
+FROTO,2023/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,54300547.0
+FROTO,2023/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1005160061.0
+FROTO,2023/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-123377664.0
+FROTO,2023/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+FROTO,2023/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,881782397.0
+FROTO,2023/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+FROTO,2023/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1014243196.0
+FROTO,2023/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1896025593.0
+FROTO,2023/6,1A,Dönen Varlıklar,CURRENT ASSETS,3196481237.0
+FROTO,2023/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1004594659.0
+FROTO,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+FROTO,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1161828710.0
+FROTO,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+FROTO,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,27417393.0
+FROTO,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2023/6,1AF,Stoklar,Inventories,782809900.0
+FROTO,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+FROTO,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,219830573.0
+FROTO,2023/6,1AI,(Ara Toplam),(Subtotal),3196481237.0
+FROTO,2023/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+FROTO,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2197041315.0
+FROTO,2023/6,1B,Ticari Alacaklar,Trade Receivables,691816.0
+FROTO,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+FROTO,2023/6,1BB,Diğer Alacaklar,Other Receivables,57933095.0
+FROTO,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2023/6,1BC,Finansal Yatırımlar,Financial Investments,5328919.0
+FROTO,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+FROTO,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+FROTO,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+FROTO,2023/6,1BFA,Stoklar,Stoklar,0.0
+FROTO,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,7971789.0
+FROTO,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1024663195.0
+FROTO,2023/6,1BGA,Şerefiye,Goodwill,27475415.0
+FROTO,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,363039011.0
+FROTO,2023/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,323579607.0
+FROTO,2023/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,386358467.0
+FROTO,2023/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5393522552.0
+FROTO,2023/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+FROTO,2023/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2718836356.0
+FROTO,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,909897138.0
+FROTO,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1606856851.0
+FROTO,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,43883709.0
+FROTO,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+FROTO,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+FROTO,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+FROTO,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,12710633.0
+FROTO,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),32030685.0
+FROTO,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,28796077.0
+FROTO,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,84661263.0
+FROTO,2023/6,2AAGG,(Ara Toplam),(Subtotal),2718836356.0
+FROTO,2023/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+FROTO,2023/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1619723537.0
+FROTO,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,1438372839.0
+FROTO,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+FROTO,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+FROTO,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+FROTO,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+FROTO,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+FROTO,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,19966177.0
+FROTO,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,128120729.0
+FROTO,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+FROTO,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,32896759.0
+FROTO,2023/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,367033.0
+FROTO,2023/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1054962659.0
+FROTO,2023/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1054962659.0
+FROTO,2023/6,2OA,Ödenmiş Sermaye,Share Capital,13564570.0
+FROTO,2023/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+FROTO,2023/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,309.0
+FROTO,2023/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+FROTO,2023/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,256447452.0
+FROTO,2023/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,74181858.0
+FROTO,2023/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),702468148.0
+FROTO,2023/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),466941391.0
+FROTO,2023/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-458641069.0
+FROTO,2023/6,2ODA,Azınlık Payları,Minority Interests,0.0
+FROTO,2023/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5393522552.0
+FROTO,2023/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+FROTO,2023/6,3C,Satış Gelirleri,Net Sales,12787030720.0
+FROTO,2023/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-11103315647.0
+FROTO,2023/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+FROTO,2023/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1683715073.0
+FROTO,2023/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2023/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2023/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+FROTO,2023/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+FROTO,2023/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+FROTO,2023/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1683715073.0
+FROTO,2023/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-201713990.0
+FROTO,2023/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-175686012.0
+FROTO,2023/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-185444351.0
+FROTO,2023/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,600852701.0
+FROTO,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-299577420.0
+FROTO,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+FROTO,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1422146001.0
+FROTO,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1120870720.0
+FROTO,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,12979.0
+FROTO,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-149236.0
+FROTO,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+FROTO,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+FROTO,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1422009744.0
+FROTO,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),467550969.0
+FROTO,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-640211145.0
+FROTO,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-136257.0
+FROTO,2023/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1249349568.0
+FROTO,2023/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-269741315.0
+FROTO,2023/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-170517738.0
+FROTO,2023/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-99223577.0
+FROTO,2023/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+FROTO,2023/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,979608253.0
+FROTO,2023/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+FROTO,2023/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+FROTO,2023/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,979608253.0
+FROTO,2023/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+FROTO,2023/6,3LB,Azınlık Payları,Minority Interests,0.0
+FROTO,2023/6,3Z,Ana Ortaklık Payları,Parent Shares,979608253.0
+FROTO,2023/6,3ZD,Hisse Başına Kazanç,Earnings per Share,3.0
+FROTO,2023/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+FROTO,2023/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+FROTO,2023/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+FROTO,2023/6,4B,Amortisman Giderleri,Depreciation & Amortization,220990830.0
+FROTO,2023/6,4BA,Kıdem Tazminatı,Severance Payments,91997963.0
+FROTO,2023/6,4BB,Finansman Giderleri,Financial Expenses,-640211145.0
+FROTO,2023/6,4BC,Yurtiçi Satışlar,Domestic Sales,3607922604.0
+FROTO,2023/6,4BD,Yurtdışı Satışlar,Export Sales,9396873521.0
+FROTO,2023/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1702748589.0
+FROTO,2023/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1387651449.0
+FROTO,2023/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1702748589.0
+FROTO,2023/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1878576262.0
+FROTO,2023/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,979608253.0
+FROTO,2023/6,4CAA,Düzeltmeler:,Adjustments:,879368758.0
+FROTO,2023/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,220990830.0
+FROTO,2023/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,197970708.0
+FROTO,2023/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,810945591.0
+FROTO,2023/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1858977011.0
+FROTO,2023/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,218712337.0
+FROTO,2023/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2077689348.0
+FROTO,2023/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-199113086.0
+FROTO,2023/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-415078515.0
+FROTO,2023/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-206116184.0
+FROTO,2023/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-621194699.0
+FROTO,2023/6,4CB,Serbest Nakit Akım,Free Cash Flow,1257381563.0
+FROTO,2023/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,655721471.0
+FROTO,2023/6,4CBB,Temettü Ödemeleri,Dividends Paid,-461279508.0
+FROTO,2023/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+FROTO,2023/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-61737531.0
+FROTO,2023/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,132704433.0
+FROTO,2023/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1390085996.0
+FROTO,2023/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,16277164.0
+FROTO,2023/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+FROTO,2023/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1406363160.0
+FROTO,2023/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+FROTO,2023/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1049364548.0
+FROTO,2023/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2243652777.0
+FROTO,2023/9,1A,Dönen Varlıklar,CURRENT ASSETS,3534412565.0
+FROTO,2023/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1114118975.0
+FROTO,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+FROTO,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1135605192.0
+FROTO,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+FROTO,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,29420149.0
+FROTO,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2023/9,1AF,Stoklar,Inventories,1072079523.0
+FROTO,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+FROTO,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,183188726.0
+FROTO,2023/9,1AI,(Ara Toplam),(Subtotal),3534412565.0
+FROTO,2023/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+FROTO,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,2416114964.0
+FROTO,2023/9,1B,Ticari Alacaklar,Trade Receivables,591993.0
+FROTO,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+FROTO,2023/9,1BB,Diğer Alacaklar,Other Receivables,53753190.0
+FROTO,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2023/9,1BC,Finansal Yatırımlar,Financial Investments,9353278.0
+FROTO,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+FROTO,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+FROTO,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+FROTO,2023/9,1BFA,Stoklar,Stoklar,0.0
+FROTO,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,9011449.0
+FROTO,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1176282870.0
+FROTO,2023/9,1BGA,Şerefiye,Goodwill,26623022.0
+FROTO,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,373226026.0
+FROTO,2023/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,381371509.0
+FROTO,2023/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,385901626.0
+FROTO,2023/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,5950527529.0
+FROTO,2023/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+FROTO,2023/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,2828139102.0
+FROTO,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,916814519.0
+FROTO,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1713196164.0
+FROTO,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,57479144.0
+FROTO,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+FROTO,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+FROTO,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+FROTO,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,13757858.0
+FROTO,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1836542.0
+FROTO,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,39930686.0
+FROTO,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,85124189.0
+FROTO,2023/9,2AAGG,(Ara Toplam),(Subtotal),2828139102.0
+FROTO,2023/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+FROTO,2023/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1645448297.0
+FROTO,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1388138081.0
+FROTO,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+FROTO,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+FROTO,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+FROTO,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+FROTO,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+FROTO,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,109682564.0
+FROTO,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,117717531.0
+FROTO,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+FROTO,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,29711806.0
+FROTO,2023/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,198315.0
+FROTO,2023/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,1476940130.0
+FROTO,2023/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,1476940130.0
+FROTO,2023/9,2OA,Ödenmiş Sermaye,Share Capital,12794793.0
+FROTO,2023/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+FROTO,2023/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,292.0
+FROTO,2023/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+FROTO,2023/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,258820025.0
+FROTO,2023/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,69972107.0
+FROTO,2023/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),662603734.0
+FROTO,2023/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),914965617.0
+FROTO,2023/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-442216437.0
+FROTO,2023/9,2ODA,Azınlık Payları,Minority Interests,0.0
+FROTO,2023/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,5950527529.0
+FROTO,2023/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+FROTO,2023/9,3C,Satış Gelirleri,Net Sales,18598790202.0
+FROTO,2023/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-15696524410.0
+FROTO,2023/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+FROTO,2023/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2902265792.0
+FROTO,2023/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2023/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2023/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+FROTO,2023/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+FROTO,2023/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+FROTO,2023/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2902265792.0
+FROTO,2023/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-303942433.0
+FROTO,2023/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-288670767.0
+FROTO,2023/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-264882123.0
+FROTO,2023/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,745329136.0
+FROTO,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-370880137.0
+FROTO,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+FROTO,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2419219467.0
+FROTO,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2044770468.0
+FROTO,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,42254.0
+FROTO,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-4656706.0
+FROTO,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+FROTO,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+FROTO,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,2414605016.0
+FROTO,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),703721815.0
+FROTO,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-911995640.0
+FROTO,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-4614452.0
+FROTO,2023/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,2206331191.0
+FROTO,2023/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-348450341.0
+FROTO,2023/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-168746602.0
+FROTO,2023/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-179703740.0
+FROTO,2023/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+FROTO,2023/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1857880849.0
+FROTO,2023/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+FROTO,2023/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+FROTO,2023/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1857880849.0
+FROTO,2023/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+FROTO,2023/9,3LB,Azınlık Payları,Minority Interests,0.0
+FROTO,2023/9,3Z,Ana Ortaklık Payları,Parent Shares,1857880849.0
+FROTO,2023/9,3ZD,Hisse Başına Kazanç,Earnings per Share,5.0
+FROTO,2023/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,5.0
+FROTO,2023/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,5.0
+FROTO,2023/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,5.0
+FROTO,2023/9,4B,Amortisman Giderleri,Depreciation & Amortization,296792501.0
+FROTO,2023/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+FROTO,2023/9,4BB,Finansman Giderleri,Financial Expenses,-911995640.0
+FROTO,2023/9,4BC,Yurtiçi Satışlar,Domestic Sales,5380693860.0
+FROTO,2023/9,4BD,Yurtdışı Satışlar,Export Sales,13541006876.0
+FROTO,2023/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1464218197.0
+FROTO,2023/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1311404689.0
+FROTO,2023/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1464218197.0
+FROTO,2023/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,2530981401.0
+FROTO,2023/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1857880849.0
+FROTO,2023/9,4CAA,Düzeltmeler:,Adjustments:,611070016.0
+FROTO,2023/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,296792501.0
+FROTO,2023/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,218239159.0
+FROTO,2023/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,954535032.0
+FROTO,2023/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),2468950865.0
+FROTO,2023/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,328220919.0
+FROTO,2023/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2797171784.0
+FROTO,2023/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-266190383.0
+FROTO,2023/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-824973520.0
+FROTO,2023/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-223071594.0
+FROTO,2023/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1048045115.0
+FROTO,2023/9,4CB,Serbest Nakit Akım,Free Cash Flow,1482936287.0
+FROTO,2023/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,616197870.0
+FROTO,2023/9,4CBB,Temettü Ödemeleri,Dividends Paid,-448147517.0
+FROTO,2023/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+FROTO,2023/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-41480514.0
+FROTO,2023/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,126569839.0
+FROTO,2023/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1609506126.0
+FROTO,2023/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,15879397.0
+FROTO,2023/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+FROTO,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1625385523.0
+FROTO,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+FROTO,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1019483228.0
+FROTO,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2050281944.0
+FROTO,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,5464093537.0
+FROTO,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,792460628.0
+FROTO,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+FROTO,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,2421251720.0
+FROTO,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+FROTO,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,106469470.0
+FROTO,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,5483601.0
+FROTO,2024/12,1AF,Stoklar,Inventories,1417370703.0
+FROTO,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+FROTO,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,721057416.0
+FROTO,2024/12,1AI,(Ara Toplam),(Subtotal),5464093537.0
+FROTO,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+FROTO,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,6132465685.0
+FROTO,2024/12,1B,Ticari Alacaklar,Trade Receivables,26510.0
+FROTO,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+FROTO,2024/12,1BB,Diğer Alacaklar,Other Receivables,608308730.0
+FROTO,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2024/12,1BC,Finansal Yatırımlar,Financial Investments,19832814.0
+FROTO,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+FROTO,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+FROTO,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+FROTO,2024/12,1BFA,Stoklar,Stoklar,0.0
+FROTO,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,73607505.0
+FROTO,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3452384869.0
+FROTO,2024/12,1BGA,Şerefiye,Goodwill,32772746.0
+FROTO,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,742240209.0
+FROTO,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,766168459.0
+FROTO,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,437123842.0
+FROTO,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,11596559222.0
+FROTO,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+FROTO,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4379312462.0
+FROTO,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1591924862.0
+FROTO,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2347518905.0
+FROTO,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,68221924.0
+FROTO,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+FROTO,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+FROTO,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+FROTO,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,144915325.0
+FROTO,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),17583877.0
+FROTO,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,87723205.0
+FROTO,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,121424364.0
+FROTO,2024/12,2AAGG,(Ara Toplam),(Subtotal),4379312462.0
+FROTO,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+FROTO,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3128146379.0
+FROTO,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,2800004765.0
+FROTO,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+FROTO,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+FROTO,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+FROTO,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+FROTO,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+FROTO,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,122218169.0
+FROTO,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,153493339.0
+FROTO,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+FROTO,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,46556487.0
+FROTO,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,5873619.0
+FROTO,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,4089100382.0
+FROTO,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,4089100382.0
+FROTO,2024/12,2OA,Ödenmiş Sermaye,Share Capital,9928474.0
+FROTO,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+FROTO,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,284.0
+FROTO,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+FROTO,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-289096217.0
+FROTO,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,329450321.0
+FROTO,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3312503968.0
+FROTO,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),1379206838.0
+FROTO,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-655418056.0
+FROTO,2024/12,2ODA,Azınlık Payları,Minority Interests,0.0
+FROTO,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,11596559222.0
+FROTO,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+FROTO,2024/12,3C,Satış Gelirleri,Net Sales,22702369452.0
+FROTO,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-20618907220.0
+FROTO,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+FROTO,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,2083462232.0
+FROTO,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+FROTO,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+FROTO,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+FROTO,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),2083462232.0
+FROTO,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-399864298.0
+FROTO,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-335731411.0
+FROTO,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-235422214.0
+FROTO,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,489078204.0
+FROTO,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-495603185.0
+FROTO,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+FROTO,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1105919328.0
+FROTO,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1112444309.0
+FROTO,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,264574202.0
+FROTO,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-23261686.0
+FROTO,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+FROTO,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+FROTO,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1347231843.0
+FROTO,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),547807042.0
+FROTO,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-483007311.0
+FROTO,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,241312515.0
+FROTO,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1412031574.0
+FROTO,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,70829339.0
+FROTO,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-47987821.0
+FROTO,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,118817160.0
+FROTO,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+FROTO,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1482860913.0
+FROTO,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+FROTO,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1482860913.0
+FROTO,2024/12,3LB,Azınlık Payları,Minority Interests,0.0
+FROTO,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,1482860913.0
+FROTO,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,4.0
+FROTO,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,4.0
+FROTO,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,4.0
+FROTO,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,4.0
+FROTO,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,408739242.0
+FROTO,2024/12,4BA,Kıdem Tazminatı,Severance Payments,6181391.0
+FROTO,2024/12,4BB,Finansman Giderleri,Financial Expenses,-483007311.0
+FROTO,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,5760323964.0
+FROTO,2024/12,4BD,Yurtdışı Satışlar,Export Sales,17433574079.0
+FROTO,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2890365102.0
+FROTO,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-3201041554.0
+FROTO,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2890365102.0
+FROTO,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1282338059.0
+FROTO,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1482860913.0
+FROTO,2024/12,4CAA,Düzeltmeler:,Adjustments:,421694197.0
+FROTO,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,408739242.0
+FROTO,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,193133649.0
+FROTO,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,998580999.0
+FROTO,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1904555110.0
+FROTO,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-390240551.0
+FROTO,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1514314559.0
+FROTO,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-231976500.0
+FROTO,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1526129083.0
+FROTO,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,284582708.0
+FROTO,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1241546375.0
+FROTO,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,40791684.0
+FROTO,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1560482971.0
+FROTO,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-897794895.0
+FROTO,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+FROTO,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-348086714.0
+FROTO,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,314601361.0
+FROTO,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,355393045.0
+FROTO,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1704447.0
+FROTO,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+FROTO,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,357097492.0
+FROTO,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+FROTO,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,837004588.0
+FROTO,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,851706343.0
+FROTO,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,4203221132.0
+FROTO,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,804461099.0
+FROTO,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+FROTO,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1814238675.0
+FROTO,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+FROTO,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,53858290.0
+FROTO,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,25696923.0
+FROTO,2024/3,1AF,Stoklar,Inventories,1109246837.0
+FROTO,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+FROTO,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,395719308.0
+FROTO,2024/3,1AI,(Ara Toplam),(Subtotal),4203221132.0
+FROTO,2024/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+FROTO,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,3996401359.0
+FROTO,2024/3,1B,Ticari Alacaklar,Trade Receivables,450352.0
+FROTO,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+FROTO,2024/3,1BB,Diğer Alacaklar,Other Receivables,330452763.0
+FROTO,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2024/3,1BC,Finansal Yatırımlar,Financial Investments,10128650.0
+FROTO,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+FROTO,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+FROTO,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+FROTO,2024/3,1BFA,Stoklar,Stoklar,0.0
+FROTO,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,36413634.0
+FROTO,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2044252835.0
+FROTO,2024/3,1BGA,Şerefiye,Goodwill,27079639.0
+FROTO,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,535876371.0
+FROTO,2024/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,456079410.0
+FROTO,2024/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,555667706.0
+FROTO,2024/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8199622491.0
+FROTO,2024/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+FROTO,2024/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3631215573.0
+FROTO,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1231140164.0
+FROTO,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2079510259.0
+FROTO,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,86041443.0
+FROTO,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+FROTO,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+FROTO,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+FROTO,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,83393252.0
+FROTO,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2741841.0
+FROTO,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,43833865.0
+FROTO,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,104554750.0
+FROTO,2024/3,2AAGG,(Ara Toplam),(Subtotal),3631215573.0
+FROTO,2024/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+FROTO,2024/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,1788439506.0
+FROTO,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,1526623783.0
+FROTO,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+FROTO,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+FROTO,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+FROTO,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+FROTO,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+FROTO,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,98446431.0
+FROTO,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,121362959.0
+FROTO,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+FROTO,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,39235614.0
+FROTO,2024/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,2770718.0
+FROTO,2024/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2779967412.0
+FROTO,2024/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2779967412.0
+FROTO,2024/3,2OA,Ödenmiş Sermaye,Share Capital,10849442.0
+FROTO,2024/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+FROTO,2024/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,247.0
+FROTO,2024/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+FROTO,2024/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-78037572.0
+FROTO,2024/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,209270644.0
+FROTO,2024/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2899199069.0
+FROTO,2024/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),277428363.0
+FROTO,2024/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-538742781.0
+FROTO,2024/3,2ODA,Azınlık Payları,Minority Interests,0.0
+FROTO,2024/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8199622491.0
+FROTO,2024/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+FROTO,2024/3,3C,Satış Gelirleri,Net Sales,5539600387.0
+FROTO,2024/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-4950073633.0
+FROTO,2024/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+FROTO,2024/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,589526754.0
+FROTO,2024/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2024/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2024/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+FROTO,2024/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+FROTO,2024/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+FROTO,2024/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),589526754.0
+FROTO,2024/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-86090881.0
+FROTO,2024/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-87044486.0
+FROTO,2024/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-60175763.0
+FROTO,2024/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,163997571.0
+FROTO,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-123698024.0
+FROTO,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+FROTO,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,396515172.0
+FROTO,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,356215624.0
+FROTO,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,30788663.0
+FROTO,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+FROTO,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+FROTO,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+FROTO,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,427303835.0
+FROTO,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),119621820.0
+FROTO,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-105801207.0
+FROTO,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,30788663.0
+FROTO,2024/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,441124448.0
+FROTO,2024/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-40867757.0
+FROTO,2024/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-4509015.0
+FROTO,2024/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-36358742.0
+FROTO,2024/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+FROTO,2024/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,400256691.0
+FROTO,2024/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+FROTO,2024/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+FROTO,2024/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,400256691.0
+FROTO,2024/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+FROTO,2024/3,3LB,Azınlık Payları,Minority Interests,0.0
+FROTO,2024/3,3Z,Ana Ortaklık Payları,Parent Shares,400256691.0
+FROTO,2024/3,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+FROTO,2024/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+FROTO,2024/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+FROTO,2024/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+FROTO,2024/3,4B,Amortisman Giderleri,Depreciation & Amortization,94013189.0
+FROTO,2024/3,4BA,Kıdem Tazminatı,Severance Payments,12822209.0
+FROTO,2024/3,4BB,Finansman Giderleri,Financial Expenses,-105801207.0
+FROTO,2024/3,4BC,Yurtiçi Satışlar,Domestic Sales,1289730811.0
+FROTO,2024/3,4BD,Yurtdışı Satışlar,Export Sales,4353039908.0
+FROTO,2024/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1555574443.0
+FROTO,2024/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1307627304.0
+FROTO,2024/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1555574443.0
+FROTO,2024/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,479036722.0
+FROTO,2024/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,400256691.0
+FROTO,2024/3,4CAA,Düzeltmeler:,Adjustments:,155541453.0
+FROTO,2024/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,94013189.0
+FROTO,2024/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,47283787.0
+FROTO,2024/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,273698079.0
+FROTO,2024/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),555798143.0
+FROTO,2024/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1420717.0
+FROTO,2024/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),554377426.0
+FROTO,2024/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-75340705.0
+FROTO,2024/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-210123396.0
+FROTO,2024/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-89157635.0
+FROTO,2024/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-299281032.0
+FROTO,2024/3,4CB,Serbest Nakit Akım,Free Cash Flow,179755690.0
+FROTO,2024/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,323712288.0
+FROTO,2024/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+FROTO,2024/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+FROTO,2024/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-28509269.0
+FROTO,2024/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,295203019.0
+FROTO,2024/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,474958709.0
+FROTO,2024/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1030961.0
+FROTO,2024/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+FROTO,2024/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,475989670.0
+FROTO,2024/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+FROTO,2024/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,780045378.0
+FROTO,2024/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1150381837.0
+FROTO,2024/6,1A,Dönen Varlıklar,CURRENT ASSETS,4153791147.0
+FROTO,2024/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,542943808.0
+FROTO,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+FROTO,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1660336807.0
+FROTO,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+FROTO,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,68167145.0
+FROTO,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,21036937.0
+FROTO,2024/6,1AF,Stoklar,Inventories,1554915753.0
+FROTO,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+FROTO,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,306390697.0
+FROTO,2024/6,1AI,(Ara Toplam),(Subtotal),4153791147.0
+FROTO,2024/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+FROTO,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,4313182364.0
+FROTO,2024/6,1B,Ticari Alacaklar,Trade Receivables,21317.0
+FROTO,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+FROTO,2024/6,1BB,Diğer Alacaklar,Other Receivables,376781571.0
+FROTO,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2024/6,1BC,Finansal Yatırımlar,Financial Investments,17254640.0
+FROTO,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+FROTO,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+FROTO,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+FROTO,2024/6,1BFA,Stoklar,Stoklar,0.0
+FROTO,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,40384822.0
+FROTO,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2315779786.0
+FROTO,2024/6,1BGA,Şerefiye,Goodwill,26844335.0
+FROTO,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,536519904.0
+FROTO,2024/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,519236711.0
+FROTO,2024/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,480359279.0
+FROTO,2024/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,8466973511.0
+FROTO,2024/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+FROTO,2024/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3525330710.0
+FROTO,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1411570641.0
+FROTO,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1771046790.0
+FROTO,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,49454285.0
+FROTO,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+FROTO,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+FROTO,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+FROTO,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,122878672.0
+FROTO,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2959894.0
+FROTO,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,45763274.0
+FROTO,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,121657154.0
+FROTO,2024/6,2AAGG,(Ara Toplam),(Subtotal),3525330710.0
+FROTO,2024/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+FROTO,2024/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2285962421.0
+FROTO,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,2041709487.0
+FROTO,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+FROTO,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+FROTO,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+FROTO,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+FROTO,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+FROTO,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,61901032.0
+FROTO,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,142523316.0
+FROTO,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+FROTO,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,35603598.0
+FROTO,2024/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,4224988.0
+FROTO,2024/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2655680380.0
+FROTO,2024/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2655680380.0
+FROTO,2024/6,2OA,Ödenmiş Sermaye,Share Capital,10670725.0
+FROTO,2024/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+FROTO,2024/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,243.0
+FROTO,2024/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+FROTO,2024/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-139871523.0
+FROTO,2024/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,271610720.0
+FROTO,2024/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2557174148.0
+FROTO,2024/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),477499916.0
+FROTO,2024/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-521403849.0
+FROTO,2024/6,2ODA,Azınlık Payları,Minority Interests,0.0
+FROTO,2024/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,8466973511.0
+FROTO,2024/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+FROTO,2024/6,3C,Satış Gelirleri,Net Sales,10309749011.0
+FROTO,2024/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-9257467311.0
+FROTO,2024/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+FROTO,2024/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1052281700.0
+FROTO,2024/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2024/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2024/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+FROTO,2024/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+FROTO,2024/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+FROTO,2024/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1052281700.0
+FROTO,2024/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-176250724.0
+FROTO,2024/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-165338265.0
+FROTO,2024/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-131017083.0
+FROTO,2024/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,252526334.0
+FROTO,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-248445495.0
+FROTO,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+FROTO,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,583756467.0
+FROTO,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,579675628.0
+FROTO,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,45952129.0
+FROTO,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-213934.0
+FROTO,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+FROTO,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+FROTO,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,629494663.0
+FROTO,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),203495013.0
+FROTO,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-169458823.0
+FROTO,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,45738195.0
+FROTO,2024/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,663530852.0
+FROTO,2024/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,7091598.0
+FROTO,2024/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-11251148.0
+FROTO,2024/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,18342745.0
+FROTO,2024/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+FROTO,2024/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,670622450.0
+FROTO,2024/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+FROTO,2024/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+FROTO,2024/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,670622450.0
+FROTO,2024/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+FROTO,2024/6,3LB,Azınlık Payları,Minority Interests,0.0
+FROTO,2024/6,3Z,Ana Ortaklık Payları,Parent Shares,670622450.0
+FROTO,2024/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+FROTO,2024/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+FROTO,2024/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+FROTO,2024/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+FROTO,2024/6,4B,Amortisman Giderleri,Depreciation & Amortization,189165242.0
+FROTO,2024/6,4BA,Kıdem Tazminatı,Severance Payments,13097113.0
+FROTO,2024/6,4BB,Finansman Giderleri,Financial Expenses,-169458823.0
+FROTO,2024/6,4BC,Yurtiçi Satışlar,Domestic Sales,2542636886.0
+FROTO,2024/6,4BD,Yurtdışı Satışlar,Export Sales,7995463812.0
+FROTO,2024/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1808712291.0
+FROTO,2024/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-1983728649.0
+FROTO,2024/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1808712291.0
+FROTO,2024/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,200038867.0
+FROTO,2024/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,670622450.0
+FROTO,2024/6,4CAA,Düzeltmeler:,Adjustments:,201821174.0
+FROTO,2024/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,189165242.0
+FROTO,2024/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,78153200.0
+FROTO,2024/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,603773114.0
+FROTO,2024/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),872443624.0
+FROTO,2024/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-549249655.0
+FROTO,2024/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),323193970.0
+FROTO,2024/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-123155103.0
+FROTO,2024/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-622576521.0
+FROTO,2024/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,57882552.0
+FROTO,2024/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-564693968.0
+FROTO,2024/6,4CB,Serbest Nakit Akım,Free Cash Flow,-364655101.0
+FROTO,2024/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1403511087.0
+FROTO,2024/6,4CBB,Temettü Ödemeleri,Dividends Paid,-681774837.0
+FROTO,2024/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+FROTO,2024/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-153203711.0
+FROTO,2024/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,568532539.0
+FROTO,2024/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,203877437.0
+FROTO,2024/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1107523.0
+FROTO,2024/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+FROTO,2024/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,204984960.0
+FROTO,2024/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+FROTO,2024/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,809389250.0
+FROTO,2024/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,814366112.0
+FROTO,2024/9,1A,Dönen Varlıklar,CURRENT ASSETS,4556217831.0
+FROTO,2024/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,881645696.0
+FROTO,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+FROTO,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1794277072.0
+FROTO,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+FROTO,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,79867037.0
+FROTO,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,24108360.0
+FROTO,2024/9,1AF,Stoklar,Inventories,1344996124.0
+FROTO,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+FROTO,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,431323543.0
+FROTO,2024/9,1AI,(Ara Toplam),(Subtotal),4556217831.0
+FROTO,2024/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+FROTO,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,4657103459.0
+FROTO,2024/9,1B,Ticari Alacaklar,Trade Receivables,20508.0
+FROTO,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+FROTO,2024/9,1BB,Diğer Alacaklar,Other Receivables,405613252.0
+FROTO,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2024/9,1BC,Finansal Yatırımlar,Financial Investments,12106195.0
+FROTO,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+FROTO,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+FROTO,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+FROTO,2024/9,1BFA,Stoklar,Stoklar,0.0
+FROTO,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,45642595.0
+FROTO,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2540201682.0
+FROTO,2024/9,1BGA,Şerefiye,Goodwill,27957054.0
+FROTO,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,601309237.0
+FROTO,2024/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,520834462.0
+FROTO,2024/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,503418474.0
+FROTO,2024/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,9213321290.0
+FROTO,2024/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+FROTO,2024/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3772637402.0
+FROTO,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1604909676.0
+FROTO,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1813625247.0
+FROTO,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,51607255.0
+FROTO,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+FROTO,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+FROTO,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+FROTO,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,125467359.0
+FROTO,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),11439128.0
+FROTO,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,48791282.0
+FROTO,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,116797455.0
+FROTO,2024/9,2AAGG,(Ara Toplam),(Subtotal),3772637402.0
+FROTO,2024/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+FROTO,2024/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2474896307.0
+FROTO,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,2178689154.0
+FROTO,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+FROTO,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+FROTO,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+FROTO,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+FROTO,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+FROTO,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,104772267.0
+FROTO,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,125967118.0
+FROTO,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+FROTO,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,38469568.0
+FROTO,2024/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,26998201.0
+FROTO,2024/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,2965787581.0
+FROTO,2024/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,2965787581.0
+FROTO,2024/9,2OA,Ödenmiş Sermaye,Share Capital,10265779.0
+FROTO,2024/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+FROTO,2024/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,234.0
+FROTO,2024/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+FROTO,2024/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-149749521.0
+FROTO,2024/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,284608996.0
+FROTO,2024/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),2679544943.0
+FROTO,2024/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),750840079.0
+FROTO,2024/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-609722928.0
+FROTO,2024/9,2ODA,Azınlık Payları,Minority Interests,0.0
+FROTO,2024/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,9213321290.0
+FROTO,2024/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+FROTO,2024/9,3C,Satış Gelirleri,Net Sales,16709911617.0
+FROTO,2024/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-15047257063.0
+FROTO,2024/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+FROTO,2024/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1662654554.0
+FROTO,2024/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2024/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2024/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+FROTO,2024/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+FROTO,2024/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+FROTO,2024/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1662654554.0
+FROTO,2024/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-303164653.0
+FROTO,2024/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-268524845.0
+FROTO,2024/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-188545446.0
+FROTO,2024/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,410927385.0
+FROTO,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-365977509.0
+FROTO,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+FROTO,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,947369486.0
+FROTO,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,902419610.0
+FROTO,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,132697150.0
+FROTO,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-12677757.0
+FROTO,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+FROTO,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+FROTO,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1067388879.0
+FROTO,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),354458395.0
+FROTO,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-309382032.0
+FROTO,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,120019393.0
+FROTO,2024/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,1112465242.0
+FROTO,2024/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-52654461.0
+FROTO,2024/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-23941760.0
+FROTO,2024/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-28712701.0
+FROTO,2024/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+FROTO,2024/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,1059810781.0
+FROTO,2024/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+FROTO,2024/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+FROTO,2024/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,1059810781.0
+FROTO,2024/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+FROTO,2024/9,3LB,Azınlık Payları,Minority Interests,0.0
+FROTO,2024/9,3Z,Ana Ortaklık Payları,Parent Shares,1059810781.0
+FROTO,2024/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+FROTO,2024/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+FROTO,2024/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+FROTO,2024/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+FROTO,2024/9,4B,Amortisman Giderleri,Depreciation & Amortization,308585905.0
+FROTO,2024/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+FROTO,2024/9,4BB,Finansman Giderleri,Financial Expenses,-309382032.0
+FROTO,2024/9,4BC,Yurtiçi Satışlar,Domestic Sales,4035827664.0
+FROTO,2024/9,4BD,Yurtdışı Satışlar,Export Sales,13051551239.0
+FROTO,2024/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-1919933643.0
+FROTO,2024/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2084379988.0
+FROTO,2024/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-1919933643.0
+FROTO,2024/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,815667255.0
+FROTO,2024/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,1059810781.0
+FROTO,2024/9,4CAA,Düzeltmeler:,Adjustments:,329537856.0
+FROTO,2024/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,308585905.0
+FROTO,2024/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,75211276.0
+FROTO,2024/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,930420043.0
+FROTO,2024/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1389348637.0
+FROTO,2024/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-377529740.0
+FROTO,2024/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1011818897.0
+FROTO,2024/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-196151642.0
+FROTO,2024/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1011345353.0
+FROTO,2024/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,58849473.0
+FROTO,2024/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-952495880.0
+FROTO,2024/9,4CB,Serbest Nakit Akım,Free Cash Flow,-136828625.0
+FROTO,2024/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,1738172677.0
+FROTO,2024/9,4CBB,Temettü Ödemeleri,Dividends Paid,-717994083.0
+FROTO,2024/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+FROTO,2024/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-212218773.0
+FROTO,2024/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,807959820.0
+FROTO,2024/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,671131196.0
+FROTO,2024/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,2295136.0
+FROTO,2024/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+FROTO,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,673426332.0
+FROTO,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+FROTO,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,852382962.0
+FROTO,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1244314529.0
+FROTO,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,5013938790.0
+FROTO,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1305323429.0
+FROTO,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+FROTO,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1951455078.0
+FROTO,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+FROTO,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,100547078.0
+FROTO,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,93423905.0
+FROTO,2025/3,1AF,Stoklar,Inventories,1174975908.0
+FROTO,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+FROTO,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,388213392.0
+FROTO,2025/3,1AI,(Ara Toplam),(Subtotal),5013938790.0
+FROTO,2025/3,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+FROTO,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,4997590455.0
+FROTO,2025/3,1B,Ticari Alacaklar,Trade Receivables,22097.0
+FROTO,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+FROTO,2025/3,1BB,Diğer Alacaklar,Other Receivables,499549053.0
+FROTO,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2025/3,1BC,Finansal Yatırımlar,Financial Investments,14943159.0
+FROTO,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+FROTO,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+FROTO,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+FROTO,2025/3,1BFA,Stoklar,Stoklar,0.0
+FROTO,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,57725493.0
+FROTO,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2858409249.0
+FROTO,2025/3,1BGA,Şerefiye,Goodwill,27035474.0
+FROTO,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,635783812.0
+FROTO,2025/3,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,592071460.0
+FROTO,2025/3,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,312050659.0
+FROTO,2025/3,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,10011529245.0
+FROTO,2025/3,1BM,KAYNAKLAR,LIABILITIES,0.0
+FROTO,2025/3,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4163867927.0
+FROTO,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,1398239136.0
+FROTO,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2251710750.0
+FROTO,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,223969398.0
+FROTO,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+FROTO,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+FROTO,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+FROTO,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,98774003.0
+FROTO,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),10315512.0
+FROTO,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,63301131.0
+FROTO,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,117557997.0
+FROTO,2025/3,2AAGG,(Ara Toplam),(Subtotal),4163867927.0
+FROTO,2025/3,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+FROTO,2025/3,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2547798682.0
+FROTO,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,2266802718.0
+FROTO,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+FROTO,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+FROTO,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+FROTO,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+FROTO,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+FROTO,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,99900882.0
+FROTO,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,130033594.0
+FROTO,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+FROTO,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,38804029.0
+FROTO,2025/3,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,12257458.0
+FROTO,2025/3,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3299862636.0
+FROTO,2025/3,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3299862636.0
+FROTO,2025/3,2OA,Ödenmiş Sermaye,Share Capital,9275064.0
+FROTO,2025/3,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+FROTO,2025/3,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,211.0
+FROTO,2025/3,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+FROTO,2025/3,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-239917983.0
+FROTO,2025/3,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,285877379.0
+FROTO,2025/3,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3671562337.0
+FROTO,2025/3,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),171463431.0
+FROTO,2025/3,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-598397804.0
+FROTO,2025/3,2ODA,Azınlık Payları,Minority Interests,0.0
+FROTO,2025/3,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,10011529245.0
+FROTO,2025/3,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+FROTO,2025/3,3C,Satış Gelirleri,Net Sales,4437955751.0
+FROTO,2025/3,3CA,Satışların Maliyeti (-),Cost Of Sales,-4054411364.0
+FROTO,2025/3,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+FROTO,2025/3,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,383544387.0
+FROTO,2025/3,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2025/3,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2025/3,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+FROTO,2025/3,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+FROTO,2025/3,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+FROTO,2025/3,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),383544387.0
+FROTO,2025/3,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-94668405.0
+FROTO,2025/3,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-59496581.0
+FROTO,2025/3,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-48752587.0
+FROTO,2025/3,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,137691520.0
+FROTO,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-104009779.0
+FROTO,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+FROTO,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,214308555.0
+FROTO,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,180626814.0
+FROTO,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,68626291.0
+FROTO,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-10757.0
+FROTO,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
+FROTO,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+FROTO,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,282924090.0
+FROTO,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),144963591.0
+FROTO,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-174045862.0
+FROTO,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,68615534.0
+FROTO,2025/3,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,253841818.0
+FROTO,2025/3,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-74915565.0
+FROTO,2025/3,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-11915948.0
+FROTO,2025/3,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-62999617.0
+FROTO,2025/3,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+FROTO,2025/3,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,178926254.0
+FROTO,2025/3,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+FROTO,2025/3,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+FROTO,2025/3,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,178926254.0
+FROTO,2025/3,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+FROTO,2025/3,3LB,Azınlık Payları,Minority Interests,0.0
+FROTO,2025/3,3Z,Ana Ortaklık Payları,Parent Shares,178926254.0
+FROTO,2025/3,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+FROTO,2025/3,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,1.0
+FROTO,2025/3,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,1.0
+FROTO,2025/3,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,1.0
+FROTO,2025/3,4B,Amortisman Giderleri,Depreciation & Amortization,96710291.0
+FROTO,2025/3,4BA,Kıdem Tazminatı,Severance Payments,10042973.0
+FROTO,2025/3,4BB,Finansman Giderleri,Financial Expenses,-174045862.0
+FROTO,2025/3,4BC,Yurtiçi Satışlar,Domestic Sales,935734768.0
+FROTO,2025/3,4BD,Yurtdışı Satışlar,Export Sales,3583883322.0
+FROTO,2025/3,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2035034479.0
+FROTO,2025/3,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2344877952.0
+FROTO,2025/3,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2035034479.0
+FROTO,2025/3,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,821616757.0
+FROTO,2025/3,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,178926254.0
+FROTO,2025/3,4CAA,Düzeltmeler:,Adjustments:,188111376.0
+FROTO,2025/3,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,96710291.0
+FROTO,2025/3,4CAC,Karşılıklardaki Değişim,Change in Provisions,60056162.0
+FROTO,2025/3,4CAD,Diğer Gelir/ Gider,Other Income / Expense,271772628.0
+FROTO,2025/3,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),367037630.0
+FROTO,2025/3,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,492422394.0
+FROTO,2025/3,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),859460023.0
+FROTO,2025/3,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-37843267.0
+FROTO,2025/3,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-149850161.0
+FROTO,2025/3,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,43437146.0
+FROTO,2025/3,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-106413015.0
+FROTO,2025/3,4CB,Serbest Nakit Akım,Free Cash Flow,715203742.0
+FROTO,2025/3,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,67023867.0
+FROTO,2025/3,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+FROTO,2025/3,4CBC,Sermaye Artırımı,Rights Issue,0.0
+FROTO,2025/3,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-30736604.0
+FROTO,2025/3,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,36287263.0
+FROTO,2025/3,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,751491005.0
+FROTO,2025/3,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,1115411.0
+FROTO,2025/3,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+FROTO,2025/3,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,752606416.0
+FROTO,2025/3,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+FROTO,2025/3,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,677848868.0
+FROTO,2025/3,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1360251033.0
+FROTO,2025/6,1A,Dönen Varlıklar,CURRENT ASSETS,5329161467.0
+FROTO,2025/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1431410264.0
+FROTO,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+FROTO,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1909886015.0
+FROTO,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+FROTO,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,111342823.0
+FROTO,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,42162316.0
+FROTO,2025/6,1AF,Stoklar,Inventories,1433585591.0
+FROTO,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+FROTO,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,400774457.0
+FROTO,2025/6,1AI,(Ara Toplam),(Subtotal),5329161467.0
+FROTO,2025/6,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+FROTO,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,5149433845.0
+FROTO,2025/6,1B,Ticari Alacaklar,Trade Receivables,20998.0
+FROTO,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+FROTO,2025/6,1BB,Diğer Alacaklar,Other Receivables,543701033.0
+FROTO,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2025/6,1BC,Finansal Yatırımlar,Financial Investments,13040912.0
+FROTO,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+FROTO,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+FROTO,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+FROTO,2025/6,1BFA,Stoklar,Stoklar,0.0
+FROTO,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,53030639.0
+FROTO,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2983015995.0
+FROTO,2025/6,1BGA,Şerefiye,Goodwill,28810597.0
+FROTO,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,655818011.0
+FROTO,2025/6,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,597866896.0
+FROTO,2025/6,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,274128764.0
+FROTO,2025/6,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,10478595312.0
+FROTO,2025/6,1BM,KAYNAKLAR,LIABILITIES,0.0
+FROTO,2025/6,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,4197537727.0
+FROTO,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,1296248028.0
+FROTO,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2552433840.0
+FROTO,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,62268640.0
+FROTO,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+FROTO,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+FROTO,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+FROTO,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,67070636.0
+FROTO,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),12661633.0
+FROTO,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,79970612.0
+FROTO,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,126884338.0
+FROTO,2025/6,2AAGG,(Ara Toplam),(Subtotal),4197537727.0
+FROTO,2025/6,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+FROTO,2025/6,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2753036114.0
+FROTO,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,2411572374.0
+FROTO,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+FROTO,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+FROTO,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+FROTO,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+FROTO,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+FROTO,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,104591409.0
+FROTO,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,136985261.0
+FROTO,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+FROTO,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,37591429.0
+FROTO,2025/6,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,62295642.0
+FROTO,2025/6,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3528021471.0
+FROTO,2025/6,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3528021471.0
+FROTO,2025/6,2OA,Ödenmiş Sermaye,Share Capital,88140881.0
+FROTO,2025/6,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+FROTO,2025/6,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,201.0
+FROTO,2025/6,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+FROTO,2025/6,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-193886980.0
+FROTO,2025/6,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,287987135.0
+FROTO,2025/6,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3698656700.0
+FROTO,2025/6,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),326218992.0
+FROTO,2025/6,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-679095458.0
+FROTO,2025/6,2ODA,Azınlık Payları,Minority Interests,0.0
+FROTO,2025/6,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,10478595312.0
+FROTO,2025/6,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+FROTO,2025/6,3C,Satış Gelirleri,Net Sales,9747157498.0
+FROTO,2025/6,3CA,Satışların Maliyeti (-),Cost Of Sales,-8925346826.0
+FROTO,2025/6,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+FROTO,2025/6,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,821810671.0
+FROTO,2025/6,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2025/6,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2025/6,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+FROTO,2025/6,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+FROTO,2025/6,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+FROTO,2025/6,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),821810671.0
+FROTO,2025/6,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-194624241.0
+FROTO,2025/6,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-113615264.0
+FROTO,2025/6,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-97486236.0
+FROTO,2025/6,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,333789609.0
+FROTO,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-210201136.0
+FROTO,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+FROTO,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,539673404.0
+FROTO,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,416084931.0
+FROTO,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,184915360.0
+FROTO,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2426120.0
+FROTO,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
+FROTO,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+FROTO,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,722162644.0
+FROTO,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),390511056.0
+FROTO,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-679714485.0
+FROTO,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,182489240.0
+FROTO,2025/6,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,432959215.0
+FROTO,2025/6,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-86473856.0
+FROTO,2025/6,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-23608675.0
+FROTO,2025/6,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-62865181.0
+FROTO,2025/6,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+FROTO,2025/6,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,346485359.0
+FROTO,2025/6,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+FROTO,2025/6,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+FROTO,2025/6,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,346485359.0
+FROTO,2025/6,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+FROTO,2025/6,3LB,Azınlık Payları,Minority Interests,0.0
+FROTO,2025/6,3Z,Ana Ortaklık Payları,Parent Shares,346485359.0
+FROTO,2025/6,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+FROTO,2025/6,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+FROTO,2025/6,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+FROTO,2025/6,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+FROTO,2025/6,4B,Amortisman Giderleri,Depreciation & Amortization,204554124.0
+FROTO,2025/6,4BA,Kıdem Tazminatı,Severance Payments,14049298.0
+FROTO,2025/6,4BB,Finansman Giderleri,Financial Expenses,-679714485.0
+FROTO,2025/6,4BC,Yurtiçi Satışlar,Domestic Sales,1919325952.0
+FROTO,2025/6,4BD,Yurtdışı Satışlar,Export Sales,7995387531.0
+FROTO,2025/6,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2264146402.0
+FROTO,2025/6,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2713645303.0
+FROTO,2025/6,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2264146402.0
+FROTO,2025/6,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1589129209.0
+FROTO,2025/6,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,346485359.0
+FROTO,2025/6,4CAA,Düzeltmeler:,Adjustments:,670847356.0
+FROTO,2025/6,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,204554124.0
+FROTO,2025/6,4CAC,Karşılıklardaki Değişim,Change in Provisions,103602624.0
+FROTO,2025/6,4CAD,Diğer Gelir/ Gider,Other Income / Expense,642932759.0
+FROTO,2025/6,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1017332715.0
+FROTO,2025/6,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,675154212.0
+FROTO,2025/6,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1692486927.0
+FROTO,2025/6,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-103357718.0
+FROTO,2025/6,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-331018592.0
+FROTO,2025/6,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,84692789.0
+FROTO,2025/6,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-246325803.0
+FROTO,2025/6,4CB,Serbest Nakit Akım,Free Cash Flow,1342803406.0
+FROTO,2025/6,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-138186943.0
+FROTO,2025/6,4CBB,Temettü Ödemeleri,Dividends Paid,-169700676.0
+FROTO,2025/6,4CBC,Sermaye Artırımı,Rights Issue,0.0
+FROTO,2025/6,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-66420458.0
+FROTO,2025/6,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-374308077.0
+FROTO,2025/6,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,968495330.0
+FROTO,2025/6,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,2426920.0
+FROTO,2025/6,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+FROTO,2025/6,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,970922250.0
+FROTO,2025/6,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+FROTO,2025/6,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,695022996.0
+FROTO,2025/6,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1519894196.0
+FROTO,2025/9,1A,Dönen Varlıklar,CURRENT ASSETS,5051516969.0
+FROTO,2025/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1311387176.0
+FROTO,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+FROTO,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1908484354.0
+FROTO,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+FROTO,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,116912793.0
+FROTO,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,25830439.0
+FROTO,2025/9,1AF,Stoklar,Inventories,1355285511.0
+FROTO,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+FROTO,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,333616696.0
+FROTO,2025/9,1AI,(Ara Toplam),(Subtotal),5051516969.0
+FROTO,2025/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+FROTO,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,5251360482.0
+FROTO,2025/9,1B,Ticari Alacaklar,Trade Receivables,20105.0
+FROTO,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+FROTO,2025/9,1BB,Diğer Alacaklar,Other Receivables,508105364.0
+FROTO,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+FROTO,2025/9,1BC,Finansal Yatırımlar,Financial Investments,15883444.0
+FROTO,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+FROTO,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+FROTO,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+FROTO,2025/9,1BFA,Stoklar,Stoklar,0.0
+FROTO,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,53277604.0
+FROTO,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3075705384.0
+FROTO,2025/9,1BGA,Şerefiye,Goodwill,28817530.0
+FROTO,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,673958626.0
+FROTO,2025/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,596116552.0
+FROTO,2025/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,299475874.0
+FROTO,2025/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,10302877451.0
+FROTO,2025/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+FROTO,2025/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,3891547487.0
+FROTO,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,1389712565.0
+FROTO,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2136850073.0
+FROTO,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,68484787.0
+FROTO,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+FROTO,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+FROTO,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+FROTO,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,51271620.0
+FROTO,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),35442960.0
+FROTO,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,85305351.0
+FROTO,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,124480131.0
+FROTO,2025/9,2AAGG,(Ara Toplam),(Subtotal),3891547487.0
+FROTO,2025/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+FROTO,2025/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,2593013929.0
+FROTO,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,2273014266.0
+FROTO,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+FROTO,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+FROTO,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+FROTO,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+FROTO,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+FROTO,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+FROTO,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,102359986.0
+FROTO,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,124345335.0
+FROTO,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+FROTO,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,36973685.0
+FROTO,2025/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,56320656.0
+FROTO,2025/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,3818316034.0
+FROTO,2025/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,3818316034.0
+FROTO,2025/9,2OA,Ödenmiş Sermaye,Share Capital,84390692.0
+FROTO,2025/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+FROTO,2025/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,192.0
+FROTO,2025/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+FROTO,2025/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,-223618379.0
+FROTO,2025/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,296426809.0
+FROTO,2025/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),3807050234.0
+FROTO,2025/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),537824470.0
+FROTO,2025/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,-683757984.0
+FROTO,2025/9,2ODA,Azınlık Payları,Minority Interests,0.0
+FROTO,2025/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,10302877451.0
+FROTO,2025/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+FROTO,2025/9,3C,Satış Gelirleri,Net Sales,15072545084.0
+FROTO,2025/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-13810802340.0
+FROTO,2025/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+FROTO,2025/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,1261742745.0
+FROTO,2025/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2025/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+FROTO,2025/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+FROTO,2025/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+FROTO,2025/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+FROTO,2025/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),1261742745.0
+FROTO,2025/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-299966901.0
+FROTO,2025/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-173248697.0
+FROTO,2025/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-158136517.0
+FROTO,2025/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,464375174.0
+FROTO,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-317052904.0
+FROTO,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+FROTO,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,777712901.0
+FROTO,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,630390631.0
+FROTO,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,249701042.0
+FROTO,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-2929432.0
+FROTO,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+FROTO,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+FROTO,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1024484511.0
+FROTO,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),546075910.0
+FROTO,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-859271985.0
+FROTO,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,246771610.0
+FROTO,2025/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,711288435.0
+FROTO,2025/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-132478019.0
+FROTO,2025/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-51748110.0
+FROTO,2025/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-80729909.0
+FROTO,2025/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+FROTO,2025/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,578810417.0
+FROTO,2025/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+FROTO,2025/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+FROTO,2025/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,578810417.0
+FROTO,2025/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+FROTO,2025/9,3LB,Azınlık Payları,Minority Interests,0.0
+FROTO,2025/9,3Z,Ana Ortaklık Payları,Parent Shares,578810417.0
+FROTO,2025/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+FROTO,2025/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+FROTO,2025/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+FROTO,2025/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+FROTO,2025/9,4B,Amortisman Giderleri,Depreciation & Amortization,320506107.0
+FROTO,2025/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+FROTO,2025/9,4BB,Finansman Giderleri,Financial Expenses,-859271985.0
+FROTO,2025/9,4BC,Yurtiçi Satışlar,Domestic Sales,3123995523.0
+FROTO,2025/9,4BD,Yurtdışı Satışlar,Export Sales,12211722032.0
+FROTO,2025/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-2158947494.0
+FROTO,2025/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2438949376.0
+FROTO,2025/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-2158947494.0
+FROTO,2025/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1841431460.0
+FROTO,2025/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,578810417.0
+FROTO,2025/9,4CAA,Düzeltmeler:,Adjustments:,962408447.0
+FROTO,2025/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,320506107.0
+FROTO,2025/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,158718107.0
+FROTO,2025/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,845048173.0
+FROTO,2025/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),1541218864.0
+FROTO,2025/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,473794703.0
+FROTO,2025/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),2015013566.0
+FROTO,2025/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-173582106.0
+FROTO,2025/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-488980076.0
+FROTO,2025/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,69404988.0
+FROTO,2025/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-419575088.0
+FROTO,2025/9,4CB,Serbest Nakit Akım,Free Cash Flow,1421856373.0
+FROTO,2025/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-190318731.0
+FROTO,2025/9,4CBB,Temettü Ödemeleri,Dividends Paid,-176989083.0
+FROTO,2025/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+FROTO,2025/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-123438953.0
+FROTO,2025/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-490746768.0
+FROTO,2025/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,931109605.0
+FROTO,2025/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,2894362.0
+FROTO,2025/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+FROTO,2025/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,934003967.0
+FROTO,2025/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+FROTO,2025/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,724649711.0
+FROTO,2025/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1411007574.0
