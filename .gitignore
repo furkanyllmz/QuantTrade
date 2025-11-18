@@ -49,7 +49,7 @@ notebooks/.ipynb_checkpoints/
 Thumbs.db
 
 # Project specific
-*.parquet
+
 *.pkl
 *.joblib
 
