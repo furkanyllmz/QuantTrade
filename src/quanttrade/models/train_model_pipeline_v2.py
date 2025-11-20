@@ -45,7 +45,7 @@ PRICE_COL = "price_adj_close"
 HORIZON = 60
 MARKET_FUT_RET_COL = f"market_future_return_{HORIZON}d"
 FUT_RET_COL = f"future_return_{HORIZON}d"
-ALPHA_COL = "alpha_120d"
+ALPHA_COL = "alpha_60d"
 
 MARKET_RET_COL = "macro_bist100_roc_5d"
 
