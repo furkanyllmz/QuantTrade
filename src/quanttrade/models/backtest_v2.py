@@ -45,7 +45,7 @@ BACKTEST_DIR = "backtest_results_alpha"
 SYMBOL_COL = "symbol"
 DATE_COL = "date"
 
-HORIZON = 120
+HORIZON = 60
 FUT_RET_COL = f"future_return_{HORIZON}d"
 MARKET_FUT_RET_COL = f"market_future_return_{HORIZON}d"
 MARKET_RET_COL = "macro_bist100_roc_5d"   # neutralization için
