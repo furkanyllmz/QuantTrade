@@ -53,6 +53,6 @@ Thumbs.db
 *.pkl
 *.joblib
 
-
-data/master/master_df.csv
-src/quanttrade/models/master_df.csv
+# Not ignoring master_df.csv - it's tracked in git
+# data/master/master_df.csv
+# src/quanttrade/models/master_df.csv
