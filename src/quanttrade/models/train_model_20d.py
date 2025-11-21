@@ -45,13 +45,6 @@ N_SPLITS = 5
 PURGE_WINDOW = 10
 EMBARGO_PCT = 0.05
 
-FACTOR_COLS = [
-    "macro_bist100_roc_20d",      # Genel market faktörü
-    "macro_usdtry_vs_bist100",    # Kur faktörü
-    "macro_tcmb_rate_change_5d",  # Faiz şok faktörü
-]
-
-
 SECTOR_COL = "sector"
 
 # ============================================================
@@ -245,6 +238,54 @@ def build_alpha(df):
 
     return df
 
+# ============================================================
+# SECTOR-BASED STANDARD SCALER
+# ============================================================
+
+class SectorStandardScaler(BaseEstimator, TransformerMixin):
+    """
+    Her sektörde, her feature'ı kendi sektörü içinde z-score'lar:
+
+        z = (x - mean_sector) / std_sector
+
+    Böylece model sektörler arası seviye farkını değil,
+    sektör içi outlier'ları öğrenir.
+    """
+
+    def __init__(self):
+        # sector -> {"mean": Series, "std": Series}
+        self.stats_ = {}
+
+    def fit(self, X: pd.DataFrame, sector: pd.Series):
+        sector = sector.astype(str)
+        self.stats_ = {}
+
+        for sec in sector.unique():
+            mask = (sector == sec)
+            X_sec = X.loc[mask]
+
+            mean = X_sec.mean()
+            std = X_sec.std(ddof=0).replace(0, 1.0)  # 0 olan std'leri 1 yap
+
+            self.stats_[sec] = {"mean": mean, "std": std}
+
+        return self
+
+    def transform(self, X: pd.DataFrame, sector: pd.Series) -> pd.DataFrame:
+        sector = sector.astype(str)
+        X_scaled = X.copy()
+
+        for sec, stats in self.stats_.items():
+            mask = (sector == sec)
+            if not mask.any():
+                continue
+
+            m = stats["mean"]
+            s = stats["std"]
+
+            X_scaled.loc[mask] = (X.loc[mask] - m) / s
+
+        return X_scaled
 
 
 # ============================================================
@@ -277,8 +318,6 @@ def select_features(df):
     }
     # 4-b) sektör kolonu (feature olarak kullanmayacağız)
     drop_cols |= {SECTOR_COL}
-    
-    drop_cols |= set(FACTOR_COLS)
 
 
     # 5) feature listesi
@@ -356,12 +395,8 @@ def run_pipeline():
     X_mat = X.values
     y_vec = y.values
 
-    # --- Faktör ve sektör serilerini hazırla ---
-    factor_cols_present = [c for c in FACTOR_COLS if c in df_tv.columns]
-    if not factor_cols_present:
-        raise ValueError(f"Hiçbir FACTOR_COLS kolonunu bulamadım: {FACTOR_COLS}")
 
-    factors_all = df_tv[factor_cols_present].reset_index(drop=True)
+    factors_all = pd.DataFrame(index=df_tv.index).reset_index(drop=True)
 
     if SECTOR_COL not in df_tv.columns:
         raise ValueError(f"Sektör kolonu bulunamadı: {SECTOR_COL}")
@@ -377,33 +412,44 @@ def run_pipeline():
 
     for fold, (tr, te) in enumerate(cv.split(X_mat), 1):
 
-        # Fold'un faktör ve sektör setleri
+        # 0) Fold'un X, faktör ve sektör setlerini ayır
+        X_tr = X.iloc[tr].reset_index(drop=True)
+        X_te = X.iloc[te].reset_index(drop=True)
+
         factors_tr = factors_all.iloc[tr].reset_index(drop=True)
         factors_te = factors_all.iloc[te].reset_index(drop=True)
 
         sector_tr = sector_all.iloc[tr].reset_index(drop=True)
         sector_te = sector_all.iloc[te].reset_index(drop=True)
 
-        # Çok faktörlü + sektör nötralizatörü fit et
+        # 1) SEKTÖR Z-SCORE NORMALİZASYONU
+        #    - Her sektörde feature'ları kendi mean/std'sine göre normalize ediyoruz.
+        #    - Neden? Sektör içi outlier yakalamak için.
+        sec_scaler = SectorStandardScaler()
+        sec_scaler.fit(X_tr, sector_tr)
+
+        Xtr_s = sec_scaler.transform(X_tr, sector_tr)
+        Xte_s = sec_scaler.transform(X_te, sector_te)
+
+        # 2) ÇOK FAKTÖRLÜ + SEKTÖR NÖTRALİZASYON
+        #    - Market + FX + faiz + sektör dummy etkilerini çıkarıyoruz.
         nz = FeatureNeutralizer(factors_tr, sector_tr)
-        nz.fit(X.iloc[tr])
+        nz.fit(Xtr_s)
 
-        # Train ve test nötralize
-        Xtr_n = nz.transform(X.iloc[tr], factors_tr, sector_tr)
-        Xte_n = nz.transform(X.iloc[te], factors_te, sector_te)
+        Xtr_n = nz.transform(Xtr_s, factors_tr, sector_tr)
+        Xte_n = nz.transform(Xte_s, factors_te, sector_te)
 
-        # MODEL BURADA NÖTRALİZE EDİLMİŞ DATAYLA EĞİTİLİR
-        model = CatBoostClassifier (
-            loss_function = "Logloss",
-            eval_metric = "AUC",
-            depth = 6,
-            learning_rate = 0.05,
-            iterations = 700,
-            verbose = False,
+        # 3) MODEL EĞİTİMİ — her fold için nötralize + normalize edilmiş feature'larla
+        model = CatBoostClassifier(
+            loss_function="Logloss",
+            eval_metric="AUC",
+            depth=6,
+            learning_rate=0.05,
+            iterations=700,
+            verbose=False,
         )
         model.fit(Xtr_n, y.iloc[tr])
 
-        # Tahmin de nötralize edilmiş test ile yapılır
         prob = model.predict_proba(Xte_n)[:, 1]
         oof_pred[te] = prob
 
@@ -411,6 +457,7 @@ def run_pipeline():
         fold_aucs.append(auc)
 
         print(f"Fold {fold} AUC: {auc:.3f}")
+
 
     print("\n>> OOF Results (train+valid only):")
     save_metrics_and_plots(y_vec, oof_pred, fold_aucs)
@@ -425,10 +472,17 @@ def run_pipeline():
     final_factors = factors_all  # zaten reset_index yaptık
     final_sector = sector_all
 
-    final_nz = FeatureNeutralizer(final_factors, final_sector)
-    final_nz.fit(X)
-    X_all_n = final_nz.transform(X, final_factors, final_sector)
+    # 1) SEKTÖR Z-SCORE (train+valid tamamı)
+    sec_scaler_final = SectorStandardScaler()
+    sec_scaler_final.fit(X, final_sector)
+    X_s = sec_scaler_final.transform(X, final_sector)
 
+    # 2) ÇOK FAKTÖRLÜ + SEKTÖR NÖTRALİZASYON
+    final_nz = FeatureNeutralizer(final_factors, final_sector)
+    final_nz.fit(X_s)
+    X_all_n = final_nz.transform(X_s, final_factors, final_sector)
+
+    # 3) MODEL EĞİTİMİ
     final_model = CatBoostClassifier(
         loss_function="Logloss",
         eval_metric="AUC",
@@ -439,13 +493,22 @@ def run_pipeline():
     )
     final_model.fit(Pool(X_all_n, y_vec))
 
+
     ts = datetime.now().strftime("%Y%m%d_%H%M%S")
 
     model_path = f"{RESULTS_DIR}/catboost_alpha20d_{ts}.cbm"
     final_model.save_model(model_path)
 
     neutralizer_path = f"{RESULTS_DIR}/neutralizer_alpha20d_{ts}.pkl"
-    joblib.dump({"neutralizer": final_nz, "features": feature_names}, neutralizer_path)
+    joblib.dump(
+        {
+            "sector_scaler": sec_scaler_final,
+            "neutralizer": final_nz,
+            "features": feature_names,
+        },
+        neutralizer_path
+    )
+
 
     print("\n>> Saved MODEL:", model_path)
     print(">> Saved NEUTRALIZER:", neutralizer_path)

@@ -29,6 +29,7 @@ from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.linear_model import LinearRegression
 from typing import Dict, Optional, List
 
+from train_model_20d import SectorStandardScaler, FeatureNeutralizer
 
 # ==========================
 # CONFIG
@@ -67,51 +68,13 @@ WATCHLIST: Optional[List[str]] = None
 
 
 # ==========================
-# NEUTRALIZER
-# ==========================
-
-class FeatureNeutralizer(BaseEstimator, TransformerMixin):
-    def __init__(self, market_ret: Optional[pd.Series] = None):
-        if market_ret is not None:
-            self.market_ret = market_ret.values.reshape(-1, 1)
-        else:
-            self.market_ret = None
-        self.models_: Dict[str, LinearRegression] = {}
-
-    def fit(self, X, y=None):
-        if self.market_ret is None:
-            raise ValueError("market_ret None, cannot fit.")
-        for col in X.columns:
-            lr = LinearRegression()
-            lr.fit(self.market_ret, X[col].values)
-            self.models_[col] = lr
-        return self
-
-    def transform(self, X, market_ret=None):
-        if market_ret is not None:
-            mr = market_ret.values.reshape(-1, 1)
-        else:
-            mr = self.market_ret
-
-        if mr is None:
-            raise ValueError("No market_ret available for transform().")
-
-        Xn = X.copy()
-        for col in X.columns:
-            lr = self.models_[col]
-            pred = lr.predict(mr)
-            Xn[col] = X[col] - pred
-        return Xn
-
-
-# ==========================
 # UTILS
 # ==========================
 
 def get_latest(pattern: str) -> str:
     files = glob.glob(pattern)
     if not files:
-        raise FileNotFoundError(f"Dosya bulunamadı: {pattern}")
+        raise FileNotFoundError(f"Aranan dosya yok: {pattern}")
     return max(files, key=os.path.getmtime)
 
 
@@ -135,8 +98,11 @@ def main():
 
     # Neutralizer + feature list
     meta = joblib.load(neutralizer_path)
+
+    sector_scaler: SectorStandardScaler = meta["sector_scaler"]
     neutralizer: FeatureNeutralizer = meta["neutralizer"]
     feature_names: List[str] = meta["features"]
+
 
     print(">> Veriyi yüklüyorum...")
     df = pd.read_csv(DATA_PATH)
@@ -180,13 +146,26 @@ def main():
     X_all = X_all.replace([np.inf, -np.inf], np.nan)
     X_all = X_all.fillna(X_all.median())
 
-    market_ret_all = df[MARKET_RET_COL].fillna(0.0)
+    # Sector bilgisi
+    if "sector" not in df.columns:
+        raise ValueError("master_df içinde 'sector' kolonu yok, backtest için gerekli.")
+    sector_all = df["sector"].fillna("other").astype(str)
+    
+    print(">> Pre-processing (sector z-score + sector-neutralization)...")
 
-    print(">> Neutralization (sadece TEST dönemi)...")
-    X_all_n = neutralizer.transform(X_all, market_ret=market_ret_all)
+    # 1) Sector z-score (aynı train'deki SectorStandardScaler)
+    X_s = sector_scaler.transform(X_all, sector_all)
+
+    # 2) Sector-only neutralization
+    #    Train tarafında factors_all boş DataFrame idi.
+    #    Aynısını testte de yapıyoruz; factor neutralization yok, sadece
+    #    sektör dummy'lerine göre regresyon ve residual alma var.
+    factors_test = pd.DataFrame(index=df.index)
+    X_all_n = neutralizer.transform(X_s, factors=factors_test, sector=sector_all)
 
     print(">> MODEL SKOR ÜRETİYOR (TEST satırları)...")
     df["score"] = model.predict_proba(X_all_n.values)[:, 1]
+
 
     unique_dates = sorted(df[DATE_COL].unique())
     print(f">> Sliding window backtest başlıyor ({len(unique_dates)} gün)")
