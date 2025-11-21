@@ -135,8 +135,23 @@ def load_and_prepare(path):
 
 def build_alpha(df):
     df[ALPHA_COL] = df[FUT_RET_COL] - df[MARKET_FUT_RET_COL]
-    df["y_alpha"] = (df[ALPHA_COL] > 0).astype(int)
-    return df.dropna(subset=["y_alpha"]).reset_index(drop=True)
+
+    # === QUINTILE-BASED TARGET ===
+    df = df.dropna(subset=[ALPHA_COL]).reset_index(drop=True)
+
+    q20 = df[ALPHA_COL].quantile(0.20)
+    q80 = df[ALPHA_COL].quantile(0.80)
+
+    df["y_alpha"] = np.where(
+        df[ALPHA_COL] >= q80, 1,
+        np.where(df[ALPHA_COL] <= q20, 0, np.nan)
+    )
+
+    df = df.dropna(subset=["y_alpha"]).reset_index(drop=True)
+    df["y_alpha"] = df["y_alpha"].astype(int)
+
+    return df
+
 
 
 # ============================================================

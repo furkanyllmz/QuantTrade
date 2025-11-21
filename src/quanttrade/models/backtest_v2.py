@@ -1,19 +1,19 @@
 """
 QUANT-TRADE ALPHA BACKTESTER 2.0 (REALISTIC, NON-OVERLAP)
 
-- Son ALPHA CatBoost + Neutralizer'ı yükler  (model_results_alpha_20d/)
+- Son ALPHA CatBoost + Neutralizer'ı yükler  (model_results_alpha_10d/)
 - Sadece TEST döneminde skor üretir (dataset_split == 'test')
-- Her 20 günde 1 kere (HORIZON) TOP_K hisse alır, 20 günlük getirisiyle backtest yapar
-- Kullanılan realized getiri: future_return_20d (nominal)
-- Benchmark: market_future_return_20d   (index)
-- Strateji getirisi: future_return_20d (TOP_K ortalama) - trading_cost
+- Her 10 günde 1 kere (HORIZON) TOP_K hisse alır, 10 günlük getirisiyle backtest yapar
+- Kullanılan realized getiri: future_return_10d (nominal)
+- Benchmark: market_future_return_10d   (index)
+- Strateji getirisi: future_return_10d (TOP_K ortalama) - trading_cost
 - Alpha: strategy_ret - benchmark_ret
-- Overlap YOK (her trade 20 gün sürer)
+- Overlap YOK (her trade 10 gün sürer)
 - Ekstra:
     * Likidite filtresi (min turnover)
     * Opsiyonel watchlist filtresi
     * Transaction cost + slippage (round-trip)
-- Sonuçlar: backtest_results_alpha_20d/ klasörüne yazılır
+- Sonuçlar: backtest_results_alpha_10d/ klasörüne yazılır
 """
 
 import warnings
@@ -39,8 +39,8 @@ from typing import Dict, Optional, List
 # ==========================
 
 DATA_PATH = "master_df.csv"
-RESULTS_DIR = "model_results_alpha_20d"
-BACKTEST_DIR = "backtest_results_alpha_20d"
+RESULTS_DIR = "model_results_alpha_10d"
+BACKTEST_DIR = "backtest_results_alpha_10d"
 
 SYMBOL_COL = "symbol"
 DATE_COL = "date"
@@ -180,7 +180,7 @@ def main():
         if col not in df.columns:
             raise ValueError(f"{col} kolonu yok. master_df'ine bak.")
 
-    # Sadece future_return dolu satırlar (test döneminin son 20 günü NaN olabilir)
+    # Sadece future_return dolu satırlar (test döneminin son 10 günü NaN olabilir)
     before = len(df)
     df = df.dropna(subset=[FUT_RET_COL, MARKET_FUT_RET_COL]).reset_index(drop=True)
     print(f">> FUT_RET ve MARKET_FUT_RET dropna: {before} -> {len(df)} satır")
@@ -248,10 +248,10 @@ def main():
 
         top = universe.head(TOP_K)
 
-        # Realized nominal 20d getiri
+        # Realized nominal 10d getiri
         gross_strat_ret = top[FUT_RET_COL].mean()
 
-        # Benchmark: index'in 20d getirisi (aynı gün için)
+        # Benchmark: index'in 10d getirisi (aynı gün için)
         # Genelde tüm satırlarda aynı olmalı, ortalama alıyoruz
         mkt_ret = universe[MARKET_FUT_RET_COL].mean()
 
