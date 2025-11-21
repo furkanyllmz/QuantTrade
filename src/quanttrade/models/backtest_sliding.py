@@ -63,6 +63,8 @@ ROUNDTRIP_COST = (COMMISSION_BPS + SLIPPAGE_BPS) / 10_000
 # Aşırı uç işlemleri kırpmak için (örn: +%50 / -%50)
 RET_CAP = 0.5   # trade başına max ±%50; istersen 0.3, 0.2 yap
 
+REGIME_FILTER_COL = "macro_bist100_distance_ma200"  # MA200 üzerinde mi? (>0 = üzerinde)
+
 WATCHLIST: Optional[List[str]] = None
 # WATCHLIST = ["KCHOL","SAHOL","THYAO", ...]
 

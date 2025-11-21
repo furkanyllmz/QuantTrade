@@ -198,6 +198,17 @@ class MacroFeatureEngineer:
         # Fiyatın MA200'e göre uzaklığı
         result["bist100_distance_ma200"] = result["bist100"] / result["bist100_ma200"] - 1.0
 
+        
+        # ===============================
+        # 3-B. BIST100 MACRO REGIME FLAG
+        # ===============================
+        # Rejim filtresi: MA200 üzerinde mi?
+        result["macro_regime_up"] = (result["bist100_distance_ma200"] > 0).astype(int)
+
+        # MA200 altındaki günlerde "risk-off" modunu düz işaretliyoruz
+        result["macro_regime_down"] = (result["bist100_distance_ma200"] <= 0).astype(int)
+
+
         # Günlük getiriden volatilite
         bist_ret_1d = result["bist100_roc_1d"]
         result["bist100_vol_20d"] = bist_ret_1d.rolling(20).std()
@@ -206,7 +217,7 @@ class MacroFeatureEngineer:
         # Vol regime: kısa/uzun oranı
         ratio_bist_vol = result["bist100_vol_20d"] / result["bist100_vol_60d"]
         result["bist100_vol_regime"] = ratio_bist_vol.replace([np.inf, -np.inf], np.nan)
-
+        
         
         # ===================================================================
         # 4. TCMB Repo Rate Features
