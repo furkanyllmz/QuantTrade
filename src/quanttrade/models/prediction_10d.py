@@ -74,7 +74,7 @@ class FeatureNeutralizer(BaseEstimator, TransformerMixin):
 # ======================================================
 
 DATA_PATH = "master_df.csv"
-RESULTS_DIR = "model_results_alpha_20d"
+RESULTS_DIR = "model_results_alpha_10d"
 SIGNALS_DIR = "signals"
 
 SYMBOL_COL = "symbol"
@@ -84,7 +84,7 @@ MARKET_RET_COL = "macro_bist100_roc_5d"
 # Rank tabanlı sinyal parametreleri
 TOP_BUY_N = 15         # Günün en iyi 15 hissesi -> BUY
 BOTTOM_SELL_N = 15     # Günün en kötü 15 hissesi -> SELL
-TOP_N_PRINT = 20       # Terminal çıktısında gösterilecek satır sayısı
+TOP_N_PRINT = 10       # Terminal çıktısında gösterilecek satır sayısı
 
 
 # ======================================================
@@ -107,8 +107,8 @@ def main():
     os.makedirs(SIGNALS_DIR, exist_ok=True)
 
     print("\n>> En son ALPHA modelini buluyorum...")
-    model_path = get_latest(os.path.join(RESULTS_DIR, "catboost_alpha20d_*.cbm"))
-    neutralizer_path = get_latest(os.path.join(RESULTS_DIR, "neutralizer_alpha20d_*.pkl"))
+    model_path = get_latest(os.path.join(RESULTS_DIR, "catboost_alpha10d_*.cbm"))
+    neutralizer_path = get_latest(os.path.join(RESULTS_DIR, "neutralizer_alpha10d_*.pkl"))
 
     print(f"   Model      : {model_path}")
     print(f"   Neutralizer: {neutralizer_path}")
@@ -194,7 +194,7 @@ def main():
     print(f">> SELL adedi  (BOTTOM {BOTTOM_SELL_N}): {(result['signal']=='SELL').sum()}")
     print(f">> HOLD adedi                 : {(result['signal']=='HOLD').sum()}")
 
-    print("\n>> En yüksek 20 skor:")
+    print("\n>> En yüksek 10 skor:")
     print(result.head(TOP_N_PRINT).to_string(index=False))
 
 

@@ -1,5 +1,5 @@
 """
-QUANT-TRADE FULL PIPELINE — ALPHA 20D (LEAKAGE-FREE FINAL)
+QUANT-TRADE FULL PIPELINE — ALPHA 10D (LEAKAGE-FREE FINAL)
 """
 
 import warnings
@@ -28,13 +28,13 @@ from catboost import CatBoostClassifier, Pool
 # ============================================================
 
 DATA_PATH = "master_df.csv"
-RESULTS_DIR = "model_results_alpha_20d"
+RESULTS_DIR = "model_results_alpha_10d"
 os.makedirs(RESULTS_DIR, exist_ok=True)
 
 SYMBOL_COL = "symbol"
 DATE_COL = "date"
 
-HORIZON = 20
+HORIZON = 10
 FUT_RET_COL = f"future_return_{HORIZON}d"
 MARKET_FUT_RET_COL = f"market_future_return_{HORIZON}d"
 ALPHA_COL = f"alpha_{HORIZON}d"
@@ -42,7 +42,7 @@ ALPHA_COL = f"alpha_{HORIZON}d"
 MARKET_RET_COL = "macro_bist100_roc_5d"
 
 N_SPLITS = 5
-PURGE_WINDOW = 20
+PURGE_WINDOW = 10
 EMBARGO_PCT = 0.05
 
 
@@ -223,7 +223,7 @@ def save_metrics_and_plots(y_true, y_prob, fold_auc_list):
     plt.figure(figsize=(6, 5))
     plt.plot(fpr, tpr, label=f"AUC = {auc:.3f}")
     plt.plot([0, 1], [0, 1], "k--")
-    plt.title("ROC Curve — ALPHA 20d Model")
+    plt.title("ROC Curve — ALPHA 10d Model")
     plt.xlabel("FPR")
     plt.ylabel("TPR")
     plt.legend()
@@ -317,10 +317,10 @@ def run_pipeline():
 
     ts = datetime.now().strftime("%Y%m%d_%H%M%S")
 
-    model_path = f"{RESULTS_DIR}/catboost_alpha20d_{ts}.cbm"
+    model_path = f"{RESULTS_DIR}/catboost_alpha10d_{ts}.cbm"
     final_model.save_model(model_path)
 
-    neutralizer_path = f"{RESULTS_DIR}/neutralizer_alpha20d_{ts}.pkl"
+    neutralizer_path = f"{RESULTS_DIR}/neutralizer_alpha10d_{ts}.pkl"
     joblib.dump({"neutralizer": final_nz, "features": feature_names}, neutralizer_path)
 
     print("\n>> Saved MODEL:", model_path)
