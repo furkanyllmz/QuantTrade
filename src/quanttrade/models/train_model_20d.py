@@ -498,6 +498,7 @@ def run_pipeline():
 
     model_path = f"{RESULTS_DIR}/catboost_alpha20d_{ts}.cbm"
     final_model.save_model(model_path)
+    np.save(f"{RESULTS_DIR}/oof_pred_m1_{ts}.npy", oof_pred)
 
     neutralizer_path = f"{RESULTS_DIR}/neutralizer_alpha20d_{ts}.pkl"
     joblib.dump(
