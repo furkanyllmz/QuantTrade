@@ -59,3 +59,4 @@ src/quanttrade/models/master_df.csv
 data/master/master_df.parquet
 data/master/master_df_metadata.json
 src/quanttrade/models/catboost_info
+src/quanttrade/models_2.0/master_df.csv
