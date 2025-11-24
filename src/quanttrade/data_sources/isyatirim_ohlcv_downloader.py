@@ -74,7 +74,7 @@ def main() -> int:
             start_date=start_date,
             end_date=end_date,
             output_dir=str(output_dir),
-            rate_limit_delay=0.5,  # IP ban riski için bekleme
+            rate_limit_delay=2.0,  # IP ban riski için bekleme
         )
         
         return 0
