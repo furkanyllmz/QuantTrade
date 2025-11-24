@@ -297,7 +297,7 @@ def select_features(df):
     # y_triple_20d dışındaki tüm future_* ve y_* kolonlarını at
     drop_cols = {
         c for c in df.columns
-        if "future_" in c or (c.startswith("y_") and c != "y_triple_20d")
+        if "future_" in c or (c.startswith("y_") and c != "y_triple_20d") or "alpha_" in c
     }
 
     drop_cols |= {
