@@ -74,7 +74,7 @@ symbols = [
     "TCELL", "TTKOM",
     
     # --- PERAKENDE & GIDA ---
-    "BIMAS", "MGROS", "SOKM", "ULKER", "AEFES", "CCOLA", "MAVI", "BIZIM", "TUKAS", "TATGD", "PETUN", "KCVYG",
+    "BIMAS", "MGROS", "SOKM", "ULKER", "AEFES", "CCOLA", "MAVI", "BIZIM", "TUKAS", "TATGD", "PETUN",
     
     # --- DAYANIKLI TÜKETİM & ELEKTRONİK ---
     "ARCLK", "VESTL", "VESBE",
@@ -86,10 +86,10 @@ symbols = [
     "SISE", "OYAKC", "AKCNS", "CIMSA", "BUCIM", "NUHCM", "KUTPO",
     
     # --- GAYRİMENKUL (GYO) & İNŞAAT ---
-    "EKGYO", "ISGYO", "TRGYO", "AKFGY", "SNGYO", "OZKGY", "HLGYO", "KIZIL",
+    "EKGYO", "ISGYO", "TRGYO", "AKFGY", "SNGYO", "OZKGY", "HLGYO",
     
     # --- MADENCİLİK ---
-    "KOZAL", "KOZAA", "IPEKE", "PRKME",
+    "TRALT", "TRMET", "TRENJ", "PRKME",
     
     # --- KAĞIT & AMBALAJ ---
     "KARTN", "ALKA", "TEZOL",

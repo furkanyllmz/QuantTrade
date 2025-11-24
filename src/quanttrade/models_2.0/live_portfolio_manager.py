@@ -45,7 +45,7 @@ EQUITY_PNG   = "live_equity_T1.png"
 HORIZON_DAYS   = 20        # max tutma süresi
 STOP_LOSS_PCT  = -0.05     # -%5
 MAX_POSITIONS  = 5
-INITIAL_CAPITAL = 100_000
+INITIAL_CAPITAL = 10_000
 COMMISSION     = 0.002     # binde 2
 
 PRICE_COL   = "price_close"
