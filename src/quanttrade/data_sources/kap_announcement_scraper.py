@@ -3,277 +3,154 @@ import json
 import csv
 import sys
 import time
+import random
 from pathlib import Path
 
 BASE_URL = "https://www.kap.org.tr"
 
-# Output klasörünü ayarla
 PROJECT_ROOT = Path(__file__).parent.parent.parent.parent
 OUTPUT_DIR = PROJECT_ROOT / "data" / "raw" / "announcements"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# Config ve mapping dosyaları
 sys.path.insert(0, str(PROJECT_ROOT))
-from src.quanttrade.config import get_stock_symbols, get_stock_date_range
+from src.quanttrade.config import get_stock_symbols
 
 MAPPING_FILE = PROJECT_ROOT / "config" / "kap_symbols_oids_mapping.json"
 
+# -----------------------------------------------------
+# GLOBAL SESSION (Tek sefer)
+# -----------------------------------------------------
 session = requests.Session()
+session.verify = True
 
-# ---- TARAYICIDAKİ HEADER'LAR ----
-session.headers.update({
-    "User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/142.0.0.0 Safari/537.36"
-    ),
-    "Accept": "*/*",
-    "Accept-Encoding": "gzip, deflate, br, zstd",
-    "Accept-Language": "tr",
-    "Content-Type": "application/json",
+BASE_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "Accept": "application/json, text/javascript, */*; q=0.01",
+    "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
     "Origin": BASE_URL,
     "Referer": BASE_URL + "/tr/bildirim-sorgu",
-    "Connection": "keep-alive"
-})
-
-# ---- TARAYICIDAKİ COOKIES ----
-session.cookies.update({
-    "_ga": "GA1.1.1971839622.1763387350",
-    "NSC_xxx.lbq.psh.us_tjuf_zfoj": "7ce2a3d9ddad9f0439920efb260b36acad4a64f3df2ef79bda6c88b7f8de60bb9ae4e5ca",
-    "client-ip": "37.155.237.157",
-    "AGVY-Cookie": "MDMAAAEAvBguNwAAAAAlm-2djnkbaeb4PmTz6i_1VcrApsoTC0adSVmIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJU3iUELHuU3YPc7e6186NEnO7wbnsbaQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGXTvuiWQoTLRasivtt9WFFUeGb2",
-    "_ga_L21W6S1YS4": "GS2.1.s1763408718$o5$g1$t1763408731$j47$l0$h0",
-    "KAP": "AAM7rmgbaTt9OgIFAAAAADsUL9ZOBg_0wi2-O8Ucf59ZvO9ZE3i4E3jsfRfl63eOOw==q3wbaQ==7LwOrLySjcObzxZmUdnwz9gwTCQ=",
-    "KAP_.kap.org.tr_%2F_wlf": (
-        "AAAAAAVhZ0s_Z-eBkcna46s7Uqky6qOodcTNJ2AJARlCnjmdhSPVzFDibUYjZ9__iMzE-HKHQwIuH7Rswvrxr-"
-        "J88uZ4OOFdLemWzpRjALCkQkFFWf-rH_c2u5vs9Qx1qGkm6ZY=&AAAAAAXch89U54zYeZPrzcYEk9eWOAm2Sy"
-        "MtPjPDPvwfXYEI9dAzX4VjBdjTD5kPeBk3jQyJpIj7cJCuz_8i2xBAUZnx&"
-    ),
-})
+    "X-Requested-With": "XMLHttpRequest"
+}
+session.headers.update(BASE_HEADERS)
 
 
+# -----------------------------------------------------
+# COOKIE + CSRF Token Toplama
+# -----------------------------------------------------
+def init_session():
+    print("🔄 Oturum başlatılıyor...")
+    session.get(BASE_URL)
+    time.sleep(1)
+    r = session.get(BASE_URL + "/tr/bildirim-sorgu")
+
+    # Anti-bot tokenlar
+    token = r.cookies.get("__RequestVerificationToken")
+    xsrf = r.cookies.get("XSRF-TOKEN")
+
+    if token:
+        session.headers["RequestVerificationToken"] = token
+    if xsrf:
+        session.headers["X-XSRF-TOKEN"] = xsrf
+
+    print("✅ Session hazır.")
+
+
+# -----------------------------------------------------
+# Finansal Raporları ÇEK (Stabil)
+# -----------------------------------------------------
 def fetch_financial_reports(from_date, to_date, oid):
     url = BASE_URL + "/tr/api/disclosure/members/byCriteria"
 
-    # ---- BİREBİR SEND PAYLOAD ----
     payload = {
         "fromDate": from_date,
         "toDate": to_date,
         "memberType": "IGS",
-        "disclosureClass": "FR",  # Finansal Rapor
+        "disclosureClass": "FR",
         "mkkMemberOidList": [oid],
-        "bdkMemberOidList": [],
-        "inactiveMkkMemberOidList": [],
-        "disclosureIndexList": [],
-        "subjectList": [],
-        "ruleType": "",
-        "period": "",
-        "year": "",
-        "sector": "",
-        "mainSector": "",
-        "subSector": "",
-        "marketOid": "",
-        "isLate": "",
-        "term": "",
-        "fromSrc": False,
-        "index": "",
-        "srcCategory": "",
-        "bdkReview": ""
     }
 
-    max_retries = 3
-    retry_count = 0
-    
-    while retry_count < max_retries:
-        try:
-            r = session.post(url, data=json.dumps(payload), timeout=20)
+    def handle_ban():
+        print("⛔ Ban algılandı. 60 saniye bekleniyor...")
+        time.sleep(60)
+        print("🔄 Oturum yenileniyor...")
+        init_session()
 
-            try:
-                data = r.json()
-            except:
-                print("\n❌ JSON parse edilemedi!")
-                print(f"   Hata: {r.text[:300]}")
-                print(f"\n   ⏸ DURMAK KONUMUNDA - IP DEĞİŞTİR VE DEVAM ETMEK İÇİN ENTER'A BAS")
-                
-                # Kullanıcı ENTER'a basana kadar bekle
-                input("   (Bekleniyor... ENTER tuşuna basınız)")
-                
-                print("   ✓ Tekrar deneniyor...\n")
-                time.sleep(2)
-                retry_count += 1
-                continue
-            
-            # Başarılı response?
-            if not data:
-                print("\n❌ Boş response!")
-                print(f"   ⏸ DURMAK KONUMUNDA - IP DEĞİŞTİR VE DEVAM ETMEK İÇİN ENTER'A BAS")
-                
-                # Kullanıcı ENTER'a basana kadar bekle
-                input("   (Bekleniyor... ENTER tuşuna basınız)")
-                
-                print("   ✓ Tekrar deneniyor...\n")
-                time.sleep(2)
-                retry_count += 1
-                continue
+    # İlk deneme
+    r = session.post(url, json=payload, timeout=30)
 
-            # ---- API BAŞARISIZSA ----
-            if isinstance(data, dict) and (not data.get("success", True)):
-                print("❌ API hata:", data)
-                return []
+    # Ban tespiti
+    if (
+        r.status_code != 200 or 
+        "<!DOCTYPE" in r.text or 
+        "html" in r.text.lower()
+    ):
+        handle_ban()
+        r = session.post(url, json=payload, timeout=30)
 
-            if not isinstance(data, list):
-                print("❌ Beklenen list ama gelen:", type(data))
-                print(json.dumps(data, indent=2, ensure_ascii=False))
-                return []
+    # tekrar HTML ise vazgeç
+    try:
+        data = r.json()
+    except:
+        return []
 
-            results = []
+    if not isinstance(data, list):
+        return []
 
-            for item in data:
-                if not isinstance(item, dict):
-                    continue
+    results = []
+    for item in data:
+        if "Finansal" in (item.get("subject") or ""):
+            results.append({
+                "index": item.get("disclosureIndex"),
+                "publishDate": item.get("publishDate"),
+                "summary": item.get("summary"),
+                "url": f"https://www.kap.org.tr/tr/Bildirim/{item.get('disclosureIndex')}"
+            })
 
-                subject = (item.get("subject") or "").strip()
-
-                if "Finansal" not in subject:
-                    continue
-
-                results.append({
-                    "index": item.get("disclosureIndex"),
-                    "publishDate": item.get("publishDate"),
-                    "ruleType": item.get("ruleType"),  # 3 Aylık, 6 Aylık, 9 Aylık, Yıllık
-                    "summary": item.get("summary"),
-                    "url": f"https://www.kap.org.tr/tr/Bildirim/{item.get('disclosureIndex')}"
-                })
-
-            return results
-            
-        except requests.exceptions.RequestException as e:
-            error_msg = str(e)
-            
-            # Ban/Rate limit hatası mı?
-            if "429" in error_msg or "403" in error_msg or "timeout" in error_msg.lower():
-                retry_count += 1
-                if retry_count < max_retries:
-                    print(f"\n⚠ Bağlantı hatası (deneme {retry_count}/{max_retries})!")
-                    print(f"   Hata: {error_msg}")
-                    print(f"\n   ⏸ DURMAK KONUMUNDA - IP DEĞİŞTİR VE DEVAM ETMEK İÇİN ENTER'A BAS")
-                    
-                    # Kullanıcı ENTER'a basana kadar bekle
-                    input("   (Bekleniyor... ENTER tuşuna basınız)")
-                    
-                    print("   ✓ Devam ediliyor...\n")
-                    time.sleep(2)
-                else:
-                    print(f"\n❌ {max_retries} deneme başarısız. Devam edilemiyor.")
-                    return []
-            else:
-                print(f"❌ Bilinmeyen hata: {e}")
-                return []
-        
-        except Exception as e:
-            print(f"❌ Beklenmeyen hata: {e}")
-            return []
-    
-    return []
+    return results
 
 
+# -----------------------------------------------------
 def load_symbol_oid_mapping():
-    """Config'ten semboller ve mapping'ten OID'leri yükle"""
-    # Config'ten semboller
-    symbols = get_stock_symbols()
-    
-    # Mapping dosyasından OID'ler
     with open(MAPPING_FILE, "r", encoding="utf-8") as f:
-        mapping_data = json.load(f)
-    
-    companies = mapping_data.get("companies", {})
-    
-    # Eşleştir
-    symbol_oid_map = {}
-    for symbol in symbols:
-        symbol_upper = symbol.upper()
-        if symbol_upper in companies:
-            symbol_oid_map[symbol_upper] = companies[symbol_upper]["oid"]
-    
-    return symbol_oid_map
+        mapping = json.load(f)["companies"]
+
+    result = {}
+    for s in get_stock_symbols():
+        s2 = s.upper()
+        if s2 in mapping:
+            result[s2] = mapping[s2]["oid"]
+    return result
 
 
 def generate_year_ranges(start_year, end_year):
-    """Yıl aralıklarını oluştur"""
-    year_ranges = []
-    for year in range(start_year, end_year + 1):
-        year_ranges.append((f"{year}-01-01", f"{year}-12-31"))
-    return year_ranges
+    return [(f"{y}-01-01", f"{y}-12-31") for y in range(start_year, end_year + 1)]
 
 
-# ---- KULLANIM ----
+# -----------------------------------------------------
+# MAIN
+# -----------------------------------------------------
 if __name__ == "__main__":
-    print("=" * 70)
-    print("KAP ANNOUNCEMENT SCRAPER")
-    print("=" * 70)
-    
-    # Tarih aralığı ayarla
-    START_YEAR = 2020
-    END_YEAR = 2025
-    
-    # Mapping yükle
-    print("\n📋 Sembol-OID eşleştirmesi yükleniyor...")
-    symbol_oid_map = load_symbol_oid_mapping()
-    
-    print(f"   ✓ {len(symbol_oid_map)} sembol eşleştirildi")
-    print(f"   ✓ Tarih aralığı: {START_YEAR} - {END_YEAR}")
-    
-    # Yıl aralıklarını oluştur
-    year_ranges = generate_year_ranges(START_YEAR, END_YEAR)
-    print(f"   ✓ {len(year_ranges)} yıl aralığı oluşturuldu")
-    
-    # Her sembol için anons çek
-    print("\n🔍 Anonslar çekiliyor...\n")
-    
-    success_count = 0
-    fail_count = 0
-    
-    for symbol, oid in symbol_oid_map.items():
-        print(f"   {symbol}...", end=" ", flush=True)
-        
-        all_reports = []  # Tüm yılların raporlarını topla
-        
-        try:
-            # Her yıl için ayrı ayrı çek
-            for start_date, end_date in year_ranges:
-                reports = fetch_financial_reports(start_date, end_date, oid)
-                all_reports.extend(reports)
-                time.sleep(1)  # Yıllar arası kısa bekleme
-            
-            if all_reports:
-                csv_file = OUTPUT_DIR / f"{symbol}_announcements.csv"
-                
-                with open(csv_file, "w", newline="", encoding="utf-8") as f:
-                    writer = csv.DictWriter(f, fieldnames=["index", "publishDate", "ruleType", "summary", "url"])
-                    writer.writeheader()
-                    writer.writerows(all_reports)
-                
-                print(f"✓ {len(all_reports)} rapor")
-                success_count += 1
-            else:
-                print("⚠ Rapor yok")
-                fail_count += 1
-            
-            # Rate limiting - semboller arası
-            time.sleep(2)
-            
-        except Exception as e:
-            print(f"❌ Hata: {e}")
-            fail_count += 1
-            time.sleep(3)
-    
-    # Özet
-    print("\n" + "=" * 70)
-    print("ÖZET")
-    print("=" * 70)
-    print(f"Toplam sembol: {len(symbol_oid_map)}")
-    print(f"Başarılı: {success_count}")
-    print(f"Başarısız/Boş: {fail_count}")
-    print(f"Yıl aralığı: {START_YEAR}-{END_YEAR} ({len(year_ranges)} yıl)")
-    print(f"Klasör: {OUTPUT_DIR}")
-    print("=" * 70)
+    print("KAP SCRAPER START")
+    init_session()
+
+    symbols = load_symbol_oid_mapping()
+    year_ranges = generate_year_ranges(2020, 2025)
+
+    for symbol, oid in symbols.items():
+        print(f"\n📌 {symbol} çekiliyor...")
+
+        all_data = []
+        for d1, d2 in year_ranges:
+            reports = fetch_financial_reports(d1, d2, oid)
+            all_data.extend(reports)
+            time.sleep(random.uniform(1.2, 2.5))
+
+        if all_data:
+            out_file = OUTPUT_DIR / f"{symbol}_announcements.csv"
+            with open(out_file, "w", newline="", encoding="utf-8") as f:
+                w = csv.DictWriter(f, fieldnames=["index", "publishDate", "ruleType", "summary", "url"])
+                w.writeheader()
+                w.writerows(all_data)
+            print(f"   ✓ {len(all_data)} rapor kaydedildi.")
+        else:
+            print("   ⚠ Veri yok.")

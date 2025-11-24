@@ -176,7 +176,7 @@ def validate_macro_clean():
     files = _validate_csv_files_exist_and_not_empty(
         "data/processed/macro/evds_macro_daily_clean.csv", step_name
     )
-    required = ["date", "usd_try", "eur_try", "tufe", "bist100"]
+    required = ["date", "usd_try", "eur_try", "cpi", "bist100"]
     for f in files:
         df = pd.read_csv(f)
         _check_required_columns(df, required, f, step_name)
@@ -442,7 +442,7 @@ def main():
         },
         {
             "name": "KAP_ANNOUNCEMENT_SCRAPER",
-            "cmd": [PYTHON, "src/quanttrade/data_sources/kap_announcement_scraper.py"],
+            "cmd": [PYTHON, "src/quanttrade/data_sources/deneme.py"],
             "validator": validate_announcements_raw,
         },
         {

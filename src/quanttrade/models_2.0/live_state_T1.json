@@ -1,32 +1,42 @@
 {
-  "cash": 10000.0,
-  "positions": [],
-  "pending_buys": [
+  "cash": 213.2946579999998,
+  "positions": [
     {
       "symbol": "TCELL",
-      "planned_capital": 2000.0,
-      "decision_date": "2025-11-17"
+      "entry_price": 93.625,
+      "shares": 21,
+      "entry_date": "2025-11-18",
+      "days_held": 1
     },
     {
       "symbol": "ZOREN",
-      "planned_capital": 2000.0,
-      "decision_date": "2025-11-17"
+      "entry_price": 3.265,
+      "shares": 612,
+      "entry_date": "2025-11-18",
+      "days_held": 1
     },
     {
       "symbol": "ENKAI",
-      "planned_capital": 2000.0,
-      "decision_date": "2025-11-17"
+      "entry_price": 74.309,
+      "shares": 26,
+      "entry_date": "2025-11-18",
+      "days_held": 1
     },
     {
       "symbol": "ASELS",
-      "planned_capital": 2000.0,
-      "decision_date": "2025-11-17"
+      "entry_price": 187.996,
+      "shares": 10,
+      "entry_date": "2025-11-18",
+      "days_held": 1
     },
     {
       "symbol": "AYDEM",
-      "planned_capital": 2000.0,
-      "decision_date": "2025-11-17"
+      "entry_price": 18.434,
+      "shares": 108,
+      "entry_date": "2025-11-18",
+      "days_held": 1
     }
   ],
-  "last_date": "2025-11-17"
+  "pending_buys": [],
+  "last_date": "2025-11-18"
 }
