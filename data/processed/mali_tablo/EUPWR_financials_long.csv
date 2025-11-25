@@ -1,11 +1,11 @@
-﻿symbol,period,item_code,item_name_tr,item_name_en,value
+symbol,period,item_code,item_name_tr,item_name_en,value
 EUPWR,2020/12,1A,Dönen Varlıklar,CURRENT ASSETS,21626958.0
 EUPWR,2020/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,1109436.0
 EUPWR,2020/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
 EUPWR,2020/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,11780622.0
 EUPWR,2020/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 EUPWR,2020/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,103398.0
-EUPWR,2020/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2020/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2020/12,1AF,Stoklar,Inventories,7887832.0
 EUPWR,2020/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 EUPWR,2020/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,745670.0
@@ -15,13 +15,13 @@ EUPWR,2020/12,1AK,Duran Varlıklar,LONG TERM ASSETS,10394086.0
 EUPWR,2020/12,1B,Ticari Alacaklar,Trade Receivables,4846646.0
 EUPWR,2020/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 EUPWR,2020/12,1BB,Diğer Alacaklar,Other Receivables,1004.0
-EUPWR,2020/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2020/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2020/12,1BC,Finansal Yatırımlar,Financial Investments,18294.0
 EUPWR,2020/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 EUPWR,2020/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 EUPWR,2020/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 EUPWR,2020/12,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2020/12,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+EUPWR,2020/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 EUPWR,2020/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4057150.0
 EUPWR,2020/12,1BGA,Şerefiye,Goodwill,0.0
 EUPWR,2020/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1014833.0
@@ -34,10 +34,10 @@ EUPWR,2020/12,2AA,Finansal Borçlar,Short-Term Financial Loans,7557669.0
 EUPWR,2020/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2020/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,6136936.0
 EUPWR,2020/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,3933.0
-EUPWR,2020/12,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+EUPWR,2020/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 EUPWR,2020/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 EUPWR,2020/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2020/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2020/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2020/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 EUPWR,2020/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,84710.0
 EUPWR,2020/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,2752275.0
@@ -48,10 +48,10 @@ EUPWR,2020/12,2BA,Finansal Borçlar,Long-Term Financial Loans,667249.0
 EUPWR,2020/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2020/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 EUPWR,2020/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2020/12,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+EUPWR,2020/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 EUPWR,2020/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 EUPWR,2020/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2020/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2020/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2020/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,262144.0
 EUPWR,2020/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 EUPWR,2020/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,449442.0
@@ -88,11 +88,11 @@ EUPWR,2020/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (
 EUPWR,2020/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 EUPWR,2020/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,10410160.0
 EUPWR,2020/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,10709111.0
-EUPWR,2020/12,3HA,Yatırım Faaliyetlerinden Gelirler,,0.0
-EUPWR,2020/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-EUPWR,2020/12,3HAB,Diğer Gelir ve Giderler,,-106041.0
+EUPWR,2020/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+EUPWR,2020/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EUPWR,2020/12,3HAB,Diğer Gelir ve Giderler,nan,-106041.0
 EUPWR,2020/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2020/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,10304119.0
+EUPWR,2020/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,10304119.0
 EUPWR,2020/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
 EUPWR,2020/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1605038.0
 EUPWR,2020/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-106041.0
@@ -152,7 +152,7 @@ EUPWR,2021/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,10772.0
 EUPWR,2021/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,12113464.0
 EUPWR,2021/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 EUPWR,2021/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,217937.0
-EUPWR,2021/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2021/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2021/12,1AF,Stoklar,Inventories,9319849.0
 EUPWR,2021/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 EUPWR,2021/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,7438273.0
@@ -162,13 +162,13 @@ EUPWR,2021/12,1AK,Duran Varlıklar,LONG TERM ASSETS,14720552.0
 EUPWR,2021/12,1B,Ticari Alacaklar,Trade Receivables,0.0
 EUPWR,2021/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 EUPWR,2021/12,1BB,Diğer Alacaklar,Other Receivables,2682.0
-EUPWR,2021/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2021/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2021/12,1BC,Finansal Yatırımlar,Financial Investments,10183.0
 EUPWR,2021/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 EUPWR,2021/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 EUPWR,2021/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 EUPWR,2021/12,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2021/12,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+EUPWR,2021/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 EUPWR,2021/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,13100264.0
 EUPWR,2021/12,1BGA,Şerefiye,Goodwill,0.0
 EUPWR,2021/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1510906.0
@@ -181,10 +181,10 @@ EUPWR,2021/12,2AA,Finansal Borçlar,Short-Term Financial Loans,4303434.0
 EUPWR,2021/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2021/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,15912988.0
 EUPWR,2021/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,4907.0
-EUPWR,2021/12,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+EUPWR,2021/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 EUPWR,2021/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 EUPWR,2021/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2021/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2021/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2021/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),369073.0
 EUPWR,2021/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,118174.0
 EUPWR,2021/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,2276673.0
@@ -195,10 +195,10 @@ EUPWR,2021/12,2BA,Finansal Borçlar,Long-Term Financial Loans,27220.0
 EUPWR,2021/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2021/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 EUPWR,2021/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2021/12,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+EUPWR,2021/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 EUPWR,2021/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 EUPWR,2021/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2021/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2021/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2021/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,897392.0
 EUPWR,2021/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 EUPWR,2021/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,1237366.0
@@ -235,11 +235,11 @@ EUPWR,2021/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (
 EUPWR,2021/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 EUPWR,2021/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,15841111.0
 EUPWR,2021/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,14473551.0
-EUPWR,2021/12,3HA,Yatırım Faaliyetlerinden Gelirler,,0.0
-EUPWR,2021/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-EUPWR,2021/12,3HAB,Diğer Gelir ve Giderler,,17330.0
+EUPWR,2021/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+EUPWR,2021/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EUPWR,2021/12,3HAB,Diğer Gelir ve Giderler,nan,17330.0
 EUPWR,2021/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2021/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,15858441.0
+EUPWR,2021/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,15858441.0
 EUPWR,2021/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
 EUPWR,2021/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-2880126.0
 EUPWR,2021/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,17330.0
@@ -293,13 +293,160 @@ EUPWR,2021/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equi
 EUPWR,2021/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
 EUPWR,2021/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,923918.0
 EUPWR,2021/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,1892841.0
+EUPWR,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,119332799.0
+EUPWR,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,6138213.0
+EUPWR,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,71108.0
+EUPWR,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,40118300.0
+EUPWR,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EUPWR,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,4403534.0
+EUPWR,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,44109011.0
+EUPWR,2022/12,1AF,Stoklar,Inventories,18019966.0
+EUPWR,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EUPWR,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,6472667.0
+EUPWR,2022/12,1AI,(Ara Toplam),(Subtotal),119332799.0
+EUPWR,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EUPWR,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,55181454.0
+EUPWR,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+EUPWR,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EUPWR,2022/12,1BB,Diğer Alacaklar,Other Receivables,3150.0
+EUPWR,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EUPWR,2022/12,1BC,Finansal Yatırımlar,Financial Investments,34486.0
+EUPWR,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EUPWR,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EUPWR,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+EUPWR,2022/12,1BFA,Stoklar,Stoklar,0.0
+EUPWR,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EUPWR,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,39519058.0
+EUPWR,2022/12,1BGA,Şerefiye,Goodwill,0.0
+EUPWR,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,13836056.0
+EUPWR,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+EUPWR,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1788704.0
+EUPWR,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,174514254.0
+EUPWR,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+EUPWR,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,73395580.0
+EUPWR,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,12459588.0
+EUPWR,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EUPWR,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,41789985.0
+EUPWR,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,28454.0
+EUPWR,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EUPWR,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EUPWR,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EUPWR,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,13984465.0
+EUPWR,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2854847.0
+EUPWR,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,374600.0
+EUPWR,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1903641.0
+EUPWR,2022/12,2AAGG,(Ara Toplam),(Subtotal),73395580.0
+EUPWR,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EUPWR,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,19322496.0
+EUPWR,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,7621557.0
+EUPWR,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EUPWR,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EUPWR,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EUPWR,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EUPWR,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EUPWR,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EUPWR,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EUPWR,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1849135.0
+EUPWR,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EUPWR,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,9851804.0
+EUPWR,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EUPWR,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,81796178.0
+EUPWR,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,81796178.0
+EUPWR,2022/12,2OA,Ödenmiş Sermaye,Share Capital,9342302.0
+EUPWR,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EUPWR,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+EUPWR,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EUPWR,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EUPWR,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,1300715.0
+EUPWR,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),17859011.0
+EUPWR,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),27517457.0
+EUPWR,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,25776692.0
+EUPWR,2022/12,2ODA,Azınlık Payları,Minority Interests,0.0
+EUPWR,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,174514254.0
+EUPWR,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EUPWR,2022/12,3C,Satış Gelirleri,Net Sales,227387936.0
+EUPWR,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-166440338.0
+EUPWR,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EUPWR,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,60947598.0
+EUPWR,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EUPWR,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EUPWR,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EUPWR,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EUPWR,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EUPWR,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),60947598.0
+EUPWR,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2282996.0
+EUPWR,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-6254525.0
+EUPWR,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1909599.0
+EUPWR,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,15883769.0
+EUPWR,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-15743836.0
+EUPWR,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EUPWR,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,50640413.0
+EUPWR,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,50500479.0
+EUPWR,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,61932.0
+EUPWR,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EUPWR,2022/12,3HAB,Diğer Gelir ve Giderler,nan,-50737.0
+EUPWR,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EUPWR,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,50651607.0
+EUPWR,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1127474.0
+EUPWR,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-12125301.0
+EUPWR,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,11195.0
+EUPWR,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,39653781.0
+EUPWR,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-8630208.0
+EUPWR,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-5368098.0
+EUPWR,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-3262110.0
+EUPWR,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EUPWR,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,31023573.0
+EUPWR,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EUPWR,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EUPWR,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,31023573.0
+EUPWR,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EUPWR,2022/12,3LB,Azınlık Payları,Minority Interests,0.0
+EUPWR,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,31023573.0
+EUPWR,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EUPWR,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EUPWR,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EUPWR,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EUPWR,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,3539330.0
+EUPWR,2022/12,4BA,Kıdem Tazminatı,Severance Payments,936984.0
+EUPWR,2022/12,4BB,Finansman Giderleri,Financial Expenses,-12125301.0
+EUPWR,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
+EUPWR,2022/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EUPWR,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,2795183.0
+EUPWR,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-5733009.0
+EUPWR,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),2795183.0
+EUPWR,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,4038276.0
+EUPWR,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,31023573.0
+EUPWR,2022/12,4CAA,Düzeltmeler:,Adjustments:,12409140.0
+EUPWR,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,3539330.0
+EUPWR,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,1616370.0
+EUPWR,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,7253441.0
+EUPWR,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),43432713.0
+EUPWR,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-36716798.0
+EUPWR,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),6715915.0
+EUPWR,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-2677639.0
+EUPWR,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-14438209.0
+EUPWR,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,207102.0
+EUPWR,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-14231107.0
+EUPWR,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,-10192831.0
+EUPWR,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,17247717.0
+EUPWR,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EUPWR,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EUPWR,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-2886727.0
+EUPWR,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,14360990.0
+EUPWR,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,4168159.0
+EUPWR,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EUPWR,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EUPWR,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,4168159.0
+EUPWR,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EUPWR,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2752150.0
+EUPWR,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,6920309.0
 EUPWR,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,0.0
 EUPWR,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,0.0
 EUPWR,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
 EUPWR,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,0.0
 EUPWR,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 EUPWR,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
-EUPWR,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2022/3,1AF,Stoklar,Inventories,0.0
 EUPWR,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 EUPWR,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,0.0
@@ -309,13 +456,13 @@ EUPWR,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,0.0
 EUPWR,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
 EUPWR,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 EUPWR,2022/3,1BB,Diğer Alacaklar,Other Receivables,0.0
-EUPWR,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2022/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
 EUPWR,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 EUPWR,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 EUPWR,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 EUPWR,2022/3,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2022/3,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+EUPWR,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 EUPWR,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,0.0
 EUPWR,2022/3,1BGA,Şerefiye,Goodwill,0.0
 EUPWR,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
@@ -328,10 +475,10 @@ EUPWR,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,0.0
 EUPWR,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,0.0
 EUPWR,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,0.0
-EUPWR,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+EUPWR,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 EUPWR,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 EUPWR,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 EUPWR,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,0.0
 EUPWR,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
@@ -342,10 +489,10 @@ EUPWR,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
 EUPWR,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 EUPWR,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+EUPWR,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 EUPWR,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 EUPWR,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,0.0
 EUPWR,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 EUPWR,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -382,11 +529,11 @@ EUPWR,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 EUPWR,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 EUPWR,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,6104480.0
 EUPWR,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,7297665.0
-EUPWR,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,,0.0
-EUPWR,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-EUPWR,2022/3,3HAB,Diğer Gelir ve Giderler,,13884.0
+EUPWR,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+EUPWR,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EUPWR,2022/3,3HAB,Diğer Gelir ve Giderler,nan,13884.0
 EUPWR,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,6118364.0
+EUPWR,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,6118364.0
 EUPWR,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1509874.0
 EUPWR,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1473804.0
 EUPWR,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,13884.0
@@ -446,7 +593,7 @@ EUPWR,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
 EUPWR,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,0.0
 EUPWR,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 EUPWR,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
-EUPWR,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2022/6,1AF,Stoklar,Inventories,0.0
 EUPWR,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 EUPWR,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,0.0
@@ -456,13 +603,13 @@ EUPWR,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,0.0
 EUPWR,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
 EUPWR,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 EUPWR,2022/6,1BB,Diğer Alacaklar,Other Receivables,0.0
-EUPWR,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2022/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
 EUPWR,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 EUPWR,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 EUPWR,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 EUPWR,2022/6,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2022/6,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+EUPWR,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 EUPWR,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,0.0
 EUPWR,2022/6,1BGA,Şerefiye,Goodwill,0.0
 EUPWR,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
@@ -475,10 +622,10 @@ EUPWR,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,0.0
 EUPWR,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,0.0
 EUPWR,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,0.0
-EUPWR,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+EUPWR,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 EUPWR,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 EUPWR,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 EUPWR,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,0.0
 EUPWR,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
@@ -489,10 +636,10 @@ EUPWR,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
 EUPWR,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 EUPWR,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+EUPWR,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 EUPWR,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 EUPWR,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,0.0
 EUPWR,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 EUPWR,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -529,11 +676,11 @@ EUPWR,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 EUPWR,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 EUPWR,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,12240683.0
 EUPWR,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,12761756.0
-EUPWR,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,,0.0
-EUPWR,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-EUPWR,2022/6,3HAB,Diğer Gelir ve Giderler,,-25526.0
+EUPWR,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+EUPWR,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EUPWR,2022/6,3HAB,Diğer Gelir ve Giderler,nan,-25526.0
 EUPWR,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,12215156.0
+EUPWR,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,12215156.0
 EUPWR,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1351754.0
 EUPWR,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-2690610.0
 EUPWR,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-25526.0
@@ -593,7 +740,7 @@ EUPWR,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
 EUPWR,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,0.0
 EUPWR,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 EUPWR,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
-EUPWR,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2022/9,1AF,Stoklar,Inventories,0.0
 EUPWR,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 EUPWR,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,0.0
@@ -603,13 +750,13 @@ EUPWR,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,0.0
 EUPWR,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
 EUPWR,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 EUPWR,2022/9,1BB,Diğer Alacaklar,Other Receivables,0.0
-EUPWR,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2022/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
 EUPWR,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 EUPWR,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 EUPWR,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 EUPWR,2022/9,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2022/9,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+EUPWR,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 EUPWR,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,0.0
 EUPWR,2022/9,1BGA,Şerefiye,Goodwill,0.0
 EUPWR,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
@@ -622,10 +769,10 @@ EUPWR,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,0.0
 EUPWR,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,0.0
 EUPWR,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,0.0
-EUPWR,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+EUPWR,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 EUPWR,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 EUPWR,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 EUPWR,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,0.0
 EUPWR,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
@@ -636,10 +783,10 @@ EUPWR,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
 EUPWR,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 EUPWR,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+EUPWR,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 EUPWR,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 EUPWR,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,0.0
 EUPWR,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 EUPWR,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -676,11 +823,11 @@ EUPWR,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 EUPWR,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 EUPWR,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,14492499.0
 EUPWR,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,14859995.0
-EUPWR,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,,0.0
-EUPWR,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-EUPWR,2022/9,3HAB,Diğer Gelir ve Giderler,,-25325.0
+EUPWR,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+EUPWR,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EUPWR,2022/9,3HAB,Diğer Gelir ve Giderler,nan,-25325.0
 EUPWR,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,14467174.0
+EUPWR,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,14467174.0
 EUPWR,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),0.0
 EUPWR,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-2074325.0
 EUPWR,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-25325.0
@@ -734,160 +881,160 @@ EUPWR,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equiv
 EUPWR,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
 EUPWR,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1061639.0
 EUPWR,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,2383001.0
-EUPWR,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,119332799.0
-EUPWR,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,6138213.0
-EUPWR,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,71108.0
-EUPWR,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,40118300.0
-EUPWR,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
-EUPWR,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,4403534.0
-EUPWR,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,44109011.0
-EUPWR,2022/12,1AF,Stoklar,Inventories,18019966.0
-EUPWR,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
-EUPWR,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,6472667.0
-EUPWR,2022/12,1AI,(Ara Toplam),(Subtotal),119332799.0
-EUPWR,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
-EUPWR,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,55181454.0
-EUPWR,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
-EUPWR,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
-EUPWR,2022/12,1BB,Diğer Alacaklar,Other Receivables,3150.0
-EUPWR,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-EUPWR,2022/12,1BC,Finansal Yatırımlar,Financial Investments,34486.0
-EUPWR,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
-EUPWR,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
-EUPWR,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
-EUPWR,2022/12,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2022/12,1BFAA,Kullanım Hakkı Varlıkları,,0.0
-EUPWR,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,39519058.0
-EUPWR,2022/12,1BGA,Şerefiye,Goodwill,0.0
-EUPWR,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,13836056.0
-EUPWR,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
-EUPWR,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1788704.0
-EUPWR,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,174514254.0
-EUPWR,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
-EUPWR,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,73395580.0
-EUPWR,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,12459588.0
-EUPWR,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-EUPWR,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,41789985.0
-EUPWR,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,28454.0
-EUPWR,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
-EUPWR,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
-EUPWR,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,13984465.0
-EUPWR,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2854847.0
-EUPWR,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,374600.0
-EUPWR,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1903641.0
-EUPWR,2022/12,2AAGG,(Ara Toplam),(Subtotal),73395580.0
-EUPWR,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
-EUPWR,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,19322496.0
-EUPWR,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,7621557.0
-EUPWR,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-EUPWR,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
-EUPWR,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
-EUPWR,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
-EUPWR,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
-EUPWR,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1849135.0
-EUPWR,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
-EUPWR,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,9851804.0
-EUPWR,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
-EUPWR,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,81796178.0
-EUPWR,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,81796178.0
-EUPWR,2022/12,2OA,Ödenmiş Sermaye,Share Capital,9342302.0
-EUPWR,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
-EUPWR,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
-EUPWR,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
-EUPWR,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
-EUPWR,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,1300715.0
-EUPWR,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),17859011.0
-EUPWR,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),27517457.0
-EUPWR,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,25776692.0
-EUPWR,2022/12,2ODA,Azınlık Payları,Minority Interests,0.0
-EUPWR,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,174514254.0
-EUPWR,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
-EUPWR,2022/12,3C,Satış Gelirleri,Net Sales,227387936.0
-EUPWR,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-166440338.0
-EUPWR,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
-EUPWR,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,60947598.0
-EUPWR,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
-EUPWR,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
-EUPWR,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
-EUPWR,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
-EUPWR,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
-EUPWR,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),60947598.0
-EUPWR,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2282996.0
-EUPWR,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-6254525.0
-EUPWR,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1909599.0
-EUPWR,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,15883769.0
-EUPWR,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-15743836.0
-EUPWR,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
-EUPWR,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,50640413.0
-EUPWR,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,50500479.0
-EUPWR,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,,61932.0
-EUPWR,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-EUPWR,2022/12,3HAB,Diğer Gelir ve Giderler,,-50737.0
-EUPWR,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,50651607.0
-EUPWR,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1127474.0
-EUPWR,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-12125301.0
-EUPWR,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,11195.0
-EUPWR,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,39653781.0
-EUPWR,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-8630208.0
-EUPWR,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-5368098.0
-EUPWR,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-3262110.0
-EUPWR,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
-EUPWR,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,31023573.0
-EUPWR,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
-EUPWR,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
-EUPWR,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,31023573.0
-EUPWR,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
-EUPWR,2022/12,3LB,Azınlık Payları,Minority Interests,0.0
-EUPWR,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,31023573.0
-EUPWR,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
-EUPWR,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
-EUPWR,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
-EUPWR,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
-EUPWR,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,3539330.0
-EUPWR,2022/12,4BA,Kıdem Tazminatı,Severance Payments,936984.0
-EUPWR,2022/12,4BB,Finansman Giderleri,Financial Expenses,-12125301.0
-EUPWR,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,0.0
-EUPWR,2022/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
-EUPWR,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,2795183.0
-EUPWR,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-5733009.0
-EUPWR,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),2795183.0
-EUPWR,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,4038276.0
-EUPWR,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,31023573.0
-EUPWR,2022/12,4CAA,Düzeltmeler:,Adjustments:,12409140.0
-EUPWR,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,3539330.0
-EUPWR,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,1616370.0
-EUPWR,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,7253441.0
-EUPWR,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),43432713.0
-EUPWR,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-36716798.0
-EUPWR,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),6715915.0
-EUPWR,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-2677639.0
-EUPWR,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-14438209.0
-EUPWR,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,207102.0
-EUPWR,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-14231107.0
-EUPWR,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,-10192831.0
-EUPWR,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,17247717.0
-EUPWR,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
-EUPWR,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
-EUPWR,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-2886727.0
-EUPWR,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,14360990.0
-EUPWR,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,4168159.0
-EUPWR,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
-EUPWR,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
-EUPWR,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,4168159.0
-EUPWR,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
-EUPWR,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,2752150.0
-EUPWR,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,6920309.0
+EUPWR,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,291159325.0
+EUPWR,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,22383279.0
+EUPWR,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,65536175.0
+EUPWR,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,40980018.0
+EUPWR,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EUPWR,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,6722220.0
+EUPWR,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,61282582.0
+EUPWR,2023/12,1AF,Stoklar,Inventories,72344997.0
+EUPWR,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EUPWR,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,21910055.0
+EUPWR,2023/12,1AI,(Ara Toplam),(Subtotal),291159325.0
+EUPWR,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EUPWR,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,112293965.0
+EUPWR,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+EUPWR,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EUPWR,2023/12,1BB,Diğer Alacaklar,Other Receivables,250616.0
+EUPWR,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EUPWR,2023/12,1BC,Finansal Yatırımlar,Financial Investments,21837.0
+EUPWR,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EUPWR,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EUPWR,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+EUPWR,2023/12,1BFA,Stoklar,Stoklar,0.0
+EUPWR,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EUPWR,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,89961955.0
+EUPWR,2023/12,1BGA,Şerefiye,Goodwill,0.0
+EUPWR,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,20533106.0
+EUPWR,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+EUPWR,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1526450.0
+EUPWR,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,403453290.0
+EUPWR,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+EUPWR,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,115709243.0
+EUPWR,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,10840553.0
+EUPWR,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EUPWR,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,67610889.0
+EUPWR,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,14361354.0
+EUPWR,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EUPWR,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EUPWR,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EUPWR,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,16533656.0
+EUPWR,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2337740.0
+EUPWR,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,516864.0
+EUPWR,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,3508187.0
+EUPWR,2023/12,2AAGG,(Ara Toplam),(Subtotal),115709243.0
+EUPWR,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EUPWR,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,28058851.0
+EUPWR,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,11443714.0
+EUPWR,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EUPWR,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EUPWR,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EUPWR,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EUPWR,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EUPWR,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EUPWR,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EUPWR,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1149865.0
+EUPWR,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EUPWR,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,15465273.0
+EUPWR,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EUPWR,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,259685195.0
+EUPWR,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,248794899.0
+EUPWR,2023/12,2OA,Ödenmiş Sermaye,Share Capital,7459827.0
+EUPWR,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EUPWR,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,119495580.0
+EUPWR,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EUPWR,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EUPWR,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2243543.0
+EUPWR,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),40561793.0
+EUPWR,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),37439923.0
+EUPWR,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,41594233.0
+EUPWR,2023/12,2ODA,Azınlık Payları,Minority Interests,10890296.0
+EUPWR,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,403453290.0
+EUPWR,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EUPWR,2023/12,3C,Satış Gelirleri,Net Sales,391436483.0
+EUPWR,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-290628272.0
+EUPWR,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EUPWR,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,100808211.0
+EUPWR,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EUPWR,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EUPWR,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EUPWR,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EUPWR,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EUPWR,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),100808211.0
+EUPWR,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-4256535.0
+EUPWR,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-10274026.0
+EUPWR,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-4375342.0
+EUPWR,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,27193069.0
+EUPWR,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-47311007.0
+EUPWR,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EUPWR,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,61784369.0
+EUPWR,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,81902307.0
+EUPWR,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,54586234.0
+EUPWR,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-5993318.0
+EUPWR,2023/12,3HAB,Diğer Gelir ve Giderler,nan,-186541.0
+EUPWR,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EUPWR,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,110190743.0
+EUPWR,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),22826414.0
+EUPWR,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-60487898.0
+EUPWR,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,48406375.0
+EUPWR,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,72529259.0
+EUPWR,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-17559703.0
+EUPWR,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-18436509.0
+EUPWR,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,876806.0
+EUPWR,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EUPWR,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,54969556.0
+EUPWR,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+EUPWR,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EUPWR,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,54969556.0
+EUPWR,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+EUPWR,2023/12,3LB,Azınlık Payları,Minority Interests,8632171.0
+EUPWR,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,46337385.0
+EUPWR,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EUPWR,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EUPWR,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EUPWR,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EUPWR,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,8291865.0
+EUPWR,2023/12,4BA,Kıdem Tazminatı,Severance Payments,520552.0
+EUPWR,2023/12,4BB,Finansman Giderleri,Financial Expenses,-60487898.0
+EUPWR,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,407339936.0
+EUPWR,2023/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EUPWR,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,62306893.0
+EUPWR,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,49214733.0
+EUPWR,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),62306893.0
+EUPWR,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-86323980.0
+EUPWR,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,46337385.0
+EUPWR,2023/12,4CAA,Düzeltmeler:,Adjustments:,13546951.0
+EUPWR,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,8291865.0
+EUPWR,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,1155841.0
+EUPWR,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,21263540.0
+EUPWR,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),59884336.0
+EUPWR,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-130793982.0
+EUPWR,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-70909646.0
+EUPWR,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-15414334.0
+EUPWR,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-58357763.0
+EUPWR,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,991500.0
+EUPWR,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-57366262.0
+EUPWR,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,-143690243.0
+EUPWR,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,16077950.0
+EUPWR,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EUPWR,2023/12,4CBC,Sermaye Artırımı,Rights Issue,151792923.0
+EUPWR,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-3444819.0
+EUPWR,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,164426054.0
+EUPWR,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,20735811.0
+EUPWR,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EUPWR,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EUPWR,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,20735811.0
+EUPWR,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EUPWR,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,6966773.0
+EUPWR,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,27702584.0
 EUPWR,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,76612468.0
 EUPWR,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,6022108.0
 EUPWR,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,24920.0
 EUPWR,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,9144954.0
 EUPWR,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 EUPWR,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,2117593.0
-EUPWR,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,37746734.0
+EUPWR,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,37746734.0
 EUPWR,2023/3,1AF,Stoklar,Inventories,7751217.0
 EUPWR,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 EUPWR,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,13804941.0
@@ -897,13 +1044,13 @@ EUPWR,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,33257382.0
 EUPWR,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
 EUPWR,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 EUPWR,2023/3,1BB,Diğer Alacaklar,Other Receivables,1866.0
-EUPWR,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2023/3,1BC,Finansal Yatırımlar,Financial Investments,16989.0
 EUPWR,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 EUPWR,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 EUPWR,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 EUPWR,2023/3,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2023/3,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+EUPWR,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 EUPWR,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,27811011.0
 EUPWR,2023/3,1BGA,Şerefiye,Goodwill,0.0
 EUPWR,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,4174104.0
@@ -916,10 +1063,10 @@ EUPWR,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,7668297.0
 EUPWR,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,27379068.0
 EUPWR,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,28565.0
-EUPWR,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+EUPWR,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 EUPWR,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 EUPWR,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,6393311.0
+EUPWR,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,6393311.0
 EUPWR,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),753260.0
 EUPWR,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,332455.0
 EUPWR,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,2550110.0
@@ -930,10 +1077,10 @@ EUPWR,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,8700009.0
 EUPWR,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 EUPWR,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+EUPWR,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 EUPWR,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 EUPWR,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1169748.0
 EUPWR,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 EUPWR,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,5157794.0
@@ -970,11 +1117,11 @@ EUPWR,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 EUPWR,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 EUPWR,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,12999627.0
 EUPWR,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,12949928.0
-EUPWR,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,,21806.0
-EUPWR,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-41125.0
-EUPWR,2023/3,3HAB,Diğer Gelir ve Giderler,,171750.0
+EUPWR,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,21806.0
+EUPWR,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-41125.0
+EUPWR,2023/3,3HAB,Diğer Gelir ve Giderler,nan,171750.0
 EUPWR,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,13152059.0
+EUPWR,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,13152059.0
 EUPWR,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),150156.0
 EUPWR,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-6788614.0
 EUPWR,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,152432.0
@@ -1034,7 +1181,7 @@ EUPWR,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,63284550
 EUPWR,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,23944012.0
 EUPWR,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 EUPWR,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,2162074.0
-EUPWR,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,22136291.0
+EUPWR,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,22136291.0
 EUPWR,2023/6,1AF,Stoklar,Inventories,23871223.0
 EUPWR,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 EUPWR,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,16580195.0
@@ -1044,13 +1191,13 @@ EUPWR,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,29500456.0
 EUPWR,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
 EUPWR,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 EUPWR,2023/6,1BB,Diğer Alacaklar,Other Receivables,1624.0
-EUPWR,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2023/6,1BC,Finansal Yatırımlar,Financial Investments,12602.0
 EUPWR,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 EUPWR,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 EUPWR,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 EUPWR,2023/6,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2023/6,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+EUPWR,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 EUPWR,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,24289861.0
 EUPWR,2023/6,1BGA,Şerefiye,Goodwill,0.0
 EUPWR,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3036073.0
@@ -1063,10 +1210,10 @@ EUPWR,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,5778172.0
 EUPWR,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,36705399.0
 EUPWR,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,181217.0
-EUPWR,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+EUPWR,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 EUPWR,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 EUPWR,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,7430343.0
+EUPWR,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,7430343.0
 EUPWR,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4101532.0
 EUPWR,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,273023.0
 EUPWR,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,2178812.0
@@ -1077,10 +1224,10 @@ EUPWR,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,8512772.0
 EUPWR,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 EUPWR,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+EUPWR,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 EUPWR,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 EUPWR,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1046015.0
 EUPWR,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 EUPWR,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,4898568.0
@@ -1117,11 +1264,11 @@ EUPWR,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 EUPWR,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 EUPWR,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,16151311.0
 EUPWR,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,22180761.0
-EUPWR,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,,50165023.0
-EUPWR,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-39241.0
-EUPWR,2023/6,3HAB,Diğer Gelir ve Giderler,,-185194.0
+EUPWR,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,50165023.0
+EUPWR,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-39241.0
+EUPWR,2023/6,3HAB,Diğer Gelir ve Giderler,nan,-185194.0
 EUPWR,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,66091899.0
+EUPWR,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,66091899.0
 EUPWR,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),18221125.0
 EUPWR,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-20135794.0
 EUPWR,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,49940588.0
@@ -1181,7 +1328,7 @@ EUPWR,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,52831036
 EUPWR,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,29120324.0
 EUPWR,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 EUPWR,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,2641399.0
-EUPWR,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,29593816.0
+EUPWR,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,29593816.0
 EUPWR,2023/9,1AF,Stoklar,Inventories,20038248.0
 EUPWR,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 EUPWR,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,11821155.0
@@ -1191,13 +1338,13 @@ EUPWR,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,39092941.0
 EUPWR,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
 EUPWR,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 EUPWR,2023/9,1BB,Diğer Alacaklar,Other Receivables,1531.0
-EUPWR,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2023/9,1BC,Finansal Yatırımlar,Financial Investments,16262.0
 EUPWR,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 EUPWR,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 EUPWR,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 EUPWR,2023/9,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2023/9,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+EUPWR,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 EUPWR,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,33144243.0
 EUPWR,2023/9,1BGA,Şerefiye,Goodwill,0.0
 EUPWR,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,4224969.0
@@ -1210,10 +1357,10 @@ EUPWR,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,8150368.0
 EUPWR,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,36242653.0
 EUPWR,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,72486.0
-EUPWR,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+EUPWR,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 EUPWR,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 EUPWR,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,8151134.0
+EUPWR,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,8151134.0
 EUPWR,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),3053015.0
 EUPWR,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,208452.0
 EUPWR,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,2718771.0
@@ -1224,10 +1371,10 @@ EUPWR,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,8536498.0
 EUPWR,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 EUPWR,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+EUPWR,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 EUPWR,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 EUPWR,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1443740.0
 EUPWR,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 EUPWR,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,4981842.0
@@ -1264,11 +1411,11 @@ EUPWR,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 EUPWR,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 EUPWR,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,50348499.0
 EUPWR,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,50074567.0
-EUPWR,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,,46289614.0
-EUPWR,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-30497.0
-EUPWR,2023/9,3HAB,Diğer Gelir ve Giderler,,-113699.0
+EUPWR,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,46289614.0
+EUPWR,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-30497.0
+EUPWR,2023/9,3HAB,Diğer Gelir ve Giderler,nan,-113699.0
 EUPWR,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,96493917.0
+EUPWR,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,96493917.0
 EUPWR,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),18997066.0
 EUPWR,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-69077985.0
 EUPWR,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,46145418.0
@@ -1322,160 +1469,158 @@ EUPWR,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equiv
 EUPWR,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
 EUPWR,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,7036998.0
 EUPWR,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,35700376.0
-EUPWR,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,291159325.0
-EUPWR,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,22383279.0
-EUPWR,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,65536175.0
-EUPWR,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,40980018.0
-EUPWR,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
-EUPWR,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,6722220.0
-EUPWR,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,61282582.0
-EUPWR,2023/12,1AF,Stoklar,Inventories,72344997.0
-EUPWR,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
-EUPWR,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,21910055.0
-EUPWR,2023/12,1AI,(Ara Toplam),(Subtotal),291159325.0
-EUPWR,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
-EUPWR,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,112293965.0
-EUPWR,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
-EUPWR,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
-EUPWR,2023/12,1BB,Diğer Alacaklar,Other Receivables,250616.0
-EUPWR,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-EUPWR,2023/12,1BC,Finansal Yatırımlar,Financial Investments,21837.0
-EUPWR,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
-EUPWR,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
-EUPWR,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
-EUPWR,2023/12,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2023/12,1BFAA,Kullanım Hakkı Varlıkları,,0.0
-EUPWR,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,89961955.0
-EUPWR,2023/12,1BGA,Şerefiye,Goodwill,0.0
-EUPWR,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,20533106.0
-EUPWR,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
-EUPWR,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,1526450.0
-EUPWR,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,403453290.0
-EUPWR,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
-EUPWR,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,115709243.0
-EUPWR,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,10840553.0
-EUPWR,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-EUPWR,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,67610889.0
-EUPWR,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,14361354.0
-EUPWR,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
-EUPWR,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
-EUPWR,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,16533656.0
-EUPWR,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),2337740.0
-EUPWR,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,516864.0
-EUPWR,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,3508187.0
-EUPWR,2023/12,2AAGG,(Ara Toplam),(Subtotal),115709243.0
-EUPWR,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
-EUPWR,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,28058851.0
-EUPWR,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,11443714.0
-EUPWR,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-EUPWR,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
-EUPWR,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
-EUPWR,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
-EUPWR,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
-EUPWR,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1149865.0
-EUPWR,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
-EUPWR,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,15465273.0
-EUPWR,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
-EUPWR,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,259685195.0
-EUPWR,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,248794899.0
-EUPWR,2023/12,2OA,Ödenmiş Sermaye,Share Capital,7459827.0
-EUPWR,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
-EUPWR,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,119495580.0
-EUPWR,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
-EUPWR,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
-EUPWR,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2243543.0
-EUPWR,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),40561793.0
-EUPWR,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),37439923.0
-EUPWR,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,41594233.0
-EUPWR,2023/12,2ODA,Azınlık Payları,Minority Interests,10890296.0
-EUPWR,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,403453290.0
-EUPWR,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
-EUPWR,2023/12,3C,Satış Gelirleri,Net Sales,391436483.0
-EUPWR,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-290628272.0
-EUPWR,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
-EUPWR,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,100808211.0
-EUPWR,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
-EUPWR,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
-EUPWR,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
-EUPWR,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
-EUPWR,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
-EUPWR,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),100808211.0
-EUPWR,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-4256535.0
-EUPWR,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-10274026.0
-EUPWR,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-4375342.0
-EUPWR,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,27193069.0
-EUPWR,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-47311007.0
-EUPWR,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
-EUPWR,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,61784369.0
-EUPWR,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,81902307.0
-EUPWR,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,,54586234.0
-EUPWR,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-5993318.0
-EUPWR,2023/12,3HAB,Diğer Gelir ve Giderler,,-186541.0
-EUPWR,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,110190743.0
-EUPWR,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),22826414.0
-EUPWR,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-60487898.0
-EUPWR,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,48406375.0
-EUPWR,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,72529259.0
-EUPWR,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-17559703.0
-EUPWR,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-18436509.0
-EUPWR,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,876806.0
-EUPWR,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
-EUPWR,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,54969556.0
-EUPWR,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
-EUPWR,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
-EUPWR,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,54969556.0
-EUPWR,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
-EUPWR,2023/12,3LB,Azınlık Payları,Minority Interests,8632171.0
-EUPWR,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,46337385.0
-EUPWR,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
-EUPWR,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
-EUPWR,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
-EUPWR,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
-EUPWR,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,8291865.0
-EUPWR,2023/12,4BA,Kıdem Tazminatı,Severance Payments,520552.0
-EUPWR,2023/12,4BB,Finansman Giderleri,Financial Expenses,-60487898.0
-EUPWR,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,407339936.0
-EUPWR,2023/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
-EUPWR,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,62306893.0
-EUPWR,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,49214733.0
-EUPWR,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),62306893.0
-EUPWR,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-86323980.0
-EUPWR,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,46337385.0
-EUPWR,2023/12,4CAA,Düzeltmeler:,Adjustments:,13546951.0
-EUPWR,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,8291865.0
-EUPWR,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,1155841.0
-EUPWR,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,21263540.0
-EUPWR,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),59884336.0
-EUPWR,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-130793982.0
-EUPWR,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-70909646.0
-EUPWR,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-15414334.0
-EUPWR,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-58357763.0
-EUPWR,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,991500.0
-EUPWR,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-57366262.0
-EUPWR,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,-143690243.0
-EUPWR,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,16077950.0
-EUPWR,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
-EUPWR,2023/12,4CBC,Sermaye Artırımı,Rights Issue,151792923.0
-EUPWR,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-3444819.0
-EUPWR,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,164426054.0
-EUPWR,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,20735811.0
-EUPWR,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
-EUPWR,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
-EUPWR,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,20735811.0
-EUPWR,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
-EUPWR,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,6966773.0
-EUPWR,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,27702584.0
+EUPWR,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,265414612.0
+EUPWR,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,10450987.0
+EUPWR,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,24072758.0
+EUPWR,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,62117950.0
+EUPWR,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+EUPWR,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,3717164.0
+EUPWR,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,73516548.0
+EUPWR,2024/12,1AF,Stoklar,Inventories,78341803.0
+EUPWR,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+EUPWR,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,13197401.0
+EUPWR,2024/12,1AI,(Ara Toplam),(Subtotal),265414612.0
+EUPWR,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+EUPWR,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,150243203.0
+EUPWR,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+EUPWR,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+EUPWR,2024/12,1BB,Diğer Alacaklar,Other Receivables,99652.0
+EUPWR,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+EUPWR,2024/12,1BC,Finansal Yatırımlar,Financial Investments,25410.0
+EUPWR,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+EUPWR,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+EUPWR,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,522035.0
+EUPWR,2024/12,1BFA,Stoklar,Stoklar,0.0
+EUPWR,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+EUPWR,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,114907340.0
+EUPWR,2024/12,1BGA,Şerefiye,Goodwill,0.0
+EUPWR,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,24065661.0
+EUPWR,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+EUPWR,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,10623106.0
+EUPWR,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,415657815.0
+EUPWR,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+EUPWR,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,90922416.0
+EUPWR,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,6648225.0
+EUPWR,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EUPWR,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,45655649.0
+EUPWR,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,15317231.0
+EUPWR,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+EUPWR,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+EUPWR,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+EUPWR,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,18088842.0
+EUPWR,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),449567.0
+EUPWR,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,1241456.0
+EUPWR,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,3521446.0
+EUPWR,2024/12,2AAGG,(Ara Toplam),(Subtotal),90922416.0
+EUPWR,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+EUPWR,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,36983235.0
+EUPWR,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,15911272.0
+EUPWR,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+EUPWR,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+EUPWR,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+EUPWR,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+EUPWR,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+EUPWR,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+EUPWR,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+EUPWR,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1979474.0
+EUPWR,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+EUPWR,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,19092490.0
+EUPWR,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+EUPWR,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,287752164.0
+EUPWR,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,269143062.0
+EUPWR,2024/12,2OA,Ödenmiş Sermaye,Share Capital,18673714.0
+EUPWR,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+EUPWR,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,102519430.0
+EUPWR,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+EUPWR,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+EUPWR,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,3577162.0
+EUPWR,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),80407514.0
+EUPWR,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),7917859.0
+EUPWR,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,51298735.0
+EUPWR,2024/12,2ODA,Azınlık Payları,Minority Interests,18609102.0
+EUPWR,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,415657815.0
+EUPWR,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+EUPWR,2024/12,3C,Satış Gelirleri,Net Sales,313627708.0
+EUPWR,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-235645271.0
+EUPWR,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+EUPWR,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,77982437.0
+EUPWR,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+EUPWR,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+EUPWR,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+EUPWR,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+EUPWR,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+EUPWR,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),77982437.0
+EUPWR,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-8352747.0
+EUPWR,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-15543199.0
+EUPWR,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-4661311.0
+EUPWR,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,32066958.0
+EUPWR,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-33651062.0
+EUPWR,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+EUPWR,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,47841075.0
+EUPWR,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,49425179.0
+EUPWR,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,13633056.0
+EUPWR,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-153042.0
+EUPWR,2024/12,3HAB,Diğer Gelir ve Giderler,nan,-117138.0
+EUPWR,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+EUPWR,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,61203951.0
+EUPWR,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),4141480.0
+EUPWR,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-41923606.0
+EUPWR,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,13362876.0
+EUPWR,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,23421825.0
+EUPWR,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-11969970.0
+EUPWR,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-5436938.0
+EUPWR,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-6533032.0
+EUPWR,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+EUPWR,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,11451856.0
+EUPWR,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+EUPWR,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,11451856.0
+EUPWR,2024/12,3LB,Azınlık Payları,Minority Interests,2938932.0
+EUPWR,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,8512924.0
+EUPWR,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+EUPWR,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+EUPWR,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+EUPWR,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+EUPWR,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,7913233.0
+EUPWR,2024/12,4BA,Kıdem Tazminatı,Severance Payments,761737.0
+EUPWR,2024/12,4BB,Finansman Giderleri,Financial Expenses,-41923606.0
+EUPWR,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,333479928.0
+EUPWR,2024/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
+EUPWR,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-5867637.0
+EUPWR,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-18663484.0
+EUPWR,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-5867637.0
+EUPWR,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,15094872.0
+EUPWR,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,8512924.0
+EUPWR,2024/12,4CAA,Düzeltmeler:,Adjustments:,13369859.0
+EUPWR,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,7913233.0
+EUPWR,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,2108590.0
+EUPWR,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,18498271.0
+EUPWR,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),21882783.0
+EUPWR,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-539748.0
+EUPWR,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),21343034.0
+EUPWR,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-6248163.0
+EUPWR,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-31396756.0
+EUPWR,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,3479291.0
+EUPWR,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-27917465.0
+EUPWR,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,-12822594.0
+EUPWR,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,6107636.0
+EUPWR,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+EUPWR,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+EUPWR,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-7235552.0
+EUPWR,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1127916.0
+EUPWR,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-13950510.0
+EUPWR,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+EUPWR,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+EUPWR,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-13950510.0
+EUPWR,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+EUPWR,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,25186939.0
+EUPWR,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,11236429.0
 EUPWR,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,215024951.0
 EUPWR,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,4787686.0
 EUPWR,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,43601547.0
 EUPWR,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,43178403.0
 EUPWR,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 EUPWR,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,7241154.0
-EUPWR,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,44755284.0
+EUPWR,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,44755284.0
 EUPWR,2024/3,1AF,Stoklar,Inventories,54289195.0
 EUPWR,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 EUPWR,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,17171682.0
@@ -1485,13 +1630,13 @@ EUPWR,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,82952145.0
 EUPWR,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
 EUPWR,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 EUPWR,2024/3,1BB,Diğer Alacaklar,Other Receivables,158269.0
-EUPWR,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2024/3,1BC,Finansal Yatırımlar,Financial Investments,36978.0
 EUPWR,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 EUPWR,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 EUPWR,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 EUPWR,2024/3,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2024/3,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+EUPWR,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 EUPWR,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,66024840.0
 EUPWR,2024/3,1BGA,Şerefiye,Goodwill,0.0
 EUPWR,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,14877317.0
@@ -1504,10 +1649,10 @@ EUPWR,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,7451088.0
 EUPWR,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,40175769.0
 EUPWR,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,10714515.0
-EUPWR,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+EUPWR,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 EUPWR,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 EUPWR,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,20030578.0
+EUPWR,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,20030578.0
 EUPWR,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1390414.0
 EUPWR,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,462132.0
 EUPWR,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,3665424.0
@@ -1518,10 +1663,10 @@ EUPWR,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,9650657.0
 EUPWR,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 EUPWR,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+EUPWR,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 EUPWR,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 EUPWR,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,964086.0
 EUPWR,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 EUPWR,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -1558,11 +1703,11 @@ EUPWR,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 EUPWR,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 EUPWR,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,12784064.0
 EUPWR,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,12794109.0
-EUPWR,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,,6333053.0
-EUPWR,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-EUPWR,2024/3,3HAB,Diğer Gelir ve Giderler,,14599.0
+EUPWR,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,6333053.0
+EUPWR,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EUPWR,2024/3,3HAB,Diğer Gelir ve Giderler,nan,14599.0
 EUPWR,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,19131716.0
+EUPWR,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,19131716.0
 EUPWR,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1218814.0
 EUPWR,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-11798580.0
 EUPWR,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,6347653.0
@@ -1622,7 +1767,7 @@ EUPWR,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,37220916
 EUPWR,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,29703849.0
 EUPWR,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 EUPWR,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,1855601.0
-EUPWR,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,43416359.0
+EUPWR,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,43416359.0
 EUPWR,2024/6,1AF,Stoklar,Inventories,69047203.0
 EUPWR,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 EUPWR,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,24677622.0
@@ -1632,13 +1777,13 @@ EUPWR,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,93039230.0
 EUPWR,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
 EUPWR,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 EUPWR,2024/6,1BB,Diğer Alacaklar,Other Receivables,155662.0
-EUPWR,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2024/6,1BC,Finansal Yatırımlar,Financial Investments,16907.0
 EUPWR,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 EUPWR,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 EUPWR,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,348940.0
 EUPWR,2024/6,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2024/6,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+EUPWR,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 EUPWR,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,74221947.0
 EUPWR,2024/6,1BGA,Şerefiye,Goodwill,0.0
 EUPWR,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,16650145.0
@@ -1651,10 +1796,10 @@ EUPWR,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,6479096.0
 EUPWR,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,47337230.0
 EUPWR,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,9858417.0
-EUPWR,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+EUPWR,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 EUPWR,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 EUPWR,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,16837736.0
+EUPWR,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,16837736.0
 EUPWR,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),225876.0
 EUPWR,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,714179.0
 EUPWR,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,3036889.0
@@ -1665,10 +1810,10 @@ EUPWR,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,8744272.0
 EUPWR,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 EUPWR,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+EUPWR,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 EUPWR,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 EUPWR,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,956202.0
 EUPWR,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 EUPWR,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,17053212.0
@@ -1705,11 +1850,11 @@ EUPWR,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 EUPWR,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 EUPWR,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,25007329.0
 EUPWR,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,24163832.0
-EUPWR,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,,9233276.0
-EUPWR,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-92088.0
-EUPWR,2024/6,3HAB,Diğer Gelir ve Giderler,,21852.0
+EUPWR,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,9233276.0
+EUPWR,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-92088.0
+EUPWR,2024/6,3HAB,Diğer Gelir ve Giderler,nan,21852.0
 EUPWR,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,34170369.0
+EUPWR,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,34170369.0
 EUPWR,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1685476.0
 EUPWR,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-20123313.0
 EUPWR,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,9163040.0
@@ -1769,7 +1914,7 @@ EUPWR,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,35674336
 EUPWR,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,39457617.0
 EUPWR,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 EUPWR,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,1879324.0
-EUPWR,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,57877627.0
+EUPWR,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,57877627.0
 EUPWR,2024/9,1AF,Stoklar,Inventories,65113406.0
 EUPWR,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 EUPWR,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,23060952.0
@@ -1779,13 +1924,13 @@ EUPWR,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,106159672.0
 EUPWR,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
 EUPWR,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 EUPWR,2024/9,1BB,Diğer Alacaklar,Other Receivables,149755.0
-EUPWR,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2024/9,1BC,Finansal Yatırımlar,Financial Investments,14423.0
 EUPWR,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 EUPWR,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 EUPWR,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,335698.0
 EUPWR,2024/9,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2024/9,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+EUPWR,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 EUPWR,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,83311402.0
 EUPWR,2024/9,1BGA,Şerefiye,Goodwill,0.0
 EUPWR,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,16696789.0
@@ -1798,10 +1943,10 @@ EUPWR,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,5118321.0
 EUPWR,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,43095619.0
 EUPWR,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,11799225.0
-EUPWR,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+EUPWR,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 EUPWR,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 EUPWR,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,19199590.0
+EUPWR,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,19199590.0
 EUPWR,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),848972.0
 EUPWR,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,914093.0
 EUPWR,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,3298267.0
@@ -1812,10 +1957,10 @@ EUPWR,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,14346844.0
 EUPWR,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 EUPWR,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+EUPWR,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 EUPWR,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 EUPWR,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1129730.0
 EUPWR,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 EUPWR,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,19139121.0
@@ -1852,11 +1997,11 @@ EUPWR,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 EUPWR,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 EUPWR,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,43616109.0
 EUPWR,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,40548699.0
-EUPWR,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,,12413631.0
-EUPWR,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-104182.0
-EUPWR,2024/9,3HAB,Diğer Gelir ve Giderler,,9263.0
+EUPWR,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,12413631.0
+EUPWR,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-104182.0
+EUPWR,2024/9,3HAB,Diğer Gelir ve Giderler,nan,9263.0
 EUPWR,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,55934820.0
+EUPWR,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,55934820.0
 EUPWR,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),3041202.0
 EUPWR,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-35795880.0
 EUPWR,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,12318711.0
@@ -1910,158 +2055,13 @@ EUPWR,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equiv
 EUPWR,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
 EUPWR,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,25649845.0
 EUPWR,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,13565768.0
-EUPWR,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,265414612.0
-EUPWR,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,10450987.0
-EUPWR,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,24072758.0
-EUPWR,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,62117950.0
-EUPWR,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
-EUPWR,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,3717164.0
-EUPWR,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,73516548.0
-EUPWR,2024/12,1AF,Stoklar,Inventories,78341803.0
-EUPWR,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
-EUPWR,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,13197401.0
-EUPWR,2024/12,1AI,(Ara Toplam),(Subtotal),265414612.0
-EUPWR,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
-EUPWR,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,150243203.0
-EUPWR,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
-EUPWR,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
-EUPWR,2024/12,1BB,Diğer Alacaklar,Other Receivables,99652.0
-EUPWR,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-EUPWR,2024/12,1BC,Finansal Yatırımlar,Financial Investments,25410.0
-EUPWR,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
-EUPWR,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
-EUPWR,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,522035.0
-EUPWR,2024/12,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2024/12,1BFAA,Kullanım Hakkı Varlıkları,,0.0
-EUPWR,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,114907340.0
-EUPWR,2024/12,1BGA,Şerefiye,Goodwill,0.0
-EUPWR,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,24065661.0
-EUPWR,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
-EUPWR,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,10623106.0
-EUPWR,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,415657815.0
-EUPWR,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
-EUPWR,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,90922416.0
-EUPWR,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,6648225.0
-EUPWR,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-EUPWR,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,45655649.0
-EUPWR,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,15317231.0
-EUPWR,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
-EUPWR,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
-EUPWR,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,18088842.0
-EUPWR,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),449567.0
-EUPWR,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,1241456.0
-EUPWR,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,3521446.0
-EUPWR,2024/12,2AAGG,(Ara Toplam),(Subtotal),90922416.0
-EUPWR,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
-EUPWR,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,36983235.0
-EUPWR,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,15911272.0
-EUPWR,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-EUPWR,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
-EUPWR,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
-EUPWR,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
-EUPWR,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
-EUPWR,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1979474.0
-EUPWR,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
-EUPWR,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,19092490.0
-EUPWR,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
-EUPWR,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,287752164.0
-EUPWR,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,269143062.0
-EUPWR,2024/12,2OA,Ödenmiş Sermaye,Share Capital,18673714.0
-EUPWR,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
-EUPWR,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,102519430.0
-EUPWR,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
-EUPWR,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
-EUPWR,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,3577162.0
-EUPWR,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),80407514.0
-EUPWR,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),7917859.0
-EUPWR,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,51298735.0
-EUPWR,2024/12,2ODA,Azınlık Payları,Minority Interests,18609102.0
-EUPWR,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,415657815.0
-EUPWR,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
-EUPWR,2024/12,3C,Satış Gelirleri,Net Sales,313627708.0
-EUPWR,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-235645271.0
-EUPWR,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
-EUPWR,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,77982437.0
-EUPWR,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
-EUPWR,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
-EUPWR,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
-EUPWR,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
-EUPWR,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
-EUPWR,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),77982437.0
-EUPWR,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-8352747.0
-EUPWR,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-15543199.0
-EUPWR,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-4661311.0
-EUPWR,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,32066958.0
-EUPWR,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-33651062.0
-EUPWR,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
-EUPWR,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,47841075.0
-EUPWR,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,49425179.0
-EUPWR,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,,13633056.0
-EUPWR,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-153042.0
-EUPWR,2024/12,3HAB,Diğer Gelir ve Giderler,,-117138.0
-EUPWR,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,61203951.0
-EUPWR,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),4141480.0
-EUPWR,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-41923606.0
-EUPWR,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,13362876.0
-EUPWR,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,23421825.0
-EUPWR,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-11969970.0
-EUPWR,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-5436938.0
-EUPWR,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-6533032.0
-EUPWR,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
-EUPWR,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,11451856.0
-EUPWR,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
-EUPWR,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,11451856.0
-EUPWR,2024/12,3LB,Azınlık Payları,Minority Interests,2938932.0
-EUPWR,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,8512924.0
-EUPWR,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
-EUPWR,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
-EUPWR,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
-EUPWR,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
-EUPWR,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,7913233.0
-EUPWR,2024/12,4BA,Kıdem Tazminatı,Severance Payments,761737.0
-EUPWR,2024/12,4BB,Finansman Giderleri,Financial Expenses,-41923606.0
-EUPWR,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,333479928.0
-EUPWR,2024/12,4BD,Yurtdışı Satışlar,Export Sales,0.0
-EUPWR,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-5867637.0
-EUPWR,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-18663484.0
-EUPWR,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-5867637.0
-EUPWR,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,15094872.0
-EUPWR,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,8512924.0
-EUPWR,2024/12,4CAA,Düzeltmeler:,Adjustments:,13369859.0
-EUPWR,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,7913233.0
-EUPWR,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,2108590.0
-EUPWR,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,18498271.0
-EUPWR,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),21882783.0
-EUPWR,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-539748.0
-EUPWR,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),21343034.0
-EUPWR,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-6248163.0
-EUPWR,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-31396756.0
-EUPWR,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,3479291.0
-EUPWR,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-27917465.0
-EUPWR,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,-12822594.0
-EUPWR,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,6107636.0
-EUPWR,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
-EUPWR,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
-EUPWR,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-7235552.0
-EUPWR,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1127916.0
-EUPWR,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-13950510.0
-EUPWR,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
-EUPWR,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
-EUPWR,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-13950510.0
-EUPWR,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
-EUPWR,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,25186939.0
-EUPWR,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,11236429.0
 EUPWR,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,217591459.0
 EUPWR,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,11015867.0
 EUPWR,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,11599976.0
 EUPWR,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,34557392.0
 EUPWR,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 EUPWR,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,3103820.0
-EUPWR,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,65399578.0
+EUPWR,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,65399578.0
 EUPWR,2025/3,1AF,Stoklar,Inventories,70356508.0
 EUPWR,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 EUPWR,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,21558320.0
@@ -2071,13 +2071,13 @@ EUPWR,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,118988177.0
 EUPWR,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
 EUPWR,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 EUPWR,2025/3,1BB,Diğer Alacaklar,Other Receivables,95973.0
-EUPWR,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2025/3,1BC,Finansal Yatırımlar,Financial Investments,21647.0
 EUPWR,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 EUPWR,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 EUPWR,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,427925.0
 EUPWR,2025/3,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2025/3,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+EUPWR,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 EUPWR,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,97159464.0
 EUPWR,2025/3,1BGA,Şerefiye,Goodwill,0.0
 EUPWR,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,19391072.0
@@ -2090,10 +2090,10 @@ EUPWR,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,7763687.0
 EUPWR,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,19269.0
 EUPWR,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,31372163.0
 EUPWR,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,10400807.0
-EUPWR,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+EUPWR,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 EUPWR,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 EUPWR,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,7923650.0
+EUPWR,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,7923650.0
 EUPWR,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),571105.0
 EUPWR,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,1004713.0
 EUPWR,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,4482987.0
@@ -2104,10 +2104,10 @@ EUPWR,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,12321951.0
 EUPWR,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 EUPWR,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+EUPWR,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 EUPWR,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 EUPWR,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,1599368.0
 EUPWR,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 EUPWR,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,17510791.0
@@ -2144,11 +2144,11 @@ EUPWR,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 EUPWR,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 EUPWR,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,12361919.0
 EUPWR,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,10140034.0
-EUPWR,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,,703090.0
-EUPWR,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-EUPWR,2025/3,3HAB,Diğer Gelir ve Giderler,,33209.0
+EUPWR,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,703090.0
+EUPWR,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EUPWR,2025/3,3HAB,Diğer Gelir ve Giderler,nan,33209.0
 EUPWR,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,13098217.0
+EUPWR,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,13098217.0
 EUPWR,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),583108.0
 EUPWR,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-5527242.0
 EUPWR,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,736298.0
@@ -2208,7 +2208,7 @@ EUPWR,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2002140.
 EUPWR,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,33741397.0
 EUPWR,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 EUPWR,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,3130331.0
-EUPWR,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,69457531.0
+EUPWR,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,69457531.0
 EUPWR,2025/6,1AF,Stoklar,Inventories,77461595.0
 EUPWR,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 EUPWR,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,25937547.0
@@ -2218,13 +2218,13 @@ EUPWR,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,125730300.0
 EUPWR,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
 EUPWR,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 EUPWR,2025/6,1BB,Diğer Alacaklar,Other Receivables,257533.0
-EUPWR,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2025/6,1BC,Finansal Yatırımlar,Financial Investments,21802.0
 EUPWR,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 EUPWR,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 EUPWR,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,431097.0
 EUPWR,2025/6,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2025/6,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+EUPWR,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 EUPWR,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,102806538.0
 EUPWR,2025/6,1BGA,Şerefiye,Goodwill,0.0
 EUPWR,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,19890185.0
@@ -2237,10 +2237,10 @@ EUPWR,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,8222313.0
 EUPWR,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,45991.0
 EUPWR,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,37580050.0
 EUPWR,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,6385774.0
-EUPWR,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+EUPWR,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 EUPWR,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 EUPWR,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,15294732.0
+EUPWR,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,15294732.0
 EUPWR,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 EUPWR,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,877038.0
 EUPWR,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,5029112.0
@@ -2251,10 +2251,10 @@ EUPWR,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,25430720.0
 EUPWR,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 EUPWR,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+EUPWR,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 EUPWR,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 EUPWR,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2304156.0
 EUPWR,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 EUPWR,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,7658066.0
@@ -2291,11 +2291,11 @@ EUPWR,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 EUPWR,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 EUPWR,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,13698533.0
 EUPWR,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,10416308.0
-EUPWR,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,,1138281.0
-EUPWR,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-EUPWR,2025/6,3HAB,Diğer Gelir ve Giderler,,23717.0
+EUPWR,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1138281.0
+EUPWR,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EUPWR,2025/6,3HAB,Diğer Gelir ve Giderler,nan,23717.0
 EUPWR,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,14860531.0
+EUPWR,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,14860531.0
 EUPWR,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),911462.0
 EUPWR,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-11274654.0
 EUPWR,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1161998.0
@@ -2355,7 +2355,7 @@ EUPWR,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1929195.
 EUPWR,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,40362636.0
 EUPWR,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 EUPWR,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,5446472.0
-EUPWR,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,83199252.0
+EUPWR,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,83199252.0
 EUPWR,2025/9,1AF,Stoklar,Inventories,87127864.0
 EUPWR,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 EUPWR,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,29915299.0
@@ -2365,13 +2365,13 @@ EUPWR,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,139592512.0
 EUPWR,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
 EUPWR,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 EUPWR,2025/9,1BB,Diğer Alacaklar,Other Receivables,952609.0
-EUPWR,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+EUPWR,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 EUPWR,2025/9,1BC,Finansal Yatırımlar,Financial Investments,22438.0
 EUPWR,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 EUPWR,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 EUPWR,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,443730.0
 EUPWR,2025/9,1BFA,Stoklar,Stoklar,0.0
-EUPWR,2025/9,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+EUPWR,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 EUPWR,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,112955009.0
 EUPWR,2025/9,1BGA,Şerefiye,Goodwill,0.0
 EUPWR,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,22566568.0
@@ -2384,10 +2384,10 @@ EUPWR,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,9329102.0
 EUPWR,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,4906.0
 EUPWR,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,45122891.0
 EUPWR,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,6247956.0
-EUPWR,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+EUPWR,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 EUPWR,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 EUPWR,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-EUPWR,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,14751741.0
+EUPWR,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,14751741.0
 EUPWR,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 EUPWR,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,1063090.0
 EUPWR,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,3429955.0
@@ -2398,10 +2398,10 @@ EUPWR,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,37274684.0
 EUPWR,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 EUPWR,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 EUPWR,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-EUPWR,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+EUPWR,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 EUPWR,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 EUPWR,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-EUPWR,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+EUPWR,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 EUPWR,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,2570704.0
 EUPWR,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 EUPWR,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,15708222.0
@@ -2438,11 +2438,11 @@ EUPWR,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 EUPWR,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 EUPWR,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,37341235.0
 EUPWR,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,34806552.0
-EUPWR,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,,1996704.0
-EUPWR,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-EUPWR,2025/9,3HAB,Diğer Gelir ve Giderler,,-40531.0
+EUPWR,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1996704.0
+EUPWR,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+EUPWR,2025/9,3HAB,Diğer Gelir ve Giderler,nan,-40531.0
 EUPWR,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-EUPWR,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,39297408.0
+EUPWR,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,39297408.0
 EUPWR,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),464035.0
 EUPWR,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-22594196.0
 EUPWR,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1956173.0

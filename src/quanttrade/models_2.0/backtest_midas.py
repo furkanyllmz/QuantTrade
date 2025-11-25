@@ -1,10 +1,5 @@
 """
-REALISTIC SLOT-BASED BACKTESTER (T+1, MODEL+TP EXIT)
-Senaryo:
-- Max 5 pozisyon
-- Stop-Loss: -%5 (Midas'ta gerçek SL var)
-- TP: +%10 VE model artık top-K listesinde değilse
-- Giriş/Çıkış: T+1 açılış fiyatından (akşamdan bakıp ertesi gün emir veriyormuşsun gibi)
+REALISTIC SLOT-BASED BACKTESTER (T+1, MODEL+TP EXIT) + SLIPAJ
 """
 
 import pandas as pd
@@ -18,16 +13,21 @@ import matplotlib.pyplot as plt
 from train_model import SectorStandardScaler  # sadece scaler kullanıyoruz
 
 # ===== CONFIG =====
-DATA_PATH = "master_df.csv"
+DATA_PATH   = "master_df.csv"
 RESULTS_DIR = "model_results_alpha_20d"
 BACKTEST_DIR = "backtest_results_realistic"
 
-HORIZON = 20        # Maksimum tutma süresi (gün)
-STOP_LOSS = -0.05   # -%5
-TAKE_PROFIT = 0.10  # +%10
-MAX_POSITIONS = 5   # Aynı anda max 5 hisse
+HORIZON      = 20        # Maksimum tutma süresi (gün)
+STOP_LOSS    = -0.05     # -%5
+TAKE_PROFIT  = 0.10      # +%10
+MAX_POSITIONS = 5        # Aynı anda max 5 hisse
 INITIAL_CAPITAL = 100_000
-COMMISSION = 0.002  # Binde 2 (al + sat için her işlemde uygulanacak)
+COMMISSION   = 0.002     # Binde 2 (al + sat için her işlemde uygulanacak)
+
+# >>> SLIPAJ <<<
+SLIPPAGE_BUY  = 0.01   # %1
+SLIPPAGE_SELL = 0.005  # %0.5 (satışta biraz daha iyi olursun genelde)
+
 
 # Kolonlar
 PRICE_COL  = "price_close"
@@ -89,7 +89,6 @@ def main():
     # === Portföy Durumu ===
     cash = INITIAL_CAPITAL
     portfolio = []  # aktif pozisyon listesi
-    # her pozisyon yapısı:
     # {
     #   'symbol', 'entry_price', 'shares',
     #   'entry_date', 'days_held',
@@ -99,14 +98,13 @@ def main():
     equity_curve = []
     trade_log = []
 
-    print(f">> Starting BACKTEST on {len(dates)} days (T+1, Model+TP Exit)...")
+    print(f">> Starting BACKTEST on {len(dates)} days (T+1, Model+TP Exit, Slippage)...")
 
     for dt in dates:
         # Günlük veri
         try:
             today_data = test_grouped.get_group(dt).set_index(SYMBOL_COL)
         except KeyError:
-            # o gün trade yok
             continue
 
         # Bugünün indexi / yarın (next_dt)
@@ -124,21 +122,23 @@ def main():
                     # Hisse bugün işlem görmüyorsa, exit'i ertele
                     continue
 
-                open_price = today_data.loc[sym][OPEN_COL]
+                raw_open = today_data.loc[sym][OPEN_COL]
+                # Satışta slipaj: açılıştan biraz daha kötü fiyat
+                exit_price = raw_open * (1 - SLIPPAGE_SELL)
 
-                revenue = pos["shares"] * open_price
+                revenue = pos["shares"] * exit_price
                 commission = revenue * COMMISSION
                 net_rev = revenue - commission
                 cash += net_rev
 
-                trade_return = (open_price / pos["entry_price"]) - 1
+                trade_return = (exit_price / pos["entry_price"]) - 1
 
                 trade_log.append({
                     "exit_date": dt,
                     "symbol": sym,
                     "entry_date": pos["entry_date"],
                     "entry_price": pos["entry_price"],
-                    "exit_price": open_price,
+                    "exit_price": exit_price,
                     "return": trade_return,
                     "reason": pos.get("exit_reason_planned", "PLANNED_EXIT"),
                     "days_held": pos["days_held"]
@@ -153,7 +153,6 @@ def main():
             pos = portfolio[i]
             sym = pos["symbol"]
 
-            # Eğer bugünkü veri yoksa, SL çalışmaz, pozisyon devam
             if sym not in today_data.index:
                 pos["days_held"] += 1
                 continue
@@ -169,16 +168,15 @@ def main():
             exit_reason = None
             exit_price = None
 
-            # Eğer bugünkü en düşük, stop seviyesinin altına inmişse:
             if low <= stop_level:
                 exit_reason = "STOP_LOSS"
-                # Gap down senaryosu:
+                # Gap down senaryosu – burada slipajı ayrıca uygulamıyoruz,
+                # zaten stop_level / open senaryosu yeterince konservatif.
                 if open_price <= stop_level:
                     exit_price = open_price
                 else:
                     exit_price = stop_level
 
-            # Stop tetiklendiyse çıkış:
             if exit_reason is not None:
                 revenue = pos["shares"] * exit_price
                 commission = revenue * COMMISSION
@@ -200,36 +198,27 @@ def main():
 
                 portfolio.pop(i)
             else:
-                # Pozisyon devam ediyor, gün sayısını artır
                 pos["days_held"] += 1
 
         # ==========================
         # 3) MODEL + TP / TIME EXIT SCHEDULING (AKŞAM KONTROL → T+1 ÇIKIŞ)
         # ==========================
-        # Bugünün score'larına göre top-K seti
         today_sorted = today_data.sort_values("score", ascending=False)
         top_symbols = list(today_sorted.head(TOP_K).index)
 
         for pos in portfolio:
-            # Zaten çıkış planlanmışsa tekrar planlama
             if pos.get("exit_planned_date") is not None:
                 continue
 
             if sym := pos["symbol"]:
-                # Eğer yarın yoksa (backtest sonu) exit planlamanın anlamı yok
                 if next_dt is None:
                     continue
 
-                # Time Exit: HORIZON günü doldurduysa, yarın açılışta sat
                 if pos["days_held"] >= HORIZON:
                     pos["exit_planned_date"] = next_dt
                     pos["exit_reason_planned"] = "TIME_EXIT"
                     continue
 
-                # MODEL + TP Exit:
-                # Şartlar:
-                # 1) Bugünkü kapanış bazlı kâr >= TAKE_PROFIT
-                # 2) Hisse bugünkü top-K içinde değil (model artık istemiyor)
                 if sym in today_data.index:
                     close = today_data.loc[sym][PRICE_COL]
                     entry = pos["entry_price"]
@@ -245,8 +234,7 @@ def main():
         free_slots = MAX_POSITIONS - len(portfolio)
 
         if free_slots > 0 and next_dt is not None:
-            # Adaylar: Bugünün en yüksek skorlu hisseleri
-            candidates = today_sorted.head(TOP_K)  # istersen TOP_K*2 yapabilirsin
+            candidates = today_sorted.head(TOP_K)
 
             try:
                 next_day_data = test_grouped.get_group(next_dt).set_index(SYMBOL_COL)
@@ -257,17 +245,16 @@ def main():
                 if free_slots <= 0:
                     break
 
-                # Zaten portföydeyse alma
                 if any(p["symbol"] == sym for p in portfolio):
                     continue
 
                 if next_day_data is None or sym not in next_day_data.index:
                     continue
 
-                # Giriş fiyatı = ertesi gün açılış
-                entry_price = next_day_data.loc[sym][OPEN_COL]
+                raw_open = next_day_data.loc[sym][OPEN_COL]
+                # Alışta slipaj: açılıştan biraz daha kötü
+                entry_price = raw_open * (1 + SLIPPAGE_BUY)
 
-                # Pozisyon büyüklüğü: eşit ağırlık (nakit, free_slots'a bölünüyor)
                 capital_per_trade = cash / free_slots
                 shares = int(capital_per_trade / entry_price)
 
@@ -314,7 +301,6 @@ def main():
     final = bt["equity"].iloc[-1]
     total_return = final / initial - 1
 
-    # Günlük getiri + Sharpe
     daily_ret = bt["equity"].pct_change().dropna()
     if len(daily_ret) > 1:
         mu = daily_ret.mean()
@@ -326,7 +312,7 @@ def main():
 
     cagr = (final / initial) ** (252 / len(bt)) - 1 if len(bt) > 0 else np.nan
 
-    print("\n===== SLOT-BASED REALISTIC BACKTEST (T+1, MODEL+TP) =====")
+    print("\n===== SLOT-BASED REALISTIC BACKTEST (T+1, MODEL+TP, SLIPPAGE) =====")
     print(f"Initial: {initial:,.2f} | Final: {final:,.2f}")
     print(f"Total Return: {total_return:.2%}")
     print(f"CAGR: {cagr:.2%}")
@@ -338,16 +324,18 @@ def main():
         print("Exit reasons:")
         print(tr["reason"].value_counts())
 
-    bt.to_csv(os.path.join(BACKTEST_DIR, "realistic_slot_bt_T1_modelTP.csv"), index=False)
-    tr.to_csv(os.path.join(BACKTEST_DIR, "realistic_slot_trades_T1_modelTP.csv"), index=False)
+    bt.to_csv(os.path.join(BACKTEST_DIR, "realistic_slot_bt_T1_modelTP_slip.csv"), index=False)
+    tr.to_csv(os.path.join(BACKTEST_DIR, "realistic_slot_trades_T1_modelTP_slip.csv"), index=False)
 
     plt.figure(figsize=(10, 6))
     plt.plot(bt["date"], bt["equity"], label="Portfolio Equity")
-    plt.title(f"Realistic Equity (Max {MAX_POSITIONS} Slots, H={HORIZON}, T+1, Model+TP)")
+    plt.title(
+        f"Realistic Equity (Max {MAX_POSITIONS} Slots, H={HORIZON}, T+1, Model+TP, Slippage)"
+    )
     plt.grid(True, alpha=0.3)
     plt.legend()
     plt.tight_layout()
-    plt.savefig(os.path.join(BACKTEST_DIR, "realistic_slot_equity_T1_modelTP.png"))
+    plt.savefig(os.path.join(BACKTEST_DIR, "realistic_slot_equity_T1_modelTP_slip.png"))
     plt.close()
 
 

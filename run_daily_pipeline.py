@@ -248,7 +248,7 @@ def validate_announcements_clean():
     required = [
         "symbol",
         "announcement_date",
-        "rule_type",
+        "ruleType",
         "summary",
         "url",
     ]
@@ -288,7 +288,12 @@ def validate_price_features():
         "distance_from_ma200",
         "future_return_10d",
         "future_return_20d",
-        "y_triclass_10d",
+        "y_10d_triclass",
+        "y_20d_triclass",
+        "y_30d_triclass",
+        "y_60d_triclass",
+        "y_90d_triclass",
+        "y_120d_triclass",
     ]
     for f in files[:10]:
         df = pd.read_csv(f)
@@ -383,7 +388,12 @@ def validate_master_df():
         "fund_roe",
         "fund_debt_to_equity",
         "future_return_10d",
-        "y_triclass_10d",
+        "y_10d_triclass",
+        "y_20d_triclass",
+        "y_30d_triclass",
+        "y_60d_triclass",
+        "y_90d_triclass",
+        "y_120d_triclass",
     ]
     _check_required_columns(df, required, f, step_name)
     logger.info("[%s] master_df kontrolü OK. Satır sayısı: %d", step_name, len(df))

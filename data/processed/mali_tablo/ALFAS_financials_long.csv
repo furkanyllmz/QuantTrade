@@ -1,11 +1,11 @@
-﻿symbol,period,item_code,item_name_tr,item_name_en,value
+symbol,period,item_code,item_name_tr,item_name_en,value
 ALFAS,2020/12,1A,Dönen Varlıklar,CURRENT ASSETS,22692595.0
 ALFAS,2020/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,4435466.0
 ALFAS,2020/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,19265.0
 ALFAS,2020/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,7084781.0
 ALFAS,2020/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 ALFAS,2020/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,3370281.0
-ALFAS,2020/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2020/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2020/12,1AF,Stoklar,Inventories,4430064.0
 ALFAS,2020/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 ALFAS,2020/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,3352738.0
@@ -15,13 +15,13 @@ ALFAS,2020/12,1AK,Duran Varlıklar,LONG TERM ASSETS,1732403.0
 ALFAS,2020/12,1B,Ticari Alacaklar,Trade Receivables,0.0
 ALFAS,2020/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 ALFAS,2020/12,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2020/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2020/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2020/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
 ALFAS,2020/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,339628.0
 ALFAS,2020/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 ALFAS,2020/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 ALFAS,2020/12,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2020/12,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+ALFAS,2020/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 ALFAS,2020/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1236399.0
 ALFAS,2020/12,1BGA,Şerefiye,Goodwill,0.0
 ALFAS,2020/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
@@ -34,10 +34,10 @@ ALFAS,2020/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1338615.0
 ALFAS,2020/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2020/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,6409280.0
 ALFAS,2020/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,83618.0
-ALFAS,2020/12,2AAGAC,Müşteri Söz. Doğan Yük.,,7719191.0
+ALFAS,2020/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,7719191.0
 ALFAS,2020/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 ALFAS,2020/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2020/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2020/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2020/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 ALFAS,2020/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,20774.0
 ALFAS,2020/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,89483.0
@@ -48,10 +48,10 @@ ALFAS,2020/12,2BA,Finansal Borçlar,Long-Term Financial Loans,921200.0
 ALFAS,2020/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2020/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 ALFAS,2020/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2020/12,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+ALFAS,2020/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 ALFAS,2020/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 ALFAS,2020/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2020/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2020/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2020/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,51004.0
 ALFAS,2020/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 ALFAS,2020/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -88,11 +88,11 @@ ALFAS,2020/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (
 ALFAS,2020/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 ALFAS,2020/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,5862510.0
 ALFAS,2020/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,5892921.0
-ALFAS,2020/12,3HA,Yatırım Faaliyetlerinden Gelirler,,6306.0
-ALFAS,2020/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-ALFAS,2020/12,3HAB,Diğer Gelir ve Giderler,,0.0
+ALFAS,2020/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,6306.0
+ALFAS,2020/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ALFAS,2020/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
 ALFAS,2020/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,798.0
-ALFAS,2020/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,5869614.0
+ALFAS,2020/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,5869614.0
 ALFAS,2020/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1530559.0
 ALFAS,2020/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1510862.0
 ALFAS,2020/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,6306.0
@@ -146,13 +146,160 @@ ALFAS,2020/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equi
 ALFAS,2020/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
 ALFAS,2020/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,1822655.0
 ALFAS,2020/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,4691181.0
+ALFAS,2021/12,1A,Dönen Varlıklar,CURRENT ASSETS,30155599.0
+ALFAS,2021/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,9222171.0
+ALFAS,2021/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+ALFAS,2021/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,3870193.0
+ALFAS,2021/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ALFAS,2021/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,2942366.0
+ALFAS,2021/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ALFAS,2021/12,1AF,Stoklar,Inventories,9968972.0
+ALFAS,2021/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ALFAS,2021/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,4151897.0
+ALFAS,2021/12,1AI,(Ara Toplam),(Subtotal),30155599.0
+ALFAS,2021/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ALFAS,2021/12,1AK,Duran Varlıklar,LONG TERM ASSETS,2841277.0
+ALFAS,2021/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+ALFAS,2021/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ALFAS,2021/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+ALFAS,2021/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ALFAS,2021/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+ALFAS,2021/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ALFAS,2021/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ALFAS,2021/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ALFAS,2021/12,1BFA,Stoklar,Stoklar,0.0
+ALFAS,2021/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ALFAS,2021/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2836094.0
+ALFAS,2021/12,1BGA,Şerefiye,Goodwill,0.0
+ALFAS,2021/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
+ALFAS,2021/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,5183.0
+ALFAS,2021/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
+ALFAS,2021/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,32996875.0
+ALFAS,2021/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ALFAS,2021/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,24510973.0
+ALFAS,2021/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1128241.0
+ALFAS,2021/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ALFAS,2021/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,18222381.0
+ALFAS,2021/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,13811.0
+ALFAS,2021/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,5041487.0
+ALFAS,2021/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ALFAS,2021/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ALFAS,2021/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ALFAS,2021/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5138.0
+ALFAS,2021/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,23915.0
+ALFAS,2021/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,75999.0
+ALFAS,2021/12,2AAGG,(Ara Toplam),(Subtotal),24510973.0
+ALFAS,2021/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ALFAS,2021/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,335991.0
+ALFAS,2021/12,2BA,Finansal Borçlar,Long-Term Financial Loans,288289.0
+ALFAS,2021/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ALFAS,2021/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ALFAS,2021/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ALFAS,2021/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ALFAS,2021/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ALFAS,2021/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ALFAS,2021/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ALFAS,2021/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,47702.0
+ALFAS,2021/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ALFAS,2021/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ALFAS,2021/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ALFAS,2021/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,8149912.0
+ALFAS,2021/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,8149912.0
+ALFAS,2021/12,2OA,Ödenmiş Sermaye,Share Capital,2995582.0
+ALFAS,2021/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ALFAS,2021/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ALFAS,2021/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ALFAS,2021/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+ALFAS,2021/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,48678.0
+ALFAS,2021/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1480043.0
+ALFAS,2021/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),3624846.0
+ALFAS,2021/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,763.0
+ALFAS,2021/12,2ODA,Azınlık Payları,Minority Interests,0.0
+ALFAS,2021/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,32996875.0
+ALFAS,2021/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ALFAS,2021/12,3C,Satış Gelirleri,Net Sales,49136865.0
+ALFAS,2021/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-40524624.0
+ALFAS,2021/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ALFAS,2021/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,8612242.0
+ALFAS,2021/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ALFAS,2021/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ALFAS,2021/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ALFAS,2021/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ALFAS,2021/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ALFAS,2021/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),8612242.0
+ALFAS,2021/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-144212.0
+ALFAS,2021/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-415844.0
+ALFAS,2021/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ALFAS,2021/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,5763736.0
+ALFAS,2021/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-11941784.0
+ALFAS,2021/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ALFAS,2021/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1874138.0
+ALFAS,2021/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,8052186.0
+ALFAS,2021/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,12883.0
+ALFAS,2021/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-7117.0
+ALFAS,2021/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ALFAS,2021/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-282836.0
+ALFAS,2021/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,1597067.0
+ALFAS,2021/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),5400723.0
+ALFAS,2021/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1241569.0
+ALFAS,2021/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,5766.0
+ALFAS,2021/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,5756221.0
+ALFAS,2021/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-333053.0
+ALFAS,2021/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-210303.0
+ALFAS,2021/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-122751.0
+ALFAS,2021/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ALFAS,2021/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,5423168.0
+ALFAS,2021/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ALFAS,2021/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ALFAS,2021/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,5423168.0
+ALFAS,2021/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ALFAS,2021/12,3LB,Azınlık Payları,Minority Interests,0.0
+ALFAS,2021/12,3Z,Ana Ortaklık Payları,Parent Shares,5423168.0
+ALFAS,2021/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ALFAS,2021/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ALFAS,2021/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ALFAS,2021/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ALFAS,2021/12,4B,Amortisman Giderleri,Depreciation & Amortization,273065.0
+ALFAS,2021/12,4BA,Kıdem Tazminatı,Severance Payments,27218.0
+ALFAS,2021/12,4BB,Finansman Giderleri,Financial Expenses,-1241569.0
+ALFAS,2021/12,4BC,Yurtiçi Satışlar,Domestic Sales,50269482.0
+ALFAS,2021/12,4BD,Yurtdışı Satışlar,Export Sales,452991.0
+ALFAS,2021/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-10150553.0
+ALFAS,2021/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-10150553.0
+ALFAS,2021/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-10150553.0
+ALFAS,2021/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,13344837.0
+ALFAS,2021/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,5423168.0
+ALFAS,2021/12,4CAA,Düzeltmeler:,Adjustments:,385729.0
+ALFAS,2021/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,273065.0
+ALFAS,2021/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,45985.0
+ALFAS,2021/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,66678.0
+ALFAS,2021/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),5808896.0
+ALFAS,2021/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,7734138.0
+ALFAS,2021/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),13543034.0
+ALFAS,2021/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-198197.0
+ALFAS,2021/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-3484352.0
+ALFAS,2021/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,301845.0
+ALFAS,2021/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-3182506.0
+ALFAS,2021/12,4CB,Serbest Nakit Akım,Free Cash Flow,10162330.0
+ALFAS,2021/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-29177.0
+ALFAS,2021/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+ALFAS,2021/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ALFAS,2021/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-29546.0
+ALFAS,2021/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-58724.0
+ALFAS,2021/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,10103607.0
+ALFAS,2021/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+ALFAS,2021/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ALFAS,2021/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,10103607.0
+ALFAS,2021/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ALFAS,2021/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3693776.0
+ALFAS,2021/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,13797383.0
 ALFAS,2021/6,1A,Dönen Varlıklar,CURRENT ASSETS,0.0
 ALFAS,2021/6,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,0.0
 ALFAS,2021/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
 ALFAS,2021/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,0.0
 ALFAS,2021/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 ALFAS,2021/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
-ALFAS,2021/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2021/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2021/6,1AF,Stoklar,Inventories,0.0
 ALFAS,2021/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 ALFAS,2021/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,0.0
@@ -162,13 +309,13 @@ ALFAS,2021/6,1AK,Duran Varlıklar,LONG TERM ASSETS,0.0
 ALFAS,2021/6,1B,Ticari Alacaklar,Trade Receivables,0.0
 ALFAS,2021/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 ALFAS,2021/6,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2021/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2021/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2021/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
 ALFAS,2021/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 ALFAS,2021/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 ALFAS,2021/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 ALFAS,2021/6,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2021/6,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+ALFAS,2021/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 ALFAS,2021/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,0.0
 ALFAS,2021/6,1BGA,Şerefiye,Goodwill,0.0
 ALFAS,2021/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
@@ -181,10 +328,10 @@ ALFAS,2021/6,2AA,Finansal Borçlar,Short-Term Financial Loans,0.0
 ALFAS,2021/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2021/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,0.0
 ALFAS,2021/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,0.0
-ALFAS,2021/6,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+ALFAS,2021/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 ALFAS,2021/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 ALFAS,2021/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2021/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2021/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2021/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 ALFAS,2021/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,0.0
 ALFAS,2021/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
@@ -195,10 +342,10 @@ ALFAS,2021/6,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
 ALFAS,2021/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2021/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 ALFAS,2021/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2021/6,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+ALFAS,2021/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 ALFAS,2021/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 ALFAS,2021/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2021/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2021/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2021/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,0.0
 ALFAS,2021/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 ALFAS,2021/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -235,11 +382,11 @@ ALFAS,2021/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 ALFAS,2021/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 ALFAS,2021/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,820748.0
 ALFAS,2021/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1773074.0
-ALFAS,2021/6,3HA,Yatırım Faaliyetlerinden Gelirler,,7634.0
-ALFAS,2021/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-8051.0
-ALFAS,2021/6,3HAB,Diğer Gelir ve Giderler,,0.0
+ALFAS,2021/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,7634.0
+ALFAS,2021/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-8051.0
+ALFAS,2021/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
 ALFAS,2021/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-319950.0
-ALFAS,2021/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,500380.0
+ALFAS,2021/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,500380.0
 ALFAS,2021/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),828466.0
 ALFAS,2021/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-446810.0
 ALFAS,2021/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-417.0
@@ -299,7 +446,7 @@ ALFAS,2021/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
 ALFAS,2021/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,0.0
 ALFAS,2021/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 ALFAS,2021/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
-ALFAS,2021/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2021/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2021/9,1AF,Stoklar,Inventories,0.0
 ALFAS,2021/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 ALFAS,2021/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,0.0
@@ -309,13 +456,13 @@ ALFAS,2021/9,1AK,Duran Varlıklar,LONG TERM ASSETS,0.0
 ALFAS,2021/9,1B,Ticari Alacaklar,Trade Receivables,0.0
 ALFAS,2021/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 ALFAS,2021/9,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2021/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2021/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2021/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
 ALFAS,2021/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 ALFAS,2021/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 ALFAS,2021/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 ALFAS,2021/9,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2021/9,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+ALFAS,2021/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 ALFAS,2021/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,0.0
 ALFAS,2021/9,1BGA,Şerefiye,Goodwill,0.0
 ALFAS,2021/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
@@ -328,10 +475,10 @@ ALFAS,2021/9,2AA,Finansal Borçlar,Short-Term Financial Loans,0.0
 ALFAS,2021/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2021/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,0.0
 ALFAS,2021/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,0.0
-ALFAS,2021/9,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+ALFAS,2021/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 ALFAS,2021/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 ALFAS,2021/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2021/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2021/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2021/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 ALFAS,2021/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,0.0
 ALFAS,2021/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
@@ -342,10 +489,10 @@ ALFAS,2021/9,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
 ALFAS,2021/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2021/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 ALFAS,2021/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2021/9,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+ALFAS,2021/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 ALFAS,2021/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 ALFAS,2021/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2021/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2021/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2021/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,0.0
 ALFAS,2021/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 ALFAS,2021/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -382,11 +529,11 @@ ALFAS,2021/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 ALFAS,2021/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 ALFAS,2021/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2952192.0
 ALFAS,2021/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2739828.0
-ALFAS,2021/9,3HA,Yatırım Faaliyetlerinden Gelirler,,22439.0
-ALFAS,2021/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-ALFAS,2021/9,3HAB,Diğer Gelir ve Giderler,,0.0
+ALFAS,2021/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,22439.0
+ALFAS,2021/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ALFAS,2021/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
 ALFAS,2021/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-311496.0
-ALFAS,2021/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,2663135.0
+ALFAS,2021/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,2663135.0
 ALFAS,2021/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1167028.0
 ALFAS,2021/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1006921.0
 ALFAS,2021/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,22439.0
@@ -440,160 +587,160 @@ ALFAS,2021/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equiv
 ALFAS,2021/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
 ALFAS,2021/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,4068067.0
 ALFAS,2021/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,5414076.0
-ALFAS,2021/12,1A,Dönen Varlıklar,CURRENT ASSETS,30155599.0
-ALFAS,2021/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,9222171.0
-ALFAS,2021/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
-ALFAS,2021/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,3870193.0
-ALFAS,2021/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
-ALFAS,2021/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,2942366.0
-ALFAS,2021/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-ALFAS,2021/12,1AF,Stoklar,Inventories,9968972.0
-ALFAS,2021/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
-ALFAS,2021/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,4151897.0
-ALFAS,2021/12,1AI,(Ara Toplam),(Subtotal),30155599.0
-ALFAS,2021/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
-ALFAS,2021/12,1AK,Duran Varlıklar,LONG TERM ASSETS,2841277.0
-ALFAS,2021/12,1B,Ticari Alacaklar,Trade Receivables,0.0
-ALFAS,2021/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
-ALFAS,2021/12,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2021/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-ALFAS,2021/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
-ALFAS,2021/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
-ALFAS,2021/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
-ALFAS,2021/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
-ALFAS,2021/12,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2021/12,1BFAA,Kullanım Hakkı Varlıkları,,0.0
-ALFAS,2021/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2836094.0
-ALFAS,2021/12,1BGA,Şerefiye,Goodwill,0.0
-ALFAS,2021/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
-ALFAS,2021/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,5183.0
-ALFAS,2021/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
-ALFAS,2021/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,32996875.0
-ALFAS,2021/12,1BM,KAYNAKLAR,LIABILITIES,0.0
-ALFAS,2021/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,24510973.0
-ALFAS,2021/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1128241.0
-ALFAS,2021/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-ALFAS,2021/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,18222381.0
-ALFAS,2021/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,13811.0
-ALFAS,2021/12,2AAGAC,Müşteri Söz. Doğan Yük.,,5041487.0
-ALFAS,2021/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
-ALFAS,2021/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2021/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
-ALFAS,2021/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),5138.0
-ALFAS,2021/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,23915.0
-ALFAS,2021/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,75999.0
-ALFAS,2021/12,2AAGG,(Ara Toplam),(Subtotal),24510973.0
-ALFAS,2021/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
-ALFAS,2021/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,335991.0
-ALFAS,2021/12,2BA,Finansal Borçlar,Long-Term Financial Loans,288289.0
-ALFAS,2021/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-ALFAS,2021/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
-ALFAS,2021/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2021/12,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
-ALFAS,2021/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
-ALFAS,2021/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2021/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
-ALFAS,2021/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,47702.0
-ALFAS,2021/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
-ALFAS,2021/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
-ALFAS,2021/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
-ALFAS,2021/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,8149912.0
-ALFAS,2021/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,8149912.0
-ALFAS,2021/12,2OA,Ödenmiş Sermaye,Share Capital,2995582.0
-ALFAS,2021/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
-ALFAS,2021/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
-ALFAS,2021/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
-ALFAS,2021/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
-ALFAS,2021/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,48678.0
-ALFAS,2021/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),1480043.0
-ALFAS,2021/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),3624846.0
-ALFAS,2021/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,763.0
-ALFAS,2021/12,2ODA,Azınlık Payları,Minority Interests,0.0
-ALFAS,2021/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,32996875.0
-ALFAS,2021/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
-ALFAS,2021/12,3C,Satış Gelirleri,Net Sales,49136865.0
-ALFAS,2021/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-40524624.0
-ALFAS,2021/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
-ALFAS,2021/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,8612242.0
-ALFAS,2021/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
-ALFAS,2021/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
-ALFAS,2021/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
-ALFAS,2021/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
-ALFAS,2021/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
-ALFAS,2021/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),8612242.0
-ALFAS,2021/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-144212.0
-ALFAS,2021/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-415844.0
-ALFAS,2021/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
-ALFAS,2021/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,5763736.0
-ALFAS,2021/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-11941784.0
-ALFAS,2021/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
-ALFAS,2021/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1874138.0
-ALFAS,2021/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,8052186.0
-ALFAS,2021/12,3HA,Yatırım Faaliyetlerinden Gelirler,,12883.0
-ALFAS,2021/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-7117.0
-ALFAS,2021/12,3HAB,Diğer Gelir ve Giderler,,0.0
-ALFAS,2021/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-282836.0
-ALFAS,2021/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,1597067.0
-ALFAS,2021/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),5400723.0
-ALFAS,2021/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1241569.0
-ALFAS,2021/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,5766.0
-ALFAS,2021/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,5756221.0
-ALFAS,2021/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-333053.0
-ALFAS,2021/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-210303.0
-ALFAS,2021/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-122751.0
-ALFAS,2021/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
-ALFAS,2021/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,5423168.0
-ALFAS,2021/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
-ALFAS,2021/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
-ALFAS,2021/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,5423168.0
-ALFAS,2021/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
-ALFAS,2021/12,3LB,Azınlık Payları,Minority Interests,0.0
-ALFAS,2021/12,3Z,Ana Ortaklık Payları,Parent Shares,5423168.0
-ALFAS,2021/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
-ALFAS,2021/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
-ALFAS,2021/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
-ALFAS,2021/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
-ALFAS,2021/12,4B,Amortisman Giderleri,Depreciation & Amortization,273065.0
-ALFAS,2021/12,4BA,Kıdem Tazminatı,Severance Payments,27218.0
-ALFAS,2021/12,4BB,Finansman Giderleri,Financial Expenses,-1241569.0
-ALFAS,2021/12,4BC,Yurtiçi Satışlar,Domestic Sales,50269482.0
-ALFAS,2021/12,4BD,Yurtdışı Satışlar,Export Sales,452991.0
-ALFAS,2021/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-10150553.0
-ALFAS,2021/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-10150553.0
-ALFAS,2021/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-10150553.0
-ALFAS,2021/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,13344837.0
-ALFAS,2021/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,5423168.0
-ALFAS,2021/12,4CAA,Düzeltmeler:,Adjustments:,385729.0
-ALFAS,2021/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,273065.0
-ALFAS,2021/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,45985.0
-ALFAS,2021/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,66678.0
-ALFAS,2021/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),5808896.0
-ALFAS,2021/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,7734138.0
-ALFAS,2021/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),13543034.0
-ALFAS,2021/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-198197.0
-ALFAS,2021/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-3484352.0
-ALFAS,2021/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,301845.0
-ALFAS,2021/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-3182506.0
-ALFAS,2021/12,4CB,Serbest Nakit Akım,Free Cash Flow,10162330.0
-ALFAS,2021/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-29177.0
-ALFAS,2021/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
-ALFAS,2021/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
-ALFAS,2021/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,-29546.0
-ALFAS,2021/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-58724.0
-ALFAS,2021/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,10103607.0
-ALFAS,2021/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
-ALFAS,2021/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
-ALFAS,2021/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,10103607.0
-ALFAS,2021/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
-ALFAS,2021/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3693776.0
-ALFAS,2021/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,13797383.0
+ALFAS,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,149328282.0
+ALFAS,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,72210969.0
+ALFAS,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2933571.0
+ALFAS,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,5305929.0
+ALFAS,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ALFAS,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,3202703.0
+ALFAS,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ALFAS,2022/12,1AF,Stoklar,Inventories,42390600.0
+ALFAS,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ALFAS,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,23284510.0
+ALFAS,2022/12,1AI,(Ara Toplam),(Subtotal),149328282.0
+ALFAS,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ALFAS,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,33259815.0
+ALFAS,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+ALFAS,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ALFAS,2022/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+ALFAS,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ALFAS,2022/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+ALFAS,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ALFAS,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ALFAS,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ALFAS,2022/12,1BFA,Stoklar,Stoklar,0.0
+ALFAS,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ALFAS,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,24543752.0
+ALFAS,2022/12,1BGA,Şerefiye,Goodwill,0.0
+ALFAS,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
+ALFAS,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,8716062.0
+ALFAS,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
+ALFAS,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,182588097.0
+ALFAS,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ALFAS,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,93418396.0
+ALFAS,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1465415.0
+ALFAS,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ALFAS,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,38956404.0
+ALFAS,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,286711.0
+ALFAS,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,47033968.0
+ALFAS,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ALFAS,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ALFAS,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ALFAS,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4468761.0
+ALFAS,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,81878.0
+ALFAS,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1125259.0
+ALFAS,2022/12,2AAGG,(Ara Toplam),(Subtotal),93418396.0
+ALFAS,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ALFAS,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,248074.0
+ALFAS,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,20093.0
+ALFAS,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ALFAS,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ALFAS,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ALFAS,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ALFAS,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ALFAS,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ALFAS,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ALFAS,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,227981.0
+ALFAS,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ALFAS,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+ALFAS,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ALFAS,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,88921628.0
+ALFAS,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,88921628.0
+ALFAS,2022/12,2OA,Ödenmiş Sermaye,Share Capital,2455691.0
+ALFAS,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ALFAS,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+ALFAS,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ALFAS,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+ALFAS,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,835146.0
+ALFAS,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),8079210.0
+ALFAS,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),43562620.0
+ALFAS,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,33988961.0
+ALFAS,2022/12,2ODA,Azınlık Payları,Minority Interests,0.0
+ALFAS,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,182588097.0
+ALFAS,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ALFAS,2022/12,3C,Satış Gelirleri,Net Sales,251555632.0
+ALFAS,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-199321356.0
+ALFAS,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ALFAS,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,52234276.0
+ALFAS,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ALFAS,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ALFAS,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ALFAS,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ALFAS,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ALFAS,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),52234276.0
+ALFAS,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-463032.0
+ALFAS,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1578928.0
+ALFAS,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ALFAS,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,12112527.0
+ALFAS,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-19193844.0
+ALFAS,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ALFAS,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,43111000.0
+ALFAS,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,50192316.0
+ALFAS,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3430407.0
+ALFAS,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-361250.0
+ALFAS,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ALFAS,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ALFAS,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,46180156.0
+ALFAS,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),11526439.0
+ALFAS,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-13729806.0
+ALFAS,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,3069157.0
+ALFAS,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,43976789.0
+ALFAS,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,5136330.0
+ALFAS,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-5377390.0
+ALFAS,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,10513720.0
+ALFAS,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ALFAS,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,49113119.0
+ALFAS,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ALFAS,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ALFAS,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,49113119.0
+ALFAS,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ALFAS,2022/12,3LB,Azınlık Payları,Minority Interests,0.0
+ALFAS,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,49113119.0
+ALFAS,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
+ALFAS,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ALFAS,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ALFAS,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ALFAS,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,803537.0
+ALFAS,2022/12,4BA,Kıdem Tazminatı,Severance Payments,107021.0
+ALFAS,2022/12,4BB,Finansman Giderleri,Financial Expenses,-13729806.0
+ALFAS,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,250823177.0
+ALFAS,2022/12,4BD,Yurtdışı Satışlar,Export Sales,2681032.0
+ALFAS,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-33712717.0
+ALFAS,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-33712717.0
+ALFAS,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-33712717.0
+ALFAS,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,54638785.0
+ALFAS,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,49113119.0
+ALFAS,2022/12,4CAA,Düzeltmeler:,Adjustments:,-8738971.0
+ALFAS,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,803537.0
+ALFAS,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,105241.0
+ALFAS,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-9647749.0
+ALFAS,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),40374148.0
+ALFAS,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,14603882.0
+ALFAS,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),54978030.0
+ALFAS,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-339245.0
+ALFAS,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-20269015.0
+ALFAS,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2760589.0
+ALFAS,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-23029604.0
+ALFAS,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,31609181.0
+ALFAS,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-149606.0
+ALFAS,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-4887240.0
+ALFAS,2022/12,4CBC,Sermaye Artırımı,Rights Issue,33691711.0
+ALFAS,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,1086544.0
+ALFAS,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,29741409.0
+ALFAS,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,61350590.0
+ALFAS,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+ALFAS,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ALFAS,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,61350590.0
+ALFAS,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ALFAS,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,20061086.0
+ALFAS,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,81411676.0
 ALFAS,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,0.0
 ALFAS,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,0.0
 ALFAS,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
 ALFAS,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,0.0
 ALFAS,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 ALFAS,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
-ALFAS,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2022/3,1AF,Stoklar,Inventories,0.0
 ALFAS,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 ALFAS,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,0.0
@@ -603,13 +750,13 @@ ALFAS,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,0.0
 ALFAS,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
 ALFAS,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 ALFAS,2022/3,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2022/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
 ALFAS,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 ALFAS,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 ALFAS,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 ALFAS,2022/3,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2022/3,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+ALFAS,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 ALFAS,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,0.0
 ALFAS,2022/3,1BGA,Şerefiye,Goodwill,0.0
 ALFAS,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
@@ -622,10 +769,10 @@ ALFAS,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,0.0
 ALFAS,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,0.0
 ALFAS,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,0.0
-ALFAS,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+ALFAS,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 ALFAS,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 ALFAS,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 ALFAS,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,0.0
 ALFAS,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
@@ -636,10 +783,10 @@ ALFAS,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
 ALFAS,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 ALFAS,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+ALFAS,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 ALFAS,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 ALFAS,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,0.0
 ALFAS,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 ALFAS,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -676,11 +823,11 @@ ALFAS,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 ALFAS,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 ALFAS,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2043253.0
 ALFAS,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2814842.0
-ALFAS,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,,206212.0
-ALFAS,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-ALFAS,2022/3,3HAB,Diğer Gelir ve Giderler,,0.0
+ALFAS,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,206212.0
+ALFAS,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+ALFAS,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
 ALFAS,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-ALFAS,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,2249465.0
+ALFAS,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,2249465.0
 ALFAS,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),746541.0
 ALFAS,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-262146.0
 ALFAS,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,206212.0
@@ -740,7 +887,7 @@ ALFAS,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,7706026.
 ALFAS,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,3244603.0
 ALFAS,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 ALFAS,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,1506753.0
-ALFAS,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2022/6,1AF,Stoklar,Inventories,12748525.0
 ALFAS,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 ALFAS,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,13814868.0
@@ -750,13 +897,13 @@ ALFAS,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,4626790.0
 ALFAS,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
 ALFAS,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 ALFAS,2022/6,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2022/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
 ALFAS,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 ALFAS,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 ALFAS,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 ALFAS,2022/6,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2022/6,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+ALFAS,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 ALFAS,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,4043567.0
 ALFAS,2022/6,1BGA,Şerefiye,Goodwill,0.0
 ALFAS,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
@@ -769,10 +916,10 @@ ALFAS,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,6652326.0
 ALFAS,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,23531596.0
 ALFAS,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,166574.0
-ALFAS,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,,14510564.0
+ALFAS,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,14510564.0
 ALFAS,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 ALFAS,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 ALFAS,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,38697.0
 ALFAS,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,128898.0
@@ -783,10 +930,10 @@ ALFAS,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,102127.0
 ALFAS,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 ALFAS,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+ALFAS,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 ALFAS,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 ALFAS,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,53778.0
 ALFAS,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 ALFAS,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -823,11 +970,11 @@ ALFAS,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 ALFAS,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 ALFAS,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,6144567.0
 ALFAS,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,7952281.0
-ALFAS,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,,589697.0
-ALFAS,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-189404.0
-ALFAS,2022/6,3HAB,Diğer Gelir ve Giderler,,0.0
+ALFAS,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,589697.0
+ALFAS,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-189404.0
+ALFAS,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
 ALFAS,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-ALFAS,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,6544861.0
+ALFAS,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,6544861.0
 ALFAS,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),3084326.0
 ALFAS,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-794394.0
 ALFAS,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,400294.0
@@ -887,7 +1034,7 @@ ALFAS,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,3014882.
 ALFAS,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,839266.0
 ALFAS,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 ALFAS,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,2694060.0
-ALFAS,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2022/9,1AF,Stoklar,Inventories,29042648.0
 ALFAS,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 ALFAS,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,18523080.0
@@ -897,13 +1044,13 @@ ALFAS,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,13954396.0
 ALFAS,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
 ALFAS,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 ALFAS,2022/9,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2022/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
 ALFAS,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 ALFAS,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 ALFAS,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 ALFAS,2022/9,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2022/9,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+ALFAS,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 ALFAS,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,9753467.0
 ALFAS,2022/9,1BGA,Şerefiye,Goodwill,0.0
 ALFAS,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
@@ -916,10 +1063,10 @@ ALFAS,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,4508252.0
 ALFAS,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,31209727.0
 ALFAS,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,155012.0
-ALFAS,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,,31740969.0
+ALFAS,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,31740969.0
 ALFAS,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 ALFAS,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 ALFAS,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,41176.0
 ALFAS,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,194029.0
@@ -930,10 +1077,10 @@ ALFAS,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,57903.0
 ALFAS,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 ALFAS,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+ALFAS,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 ALFAS,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 ALFAS,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,75571.0
 ALFAS,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 ALFAS,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -970,11 +1117,11 @@ ALFAS,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 ALFAS,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 ALFAS,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,7706403.0
 ALFAS,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,12013728.0
-ALFAS,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,,701857.0
-ALFAS,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-164686.0
-ALFAS,2022/9,3HAB,Diğer Gelir ve Giderler,,0.0
+ALFAS,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,701857.0
+ALFAS,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-164686.0
+ALFAS,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
 ALFAS,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-ALFAS,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,8243574.0
+ALFAS,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,8243574.0
 ALFAS,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),5624992.0
 ALFAS,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1263495.0
 ALFAS,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,537171.0
@@ -1028,160 +1175,160 @@ ALFAS,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equiv
 ALFAS,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
 ALFAS,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,7738494.0
 ALFAS,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,22052226.0
-ALFAS,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,149328282.0
-ALFAS,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,72210969.0
-ALFAS,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,2933571.0
-ALFAS,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,5305929.0
-ALFAS,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
-ALFAS,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,3202703.0
-ALFAS,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-ALFAS,2022/12,1AF,Stoklar,Inventories,42390600.0
-ALFAS,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
-ALFAS,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,23284510.0
-ALFAS,2022/12,1AI,(Ara Toplam),(Subtotal),149328282.0
-ALFAS,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
-ALFAS,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,33259815.0
-ALFAS,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
-ALFAS,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
-ALFAS,2022/12,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-ALFAS,2022/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
-ALFAS,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
-ALFAS,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
-ALFAS,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
-ALFAS,2022/12,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2022/12,1BFAA,Kullanım Hakkı Varlıkları,,0.0
-ALFAS,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,24543752.0
-ALFAS,2022/12,1BGA,Şerefiye,Goodwill,0.0
-ALFAS,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
-ALFAS,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,8716062.0
-ALFAS,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
-ALFAS,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,182588097.0
-ALFAS,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
-ALFAS,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,93418396.0
-ALFAS,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1465415.0
-ALFAS,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-ALFAS,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,38956404.0
-ALFAS,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,286711.0
-ALFAS,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,,47033968.0
-ALFAS,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
-ALFAS,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
-ALFAS,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),4468761.0
-ALFAS,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,81878.0
-ALFAS,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1125259.0
-ALFAS,2022/12,2AAGG,(Ara Toplam),(Subtotal),93418396.0
-ALFAS,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
-ALFAS,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,248074.0
-ALFAS,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,20093.0
-ALFAS,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-ALFAS,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
-ALFAS,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
-ALFAS,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
-ALFAS,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
-ALFAS,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,227981.0
-ALFAS,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
-ALFAS,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
-ALFAS,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
-ALFAS,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,88921628.0
-ALFAS,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,88921628.0
-ALFAS,2022/12,2OA,Ödenmiş Sermaye,Share Capital,2455691.0
-ALFAS,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
-ALFAS,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
-ALFAS,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
-ALFAS,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
-ALFAS,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,835146.0
-ALFAS,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),8079210.0
-ALFAS,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),43562620.0
-ALFAS,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,33988961.0
-ALFAS,2022/12,2ODA,Azınlık Payları,Minority Interests,0.0
-ALFAS,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,182588097.0
-ALFAS,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
-ALFAS,2022/12,3C,Satış Gelirleri,Net Sales,251555632.0
-ALFAS,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-199321356.0
-ALFAS,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
-ALFAS,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,52234276.0
-ALFAS,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
-ALFAS,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
-ALFAS,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
-ALFAS,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
-ALFAS,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
-ALFAS,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),52234276.0
-ALFAS,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-463032.0
-ALFAS,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1578928.0
-ALFAS,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
-ALFAS,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,12112527.0
-ALFAS,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-19193844.0
-ALFAS,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
-ALFAS,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,43111000.0
-ALFAS,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,50192316.0
-ALFAS,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,,3430407.0
-ALFAS,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-361250.0
-ALFAS,2022/12,3HAB,Diğer Gelir ve Giderler,,0.0
-ALFAS,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-ALFAS,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,46180156.0
-ALFAS,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),11526439.0
-ALFAS,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-13729806.0
-ALFAS,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,3069157.0
-ALFAS,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,43976789.0
-ALFAS,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,5136330.0
-ALFAS,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-5377390.0
-ALFAS,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,10513720.0
-ALFAS,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
-ALFAS,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,49113119.0
-ALFAS,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
-ALFAS,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
-ALFAS,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,49113119.0
-ALFAS,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
-ALFAS,2022/12,3LB,Azınlık Payları,Minority Interests,0.0
-ALFAS,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,49113119.0
-ALFAS,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,1.0
-ALFAS,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
-ALFAS,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
-ALFAS,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
-ALFAS,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,803537.0
-ALFAS,2022/12,4BA,Kıdem Tazminatı,Severance Payments,107021.0
-ALFAS,2022/12,4BB,Finansman Giderleri,Financial Expenses,-13729806.0
-ALFAS,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,250823177.0
-ALFAS,2022/12,4BD,Yurtdışı Satışlar,Export Sales,2681032.0
-ALFAS,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-33712717.0
-ALFAS,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-33712717.0
-ALFAS,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-33712717.0
-ALFAS,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,54638785.0
-ALFAS,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,49113119.0
-ALFAS,2022/12,4CAA,Düzeltmeler:,Adjustments:,-8738971.0
-ALFAS,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,803537.0
-ALFAS,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,105241.0
-ALFAS,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-9647749.0
-ALFAS,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),40374148.0
-ALFAS,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,14603882.0
-ALFAS,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),54978030.0
-ALFAS,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-339245.0
-ALFAS,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-20269015.0
-ALFAS,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-2760589.0
-ALFAS,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-23029604.0
-ALFAS,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,31609181.0
-ALFAS,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-149606.0
-ALFAS,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,-4887240.0
-ALFAS,2022/12,4CBC,Sermaye Artırımı,Rights Issue,33691711.0
-ALFAS,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,1086544.0
-ALFAS,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,29741409.0
-ALFAS,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,61350590.0
-ALFAS,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
-ALFAS,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
-ALFAS,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,61350590.0
-ALFAS,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
-ALFAS,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,20061086.0
-ALFAS,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,81411676.0
+ALFAS,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,183376338.0
+ALFAS,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,50405873.0
+ALFAS,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,19693699.0
+ALFAS,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,8322663.0
+ALFAS,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ALFAS,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,3584651.0
+ALFAS,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ALFAS,2023/12,1AF,Stoklar,Inventories,66464755.0
+ALFAS,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ALFAS,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,34904699.0
+ALFAS,2023/12,1AI,(Ara Toplam),(Subtotal),183376338.0
+ALFAS,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ALFAS,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,65073119.0
+ALFAS,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+ALFAS,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ALFAS,2023/12,1BB,Diğer Alacaklar,Other Receivables,12136.0
+ALFAS,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ALFAS,2023/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+ALFAS,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+ALFAS,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ALFAS,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ALFAS,2023/12,1BFA,Stoklar,Stoklar,0.0
+ALFAS,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ALFAS,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,65060983.0
+ALFAS,2023/12,1BGA,Şerefiye,Goodwill,0.0
+ALFAS,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
+ALFAS,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+ALFAS,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
+ALFAS,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,248449457.0
+ALFAS,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ALFAS,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,106554666.0
+ALFAS,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,8999215.0
+ALFAS,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ALFAS,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,43771592.0
+ALFAS,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,187373.0
+ALFAS,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,49956544.0
+ALFAS,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ALFAS,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ALFAS,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ALFAS,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1759825.0
+ALFAS,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,192799.0
+ALFAS,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1687317.0
+ALFAS,2023/12,2AAGG,(Ara Toplam),(Subtotal),106554666.0
+ALFAS,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ALFAS,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,8040129.0
+ALFAS,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,5112819.0
+ALFAS,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ALFAS,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,1347.0
+ALFAS,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ALFAS,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ALFAS,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ALFAS,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ALFAS,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ALFAS,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,297707.0
+ALFAS,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ALFAS,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,2628255.0
+ALFAS,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ALFAS,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,133854663.0
+ALFAS,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,133757520.0
+ALFAS,2023/12,2OA,Ödenmiş Sermaye,Share Capital,12478256.0
+ALFAS,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ALFAS,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,25657529.0
+ALFAS,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ALFAS,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+ALFAS,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2507496.0
+ALFAS,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),30773922.0
+ALFAS,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),50873185.0
+ALFAS,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,11467132.0
+ALFAS,2023/12,2ODA,Azınlık Payları,Minority Interests,97142.0
+ALFAS,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,248449457.0
+ALFAS,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ALFAS,2023/12,3C,Satış Gelirleri,Net Sales,468549207.0
+ALFAS,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-371026398.0
+ALFAS,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ALFAS,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,97522809.0
+ALFAS,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ALFAS,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ALFAS,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ALFAS,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ALFAS,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ALFAS,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),97522809.0
+ALFAS,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-7007259.0
+ALFAS,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-5180979.0
+ALFAS,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
+ALFAS,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,17246044.0
+ALFAS,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-51719320.0
+ALFAS,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ALFAS,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,50861296.0
+ALFAS,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,85334572.0
+ALFAS,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,36622134.0
+ALFAS,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1119418.0
+ALFAS,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ALFAS,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+ALFAS,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,86364011.0
+ALFAS,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),21513245.0
+ALFAS,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-33047776.0
+ALFAS,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,35502716.0
+ALFAS,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,74829480.0
+ALFAS,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-11868144.0
+ALFAS,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-5820861.0
+ALFAS,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-6047283.0
+ALFAS,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ALFAS,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,62961336.0
+ALFAS,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+ALFAS,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ALFAS,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,62961336.0
+ALFAS,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+ALFAS,2023/12,3LB,Azınlık Payları,Minority Interests,-1677.0
+ALFAS,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,62963013.0
+ALFAS,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ALFAS,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ALFAS,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ALFAS,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ALFAS,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,1659642.0
+ALFAS,2023/12,4BA,Kıdem Tazminatı,Severance Payments,184681.0
+ALFAS,2023/12,4BB,Finansman Giderleri,Financial Expenses,-33047776.0
+ALFAS,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,470568950.0
+ALFAS,2023/12,4BD,Yurtdışı Satışlar,Export Sales,2623748.0
+ALFAS,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-55345761.0
+ALFAS,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-55345761.0
+ALFAS,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-55345761.0
+ALFAS,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-42479170.0
+ALFAS,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,62961336.0
+ALFAS,2023/12,4CAA,Düzeltmeler:,Adjustments:,-59623137.0
+ALFAS,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1659642.0
+ALFAS,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,255024.0
+ALFAS,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-13759015.0
+ALFAS,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),3338199.0
+ALFAS,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-37818466.0
+ALFAS,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-34480267.0
+ALFAS,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-7998902.0
+ALFAS,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-36180668.0
+ALFAS,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-17144405.0
+ALFAS,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-53325073.0
+ALFAS,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,-95804243.0
+ALFAS,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,15211816.0
+ALFAS,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-18369958.0
+ALFAS,2023/12,4CBC,Sermaye Artırımı,Rights Issue,19994932.0
+ALFAS,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,11886538.0
+ALFAS,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,28723329.0
+ALFAS,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-67080914.0
+ALFAS,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+ALFAS,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ALFAS,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-67080914.0
+ALFAS,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ALFAS,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,81958371.0
+ALFAS,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,62384645.0
 ALFAS,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,111424714.0
 ALFAS,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,33664047.0
 ALFAS,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,28321628.0
 ALFAS,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1874843.0
 ALFAS,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 ALFAS,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,2954810.0
-ALFAS,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2023/3,1AF,Stoklar,Inventories,32131615.0
 ALFAS,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 ALFAS,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,12477771.0
@@ -1191,13 +1338,13 @@ ALFAS,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,18483256.0
 ALFAS,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
 ALFAS,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 ALFAS,2023/3,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2023/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
 ALFAS,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 ALFAS,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 ALFAS,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 ALFAS,2023/3,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2023/3,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+ALFAS,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 ALFAS,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,15551426.0
 ALFAS,2023/3,1BGA,Şerefiye,Goodwill,0.0
 ALFAS,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
@@ -1210,10 +1357,10 @@ ALFAS,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,3435770.0
 ALFAS,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,27275522.0
 ALFAS,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,2803597.0
-ALFAS,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,,27063636.0
+ALFAS,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,27063636.0
 ALFAS,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 ALFAS,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1642046.0
 ALFAS,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,67065.0
 ALFAS,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,627844.0
@@ -1224,10 +1371,10 @@ ALFAS,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,4280431.0
 ALFAS,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 ALFAS,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+ALFAS,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 ALFAS,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 ALFAS,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,231749.0
 ALFAS,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 ALFAS,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -1264,11 +1411,11 @@ ALFAS,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 ALFAS,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 ALFAS,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,20020795.0
 ALFAS,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,21360518.0
-ALFAS,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,,10972446.0
-ALFAS,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-185976.0
-ALFAS,2023/3,3HAB,Diğer Gelir ve Giderler,,0.0
+ALFAS,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,10972446.0
+ALFAS,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-185976.0
+ALFAS,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
 ALFAS,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-ALFAS,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,30807264.0
+ALFAS,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,30807264.0
 ALFAS,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),2149806.0
 ALFAS,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-7377900.0
 ALFAS,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,10786469.0
@@ -1328,7 +1475,7 @@ ALFAS,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,26504868
 ALFAS,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,2302753.0
 ALFAS,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 ALFAS,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,1319526.0
-ALFAS,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2023/6,1AF,Stoklar,Inventories,47000816.0
 ALFAS,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 ALFAS,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,13700080.0
@@ -1338,13 +1485,13 @@ ALFAS,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,19573754.0
 ALFAS,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
 ALFAS,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 ALFAS,2023/6,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2023/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
 ALFAS,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 ALFAS,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 ALFAS,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 ALFAS,2023/6,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2023/6,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+ALFAS,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 ALFAS,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,17190405.0
 ALFAS,2023/6,1BGA,Şerefiye,Goodwill,0.0
 ALFAS,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
@@ -1357,10 +1504,10 @@ ALFAS,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,6820022.0
 ALFAS,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,20009793.0
 ALFAS,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,483815.0
-ALFAS,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,,51371878.0
+ALFAS,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,51371878.0
 ALFAS,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 ALFAS,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 ALFAS,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,53277.0
 ALFAS,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,880762.0
@@ -1371,10 +1518,10 @@ ALFAS,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,3515206.0
 ALFAS,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 ALFAS,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+ALFAS,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 ALFAS,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 ALFAS,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,127344.0
 ALFAS,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 ALFAS,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -1411,11 +1558,11 @@ ALFAS,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 ALFAS,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 ALFAS,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,15243214.0
 ALFAS,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,48374409.0
-ALFAS,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,,29387684.0
-ALFAS,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-1153843.0
-ALFAS,2023/6,3HAB,Diğer Gelir ve Giderler,,0.0
+ALFAS,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,29387684.0
+ALFAS,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1153843.0
+ALFAS,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
 ALFAS,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-ALFAS,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,43477055.0
+ALFAS,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,43477055.0
 ALFAS,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),14661834.0
 ALFAS,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-6907642.0
 ALFAS,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,28233841.0
@@ -1475,7 +1622,7 @@ ALFAS,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,24024926
 ALFAS,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,10448334.0
 ALFAS,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 ALFAS,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,1977765.0
-ALFAS,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2023/9,1AF,Stoklar,Inventories,52314508.0
 ALFAS,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 ALFAS,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,20551308.0
@@ -1485,13 +1632,13 @@ ALFAS,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,25528615.0
 ALFAS,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
 ALFAS,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 ALFAS,2023/9,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2023/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
 ALFAS,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 ALFAS,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 ALFAS,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 ALFAS,2023/9,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2023/9,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+ALFAS,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 ALFAS,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,21421592.0
 ALFAS,2023/9,1BGA,Şerefiye,Goodwill,3779398.0
 ALFAS,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
@@ -1504,10 +1651,10 @@ ALFAS,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,8541567.0
 ALFAS,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,30570313.0
 ALFAS,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,137653.0
-ALFAS,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,,34977426.0
+ALFAS,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,34977426.0
 ALFAS,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 ALFAS,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),946319.0
 ALFAS,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,89104.0
 ALFAS,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,957626.0
@@ -1518,10 +1665,10 @@ ALFAS,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,3917777.0
 ALFAS,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,4146.0
 ALFAS,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+ALFAS,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 ALFAS,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 ALFAS,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,156282.0
 ALFAS,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 ALFAS,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -1558,11 +1705,11 @@ ALFAS,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 ALFAS,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 ALFAS,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,50181916.0
 ALFAS,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,78902444.0
-ALFAS,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,,29984975.0
-ALFAS,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-1126367.0
-ALFAS,2023/9,3HAB,Diğer Gelir ve Giderler,,0.0
+ALFAS,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,29984975.0
+ALFAS,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1126367.0
+ALFAS,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
 ALFAS,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-ALFAS,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,79040524.0
+ALFAS,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,79040524.0
 ALFAS,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),18185608.0
 ALFAS,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-28957051.0
 ALFAS,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,28858608.0
@@ -1616,160 +1763,158 @@ ALFAS,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equiv
 ALFAS,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
 ALFAS,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,82784211.0
 ALFAS,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,21025280.0
-ALFAS,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,183376338.0
-ALFAS,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,50405873.0
-ALFAS,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,19693699.0
-ALFAS,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,8322663.0
-ALFAS,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
-ALFAS,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,3584651.0
-ALFAS,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-ALFAS,2023/12,1AF,Stoklar,Inventories,66464755.0
-ALFAS,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
-ALFAS,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,34904699.0
-ALFAS,2023/12,1AI,(Ara Toplam),(Subtotal),183376338.0
-ALFAS,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
-ALFAS,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,65073119.0
-ALFAS,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
-ALFAS,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
-ALFAS,2023/12,1BB,Diğer Alacaklar,Other Receivables,12136.0
-ALFAS,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-ALFAS,2023/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
-ALFAS,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
-ALFAS,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
-ALFAS,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
-ALFAS,2023/12,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2023/12,1BFAA,Kullanım Hakkı Varlıkları,,0.0
-ALFAS,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,65060983.0
-ALFAS,2023/12,1BGA,Şerefiye,Goodwill,0.0
-ALFAS,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
-ALFAS,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
-ALFAS,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
-ALFAS,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,248449457.0
-ALFAS,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
-ALFAS,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,106554666.0
-ALFAS,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,8999215.0
-ALFAS,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-ALFAS,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,43771592.0
-ALFAS,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,187373.0
-ALFAS,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,,49956544.0
-ALFAS,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
-ALFAS,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
-ALFAS,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1759825.0
-ALFAS,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,192799.0
-ALFAS,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1687317.0
-ALFAS,2023/12,2AAGG,(Ara Toplam),(Subtotal),106554666.0
-ALFAS,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
-ALFAS,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,8040129.0
-ALFAS,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,5112819.0
-ALFAS,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-ALFAS,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,1347.0
-ALFAS,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
-ALFAS,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
-ALFAS,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
-ALFAS,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,297707.0
-ALFAS,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
-ALFAS,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,2628255.0
-ALFAS,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
-ALFAS,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,133854663.0
-ALFAS,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,133757520.0
-ALFAS,2023/12,2OA,Ödenmiş Sermaye,Share Capital,12478256.0
-ALFAS,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
-ALFAS,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,25657529.0
-ALFAS,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
-ALFAS,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
-ALFAS,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,2507496.0
-ALFAS,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),30773922.0
-ALFAS,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),50873185.0
-ALFAS,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,11467132.0
-ALFAS,2023/12,2ODA,Azınlık Payları,Minority Interests,97142.0
-ALFAS,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,248449457.0
-ALFAS,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
-ALFAS,2023/12,3C,Satış Gelirleri,Net Sales,468549207.0
-ALFAS,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-371026398.0
-ALFAS,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
-ALFAS,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,97522809.0
-ALFAS,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
-ALFAS,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
-ALFAS,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
-ALFAS,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
-ALFAS,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
-ALFAS,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),97522809.0
-ALFAS,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-7007259.0
-ALFAS,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-5180979.0
-ALFAS,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),0.0
-ALFAS,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,17246044.0
-ALFAS,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-51719320.0
-ALFAS,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
-ALFAS,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,50861296.0
-ALFAS,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,85334572.0
-ALFAS,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,,36622134.0
-ALFAS,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-1119418.0
-ALFAS,2023/12,3HAB,Diğer Gelir ve Giderler,,0.0
-ALFAS,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-ALFAS,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,86364011.0
-ALFAS,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),21513245.0
-ALFAS,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-33047776.0
-ALFAS,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,35502716.0
-ALFAS,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,74829480.0
-ALFAS,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-11868144.0
-ALFAS,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-5820861.0
-ALFAS,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-6047283.0
-ALFAS,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
-ALFAS,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,62961336.0
-ALFAS,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
-ALFAS,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
-ALFAS,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,62961336.0
-ALFAS,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
-ALFAS,2023/12,3LB,Azınlık Payları,Minority Interests,-1677.0
-ALFAS,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,62963013.0
-ALFAS,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
-ALFAS,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
-ALFAS,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
-ALFAS,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
-ALFAS,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,1659642.0
-ALFAS,2023/12,4BA,Kıdem Tazminatı,Severance Payments,184681.0
-ALFAS,2023/12,4BB,Finansman Giderleri,Financial Expenses,-33047776.0
-ALFAS,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,470568950.0
-ALFAS,2023/12,4BD,Yurtdışı Satışlar,Export Sales,2623748.0
-ALFAS,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-55345761.0
-ALFAS,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-55345761.0
-ALFAS,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-55345761.0
-ALFAS,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-42479170.0
-ALFAS,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,62961336.0
-ALFAS,2023/12,4CAA,Düzeltmeler:,Adjustments:,-59623137.0
-ALFAS,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1659642.0
-ALFAS,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,255024.0
-ALFAS,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-13759015.0
-ALFAS,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),3338199.0
-ALFAS,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-37818466.0
-ALFAS,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-34480267.0
-ALFAS,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-7998902.0
-ALFAS,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-36180668.0
-ALFAS,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-17144405.0
-ALFAS,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-53325073.0
-ALFAS,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,-95804243.0
-ALFAS,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,15211816.0
-ALFAS,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-18369958.0
-ALFAS,2023/12,4CBC,Sermaye Artırımı,Rights Issue,19994932.0
-ALFAS,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,11886538.0
-ALFAS,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,28723329.0
-ALFAS,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-67080914.0
-ALFAS,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
-ALFAS,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
-ALFAS,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-67080914.0
-ALFAS,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
-ALFAS,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,81958371.0
-ALFAS,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,62384645.0
+ALFAS,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,135935185.0
+ALFAS,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,31738021.0
+ALFAS,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,83957.0
+ALFAS,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,25274758.0
+ALFAS,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+ALFAS,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,1812561.0
+ALFAS,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ALFAS,2024/12,1AF,Stoklar,Inventories,44688453.0
+ALFAS,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+ALFAS,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,32337434.0
+ALFAS,2024/12,1AI,(Ara Toplam),(Subtotal),135935185.0
+ALFAS,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+ALFAS,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,121088435.0
+ALFAS,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+ALFAS,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+ALFAS,2024/12,1BB,Diğer Alacaklar,Other Receivables,0.0
+ALFAS,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+ALFAS,2024/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
+ALFAS,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,24043507.0
+ALFAS,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+ALFAS,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+ALFAS,2024/12,1BFA,Stoklar,Stoklar,0.0
+ALFAS,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+ALFAS,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,93723054.0
+ALFAS,2024/12,1BGA,Şerefiye,Goodwill,0.0
+ALFAS,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3321874.0
+ALFAS,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+ALFAS,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
+ALFAS,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,257023620.0
+ALFAS,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+ALFAS,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,100248049.0
+ALFAS,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,31535757.0
+ALFAS,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ALFAS,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,21471964.0
+ALFAS,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1815973.0
+ALFAS,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,38318114.0
+ALFAS,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+ALFAS,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+ALFAS,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+ALFAS,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+ALFAS,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,233703.0
+ALFAS,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,6872537.0
+ALFAS,2024/12,2AAGG,(Ara Toplam),(Subtotal),100248049.0
+ALFAS,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+ALFAS,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,21921178.0
+ALFAS,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,15247964.0
+ALFAS,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+ALFAS,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+ALFAS,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+ALFAS,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+ALFAS,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+ALFAS,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+ALFAS,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+ALFAS,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,676738.0
+ALFAS,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+ALFAS,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,5996476.0
+ALFAS,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+ALFAS,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,134854393.0
+ALFAS,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,134742709.0
+ALFAS,2024/12,2OA,Ödenmiş Sermaye,Share Capital,10412010.0
+ALFAS,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+ALFAS,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,26853167.0
+ALFAS,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+ALFAS,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+ALFAS,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,9049189.0
+ALFAS,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),63715554.0
+ALFAS,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),7069481.0
+ALFAS,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,14995577.0
+ALFAS,2024/12,2ODA,Azınlık Payları,Minority Interests,111684.0
+ALFAS,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,257023620.0
+ALFAS,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+ALFAS,2024/12,3C,Satış Gelirleri,Net Sales,293732610.0
+ALFAS,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-262963011.0
+ALFAS,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+ALFAS,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,30769599.0
+ALFAS,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+ALFAS,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+ALFAS,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+ALFAS,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+ALFAS,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+ALFAS,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),30769599.0
+ALFAS,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-7703167.0
+ALFAS,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-4716931.0
+ALFAS,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-225455.0
+ALFAS,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,9619819.0
+ALFAS,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-16502899.0
+ALFAS,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+ALFAS,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,11240967.0
+ALFAS,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,18124046.0
+ALFAS,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,14964472.0
+ALFAS,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1271113.0
+ALFAS,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+ALFAS,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,2408053.0
+ALFAS,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,27342378.0
+ALFAS,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),10964391.0
+ALFAS,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-24853976.0
+ALFAS,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,13693359.0
+ALFAS,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,13452794.0
+ALFAS,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-5915216.0
+ALFAS,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1464102.0
+ALFAS,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-4451114.0
+ALFAS,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+ALFAS,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,7537578.0
+ALFAS,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+ALFAS,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,7537578.0
+ALFAS,2024/12,3LB,Azınlık Payları,Minority Interests,-63209.0
+ALFAS,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,7600787.0
+ALFAS,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+ALFAS,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+ALFAS,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+ALFAS,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+ALFAS,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,3836964.0
+ALFAS,2024/12,4BA,Kıdem Tazminatı,Severance Payments,295102.0
+ALFAS,2024/12,4BB,Finansman Giderleri,Financial Expenses,-24853976.0
+ALFAS,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,290575581.0
+ALFAS,2024/12,4BD,Yurtdışı Satışlar,Export Sales,2782549.0
+ALFAS,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-51371700.0
+ALFAS,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-51371700.0
+ALFAS,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-51371700.0
+ALFAS,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,9058125.0
+ALFAS,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,7537578.0
+ALFAS,2024/12,4CAA,Düzeltmeler:,Adjustments:,21413540.0
+ALFAS,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,3836964.0
+ALFAS,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,221549.0
+ALFAS,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1426329.0
+ALFAS,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),28951118.0
+ALFAS,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-16315414.0
+ALFAS,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),12635704.0
+ALFAS,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-3577580.0
+ALFAS,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-29643743.0
+ALFAS,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-39769825.0
+ALFAS,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-69413568.0
+ALFAS,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,-60355444.0
+ALFAS,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,35677266.0
+ALFAS,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-16462182.0
+ALFAS,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+ALFAS,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,1109781.0
+ALFAS,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,20324865.0
+ALFAS,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-40030579.0
+ALFAS,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+ALFAS,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+ALFAS,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-40030579.0
+ALFAS,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+ALFAS,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,56719556.0
+ALFAS,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,34123287.0
 ALFAS,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,103580094.0
 ALFAS,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,22755428.0
 ALFAS,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,13624667.0
 ALFAS,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,12929885.0
 ALFAS,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 ALFAS,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,995925.0
-ALFAS,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2024/3,1AF,Stoklar,Inventories,38435787.0
 ALFAS,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 ALFAS,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,14838401.0
@@ -1779,13 +1924,13 @@ ALFAS,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,61988984.0
 ALFAS,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
 ALFAS,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 ALFAS,2024/3,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2024/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
 ALFAS,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,11578934.0
 ALFAS,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 ALFAS,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 ALFAS,2024/3,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2024/3,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+ALFAS,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 ALFAS,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,49455750.0
 ALFAS,2024/3,1BGA,Şerefiye,Goodwill,0.0
 ALFAS,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,953920.0
@@ -1798,10 +1943,10 @@ ALFAS,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,14349525.0
 ALFAS,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,14013547.0
 ALFAS,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,2178171.0
-ALFAS,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,,42379718.0
+ALFAS,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,42379718.0
 ALFAS,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 ALFAS,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 ALFAS,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,153919.0
 ALFAS,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1035083.0
@@ -1812,10 +1957,10 @@ ALFAS,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,2868472.0
 ALFAS,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 ALFAS,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+ALFAS,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 ALFAS,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 ALFAS,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,271632.0
 ALFAS,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 ALFAS,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,3227701.0
@@ -1852,11 +1997,11 @@ ALFAS,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 ALFAS,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 ALFAS,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-13067643.0
 ALFAS,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-8527678.0
-ALFAS,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,,6187637.0
-ALFAS,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-1297590.0
-ALFAS,2024/3,3HAB,Diğer Gelir ve Giderler,,0.0
+ALFAS,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,6187637.0
+ALFAS,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1297590.0
+ALFAS,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
 ALFAS,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-ALFAS,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,-8177597.0
+ALFAS,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,-8177597.0
 ALFAS,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1702903.0
 ALFAS,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-8975647.0
 ALFAS,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,4890047.0
@@ -1916,7 +2061,7 @@ ALFAS,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,9658501.
 ALFAS,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,21256397.0
 ALFAS,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 ALFAS,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,2014307.0
-ALFAS,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2024/6,1AF,Stoklar,Inventories,49313393.0
 ALFAS,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 ALFAS,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,13632506.0
@@ -1926,13 +2071,13 @@ ALFAS,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,67774089.0
 ALFAS,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
 ALFAS,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 ALFAS,2024/6,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2024/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
 ALFAS,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,11699460.0
 ALFAS,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 ALFAS,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 ALFAS,2024/6,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2024/6,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+ALFAS,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 ALFAS,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,55032194.0
 ALFAS,2024/6,1BGA,Şerefiye,Goodwill,0.0
 ALFAS,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1041566.0
@@ -1945,10 +2090,10 @@ ALFAS,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,20656151.0
 ALFAS,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,17149320.0
 ALFAS,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1481749.0
-ALFAS,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,,37056236.0
+ALFAS,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,37056236.0
 ALFAS,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 ALFAS,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),476601.0
 ALFAS,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,155201.0
 ALFAS,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1340396.0
@@ -1959,10 +2104,10 @@ ALFAS,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,12857270.0
 ALFAS,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 ALFAS,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+ALFAS,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 ALFAS,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 ALFAS,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,387828.0
 ALFAS,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 ALFAS,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,4377931.0
@@ -1999,11 +2144,11 @@ ALFAS,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 ALFAS,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 ALFAS,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,9153540.0
 ALFAS,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,13639578.0
-ALFAS,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,,11775247.0
-ALFAS,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-1282166.0
-ALFAS,2024/6,3HAB,Diğer Gelir ve Giderler,,0.0
+ALFAS,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,11775247.0
+ALFAS,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1282166.0
+ALFAS,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
 ALFAS,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,437146.0
-ALFAS,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,20083767.0
+ALFAS,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,20083767.0
 ALFAS,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),4374357.0
 ALFAS,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-10653827.0
 ALFAS,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,10493081.0
@@ -2063,7 +2208,7 @@ ALFAS,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,73646.0
 ALFAS,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,8062135.0
 ALFAS,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 ALFAS,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,3435646.0
-ALFAS,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2024/9,1AF,Stoklar,Inventories,59017032.0
 ALFAS,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 ALFAS,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,19512660.0
@@ -2073,13 +2218,13 @@ ALFAS,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,84290464.0
 ALFAS,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
 ALFAS,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 ALFAS,2024/9,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2024/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
 ALFAS,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,12088252.0
 ALFAS,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 ALFAS,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 ALFAS,2024/9,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2024/9,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+ALFAS,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 ALFAS,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,71075301.0
 ALFAS,2024/9,1BGA,Şerefiye,Goodwill,1057840.0
 ALFAS,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,69071.0
@@ -2092,10 +2237,10 @@ ALFAS,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,16652390.0
 ALFAS,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,20073642.0
 ALFAS,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,475129.0
-ALFAS,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,,40520582.0
+ALFAS,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,40520582.0
 ALFAS,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 ALFAS,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1433296.0
 ALFAS,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,139502.0
 ALFAS,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,824505.0
@@ -2106,10 +2251,10 @@ ALFAS,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,12590381.0
 ALFAS,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 ALFAS,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+ALFAS,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 ALFAS,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 ALFAS,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,430196.0
 ALFAS,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 ALFAS,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,3647219.0
@@ -2146,11 +2291,11 @@ ALFAS,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 ALFAS,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 ALFAS,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,18301637.0
 ALFAS,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,24159738.0
-ALFAS,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,,12664180.0
-ALFAS,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-1242731.0
-ALFAS,2024/9,3HAB,Diğer Gelir ve Giderler,,0.0
+ALFAS,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,12664180.0
+ALFAS,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1242731.0
+ALFAS,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
 ALFAS,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1598136.0
-ALFAS,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,31321222.0
+ALFAS,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,31321222.0
 ALFAS,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),7788681.0
 ALFAS,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-22817450.0
 ALFAS,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,11421449.0
@@ -2204,158 +2349,13 @@ ALFAS,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equiv
 ALFAS,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
 ALFAS,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,57761907.0
 ALFAS,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,35827184.0
-ALFAS,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,135935185.0
-ALFAS,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,31738021.0
-ALFAS,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,83957.0
-ALFAS,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,25274758.0
-ALFAS,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
-ALFAS,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,1812561.0
-ALFAS,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-ALFAS,2024/12,1AF,Stoklar,Inventories,44688453.0
-ALFAS,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
-ALFAS,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,32337434.0
-ALFAS,2024/12,1AI,(Ara Toplam),(Subtotal),135935185.0
-ALFAS,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
-ALFAS,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,121088435.0
-ALFAS,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
-ALFAS,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
-ALFAS,2024/12,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-ALFAS,2024/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
-ALFAS,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,24043507.0
-ALFAS,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
-ALFAS,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
-ALFAS,2024/12,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2024/12,1BFAA,Kullanım Hakkı Varlıkları,,0.0
-ALFAS,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,93723054.0
-ALFAS,2024/12,1BGA,Şerefiye,Goodwill,0.0
-ALFAS,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3321874.0
-ALFAS,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
-ALFAS,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
-ALFAS,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,257023620.0
-ALFAS,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
-ALFAS,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,100248049.0
-ALFAS,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,31535757.0
-ALFAS,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-ALFAS,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,21471964.0
-ALFAS,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1815973.0
-ALFAS,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,,38318114.0
-ALFAS,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
-ALFAS,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
-ALFAS,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
-ALFAS,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,233703.0
-ALFAS,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,6872537.0
-ALFAS,2024/12,2AAGG,(Ara Toplam),(Subtotal),100248049.0
-ALFAS,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
-ALFAS,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,21921178.0
-ALFAS,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,15247964.0
-ALFAS,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-ALFAS,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
-ALFAS,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
-ALFAS,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
-ALFAS,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
-ALFAS,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,676738.0
-ALFAS,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
-ALFAS,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,5996476.0
-ALFAS,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
-ALFAS,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,134854393.0
-ALFAS,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,134742709.0
-ALFAS,2024/12,2OA,Ödenmiş Sermaye,Share Capital,10412010.0
-ALFAS,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
-ALFAS,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,26853167.0
-ALFAS,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
-ALFAS,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
-ALFAS,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,9049189.0
-ALFAS,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),63715554.0
-ALFAS,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),7069481.0
-ALFAS,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,14995577.0
-ALFAS,2024/12,2ODA,Azınlık Payları,Minority Interests,111684.0
-ALFAS,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,257023620.0
-ALFAS,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
-ALFAS,2024/12,3C,Satış Gelirleri,Net Sales,293732610.0
-ALFAS,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-262963011.0
-ALFAS,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
-ALFAS,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,30769599.0
-ALFAS,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
-ALFAS,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
-ALFAS,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
-ALFAS,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
-ALFAS,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
-ALFAS,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),30769599.0
-ALFAS,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-7703167.0
-ALFAS,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-4716931.0
-ALFAS,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-225455.0
-ALFAS,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,9619819.0
-ALFAS,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-16502899.0
-ALFAS,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
-ALFAS,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,11240967.0
-ALFAS,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,18124046.0
-ALFAS,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,,14964472.0
-ALFAS,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-1271113.0
-ALFAS,2024/12,3HAB,Diğer Gelir ve Giderler,,0.0
-ALFAS,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,2408053.0
-ALFAS,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,27342378.0
-ALFAS,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),10964391.0
-ALFAS,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-24853976.0
-ALFAS,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,13693359.0
-ALFAS,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,13452794.0
-ALFAS,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-5915216.0
-ALFAS,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1464102.0
-ALFAS,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,-4451114.0
-ALFAS,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
-ALFAS,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,7537578.0
-ALFAS,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
-ALFAS,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,7537578.0
-ALFAS,2024/12,3LB,Azınlık Payları,Minority Interests,-63209.0
-ALFAS,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,7600787.0
-ALFAS,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
-ALFAS,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
-ALFAS,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
-ALFAS,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
-ALFAS,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,3836964.0
-ALFAS,2024/12,4BA,Kıdem Tazminatı,Severance Payments,295102.0
-ALFAS,2024/12,4BB,Finansman Giderleri,Financial Expenses,-24853976.0
-ALFAS,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,290575581.0
-ALFAS,2024/12,4BD,Yurtdışı Satışlar,Export Sales,2782549.0
-ALFAS,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-51371700.0
-ALFAS,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-51371700.0
-ALFAS,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),-51371700.0
-ALFAS,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,9058125.0
-ALFAS,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,7537578.0
-ALFAS,2024/12,4CAA,Düzeltmeler:,Adjustments:,21413540.0
-ALFAS,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,3836964.0
-ALFAS,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,221549.0
-ALFAS,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,1426329.0
-ALFAS,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),28951118.0
-ALFAS,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-16315414.0
-ALFAS,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),12635704.0
-ALFAS,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,-3577580.0
-ALFAS,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-29643743.0
-ALFAS,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,-39769825.0
-ALFAS,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-69413568.0
-ALFAS,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,-60355444.0
-ALFAS,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,35677266.0
-ALFAS,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-16462182.0
-ALFAS,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
-ALFAS,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,1109781.0
-ALFAS,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,20324865.0
-ALFAS,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-40030579.0
-ALFAS,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
-ALFAS,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
-ALFAS,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-40030579.0
-ALFAS,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
-ALFAS,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,56719556.0
-ALFAS,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,34123287.0
 ALFAS,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,103340924.0
 ALFAS,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,13734831.0
 ALFAS,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1741981.0
 ALFAS,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,28911458.0
 ALFAS,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 ALFAS,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,3340190.0
-ALFAS,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2025/3,1AF,Stoklar,Inventories,35040270.0
 ALFAS,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 ALFAS,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,20572194.0
@@ -2365,13 +2365,13 @@ ALFAS,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,102684645.0
 ALFAS,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
 ALFAS,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 ALFAS,2025/3,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2025/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
 ALFAS,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,20186221.0
 ALFAS,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 ALFAS,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 ALFAS,2025/3,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2025/3,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+ALFAS,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 ALFAS,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,79695168.0
 ALFAS,2025/3,1BGA,Şerefiye,Goodwill,0.0
 ALFAS,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2803256.0
@@ -2384,10 +2384,10 @@ ALFAS,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,30493187.0
 ALFAS,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,21016397.0
 ALFAS,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1413152.0
-ALFAS,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,,23736872.0
+ALFAS,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,23736872.0
 ALFAS,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 ALFAS,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),504432.0
 ALFAS,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,224036.0
 ALFAS,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1134166.0
@@ -2398,10 +2398,10 @@ ALFAS,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,11710393.0
 ALFAS,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 ALFAS,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+ALFAS,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 ALFAS,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 ALFAS,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,659822.0
 ALFAS,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 ALFAS,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,4983608.0
@@ -2438,11 +2438,11 @@ ALFAS,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 ALFAS,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 ALFAS,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,3827520.0
 ALFAS,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,3341881.0
-ALFAS,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,,7024964.0
-ALFAS,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-6192105.0
-ALFAS,2025/3,3HAB,Diğer Gelir ve Giderler,,0.0
+ALFAS,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,7024964.0
+ALFAS,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-6192105.0
+ALFAS,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
 ALFAS,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,491872.0
-ALFAS,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,5152251.0
+ALFAS,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,5152251.0
 ALFAS,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1821884.0
 ALFAS,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-6393244.0
 ALFAS,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,832859.0
@@ -2502,7 +2502,7 @@ ALFAS,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,806804.0
 ALFAS,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,38284422.0
 ALFAS,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 ALFAS,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,500003.0
-ALFAS,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2025/6,1AF,Stoklar,Inventories,27165793.0
 ALFAS,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 ALFAS,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,26195904.0
@@ -2512,13 +2512,13 @@ ALFAS,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,152823457.0
 ALFAS,2025/6,1B,Ticari Alacaklar,Trade Receivables,1485215.0
 ALFAS,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 ALFAS,2025/6,1BB,Diğer Alacaklar,Other Receivables,0.0
-ALFAS,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2025/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
 ALFAS,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,21623819.0
 ALFAS,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 ALFAS,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,710580.0
 ALFAS,2025/6,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2025/6,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+ALFAS,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 ALFAS,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,126158754.0
 ALFAS,2025/6,1BGA,Şerefiye,Goodwill,0.0
 ALFAS,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2845089.0
@@ -2531,10 +2531,10 @@ ALFAS,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,44647195.0
 ALFAS,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,15369416.0
 ALFAS,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,8142264.0
-ALFAS,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,,20021018.0
+ALFAS,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,20021018.0
 ALFAS,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 ALFAS,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 ALFAS,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,198726.0
 ALFAS,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1418135.0
@@ -2545,10 +2545,10 @@ ALFAS,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,20399823.0
 ALFAS,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 ALFAS,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+ALFAS,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 ALFAS,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 ALFAS,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,729464.0
 ALFAS,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 ALFAS,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,15902727.0
@@ -2585,11 +2585,11 @@ ALFAS,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 ALFAS,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 ALFAS,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,6332270.0
 ALFAS,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,5208403.0
-ALFAS,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,,9758540.0
-ALFAS,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-3145608.0
-ALFAS,2025/6,3HAB,Diğer Gelir ve Giderler,,0.0
+ALFAS,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,9758540.0
+ALFAS,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3145608.0
+ALFAS,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
 ALFAS,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1300676.0
-ALFAS,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,14245877.0
+ALFAS,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,14245877.0
 ALFAS,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),3971518.0
 ALFAS,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-15732027.0
 ALFAS,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,6612932.0
@@ -2649,7 +2649,7 @@ ALFAS,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,63055.0
 ALFAS,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,39511399.0
 ALFAS,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 ALFAS,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,884187.0
-ALFAS,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2025/9,1AF,Stoklar,Inventories,34133206.0
 ALFAS,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 ALFAS,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,18193862.0
@@ -2659,13 +2659,13 @@ ALFAS,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,160001346.0
 ALFAS,2025/9,1B,Ticari Alacaklar,Trade Receivables,1090713.0
 ALFAS,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 ALFAS,2025/9,1BB,Diğer Alacaklar,Other Receivables,255.0
-ALFAS,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+ALFAS,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 ALFAS,2025/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
 ALFAS,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,22079790.0
 ALFAS,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 ALFAS,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,733848.0
 ALFAS,2025/9,1BFA,Stoklar,Stoklar,0.0
-ALFAS,2025/9,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+ALFAS,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 ALFAS,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,132057646.0
 ALFAS,2025/9,1BGA,Şerefiye,Goodwill,0.0
 ALFAS,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,4039093.0
@@ -2678,10 +2678,10 @@ ALFAS,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,45224160.0
 ALFAS,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,27108300.0
 ALFAS,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,13245437.0
-ALFAS,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,,23681577.0
+ALFAS,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,23681577.0
 ALFAS,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 ALFAS,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-ALFAS,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 ALFAS,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,194255.0
 ALFAS,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1106194.0
@@ -2692,10 +2692,10 @@ ALFAS,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,27408132.0
 ALFAS,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 ALFAS,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 ALFAS,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-ALFAS,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+ALFAS,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 ALFAS,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 ALFAS,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-ALFAS,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+ALFAS,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 ALFAS,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,0.0
 ALFAS,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 ALFAS,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,17080711.0
@@ -2732,11 +2732,11 @@ ALFAS,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 ALFAS,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 ALFAS,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,8801213.0
 ALFAS,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,5662884.0
-ALFAS,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,,17216333.0
-ALFAS,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-3263227.0
-ALFAS,2025/9,3HAB,Diğer Gelir ve Giderler,,0.0
+ALFAS,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,17216333.0
+ALFAS,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-3263227.0
+ALFAS,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
 ALFAS,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,1603976.0
-ALFAS,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,24358296.0
+ALFAS,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,24358296.0
 ALFAS,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),5138352.0
 ALFAS,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-25867119.0
 ALFAS,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,13953106.0

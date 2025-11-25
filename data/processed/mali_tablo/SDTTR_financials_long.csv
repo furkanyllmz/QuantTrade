@@ -1,11 +1,11 @@
-﻿symbol,period,item_code,item_name_tr,item_name_en,value
+symbol,period,item_code,item_name_tr,item_name_en,value
 SDTTR,2020/12,1A,Dönen Varlıklar,CURRENT ASSETS,34392793.0
 SDTTR,2020/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,4060519.0
 SDTTR,2020/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1566763.0
 SDTTR,2020/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,7017478.0
 SDTTR,2020/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 SDTTR,2020/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,881433.0
-SDTTR,2020/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2020/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2020/12,1AF,Stoklar,Inventories,14097614.0
 SDTTR,2020/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 SDTTR,2020/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,6768987.0
@@ -15,13 +15,13 @@ SDTTR,2020/12,1AK,Duran Varlıklar,LONG TERM ASSETS,8729347.0
 SDTTR,2020/12,1B,Ticari Alacaklar,Trade Receivables,0.0
 SDTTR,2020/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 SDTTR,2020/12,1BB,Diğer Alacaklar,Other Receivables,6186.0
-SDTTR,2020/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2020/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2020/12,1BC,Finansal Yatırımlar,Financial Investments,0.0
 SDTTR,2020/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 SDTTR,2020/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 SDTTR,2020/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 SDTTR,2020/12,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2020/12,1BFAA,Kullanım Hakkı Varlıkları,,437910.0
+SDTTR,2020/12,1BFAA,Kullanım Hakkı Varlıkları,nan,437910.0
 SDTTR,2020/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1136860.0
 SDTTR,2020/12,1BGA,Şerefiye,Goodwill,0.0
 SDTTR,2020/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2519981.0
@@ -34,10 +34,10 @@ SDTTR,2020/12,2AA,Finansal Borçlar,Short-Term Financial Loans,1205392.0
 SDTTR,2020/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2020/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3285107.0
 SDTTR,2020/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,174075.0
-SDTTR,2020/12,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+SDTTR,2020/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 SDTTR,2020/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 SDTTR,2020/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2020/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+SDTTR,2020/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 SDTTR,2020/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),558717.0
 SDTTR,2020/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,970838.0
 SDTTR,2020/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,12916417.0
@@ -48,10 +48,10 @@ SDTTR,2020/12,2BA,Finansal Borçlar,Long-Term Financial Loans,1757878.0
 SDTTR,2020/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2020/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 SDTTR,2020/12,2BBB,Diğer Borçlar,Other Long-Term Loans,3048062.0
-SDTTR,2020/12,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+SDTTR,2020/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 SDTTR,2020/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 SDTTR,2020/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2020/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+SDTTR,2020/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 SDTTR,2020/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,992988.0
 SDTTR,2020/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 SDTTR,2020/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -88,11 +88,11 @@ SDTTR,2020/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (
 SDTTR,2020/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 SDTTR,2020/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,10732327.0
 SDTTR,2020/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,11347907.0
-SDTTR,2020/12,3HA,Yatırım Faaliyetlerinden Gelirler,,206413.0
-SDTTR,2020/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-111085.0
-SDTTR,2020/12,3HAB,Diğer Gelir ve Giderler,,0.0
+SDTTR,2020/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,206413.0
+SDTTR,2020/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-111085.0
+SDTTR,2020/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
 SDTTR,2020/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-SDTTR,2020/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,10827655.0
+SDTTR,2020/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,10827655.0
 SDTTR,2020/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),2611880.0
 SDTTR,2020/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1542227.0
 SDTTR,2020/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,95328.0
@@ -146,160 +146,13 @@ SDTTR,2020/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equi
 SDTTR,2020/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
 SDTTR,2020/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,5096764.0
 SDTTR,2020/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,4294617.0
-SDTTR,2021/9,1A,Dönen Varlıklar,CURRENT ASSETS,0.0
-SDTTR,2021/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,0.0
-SDTTR,2021/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
-SDTTR,2021/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,0.0
-SDTTR,2021/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
-SDTTR,2021/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
-SDTTR,2021/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-SDTTR,2021/9,1AF,Stoklar,Inventories,0.0
-SDTTR,2021/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
-SDTTR,2021/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,0.0
-SDTTR,2021/9,1AI,(Ara Toplam),(Subtotal),0.0
-SDTTR,2021/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
-SDTTR,2021/9,1AK,Duran Varlıklar,LONG TERM ASSETS,0.0
-SDTTR,2021/9,1B,Ticari Alacaklar,Trade Receivables,0.0
-SDTTR,2021/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
-SDTTR,2021/9,1BB,Diğer Alacaklar,Other Receivables,0.0
-SDTTR,2021/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-SDTTR,2021/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
-SDTTR,2021/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
-SDTTR,2021/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
-SDTTR,2021/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
-SDTTR,2021/9,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2021/9,1BFAA,Kullanım Hakkı Varlıkları,,0.0
-SDTTR,2021/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,0.0
-SDTTR,2021/9,1BGA,Şerefiye,Goodwill,0.0
-SDTTR,2021/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
-SDTTR,2021/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
-SDTTR,2021/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
-SDTTR,2021/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,0.0
-SDTTR,2021/9,1BM,KAYNAKLAR,LIABILITIES,0.0
-SDTTR,2021/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,0.0
-SDTTR,2021/9,2AA,Finansal Borçlar,Short-Term Financial Loans,0.0
-SDTTR,2021/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-SDTTR,2021/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,0.0
-SDTTR,2021/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,0.0
-SDTTR,2021/9,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
-SDTTR,2021/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
-SDTTR,2021/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2021/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
-SDTTR,2021/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
-SDTTR,2021/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,0.0
-SDTTR,2021/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
-SDTTR,2021/9,2AAGG,(Ara Toplam),(Subtotal),0.0
-SDTTR,2021/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
-SDTTR,2021/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,0.0
-SDTTR,2021/9,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
-SDTTR,2021/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-SDTTR,2021/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
-SDTTR,2021/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2021/9,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
-SDTTR,2021/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
-SDTTR,2021/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2021/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
-SDTTR,2021/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,0.0
-SDTTR,2021/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
-SDTTR,2021/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
-SDTTR,2021/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
-SDTTR,2021/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,0.0
-SDTTR,2021/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,0.0
-SDTTR,2021/9,2OA,Ödenmiş Sermaye,Share Capital,0.0
-SDTTR,2021/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
-SDTTR,2021/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
-SDTTR,2021/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
-SDTTR,2021/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
-SDTTR,2021/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,0.0
-SDTTR,2021/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),0.0
-SDTTR,2021/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),0.0
-SDTTR,2021/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,0.0
-SDTTR,2021/9,2ODA,Azınlık Payları,Minority Interests,0.0
-SDTTR,2021/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,0.0
-SDTTR,2021/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
-SDTTR,2021/9,3C,Satış Gelirleri,Net Sales,32170266.0
-SDTTR,2021/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-22560479.0
-SDTTR,2021/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
-SDTTR,2021/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,9609787.0
-SDTTR,2021/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
-SDTTR,2021/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
-SDTTR,2021/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
-SDTTR,2021/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
-SDTTR,2021/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
-SDTTR,2021/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),9609787.0
-SDTTR,2021/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-717561.0
-SDTTR,2021/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1932484.0
-SDTTR,2021/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1014908.0
-SDTTR,2021/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,750535.0
-SDTTR,2021/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-2170711.0
-SDTTR,2021/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
-SDTTR,2021/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,4524659.0
-SDTTR,2021/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,5944835.0
-SDTTR,2021/9,3HA,Yatırım Faaliyetlerinden Gelirler,,0.0
-SDTTR,2021/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-50723.0
-SDTTR,2021/9,3HAB,Diğer Gelir ve Giderler,,0.0
-SDTTR,2021/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-SDTTR,2021/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,4473936.0
-SDTTR,2021/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),727330.0
-SDTTR,2021/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-405417.0
-SDTTR,2021/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-50723.0
-SDTTR,2021/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,4795849.0
-SDTTR,2021/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-957182.0
-SDTTR,2021/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1129426.0
-SDTTR,2021/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,172244.0
-SDTTR,2021/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
-SDTTR,2021/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,3838667.0
-SDTTR,2021/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
-SDTTR,2021/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
-SDTTR,2021/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,3838667.0
-SDTTR,2021/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
-SDTTR,2021/9,3LB,Azınlık Payları,Minority Interests,0.0
-SDTTR,2021/9,3Z,Ana Ortaklık Payları,Parent Shares,3838667.0
-SDTTR,2021/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
-SDTTR,2021/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
-SDTTR,2021/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
-SDTTR,2021/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
-SDTTR,2021/9,4B,Amortisman Giderleri,Depreciation & Amortization,941191.0
-SDTTR,2021/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
-SDTTR,2021/9,4BB,Finansman Giderleri,Financial Expenses,-405417.0
-SDTTR,2021/9,4BC,Yurtiçi Satışlar,Domestic Sales,31704366.0
-SDTTR,2021/9,4BD,Yurtdışı Satışlar,Export Sales,572337.0
-SDTTR,2021/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,0.0
-SDTTR,2021/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,0.0
-SDTTR,2021/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),0.0
-SDTTR,2021/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1285814.0
-SDTTR,2021/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,3838667.0
-SDTTR,2021/9,4CAA,Düzeltmeler:,Adjustments:,1427168.0
-SDTTR,2021/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,941191.0
-SDTTR,2021/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,243124.0
-SDTTR,2021/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,242853.0
-SDTTR,2021/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),5265835.0
-SDTTR,2021/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-3980021.0
-SDTTR,2021/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1285814.0
-SDTTR,2021/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,0.0
-SDTTR,2021/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-761745.0
-SDTTR,2021/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
-SDTTR,2021/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-761745.0
-SDTTR,2021/9,4CB,Serbest Nakit Akım,Free Cash Flow,524069.0
-SDTTR,2021/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-659241.0
-SDTTR,2021/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
-SDTTR,2021/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
-SDTTR,2021/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,1227491.0
-SDTTR,2021/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,568250.0
-SDTTR,2021/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1092319.0
-SDTTR,2021/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
-SDTTR,2021/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
-SDTTR,2021/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1092319.0
-SDTTR,2021/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
-SDTTR,2021/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3724177.0
-SDTTR,2021/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,4816496.0
 SDTTR,2021/12,1A,Dönen Varlıklar,CURRENT ASSETS,24406409.0
 SDTTR,2021/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,7343239.0
 SDTTR,2021/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
 SDTTR,2021/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,5511687.0
 SDTTR,2021/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 SDTTR,2021/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,216362.0
-SDTTR,2021/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2021/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2021/12,1AF,Stoklar,Inventories,9491791.0
 SDTTR,2021/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 SDTTR,2021/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,1843330.0
@@ -309,13 +162,13 @@ SDTTR,2021/12,1AK,Duran Varlıklar,LONG TERM ASSETS,3772992.0
 SDTTR,2021/12,1B,Ticari Alacaklar,Trade Receivables,0.0
 SDTTR,2021/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 SDTTR,2021/12,1BB,Diğer Alacaklar,Other Receivables,2951.0
-SDTTR,2021/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2021/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2021/12,1BC,Finansal Yatırımlar,Financial Investments,441446.0
 SDTTR,2021/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 SDTTR,2021/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 SDTTR,2021/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 SDTTR,2021/12,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2021/12,1BFAA,Kullanım Hakkı Varlıkları,,145360.0
+SDTTR,2021/12,1BFAA,Kullanım Hakkı Varlıkları,nan,145360.0
 SDTTR,2021/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,514923.0
 SDTTR,2021/12,1BGA,Şerefiye,Goodwill,0.0
 SDTTR,2021/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1333847.0
@@ -328,10 +181,10 @@ SDTTR,2021/12,2AA,Finansal Borçlar,Short-Term Financial Loans,906271.0
 SDTTR,2021/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2021/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1456499.0
 SDTTR,2021/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1854446.0
-SDTTR,2021/12,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+SDTTR,2021/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 SDTTR,2021/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 SDTTR,2021/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2021/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,4220094.0
+SDTTR,2021/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,4220094.0
 SDTTR,2021/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),480987.0
 SDTTR,2021/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,548205.0
 SDTTR,2021/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,343936.0
@@ -342,10 +195,10 @@ SDTTR,2021/12,2BA,Finansal Borçlar,Long-Term Financial Loans,382737.0
 SDTTR,2021/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2021/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 SDTTR,2021/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2021/12,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+SDTTR,2021/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 SDTTR,2021/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 SDTTR,2021/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2021/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+SDTTR,2021/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 SDTTR,2021/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,462096.0
 SDTTR,2021/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 SDTTR,2021/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -382,11 +235,11 @@ SDTTR,2021/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (
 SDTTR,2021/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 SDTTR,2021/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,15697368.0
 SDTTR,2021/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,15773864.0
-SDTTR,2021/12,3HA,Yatırım Faaliyetlerinden Gelirler,,2039.0
-SDTTR,2021/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-109446.0
-SDTTR,2021/12,3HAB,Diğer Gelir ve Giderler,,0.0
+SDTTR,2021/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2039.0
+SDTTR,2021/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-109446.0
+SDTTR,2021/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
 SDTTR,2021/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-SDTTR,2021/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,15589961.0
+SDTTR,2021/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,15589961.0
 SDTTR,2021/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1311725.0
 SDTTR,2021/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-433901.0
 SDTTR,2021/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-107407.0
@@ -440,13 +293,307 @@ SDTTR,2021/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equi
 SDTTR,2021/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
 SDTTR,2021/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3381527.0
 SDTTR,2021/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,10986294.0
+SDTTR,2021/9,1A,Dönen Varlıklar,CURRENT ASSETS,0.0
+SDTTR,2021/9,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,0.0
+SDTTR,2021/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SDTTR,2021/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,0.0
+SDTTR,2021/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SDTTR,2021/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
+SDTTR,2021/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SDTTR,2021/9,1AF,Stoklar,Inventories,0.0
+SDTTR,2021/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SDTTR,2021/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,0.0
+SDTTR,2021/9,1AI,(Ara Toplam),(Subtotal),0.0
+SDTTR,2021/9,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SDTTR,2021/9,1AK,Duran Varlıklar,LONG TERM ASSETS,0.0
+SDTTR,2021/9,1B,Ticari Alacaklar,Trade Receivables,0.0
+SDTTR,2021/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SDTTR,2021/9,1BB,Diğer Alacaklar,Other Receivables,0.0
+SDTTR,2021/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SDTTR,2021/9,1BC,Finansal Yatırımlar,Financial Investments,0.0
+SDTTR,2021/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+SDTTR,2021/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SDTTR,2021/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+SDTTR,2021/9,1BFA,Stoklar,Stoklar,0.0
+SDTTR,2021/9,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
+SDTTR,2021/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,0.0
+SDTTR,2021/9,1BGA,Şerefiye,Goodwill,0.0
+SDTTR,2021/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
+SDTTR,2021/9,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+SDTTR,2021/9,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,0.0
+SDTTR,2021/9,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,0.0
+SDTTR,2021/9,1BM,KAYNAKLAR,LIABILITIES,0.0
+SDTTR,2021/9,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,0.0
+SDTTR,2021/9,2AA,Finansal Borçlar,Short-Term Financial Loans,0.0
+SDTTR,2021/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SDTTR,2021/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,0.0
+SDTTR,2021/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,0.0
+SDTTR,2021/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SDTTR,2021/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SDTTR,2021/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SDTTR,2021/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
+SDTTR,2021/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+SDTTR,2021/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,0.0
+SDTTR,2021/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
+SDTTR,2021/9,2AAGG,(Ara Toplam),(Subtotal),0.0
+SDTTR,2021/9,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SDTTR,2021/9,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,0.0
+SDTTR,2021/9,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
+SDTTR,2021/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SDTTR,2021/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SDTTR,2021/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SDTTR,2021/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SDTTR,2021/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SDTTR,2021/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SDTTR,2021/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
+SDTTR,2021/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,0.0
+SDTTR,2021/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SDTTR,2021/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+SDTTR,2021/9,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SDTTR,2021/9,2N,Özkaynaklar,SHAREHOLDERS EQUITY,0.0
+SDTTR,2021/9,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,0.0
+SDTTR,2021/9,2OA,Ödenmiş Sermaye,Share Capital,0.0
+SDTTR,2021/9,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SDTTR,2021/9,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SDTTR,2021/9,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SDTTR,2021/9,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SDTTR,2021/9,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,0.0
+SDTTR,2021/9,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),0.0
+SDTTR,2021/9,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),0.0
+SDTTR,2021/9,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,0.0
+SDTTR,2021/9,2ODA,Azınlık Payları,Minority Interests,0.0
+SDTTR,2021/9,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,0.0
+SDTTR,2021/9,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SDTTR,2021/9,3C,Satış Gelirleri,Net Sales,32170266.0
+SDTTR,2021/9,3CA,Satışların Maliyeti (-),Cost Of Sales,-22560479.0
+SDTTR,2021/9,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SDTTR,2021/9,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,9609787.0
+SDTTR,2021/9,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SDTTR,2021/9,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SDTTR,2021/9,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SDTTR,2021/9,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SDTTR,2021/9,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SDTTR,2021/9,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),9609787.0
+SDTTR,2021/9,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-717561.0
+SDTTR,2021/9,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-1932484.0
+SDTTR,2021/9,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-1014908.0
+SDTTR,2021/9,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,750535.0
+SDTTR,2021/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-2170711.0
+SDTTR,2021/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SDTTR,2021/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,4524659.0
+SDTTR,2021/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,5944835.0
+SDTTR,2021/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,0.0
+SDTTR,2021/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-50723.0
+SDTTR,2021/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SDTTR,2021/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+SDTTR,2021/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,4473936.0
+SDTTR,2021/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),727330.0
+SDTTR,2021/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-405417.0
+SDTTR,2021/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,-50723.0
+SDTTR,2021/9,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,4795849.0
+SDTTR,2021/9,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-957182.0
+SDTTR,2021/9,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1129426.0
+SDTTR,2021/9,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,172244.0
+SDTTR,2021/9,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SDTTR,2021/9,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,3838667.0
+SDTTR,2021/9,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SDTTR,2021/9,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SDTTR,2021/9,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,3838667.0
+SDTTR,2021/9,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SDTTR,2021/9,3LB,Azınlık Payları,Minority Interests,0.0
+SDTTR,2021/9,3Z,Ana Ortaklık Payları,Parent Shares,3838667.0
+SDTTR,2021/9,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SDTTR,2021/9,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SDTTR,2021/9,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SDTTR,2021/9,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SDTTR,2021/9,4B,Amortisman Giderleri,Depreciation & Amortization,941191.0
+SDTTR,2021/9,4BA,Kıdem Tazminatı,Severance Payments,0.0
+SDTTR,2021/9,4BB,Finansman Giderleri,Financial Expenses,-405417.0
+SDTTR,2021/9,4BC,Yurtiçi Satışlar,Domestic Sales,31704366.0
+SDTTR,2021/9,4BD,Yurtdışı Satışlar,Export Sales,572337.0
+SDTTR,2021/9,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,0.0
+SDTTR,2021/9,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,0.0
+SDTTR,2021/9,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),0.0
+SDTTR,2021/9,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,1285814.0
+SDTTR,2021/9,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,3838667.0
+SDTTR,2021/9,4CAA,Düzeltmeler:,Adjustments:,1427168.0
+SDTTR,2021/9,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,941191.0
+SDTTR,2021/9,4CAC,Karşılıklardaki Değişim,Change in Provisions,243124.0
+SDTTR,2021/9,4CAD,Diğer Gelir/ Gider,Other Income / Expense,242853.0
+SDTTR,2021/9,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),5265835.0
+SDTTR,2021/9,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-3980021.0
+SDTTR,2021/9,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),1285814.0
+SDTTR,2021/9,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,0.0
+SDTTR,2021/9,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-761745.0
+SDTTR,2021/9,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+SDTTR,2021/9,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-761745.0
+SDTTR,2021/9,4CB,Serbest Nakit Akım,Free Cash Flow,524069.0
+SDTTR,2021/9,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-659241.0
+SDTTR,2021/9,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SDTTR,2021/9,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SDTTR,2021/9,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,1227491.0
+SDTTR,2021/9,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,568250.0
+SDTTR,2021/9,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,1092319.0
+SDTTR,2021/9,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+SDTTR,2021/9,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SDTTR,2021/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,1092319.0
+SDTTR,2021/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SDTTR,2021/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,3724177.0
+SDTTR,2021/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,4816496.0
+SDTTR,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,54750906.0
+SDTTR,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,19286996.0
+SDTTR,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,7221775.0
+SDTTR,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,7887798.0
+SDTTR,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SDTTR,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,270654.0
+SDTTR,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SDTTR,2022/12,1AF,Stoklar,Inventories,15742426.0
+SDTTR,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SDTTR,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,4341259.0
+SDTTR,2022/12,1AI,(Ara Toplam),(Subtotal),54750906.0
+SDTTR,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SDTTR,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,7414474.0
+SDTTR,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+SDTTR,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SDTTR,2022/12,1BB,Diğer Alacaklar,Other Receivables,46725.0
+SDTTR,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SDTTR,2022/12,1BC,Finansal Yatırımlar,Financial Investments,780638.0
+SDTTR,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
+SDTTR,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SDTTR,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+SDTTR,2022/12,1BFA,Stoklar,Stoklar,0.0
+SDTTR,2022/12,1BFAA,Kullanım Hakkı Varlıkları,nan,22203.0
+SDTTR,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1493445.0
+SDTTR,2022/12,1BGA,Şerefiye,Goodwill,0.0
+SDTTR,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2794365.0
+SDTTR,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
+SDTTR,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,2277098.0
+SDTTR,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,62165380.0
+SDTTR,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+SDTTR,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,16649362.0
+SDTTR,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,322915.0
+SDTTR,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SDTTR,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2099476.0
+SDTTR,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,439946.0
+SDTTR,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SDTTR,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SDTTR,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SDTTR,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,10519860.0
+SDTTR,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),327811.0
+SDTTR,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,2114623.0
+SDTTR,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,824730.0
+SDTTR,2022/12,2AAGG,(Ara Toplam),(Subtotal),16649362.0
+SDTTR,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SDTTR,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3860998.0
+SDTTR,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,126315.0
+SDTTR,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SDTTR,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SDTTR,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SDTTR,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SDTTR,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SDTTR,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SDTTR,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,2715556.0
+SDTTR,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,997381.0
+SDTTR,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SDTTR,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,21747.0
+SDTTR,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SDTTR,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,41655020.0
+SDTTR,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,41655020.0
+SDTTR,2022/12,2OA,Ödenmiş Sermaye,Share Capital,2669229.0
+SDTTR,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SDTTR,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
+SDTTR,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SDTTR,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SDTTR,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,341728.0
+SDTTR,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),27516395.0
+SDTTR,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),6044858.0
+SDTTR,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,5082810.0
+SDTTR,2022/12,2ODA,Azınlık Payları,Minority Interests,0.0
+SDTTR,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,62165380.0
+SDTTR,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SDTTR,2022/12,3C,Satış Gelirleri,Net Sales,54986461.0
+SDTTR,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-32671654.0
+SDTTR,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SDTTR,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,22314807.0
+SDTTR,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SDTTR,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SDTTR,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SDTTR,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SDTTR,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SDTTR,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),22314807.0
+SDTTR,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1851506.0
+SDTTR,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-5094533.0
+SDTTR,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-974947.0
+SDTTR,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,4106587.0
+SDTTR,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-7374645.0
+SDTTR,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SDTTR,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,11125762.0
+SDTTR,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,14393820.0
+SDTTR,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2977641.0
+SDTTR,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-4416.0
+SDTTR,2022/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SDTTR,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
+SDTTR,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,14098988.0
+SDTTR,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),5227880.0
+SDTTR,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-11708419.0
+SDTTR,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2973226.0
+SDTTR,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,7618449.0
+SDTTR,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-803390.0
+SDTTR,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1324603.0
+SDTTR,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,521212.0
+SDTTR,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SDTTR,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,6815059.0
+SDTTR,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SDTTR,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SDTTR,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,6815059.0
+SDTTR,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SDTTR,2022/12,3LB,Azınlık Payları,Minority Interests,0.0
+SDTTR,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,6815059.0
+SDTTR,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SDTTR,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SDTTR,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SDTTR,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SDTTR,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,2457022.0
+SDTTR,2022/12,4BA,Kıdem Tazminatı,Severance Payments,485616.0
+SDTTR,2022/12,4BB,Finansman Giderleri,Financial Expenses,-11708419.0
+SDTTR,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,46886766.0
+SDTTR,2022/12,4BD,Yurtdışı Satışlar,Export Sales,8106581.0
+SDTTR,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,8520383.0
+SDTTR,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,18021011.0
+SDTTR,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),16401292.0
+SDTTR,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,21002785.0
+SDTTR,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,6815059.0
+SDTTR,2022/12,4CAA,Düzeltmeler:,Adjustments:,15373937.0
+SDTTR,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2457022.0
+SDTTR,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,29884.0
+SDTTR,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,12887031.0
+SDTTR,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),22188996.0
+SDTTR,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1186211.0
+SDTTR,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),21002785.0
+SDTTR,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,0.0
+SDTTR,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-826409.0
+SDTTR,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+SDTTR,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-826409.0
+SDTTR,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,20176376.0
+SDTTR,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-2121411.0
+SDTTR,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
+SDTTR,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SDTTR,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,482321.0
+SDTTR,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1639090.0
+SDTTR,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,18537286.0
+SDTTR,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-12766678.0
+SDTTR,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SDTTR,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,5770608.0
+SDTTR,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SDTTR,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,15973825.0
+SDTTR,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,21744434.0
 SDTTR,2022/3,1A,Dönen Varlıklar,CURRENT ASSETS,0.0
 SDTTR,2022/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,0.0
 SDTTR,2022/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
 SDTTR,2022/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,0.0
 SDTTR,2022/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 SDTTR,2022/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
-SDTTR,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2022/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2022/3,1AF,Stoklar,Inventories,0.0
 SDTTR,2022/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 SDTTR,2022/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,0.0
@@ -456,13 +603,13 @@ SDTTR,2022/3,1AK,Duran Varlıklar,LONG TERM ASSETS,0.0
 SDTTR,2022/3,1B,Ticari Alacaklar,Trade Receivables,0.0
 SDTTR,2022/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 SDTTR,2022/3,1BB,Diğer Alacaklar,Other Receivables,0.0
-SDTTR,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2022/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2022/3,1BC,Finansal Yatırımlar,Financial Investments,0.0
 SDTTR,2022/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 SDTTR,2022/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 SDTTR,2022/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 SDTTR,2022/3,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2022/3,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+SDTTR,2022/3,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 SDTTR,2022/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,0.0
 SDTTR,2022/3,1BGA,Şerefiye,Goodwill,0.0
 SDTTR,2022/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
@@ -475,10 +622,10 @@ SDTTR,2022/3,2AA,Finansal Borçlar,Short-Term Financial Loans,0.0
 SDTTR,2022/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2022/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,0.0
 SDTTR,2022/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,0.0
-SDTTR,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+SDTTR,2022/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 SDTTR,2022/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 SDTTR,2022/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+SDTTR,2022/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 SDTTR,2022/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 SDTTR,2022/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,0.0
 SDTTR,2022/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
@@ -489,10 +636,10 @@ SDTTR,2022/3,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
 SDTTR,2022/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2022/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 SDTTR,2022/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+SDTTR,2022/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 SDTTR,2022/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 SDTTR,2022/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+SDTTR,2022/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 SDTTR,2022/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,0.0
 SDTTR,2022/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 SDTTR,2022/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -529,11 +676,11 @@ SDTTR,2022/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 SDTTR,2022/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 SDTTR,2022/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,182025.0
 SDTTR,2022/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-175370.0
-SDTTR,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,,40083.0
-SDTTR,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-SDTTR,2022/3,3HAB,Diğer Gelir ve Giderler,,0.0
+SDTTR,2022/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,40083.0
+SDTTR,2022/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SDTTR,2022/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
 SDTTR,2022/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-SDTTR,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,222108.0
+SDTTR,2022/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,222108.0
 SDTTR,2022/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),354237.0
 SDTTR,2022/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-412750.0
 SDTTR,2022/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,40083.0
@@ -593,7 +740,7 @@ SDTTR,2022/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
 SDTTR,2022/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,0.0
 SDTTR,2022/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 SDTTR,2022/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,0.0
-SDTTR,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2022/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2022/6,1AF,Stoklar,Inventories,0.0
 SDTTR,2022/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 SDTTR,2022/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,0.0
@@ -603,13 +750,13 @@ SDTTR,2022/6,1AK,Duran Varlıklar,LONG TERM ASSETS,0.0
 SDTTR,2022/6,1B,Ticari Alacaklar,Trade Receivables,0.0
 SDTTR,2022/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 SDTTR,2022/6,1BB,Diğer Alacaklar,Other Receivables,0.0
-SDTTR,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2022/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2022/6,1BC,Finansal Yatırımlar,Financial Investments,0.0
 SDTTR,2022/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 SDTTR,2022/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 SDTTR,2022/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 SDTTR,2022/6,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2022/6,1BFAA,Kullanım Hakkı Varlıkları,,0.0
+SDTTR,2022/6,1BFAA,Kullanım Hakkı Varlıkları,nan,0.0
 SDTTR,2022/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,0.0
 SDTTR,2022/6,1BGA,Şerefiye,Goodwill,0.0
 SDTTR,2022/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,0.0
@@ -622,10 +769,10 @@ SDTTR,2022/6,2AA,Finansal Borçlar,Short-Term Financial Loans,0.0
 SDTTR,2022/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2022/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,0.0
 SDTTR,2022/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,0.0
-SDTTR,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+SDTTR,2022/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 SDTTR,2022/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 SDTTR,2022/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+SDTTR,2022/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 SDTTR,2022/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 SDTTR,2022/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,0.0
 SDTTR,2022/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,0.0
@@ -636,10 +783,10 @@ SDTTR,2022/6,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
 SDTTR,2022/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2022/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 SDTTR,2022/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+SDTTR,2022/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 SDTTR,2022/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 SDTTR,2022/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+SDTTR,2022/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 SDTTR,2022/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,0.0
 SDTTR,2022/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 SDTTR,2022/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -676,11 +823,11 @@ SDTTR,2022/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 SDTTR,2022/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 SDTTR,2022/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,338441.0
 SDTTR,2022/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,784012.0
-SDTTR,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,,301474.0
-SDTTR,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-893.0
-SDTTR,2022/6,3HAB,Diğer Gelir ve Giderler,,0.0
+SDTTR,2022/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,301474.0
+SDTTR,2022/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-893.0
+SDTTR,2022/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
 SDTTR,2022/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-SDTTR,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,639022.0
+SDTTR,2022/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,639022.0
 SDTTR,2022/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1707296.0
 SDTTR,2022/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-738225.0
 SDTTR,2022/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,300582.0
@@ -740,7 +887,7 @@ SDTTR,2022/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,8749340.
 SDTTR,2022/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,2710590.0
 SDTTR,2022/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 SDTTR,2022/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,337998.0
-SDTTR,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2022/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2022/9,1AF,Stoklar,Inventories,7115330.0
 SDTTR,2022/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 SDTTR,2022/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,2869185.0
@@ -750,13 +897,13 @@ SDTTR,2022/9,1AK,Duran Varlıklar,LONG TERM ASSETS,3092777.0
 SDTTR,2022/9,1B,Ticari Alacaklar,Trade Receivables,0.0
 SDTTR,2022/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 SDTTR,2022/9,1BB,Diğer Alacaklar,Other Receivables,28632.0
-SDTTR,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2022/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2022/9,1BC,Finansal Yatırımlar,Financial Investments,421049.0
 SDTTR,2022/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 SDTTR,2022/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 SDTTR,2022/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 SDTTR,2022/9,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2022/9,1BFAA,Kullanım Hakkı Varlıkları,,30994.0
+SDTTR,2022/9,1BFAA,Kullanım Hakkı Varlıkları,nan,30994.0
 SDTTR,2022/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,488167.0
 SDTTR,2022/9,1BGA,Şerefiye,Goodwill,0.0
 SDTTR,2022/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,807501.0
@@ -769,10 +916,10 @@ SDTTR,2022/9,2AA,Finansal Borçlar,Short-Term Financial Loans,356416.0
 SDTTR,2022/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2022/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,891390.0
 SDTTR,2022/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,161119.0
-SDTTR,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+SDTTR,2022/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 SDTTR,2022/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 SDTTR,2022/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,0.0
+SDTTR,2022/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,0.0
 SDTTR,2022/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),45906.0
 SDTTR,2022/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,578353.0
 SDTTR,2022/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,7238597.0
@@ -783,10 +930,10 @@ SDTTR,2022/9,2BA,Finansal Borçlar,Long-Term Financial Loans,105189.0
 SDTTR,2022/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2022/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 SDTTR,2022/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+SDTTR,2022/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 SDTTR,2022/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 SDTTR,2022/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,0.0
+SDTTR,2022/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,0.0
 SDTTR,2022/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,591324.0
 SDTTR,2022/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 SDTTR,2022/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -823,11 +970,11 @@ SDTTR,2022/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 SDTTR,2022/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 SDTTR,2022/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,2326265.0
 SDTTR,2022/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,3428118.0
-SDTTR,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,,1252995.0
-SDTTR,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-1014.0
-SDTTR,2022/9,3HAB,Diğer Gelir ve Giderler,,0.0
+SDTTR,2022/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1252995.0
+SDTTR,2022/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-1014.0
+SDTTR,2022/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
 SDTTR,2022/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-SDTTR,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,3578246.0
+SDTTR,2022/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3578246.0
 SDTTR,2022/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),2645570.0
 SDTTR,2022/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-1298785.0
 SDTTR,2022/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1251981.0
@@ -881,160 +1028,160 @@ SDTTR,2022/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equiv
 SDTTR,2022/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
 SDTTR,2022/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,6161848.0
 SDTTR,2022/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,5503303.0
-SDTTR,2022/12,1A,Dönen Varlıklar,CURRENT ASSETS,54750906.0
-SDTTR,2022/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,19286996.0
-SDTTR,2022/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,7221775.0
-SDTTR,2022/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,7887798.0
-SDTTR,2022/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
-SDTTR,2022/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,270654.0
-SDTTR,2022/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-SDTTR,2022/12,1AF,Stoklar,Inventories,15742426.0
-SDTTR,2022/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
-SDTTR,2022/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,4341259.0
-SDTTR,2022/12,1AI,(Ara Toplam),(Subtotal),54750906.0
-SDTTR,2022/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
-SDTTR,2022/12,1AK,Duran Varlıklar,LONG TERM ASSETS,7414474.0
-SDTTR,2022/12,1B,Ticari Alacaklar,Trade Receivables,0.0
-SDTTR,2022/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
-SDTTR,2022/12,1BB,Diğer Alacaklar,Other Receivables,46725.0
-SDTTR,2022/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-SDTTR,2022/12,1BC,Finansal Yatırımlar,Financial Investments,780638.0
-SDTTR,2022/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
-SDTTR,2022/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
-SDTTR,2022/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
-SDTTR,2022/12,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2022/12,1BFAA,Kullanım Hakkı Varlıkları,,22203.0
-SDTTR,2022/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1493445.0
-SDTTR,2022/12,1BGA,Şerefiye,Goodwill,0.0
-SDTTR,2022/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2794365.0
-SDTTR,2022/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,0.0
-SDTTR,2022/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,2277098.0
-SDTTR,2022/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,62165380.0
-SDTTR,2022/12,1BM,KAYNAKLAR,LIABILITIES,0.0
-SDTTR,2022/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,16649362.0
-SDTTR,2022/12,2AA,Finansal Borçlar,Short-Term Financial Loans,322915.0
-SDTTR,2022/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-SDTTR,2022/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2099476.0
-SDTTR,2022/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,439946.0
-SDTTR,2022/12,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
-SDTTR,2022/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
-SDTTR,2022/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2022/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,10519860.0
-SDTTR,2022/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),327811.0
-SDTTR,2022/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,2114623.0
-SDTTR,2022/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,824730.0
-SDTTR,2022/12,2AAGG,(Ara Toplam),(Subtotal),16649362.0
-SDTTR,2022/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
-SDTTR,2022/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3860998.0
-SDTTR,2022/12,2BA,Finansal Borçlar,Long-Term Financial Loans,126315.0
-SDTTR,2022/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-SDTTR,2022/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
-SDTTR,2022/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2022/12,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
-SDTTR,2022/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
-SDTTR,2022/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2022/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,2715556.0
-SDTTR,2022/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,997381.0
-SDTTR,2022/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
-SDTTR,2022/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,21747.0
-SDTTR,2022/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
-SDTTR,2022/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,41655020.0
-SDTTR,2022/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,41655020.0
-SDTTR,2022/12,2OA,Ödenmiş Sermaye,Share Capital,2669229.0
-SDTTR,2022/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
-SDTTR,2022/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,0.0
-SDTTR,2022/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
-SDTTR,2022/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
-SDTTR,2022/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,341728.0
-SDTTR,2022/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),27516395.0
-SDTTR,2022/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),6044858.0
-SDTTR,2022/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,5082810.0
-SDTTR,2022/12,2ODA,Azınlık Payları,Minority Interests,0.0
-SDTTR,2022/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,62165380.0
-SDTTR,2022/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
-SDTTR,2022/12,3C,Satış Gelirleri,Net Sales,54986461.0
-SDTTR,2022/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-32671654.0
-SDTTR,2022/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
-SDTTR,2022/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,22314807.0
-SDTTR,2022/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
-SDTTR,2022/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
-SDTTR,2022/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
-SDTTR,2022/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
-SDTTR,2022/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
-SDTTR,2022/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),22314807.0
-SDTTR,2022/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1851506.0
-SDTTR,2022/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-5094533.0
-SDTTR,2022/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-974947.0
-SDTTR,2022/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,4106587.0
-SDTTR,2022/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-7374645.0
-SDTTR,2022/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
-SDTTR,2022/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,11125762.0
-SDTTR,2022/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,14393820.0
-SDTTR,2022/12,3HA,Yatırım Faaliyetlerinden Gelirler,,2977641.0
-SDTTR,2022/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-4416.0
-SDTTR,2022/12,3HAB,Diğer Gelir ve Giderler,,0.0
-SDTTR,2022/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-SDTTR,2022/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,14098988.0
-SDTTR,2022/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),5227880.0
-SDTTR,2022/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-11708419.0
-SDTTR,2022/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2973226.0
-SDTTR,2022/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,7618449.0
-SDTTR,2022/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-803390.0
-SDTTR,2022/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-1324603.0
-SDTTR,2022/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,521212.0
-SDTTR,2022/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
-SDTTR,2022/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,6815059.0
-SDTTR,2022/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
-SDTTR,2022/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
-SDTTR,2022/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,6815059.0
-SDTTR,2022/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
-SDTTR,2022/12,3LB,Azınlık Payları,Minority Interests,0.0
-SDTTR,2022/12,3Z,Ana Ortaklık Payları,Parent Shares,6815059.0
-SDTTR,2022/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
-SDTTR,2022/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
-SDTTR,2022/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
-SDTTR,2022/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
-SDTTR,2022/12,4B,Amortisman Giderleri,Depreciation & Amortization,2457022.0
-SDTTR,2022/12,4BA,Kıdem Tazminatı,Severance Payments,485616.0
-SDTTR,2022/12,4BB,Finansman Giderleri,Financial Expenses,-11708419.0
-SDTTR,2022/12,4BC,Yurtiçi Satışlar,Domestic Sales,46886766.0
-SDTTR,2022/12,4BD,Yurtdışı Satışlar,Export Sales,8106581.0
-SDTTR,2022/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,8520383.0
-SDTTR,2022/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,18021011.0
-SDTTR,2022/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),16401292.0
-SDTTR,2022/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,21002785.0
-SDTTR,2022/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,6815059.0
-SDTTR,2022/12,4CAA,Düzeltmeler:,Adjustments:,15373937.0
-SDTTR,2022/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2457022.0
-SDTTR,2022/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,29884.0
-SDTTR,2022/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,12887031.0
-SDTTR,2022/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),22188996.0
-SDTTR,2022/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-1186211.0
-SDTTR,2022/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),21002785.0
-SDTTR,2022/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,0.0
-SDTTR,2022/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-826409.0
-SDTTR,2022/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
-SDTTR,2022/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-826409.0
-SDTTR,2022/12,4CB,Serbest Nakit Akım,Free Cash Flow,20176376.0
-SDTTR,2022/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-2121411.0
-SDTTR,2022/12,4CBB,Temettü Ödemeleri,Dividends Paid,0.0
-SDTTR,2022/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
-SDTTR,2022/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,482321.0
-SDTTR,2022/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,-1639090.0
-SDTTR,2022/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,18537286.0
-SDTTR,2022/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,-12766678.0
-SDTTR,2022/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
-SDTTR,2022/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,5770608.0
-SDTTR,2022/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
-SDTTR,2022/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,15973825.0
-SDTTR,2022/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,21744434.0
+SDTTR,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,97204085.0
+SDTTR,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,12289916.0
+SDTTR,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,18652072.0
+SDTTR,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,23924183.0
+SDTTR,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SDTTR,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,902532.0
+SDTTR,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SDTTR,2023/12,1AF,Stoklar,Inventories,35408234.0
+SDTTR,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SDTTR,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,6027150.0
+SDTTR,2023/12,1AI,(Ara Toplam),(Subtotal),97204085.0
+SDTTR,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SDTTR,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,11115778.0
+SDTTR,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+SDTTR,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SDTTR,2023/12,1BB,Diğer Alacaklar,Other Receivables,26710.0
+SDTTR,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SDTTR,2023/12,1BC,Finansal Yatırımlar,Financial Investments,721734.0
+SDTTR,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,94774.0
+SDTTR,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SDTTR,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+SDTTR,2023/12,1BFA,Stoklar,Stoklar,0.0
+SDTTR,2023/12,1BFAA,Kullanım Hakkı Varlıkları,nan,519571.0
+SDTTR,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1758544.0
+SDTTR,2023/12,1BGA,Şerefiye,Goodwill,0.0
+SDTTR,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2574378.0
+SDTTR,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,2439184.0
+SDTTR,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,2980883.0
+SDTTR,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,108319863.0
+SDTTR,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+SDTTR,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,35865093.0
+SDTTR,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,558438.0
+SDTTR,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SDTTR,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,7218764.0
+SDTTR,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,284825.0
+SDTTR,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SDTTR,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SDTTR,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SDTTR,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,23643185.0
+SDTTR,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1064587.0
+SDTTR,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,1912854.0
+SDTTR,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1182440.0
+SDTTR,2023/12,2AAGG,(Ara Toplam),(Subtotal),35865093.0
+SDTTR,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SDTTR,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,5085474.0
+SDTTR,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,14737.0
+SDTTR,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SDTTR,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SDTTR,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SDTTR,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SDTTR,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SDTTR,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SDTTR,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,4373648.0
+SDTTR,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,697089.0
+SDTTR,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SDTTR,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+SDTTR,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SDTTR,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,67369296.0
+SDTTR,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,67369296.0
+SDTTR,2023/12,2OA,Ödenmiş Sermaye,Share Capital,1966682.0
+SDTTR,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SDTTR,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,17484956.0
+SDTTR,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SDTTR,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SDTTR,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,959935.0
+SDTTR,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),25416048.0
+SDTTR,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),15782345.0
+SDTTR,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,5759330.0
+SDTTR,2023/12,2ODA,Azınlık Payları,Minority Interests,0.0
+SDTTR,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,108319863.0
+SDTTR,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SDTTR,2023/12,3C,Satış Gelirleri,Net Sales,69094488.0
+SDTTR,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-40235761.0
+SDTTR,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SDTTR,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,28858728.0
+SDTTR,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SDTTR,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SDTTR,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SDTTR,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SDTTR,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SDTTR,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),28858728.0
+SDTTR,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1790722.0
+SDTTR,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-6568873.0
+SDTTR,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-982515.0
+SDTTR,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,2292537.0
+SDTTR,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-4384531.0
+SDTTR,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SDTTR,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,17424625.0
+SDTTR,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,19516618.0
+SDTTR,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,16823215.0
+SDTTR,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-17787.0
+SDTTR,2023/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SDTTR,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-96286.0
+SDTTR,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,34133767.0
+SDTTR,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),8089435.0
+SDTTR,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-21705124.0
+SDTTR,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,16805428.0
+SDTTR,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,20518078.0
+SDTTR,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-985116.0
+SDTTR,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-3976643.0
+SDTTR,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,2991527.0
+SDTTR,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SDTTR,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,19532962.0
+SDTTR,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
+SDTTR,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SDTTR,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,19532962.0
+SDTTR,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
+SDTTR,2023/12,3LB,Azınlık Payları,Minority Interests,0.0
+SDTTR,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,19532962.0
+SDTTR,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SDTTR,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SDTTR,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SDTTR,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SDTTR,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,2070524.0
+SDTTR,2023/12,4BA,Kıdem Tazminatı,Severance Payments,676753.0
+SDTTR,2023/12,4BB,Finansman Giderleri,Financial Expenses,-21705124.0
+SDTTR,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,42134134.0
+SDTTR,2023/12,4BD,Yurtdışı Satışlar,Export Sales,27227862.0
+SDTTR,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-5538486.0
+SDTTR,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2586649.0
+SDTTR,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),10217119.0
+SDTTR,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-5100804.0
+SDTTR,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,19532962.0
+SDTTR,2023/12,4CAA,Düzeltmeler:,Adjustments:,15240115.0
+SDTTR,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2070524.0
+SDTTR,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,-131079.0
+SDTTR,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-2834194.0
+SDTTR,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),34773078.0
+SDTTR,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-39873881.0
+SDTTR,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-5100804.0
+SDTTR,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,0.0
+SDTTR,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1581293.0
+SDTTR,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+SDTTR,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1581293.0
+SDTTR,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,-6682097.0
+SDTTR,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-1053758.0
+SDTTR,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-5835237.0
+SDTTR,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SDTTR,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,23015588.0
+SDTTR,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,16126594.0
+SDTTR,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-6679883.0
+SDTTR,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+SDTTR,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SDTTR,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-6679883.0
+SDTTR,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SDTTR,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,21890452.0
+SDTTR,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,15210569.0
 SDTTR,2023/3,1A,Dönen Varlıklar,CURRENT ASSETS,46069214.0
 SDTTR,2023/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,19455804.0
 SDTTR,2023/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,8774103.0
 SDTTR,2023/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,6006792.0
 SDTTR,2023/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 SDTTR,2023/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,99355.0
-SDTTR,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2023/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2023/3,1AF,Stoklar,Inventories,8840842.0
 SDTTR,2023/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 SDTTR,2023/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,2892318.0
@@ -1044,13 +1191,13 @@ SDTTR,2023/3,1AK,Duran Varlıklar,LONG TERM ASSETS,3318344.0
 SDTTR,2023/3,1B,Ticari Alacaklar,Trade Receivables,0.0
 SDTTR,2023/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 SDTTR,2023/3,1BB,Diğer Alacaklar,Other Receivables,27619.0
-SDTTR,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2023/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2023/3,1BC,Finansal Yatırımlar,Financial Investments,470029.0
 SDTTR,2023/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 SDTTR,2023/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 SDTTR,2023/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 SDTTR,2023/3,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2023/3,1BFAA,Kullanım Hakkı Varlıkları,,193465.0
+SDTTR,2023/3,1BFAA,Kullanım Hakkı Varlıkları,nan,193465.0
 SDTTR,2023/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,617422.0
 SDTTR,2023/3,1BGA,Şerefiye,Goodwill,0.0
 SDTTR,2023/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,745241.0
@@ -1063,10 +1210,10 @@ SDTTR,2023/3,2AA,Finansal Borçlar,Short-Term Financial Loans,315506.0
 SDTTR,2023/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2023/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1558362.0
 SDTTR,2023/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,367380.0
-SDTTR,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+SDTTR,2023/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 SDTTR,2023/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 SDTTR,2023/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,6563118.0
+SDTTR,2023/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,6563118.0
 SDTTR,2023/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1072456.0
 SDTTR,2023/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,1035220.0
 SDTTR,2023/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,762446.0
@@ -1077,10 +1224,10 @@ SDTTR,2023/3,2BA,Finansal Borçlar,Long-Term Financial Loans,47304.0
 SDTTR,2023/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2023/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 SDTTR,2023/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+SDTTR,2023/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 SDTTR,2023/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 SDTTR,2023/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,1805437.0
+SDTTR,2023/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1805437.0
 SDTTR,2023/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,754745.0
 SDTTR,2023/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 SDTTR,2023/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -1117,11 +1264,11 @@ SDTTR,2023/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 SDTTR,2023/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 SDTTR,2023/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,155625.0
 SDTTR,2023/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,501628.0
-SDTTR,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,,3354396.0
-SDTTR,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-SDTTR,2023/3,3HAB,Diğer Gelir ve Giderler,,0.0
+SDTTR,2023/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3354396.0
+SDTTR,2023/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SDTTR,2023/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
 SDTTR,2023/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-SDTTR,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,3510022.0
+SDTTR,2023/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3510022.0
 SDTTR,2023/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),616350.0
 SDTTR,2023/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-4769032.0
 SDTTR,2023/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,3354396.0
@@ -1181,7 +1328,7 @@ SDTTR,2023/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,12802508
 SDTTR,2023/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,1910942.0
 SDTTR,2023/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 SDTTR,2023/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,91277.0
-SDTTR,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2023/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2023/6,1AF,Stoklar,Inventories,9270987.0
 SDTTR,2023/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 SDTTR,2023/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,5267815.0
@@ -1191,13 +1338,13 @@ SDTTR,2023/6,1AK,Duran Varlıklar,LONG TERM ASSETS,2563389.0
 SDTTR,2023/6,1B,Ticari Alacaklar,Trade Receivables,0.0
 SDTTR,2023/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 SDTTR,2023/6,1BB,Diğer Alacaklar,Other Receivables,20485.0
-SDTTR,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2023/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2023/6,1BC,Finansal Yatırımlar,Financial Investments,453213.0
 SDTTR,2023/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 SDTTR,2023/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 SDTTR,2023/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 SDTTR,2023/6,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2023/6,1BFAA,Kullanım Hakkı Varlıkları,,94072.0
+SDTTR,2023/6,1BFAA,Kullanım Hakkı Varlıkları,nan,94072.0
 SDTTR,2023/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,634762.0
 SDTTR,2023/6,1BGA,Şerefiye,Goodwill,0.0
 SDTTR,2023/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,531273.0
@@ -1210,10 +1357,10 @@ SDTTR,2023/6,2AA,Finansal Borçlar,Short-Term Financial Loans,187596.0
 SDTTR,2023/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2023/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2294845.0
 SDTTR,2023/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1971414.0
-SDTTR,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+SDTTR,2023/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 SDTTR,2023/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 SDTTR,2023/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,13773716.0
+SDTTR,2023/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,13773716.0
 SDTTR,2023/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),222157.0
 SDTTR,2023/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,885187.0
 SDTTR,2023/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,591348.0
@@ -1224,10 +1371,10 @@ SDTTR,2023/6,2BA,Finansal Borçlar,Long-Term Financial Loans,14194.0
 SDTTR,2023/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2023/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 SDTTR,2023/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+SDTTR,2023/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 SDTTR,2023/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 SDTTR,2023/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,806566.0
+SDTTR,2023/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,806566.0
 SDTTR,2023/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,448487.0
 SDTTR,2023/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 SDTTR,2023/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -1264,11 +1411,11 @@ SDTTR,2023/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 SDTTR,2023/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 SDTTR,2023/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,234025.0
 SDTTR,2023/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1754573.0
-SDTTR,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,,12419250.0
-SDTTR,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-746.0
-SDTTR,2023/6,3HAB,Diğer Gelir ve Giderler,,0.0
+SDTTR,2023/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,12419250.0
+SDTTR,2023/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-746.0
+SDTTR,2023/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
 SDTTR,2023/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-SDTTR,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,12652530.0
+SDTTR,2023/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,12652530.0
 SDTTR,2023/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1957981.0
 SDTTR,2023/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-7638373.0
 SDTTR,2023/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,12418504.0
@@ -1328,7 +1475,7 @@ SDTTR,2023/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,12948892
 SDTTR,2023/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,7463899.0
 SDTTR,2023/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 SDTTR,2023/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,583980.0
-SDTTR,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2023/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2023/9,1AF,Stoklar,Inventories,13464964.0
 SDTTR,2023/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 SDTTR,2023/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,5960208.0
@@ -1338,13 +1485,13 @@ SDTTR,2023/9,1AK,Duran Varlıklar,LONG TERM ASSETS,3394420.0
 SDTTR,2023/9,1B,Ticari Alacaklar,Trade Receivables,0.0
 SDTTR,2023/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 SDTTR,2023/9,1BB,Diğer Alacaklar,Other Receivables,18693.0
-SDTTR,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2023/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2023/9,1BC,Finansal Yatırımlar,Financial Investments,492764.0
 SDTTR,2023/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,0.0
 SDTTR,2023/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 SDTTR,2023/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 SDTTR,2023/9,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2023/9,1BFAA,Kullanım Hakkı Varlıkları,,44367.0
+SDTTR,2023/9,1BFAA,Kullanım Hakkı Varlıkları,nan,44367.0
 SDTTR,2023/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,707192.0
 SDTTR,2023/9,1BGA,Şerefiye,Goodwill,0.0
 SDTTR,2023/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,624713.0
@@ -1357,10 +1504,10 @@ SDTTR,2023/9,2AA,Finansal Borçlar,Short-Term Financial Loans,126742.0
 SDTTR,2023/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2023/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2204104.0
 SDTTR,2023/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,1815147.0
-SDTTR,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+SDTTR,2023/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 SDTTR,2023/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 SDTTR,2023/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,14361062.0
+SDTTR,2023/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,14361062.0
 SDTTR,2023/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),245298.0
 SDTTR,2023/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,1144915.0
 SDTTR,2023/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,886183.0
@@ -1371,10 +1518,10 @@ SDTTR,2023/9,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
 SDTTR,2023/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2023/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 SDTTR,2023/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+SDTTR,2023/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 SDTTR,2023/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 SDTTR,2023/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,6235454.0
+SDTTR,2023/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,6235454.0
 SDTTR,2023/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,524790.0
 SDTTR,2023/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 SDTTR,2023/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -1411,11 +1558,11 @@ SDTTR,2023/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 SDTTR,2023/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 SDTTR,2023/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,3467388.0
 SDTTR,2023/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,5108193.0
-SDTTR,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,,14161427.0
-SDTTR,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-19642.0
-SDTTR,2023/9,3HAB,Diğer Gelir ve Giderler,,0.0
+SDTTR,2023/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,14161427.0
+SDTTR,2023/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-19642.0
+SDTTR,2023/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
 SDTTR,2023/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,0.0
-SDTTR,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,17609173.0
+SDTTR,2023/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,17609173.0
 SDTTR,2023/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),7376375.0
 SDTTR,2023/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-16741071.0
 SDTTR,2023/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,14141785.0
@@ -1469,160 +1616,158 @@ SDTTR,2023/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equiv
 SDTTR,2023/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
 SDTTR,2023/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,22111027.0
 SDTTR,2023/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,27737381.0
-SDTTR,2023/12,1A,Dönen Varlıklar,CURRENT ASSETS,97204085.0
-SDTTR,2023/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,12289916.0
-SDTTR,2023/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,18652072.0
-SDTTR,2023/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,23924183.0
-SDTTR,2023/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
-SDTTR,2023/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,902532.0
-SDTTR,2023/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-SDTTR,2023/12,1AF,Stoklar,Inventories,35408234.0
-SDTTR,2023/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
-SDTTR,2023/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,6027150.0
-SDTTR,2023/12,1AI,(Ara Toplam),(Subtotal),97204085.0
-SDTTR,2023/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
-SDTTR,2023/12,1AK,Duran Varlıklar,LONG TERM ASSETS,11115778.0
-SDTTR,2023/12,1B,Ticari Alacaklar,Trade Receivables,0.0
-SDTTR,2023/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
-SDTTR,2023/12,1BB,Diğer Alacaklar,Other Receivables,26710.0
-SDTTR,2023/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-SDTTR,2023/12,1BC,Finansal Yatırımlar,Financial Investments,721734.0
-SDTTR,2023/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,94774.0
-SDTTR,2023/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
-SDTTR,2023/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
-SDTTR,2023/12,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2023/12,1BFAA,Kullanım Hakkı Varlıkları,,519571.0
-SDTTR,2023/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1758544.0
-SDTTR,2023/12,1BGA,Şerefiye,Goodwill,0.0
-SDTTR,2023/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2574378.0
-SDTTR,2023/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,2439184.0
-SDTTR,2023/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,2980883.0
-SDTTR,2023/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,108319863.0
-SDTTR,2023/12,1BM,KAYNAKLAR,LIABILITIES,0.0
-SDTTR,2023/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,35865093.0
-SDTTR,2023/12,2AA,Finansal Borçlar,Short-Term Financial Loans,558438.0
-SDTTR,2023/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-SDTTR,2023/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,7218764.0
-SDTTR,2023/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,284825.0
-SDTTR,2023/12,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
-SDTTR,2023/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
-SDTTR,2023/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2023/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,23643185.0
-SDTTR,2023/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),1064587.0
-SDTTR,2023/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,1912854.0
-SDTTR,2023/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1182440.0
-SDTTR,2023/12,2AAGG,(Ara Toplam),(Subtotal),35865093.0
-SDTTR,2023/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
-SDTTR,2023/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,5085474.0
-SDTTR,2023/12,2BA,Finansal Borçlar,Long-Term Financial Loans,14737.0
-SDTTR,2023/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-SDTTR,2023/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
-SDTTR,2023/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2023/12,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
-SDTTR,2023/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
-SDTTR,2023/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2023/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,4373648.0
-SDTTR,2023/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,697089.0
-SDTTR,2023/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
-SDTTR,2023/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
-SDTTR,2023/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
-SDTTR,2023/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,67369296.0
-SDTTR,2023/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,67369296.0
-SDTTR,2023/12,2OA,Ödenmiş Sermaye,Share Capital,1966682.0
-SDTTR,2023/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
-SDTTR,2023/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,17484956.0
-SDTTR,2023/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
-SDTTR,2023/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
-SDTTR,2023/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,959935.0
-SDTTR,2023/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),25416048.0
-SDTTR,2023/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),15782345.0
-SDTTR,2023/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,5759330.0
-SDTTR,2023/12,2ODA,Azınlık Payları,Minority Interests,0.0
-SDTTR,2023/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,108319863.0
-SDTTR,2023/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
-SDTTR,2023/12,3C,Satış Gelirleri,Net Sales,69094488.0
-SDTTR,2023/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-40235761.0
-SDTTR,2023/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
-SDTTR,2023/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,28858728.0
-SDTTR,2023/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
-SDTTR,2023/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
-SDTTR,2023/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
-SDTTR,2023/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
-SDTTR,2023/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
-SDTTR,2023/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),28858728.0
-SDTTR,2023/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-1790722.0
-SDTTR,2023/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-6568873.0
-SDTTR,2023/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-982515.0
-SDTTR,2023/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,2292537.0
-SDTTR,2023/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-4384531.0
-SDTTR,2023/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
-SDTTR,2023/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,17424625.0
-SDTTR,2023/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,19516618.0
-SDTTR,2023/12,3HA,Yatırım Faaliyetlerinden Gelirler,,16823215.0
-SDTTR,2023/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-17787.0
-SDTTR,2023/12,3HAB,Diğer Gelir ve Giderler,,0.0
-SDTTR,2023/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,-96286.0
-SDTTR,2023/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,34133767.0
-SDTTR,2023/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),8089435.0
-SDTTR,2023/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-21705124.0
-SDTTR,2023/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,16805428.0
-SDTTR,2023/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,20518078.0
-SDTTR,2023/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,-985116.0
-SDTTR,2023/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),-3976643.0
-SDTTR,2023/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,2991527.0
-SDTTR,2023/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
-SDTTR,2023/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,19532962.0
-SDTTR,2023/12,3K,DURDURULAN FAALİYETLER,DISCONTINUED OPERATIONS,0.0
-SDTTR,2023/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
-SDTTR,2023/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,19532962.0
-SDTTR,2023/12,3LA,Dönem Kar/Zararının Dağılımı,Distrubition of Profit (Loss),0.0
-SDTTR,2023/12,3LB,Azınlık Payları,Minority Interests,0.0
-SDTTR,2023/12,3Z,Ana Ortaklık Payları,Parent Shares,19532962.0
-SDTTR,2023/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
-SDTTR,2023/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
-SDTTR,2023/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
-SDTTR,2023/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
-SDTTR,2023/12,4B,Amortisman Giderleri,Depreciation & Amortization,2070524.0
-SDTTR,2023/12,4BA,Kıdem Tazminatı,Severance Payments,676753.0
-SDTTR,2023/12,4BB,Finansman Giderleri,Financial Expenses,-21705124.0
-SDTTR,2023/12,4BC,Yurtiçi Satışlar,Domestic Sales,42134134.0
-SDTTR,2023/12,4BD,Yurtdışı Satışlar,Export Sales,27227862.0
-SDTTR,2023/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,-5538486.0
-SDTTR,2023/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,-2586649.0
-SDTTR,2023/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),10217119.0
-SDTTR,2023/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,-5100804.0
-SDTTR,2023/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,19532962.0
-SDTTR,2023/12,4CAA,Düzeltmeler:,Adjustments:,15240115.0
-SDTTR,2023/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,2070524.0
-SDTTR,2023/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,-131079.0
-SDTTR,2023/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-2834194.0
-SDTTR,2023/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),34773078.0
-SDTTR,2023/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,-39873881.0
-SDTTR,2023/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),-5100804.0
-SDTTR,2023/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,0.0
-SDTTR,2023/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-1581293.0
-SDTTR,2023/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
-SDTTR,2023/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-1581293.0
-SDTTR,2023/12,4CB,Serbest Nakit Akım,Free Cash Flow,-6682097.0
-SDTTR,2023/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,-1053758.0
-SDTTR,2023/12,4CBB,Temettü Ödemeleri,Dividends Paid,-5835237.0
-SDTTR,2023/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
-SDTTR,2023/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,23015588.0
-SDTTR,2023/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,16126594.0
-SDTTR,2023/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,-6679883.0
-SDTTR,2023/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
-SDTTR,2023/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
-SDTTR,2023/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,-6679883.0
-SDTTR,2023/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
-SDTTR,2023/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,21890452.0
-SDTTR,2023/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,15210569.0
+SDTTR,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,84342141.0
+SDTTR,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,22909624.0
+SDTTR,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
+SDTTR,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,12700541.0
+SDTTR,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
+SDTTR,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,287492.0
+SDTTR,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SDTTR,2024/12,1AF,Stoklar,Inventories,43369676.0
+SDTTR,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
+SDTTR,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,5074809.0
+SDTTR,2024/12,1AI,(Ara Toplam),(Subtotal),84342141.0
+SDTTR,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
+SDTTR,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,17822737.0
+SDTTR,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
+SDTTR,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
+SDTTR,2024/12,1BB,Diğer Alacaklar,Other Receivables,18641.0
+SDTTR,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
+SDTTR,2024/12,1BC,Finansal Yatırımlar,Financial Investments,326091.0
+SDTTR,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,273792.0
+SDTTR,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
+SDTTR,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
+SDTTR,2024/12,1BFA,Stoklar,Stoklar,0.0
+SDTTR,2024/12,1BFAA,Kullanım Hakkı Varlıkları,nan,967407.0
+SDTTR,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5817348.0
+SDTTR,2024/12,1BGA,Şerefiye,Goodwill,0.0
+SDTTR,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2868764.0
+SDTTR,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,3947918.0
+SDTTR,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3602777.0
+SDTTR,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,102164878.0
+SDTTR,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
+SDTTR,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,33357293.0
+SDTTR,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,11535604.0
+SDTTR,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SDTTR,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3245526.0
+SDTTR,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,586036.0
+SDTTR,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
+SDTTR,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
+SDTTR,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
+SDTTR,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,15090409.0
+SDTTR,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
+SDTTR,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,1363237.0
+SDTTR,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1536482.0
+SDTTR,2024/12,2AAGG,(Ara Toplam),(Subtotal),33357293.0
+SDTTR,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
+SDTTR,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3359737.0
+SDTTR,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,400492.0
+SDTTR,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
+SDTTR,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
+SDTTR,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
+SDTTR,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
+SDTTR,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
+SDTTR,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
+SDTTR,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,2171063.0
+SDTTR,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,788183.0
+SDTTR,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
+SDTTR,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
+SDTTR,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
+SDTTR,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,65447849.0
+SDTTR,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,65447849.0
+SDTTR,2024/12,2OA,Ödenmiş Sermaye,Share Capital,1641023.0
+SDTTR,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
+SDTTR,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,18299753.0
+SDTTR,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
+SDTTR,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
+SDTTR,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,945391.0
+SDTTR,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),37741891.0
+SDTTR,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),352052.0
+SDTTR,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,6050432.0
+SDTTR,2024/12,2ODA,Azınlık Payları,Minority Interests,0.0
+SDTTR,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,102164878.0
+SDTTR,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
+SDTTR,2024/12,3C,Satış Gelirleri,Net Sales,69964742.0
+SDTTR,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-53577721.0
+SDTTR,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
+SDTTR,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,16387020.0
+SDTTR,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
+SDTTR,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
+SDTTR,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
+SDTTR,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
+SDTTR,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
+SDTTR,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),16387020.0
+SDTTR,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2162210.0
+SDTTR,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-6149078.0
+SDTTR,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-571654.0
+SDTTR,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,8717584.0
+SDTTR,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-6224540.0
+SDTTR,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
+SDTTR,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,9997122.0
+SDTTR,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,7504078.0
+SDTTR,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3603030.0
+SDTTR,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-32399.0
+SDTTR,2024/12,3HAB,Diğer Gelir ve Giderler,nan,0.0
+SDTTR,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,187724.0
+SDTTR,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,13755477.0
+SDTTR,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),6009087.0
+SDTTR,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-20893264.0
+SDTTR,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,3570631.0
+SDTTR,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-1128700.0
+SDTTR,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,1507211.0
+SDTTR,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
+SDTTR,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,1507211.0
+SDTTR,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
+SDTTR,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,378511.0
+SDTTR,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
+SDTTR,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,378511.0
+SDTTR,2024/12,3LB,Azınlık Payları,Minority Interests,0.0
+SDTTR,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,378511.0
+SDTTR,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
+SDTTR,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
+SDTTR,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
+SDTTR,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
+SDTTR,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,1973983.0
+SDTTR,2024/12,4BA,Kıdem Tazminatı,Severance Payments,410930.0
+SDTTR,2024/12,4BB,Finansman Giderleri,Financial Expenses,-20893264.0
+SDTTR,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,55332421.0
+SDTTR,2024/12,4BD,Yurtdışı Satışlar,Export Sales,15113426.0
+SDTTR,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,3671365.0
+SDTTR,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,3671365.0
+SDTTR,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),18486330.0
+SDTTR,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,19346234.0
+SDTTR,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,378511.0
+SDTTR,2024/12,4CAA,Düzeltmeler:,Adjustments:,7907465.0
+SDTTR,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1973983.0
+SDTTR,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,-267523.0
+SDTTR,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-2475810.0
+SDTTR,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),8285976.0
+SDTTR,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,11060258.0
+SDTTR,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),19346234.0
+SDTTR,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,0.0
+SDTTR,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-5824858.0
+SDTTR,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
+SDTTR,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-5824858.0
+SDTTR,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,13521376.0
+SDTTR,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,9188652.0
+SDTTR,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-5844131.0
+SDTTR,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
+SDTTR,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,681319.0
+SDTTR,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,4025841.0
+SDTTR,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,10802081.0
+SDTTR,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
+SDTTR,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
+SDTTR,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,10802081.0
+SDTTR,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
+SDTTR,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,13829312.0
+SDTTR,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,24631393.0
 SDTTR,2024/3,1A,Dönen Varlıklar,CURRENT ASSETS,65097559.0
 SDTTR,2024/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,14735522.0
 SDTTR,2024/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,8087344.0
 SDTTR,2024/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,9798098.0
 SDTTR,2024/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 SDTTR,2024/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,706566.0
-SDTTR,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2024/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2024/3,1AF,Stoklar,Inventories,27553736.0
 SDTTR,2024/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 SDTTR,2024/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,4216294.0
@@ -1632,13 +1777,13 @@ SDTTR,2024/3,1AK,Duran Varlıklar,LONG TERM ASSETS,8451151.0
 SDTTR,2024/3,1B,Ticari Alacaklar,Trade Receivables,0.0
 SDTTR,2024/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 SDTTR,2024/3,1BB,Diğer Alacaklar,Other Receivables,16868.0
-SDTTR,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2024/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2024/3,1BC,Finansal Yatırımlar,Financial Investments,15974.0
 SDTTR,2024/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,114054.0
 SDTTR,2024/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 SDTTR,2024/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 SDTTR,2024/3,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2024/3,1BFAA,Kullanım Hakkı Varlıkları,,286474.0
+SDTTR,2024/3,1BFAA,Kullanım Hakkı Varlıkları,nan,286474.0
 SDTTR,2024/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,1535278.0
 SDTTR,2024/3,1BGA,Şerefiye,Goodwill,0.0
 SDTTR,2024/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1792387.0
@@ -1651,10 +1796,10 @@ SDTTR,2024/3,2AA,Finansal Borçlar,Short-Term Financial Loans,2374313.0
 SDTTR,2024/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2024/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3549604.0
 SDTTR,2024/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,875934.0
-SDTTR,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+SDTTR,2024/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 SDTTR,2024/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 SDTTR,2024/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,16170214.0
+SDTTR,2024/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,16170214.0
 SDTTR,2024/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),24770.0
 SDTTR,2024/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,1099302.0
 SDTTR,2024/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1218256.0
@@ -1665,10 +1810,10 @@ SDTTR,2024/3,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
 SDTTR,2024/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2024/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 SDTTR,2024/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+SDTTR,2024/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 SDTTR,2024/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 SDTTR,2024/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,1795649.0
+SDTTR,2024/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1795649.0
 SDTTR,2024/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,571037.0
 SDTTR,2024/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 SDTTR,2024/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -1705,11 +1850,11 @@ SDTTR,2024/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 SDTTR,2024/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 SDTTR,2024/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1906293.0
 SDTTR,2024/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,296914.0
-SDTTR,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,,1729154.0
-SDTTR,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-32430.0
-SDTTR,2024/3,3HAB,Diğer Gelir ve Giderler,,0.0
+SDTTR,2024/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,1729154.0
+SDTTR,2024/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-32430.0
+SDTTR,2024/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
 SDTTR,2024/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,65189.0
-SDTTR,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,3668206.0
+SDTTR,2024/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,3668206.0
 SDTTR,2024/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),1694911.0
 SDTTR,2024/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-10240796.0
 SDTTR,2024/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,1696724.0
@@ -1769,7 +1914,7 @@ SDTTR,2024/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,4478157.
 SDTTR,2024/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,15900367.0
 SDTTR,2024/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 SDTTR,2024/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,623470.0
-SDTTR,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2024/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2024/6,1AF,Stoklar,Inventories,28673543.0
 SDTTR,2024/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 SDTTR,2024/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,4907774.0
@@ -1779,13 +1924,13 @@ SDTTR,2024/6,1AK,Duran Varlıklar,LONG TERM ASSETS,11033023.0
 SDTTR,2024/6,1B,Ticari Alacaklar,Trade Receivables,0.0
 SDTTR,2024/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 SDTTR,2024/6,1BB,Diğer Alacaklar,Other Receivables,16590.0
-SDTTR,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2024/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2024/6,1BC,Finansal Yatırımlar,Financial Investments,18443.0
 SDTTR,2024/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,199301.0
 SDTTR,2024/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 SDTTR,2024/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 SDTTR,2024/6,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2024/6,1BFAA,Kullanım Hakkı Varlıkları,,208321.0
+SDTTR,2024/6,1BFAA,Kullanım Hakkı Varlıkları,nan,208321.0
 SDTTR,2024/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,2294047.0
 SDTTR,2024/6,1BGA,Şerefiye,Goodwill,0.0
 SDTTR,2024/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1768648.0
@@ -1798,10 +1943,10 @@ SDTTR,2024/6,2AA,Finansal Borçlar,Short-Term Financial Loans,4749080.0
 SDTTR,2024/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2024/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2370166.0
 SDTTR,2024/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,4192933.0
-SDTTR,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+SDTTR,2024/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 SDTTR,2024/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 SDTTR,2024/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,14695939.0
+SDTTR,2024/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,14695939.0
 SDTTR,2024/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 SDTTR,2024/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,1222499.0
 SDTTR,2024/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1143765.0
@@ -1812,10 +1957,10 @@ SDTTR,2024/6,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
 SDTTR,2024/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2024/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 SDTTR,2024/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+SDTTR,2024/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 SDTTR,2024/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 SDTTR,2024/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,1728701.0
+SDTTR,2024/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1728701.0
 SDTTR,2024/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,576894.0
 SDTTR,2024/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 SDTTR,2024/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -1852,11 +1997,11 @@ SDTTR,2024/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 SDTTR,2024/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 SDTTR,2024/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,3658623.0
 SDTTR,2024/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,2791023.0
-SDTTR,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,,2626248.0
-SDTTR,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-36588.0
-SDTTR,2024/6,3HAB,Diğer Gelir ve Giderler,,0.0
+SDTTR,2024/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2626248.0
+SDTTR,2024/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-36588.0
+SDTTR,2024/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
 SDTTR,2024/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,176781.0
-SDTTR,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,6425065.0
+SDTTR,2024/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,6425065.0
 SDTTR,2024/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),3190056.0
 SDTTR,2024/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-12724771.0
 SDTTR,2024/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2589661.0
@@ -1916,7 +2061,7 @@ SDTTR,2024/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,1258528.
 SDTTR,2024/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,17489372.0
 SDTTR,2024/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 SDTTR,2024/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,467152.0
-SDTTR,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2024/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2024/9,1AF,Stoklar,Inventories,32131348.0
 SDTTR,2024/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 SDTTR,2024/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,3655129.0
@@ -1926,13 +2071,13 @@ SDTTR,2024/9,1AK,Duran Varlıklar,LONG TERM ASSETS,12001341.0
 SDTTR,2024/9,1B,Ticari Alacaklar,Trade Receivables,0.0
 SDTTR,2024/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 SDTTR,2024/9,1BB,Diğer Alacaklar,Other Receivables,15777.0
-SDTTR,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2024/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2024/9,1BC,Finansal Yatırımlar,Financial Investments,18333.0
 SDTTR,2024/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,231058.0
 SDTTR,2024/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 SDTTR,2024/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 SDTTR,2024/9,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2024/9,1BFAA,Kullanım Hakkı Varlıkları,,116529.0
+SDTTR,2024/9,1BFAA,Kullanım Hakkı Varlıkları,nan,116529.0
 SDTTR,2024/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,3270587.0
 SDTTR,2024/9,1BGA,Şerefiye,Goodwill,0.0
 SDTTR,2024/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,1726917.0
@@ -1945,10 +2090,10 @@ SDTTR,2024/9,2AA,Finansal Borçlar,Short-Term Financial Loans,4752864.0
 SDTTR,2024/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2024/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1765030.0
 SDTTR,2024/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,2699696.0
-SDTTR,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+SDTTR,2024/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 SDTTR,2024/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 SDTTR,2024/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,14355979.0
+SDTTR,2024/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,14355979.0
 SDTTR,2024/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 SDTTR,2024/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,1381603.0
 SDTTR,2024/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1120167.0
@@ -1959,10 +2104,10 @@ SDTTR,2024/9,2BA,Finansal Borçlar,Long-Term Financial Loans,0.0
 SDTTR,2024/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2024/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 SDTTR,2024/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+SDTTR,2024/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 SDTTR,2024/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 SDTTR,2024/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,1087010.0
+SDTTR,2024/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1087010.0
 SDTTR,2024/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,641830.0
 SDTTR,2024/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 SDTTR,2024/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -1999,11 +2144,11 @@ SDTTR,2024/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 SDTTR,2024/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 SDTTR,2024/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,8557671.0
 SDTTR,2024/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,6899677.0
-SDTTR,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,,3393970.0
-SDTTR,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-40227.0
-SDTTR,2024/9,3HAB,Diğer Gelir ve Giderler,,0.0
+SDTTR,2024/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3393970.0
+SDTTR,2024/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-40227.0
+SDTTR,2024/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
 SDTTR,2024/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,217534.0
-SDTTR,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,12128948.0
+SDTTR,2024/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,12128948.0
 SDTTR,2024/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),5425654.0
 SDTTR,2024/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-17619744.0
 SDTTR,2024/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,3353743.0
@@ -2057,158 +2202,13 @@ SDTTR,2024/9,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equiv
 SDTTR,2024/9,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
 SDTTR,2024/9,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,14083457.0
 SDTTR,2024/9,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,18076129.0
-SDTTR,2024/12,1A,Dönen Varlıklar,CURRENT ASSETS,84342141.0
-SDTTR,2024/12,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,22909624.0
-SDTTR,2024/12,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
-SDTTR,2024/12,1AC,Ticari Alacaklar,Short-Term Trade Receivables,12700541.0
-SDTTR,2024/12,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
-SDTTR,2024/12,1AE,Diğer Alacaklar,Short-Term Other Receivables,287492.0
-SDTTR,2024/12,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-SDTTR,2024/12,1AF,Stoklar,Inventories,43369676.0
-SDTTR,2024/12,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
-SDTTR,2024/12,1AH,Diğer Dönen Varlıklar,Other Current Assets,5074809.0
-SDTTR,2024/12,1AI,(Ara Toplam),(Subtotal),84342141.0
-SDTTR,2024/12,1AJ,Satış Amacıyla Elde Tutulan Duran Varlıklar,Assets to be Sold,0.0
-SDTTR,2024/12,1AK,Duran Varlıklar,LONG TERM ASSETS,17822737.0
-SDTTR,2024/12,1B,Ticari Alacaklar,Trade Receivables,0.0
-SDTTR,2024/12,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
-SDTTR,2024/12,1BB,Diğer Alacaklar,Other Receivables,18641.0
-SDTTR,2024/12,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
-SDTTR,2024/12,1BC,Finansal Yatırımlar,Financial Investments,326091.0
-SDTTR,2024/12,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,273792.0
-SDTTR,2024/12,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
-SDTTR,2024/12,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
-SDTTR,2024/12,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2024/12,1BFAA,Kullanım Hakkı Varlıkları,,967407.0
-SDTTR,2024/12,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5817348.0
-SDTTR,2024/12,1BGA,Şerefiye,Goodwill,0.0
-SDTTR,2024/12,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2868764.0
-SDTTR,2024/12,1BJ,Ertelenmiş Vergi Varlığı,Long Term Deffered Tax Assets,3947918.0
-SDTTR,2024/12,1BK,Diğer Duran Varlıklar,Other Long-Term Assets,3602777.0
-SDTTR,2024/12,1BL,TOPLAM VARLIKLAR,TOTAL ASSETS,102164878.0
-SDTTR,2024/12,1BM,KAYNAKLAR,LIABILITIES,0.0
-SDTTR,2024/12,2A,Kısa Vadeli Yükümlülükler,SHORT TERM LIABILITIES,33357293.0
-SDTTR,2024/12,2AA,Finansal Borçlar,Short-Term Financial Loans,11535604.0
-SDTTR,2024/12,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-SDTTR,2024/12,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3245526.0
-SDTTR,2024/12,2AAGAB,Diğer Borçlar,Other Short-Term Loans,586036.0
-SDTTR,2024/12,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
-SDTTR,2024/12,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
-SDTTR,2024/12,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2024/12,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,15090409.0
-SDTTR,2024/12,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
-SDTTR,2024/12,2AAGE,Borç Karşılıkları,Short-Term Provisions,1363237.0
-SDTTR,2024/12,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1536482.0
-SDTTR,2024/12,2AAGG,(Ara Toplam),(Subtotal),33357293.0
-SDTTR,2024/12,2AAGH,Satış Amaçlı Elde Tutulan Duran Varlıklara İlişkin Yükümlülükler,Liabilities on Assets to be Sold,0.0
-SDTTR,2024/12,2B,Uzun Vadeli Yükümlülükler,LONG TERM LIABILITIES,3359737.0
-SDTTR,2024/12,2BA,Finansal Borçlar,Long-Term Financial Loans,400492.0
-SDTTR,2024/12,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
-SDTTR,2024/12,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
-SDTTR,2024/12,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2024/12,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
-SDTTR,2024/12,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
-SDTTR,2024/12,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2024/12,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,2171063.0
-SDTTR,2024/12,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,788183.0
-SDTTR,2024/12,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
-SDTTR,2024/12,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
-SDTTR,2024/12,2BH,Diğer Uzun Vadeli Yükümlülükler,Other Long-Term Liabilities,0.0
-SDTTR,2024/12,2N,Özkaynaklar,SHAREHOLDERS EQUITY,65447849.0
-SDTTR,2024/12,2O,Ana Ortaklığa Ait Özkaynaklar,Parent Shareholders Capital,65447849.0
-SDTTR,2024/12,2OA,Ödenmiş Sermaye,Share Capital,1641023.0
-SDTTR,2024/12,2OC,Karşılıklı İştirak Sermayesi Düzeltmesi (-),Adjustments to Share Capital,0.0
-SDTTR,2024/12,2OCA,Hisse Senedi İhraç Primleri,Premium in Excess of Par,18299753.0
-SDTTR,2024/12,2OCB,Değer Artış Fonları,Market Value Surpluses,0.0
-SDTTR,2024/12,2OCC,Yabancı Para Çevrim Farkları,FX Translation Differences,0.0
-SDTTR,2024/12,2OCD,Kardan Ayrılan Kısıtlanmış Yedekler,Income Reserves,945391.0
-SDTTR,2024/12,2OCE,Geçmiş Yıllar Kar/Zararları,Retained Earnings /(Acc. Losses),37741891.0
-SDTTR,2024/12,2OCF,Dönem Net Kar/Zararı,Current Year Income /(Losses),352052.0
-SDTTR,2024/12,2OD,Diğer Özsermaye Kalemleri,Other Sholders Equity Items,6050432.0
-SDTTR,2024/12,2ODA,Azınlık Payları,Minority Interests,0.0
-SDTTR,2024/12,2ODB,TOPLAM KAYNAKLAR,TOTAL LIABILITIES AND S.HOLDERS EQUITY,102164878.0
-SDTTR,2024/12,3B,Sürdürülen Faaliyetler,Continuing Operations,0.0
-SDTTR,2024/12,3C,Satış Gelirleri,Net Sales,69964742.0
-SDTTR,2024/12,3CA,Satışların Maliyeti (-),Cost Of Sales,-53577721.0
-SDTTR,2024/12,3CAA,Ticari Faaliyetlerden Diğer Kar (Zarar),Other Profit (Loss) from Trade Operations,0.0
-SDTTR,2024/12,3CAB,Ticari Faaliyetlerden Brüt Kar (Zarar),Gross Profit (Loss) from Trade Operations,16387020.0
-SDTTR,2024/12,3CAC,"Faiz, Ücret, Prim, Komisyon ve Diğer Gelirler","Proceeds from Interest, Fee, Premium, Commission and Other",0.0
-SDTTR,2024/12,3CAD,"Faiz, Ücret, Prim, Komisyon ve Diğer Giderler (-)","Expenses from Interest, Fee, Premium, Commission and Other",0.0
-SDTTR,2024/12,3CAE,Finans Sektörü Faaliyetlerinden Diğer Kar (Zarar),Other Profit (Loss) from Financial Operations,0.0
-SDTTR,2024/12,3CAF,Finans Sektörü Faaliyetlerinden Brüt Kar (Zarar),Gross Profit (Loss) from Financial Operations,0.0
-SDTTR,2024/12,3CB,Diğer Gelir ve Giderler,Other Income (Expenses),0.0
-SDTTR,2024/12,3D,BRÜT KAR (ZARAR),GROSS PROFIT (LOSS),16387020.0
-SDTTR,2024/12,3DA,"Pazarlama, Satış ve Dağıtım Giderleri (-)",Marketing Selling & Distrib. Expenses (-),-2162210.0
-SDTTR,2024/12,3DB,Genel Yönetim Giderleri (-),General Administrative Expenses (-),-6149078.0
-SDTTR,2024/12,3DC,Araştırma ve Geliştirme Giderleri (-),Research & Development Expenses (-),-571654.0
-SDTTR,2024/12,3DD,Diğer Faaliyet Gelirleri,Income from Other Operations,8717584.0
-SDTTR,2024/12,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-),-6224540.0
-SDTTR,2024/12,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
-SDTTR,2024/12,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,9997122.0
-SDTTR,2024/12,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,7504078.0
-SDTTR,2024/12,3HA,Yatırım Faaliyetlerinden Gelirler,,3603030.0
-SDTTR,2024/12,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-32399.0
-SDTTR,2024/12,3HAB,Diğer Gelir ve Giderler,,0.0
-SDTTR,2024/12,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,187724.0
-SDTTR,2024/12,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,13755477.0
-SDTTR,2024/12,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),6009087.0
-SDTTR,2024/12,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-20893264.0
-SDTTR,2024/12,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,3570631.0
-SDTTR,2024/12,3I,SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI),PROFIT BEFORE TAX FROM CONTINUING OPERATIONS,-1128700.0
-SDTTR,2024/12,3IA,Sürdürülen Faaliyetler Vergi Geliri (Gideri),Taxation on Continuing Operations,1507211.0
-SDTTR,2024/12,3IB,Dönem Vergi Geliri (Gideri),Taxation on Income (Expenses),0.0
-SDTTR,2024/12,3IC,Ertelenmiş Vergi Geliri (Gideri),Income (Expenses) of Deferred Tax,1507211.0
-SDTTR,2024/12,3ID,Diğer Vergi Geliri (Gideri),Other Taxation Income (Expenses),0.0
-SDTTR,2024/12,3J,SÜRDÜRÜLEN FAALİYETLER DÖNEM KARI/ZARARI,PROFIT FROM CONTINUING OPERATIONS,378511.0
-SDTTR,2024/12,3KA,Durdurulan Faaliyetler Vergi Sonrası Dönem Karı (Zararı),Profit After Taxes from Discontinued Operations,0.0
-SDTTR,2024/12,3L,DÖNEM KARI (ZARARI),NET PROFIT AFTER TAXES,378511.0
-SDTTR,2024/12,3LB,Azınlık Payları,Minority Interests,0.0
-SDTTR,2024/12,3Z,Ana Ortaklık Payları,Parent Shares,378511.0
-SDTTR,2024/12,3ZD,Hisse Başına Kazanç,Earnings per Share,0.0
-SDTTR,2024/12,3ZE,Seyreltilmiş Hisse Başına Kazanç,Diluted Earnings per Share,0.0
-SDTTR,2024/12,3ZF,Sürdürülen Faaliyetlerden Hisse Başına Kazanç,Earnings per Share from Continuing Operations,0.0
-SDTTR,2024/12,3ZG,Sürdürülen Faaliyetlerden Seyreltilmiş Hisse Başına Kazanç,Earnings per Share from Discontinued Operations,0.0
-SDTTR,2024/12,4B,Amortisman Giderleri,Depreciation & Amortization,1973983.0
-SDTTR,2024/12,4BA,Kıdem Tazminatı,Severance Payments,410930.0
-SDTTR,2024/12,4BB,Finansman Giderleri,Financial Expenses,-20893264.0
-SDTTR,2024/12,4BC,Yurtiçi Satışlar,Domestic Sales,55332421.0
-SDTTR,2024/12,4BD,Yurtdışı Satışlar,Export Sales,15113426.0
-SDTTR,2024/12,4BE,Net Yabancı Para Pozisyonu,Net Fx Position,3671365.0
-SDTTR,2024/12,4BEA,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,Parasal net yabancı para varlık/(yükümlülük) pozisyonu,3671365.0
-SDTTR,2024/12,4BEB,Net YPP (Hedge Dahil),Net YPP (Hedge Dahil),18486330.0
-SDTTR,2024/12,4C,İşletme Faaliyetlerinden Kaynaklanan Net Nakit,Net Cash from Operations,19346234.0
-SDTTR,2024/12,4CA,Düzeltme Öncesi Kar,Earnings Before Adjustments,378511.0
-SDTTR,2024/12,4CAA,Düzeltmeler:,Adjustments:,7907465.0
-SDTTR,2024/12,4CAB,Amortisman & İtfa Payları,Depreciation & Amortisation,1973983.0
-SDTTR,2024/12,4CAC,Karşılıklardaki Değişim,Change in Provisions,-267523.0
-SDTTR,2024/12,4CAD,Diğer Gelir/ Gider,Other Income / Expense,-2475810.0
-SDTTR,2024/12,4CAE,İşletme Sermayesinde Değişikler Öncesi Faaliyet Karı (+),Operating Profit Before Changes in Working Capital (+),8285976.0
-SDTTR,2024/12,4CAF,İşletme Sermayesindeki Değişiklikler,Change in Working Capital,11060258.0
-SDTTR,2024/12,4CAG,Esas Faaliyet ile İlgili Oluşan Nakit (+),Cash from Core Operations (+),19346234.0
-SDTTR,2024/12,4CAH,Diğer İşletme Faaliyetlerinden Nakit,Cash from Other Operations,0.0
-SDTTR,2024/12,4CAI,Sabit Sermaye Yatırımları,Capital Expenditures (CapEx),-5824858.0
-SDTTR,2024/12,4CAJ,Diğer Yatırım Faaliyetlerinden Nakit,Cash from Other Investment Operations,0.0
-SDTTR,2024/12,4CAK,Yatırım Faaliyetlerinden Kaynaklanan Nakit,Cash from Investment Operations,-5824858.0
-SDTTR,2024/12,4CB,Serbest Nakit Akım,Free Cash Flow,13521376.0
-SDTTR,2024/12,4CBA,Finansal Borçlardaki Değişim,Change in Financial Debt,9188652.0
-SDTTR,2024/12,4CBB,Temettü Ödemeleri,Dividends Paid,-5844131.0
-SDTTR,2024/12,4CBC,Sermaye Artırımı,Rights Issue,0.0
-SDTTR,2024/12,4CBD,Diğer Finansman Faaliyetlerinden Nakit,Cash from Other Financial Operations,681319.0
-SDTTR,2024/12,4CBE,Finansman Faaliyetlerden Kaynaklanan Nakit,Cash from Financial Operations,4025841.0
-SDTTR,2024/12,4CBF,Yab. Para Çev. Fark. Etk. Önc.Nak.Ve Nak. Benz. Net Artış/Azalış,Cash Net Inc. / Dec. before For.Cur. Trans. Dif.,10802081.0
-SDTTR,2024/12,4CBG,Yab.ı Para Çevrim Fark. Nakit Ve Nakit Benz. Üzerindeki Etkisi,Foreign Curr. Trans.Diff.Cash and Cash Benz. Imp.,0.0
-SDTTR,2024/12,4CBH,Diğer Nakit Girişi/Çıkışı,Other Cash Inflow/Outflow,0.0
-SDTTR,2024/12,4CBI,Nakit ve Benzerlerindeki Değişim,Change in Cash & Cash Equivalents,10802081.0
-SDTTR,2024/12,4CBJ,Diğer Nakit ve Nakit Benzerlerindeki Artış,Other Cash & Cash Equivalents Change,0.0
-SDTTR,2024/12,4CBK,Dönem Başı Nakit Değerler,Cash at the beginning of the Quarter,13829312.0
-SDTTR,2024/12,4CBL,Dönem Sonu Nakit,Cash at the End of the Quarter,24631393.0
 SDTTR,2025/3,1A,Dönen Varlıklar,CURRENT ASSETS,68295139.0
 SDTTR,2025/3,1AA,Nakit ve Nakit Benzerleri,Cash and Cash Equivalents,16981821.0
 SDTTR,2025/3,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
 SDTTR,2025/3,1AC,Ticari Alacaklar,Short-Term Trade Receivables,6745964.0
 SDTTR,2025/3,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 SDTTR,2025/3,1AE,Diğer Alacaklar,Short-Term Other Receivables,366690.0
-SDTTR,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2025/3,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2025/3,1AF,Stoklar,Inventories,41083984.0
 SDTTR,2025/3,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 SDTTR,2025/3,1AH,Diğer Dönen Varlıklar,Other Current Assets,3116678.0
@@ -2218,13 +2218,13 @@ SDTTR,2025/3,1AK,Duran Varlıklar,LONG TERM ASSETS,15377125.0
 SDTTR,2025/3,1B,Ticari Alacaklar,Trade Receivables,0.0
 SDTTR,2025/3,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 SDTTR,2025/3,1BB,Diğer Alacaklar,Other Receivables,14421.0
-SDTTR,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2025/3,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2025/3,1BC,Finansal Yatırımlar,Financial Investments,251068.0
 SDTTR,2025/3,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,368707.0
 SDTTR,2025/3,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 SDTTR,2025/3,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 SDTTR,2025/3,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2025/3,1BFAA,Kullanım Hakkı Varlıkları,,667156.0
+SDTTR,2025/3,1BFAA,Kullanım Hakkı Varlıkları,nan,667156.0
 SDTTR,2025/3,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5068184.0
 SDTTR,2025/3,1BGA,Şerefiye,Goodwill,0.0
 SDTTR,2025/3,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2583050.0
@@ -2237,10 +2237,10 @@ SDTTR,2025/3,2AA,Finansal Borçlar,Short-Term Financial Loans,9494681.0
 SDTTR,2025/3,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2025/3,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,2880090.0
 SDTTR,2025/3,2AAGAB,Diğer Borçlar,Other Short-Term Loans,334624.0
-SDTTR,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+SDTTR,2025/3,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 SDTTR,2025/3,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 SDTTR,2025/3,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,13506691.0
+SDTTR,2025/3,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,13506691.0
 SDTTR,2025/3,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 SDTTR,2025/3,2AAGE,Borç Karşılıkları,Short-Term Provisions,933563.0
 SDTTR,2025/3,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,2169629.0
@@ -2251,10 +2251,10 @@ SDTTR,2025/3,2BA,Finansal Borçlar,Long-Term Financial Loans,495223.0
 SDTTR,2025/3,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2025/3,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 SDTTR,2025/3,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+SDTTR,2025/3,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 SDTTR,2025/3,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 SDTTR,2025/3,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,1136245.0
+SDTTR,2025/3,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1136245.0
 SDTTR,2025/3,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,680251.0
 SDTTR,2025/3,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 SDTTR,2025/3,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -2291,11 +2291,11 @@ SDTTR,2025/3,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 SDTTR,2025/3,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 SDTTR,2025/3,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,-218130.0
 SDTTR,2025/3,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,-239206.0
-SDTTR,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,,363357.0
-SDTTR,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-SDTTR,2025/3,3HAB,Diğer Gelir ve Giderler,,0.0
+SDTTR,2025/3,3HA,Yatırım Faaliyetlerinden Gelirler,nan,363357.0
+SDTTR,2025/3,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SDTTR,2025/3,3HAB,Diğer Gelir ve Giderler,nan,0.0
 SDTTR,2025/3,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,150618.0
-SDTTR,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,295845.0
+SDTTR,2025/3,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,295845.0
 SDTTR,2025/3,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),2866468.0
 SDTTR,2025/3,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-4954141.0
 SDTTR,2025/3,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,363357.0
@@ -2355,7 +2355,7 @@ SDTTR,2025/6,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
 SDTTR,2025/6,1AC,Ticari Alacaklar,Short-Term Trade Receivables,11757964.0
 SDTTR,2025/6,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 SDTTR,2025/6,1AE,Diğer Alacaklar,Short-Term Other Receivables,595570.0
-SDTTR,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2025/6,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2025/6,1AF,Stoklar,Inventories,39073751.0
 SDTTR,2025/6,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 SDTTR,2025/6,1AH,Diğer Dönen Varlıklar,Other Current Assets,2282926.0
@@ -2365,13 +2365,13 @@ SDTTR,2025/6,1AK,Duran Varlıklar,LONG TERM ASSETS,17550785.0
 SDTTR,2025/6,1B,Ticari Alacaklar,Trade Receivables,0.0
 SDTTR,2025/6,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 SDTTR,2025/6,1BB,Diğer Alacaklar,Other Receivables,14395.0
-SDTTR,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2025/6,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2025/6,1BC,Finansal Yatırımlar,Financial Investments,239008.0
 SDTTR,2025/6,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,278591.0
 SDTTR,2025/6,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 SDTTR,2025/6,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 SDTTR,2025/6,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2025/6,1BFAA,Kullanım Hakkı Varlıkları,,561007.0
+SDTTR,2025/6,1BFAA,Kullanım Hakkı Varlıkları,nan,561007.0
 SDTTR,2025/6,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,5596047.0
 SDTTR,2025/6,1BGA,Şerefiye,Goodwill,0.0
 SDTTR,2025/6,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,2725430.0
@@ -2384,10 +2384,10 @@ SDTTR,2025/6,2AA,Finansal Borçlar,Short-Term Financial Loans,4672690.0
 SDTTR,2025/6,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2025/6,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,1848270.0
 SDTTR,2025/6,2AAGAB,Diğer Borçlar,Other Short-Term Loans,537520.0
-SDTTR,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+SDTTR,2025/6,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 SDTTR,2025/6,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 SDTTR,2025/6,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,13990687.0
+SDTTR,2025/6,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,13990687.0
 SDTTR,2025/6,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),37664.0
 SDTTR,2025/6,2AAGE,Borç Karşılıkları,Short-Term Provisions,1030016.0
 SDTTR,2025/6,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,1319524.0
@@ -2398,10 +2398,10 @@ SDTTR,2025/6,2BA,Finansal Borçlar,Long-Term Financial Loans,402709.0
 SDTTR,2025/6,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2025/6,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 SDTTR,2025/6,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+SDTTR,2025/6,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 SDTTR,2025/6,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 SDTTR,2025/6,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,1646501.0
+SDTTR,2025/6,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,1646501.0
 SDTTR,2025/6,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,667695.0
 SDTTR,2025/6,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 SDTTR,2025/6,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -2438,11 +2438,11 @@ SDTTR,2025/6,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 SDTTR,2025/6,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 SDTTR,2025/6,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,1813598.0
 SDTTR,2025/6,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,1548825.0
-SDTTR,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,,2546827.0
-SDTTR,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),,0.0
-SDTTR,2025/6,3HAB,Diğer Gelir ve Giderler,,0.0
+SDTTR,2025/6,3HA,Yatırım Faaliyetlerinden Gelirler,nan,2546827.0
+SDTTR,2025/6,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,0.0
+SDTTR,2025/6,3HAB,Diğer Gelir ve Giderler,nan,0.0
 SDTTR,2025/6,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,55758.0
-SDTTR,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,4416183.0
+SDTTR,2025/6,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,4416183.0
 SDTTR,2025/6,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),3354489.0
 SDTTR,2025/6,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-11262309.0
 SDTTR,2025/6,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,2546827.0
@@ -2502,7 +2502,7 @@ SDTTR,2025/9,1AB,Finansal Yatırımlar,Short-Term Financial Investments,0.0
 SDTTR,2025/9,1AC,Ticari Alacaklar,Short-Term Trade Receivables,14907223.0
 SDTTR,2025/9,1AD,Finans Sektörü Faaliyetlerinden Alacaklar,Short-Term Receivables from Financial Operations,0.0
 SDTTR,2025/9,1AE,Diğer Alacaklar,Short-Term Other Receivables,722071.0
-SDTTR,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2025/9,1AEA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2025/9,1AF,Stoklar,Inventories,41559645.0
 SDTTR,2025/9,1AG,Canlı Varlıklar,Short-Term Live Assets,0.0
 SDTTR,2025/9,1AH,Diğer Dönen Varlıklar,Other Current Assets,2606687.0
@@ -2512,13 +2512,13 @@ SDTTR,2025/9,1AK,Duran Varlıklar,LONG TERM ASSETS,24581750.0
 SDTTR,2025/9,1B,Ticari Alacaklar,Trade Receivables,0.0
 SDTTR,2025/9,1BA,Finans Sektörü Faaliyetlerinden Alacaklar,Long-Term Receivables from Financial Operations,0.0
 SDTTR,2025/9,1BB,Diğer Alacaklar,Other Receivables,13361.0
-SDTTR,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,,0.0
+SDTTR,2025/9,1BBA,Müşteri Sözleşmelerinden Doğan Varlıklar,nan,0.0
 SDTTR,2025/9,1BC,Finansal Yatırımlar,Financial Investments,240980.0
 SDTTR,2025/9,1BD,Özkaynak Yöntemiyle Değerlenen Yatırımlar,Investments with Equity Method,278086.0
 SDTTR,2025/9,1BE,Canlı Varlıklar,Long-Term Live Assets,0.0
 SDTTR,2025/9,1BF,Yatırım Amaçlı Gayrimenkuller,Real Estate Investments,0.0
 SDTTR,2025/9,1BFA,Stoklar,Stoklar,0.0
-SDTTR,2025/9,1BFAA,Kullanım Hakkı Varlıkları,,1539569.0
+SDTTR,2025/9,1BFAA,Kullanım Hakkı Varlıkları,nan,1539569.0
 SDTTR,2025/9,1BG,Maddi Duran Varlıklar,Tangible Fixed Assets,9518702.0
 SDTTR,2025/9,1BGA,Şerefiye,Goodwill,2237154.0
 SDTTR,2025/9,1BH,Maddi Olmayan Duran Varlıklar,Intangible Fixed Assets,3139467.0
@@ -2531,10 +2531,10 @@ SDTTR,2025/9,2AA,Finansal Borçlar,Short-Term Financial Loans,10318823.0
 SDTTR,2025/9,2AAG,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2025/9,2AAGAA,Ticari Borçlar,Short-Term Trade Payables,3717687.0
 SDTTR,2025/9,2AAGAB,Diğer Borçlar,Other Short-Term Loans,2045450.0
-SDTTR,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,,0.0
+SDTTR,2025/9,2AAGAC,Müşteri Söz. Doğan Yük.,nan,0.0
 SDTTR,2025/9,2AAGB,Finans Sektörü Faaliyetlerinden Borçlar,Short-Term Loans from Financial Operations,0.0
 SDTTR,2025/9,2AAGC,Devlet Teşvik ve Yardımları,Short-Term Government Promotions and Aids,0.0
-SDTTR,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),,12874421.0
+SDTTR,2025/9,2AAGCA,Ertelenmiş Gelirler (Müşteri Söz. Doğan Yük. Dış.Kal.),nan,12874421.0
 SDTTR,2025/9,2AAGD,Dönem Karı Vergi Yükümlülüğü,Taxation Liabilities on Income (-),0.0
 SDTTR,2025/9,2AAGE,Borç Karşılıkları,Short-Term Provisions,1124535.0
 SDTTR,2025/9,2AAGF,Diğer Kısa Vadeli Yükümlülükler,Other Short-Term Liabilities,2081383.0
@@ -2545,10 +2545,10 @@ SDTTR,2025/9,2BA,Finansal Borçlar,Long-Term Financial Loans,1635445.0
 SDTTR,2025/9,2BB,Diğer Finansal Yükümlülükler,Other Short-Term Financial Liabilities,0.0
 SDTTR,2025/9,2BBA,Ticari Borçlar,Long-Term Trade Payables,0.0
 SDTTR,2025/9,2BBB,Diğer Borçlar,Other Long-Term Loans,0.0
-SDTTR,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,,0.0
+SDTTR,2025/9,2BBBA,Müşteri Söz.Doğan Yük.,nan,0.0
 SDTTR,2025/9,2BC,Finans Sektörü Faaliyetlerinden Borçlar,Long-Term Loans from Financial Operations,0.0
 SDTTR,2025/9,2BD,Devlet Teşvik ve Yardımları,Long-Term Government Promotions and Aids,0.0
-SDTTR,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),,2658222.0
+SDTTR,2025/9,2BDA,Ertelenmiş Gelirler (Müşteri Söz.Doğan Yük. Dış.Kal.),nan,2658222.0
 SDTTR,2025/9,2BE,Uzun vadeli karşılıklar,Long-Term Provisions,971554.0
 SDTTR,2025/9,2BF,Çalışanlara Sağlanan Faydalara İliş.Karş.,Provisions for Retirment Pay,0.0
 SDTTR,2025/9,2BG,Ertelenmiş Vergi Yükümlülüğü,Deferred Tax Liabilities,0.0
@@ -2585,11 +2585,11 @@ SDTTR,2025/9,3DE,Diğer Faaliyet Giderleri (-),Expenses from Other Operations (-
 SDTTR,2025/9,3DEA,Faaliyet Karı Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Operating Profits,0.0
 SDTTR,2025/9,3DF,FAALİYET KARI (ZARARI),OPERATING PROFITS,7973227.0
 SDTTR,2025/9,3H,Net Faaliyet Kar/Zararı,Net Operating Profits,6494401.0
-SDTTR,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,,3006548.0
-SDTTR,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),,-482.0
-SDTTR,2025/9,3HAB,Diğer Gelir ve Giderler,,0.0
+SDTTR,2025/9,3HA,Yatırım Faaliyetlerinden Gelirler,nan,3006548.0
+SDTTR,2025/9,3HAA,Yatırım Faaliyetlerinden Giderler (-),nan,-482.0
+SDTTR,2025/9,3HAB,Diğer Gelir ve Giderler,nan,0.0
 SDTTR,2025/9,3HAC,Özkaynak Yöntemiyle Değerlenen Yatırımların Kar/Zararlarındaki Paylar,Profit (Loss) from Subsidiaries,48727.0
-SDTTR,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,,11028019.0
+SDTTR,2025/9,3HACA,Finansman Gideri Öncesi Faaliyet Karı/Zararı,nan,11028019.0
 SDTTR,2025/9,3HB,(Esas Faaliyet Dışı) Finansal Gelirler,Financial Income (from Other Operations),3584508.0
 SDTTR,2025/9,3HC,(Esas Faaliyet Dışı) Finansal Giderler (-),Financial Expenses (from Other Operations) (-),-15278537.0
 SDTTR,2025/9,3HCA,Vergi Öncesi Diğer Gelir ve Giderler,Other Income (Expenses) Before Tax,3006066.0

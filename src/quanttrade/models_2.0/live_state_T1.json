@@ -1,42 +1,42 @@
 {
-  "cash": 213.2946579999998,
+  "cash": 3.121110000002318,
   "positions": [
     {
-      "symbol": "TCELL",
-      "entry_price": 93.625,
-      "shares": 21,
-      "entry_date": "2025-11-18",
+      "symbol": "INDES",
+      "entry_price": 7.388,
+      "shares": 406,
+      "entry_date": "2025-11-25",
       "days_held": 1
     },
     {
-      "symbol": "ZOREN",
-      "entry_price": 3.265,
-      "shares": 612,
-      "entry_date": "2025-11-18",
+      "symbol": "KMPUR",
+      "entry_price": 14.602,
+      "shares": 205,
+      "entry_date": "2025-11-25",
       "days_held": 1
     },
     {
-      "symbol": "ENKAI",
-      "entry_price": 74.309,
-      "shares": 26,
-      "entry_date": "2025-11-18",
+      "symbol": "TRALT",
+      "entry_price": 37.708,
+      "shares": 79,
+      "entry_date": "2025-11-25",
       "days_held": 1
     },
     {
-      "symbol": "ASELS",
-      "entry_price": 187.996,
-      "shares": 10,
-      "entry_date": "2025-11-18",
+      "symbol": "GWIND",
+      "entry_price": 22.865,
+      "shares": 131,
+      "entry_date": "2025-11-25",
       "days_held": 1
     },
     {
-      "symbol": "AYDEM",
-      "entry_price": 18.434,
-      "shares": 108,
-      "entry_date": "2025-11-18",
+      "symbol": "HUNER",
+      "entry_price": 3.448,
+      "shares": 870,
+      "entry_date": "2025-11-25",
       "days_held": 1
     }
   ],
   "pending_buys": [],
-  "last_date": "2025-11-18"
+  "last_date": "2025-11-25"
 }
