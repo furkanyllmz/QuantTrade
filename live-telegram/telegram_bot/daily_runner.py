@@ -1,50 +1,63 @@
-# telegram_bot/daily_runner.py
-
+#!/usr/bin/env python3
+"""
+Daily runner for live portfolio - runs live_portfolio_manager.py and sends output to Telegram
+"""
 import os
 import sys
-from dotenv import load_dotenv
+import subprocess
+from pathlib import Path
+from telegram_notify import telegram_send
 
-# Proje kökünü sys.path'e ekle (live_engine ve telegram_bot'ı modül olarak görebilelim)
-CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
-ROOT_DIR = os.path.dirname(CURRENT_DIR)  # ...\live-telegram
-sys.path.append(ROOT_DIR)
-
-# .env yükle (gerekirse)
-load_dotenv()
-
-from telegram_bot.telegram_notify import telegram_send
-from live_engine import live_portfolio  # live_engine/live_portfolio.py
-
-
-def run_and_notify():
-    """
-    live_portfolio.main() fonksiyonunu çalıştırır,
-    dönen özet metni Telegram'a gönderir.
-    """
+def main():
+    """Run live portfolio manager and send results to Telegram"""
+    
+    # Get paths
+    script_dir = Path(__file__).parent
+    project_root = script_dir.parent.parent
+    portfolio_script = project_root / "src" / "quanttrade" / "models_2.0" / "live_portfolio_manager.py"
+    
+    if not portfolio_script.exists():
+        error_msg = f"❌ Portfolio manager script not found: {portfolio_script}"
+        print(error_msg)
+        telegram_send(error_msg)
+        return
+    
+    print(f"🚀 Running live portfolio manager: {portfolio_script}")
+    
     try:
-        summary_text = live_portfolio.main()
+        # Run live_portfolio_manager.py from its directory
+        result = subprocess.run(
+            [sys.executable, str(portfolio_script)],
+            cwd=str(portfolio_script.parent),
+            capture_output=True,
+            text=True,
+            timeout=300  # 5 minute timeout
+        )
+        
+        # Combine stdout and stderr
+        output = result.stdout
+        if result.stderr:
+            output += f"\n\nERRORS:\n{result.stderr}"
+        
+        if result.returncode == 0:
+            # Success - send output to Telegram
+            message = f"✅ Live Portfolio Manager - Başarılı\n\n{output}"
+            print(output)
+            telegram_send(message)
+        else:
+            # Failed - send error
+            error_msg = f"❌ Live Portfolio Manager - Hata (exit code: {result.returncode})\n\n{output}"
+            print(error_msg)
+            telegram_send(error_msg)
+            
+    except subprocess.TimeoutExpired:
+        timeout_msg = "❌ Live Portfolio Manager - Timeout (5 dakikadan uzun sürdü)"
+        print(timeout_msg)
+        telegram_send(timeout_msg)
     except Exception as e:
-        err_msg = f"⚠️ Live script hata verdi:\n{e}"
-        print(err_msg)
-        telegram_send(err_msg)
-        return
-
-    if not summary_text:
-        msg = "⚠️ Live script çalıştı ama summary döndürmedi."
-        print(msg)
-        telegram_send(msg)
-        return
-
-    # Telegram mesaj limiti için güvenlik payı
-    if len(summary_text) > 3800:
-        summary_text = summary_text[-3800:]
-
-    print("===== TELEGRAM'A GÖNDERİLEN METİN =====")
-    print(summary_text)
-    print("========================================")
-
-    telegram_send(summary_text)
-
+        error_msg = f"❌ Live Portfolio Manager - Beklenmeyen hata:\n{str(e)}"
+        print(error_msg)
+        telegram_send(error_msg)
 
 if __name__ == "__main__":
-    run_and_notify()
+    main()

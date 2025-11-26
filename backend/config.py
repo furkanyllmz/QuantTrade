@@ -12,13 +12,14 @@ class Settings(BaseSettings):
     # Telegram Bot
     telegram_bot_token: str = ""
     telegram_bot_username: str = "@quant_alpha_bot"
+    telegram_chat_id: str = ""  # Default chat ID for live-telegram bot
     
     # Backend Server
     backend_host: str = "0.0.0.0"
     backend_port: int = 8000
     cors_origins: str = "http://localhost:5173,http://localhost:3000,http://localhost:3001"
     
-    # Project Paths
+    # File paths (relative to project root)
     project_root: str = ".."
     live_state_path: str = "src/quanttrade/models_2.0/live_state_T1.json"
     live_equity_path: str = "src/quanttrade/models_2.0/live_equity_T1.csv"
@@ -28,6 +29,10 @@ class Settings(BaseSettings):
     
     # Telegram Subscribers
     subscribers_db_path: str = "backend/data/subscribers.json"
+    
+    # Live Telegram Bot
+    live_telegram_path: str = "live-telegram"
+    daily_runner_script: str = "live-telegram/telegram_bot/daily_runner.py"
     
     class Config:
         env_file = ".env"

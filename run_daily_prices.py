@@ -441,31 +441,12 @@ def main():
             "cmd": [PYTHON, "src/quanttrade/data_sources/isyatirim_ohlcv_downloader.py"],
             "validator": validate_ohlcv_raw,
         },
-        {
-            "name": "MALI_TABLO_RAW",
-            "cmd": [PYTHON, "src/quanttrade/data_sources/mali_tablo.py"],
-            "validator": validate_mali_tablo_raw,
-        },
-        {
-            "name": "BIST_DATA_COLLECTOR_ALL_PERIODS",
-            "cmd": [PYTHON, "src/quanttrade/data_sources/bist_data_collector_all_periods.py"],
-            "validator": validate_bist_financials_raw,
-        },
-        {
-            "name": "KAP_ANNOUNCEMENT_SCRAPER",
-            "cmd": [PYTHON, "src/quanttrade/data_sources/deneme.py"],
-            "validator": validate_announcements_raw,
-        },
-        {
-            "name": "SPLIT_RATIO_SCRAPER",
-            "cmd": [PYTHON, "src/quanttrade/data_sources/split_ratio.py"],
-            "validator": validate_split_raw,
-        },
-        {
-            "name": "TEMETTU_SCRAPER",
-            "cmd": [PYTHON, "src/quanttrade/data_sources/temettü_scraper.py"],
-            "validator": validate_dividends_raw,
-        },
+        
+       
+        
+        
+       
+        
 
         # --------------- DATA PROCESSING ---------------
         {

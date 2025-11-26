@@ -16,8 +16,34 @@ export const PipelineView: React.FC = () => {
   const [status, setStatus] = useState<'idle' | 'running' | 'completed' | 'failed'>('idle');
   const [logs, setLogs] = useState<LogEntry[]>([]);
   const [activeStep, setActiveStep] = useState<PipelineStep | null>(null);
+  const [lastLogLine, setLastLogLine] = useState<number>(0);
   const scrollRef = useRef<HTMLDivElement>(null);
   const pollIntervalRef = useRef<NodeJS.Timeout | null>(null);
+
+  // Load state from localStorage on mount
+  useEffect(() => {
+    const savedState = localStorage.getItem('pipelineState');
+    if (savedState) {
+      try {
+        const state = JSON.parse(savedState);
+        if (state.status === 'running') {
+          setStatus('running');
+          setLogs(state.logs || []);
+          setActiveStep(state.activeStep);
+          setLastLogLine(state.lastLogLine || 0);
+          // Auto-resume polling
+          pollLogsAndStatus();
+          pollIntervalRef.current = setInterval(pollLogsAndStatus, 2000);
+        } else if (state.status === 'completed' || state.status === 'failed') {
+          setStatus(state.status);
+          setLogs(state.logs || []);
+          setActiveStep(state.activeStep);
+        }
+      } catch (e) {
+        console.error('Failed to restore state:', e);
+      }
+    }
+  }, []);
 
   // Auto-scroll logs
   useEffect(() => {
@@ -25,6 +51,16 @@ export const PipelineView: React.FC = () => {
       scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
     }
   }, [logs]);
+
+  // Save state to localStorage whenever it changes
+  useEffect(() => {
+    localStorage.setItem('pipelineState', JSON.stringify({
+      status,
+      logs,
+      activeStep,
+      lastLogLine
+    }));
+  }, [status, logs, activeStep, lastLogLine]);
 
   // Cleanup polling on unmount
   useEffect(() => {
@@ -71,7 +107,7 @@ export const PipelineView: React.FC = () => {
     try {
       const [statusData, logsData] = await Promise.all([
         pipelineAPI.getStatus(),
-        pipelineAPI.getLogs()
+        pipelineAPI.getLogs(lastLogLine)
       ]);
 
       // Update status
@@ -104,10 +140,11 @@ export const PipelineView: React.FC = () => {
         }
       }
 
-      // Update logs
+      // Update logs incrementally
       if (logsData.logs && logsData.logs.trim()) {
         const newLogs = parseLogsFromBackend(logsData.logs);
-        setLogs(newLogs);
+        setLogs(prev => [...prev, ...newLogs]);
+        setLastLogLine(logsData.total_lines);
       }
     } catch (error) {
       console.error('Failed to poll logs/status:', error);
@@ -119,6 +156,7 @@ export const PipelineView: React.FC = () => {
 
     setStatus('running');
     setLogs([]);
+    setLastLogLine(0);
     setActiveStep('ingestion');
 
     try {

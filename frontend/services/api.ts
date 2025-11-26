@@ -49,8 +49,8 @@ export const pipelineAPI = {
     return response.json();
   },
 
-  getLogs: async (maxLines: number = 100) => {
-    const response = await fetch(`${API_BASE_URL}/api/pipeline/logs?max_lines=${maxLines}`);
+  getLogs: async (sinceLine: number = 0) => {
+    const response = await fetch(`${API_BASE_URL}/api/pipeline/logs?since_line=${sinceLine}`);
     if (!response.ok) throw new Error('Failed to fetch pipeline logs');
     return response.json();
   },
@@ -115,6 +115,12 @@ export const telegramAPI = {
       body: JSON.stringify(message),
     });
     if (!response.ok) throw new Error('Failed to broadcast message');
+    return response.json();
+  },
+
+  getMessages: async (limit: number = 50) => {
+    const response = await fetch(`${API_BASE_URL}/api/telegram/messages?limit=${limit}`);
+    if (!response.ok) throw new Error('Failed to fetch message history');
     return response.json();
   },
 };

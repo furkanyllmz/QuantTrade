@@ -2,12 +2,12 @@
 Pipeline API Routes
 """
 from fastapi import APIRouter, HTTPException
-from backend.models.schemas import (
+from models.schemas import (
     PipelineStatus, 
     PipelineRunRequest, 
     PipelineRunResponse
 )
-from backend.services.pipeline_service import pipeline_service
+from services.pipeline_service import pipeline_service
 
 router = APIRouter(prefix="/api/pipeline", tags=["pipeline"])
 
@@ -32,10 +32,10 @@ async def get_pipeline_status():
 
 
 @router.get("/logs")
-async def get_pipeline_logs(max_lines: int = 100):
-    """Get recent pipeline logs"""
+async def get_logs(since_line: int = 0):
+    """Get pipeline logs from specific line"""
     try:
-        logs = pipeline_service.get_logs(max_lines)
-        return {"logs": logs}
+        result = pipeline_service.get_logs(since_line=since_line)
+        return result
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
