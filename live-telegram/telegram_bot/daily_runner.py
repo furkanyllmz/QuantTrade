@@ -14,7 +14,7 @@ def main():
     # Get paths
     script_dir = Path(__file__).parent
     project_root = script_dir.parent.parent
-    portfolio_script = project_root / "src" / "quanttrade" / "models_2.0" / "live_portfolio_manager.py"
+    portfolio_script = project_root / "src" / "quanttrade" / "models_2.0" / "live_portfolio_v2.py"
     
     if not portfolio_script.exists():
         error_msg = f"❌ Portfolio manager script not found: {portfolio_script}"

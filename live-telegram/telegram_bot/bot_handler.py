@@ -216,7 +216,7 @@ async def trade_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         # Get portfolio script path
         script_dir = Path(__file__).parent
         project_root = script_dir.parent.parent
-        portfolio_script = project_root / "src" / "quanttrade" / "models_2.0" / "live_portfolio_manager.py"
+        portfolio_script = project_root / "src" / "quanttrade" / "models_2.0" / "live_portfolio_v2.py"
         
         if not portfolio_script.exists():
             summary = f"❌ Portfolio manager script bulunamadı"
@@ -250,6 +250,89 @@ async def trade_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await broadcast_message(context, summary)
 
 
+async def gpt_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Handle /gpt command - Show latest GPT analysis"""
+    chat_id = update.effective_chat.id
+    
+    try:
+        # Read latest GPT analysis from backend API
+        response = requests.get(
+            f"{BACKEND_API_URL}/api/gpt/analysis",
+            timeout=10
+        )
+        
+        if response.ok:
+            data = response.json()
+            
+            if not data.get("available"):
+                await update.message.reply_text(
+                    "❌ GPT analizi henüz mevcut değil.\n\n"
+                    "İlk analiz sabah 09:45'te çalışacak."
+                )
+                return
+            
+            analysis = data.get("data", {})
+            timestamp = analysis.get("timestamp", "N/A")
+            as_of_date = analysis.get("as_of_date", "N/A")
+            text = analysis.get("analysis", "")
+            
+            # Parse timestamp for display
+            try:
+                from datetime import datetime
+                dt = datetime.fromisoformat(timestamp)
+                time_str = dt.strftime("%d.%m.%Y %H:%M")
+            except:
+                time_str = timestamp
+            
+            # Telegram message limit is 4096 characters
+            MAX_LENGTH = 4000  # Leave some margin
+            
+            # Header message
+            header = f"""🤖 GPT Portfolio Analizi
+
+📅 Tarih: {as_of_date}
+🕒 Analiz: {time_str}
+"""
+            
+            # Send header first
+            await update.message.reply_text(header)
+            
+            # Split analysis text into chunks if needed
+            if len(text) > MAX_LENGTH:
+                # Split into chunks
+                chunks = []
+                current_chunk = ""
+                
+                for line in text.split('\n'):
+                    if len(current_chunk) + len(line) + 1 > MAX_LENGTH:
+                        chunks.append(current_chunk)
+                        current_chunk = line
+                    else:
+                        current_chunk += ('\n' if current_chunk else '') + line
+                
+                if current_chunk:
+                    chunks.append(current_chunk)
+                
+                # Send each chunk
+                for i, chunk in enumerate(chunks, 1):
+                    part_msg = f"📄 Bölüm {i}/{len(chunks)}\n\n{chunk}"
+                    await update.message.reply_text(part_msg)
+            else:
+                # Single message
+                await update.message.reply_text(text)
+        else:
+            await update.message.reply_text(
+                f"❌ GPT analizi alınamadı.\n\n"
+                f"Backend yanıtı: {response.status_code}"
+            )
+    except Exception as e:
+        print(f"Error fetching GPT analysis: {e}")
+        await update.message.reply_text(
+            "❌ Backend'e bağlanılamadı.\n\n"
+            "Lütfen daha sonra tekrar deneyin."
+        )
+
+
 def main():
     """Start the bot"""
     if not TELEGRAM_TOKEN:
@@ -268,6 +351,7 @@ def main():
     application.add_handler(CommandHandler("unsubscribe", unsubscribe_command))
     application.add_handler(CommandHandler("status", status_command))
     application.add_handler(CommandHandler("trade", trade_command))
+    application.add_handler(CommandHandler("gpt", gpt_command))
     
     print("✅ Bot hazır! Komutlar dinleniyor...")
     print("\n💡 Kullanılabilir komutlar:")
@@ -276,6 +360,7 @@ def main():
     print("   /unsubscribe - Aboneliği iptal et")
     print("   /status - Abone durumu")
     print("   /trade - Portfolio analizi çalıştır (Admin)")
+    print("   /gpt - Son GPT analizi göster")
     print("\n🔄 Bot çalışıyor... (Durdurmak için Ctrl+C)")
     
     # Start polling
