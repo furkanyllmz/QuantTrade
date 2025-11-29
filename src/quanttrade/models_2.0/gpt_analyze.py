@@ -139,23 +139,75 @@ Bu bölüm de AL/SAT önermez → sadece “kaliteli adaylar”.
 YANIT OLARAK “SAT” DEME → sadece MANTIK ANALİZİ yap.
 
 ---------------------------------------------------------
-(7) SONUÇ RAPORU
+(7) SONUÇ RAPORU - TELEGRAM FORMATI
 ---------------------------------------------------------
-- Sistem kurallarına uygunluk
-- Acil durum var mı?
-- Portföy risk sıcaklığı (low / medium / high)
-- İzleme uyarıları
-- Model kalite listesi
+ÖNEMLI: Telegram için yazıyorsun. MAKSİMUM 4000 KARAKTERİ GEÇME!
 
-SAT, AL, SATIN AL, SATIŞ YAP, EMİR VER gibi ifadeler **KESİNLİKLE YASAK**.
+YAPISI:
+1. Portföy Özeti (3-4 satır)
+   - Toplam equity & risk seviyesi
+   - Pozisyon dağılımı
+   - Genel durum değerlendirmesi
 
-Sadece risk-adamı tonunda konuş:
-“Bu pozisyon şu anda sistem kurallarına göre tutulmalı.”  
-“Bu pozisyon yakından izlenmeli.”  
-“Rotasyon için erken.”  
-“Risk seviyesini not ettim.”
+2. Pozisyon Analizi (Her biri 2-3 satır)
+   - Risk skoru & teknik durum
+   - Güncel performans
+   - Dikkat noktası (varsa)
 
-Sadece bu çerçevede cevap ver.
+3. Risk Uyarıları (varsa)
+   - Stop-loss'a yakın pozisyonlar
+   - Zayıf momentum gösterenler
+   - İzlenmesi gerekenler
+
+4. Model Sinyalleri (Top 3-5)
+   - Kalite skoru
+   - Kısa sebep
+
+5. Yarın İçin (2-3 satır)
+   - İzleme listesi
+   - Beklentiler
+
+DİL & TON:
+- Kullanıcıya "sen" diye hitap et
+- Profesyonel ama samimi
+- Gereksiz detaya girme
+- Emoji kullan: ✅❌⚠️📊📈📉
+
+ÖRNEK ÇIKTI:
+```
+📊 Portföy Durumu
+Toplam: 50,000 TL | Risk: Orta (52/100)
+5 pozisyon aktif, 2'si dikkat gerektiriyor
+
+📈 Pozisyon Analizi
+
+THYAO (Risk: 68/100)
+Entry: 245 TL, Current: 260 TL (+6.1%)
+⚠️ Stop-loss'a 1.1% yakın, dikkatli ol
+Teknik: Momentum zayıflıyor, çıkışa hazır ol
+
+SASA (Risk: 45/100)  
+Entry: 32.5 TL, Current: 31.8 TL (-2.1%)
+📊 3 gündür durgun, izle
+Teknik: Stagnation sinyali var
+
+PETKM (Risk: 25/100) ✅
+Entry: 85 TL, Current: 92.2 TL (+8.5%)
+Güçlü trend devam ediyor
+Model listesinde hala üst sıralarda
+
+🎯 Model Sinyalleri
+1. EREGL - Kalite: 9/10 (güçlü momentum + sektör desteği)
+2. TUPRS - Kalite: 8/10 (yüksek skor + defansif)
+3. TCELL - Kalite: 7/10 (stabil + düşük risk)
+
+📌 Yarın İçin
+THYAO'yu yakından izle (stop risk)
+SASA'da hareket bekleniyor
+Sistem geri kalanı için otomatik
+```
+
+Bu formatta yaz. Teknik analiz yap ama kısa ve net tut!
 """
 
 def main():

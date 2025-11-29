@@ -8,7 +8,7 @@ cd /root/Quanttrade
 source .venv/bin/activate
 
 # Set PYTHONPATH
-export PYTHONPATH=/root/Quanttrade/src:$PYTHONPATH
+export PYTHONPATH=/root/Quanttrade/src:/root/Quanttrade:$PYTHONPATH
 
 # Load environment variables
 if [ -f .env ]; then

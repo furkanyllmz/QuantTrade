@@ -40,6 +40,8 @@ Admin'e şu bilgileri iletin ya da `/subscribe` komutunu kullanın.
 /subscribe - Otomatik abone ol
 /unsubscribe - Aboneliği iptal et
 /status - Abone durumunu göster
+/trade - Portfolio analizi çalıştır (Admin)
+/gpt - Son GPT analizi göster
     """
     
     await update.message.reply_text(message, parse_mode='Markdown')

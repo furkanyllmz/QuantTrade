@@ -1,380 +1,539 @@
-# 🚀 QuantTrade - Advanced ML Trading System
-
-**Production-Ready AI Trading Platform for Turkish Stock Market (BIST)**
-
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![CatBoost](https://img.shields.io/badge/CatBoost-Latest-orange.svg)](https://catboost.ai/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-QuantTrade, akademik standartlarda geliştirilmiş, **Lopez de Prado'nun "Advances in Financial Machine Learning"** metodolojilerini uygulayan, production-ready bir algoritmik trading sistemidir.
-
-## 🎯 Proje Hedefi
-
-**Ana Hedefler:**
-- 📊 Makro ekonomik ve finansal verileri toplayarak veri pipeline'ı oluşturma
-- 🤖 Advanced ML modelleri ile yüksek performanslı tahmin sistemi
-- 📈 Non-overlap backtesting ile gerçekçi performans değerlendirmesi
-- 🎯 Production-ready tahmin ve sinyal üretim motoru
-- ⚡ Real-time trading capability
-
-**Sistem Özellikleri:**
-- ✅ **Triple Barrier Labeling** - Volatilite-bazlı hedef etiketleme
-- ✅ **Market Neutralization** - Piyasadan bağımsız alpha üretimi
-- ✅ **Purged Time Series CV** - Data leakage önleme
-- ✅ **CatBoost Ensemble** - High-performance gradient boosting
-- ✅ **Automated Backtesting** - Gerçekçi performans analizi
-- ✅ **Signal Generation** - Günlük alım-satım sinyalleri
-
-## 📊 Performans Metrikleri
-
-| Metrik | Değer | Açıklama |
-|--------|-------|----------|
-| **AUC Score** | 0.779 | Model ayrıştırma gücü |
-| **Precision** | 0.706 | Pozitif tahminlerin doğruluk oranı |
-| **Hit Rate (Top 5)** | 90% | En iyi 5 hissede kazanma oranı |
-| **Lift Factor** | 1.63x | Piyasayı geçme oranı |
-| **Sharpe Ratio** | 0.58 | Risk-adjusted getiri |
-| **Avg Return** | 94.87% | 120 günlük ortalama getiri |
-
-## 📁 Proje Yapısı
-
-```
-QuantTrade/
-├── README.md                          # Ana dokümantasyon
-├── config/
-│   ├── settings.toml                 # Proje ayarları
-│   └── kap_symbols_oids_mapping.json # KAP symbol mapping
-├── data/
-│   ├── master/
-│   │   ├── master_df.csv            # Ana veri seti
-│   │   └── master_df_metadata.json
-│   ├── features/                     # Feature store
-│   │   ├── fundamental/
-│   │   ├── macro/
-│   │   └── price/
-│   ├── processed/                    # İşlenmiş veriler
-│   └── raw/                          # Ham veriler
-├── src/quanttrade/
-│   ├── data_sources/                 # Veri kaynakları
-│   │   ├── evds_client.py           # TCMB EVDS API
-│   │   └── macro_downloader.py
-│   ├── data_processing/              # Veri işleme
-│   ├── feature_engineering/          # Feature engineering
-│   └── models/                       # 🎯 ML Modeller (Ana Sistem)
-│       ├── README.md                # Detaylı model dokümantasyonu
-│       ├── train_model_pipeline.py  # ✅ Eğitim pipeline'ı
-│       ├── prediction_engine.py     # ✅ Tahmin motoru
-│       ├── backtest_strategy.py     # ✅ Backtest sistemi
-│       ├── test_model.py            # Model test
-│       ├── results/                 # Model sonuçları
-│       ├── model_results/           # Kaydedilmiş modeller
-│       ├── signals/                 # Günlük sinyaller
-│       └── backtest_results/        # Backtest raporları
-├── docs/                            # Dokümantasyon
-│   ├── EVDS_KULLANIM.md
-│   └── GUNCELLEME_OZETI.md
-└── logs/                            # Log dosyaları
-```
-
-## 🚀 Hızlı Başlangıç
-
-### 1. Kurulum
-
-```bash
-# Depoyu klonlayın
-git clone https://github.com/aleynatasdemir/QuantTrade.git
-cd QuantTrade
-
-# Sanal ortam oluşturun
-python -m venv .venv
-source .venv/bin/activate  # Mac/Linux
-# veya .venv\Scripts\activate  # Windows
-
-# Bağımlılıkları yükleyin
-pip install pandas numpy scikit-learn catboost joblib matplotlib seaborn
-```
-
-### 2. Model Eğitimi
-
-```bash
-cd src/quanttrade/models
-python3 train_model_pipeline.py
-```
-
-**Çıktı:**
-- ✅ Eğitilmiş CatBoost modeli
-- ✅ Feature neutralizer
-- ✅ CV sonuçları ve metrikler
-- 📊 Out-of-fold performans raporu
-
-### 3. Tahmin Üretimi
-
-```bash
-python3 prediction_engine.py
-```
-
-**Çıktı:**
-- 📊 Güncel piyasa için tahminler
-- 🎯 Alım sinyalleri (BUY/HOLD)
-- 📈 Skor ve rank listesi
-- 💾 CSV formatında kayıt
-
-### 4. Backtest
-
-```bash
-python3 backtest_strategy.py
-```
-
-**Çıktı:**
-- 📈 Equity curve grafiği
-- 📊 Performans metrikleri
-- 💹 Trade-by-trade sonuçlar
-- 📉 Risk analizi
-
-## 📊 Kullanım Örnekleri
-
-### Veri Pipeline
-
-```python
-from quanttrade.data_sources.evds_client import EVDSClient
-
-# EVDS'ten makro veri çekme
-client = EVDSClient()
-df = client.fetch_and_save_default_macro()
-```
-
-### Model Eğitimi
-
-```python
-from train_model_pipeline import QuantModelTrainer
-
-trainer = QuantModelTrainer(
-    data_path='master_df.csv',
-    results_dir='model_results'
-)
-trainer.run_pipeline()
-```
-
-### Tahmin Yapma
-
-```python
-from prediction_engine import ModelTester
-
-tester = ModelTester(
-    model_path='model_results/catboost_final_*.cbm',
-    data_path='master_df.csv'
-)
-results, top_picks = tester.run_analysis(top_n=20)
-```
-
-### Backtest
-
-```python
-from backtest_strategy import main
-
-# Non-overlap backtest çalıştır
-main()  # Otomatik olarak en son modeli kullanır
-```
-
-## 🧠 Sistem Detayları
-
-### Triple Barrier Labeling
-
-Geleneksel "120 gün sonra %X getiri" yerine volatilite-bazlı etiketleme:
-
-```python
-# Her gün için 3 bariyer:
-upper_barrier = price * (1 + 1.5 * volatility)  # Kar al
-lower_barrier = price * (1 - 1.0 * volatility)  # Zarar kes
-time_barrier = 120 days                          # Max süre
-
-# İlk dokunan bariyer label'ı belirler:
-# +1: Upper barrier (kazanç)
-# -1: Lower barrier (zarar)
-#  0: Time barrier (nötr)
-```
-
-### Market Neutralization
-
-Tüm feature'lar BIST100 getirisine karşı nötralize ediliyor:
-
-```python
-# Her feature için:
-feature_residual = feature - beta * market_return
-
-# Beta, lineer regresyon ile hesaplanır
-# Sonuç: Piyasadan bağımsız, pure alpha
-```
-
-### Purged Time Series CV
-
-Data leakage'ı önlemek için özel CV:
-
-```
-Timeline:
-[---Train---|PURGE|Test|EMBARGO|---Train---|...]
-            ↑     ↑    ↑       ↑
-            80    100  120     125
-
-PURGE: Test öncesi 20 gün çıkarılır
-EMBARGO: Test sonrası %5 çıkarılır
-```
-
-## 📈 Model Performansı
-
-### Cross-Validation Sonuçları
-
-```
-Fold 1/5: AUC = 0.777
-Fold 2/5: AUC = 0.760
-Fold 3/5: AUC = 0.771
-Fold 4/5: AUC = 0.803
-Fold 5/5: AUC = 0.783
-----------------------------
-Mean AUC: 0.779 ± 0.015
-```
-
-### Score Bucket Analizi
-
-| Score Range | Hit Rate | Mean Return |
-|-------------|----------|-------------|
-| >90% | 92.9% | 63.5% |
-| 70-80% | 79.7% | 63.8% |
-| 40-50% | 43.9% | 64.1% |
-| <10% | 3.4% | 25.5% |
-
-**Yorum:** Model skorları ile gerçek performans arasında güçlü korelasyon var. Model well-calibrated.
-
-### Backtest Sonuçları
-
-**12 Trade Dönemi (3.7 yıl):**
-- 📊 Ortalama Strateji Getirisi: **94.87%**
-- 📉 Ortalama Piyasa Getirisi: **58.12%**
-- 🚀 Lift Factor: **1.63x**
-- 📈 Sharpe Ratio: **0.58**
-- 🎯 Win Rate: **83%** (10/12)
-
-## 🛠️ Teknoloji Stack
-
-**Core:**
-- Python 3.11+
-- CatBoost - Gradient boosting
-- Scikit-learn - ML utilities
-- Pandas/NumPy - Data manipulation
-
-**Data Sources:**
-- TCMB EVDS - Makro ekonomik veriler
-- Yahoo Finance - Hisse senedi verileri
-- KAP - Finansal tablolar
-
-**Advanced Techniques:**
-- Triple Barrier Labeling
-- Market Neutralization
-- Purged CV
-- Non-overlap Backtesting
-
-## 📋 Tamamlanan Özellikler
-
-### ✅ Veri Altyapısı
-- [x] EVDS API entegrasyonu
-- [x] Yahoo Finance veri çekimi
-- [x] KAP mali tablo verileri
-- [x] Master DataFrame oluşturma
-- [x] Feature store yapısı
-
-### ✅ Feature Engineering
-- [x] Teknik indikatörler (RSI, MACD, SMA, volatilite)
-- [x] Fundamental features (ROE, ROA, P/E, Debt/Equity)
-- [x] Makro features (USD/TRY, CPI, faiz, M2)
-- [x] Feature neutralization (market beta removal)
-
-### ✅ ML Pipeline
-- [x] Triple barrier labeling
-- [x] Purged time series CV
-- [x] CatBoost model training
-- [x] Feature neutralization
-- [x] Model evaluation & metrics
-
-### ✅ Production Systems
-- [x] Prediction engine (daily signals)
-- [x] Backtest framework (non-overlap)
-- [x] Model persistence & loading
-- [x] Signal generation & CSV export
-
-### ✅ Documentation
-- [x] Comprehensive README
-- [x] Model documentation
-- [x] API reference
-- [x] Usage examples
-
-## 🚧 Gelecek Geliştirmeler
-
-### Öncelikli
-- [ ] Real-time data pipeline
-- [ ] Model monitoring dashboard
-- [ ] Automated retraining
-- [ ] A/B testing framework
-
-### Gelişmiş Özellikler
-- [ ] Deep learning models (LSTM, Transformer)
-- [ ] Alternative data sources (sentiment, options)
-- [ ] Portfolio optimization
-- [ ] Risk management (VaR, CVaR)
-- [ ] Multi-timeframe analysis
-
-### Production
-- [ ] API endpoint (Flask/FastAPI)
-- [ ] Docker containerization
-- [ ] CI/CD pipeline
-- [ ] Cloud deployment (AWS/GCP)
-
-## 🤝 Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Lütfen:
-1. Bu depoyu fork edin
-2. Feature branch'i oluşturun (`git checkout -b feature/AmazingFeature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add some AmazingFeature'`)
-4. Branch'inizi push edin (`git push origin feature/AmazingFeature`)
-5. Pull Request açın
-
-## 📚 Referanslar
-
-**Akademik:**
-- Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley.
-- Lopez de Prado, M. (2020). *Machine Learning for Asset Managers*. Cambridge.
-- Jansen, S. (2020). *Machine Learning for Algorithmic Trading* (2nd ed.). Packt.
-
-**Linkler:**
-- [CatBoost Documentation](https://catboost.ai/)
-- [EVDS API](https://evds2.tcmb.gov.tr/)
-- [Detailed Model Documentation](src/quanttrade/models/README.md)
-
-## ⚠️ Disclaimer
-
-**Bu sistem sadece eğitim ve araştırma amaçlıdır.**
-
-- ❌ Yatırım tavsiyesi değildir
-- ❌ Gelecek performans garantisi yoktur
-- ❌ Geçmiş performans gelecek performansı göstermez
-- ⚠️ Gerçek para ile kullanmadan önce kapsamlı test yapın
-- ⚠️ Riski göze alabileceğiniz kadar yatırım yapın
-- ⚠️ Profesyonel danışmanlık alın
-
-**Yasal Sorumluluk:**
-Bu sistemin kullanımından doğan hiçbir kayıp veya zararda geliştirici sorumlu tutulamaz.
-
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
-
-## 📧 İletişim
-
-- 💬 GitHub Issues
-- 📝 Pull Requests
-- 📧 Email: quanttrade@example.com
+# QuantTrade - Algorithmic Trading Platform
+
+**Systematic Momentum Strategy** for BIST-100 stocks with ML-driven portfolio management, automated execution, and AI-powered risk analysis.
+
+## 📊 Overview
+
+QuantTrade is a complete algorithmic trading system that:
+- Fetches daily market data (prices, fundamentals, macro indicators)
+- Trains ML models to rank stocks by momentum potential
+- Manages a live portfolio with strict risk controls (T+1, max 5 positions, 5% stop-loss)
+- Provides AI-powered portfolio analysis via GPT
+- Sends automated Telegram reports and handles on-demand queries
+- Offers a real-time web dashboard for monitoring
 
 ---
 
-**⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!**
+## 🏗️ Architecture
 
-**Happy Trading! 🚀📈💰**
+### System Architecture
+
+![Architecture Diagram](architecture.png)
+
+### System Components
+
+
+### Data Flow
+
+```
+1. Data Collection (19:00 daily)
+   ├─ EVDS API → Macro indicators (interest rates, inflation)
+   ├─ İş Yatırım API → Stock OHLCV data
+   └─ Mali Tablo API → Fundamental data
+
+2. Feature Engineering
+   ├─ Technical indicators (momentum, volatility, trends)
+   ├─ Sector normalization
+   └─ Risk signals (stagnation, relative strength)
+
+3. Model Training (Sunday 16:00)
+   ├─ Train CatBoost classifier
+   ├─ Sector-aware feature scaling
+   └─ Save model + metadata
+
+4. Portfolio Management (19:30 daily)
+   ├─ Execute pending buy orders (T+1)
+   ├─ Apply stop-loss rules (intraday)
+   ├─ Plan exits (performance, time, stagnation)
+   ├─ Generate new buy signals (top 5 momentum)
+   └─ Save state: live_state_T1.json
+
+5. GPT Analysis (19:45 daily)
+   ├─ Read portfolio snapshot
+   ├─ Call OpenAI GPT-4 API
+   ├─ Risk scoring (0-100) per position
+   ├─ Format for Telegram (<4000 chars)
+   └─ Save: gpt_analysis_latest.json
+
+6. Telegram Broadcast (19:50 daily)
+   ├─ Portfolio summary
+   ├─ GPT analysis
+   └─ Send to all subscribers
+```
+
+---
+
+## 📁 Project Structure
+
+```
+QuantTrade/
+├── backend/                    # FastAPI backend
+│   ├── api/routes/            # API endpoints
+│   │   ├── portfolio.py       # Portfolio state, equity, trades
+│   │   ├── pipeline.py        # Data pipeline control
+│   │   ├── telegram.py        # Telegram broadcast
+│   │   └── gpt.py            # GPT analysis API
+│   ├── services/              # Business logic
+│   │   ├── portfolio_service.py
+│   │   ├── pipeline_service.py
+│   │   ├── gpt_service.py
+│   │   └── telegram_service.py
+│   ├── models/                # Data models
+│   │   ├── schemas.py         # Pydantic schemas
+│   │   └── database.py        # SQLite (optional)
+│   ├── config.py              # Settings
+│   └── main.py               # FastAPI app
+
+├── frontend/                   # React dashboard
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── StatsGrid.tsx        # Portfolio metrics
+│   │   │   ├── PositionsTable.tsx   # Active positions
+│   │   │   ├── EquityChart.tsx      # Equity curve
+│   │   │   ├── GPTAnalysis.tsx      # AI analysis modal
+│   │   │   └── PipelineView.tsx     # Pipeline control
+│   │   ├── services/api.ts          # API client
+│   │   └── App.tsx                  # Main app
+│   └── package.json
+
+├── live-telegram/              # Telegram bot
+│   ├── telegram_bot/
+│   │   ├── bot_handler.py     # Command handlers
+│   │   └── telegram_notify.py # Notification utility
+│   ├── gpt_daily_sender.py    # Daily GPT broadcast
+│   └── portfolio_daily_sender.py  # Portfolio broadcast
+
+├── src/quanttrade/            # Trading engine
+│   ├── data_sources/
+│   │   ├── evds_client.py     # Turkish Central Bank API
+│   │   ├── isyatirim_ohlcv.py # Stock price data
+│   │   └── mali_tablo.py      # Financial statements
+│   ├── models_2.0/
+│   │   ├── live_portfolio_v2.py    # Portfolio manager (T+1)
+│   │   ├── gpt_snapshot.py         # Portfolio snapshot
+│   │   ├── gpt_analyze.py          # GPT-4 analysis
+│   │   └── train_model.py          # ML model training
+│   └── config.py              # Data pipeline config
+
+├── scripts/                    # Cron job scripts
+│   ├── cron_daily_data.sh     # 19:00 - Data download
+│   ├── cron_portfolio_v2.sh   # 19:30 - Portfolio update
+│   ├── cron_portfolio_telegram.sh  # 19:35 - Portfolio report
+│   ├── cron_gpt_snapshot.sh   # 19:40 - GPT snapshot
+│   ├── cron_gpt_analyze.sh    # 19:45 - GPT analysis
+│   ├── cron_gpt_telegram.sh   # 19:50 - GPT broadcast
+│   ├── cron_full_pipeline.sh  # Sunday 16:00 - Full pipeline
+│   └── crontab.txt            # Crontab template
+
+├── data/master/               # Master dataset
+│   └── master_df.csv          # All features + labels
+
+├── .env                       # Environment variables
+├── requirements.txt           # Python dependencies
+├── ecosystem.config.js        # PM2 configuration
+└── README.md                  # This file
+```
+
+---
+
+## 🚀 Features
+
+### 1. Portfolio Management (V2)
+- **T+1 Execution**: Buy/sell orders execute at next day's open
+- **Max 5 Positions**: Concentration risk control
+- **5% Stop-Loss**: Automatic risk cut (intraday execution)
+- **Momentum Strategy**: ML-ranked top signals
+- **Exit Rules**:
+  - Performance failure (relaxed: 8 days + weak RS)
+  - Stagnation (3+ days dormant)
+  - Time exit (20 days max hold)
+  - Model take-profit (+10% and no longer top-ranked)
+
+### 2. ML Model (CatBoost)
+- **Binary Classifier**: Predicts 20-day forward returns > threshold
+- **Features**: 50+ technical + fundamental + macro indicators
+- **Sector Normalization**: Standardizes features by sector
+- **Training**: Weekly (Sunday 16:00) on historical data
+- **Backtested**: ~50% annual return (T+1, costs included)
+
+### 3. GPT Analysis
+- **OpenAI GPT-4**: Portfolio risk analysis
+- **Risk Scoring**: 0-100 per position (momentum, stagnation, stop-loss proximity)
+- **System Compliance**: Checks rule adherence
+- **Telegram-Optimized**: <4000 chars, emoji-rich, user-friendly
+- **No Trade Signals**: Only risk assessment & monitoring
+
+### 4. Telegram Bot
+**Commands:**
+- `/start` - Welcome & chat ID
+- `/subscribe` - Auto-subscribe to reports
+- `/unsubscribe` - Unsubscribe
+- `/status` - Check subscription
+- `/gpt` - Latest GPT analysis
+- `/trade` - Run portfolio manager (admin only)
+
+**Auto Reports (19:50 daily):**
+- Portfolio summary (positions, P&L, pending orders)
+- GPT risk analysis (formatted for Telegram)
+
+### 5. Web Dashboard
+- **Portfolio Metrics**: Equity, cash, positions, daily return
+- **Positions Table**: Live P&L, entry/current prices
+- **Equity Chart**: Historical equity curve
+- **GPT Analysis Modal**: AI insights (auto-refresh every 5 min)
+- **Pipeline Control**: Start/stop data pipeline, view logs
+
+---
+
+## ⚙️ Technology Stack
+
+### Backend
+- **FastAPI** - High-performance async API
+- **Pydantic** - Data validation
+- **Python 3.10+** - Core language
+- **Uvicorn** - ASGI server
+
+### Frontend
+- **React 18** - UI framework
+- **Vite** - Build tool
+- **TypeScript** - Type safety
+- **Tailwind CSS** - Styling
+- **Recharts** - Data visualization
+- **Lucide React** - Icons
+
+### ML & Data
+- **CatBoost** - Gradient boosting
+- **Pandas** - Data manipulation
+- **NumPy** - Numerical computing
+- **Scikit-learn** - ML utilities
+
+### Telegram
+- **python-telegram-bot** - Bot framework
+- **Asyncio** - Async handlers
+
+### AI
+- **OpenAI GPT-4** - Portfolio analysis
+- **LangChain** (optional) - Prompt engineering
+
+### DevOps
+- **PM2** - Process manager
+- **Nginx** - Reverse proxy
+- **Cron** - Job scheduler
+- **Git** - Version control
+
+---
+
+## 📦 Installation
+
+### Prerequisites
+- Python 3.10+
+- Node.js 18+
+- Git
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/yourusername/QuantTrade.git
+cd QuantTrade
+```
+
+### 2. Backend Setup
+```bash
+# Create virtual environment
+python3 -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Configure environment
+cp .env.example .env
+# Edit .env with your API keys
+```
+
+### 3. Frontend Setup
+```bash
+cd frontend
+npm install
+```
+
+### 4. Environment Variables
+
+Edit `.env`:
+```bash
+# OpenAI
+OPENAI_API_KEY=sk-proj-...
+
+# Telegram
+TELEGRAM_BOT_TOKEN=123456789:ABC...
+TELEGRAM_BOT_USERNAME=@your_bot
+
+# APIs
+EVDS_API_KEY=your_evds_key
+BACKEND_API_URL=http://localhost:8000
+
+# Frontend
+VITE_API_URL=http://localhost:8000
+```
+
+---
+
+## 🎯 Usage
+
+### Local Development
+
+**Start Backend:**
+```bash
+cd backend
+python3 main.py
+# Runs on http://localhost:8000
+```
+
+**Start Frontend:**
+```bash
+cd frontend
+npm run dev
+# Runs on http://localhost:3000
+```
+
+**Start Telegram Bot:**
+```bash
+cd live-telegram/telegram_bot
+python3 bot_handler.py
+```
+
+### Run Pipeline Manually
+```bash
+# Download daily data
+python3 run_daily_prices.py
+
+# Update portfolio
+python3 src/quanttrade/models_2.0/live_portfolio_v2.py
+
+# Generate GPT analysis
+cd src/quanttrade/models_2.0
+python3 gpt_snapshot.py
+python3 gpt_analyze.py
+```
+
+---
+
+## 🌐 VDS Deployment
+
+### 1. Copy Files to VDS
+```bash
+scp -r QuantTrade root@your_vds_ip:/root/
+```
+
+### 2. Install Dependencies
+```bash
+ssh root@your_vds_ip
+cd /root/QuantTrade
+
+# Python
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+# Node.js
+cd frontend
+npm install
+npm run build
+```
+
+### 3. Configure Environment
+```bash
+# Set timezone
+sudo timedatectl set-timezone Europe/Istanbul
+
+# Create log directory
+sudo mkdir -p /var/log/quanttrade
+
+# Make scripts executable
+chmod +x scripts/cron_*.sh
+```
+
+### 4. Setup PM2
+```bash
+# Install PM2
+npm install -g pm2
+
+# Start services
+pm2 start ecosystem.config.js
+
+# Save configuration
+pm2 save
+pm2 startup
+```
+
+### 5. Setup Cron Jobs
+```bash
+crontab -e
+# Copy contents from scripts/crontab.txt
+```
+
+### 6. Configure Nginx
+```nginx
+server {
+    listen 80;
+    server_name your_domain.com;
+
+    # API proxy
+    location /api/ {
+        proxy_pass http://localhost:8000;
+        proxy_set_header Host $host;
+    }
+
+    # Frontend
+    location / {
+        root /root/QuantTrade/frontend/dist;
+        try_files $uri /index.html;
+    }
+}
+```
+
+---
+
+## 📅 Daily Workflow
+
+**Automated Schedule (Turkey Time):**
+
+| Time  | Task | Script |
+|-------|------|--------|
+| **Sunday 16:00** | Full Pipeline (Data + ML Training) | `cron_full_pipeline.sh` |
+| **19:00** | Daily Data Download | `cron_daily_data.sh` |
+| **19:30** | Portfolio V2 Update | `cron_portfolio_v2.sh` |
+| **19:35** | Portfolio Report → Telegram | `cron_portfolio_telegram.sh` |
+| **19:40** | GPT Snapshot | `cron_gpt_snapshot.sh` |
+| **19:45** | GPT Analysis | `cron_gpt_analyze.sh` |
+| **19:50** | GPT Report → Telegram | `cron_gpt_telegram.sh` |
+
+---
+
+## 🔐 Security
+
+- **API Keys**: Stored in `.env` (gitignored)
+- **Telegram Auth**: Admin-only commands (hardcoded chat IDs)
+- **CORS**: Frontend domain whitelisted
+- **No Public Trades**: GPT provides analysis, not signals
+
+---
+
+## 📊 Performance Metrics
+
+**Backtest Results (Live Portfolio V2):**
+- **Strategy**: Momentum-based, ML-ranked top 5
+- **Period**: 2020-2024
+- **Annual Return**: ~50%
+- **Max Drawdown**: ~18%
+- **Sharpe Ratio**: ~2.1
+- **Win Rate**: 58%
+- **Costs**: 0.2% commission, 1% slippage included
+
+*Past performance ≠ future results*
+
+---
+
+## 🛠️ Maintenance
+
+### View Logs
+```bash
+# Cron logs
+tail -f /var/log/quanttrade/*.log
+
+# PM2 logs
+pm2 logs quanttrade-backend
+pm2 logs telegram-bot
+```
+
+### Restart Services
+```bash
+pm2 restart quanttrade-backend
+pm2 restart telegram-bot
+pm2 restart quanttrade-frontend
+```
+
+### Update Code
+```bash
+cd /root/QuantTrade
+git pull
+pip install -r requirements.txt
+pm2 restart all
+```
+
+---
+
+## 🐛 Troubleshooting
+
+### Backend Not Starting
+```bash
+# Check logs
+pm2 logs quanttrade-backend
+
+# Verify .env
+cat .env | grep API_KEY
+
+# Test manually
+cd backend
+python3 main.py
+```
+
+### Telegram Bot Not Responding
+```bash
+# Check PM2 status
+pm2 status telegram-bot
+
+# Verify token
+echo $TELEGRAM_BOT_TOKEN
+
+# Restart
+pm2 restart telegram-bot
+```
+
+### Cron Jobs Not Running
+```bash
+# Check crontab
+crontab -l
+
+# Verify script permissions
+ls -la scripts/cron_*.sh
+
+# Test manually
+bash scripts/cron_gpt_telegram.sh
+```
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit changes (`git commit -m 'Add AmazingFeature'`)
+4. Push to branch (`git push origin feature/AmazingFeature`)
+5. Open Pull Request
+
+---
+
+## 📄 License
+
+This project is proprietary software. All rights reserved.
+
+---
+
+## 📞 Contact
+
+- **Developer**: Furkan Yılmaz
+- **Telegram**: @quant_trade_robot
+- **Email**: furkanyl509.com
+il.com
+---
+
+## 🙏 Acknowledgments
+
+- **EVDS API** - Turkish Central Bank data
+- **İş Yatırım** - BIST stock prices
+- **OpenAI** - GPT-4 analysis engine
+- **CatBoost Team** - ML framework
+
+---
+
+**⚠️ Disclaimer**: This is an algorithmic trading system. Trading involves risk of loss. Use at your own discretion. No guarantees of profitability.
