@@ -19,7 +19,7 @@ QuantTrade is a complete algorithmic trading system that:
 ### System Architecture
 
 
-![Architecture Diagram](architecture.png)
+![Architecture Schema](architecture.png)
 
 ### System Components
 
